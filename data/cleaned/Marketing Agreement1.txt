@@ -1,0 +1,483 @@
+vertex energy, inc. 8-k
+exhibit 10.1
+the symbol “[]” denotes places where certain identified
+information has been excluded from the exhibit because it is both (i)
+not material, and (ii) would likely cause competitive harm to the
+company if publicly disclosed
+joint supply and marketing agreement
+this joint supply and marketing agreement (hereinafter referred to as the ”jsma") shall be effective as of may 1, 2020 “the commencement
+date” and is made and entered into this 10th day of january, 2020 between bunker one (usa) inc., with principal offices located at 107 st.
+francis street, mobile, al 36602 (”bunker one"), and vertex energy operating, llc, with principal offices located at 1331 gemini suite 250,
+houston, tx 77058 ("vertex"). bunker one and vertex are hereinafter sometimes referred to as a party or jointly as parties.
+whereas:
+a. vertex currently owns a production facility in marrero, la which has the capacity to produce 100,000 bbls/mo. +/- 10 of a
+feedstock/product (the “output”) that can be consumed as bunker suitable fuel for offshore use and use as a marine vessel's
+propulsion system. see appendix a for qualities of the feedstock/product (the “product”).
+b. bunker one being a physical supplier of bunker fuel having blending expertise being able to utilize the product together with
+associated physical assets for storage and transportation, leased and owned real property, tangible and intangible personal property,
+personnel, intellectual prop- erty and know-how (collectively the “bunkering business”).
+c. pursuant to the terms of a co-operation agreement that went into effect on october 15, 2017 (the “original cooa”), which
+addressed the sourcing, storing, transportation, marketing and selling of the product in the states of louisiana and texas, vertex agreed
+to sell, and bunker one agreed to purchase, the output (as defined in the above) each month. by virtue of entering into this jsma the
+parties intend to continue the activities previously conducted pursuant to the original cooa and expand thereon as more particularly
+hereinbelow set forth.
+d. the overall objective of the original cooa was to give the parties the opportunity to further expand their business by co-operating
+in the sourcing, storing, transportation, marketing and selling of the product in and around louisiana and texas, where
+(i) vertex was primarily responsible for the sourcing and storing of the feedstock product,
+(ii) bunker one was primarily responsible for the transporting, blending, marketing, selling and delivering of the product,
+(iii) bunker one was responsible for the risk management/exposure (e.g. hedging) of the bunker fuels, and
+(iv) bunker one was the exclusive seller of the product to third parties.
+e. the parties wish to amend and restate the original cooa as a jsma to extend the term, provide for the inclusion of new and existing
+businesses and territories not previously included in the original cooa, and to address certain governance issues, all as more
+particularly hereinbelow provided.
+source: vertex energy inc., 8-k, 1/13/2020
+the parties hereto hereby agree as follows:
+1.
+definitions.
+“area” means texas, louisiana, alabama and areas immediately adjacent thereto if mutually agreed.
+“bunker holding”, a danish holding company and sole shareholder of bunker one (usa) inc..
+“business day” means any day except a saturday, sunday, or a federal reserve bank holiday. a business day shall open at 8:00a.m.
+and close at 5:00p.m. houston, texas, time.
+“jsma output” has the meaning ascribed thereto in section 2.1.
+“effective date” means the date as of which the last signature of a party is affixed hereto.
+“fiscal year” shall mean the period beginning with may 1st in each calendar year and ending on the next succeeding april 30th.
+“hedge position value” means the then current settlement value of any and all open hedge transactions entered into by bunker one as
+determined by bunker one on a mark-to-market basis in a commercially reasonable manner.
+“hedging profit” means the greater of zero and the net gain on all hedging transactions closed and settled during the applicable
+tracking account reporting or settlement period, including any interest received by bunker one with respect to any margin deposits
+made by bunker one with any hedge transaction counterparties exclusive of any such amount in excess of that which would be taken
+into account by parties dealing at arm’s length on a commercial basis.
+“hedging loss” means the lesser of zero and the net loss on all hedging transactions closed and settled during the applicable tracking
+account reporting or settlement period, including any in- terest received by bunker one with respect to any margin deposits made by
+bunker one with any hedge transaction counterparties exclusive of any such amount in excess of that which would be taken into
+account by parties dealing at arm’s length on a commercial basis.
+“interest rate” means (a) with respect to a non-defaulting party, a per annum rate of interest equal to usd 1m libor as per the last
+fixing of the preceding month + 3.5 per cent pro anno (compounded monthly for each month or part thereof) and (b) with respect to a
+defaulting party, a per annum rate of interest equal to 5 over the rate mentioned above in (a), provided, how- ever, that the rate set
+forth in (a) shall be adjusted by the parties annually at the last meeting of the jdmb (as such term is defined in the heads of agreement
+entered into between the parties as of january 10, 2020.
+“inventory” shall mean the product purchased by bunker one pursuant to this agreement.
+“inventory cost” shall mean the amount paid by bunker one to vertex for the inventory.
+source: vertex energy inc., 8-k, 1/13/2020
+“inventory market value” shall mean the then current market value of inventory as determined by bunker one on a mark-to-market
+basis in a commercially reasonable manner.
+“inventory resale transaction(s)” shall mean any sale by bunker one to a third party of the inventory whether or not the inventory is
+sold in the original condition delivered to bunker one or is blended by bunker one into a different product.
+“nomination” shall be as defined in section 2.6.
+“output” has the meaning ascribed thereto in the recitals.
+“product” has the meaning ascribed thereto in the recitals.
+“remaining exposure” means total exposure plus payments received by bunker one and vertex pursuant to this agreement during
+the applicable tracking account statement reporting period less payments made by bunker one and vertex pursuant to this agreement
+during the applicable tracking account statement reporting period.
+“term sheet” means that certain summary of terms regarding the proposed purchase of series b1 preferred shares of vertex energy, inc.
+dated november 25, 2019.
+“total exposure” means the sum of (i) unrealized gain on hedging, (ii) unrealized loss on hedg- ing, (iii) unrealized gain on inventory,
+(iv) unrealized loss on inventory and (v) total realized p/l.
+“total realized p/l” means and shall be equal to the sum of each monthly calculation of below following ifrs principles:
+(a) the sum of:
+(i) gross revenue received by bunker one from any third party for inventory resale transactions (but excluding for any
+applicable tracking account reporting or settlement period any such gross revenue that was included in a prior reporting or
+settlement period as described in clause (ii) immediately below),
+(ii) gross revenue due, but not yet received by bunker one from any third party for inventory which has been sold at a fixed
+price, whether or not delivered,
+(iii) hedging profit; and
+(iv) proceeds of insurance maintained by bunker one with respect to the inventory that are received by bunker one; less
+(b) the sum of:
+(i) the measured cost of the goods sold,
+(ii) all actual costs incurred by bunker one (u.s.) hereunder including, but not limited to costs for tank storage, tank expenses,
+tank cleaning, freight (includes fleeting/heating/tanker man/sparging), cargo insurance, inspection, demurrage, broker
+commissions, blending costs (including blending inventories/products, additives and other direct costs incurred in blending
+the product for resale), financial charges, interest, transfer taxes and miscellaneous items,
+source: vertex energy inc., 8-k, 1/13/2020
+(iii) hedging loss, and
+(iv) sg&a costs allocated to the operation (to be agreed to in a budget and in writing ahead of time, provided, however,
+neither party will include sg&a incurred by a parent entity absent mutual agreement otherwise).
+“transfer taxes” means all transfer, documentary, sales, use, stamp, registration, conveyance or similar taxes or charges (“transfer
+taxes”) arising out of the transactions contemplated hereby and all charges for or in connection with the recording of any document or
+instrument contem- plated hereby.
+“unrealized gain on hedging” means the greater of zero and the hedge position value.
+“unrealized loss on hedging” means the lesser of zero and the hedge position value.
+“unrealized gain on inventory” means the greater of zero and the net gain in inventory market value as compared to the inventory
+cost.
+“unrealized loss on inventory” means the lesser of zero and the net loss in inventory market value as compared to the inventory
+cost.
+2.
+co-operation procedure.
+2.1.
+sourcing and purchase. vertex shall be responsible for the sourcing/producing of the product and shall sell to bunker one, and bunker
+one shall purchase, the agreed output of the product in accordance to fob (marrero, la, us (or per new/additional agreed area)) the
+incoterms® 2010 rules, at the following scheduled pricing:
+the arithmetic mean of platts 2 usgc pipe and platt’s ulsd usgc waterborne on agreed pricing days less the agreed upon discount
+[]. pricing mechanism for the product will be made in accordance to fob (marrero, la, us) the incoterms® 2010 rules (hereinafter,
+the “product cost”). the above pricing will be mutually negotiated and revised every third month.
+unless the parties otherwise agree in writing, 100 of the output shall be allocated for use in the area (the “cooa output”) .
+vertex, on not less than 120 days prior written notice to bunker one (the “withdrawal notice”), shall have the right to remove all or a
+portion of the output from the coverage of the jsma, provided, however, that, in such event, (a) vertex shall supply a volume of
+alternative material equal to, or better than, in amount and quality (the “alternative supply”) to the volume of material withdrawn, or (b)
+vertex shall reimburse bunker one for the net loss experienced by bunker one by reason of the loss of the withdrawn material,
+determined on the basis of what bunker one would have earned on a net basis under the terms of the jsma had the output not been
+withdrawn.
+source: vertex energy inc., 8-k, 1/13/2020
+in addition, in calculating the net loss experienced by bunker one in the event of withdrawal subject to compensation under (b)
+mentioned in the above, vertex shall be credited with any additional income realized by bunker one, determined on a cumulative basis
+from and after the date of this jsma, for any product provided by vertex in excess of the output as well as any cost savings realized by
+bunker one with respect to the alternative supply.
+2.2.
+blending. the jsma output is meant for blending into other products by bunker one for the pur- pose of being transformed into bunker
+suitable fuel for a marine vessel's propulsion system and/or marketable wholesale products in various other markets for sale by bunker
+one to cus- tomers in the area. bunker one will be solely responsible for the blending, marketing, sale and delivery of the product in the
+area. the jsma output may also be sold as is without any blending.
+2.3.
+storage. the parties will, with prior written agreement, coordinate efforts to secure storage ca- pacity for the accumulation and blending
+of product to make up the cargo to be supplied pursuant to the jsma. the parties agree that tank/storage fees incurred for the sole (any
+other use will be upon mutual written agreement) purposes of the jsma shall be for the account of the jsma. at commencement of this
+agreement the parties have entered into the sublet agreement attached hereto as appendix b.
+2.4.
+vessel charter: bunker one will coordinate, secure and charter suitable vessels needed for the shipment of the product to various sale
+destinations. the parties agree that fees incurred in con- nection with chartering vessels for the sole (any other use will be upon mutual
+written agreement) purposes of the jsma shall be for the account of the jsma.
+2.5.
+risk management: bunker one shall be responsible for obtaining risk management related prod- ucts / hedging of the jsma output
+consistent with the decisions of the jdmb under the heads of agreement. all fees incurred, and profit/loss incurred in connection with
+hedging of the jsma output shall be for the account of the jsma. all hedging is to be done on a physical, not specula- tive, basis.
+2.6.
+exclusive co-operation: it is agreed that only bunker one will be marketing this jsma and the jsma output towards various customers,
+but if a party receives a nomination (being a written or oral request by/from a customer to a party stating delivery place, delivery date
+and window etc.) or any other communication from a customer regarding the supply of product (either spot or whole cargo) in the area,
+the party is obliged to forward the nomination to bunker one and refer the customer to bunker one. during the term, neither vertex nor
+any affiliate of vertex may sell any product to any customers for their use as bunker fuel other than pursuant to the terms of this jsma.
+all sales towards customers for bunker fuel will be carried out exclusively by bunker one in accordance to the terms set forth herein. as
+such all communication with customers shall go via bunker one unless otherwise is specific written agreed in advance.
+3.
+mutual cooperation.
+3.1.
+the jsma will generate either a profit or a loss which shall be distributed between the parties as set out forth further below in this
+clause. vertex and bunker one will act cooperatively in a commercially reasonable manner, to maximize profits and minimize losses and
+comply with all terms and conditions pursuant to the jsma. the parties have established a joint decision-making body that will: (a)
+establish a budget no later than march in each fiscal year for the immediately ensuing
+source: vertex energy inc., 8-k, 1/13/2020
+fiscal year, to include forecasts of income and expense and planned capital expenditures (which capital expenditure budgets shall
+include a focus on items related to the supply and optimization of the marine fuels or components and items related to support the
+marketing of the product and associated credit risks with respect to bunker one, and with respect to vertex, a focus on asset
+acquisition/leasing of improvements required in support of acquisition and production of the product to the refining rack or other
+designated transfer point), (b) review the financial information provided by the respective parties for the transactions occurring during
+the preceding month/quarter/year; (c) strategize on the proposed blending plan, ensuing month for volume and margin per mt. plan for
+resupply of components and associated pricing targets, related expenses, timing and volumes; (d) discuss and approve any other
+business brought before the committee for its review and approval.
+3.2.
+accounting records; reporting: bunker one shall establish and maintain at its office in mobile, alabama a detailed ledger (the “detailed
+ledger”) within their current reporting system with re- spect to this agreement and all transactions hereunder sufficient to track and
+reconcile all such transactions and to calculate and track hedge position value, hedging profit, hedging loss, inventory cost, inventory
+market value, remaining exposure, total exposure, total realized p/l, inter- est, unrealized gain on hedging, unrealized loss on
+hedging, unrealized gain on inventory and unrealized loss on inventory and any and all payments made by or to bunker one or vertex
+with respect to this agreement.
+3.3.
+bunker one shall prepare and provide to vertex, on a monthly and quarterly basis, a statement setting forth the status of the detailed
+ledger and each component thereof (the “detailed ledger statement”). the detailed ledger statement and all other reports and settlement
+statements provided for herein shall be in such format as may be agreed upon by the parties from time to time and shall include such
+supporting documentation as is reasonably necessary or reasonably requested by vertex to enable vertex to verify the accuracy of such
+report or settlement statement. bunker one shall prepare and maintain such other accounting and transaction records as may be
+necessary to provide a full accounting of all transactions and other activities under this agree- ment. vertex has the right, at its sole
+expense and during normal working hours, to have a third party accountant examine the records of bunker one. if any such examination
+reveals any inaccuracy in any statement, the necessary adjustments in such statement and the payments thereof will be made promptly
+and shall bear interest calculated at the interest rate from the date the overpayment or underpayment was made until paid.
+4.
+settlement and payment term.
+4.1.
+payment by bunker one for the product, as defined in clause 2.1, will be made by wire transfer within three (3) business days after the
+date vertex invoices bunker one, to an account desig- nated from time to time by vertex.
+4.2.
+on or before the seventh (7th) business day after the end of each quarter during the fiscal year may 1- april 30) bunker one shall
+prepare and send to vertex the detailed ledger statement for the immediately preceding quarter. if any such quarterly detailed ledger
+statement, or the final detailed ledger statement issued by bunker one, shows positive remaining exposure for the pe- riod covered by
+the statement, then bunker one shall pay [] percent ([]) of such amount to vertex. if any such quarterly detailed ledger
+statement shows negative remaining exposure for the period covered by the statement, then vertex shall pay [] percent ([])
+source: vertex energy inc., 8-k, 1/13/2020
+of such amount to bunker one. the first ledger statement for the first full fiscal quarter ending after the effective date shall include an
+adjustment taking into account the period beginning with the first day following the last day included in the last ledger statement
+provided under the terms of the original cooa, and the first day of the period included in the first ledger statement provided in
+accordance with the provisions of this jsma. for example, if the last ledger statement provided under the original cooa includes the
+three-month period ending on september 30, 2019, and the first ledger statement provided under the terms of this jsma includes the
+three- month period ending january 31, 2020, then such first ledger statement shall also include the month of october, 2019 in addition
+to the months of november, december and january.
+4.3.
+in addition to the foregoing, on or before the fifteenth (15th) business day after the end of each fiscal year bunker one shall prepare and
+send to vertex the detailed ledger statement for the immediately preceding fiscal year calculated on a cumulative basis showing
+payments made and received by the parties in satisfaction of the percentage splits shown above, adjusted to include any period
+excluded by reason of the conversion from a calendar year to a fiscal year in the same manner in which quarterly calculations are
+adjusted in section 4.2 (i.e. the months of january, february, march and april, 2019 would be excluded in the annual calculations for the
+fiscal year ending april 30, 2020, and these must be included for purposes of preparing the ledger statement for fye 4/30/20). in the
+event a party has received payments in excess of those to which such party is entitled on a cumulative basis as reflected in the annual
+detailed ledger statement, such party shall remit such excess to the other party promptly upon receipt of demand therefor, or if such party
+has underfunded its obligation in these same regards, such party shall promptly remit the amount underfunded to the other party. any
+amount to which a party is entitled by virtue of any monthly or quarterly detailed ledger statement in excess of that reflected in the
+annual de- tailed ledger statement that has not been received shall be canceled.
+4.4.
+in addition, within thirty (30) days after the later of the expiration of the term or the final settlement and termination of all resale and
+hedge transactions entered into during the term of this agreement, bunker one shall issue a final detailed ledger statement. if the
+remaining exposure shown on such final detailed ledger statement is less than zero then vertex shall pay [] percent ([]) of
+such amount to bunker one. if the remaining exposure shown on such final detailed ledger statement is greater than zero then bunker
+one shall pay [] percent ([]) of such amount to vertex.
+4.5.
+payment for any amounts due in accordance with the above shall be made within three (3) business days after the date of the applicable
+detailed ledger statement. if any detailed ledger state- ment is disputed in good faith, the party owing money will pay the undisputed
+portion by the due date and will by such due date provide a written explanation of the basis for the disputed portion to such due date.
+the parties shall endeavor to resolve any disputes promptly, and the disputed amount found due, if any, plus accrued interest at the
+interest rate shall be paid within three (3) business days following resolution of the dispute. all payments under the terms of this
+agreement shall be made in us dollars and immediately available funds. the parties shall net all undisputed amounts due and owing on
+the same day, and/or past due, arising under this agreement such that the party owing the greater amount shall make a single payment of
+the net amount to the other party. interest on late payments shall accrue at the interest rate from the due date until the date of payment.
+source: vertex energy inc., 8-k, 1/13/2020
+5.
+term
+5.1.
+the term of this jsma shall commence on may 1, 2020 (the “commencement date”) and ends at april 30, 2029 (the “term”), with
+automatic renewals each for a period of five (5) years (a “renewal term”) unless notice is given pursuant to 5.2.
+5.2.
+this jsma will be terminated as of the end of the term or any renewal term, by either party giving written notice of non-renewal to the
+other party no less than 120 prior to the applicable expiry date (the "termination period”).
+5.3.
+if at any time an event of default (as defined below) has occurred and is continuing, the defaulting party shall have ten (10) days after
+receipt of written notice from the non-defaulting party speci- fying the default, within which to cure any such default, unless such
+default is not susceptible of cure within such ten (10) day period in which case the defaulting party shall have such additional time as
+may be accepted by the non-defaulting party (in its sole discretion), provided that the defaulting party initiates cure proceedings
+promptly and thereafter diligently pursues cure to completion. notwithstanding the foregoing, in no event shall the cure period exceed
+thirty (30) days. upon the expiration or lapse of all notice and cure rights if the default remains uncured the non-defaulting party may
+terminate this jsma with immediate effect.
+5.4.
+in the event of a termination in accordance to clause 5.2 it is agreed that both parties agree to unwind and minimize costs and exit the
+jsma as soon as practicably possible not exceeding 120 days.
+5.5.
+in the event of a termination in accordance to clause 5.3 the defaulting party has to indemnify and hold harmless the non-defaulting
+party for any and all losses, damages, costs etc. incurred by the non-defaulting party as a consequence of an event of default.
+5.6.
+a party may terminate the jsma immediately upon the delivery of written notice to the other party if there has been a change in control.
+the term “change in control”, as used in this agreement, means (a) the sale or transfer, through one transaction or a series of
+transactions, of all or some portion of the issued and outstanding shares of voting equity interests of a party, or such party’s parent,
+such that the majority of such equity interests are owned by individual(s) or entity(ies) that did not own a majority of such equity
+interests on the commencement date; (b) the reorganization, merger or consolidation of a party, or such party’s parent, unless
+immediately following such business combination, all or substantially all of the individuals and entities who were the beneficial owners
+of either entity immediately prior to such business combination beneficially own, directly or indirectly, a majority of the issued and
+outstanding shares of voting equity interests of such entity; (c) the sale or transfer, through one transaction or a series of transactions,
+of all or substantially all of the assets of a party, or such party’s parent; or (d) the occurrence of any other event(s) whereby the
+individual or group of individuals who ultimately own or control a party or such party’s parent as of the commencement date no longer
+has the right or ability to control or cause the direction of the management and policies of such entity. for these purposes bunker
+holding group is the parent of bunker one, inc., and vertex energy, inc. is the parent of vertex energy operating llc.
+source: vertex energy inc., 8-k, 1/13/2020
+6.
+event of default
+6.1.
+the occurrence at any time of any of the following events, and expiration of any applicable notice or cure rights, shall constitute an
+event of default (an "event of default") :
+6.1.1.
+a party fails to make, when due, any payment under this jsma and such failure is not remedied within three (3) business days
+after written notice of such failure is given to the party;
+6.1.2.
+a party fails to comply with or perform any other obligation under this jsma, if such failure is not cured within the expiration of
+all applicable notice and cure rights;
+6.1.3.
+insolvency etc. a party is (i) dissolved; (ii) becomes insolvent or is unable to pay its debts as they fall due or admits to be so in
+writing; (iii) makes a general arrangement with or for the benefits of its creditors; (iv) suspends making payments; (v) institutes or
+has instituted against it a proceeding seeking a judgement of insolvency or bankruptcy or any other relief under any bankruptcy
+or insolvency law other similar law affecting creditor's rights, or a petition is presented for its winding-up or liquidation and such
+petition is not withdrawn, dismissed, discharged, stayed or restrained within thirty (30) days; (vi) seeks or becomes subject to the
+appointment of an administrator, provisional liquidator, conservator, receiver, trustee, custodian or other similar official for it for all
+or substantially all its assets; (vii) has a secured party take possession of all or substantially all its assets; (viii) causes or is
+subject to any event with respect to it which, under the applicable laws of any jurisdiction, has an analogous effect to any of the
+events specified in (i)-(viii); or (ix) takes any action in furtherance of, or indicating its consent of, approval of, or acquiescence in,
+any of the acts referred to in this clause.
+7.
+taxes
+7.1.
+each party is responsible for payment and reporting of its federal, state, and local income taxes and state franchise, license, and similar
+taxes required for the maintenance of its business existence.
+7.2.
+should any unexpected taxes, fees, and/or other charges, including penalties and/ or interest, occur because of one party's failure to pay
+and/or report, said party shall bear all costs associated with such failure and shall indemnify the other party from additional costs.
+8.
+confidentiality
+8.1.
+the jsma is private and confidential. both parties agree that all information, other than exempt information, obtained in connection with
+the jsma from the other party shall be treated as confidential property of the other party, and such confidential property shall not be
+disclosed without the written consent of the other party or used by the other party for any purpose other than fulfilling its duties and
+responsibilities established hereunder; provided however, that either party may disclose such information where required or requested
+by any law, court of competent jurisdiction or any judicial, governmental, supervisory or regulatory body, provided that the disclosing
+party notifies the other party (to the extent permitted by law and regulation), as soon as possible, upon becoming aware of any such
+requirement to give that party the opportunity to seek any other legal remedies to maintain such information in confidence. each party
+shall use its reasonable efforts to have the information maintained as confidential when such disclosure is required. “exempt
+information” is any information that the recipient can demonstrate (a) was in
+source: vertex energy inc., 8-k, 1/13/2020
+its possession prior to the time of disclosure; (b) is or becomes public knowledge through no fault, omission, or other act of the
+recipient; (c) is obtained from a third party under no obligation of confidentiality; or (d) was independently developed by or for the
+recipient without violating the terms of this agreement.
+8.2.
+in the event that any party makes a disclosure contrary to the provisions of this clause the other party shall have the right, without
+prejudice to any other rights or remedies it may have hereunder or otherwise, to terminate the jsma effective immediately upon notice to
+the disclosing party. the obligation of confidentiality shall be of a continuing nature for 2 years after termination of this jsma and shall
+not be canceled by the expiration, suspension or termination of the jsma. notwithstanding the foregoing, each party on demand shall
+promptly disclose to the other all documents and accounts relating to the jsma.
+9.
+non-competition
+9.1. both parties undertake, during the term of this jsma and for 2 (two) years from the termination or expiry of the jsma not to directly
+conduct or otherwise promote activities which compete at the point source of the other party’s business in the area. the point source
+of vertex being a specialty refiner of alternative feedstocks engaged in supply and marketing of said refined streams and the point
+source of bunker one being a marine fuel blending bunker company with sale outlets via trade, direct, wholesale and bunkering
+business. any exceptions from the above-stated principle require the written consent of the other party. each party is entitled to
+exercise any and all rights and remedies available at law or in equity, including, without limitation, pursuing injunc- tive relief.
+10.
+no authority to bind.
+10.1. neither party has the authority to bind or enter into any contracts or agreements on behalf of the other party, unless instructed in writing
+prior to the conclusion of the respective transaction. the parties specifically acknowledge that they are not establishing a joint venture
+or partnership or any similar arrangement.
+11.
+assignment.
+11.1. neither party shall assign or transfer any rights or obligations hereunder without the express prior written consent of the other party, which
+may not be unreasonably withheld. nothing in the jsma is intended or shall be construed to confer upon or give to any person or
+entity any rights as a third party beneficiary of the jsma or any party thereof.
+12.
+indemnification.
+12.1.
+vertex shall promptly indemnify bunker one and pay any and all damages, losses, liabilities, costs and expenses, including reasonable
+attorneys‘ fees, incident to any suits, actions, investigations, claims or proceedings suffered, sustained, incurred or required to be paid
+by bunker one by reason of any negligence, gross negligence and/or intentional act or omission on the part of vertex in rendering
+services hereunder, or any breach or failure of observance or performance of any representation, warranty, covenant or agreement made
+by vertex hereunder.
+source: vertex energy inc., 8-k, 1/13/2020
+12.2.
+bunker one shall promptly indemnify vertex and pay any and all damages, losses, liabilities, costs and expenses, including reasonable
+attorneys‘ fees, incident to any suits, actions, investigations, claims or proceedings suffered, sustained, incurred or required to be paid
+by vertex by reason of any negligence, gross negligence and/or intentional act or omission on the part of bunker one in rendering
+services hereunder, or any breach or failure of observance or performance of any rep- resentation, warranty, covenant or agreement made
+by bunker one hereunder.
+12.3.
+this clause shall survive termination of this jsma.
+13.
+law and jurisdiction.
+13.1.
+this agreement shall be governed, interpreted and construed in accordance with the laws of the state of alabama, without giving effect
+to its conflict of laws provisions. any dispute arising out of or in connection with this jsma, including without limitation any question
+regarding its existence, validity or termination, that is not resolved in accordance with the provisions set forth below in section 13.3, shall
+be submitted to the exclusive jurisdiction of the united states district court for the southern district of alabama in the city of mobile,
+unless that court does not have subject-matter jurisdiction or declines jurisdiction, in which case any such dispute shall be submitted to
+the exclusive jurisdiction of the state court for the state of alabama, city of mobile, as described in the following paragraphs. any
+counterclaim arising out of, or in connection with, the dispute shall be brought in the same proceeding.
+13.2.
+each party submits to the jurisdiction of the united states district court for the southern district of alabama. each party waives, to the
+fullest extent permitted by applicable law, any objection to venue in the united states district court for the southern district of alabama
+or to or any claim of inconvenient forum of such court or of sovereign immunity. each party waives, to the fullest extent permitted by
+applicable law, any right it may have to a trial by jury in respect of any proceeding relating to this jsma.
+13.3.
+arbitration.
+13.3.1 resolution of disputes. if a dispute arises between the parties, the parties agree to use the following procedures in good faith to
+resolve such dispute promptly and non judicially. for purposes of this agreement, “dispute” shall mean any alleged material breach of
+any representation, warranty or obligation herein, or a disagreement regarding the interpretation, performance or nonperformance of
+any provision thereof, or the validity, scope and enforceability of these dispute resolution procedures, or any dispute regarding any
+damages arising from the termination of this agreement. any party may give written notice to any other party of the existence of a
+dispute (a “dispute notice”).
+13.3.2 negotiation. within five (5) days after delivery of any dispute notice the parties involved in the dispute shall meet at a mutually
+agreeable time and place and thereafter as often as they deem reasonably necessary to exchange relevant information and attempt in
+good faith to negotiate a resolution of the dispute. if the dispute has not been resolved within ten (10) days after the first meeting of
+the parties, or, if the party receiving the dispute notice will not meet within ten (10) days after receipt of the dispute notice, then either
+party may, by delivering notice to the other party, commence arbitration proceedings.
+source: vertex energy inc., 8-k, 1/13/2020
+13.3.3
+general dispute resolution provisions.
+(a) all deadlines specified in this section 13.3 may be extended by mutual agreement. the procedures specified in this section
+13.3 are an essential provision of this agreement and are legally binding on the parties. these procedures shall be the sole and
+exclusive procedures for the resolution of any dispute between the parties arising out of or relating to this agreement. any and all
+actions to enforce the obligations under this section 13.3 shall be brought in any court specified in section 13.1.
+(b) the parties acknowledge that the provisions of this section 13.3 are intended to provide a private resolution of disputes
+between them. accordingly, all documents, records, and other information relating to the dispute shall at all times be maintained in the
+strictest confi- dence and not disclosed to any third party, other than the arbitrators, except where specifically allowed hereunder. all
+proceedings, communications and negotiations pursuant to this section 13.3 are confidential. in the event of any judicial challenge to,
+or enforcement of, any order or award hereunder, any party may designate such portions of the record of such proceedings,
+communications, and negotiations as such party deems appropriate to be filed under seal. all pro- ceedings, communications and
+negotiations pursuant to this section 13.3 shall be treated as com- promise negotiations for all purposes, including for purposes of the
+us federal rules of evidence and state rules of evidence. none of the statements, disclosures, offers, or communications (or other
+assertions made in any proceeding or negotiation) made pursuant to this section 13.3 shall be deemed admissions, nor shall any of said
+statements, disclosures, offers, communications or assertions be admissible for any purpose other than the enforcement of the terms of
+this section 13.3.
+(c) the parties agree to act in good faith to comply with all of their respective obligations under this agreement as much as
+possible as if there were no dispute during any pending mediation or arbitration hereunder.
+(d) the parties agree that the terms of this section 13.3 shall survive the termination or expiration of this agreement.
+(e) waiver of jury trial. the parties agree to have any dispute that is not resolved pursuant to the procedures
+established in section 13.3(a) - (c) decided by neutral arbitration as provided in this section 13.3(e) and the parties are giving up any
+rights they might possess to have the dispute litigated in a court or by a jury trial. the parties are giving up their judicial rights to
+discovery and appeal, unless such rights are specifically included in this section 13.3(e). the parties acknowledge and agree that their
+agreement to this arbitration provision is voluntary. for the avoidance of doubt and in furtherance of the
+foregoing, each party hereto hereby waives and covenants that it will not assert (whether as
+plaintiff, defendant or otherwise) any right to trial by jury in any forum in respect of any issue or
+action, claim, cause of action or suit (in contract, tort or otherwise), inquiry, proceeding or
+investigation arising out of or based upon this agreement or the subject matter hereof, in each
+case whether now existing or hereafter arising.
+13.4 each party agrees to the service of any court process by registered or certified u.s. mail (return receipt requested) or by express mail courier
+delivered to the party at its last designated address. in
+source: vertex energy inc., 8-k, 1/13/2020
+addition, each party agrees that any other method of service allowed by alabama law may be used. all process and any accompanying
+complaint or other pleadings shall be in the english language and do not require officialization.
+13.5 the united nations convention on contracts for the international sale of goods of vienna 1980 shall not apply to this jsma.
+14.
+merger.
+14.1. the jsma is a complete and exclusive statement of all terms and conditions governing the activities contemplated by the jsma, and
+supersedes all prior agreements between the parties, written or oral, relating hereto. unless identified in the jsma (i.e. sales agreement,
+terminaling agreements, charter party agreements, etc.) or subsequently documented in writing, no other contract or course of dealing
+between the parties, and no statement of any agent, employee or representa- tive of either party shall be admissible in construing the
+terms of the jsma. each party affirms that no representations have been made by the other party, or relied on by it, in entering into this
+jsma.
+15.
+severability of provisions.
+15.1. the invalidity, illegality or unenforceability of any one or more of the provisions of the jsma, other than the fcpa provision, shall in no
+way affect or impair the validity and enforceability of the remaining provisions hereof.
+16.
+notices.
+16.1. all notices and other communications given under the jsma shall be in writing (including, without limitation, by fax and email) and shall be
+effective upon receipt by the addressee.
+17.
+waiver.
+17.1. no failure or any delay on the part of a party exercising any rights hereunder shall operate as a waiver of any such rights. no waiver of any
+default or breach of any provision of this jsma shall be deemed a continuing waiver or waiver of any other breach or default.
+18.
+anti-bribery/corruption.
+18.1.
+each party, and any agent or representative of any party acting at such party's direction, on such party‘s behalf, or for such party's
+benefit, in any way related to this agreement (collectively, "concerned persons"), will be familiar with and comply with (i) the provisions
+of the united states foreign corrupt practices act (15 u.s.c.a. §§ 78dcl-1 et seq. (1997 & supp. 2004)), including any amendments
+which may be effected during the term hereof (ii) the laws of the country of incor- poration of such party or such party‘s ultimate parent
+company or the principal place of business of such ultimate parent company; or (m) the principles described in the convention on
+combating bribery of foreign public officials in international business transactions signed in paris in december 19, 1997, which entered
+into force on february 15, 1999 and the conventions commentaries
+source: vertex energy inc., 8-k, 1/13/2020
+or the uk bribery act 2010. in particular, in carrying out any duties under this agreement, no concerned person will make or offer to
+make the payment of money or anything else of value to:
+a. any government official of any country,
+b. any political party of any country,
+c. any candidate of any political party of any country,
+d. any other person, while knowing or having reason to know, that such person will make a payment to a government official, political
+party, or a candidate of a political party of any country.
+18.2.
+any breach of this paragraph by a concerned person will result in the termination of this agreement and will obligate the return of any
+amounts paid hereunder to such concerned person.
+19.
+board of directors meetings.
+during the term of this jsma, provided that bunker one, directly or indirectly, consummates the capital investment described in the
+term sheet, vertex shall permit a representative of bunker one, reasonably acceptable to a majority of vertex’s board of directors (it
+being understood that carlos g. torres, sara shipman myers and peter zachariassen meet such criteria), to attend all meetings of the
+board of directors of vertex and its committees (committees defied as audit and nominating committee and any special committee
+formed to consider extraordinary transac- tions) in a non-voting observer capacity and, in this respect, shall give such representative of
+bunker one copies of all notices, minutes, consents and other material that vertex provides to its directors and committee members,
+provided, that vertex reserves the right to withhold any in- formation and to exclude such representative from any meeting or portion
+thereof if vertex de- termines, upon advice of counsel, such withholding or exclusion is necessary to preserve the at- torney-client
+privilege between vertex and its counsel or would result in disclosure of trade se- crets. bunker one agrees, and any representative of
+bunker one will agree, to hold in confidence any confidential information provided to or learned by it in connection with its rights
+under this section. the confidentiality provisions hereof will survive termination of the term.
+source: vertex energy inc., 8-k, 1/13/2020
+appendix a:
+(see intertek report of analysis to include ifo-180, ifo-380 and dma)
+appendix b: storage agreement.
+in witness whereof, the parties hereto have hereby executed this agreement as of the date first written above.
+bunker one, inc.
+/s/ sara shipman myers
+name: sara shipman myers
+vertex energy operating, llc
+name: ben cowart
+source: vertex energy inc., 8-k, 1/13/2020

@@ -1,0 +1,1956 @@
+exhibit   99.2 
+ e - business   host   agreement 
+ 1.0 
+ introduction 
+ this   e - business   host   agreement   ( " agreement " )   between   international   business   machine   corporation   ( " ibm " )   and    the   quantum 
+ group   inc . ,   ( " customer " ) ,   set   forth   the   term   and   condition   under   which   ibm   will   provide   host   and   relate   service   ( " service " )   to 
+ customer .   the   agreement   include   the   term   and   condition   and   the   document   reference   herein   ( " base   term " )   and   the   follow 
+ attachment : 
+ attachment   a   -   services; 
+ attachment   b   –   host   components;   and 
+ attachment   c   –   charge 
+ in   the   event   of   a   conflict   between   the   base   term   and   an   attachment   list   herein   ( " attachment " ) ,   the   base   term   will   prevail ,   except 
+ where   an   attachment ,   or   a   provision   contain   therein   expressly   state   that   it   will   prevail   over   the   base   term . 
+ 2.0 
+ definition 
+ " acceptable   use   policy "   mean   the   acceptable   use   policy   for   ibm   e - business   service ,   locate   on   the   internet   at 
+ www.ibm.com/services/e-business/aup.html ,   as   of   the   effective   date ,   and   any   subsequent   modification   in   accordance   with   section 
+ 13.2   below . 
+ " affiliate "   mean   entity   that   control ,   be   control   by ,   or   be   under   common   control   with   a   party   to   this   agreement . 
+ " base   component "   mean   the   hardware   and   software   that   ibm   make   available ,   if   any ,   as   specify   in   attachment   b. 
+ " bandwidth "   mean   the   measurement   of   sample   of   usage   take   every   five   ( 5 )   minute   during   a   calendar   month   and   collect   two   ( 2 ) 
+ reading   ( cumulative   of   inbound   feed   and   cumulative   of   outbound   feed   at   the   same   measure   point   in   time ) .   the   measurement   be 
+ store   and   become   datum   point .   at   the   end   of   the   month ,   all   datum   point   take   during   the   month   be   rank   in   ascend   order .   ibm   will 
+ discard   the   top   five   percent   ( 5 )   for   each   set   ( inbound   and   outbound )   of   datum   point .   the   high   remain   sample   of   the   two   ( 2 )   set 
+ become   the   customer ’s   commit   or   burstable   usage   number   for   that   billing   cycle . 
+ " burstable   bandwidth "   mean   the   bandwidth   consumption   in   excess   of   the   committed   bandwidth . 
+ " commit   bandwidth "   mean   the   fix   circuit   capacity   that   ibm   will   make   available   to   customer   for   connectivity   to   the   internet . 
+ customer ’s   datum   traffic   between   the   e - business   host   center   and   the   internet   may   not   exceed   commit   bandwidth ,   unless 
+ otherwise   expressly   specify   in   an   attachment . 
+ " content "   mean   information ,   software ,   and   datum   that   customer   provide ,   include ,   without   limitation ,   any   hypertext   markup   language 
+ file ,   script ,   program ,   recording ,   sound ,   music ,   graphic ,   image ,   applet   or   servlet   that   customer   or   its   subcontractor   or 
+ service   recipient   create ,   install ,   upload   or   transfer   in   or   through   the   e - business   host   environment   and/or   customer   component . 
+ " content   administrator "   mean   an   employee   or   subcontractor   of   customer   who   be   authorize   by   customer   to   install ,   upload   and/or 
+ maintain   content   use   a   user   identification . 
+ " customer "   mean   ibm ’s   customer   to   whom   the   service   be   be   provide . 
+ " customer   component "   mean   the   hardware ,   software   and   other   product ,   datum   and   content   that   customer   provide ,   include   those 
+ specify   in   attachment   b. 
+ " customer   initiate   change "   mean   patch   or   change   to   the   environment   dictate   to   be   instal   by   customer ,   and   instal   by 
+ either   customer   or   by   ibm . 
+ " customer   production   ready   date "   or   " cprd "   mean   the   date   ( follow   the   host   service   ready   date )   that   the   follow   item   have 
+ be   complete :   ( 1 )   customer   have   notify   ibm   that   customer   have   complete   application   testing   and   loading   of   customer   content ,   and 
+ ( 2 )   ibm   have   notify   customer   that   monitor   and   reporting   have   be   enable   and   end   user   may   now   begin   use   the   service . 
+ commencing   on   the   customer   production   ready   date ,   customer   will   not   have   administrative   access   for   fully   manage   device ,   unless 
+ specifically   request   for   a   limit   period   of   time   mutually   agree   between   the   party ,   use   the   establish   change   management 
+ procedure . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ " direct   access   storage "   or   " das "   mean   datum   storage   device   that   be   directly   attach   to   a   server . 
+ " e - business   host   environment "   mean   the   base   component   and   the   ibm   provide   internet   access   bandwidth ,   collectively . 
+ " host   service   ready   date "   mean   a   date   when   ibm   notifie   customer   that   service   be   available   for   customer   use   and   ibm 
+ installation   responsibility   have   be   complete   for   such   service .   service   may   be   initiate   in   stage   and   monthly   recur   charge 
+ will   begin   for   any   portion   of   service   specify   in   such   notification . 
+ " e - business   host   center "   mean   a   facility   use   by   ibm   to   provide   service . 
+ " internet "   mean   the   public   worldwide   network   of   tcp / ip - base   network . 
+ " local   storage "   have   the   same   definition   as   direct   access   storage 
+ " logical   unit   number "   or   " lun "   mean   the   individual   component   in   the   san   storage   system   that   may   be   access .   each   disk   or   disk 
+ partition   in   a   san   storage   system   array   have   a   lun   assign   to   it . 
+ " manage   application   service "   mean   a   service   provide   by   ibm   that   include   the   service   define   in   attachment   a   as   manage 
+ application   service . 
+ " manage   application   solution "   mean   a   customer ’s   application   host   environment   consist   of   network ,   storage   and   server   device 
+ and   include   manage   application   service   for   all   of   the   device .   a   manage   application   solution   can not   contain   any   manage   device 
+ that   do   not   also   include   manage   application   service   in   order   to   qualify   for   a   service   level   agreement   as   define   in   attachment   a. 
+ " manage   nas   storage   –   dedicate   environment "   mean   a   physical   nas   storage   controller   and   associate   disk ,   provision   by   ibm 
+ or   customer   that   be   dedicate   to   a   customer   and   manage   by   ibm . 
+ " manage   nas   storage   –   share   environment "   mean   a   physical   nas   storage   controller   and   associate   disk ,   provision   by   ibm , 
+ that   be   share   between   customer   and   manage   by   ibm .   resource   be   allocate   by   ibm   base   on   requirement   from   the   customer 
+ and   these   resource   be   dedicate   for   the   customer ’s   use . 
+ " manage   san   storage   -   dedicate   environment "   mean   a   physical   san   storage   controller   and   associate   disk   that   be   dedicate   to 
+ customer   ( not   share   with   other   ibm   customer )   and   manage   by   ibm .   resource   be   allocate   by   ibm   base   on   requirement   from 
+ the   customer . 
+ " manage   san   storage   –   share   environment "   mean   a   physical   san   storage   controller   and   associate   disk   that   be   share   between 
+ two   or   more   ibm   customer   and   manage   by   ibm .   resource   be   allocate   by   ibm   base   on   requirement   from   the   customer . 
+ " manage   server "   mean   a   physical   or   virtual   server   base   component   for   which   ibm   be   provide   setup ,   configuration ,   administration 
+ and   management   service . 
+ " material "   mean   literary   or   other   work   of   authorship   ( such   as   program ,   program   listing ,   programming   tool ,   documentation , 
+ report ,   drawing   and   similar   work )   that   ibm   may   deliver   to   customer   as   part   of   service .    " material "   do   not   include   license 
+ program   product   available   under   their   own   license   agreement   or   base   component . 
+ " middleware "   mean   any   programming   that   serve   to   " glue   together "   or   mediate   between   two   separate   and   often   already   exist 
+ program .   a   common   application   of   middleware   be   to   allow   program   write   for   access   to   a   particular   database   to   access   other 
+ database .   the   systematic   tie   together   of   disparate   application ,   often   through   the   use   of   middleware ,   be   know   as   application 
+ integration . 
+ " network   interface   card   ( nic )   mean   a   computer   circuit   board   or   card   that   be   instal   in   a   computer   so   that   it   can   be   connect   to   a 
+ network . 
+ " operational   assistance "   mean   the   additional   operational   and   physical   assistance   service   provide   by   ibm . 
+ " operational   event "   mean   the   activity   relate   to   physical   operation   of   an   unmanaged   customer   environment .   these   activity   can 
+ include : 
+ device   reboot   or   restart 
+ change   a   tape 
+ change   a   cd   or   a   disk   floppy 
+ prepare   tape   for   send   they   offsite 
+ vendor   management   for   hardware   repair   or   replacement 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ other   type   of   event   with   the   prior   approval   of   the   ibm   pm 
+ " operate   system "   or   " os "   mean   the   master   control   program   ( for   example ,   window   or   aix )   that   manage   a   computer 's   internal 
+ function   and   provide   a   mean   of   control   to   the   computer 's   operation   and   file   system . 
+ " os   image "   mean   the   initial   binary   image   that   a   boot   loader   load   into   memory   and   transfer   control   to   start   an   operate   system .   the 
+ os   image   be   typically   an   executable   contain   the   operate   system   kernel . 
+ " os   instance "   mean   an   occurrence   of   the   os   image . 
+ " ping "   mean   a   utility   to   determine   whether   a   specific   ip   address   be   accessible . 
+ " require   consent "   mean   any   consent   or   approval   require   to   give   ibm   and   its   subcontractor   the   right   or   license   to   access ,   use 
+ and/or   modify   in   electronic   form   and   in   other   form ,   include   derivative   work ,   the   customer   component ,   without   infringe   the 
+ ownership   or   intellectual   property   right   of   the   provider ,   licensor ,   or   owner   of   such   customer   component . 
+ " service   recipient "   mean   any   entity   or   individual   receive   or   use   the   service ,   or   the   result   or   product   of   the   service . 
+ " smarthand "   mean   the   additional   system   administrative   and   technical ,   physical   and   logical   assistance   service   provide   by   ibm . 
+ m. " system   administration "   mean   day - to - day   routine   task   perform   in   a   production   environment   by   a   system   administrator .   this   do 
+ not   include ,   re - carve   storage   sub - system ,   re - building   enterprise   class   system ,   major   upgrade   to   the   environment ,   major   security 
+ service ,   database   administration ,   application   development ,   system   integration   or   extensive   performance   tuning   responsibility . 
+ " storage   area   network "   or   " san "   mean   the   storage   area   network   environment   consist   of   a   storage   area   network   fabric   compose   of 
+ storage   area   network   switch ,   host   bus   adapter   and   cable   and   a   storage   area   network   storage   controller   and   associate   disk . 
+ " system   image "   mean   the   file   relate   to   the   os   and   application ,   but   exclude   customer   datum   file . 
+ " subcontractor "   mean   a   contractor ,   vendor ,   agent ,   or   consultant   select   and   retain   by   ibm   or   customer ,   respectively . 
+ " tcp / ip "   mean   transmission   control   protocol / internet   protocol . 
+ " time   and   material   ( t&m ) "   mean   the   additional   operational ,   system   administrative   and   technical ,   physical   and   logical   assistance 
+ service   provide   by   ibm   that   be   not   include   with   the   service   set   forth   in   attachment   a   –   service 
+ " user   identification "   or   " user   i d "   mean   a   string   of   character   that   uniquely   identify   a   content   administrator . 
+ " virtual   local   area   network   ( vlan ) "   mean   a   logical   grouping   of   two   or   more   device   which   be   not   necessarily   on   the   same   physical 
+ network   segment ,   but   which   share   the   same   network   segment . 
+ " virtual   private   network   ( vpn ) "   mean   a   private   network   that   use   a   public   network   ( usually   the   internet )   to   connect   remote   site   or 
+ user   together . 
+ " virtual   server "   mean   an   instance   of   a   fully   functional   server   reside   with   other   instance   on   a   physical   server   and   isolate   from   other 
+ instance   via   virtualization   software   ( such   as   vmware )   and   share   the   resource   of   the   physical   server .    the   virtualization   software 
+ provide   resource   management   for   all   of   the   instance . 
+ 3.0 
+ ibm   service   responsibility 
+ ibm   will   perform   the   service   describe   in   attachment   a   and   other   applicable   attachment . 
+ ibm   contact 
+ ibm   will   designate   an   individual   to   whom   customer   will   address   communication   specific   to   the   provision   of   the   service   provide   under 
+ this   agreement   ( " ibm   contact " ) . 
+ 4.0 
+ term   and   termination 
+ term 
+ this   agreement   will   be   effective   beginning   on   12:01   a.m. ,   eastern   time ,   on   the   day   after   the   date   of   last   signature   to   these   base   term 
+ ( " effective   date " ) .   this   agreement   will   remain   in   effect   for   thirty - six   ( 36 ) 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ month   follow   the   host   service   ready   date   ( " term " ) ,   unless   terminate   early   in   accordance   with   the   term   herein . 
+ termination   for   cause 
+ customer   or   ibm   may   terminate   this   agreement   for   material   breach   of   this   agreement   by   the   other   upon   write   notice   contain   the 
+ specific   nature   and   date   of   the   material   breach .    the   breach   party   will   have   thirty   ( 30 )   day   from   receipt   of   notice   to   cure   such 
+ breach ,   except   for   nonpayment   by   customer ,   which   must   be   cure   within   five   ( 5 )   day   from   receipt   of   notice .   if   such   breach   have   not 
+ be   timely   cure ,   then   the   non - breaching   party   may   immediately   terminate   this   agreement   upon   write   notice . 
+ termination   for   convenience 
+ customer   may   terminate   this   agreement ,   or   any   portion   of   service   specify   herein ,   for   convenience   by : 
+ provide   at   least   sixty   ( 60 )   day   prior   write   notice   to   ibm;   and 
+ pay   the   applicable   early   termination   charge   specify   in   attachment   c. 
+ effect   of   termination 
+ upon   the   date   of   termination ,   all   customer   payment   obligation   accrue   hereunder   through   the   date   of   termination   will   become   due   and 
+ payable . 
+ 5.0 
+ charge   and   payment 
+ charge 
+ customer   will   pay   to   ibm   all   applicable   charge   specify   in   attachment   c.   charge   may   be   specify   as   one - time ,   recur ,   or   usage . 
+ ibm   will   invoice   such   charge   when   they   begin   or   be   due   as   set   forth   in   attachment   c. 
+ payment 
+ ibm   invoice   will   specify   the   amount   due .   payment   be   due   and   payable   by   month   end   for   any   invoice   receive   by   the   10th   of   the   month , 
+ otherwise   payment   be   due   thirty   ( 30 )   day   from   receipt   of   invoice .   customer   agree   to   pay   accordingly ,   include   any   late   payment   fee . 
+ payment   will   be   make   in   united   state   dollar . 
+ taxis 
+ customer   will   pay   or   provide   appropriate   exemption   documentation   for   all   taxis ,   duty ,   levy ,   and   any   other   fee   ( except   for   taxis 
+ base   upon   ibm ’s   net   income )   relate   to   the   service   impose   by   any   governmental   authority .   charge   specify   herein   be   exclusive 
+ of   any   such   taxis ,   duty ,   levy   or   fee . 
+ 6.0 
+ warranty   and   disclaimer 
+ ibm   representation   and   warranty 
+ ibm   represent   and   warrant   that : 
+ it   will   perform   the   service   use   reasonable   care   and   skill   and   in   accordance   with   this   agreement;   and 
+ it   have   the   requisite   corporate   power   and   authority   to   execute ,   deliver   and   perform   its   obligation   under   this   agreement . 
+ exclusivity   of   warranty 
+ the   warranty   in   section   6.1   be   the   exclusive   warranty   from   ibm .    they   replace   all   other 
+ warranty ,   include ,   without   limitation ,   the   imply   warranty   of   merchantability ,   and   fitness   for   a 
+ particular   purpose . 
+ security 
+ customer   acknowledge   that   ibm   offer   numerous   security   option ,   and   it   be   customer ’s   responsibility   to   select   the   set   of   security 
+ option   that   it   determine   meet   customer ’s   need .   ibm   will   implement   the   security   option   specify   herein . 
+ customer   acknowledge   that   ibm   do   not   control   the   transfer   of   datum   over   telecommunication   facility ,   include   the   internet .   ibm 
+ do   not   warrant   secure   operation   of   the   service   or   that   it   will   be   able   to   prevent   third   party   disruption   of   the   e - business   host 
+ environment   or   customer   component . 
+ customer   agree   that   ibm   shall   have   no   liability   for   any   provision   of   security - relate   service   or   advice   that   ibm   may   voluntarily   provide 
+ outside   the   scope   of   service   specify   herein . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ other   disclaimer 
+ ibm   do   not   warrant   uninterrupted   or   error - free   operation   of   any   service   or   that   ibm   will   correct   all   defect . 
+ ibm   do   not   make   any   representation   or   warranty   with   respect   to   customer 's   responsibility   set   forth   in   section   11.6 . 
+ ibm   provide   material ,   non - ibm   product ,   and   non - ibm   service    without   warranty   of   any   kind .    however ,   non - ibm 
+ manufacturer ,   supplier ,   or   publisher   may   provide   their   own   warranty   to   you . 
+ ibm   do   not   operate   as   a   provider   of   service   regulate   by   the   federal   communication   commission   ( fcc )   or   state   regulatory 
+ authority   ( state   regulator ) ,   and   do   not   intend   to   provide   any   service   which   be   regulate   by   the   fcc   or   state   regulator .   if   the 
+ fcc   or   any   state   regulator   impose   regulatory   requirement   or   obligation   on   any   service   provide   by   ibm   hereunder ,   ibm   may 
+ change   the   way   in   which   such   service   be   provide   to   customer   to   avoid   the   application   of   such   requirement   or   obligation   to   ibm 
+ ( e.g. ,   by   act   as   customer ’s   agent   for   acquire   such   service   from   a   third   party   common   carrier ) . 
+ 7.0 
+ confidentiality 
+ all   information   exchange   between   the   party   be   non - confidential .    if   either   or   both   party   require   the   exchange   of   confidential 
+ information ,   such   information   will   be   exchange   under   the   term   and   condition   of   a   separate   write   confidentiality   agreement .   with 
+ respect   to   any   confidential   information   contain   in   or   travel   through   the   e - business   host   environment   or   customer   component , 
+ as   be   contemplate   herein ,   the   provision   of   section   6 ,   9 ,   and   10   herein   will   prevail   to   the   extent   of   any   inconsistent   provision   in   the 
+ confidentiality   agreement . 
+ 8.0 
+ indemnification 
+ indemnification   by   ibm 
+ if   a   third   party   claim   that   material   or   base   component   ibm   provide   to   customer   infringe   that   party ’s   patent   or   copyright ,   ibm   will 
+ defend   the   customer   and   its   employee ,   officer ,   and   director   against   that   claim   at   ibm ’s   expense   and   pay   all   cost ,   damage ,   and 
+ reasonable   attorney '   fee   that   a   court   finally   award   ( or   which   ibm   agree   in   any   final   settlement ) ,   provide   that   customer : 
+ promptly   notifie   ibm   in   writing   of   the   claim;   and 
+ allow   ibm   to   control ,   and   cooperate   with   ibm   in ,   the   defense   and   any   relate   settlement   negotiation . 
+ if   such   a   claim   be   make   or   appear   likely   to   be   make ,   customer   agree   to   permit   ibm   to   enable   customer   to   continue   to   use   the 
+ material   or   base   component ,   or   to   modify   they ,   or   replace   they   with   non - infringing   material   or   base   component   that   be   at   least 
+ functionally   equivalent .   if   ibm   determine   that   none   of   these   alternative   be   reasonably   available ,   customer   agree   to   return   the   material 
+ or   base   component   ( if   in   customer ’s   possession )   to   ibm   on   ibm ’s   write   request .    ibm   will   give   customer   a   credit   equal   to   the 
+ amount   customer   pay   ibm   for   the   applicable   material   or   for   use   of   the   applicable   base   component   up   to   a   maximum   of   twelve   ( 12 ) 
+ month   of   applicable   charge .   this   be   ibm ’s   entire   obligation   to   customer   with   regard   to   any   claim   of   infringement .   notwithstanding   the 
+ foregoing ,   ibm   be   not   responsible   for   third   party   claim   base   on : 
+ anything   customer   provide   which   be   incorporate   into   the   materials; 
+ customer ’s   modification   of   the   materials; 
+ the   combination ,   operation ,   or   use   of   the   material   with   any   product ,   datum ,   or   apparatus   that   ibm   do   not   provide;   or 
+ non - ibm   hardware ,   software ,   or   datum ,   include   those   that   may   be   in   the   base   component . 
+ indemnification   by   customer 
+ customer   will   defend   ibm   and   its   affiliate   and   their   employee ,   officer ,   and   director ,   at   customer ’s   expense ,   and   pay   all   cost , 
+ damage ,   and   reasonable   attorney '   fee   that   a   court   finally   award   ( or   which   customer   agree   in   any   final   settlement )   for   any   third 
+ party   claim : 
+ that   content   or   customer ’s   use   of   the   service   violate   a   customer ’s   obligation   in   section   11.3(b )   or   11.5   ( b); 
+ that   customer   component   infringe   that   party ’s   patent   or   copyright; 
+ that   be   bring   by   a   service   recipient   and   be   related ,   directly   or   indirectly ,   to   the   services;   or 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ arise   out   of   or   relate   to   a   mechanic '   lien   customer   be   require   to   cancel   and   discharge   pursuant   to   this   agreement . 
+ for   indemnification   under   this   section   8.2 ,   ibm   will : 
+ promptly   notify   customer   in   writing   of   the   claim;   and 
+ allow   customer   to   control ,   and   will   cooperate   with   customer   in ,   the   defense   and   any   relate   settlement   negotiation . 
+ 9.0 
+ limitation   of   ibm ’s   liability 
+ circumstance   may   arise   where ,   because   of   a   default   on   ibm ’s   part   or   other   liability ,   customer   be   entitle   to   recover   damage   from   ibm . 
+ regardless   of   the   basis   on   which   customer   be   entitle   to   claim   damage   from   ibm   ( include   fundamental   breach ,   negligence , 
+ misrepresentation ,   or   other   contract   or   tort   claim ) ,   ibm   be   liable   for   no   more   than : 
+ indemnification   payment   as   provide   in   section   8.1; 
+ damage   for   bodily   injury   ( include   death )   and   damage   to   real   property   and   tangible   personal   property;   and 
+ the   amount   of   any   other   actual   direct   damage ,   up   to   the   great   of   100,000   or   the   charge   pay   by   customer   to   ibm   for   the   service 
+ in   the   twelve   ( 12 )   month   immediately   precede   the   accrual   of   the   first   claim   relate   to   the   service .   the   forego   limit   also   apply   to 
+ any   of   ibm ’s   affiliate   and   subcontractor .    it   be   the   cumulative   maximum   for   which   ibm   and   its   affiliate   and   subcontractor   be 
+ collectively   responsible .   under   no   circumstance   be   ibm ,   its   affiliate   or   its   subcontractor   liable   for   any   of   the   following : 
+ third   party   claim   against   customer   for   damage   ( other   than   those   expressly   provide   in   subsection   9.0(a )   and   9.0(b));   or 
+ loss   of ,   or   damage   to ,   customer ’s   or   any   other   entity ’s   record   or   datum . 
+ 10.0 
+ disclaimer   of   consequential   damage 
+ in   no   event   will   either   party   be   liable   to   the   other   for   special ,   incidental ,   or   indirect   damage   or   for   any   consequential   damage   ( include 
+ lose   profit   or   saving ) ,   even   if   they   be   inform   of   the   possibility;   provide   that   this   section   10.0   do   not   apply   to   customer ’s   failure   to 
+ pay   any   amount   owe   to   ibm   under   this   agreement   ( include   amount   owe   for   service   that   would   have   be   render   but   for 
+ customer ’s   breach   of   this   agreement ) .  
+ 11.0 
+ other   customer   obligation 
+ customer   contact 
+ customer   will   designate   an   individual   to   whom   all   of   ibm ’s   communication   will   be   address   and   who   have   the   authority   to   act   and 
+ make   decision   for   customer   in   all   aspect   of   the   service ,   include   request   change ,   problem   resolution ,   service   request , 
+ assignment   of   customer   focal   point   with   authority   over   specific   service ,   and   designation   of   customer   authorize   representative 
+ ( " customer   contact " ) . 
+ service   support 
+ customer   will   comply   with   its   responsibility   to   support   the   service   as   specify   in   applicable   attachment .   such   obligation   be   to   be 
+ perform   at   no   charge   to   ibm .   ibm ’s   obligation   be   contingent   on   customer   meeting   such   support   obligation . 
+ representation   and   warranty 
+ customer   represent   and   warrant   that : 
+ it   have   the   requisite   corporate   power   and   authority   to   execute ,   deliver   and   perform   its   obligation   under   this   agreement;   customer   have 
+ no   contractual   or   other   obligation   that   ( i )   restrict   or   prohibit   customer 's   execution   or   performance   of   this   agreement ,   or   ( ii )   customer 
+ will   breach   in   connection   with   the   execution   or   performance   of   this   agreement;   and 
+ its   use   of   the   service   and   all   content   will   comply   with   the   acceptable   use   policy . 
+ suspect   violation 
+ ibm   reserve   the   right   to   investigate   potential   violation   of   the   representation   and   warranty   in   subsection   11.3(b ) .   if   ibm   reasonably 
+ determine   that   a   breach   of   any   such   warranty   have   occur ,   then   ibm   may ,   in   its   sole   discretion : 
+ restrict   customer ’s   access   to   the   services; 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ remove   or   require   removal   of   any   offend   content; 
+ terminate   this   agreement   for   cause;   and/or 
+ exercise   other   right   and   remedy ,   at   law   or   in   equity . 
+ except   in   an   emergency   or   as   may   otherwise   be   require   by   law ,   before   undertake   the   activity   in   subsection   11.4(a )   or   11.4(b ) ,   ibm 
+ will   attempt   to   notify   customer   by   any   reasonably   practical   mean   under   the   circumstance ,   such   as ,   without   limitation ,   by   telephone 
+ or   e - mail . 
+ customer   will   promptly   notify   ibm   of   any   event   or   circumstance   relate   to   this   agreement ,   customer ’s   use   of   the   service ,   or   content 
+ of   which   customer   become   aware   that   could   lead   to   a   claim   or   demand   against   ibm   and   customer   will   provide   all   relevant   information 
+ relate   to   such   event   or   circumstance   to   ibm   at   ibm ’s   request . 
+ customer   component 
+ customer   ( or   its   affiliate   or   third   party )   retain   all   right ,   title ,   and   interest   or   license   in   and   to   the   customer   component . 
+ customer   hereby   grant   to   ibm ,   its   affiliate   and   subcontractor   all   right   and   license   to ,   or   agree   to   promptly   obtain   and   keep   in 
+ effect   require   consent   for   all   customer   component ,   necessary   for   ibm   to   perform   all   of   its   obligation   as   set   forth   in   this 
+ agreement .    upon   request ,   customer   will   provide   to   ibm   evidence   of   any   such   right ,   license ,   or   require   consent .    ibm   will   be 
+ relieve   of   its   obligation   to   the   extent   that   they   be   affect   by   customer ’s   failure   to   promptly   obtain   and   provide   to   ibm   any   such 
+ right ,   license ,   or   require   consent .   ibm   will   adhere   to   reasonable   term   and   condition   pertain   to   customer   component   as 
+ notify   in   writing   to   ibm . 
+ ibm   agree   not   to   remove   or   alter   any   copyright   or   other   proprietary   notice   on   or   in   any   customer   component   without   customer ’s 
+ consent . 
+ capacity   planning 
+ customer   acknowledge   it   be   its   responsibility   to   determine   whether   the   service ,   e - business   host   environment ,   customer 
+ component   and   their   combination   will   meet   customer ’s   capacity ,   performance ,   or   scalability   need .    customer   be   responsible   for 
+ planning   for   and   request   change   to   the   e - business   host   environment ,   include   any   additional   capacity   require   to   support 
+ anticipate   peak   in   demand   that   may   significantly   increase   web   site   hit ,   transaction   volume ,   or   otherwise   increase   system   resource 
+ utilization . 
+ content 
+ customer   be   solely   responsible   for : 
+ all   content   include ,   without   limitation ,   its   selection ,   creation ,   encryption ,   transmission ,   transfer ,   design ,   licensing ,   installation , 
+ accuracy ,   maintenance ,   testing ,   backup   and   support; 
+ all   copyright ,   patent   and   trademark   clearance   in   all   applicable   jurisdiction   and   usage   agreement   for   any   and   all   content; 
+ the   selection   and   implementation   of   control   on   the   access   and   use   of   content;   and 
+ the   selection ,   management ,   separate   storage   of   key ,   and   use   of   any   public   and   private   key   and   digital   certificate   it   may   use   with   the 
+ service . 
+ 12.0 
+ other   license   and   right 
+ license   for   base   component 
+ ibm   ( or   its   affiliate   or   subcontractor )   retain   all   right ,   title ,   and   interest   in   base   component . 
+ ibm   grant   customer   a   nonexclusive ,   nontransferable ,   revocable   license   to   access   and   use   the   base   component   solely   in   connection 
+ with   the   service   as   provide   under   this   agreement .   customer   agree   not   to   download   or   otherwise   copy ,   reverse   assemble ,   reverse 
+ compile ,   decompile ,   or   otherwise   translate   the   software   portion   of   the   base   component ,   other   than   to   make   one   copy   for   backup 
+ purpose . 
+ if   ibm   provide   as   a   base   component   a   microsoft   corporation   product ,   the   term   and   condition   of   the   microsoft 
+ customer   license   term   will   also   apply   for   such   product .    such   term   be   locate   on   the   internet   at 
+ http://www.ibm.com/services/e-business/hosting/microsoftlicense.html . 
+ customer   agree   not   to   remove   or   alter   any   copyright   or   other   proprietary   notice   on   or   in   any   base   component   without   ibm ’s   consent . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ no   sale   or   lease   of   good 
+ as   between   customer   and   ibm ,   ibm   retain   all   right ,   title   and   interest   in   the   base   component .   no   good   be   sell   or   lease   by   ibm 
+ under   this   agreement .   if   customer   desire   to   purchase   or   lease   good   from   ibm ,   such   purchase   or   lease   will   be   govern   by   a   separate 
+ mutually   acceptable   write   agreement   between   customer   and   ibm   or   an   ibm   affiliate . 
+ no   lease   of   real   property 
+ this   agreement   be   a   service   agreement   and   not   a   lease   of   any   real   property . 
+ 13.0 
+ change 
+ service   description 
+ ibm ,   in   its   reasonable   discretion ,   may   change   the   term   and   condition   of   attachment   a   upon   at   least   ninety   ( 90 )   day   prior   notice   to 
+ customer   if   such   change   be   the   result   of : 
+ law ,   regulation ,   or   similar   governmental   action; 
+ a   ruling   by   a   court   of   competent   jurisdiction;   or 
+ change   in   the   method   of   service   delivery   that   affect   similar   ibm   e - business   host   customer . 
+ change   as   a   result   of   a ,   b ,   or   c   above   will   be   effective   on   the   date   ibm   specifie   in   the   notice . 
+ acceptable   use   policy 
+ ibm ,   in   its   reasonable   discretion ,   may   modify   the   acceptable   use   policy   upon   thirty   ( 30 )   day '   prior   notice   to   customer .    if   such 
+ modification   have   a   material   adverse   effect   on   the   customer ’s   use   of   the   service   and   provide   such   modification   be   not   require   by   law , 
+ regulation ,   or   similar   governmental   action ,   or   a   ruling   by   a   court   of   competent   jurisdiction ,   customer ’s   sole   remedy   be   to   terminate   this 
+ agreement   without   the   payment   of   termination   charge   provide   customer   give   ibm   notice   of   its   intent   to   terminate   within   ninety   ( 90 ) 
+ day   of   the   effective   date   of   such   modification . 
+ project   change   control   procedure 
+ this   agreement   may   be   amend   only   by   a   writing   sign   by   authorize   representative   of   both   party .   request   for   such   amendment 
+ ( " project   change   request "   or   " pcr " )   should   be   submit   in   writing   by   the   request   party .   the   pcr   should   reference   this   agreement , 
+ describe   in   a   reasonable   level   of   detail   the   propose   change ,   the   rationale   for   the   change ,   and   the   impact   the   propose   change   may 
+ have   on   the   agreement .   the   party   will   review   the   pcr   and   will   do   one   of   the   following : 
+ authorize   the   change   by   sign   the   pcr; 
+ agree   in   writing   to   submit   the   pcr   for   further   investigation .   in   such   case ,   customer   agree   to   pay   ibm   for   its   reasonable   charge ,   if 
+ any ,   for   such   investigation .   the   investigation   will   determine   the   technical   merit   and   the   effect   on   the   charge ,   schedule ,   and   other 
+ term   and   condition   that   may   result   from   the   implementation   of   the   pcr .   the   party   will   then   decide   either   to   accept   or   to   reject   the 
+ pcr;   or 
+ reject   the   pcr .   if   the   pcr   be   reject ,   the   reject   party   will   inform   the   request   party   of   the   reason   for   the   rejection . 
+ a   mutually   sign   pcr   will   be   deem   an   amendment   to   this   agreement .   any   modification   of   this   agreement   request   by   customer 
+ as   a   result   of   law   applicable   to   customer   will   be   consider   a   pcr   cover   by   this   subsection .   until   a   change   be   agree   in   writing , 
+ both   party   will   continue   to   act   in   accordance   with   the   late   agree   version   of   the   agreement . 
+ 14.0 
+ general 
+ heading 
+ the   heading   of   the   various   section   of   this   agreement   have   be   insert   for   convenience   only   and   shall   not   affect   the   interpretation   of 
+ this   agreement . 
+ survival 
+ any   of   these   term   and   condition   which   by   their   nature   extend   beyond   the   agreement   termination   or   expiration   remain   in   effect   until 
+ fulfil ,   include ,   without   limitation ,   section   4.4 ,   5 ,   6 ,   7 ,   8 ,   9 ,   10 ,   11.3 ,   11.4 ,   11.7 ,   12.2 ,   12.3 ,   and   14 ,   and   apply   to   both   customer ’s 
+ and   ibm ’s   respective   successor   and   assignee . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ choice   of   law 
+ this   agreement   will   be   govern   by   the   substantive   law   of   the   state   of   new   york ,   without   regard   for   its   conflict   of   law   provision . 
+ waiver   of   jury   trial 
+ the   party   waive   any   right   to   a   jury   trial   in   any   proceeding   arise   out   of   or   relate   to   this   agreement . 
+ severability 
+ if   any   provision   of   this   agreement   shall   be   hold   by   a   court   of   competent   jurisdiction   to   be   invalid ,   illegal ,   or   unenforceable ,   the   validity , 
+ legality ,   and   enforceability   of   the   remain   provision   of   this   agreement   shall   in   no   way   be   affect   or   impair   thereby ,   so   long   as   the 
+ remain   provision   of   this   agreement   still   express   the   original   intent   of   the   party .    if   the   original   intent   of   the   party   can   not   be 
+ preserve ,   this   agreement   shall   either   be   renegotiate   or   terminate . 
+ publicity   and   trademark 
+ neither   party   grant   the   other   the   right   to   use   its   or   any   of   its   affiliate '   trademark ,   trade   name ,   or   other   designation   in   any 
+ promotion ,   publication ,   or   web   site   without   prior   write   consent .   except   as   may   be   require   by   law   or   as   may   be   require   by   ibm   to 
+ perform   the   service ,   neither   party   may   disclose   to   any   third   party   the   term   and   condition   of   this   agreement ,   without   prior   write 
+ consent . 
+ no   third - party   beneficiary 
+ except   as   expressly   provide   in   section   8 ,   this   agreement   do   not   create   any   intend   third   party   beneficiary   right . 
+ personnel 
+ each   party   be   responsible   for   the   supervision ,   direction ,   and   control   of   its   respective   personnel .   ibm   reserve   the   right   to   determine   the 
+ assignment   of   its   personnel .   ibm   may   subcontract   portion   of   the   service   to   subcontractor   and   affiliate   select   by   ibm . 
+ no   agency 
+ this   agreement   do   not   create   an   agency ,   joint   venture ,   or   partnership   between   the   party . 
+ assignment 
+ neither   party   may   assign   this   agreement ,   in   whole   or   in   part ,   without   the   prior   write   consent   of   the   other .   any   attempt   to   do   so   be   void . 
+ neither   party   will   unreasonably   withhold   such   consent .   the   assignment   of   this   agreement ,   in   whole   or   in   part ,   to   any   affiliate   in   the 
+ united   state   or   to   a   successor   organization   by   merger   or   acquisition   do   not   require   the   consent   of   the   other .   ibm   be   also   permit   to 
+ assign   its   right   to   payment   under   this   agreement   without   obtain   customer ’s   consent .   it   be   not   consider   an   assignment   for   ibm 
+ to   div   a   portion   of   its   business   in   a   manner   that   similarly   affect   all   of   its   customer . 
+ no   resale 
+ customer   shall   not   resell   the   service ,   in   whole   or   in   part .    this   do   not   prevent   customer   from   make   their   content   available   to 
+ customer ’s   end   user . 
+ risk   of   loss 
+ risk   of   loss   for   all   base   component   shall   at   all   time   remain   with   ibm .   risk   of   loss   for   all   customer   component   shall   at   all   time 
+ remain   with   customer . 
+ force   majeure 
+ except   for   payment   obligation   hereunder ,   neither   party   be   responsible   to   fulfill   its   obligation   to   the   extent   due   to   cause   beyond   its 
+ control . 
+ action   period 
+ neither   party   will   bring   a   legal   action   relate   to   this   agreement   more   than   two   year   after   the   cause   of   action   accrue . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ waiver 
+ the   failure   of   one   party   to   insist   upon   strict   adherence   to   any   term   of   this   agreement   on   any   occasion   shall   not   be   consider   a   waiver , 
+ nor   shall   it   deprive   that   party   of   the   right   to   insist   later   on   adherence   thereto .   any   waiver   must   be   in   writing   and   sign   by   an   authorize 
+ representative   of   the   waive   party . 
+ freedom   of   action 
+ each   party   be   free   to   enter   into   similar   agreement   with   other . 
+ limitation   of   license 
+ each   of   we   grant   only   the   license   or   right   expressly   specify   herein .   no   other   license   or   right   ( include   license   or   right   under 
+ patent )   be   grant ,   either   directly ,   by   implication ,   estoppel ,   or   otherwise . 
+ material 
+ for   material   that   ibm   deliver   to   customer   that   be   create   during   the   performance   of   service   or   otherwise   ( such   as   those   that 
+ preexist   the   service ) ,   ibm   or   third   party   have   all   right ,   title ,   and   interest   ( include   ownership   of   copyright ) .   ibm   will   deliver   one   copy   of 
+ the   material   to   customer .   ibm   grant   customer   an   irrevocable ,   nonexclusive ,   worldwide ,   pay - up   license   to   use ,   execute ,   reproduce , 
+ display ,   and   perform   copy   of   such   material   and   distribute   within   customer ’s   affiliate   only .    customer   agree   to   reproduce   the 
+ copyright   notice   and   any   other   legend   of   ownership   on   any   copy   make . 
+ business   contact   information 
+ customer   agree   to   allow   ibm   and   its   affiliate   to   store   and   use   customer ’s   business   contact   information ,   include   name ,   business 
+ phone   number ,   and   business   e - mail   address ,   anywhere   they   do   business .   such   information   will   be   process   and   use   in 
+ connection   with   our   business   relationship ,   and   may   be   provide   to   contractor   act   on   ibm ’s   behalf ,   ibm   business   partner   who 
+ promote ,   market ,   and   support   certain   ibm   product   and   service ,   and   assignee   of   ibm   and   it ’s   affiliate   for   use   consistent   with   our 
+ business   relationship . 
+ datum   protection 
+ for   personal   information   process   by   ibm   on   customer ’s   behalf   as   part   of   the   service ,   ibm   will   act   in   accordance   with   customer ’s 
+ instruction   by   follow   such   processing   and   security   obligation   as   be   contain   in   this   agreement .    customer   also   confirm   that 
+ customer   be   solely   responsible   for   ensure   that   any   processing   and   security   obligation   comply   with   applicable   datum   protection   law . 
+ customer ’s   contact   information   shall   not   be   consider   personal   information   process   on   customer ’s   behalf . 
+ geographic   scope 
+ the   party   agree   that   while   service   recipient   outside   of   the   united   state   of   america   may   access   the   service ,   customer ’s   right 
+ and   ibm ’s   obligation   arise   out   of   the   agreement   be   valid   only   in   the   united   state   of   america . 
+ notice 
+ any   notice   require   or   permit   hereunder   will   be   effective   upon   receipt   and   will   be   personally   delivered;   mail   via   the   postal   service; 
+ send   by   reliable   overnight   courier;   or   transmit   by   confirm   facsimile .   except   for   notice   under   section   11.4 ,   all   notice   will   be   in 
+ writing   and   address   to   the   applicable   party ’s   designate   representative   at   the   address   specify   in   this   agreement .    except   as   to 
+ notice   permit   or   require   under   section   4   or   8 ,   the   party   agree   that   electronic   mail   message   send   between   they   use   security 
+ procedure   sufficient   to   reasonably   authenticate   they   will   be   deem   writing .   in   addition ,   ibm   may   provide   notice   under   section   13.2 
+ by   a   posting   to   the   web   site   identify   in   section   2.0   ( a ) . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+ in   enter   into   this   agreement ,   customer   be   not   rely   upon   any   representation   make   by   or   on   behalf   of   ibm   that   be   not   specify   in   the 
+ agreement ,   include   without   limitation ,   the   charge   to   be   pay   or   the   result   of   any   of   the   service   to   be   provide   under   this   agreement . 
+ by   signing   below ,   customer   and   ibm   agree   that   this   agreement ,   include   these   base   term   and   attachment ,   be   the   complete 
+ agreement   between   the   party   relate   to   this   subject   matter .   once   sign ,   1 )   any   reproduction   of   this   agreement   or   an   attachment 
+ make   by   reliable   mean   ( for   example ,   photocopy   or   facsimile )   be   consider   an   original   and   2 )   all   service   order   under   this   agreement 
+ be   subject   to   it . 
+ after   signing ,   please   return   a   copy   of   this   agreement   to   the   ibm   or   partner   sale   representative   list   above . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ attachment   a   –   service 
+ 1.0 
+ description 
+ ibm   will   provide   a   host   infrastructure   and   relate   service   in   an   e - business   host   center   as   describe   herein   ( " manage   host 
+ service " ) .    ibm   shall   have   sole   root   access   ( privilege   access   with   authority   to   perform   system - level   function   or   security 
+ administration )   for   all   base   component ,   except   for   partially   manage   server   ( " partially   manage   server " )   specify   in   attachment   b. 
+ ibm ’s   schedule   maintenance   hour   for   the   e - business   host   center   be   each   sunday   between   3:00   a.m.   and   6:00   a.m.   local   time . 
+ manage   host   service   may   not   be   available   during   this   time .    ibm   reserve   the   right   to   interrupt   manage   host   service   to 
+ perform   emergency   maintenance   as   need .    in   any   such   circumstance ,   ibm   will   use   commercially   reasonable   measure   to   notify 
+ customer .   schedule   maintenance   hour   may   change   upon   notice . 
+ 2.0 
+ base   component   software 
+ ibm   will   provide   the   follow   base   component   software : 
+ base   component   software   select   by   ibm   for   server   monitoring   and   management; 
+ base   component   software   select   by   ibm   for   antivirus   scanning   of   window   2003   servers; 
+ base   component   software   select   by   ibm   to   enable   backup   and   restoration   services;   and 
+ base   component   software   specify   in   attachment   b. 
+ upon   expiration   or   termination   of   this   attachment ,   customer   will   certify   in   writing   to   ibm   that   all   use   of   software   base   component   by 
+ customer   have   cease   and   that   customer   have   retain   no   copy   of   such   software . 
+ 3.0 
+ customer   component 
+ customer   will   provide   customer   component   identify   in   attachment   b ,   subject   to   the   follow   provision : 
+ the   provision   for   and   expense   of   installation   and   maintenance   for   customer   component   be   the   responsibility   of   customer .    upon 
+ customer ’s   request ,   ibm   will   schedule   maintenance ,   notify   customer   of   the   schedule ,   provide   access   to   the   e - business   host   center 
+ for   customer ’s   authorize   maintenance   vendor   as   require ,   and   escort   authorize   maintenance   personnel   while   on   premise   at   an   e- 
+ business   host   center; 
+ customer   be   responsible   for   obtain   and   maintain   personal   property   insurance   sufficient   to   cover   the   value   of   customer 
+ components; 
+ customer   be   responsible   for   any   shipping   or   temporary   storage   cost   incur   during   the   delivery   of   customer   component   to   the   e- 
+ business   host   center   or   removal   of   customer   component   from   the   e - business   host   center ,   unless   otherwise   expressly   set   forth 
+ in   an   attachment; 
+ customer   be   responsible   for   authorize   its   content   administrator   to   access   and   modify   content   by   provide   user   identification   to 
+ such   content   administrator   and   for   the   control   and   distribution   of   user   identification   and   any   misuse   of   such   user   identifications;   and 
+ on   or   before   five   ( 5 )   day   follow   expiration   or   termination   of   this   attachment ,   customer   will   erase   customer   component   from   any 
+ server   and   disk   space   that   ibm   provide   as   base   component .   on   or   before   fifteen   ( 15 )   day   follow   expiration   or   termination   of   this 
+ attachment ,   customer   will   remove   all   customer   component   and   any   other   customer   property   from   the   e - business   host   center 
+ ( exclude   any   base   component   and   other   ibm   property ) .   if   customer   do   not   remove   or   erase   customer   component   and   its   other 
+ property   within   such   period ,   ibm   have   the   option   to : 
+ move   any   and   all   customer   component   and   other   customer   property   to   storage   and   charge   customer   all   associate   costs; 
+ liquidate   customer   component   and   other   customer   property   in   any   reasonable   manner   and   charge   customer   all   associate   costs; 
+ and 
+ erase   all   customer   component   from   server   and   disk   space   that   ibm   provide   as   base   component . 
+ 4.0 
+ service   provide   by   ibm 
+ ip   address   service 
+ ibm   will   provide   the   number   of   register   primary   ip   address   specify   in   attachment   b. 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ transition   management 
+ ibm   will   assign   a   transition   manager   to   manage   and   oversee   the   installation   and   integration   of   base   and/or   customer   component 
+ specify   in   attachment   b   and   prepare   for   ongoing   operation .   the   project   manager   will : 
+ participate   in   a   pre - boarding   call   with   customer   to   review   customer ’s   host   environment   and   identify   information   need   for 
+ installation; 
+ report   installation   status   to   customer; 
+ schedule   and   conduct   a   boarding   call   with   customer   to   confirm   that   installation   of   customer ’s   host   environment   be   complete   and   that 
+ it   be   ready   for   use   ( host   service   ready   date);   and 
+ be   available   to   assist   customer   with   question   and   issue   during   normal   business   hour   for   the   e - business   host   center   ( monday 
+ through   friday ,   8:00   a.m.   -   6:00   p.m. ,   exclude   national   holiday ) . 
+ steady   state   support 
+ ibm   will   assign   a   project   manager   who   will   be   a   single   point   of   contact   during   the   ongoing   provision   of   service   to   assist   customer   with 
+ implementation   of   additional   service   and   resolution   of   problem .   the   account   support   representative   will : 
+ notify   customer   of   plan   or   emergency   e - business   host   center   maintenance; 
+ assist   with   change   requests;   and 
+ be   available   to   assist   customer   with   question   and   issue   during   normal   business   hour   for   the   e - business   host   center   ( monday 
+ through   friday ,   8:00   a.m.   -   6:00   p.m. ,   exclude   national   holiday ) . 
+ management   segment 
+ ibm   will   provide   a   local   area   network   connection   that   will   enable   ibm   to   manage   base   and/or   customer   component   and   provide   other 
+ service   at   the   e - business   host   center .    ibm   will   implement   a   vlan   and   any   routing   and   switch   configuration   within   the   ibm 
+ host   infrastructure   that   be   need   to   support   a   management   segment . 
+ 4.4.1 
+ backup   segment 
+ ibm   will   provide   a   gigabit   local   area   network   connection   that   will   enable   ibm   to   manage   the   backup   of   the   system   image   and   will   also 
+ provide   a   san   connection   to   manage   the   backup   of   customer   datum .   ibm   will   implement   a   backup   vlan   and   any   routing   and   switch 
+ configuration   within   the   ibm   host   infrastructure   that   be   need   to   support   a   backup   segment . 
+ internet   connectivity 
+ ibm   will   provide   a   primary   connection   between   the   e - business   host   center   and   the   internet   with   internet   commit   bandwidth   in 
+ increment   of   one   ( 1 )   mbps   as   select   by   customer   and   specify   in   attachment   b.    customer   will   provision   and   manage   all   ssl 
+ certificate . 
+ ibm   will   assign   private   ip   address   for   customer 's   server   at   the   e - business   host   center .   customer   be   responsible   for   work   with 
+ ibm   during   the   technical   discovery   phase   to   ensure   that   these   ip   address   do   not   pose   any   conflict   with   customer 's   exist   ip 
+ address   schema .   during   the   term   ibm   shall   not   change   the   public   ip   address(s )   assign   to   the   customer   without   the   customer ’s 
+ prior   write   consent . 
+ customer ’s   datum   traffic   between   the   ibm   e - business   host   center   and   the   internet   may   exceed   commit   bandwidth ,   if   capacity   be 
+ available   from   the   ibm   e - business   host   center   network   infrastructure . 
+ each   calendar   month ,   ibm   will   measure   customer ’s   actual   bandwidth   usage   by   sample   the   inbound   and   outbound   datum   traffic   volume 
+ between   the   ibm   e - business   host   center   and   the   internet   every   five   ( 5 )   minute .   at   the   end   of   the   month ,   ibm   will   discard   the   five 
+ percent   ( 5 )   of   the   sample   with   the   high   datum   traffic   volume .   customer ’s   " peak   bandwidth   usage "   for   that   month   be   the   remain 
+ sample   with   the   high   datum   traffic   volume .    if   customer ’s   peak   bandwidth   usage   for   the   month   exceed   committed   bandwidth , 
+ customer   will   incur   a   peak   bandwidth   usage   charge ,   for   the   amount   of   usage   that   exceed   committed   bandwidth ,   at   the   rate   specify 
+ in   attachment   c. 
+ in   addition ,   ibm   will   provide   access   to   bandwidth   utilization   report   through   a   customer   accessible   web   portal . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ manage   switch ,   firewall   and   load   balance 
+ ibm   will   provide   the   installation   and   ongoing   management   of   switch ,   firewall   and   load   balance   component   specify   in   attachment   b. 
+ ibm   will : 
+ install   the   switch   and   firewall   component   define   in   attachment   b ,   implement   switch   and   firewall   setting   request   by   customer ,   and 
+ test   one   ( 1 )   path   to   each   network   interface   card   ( include   secondary )   in   each   component; 
+ operate   and   provide   support   for   all   switch   and   firewall   component   request   in   the   attachment   b   and   monitor   their   availability   7x24 
+ every   day   of   the   year; 
+ provide   on - call   technical   support   7x24   every   day   of   the   year   for   switch   and   firewall   component   that   may   include : 
+ assistance   with   problem   determination; 
+ reboot / power - on   of   fail   switch   and   firewall   component   and   provide   customer   notification;   and 
+ implementation   of   change   to   switch   and   firewall   setting   request   by   customer . 
+ back   up   of   customer - request   switch   and   firewall   setting   and   the   restoration   of   setting   in   the   event   of   a   failure; 
+ provide   customer   daily   status   of   firewall   via   a   customer   accessible   ibm   web   portal; 
+ provide   customer   daily   status   of   their   network   via   the   customer   accessible   ibm   web   portal; 
+ ibm   will   assign   private   ip   address   in   the   range   of   10.200.x.x   for   the   private   network   for   component   server   at   the   host   facility . 
+ customer   be   responsible   for   work   with   ibm   during   the   technical   due   diligence   period   to   ensure   that   these   ip   address   do   not   pose 
+ any   conflict   with   customer 's   exist   ip   address   schema; 
+ in   case   of   a   conflict ,   customer   will   provide   network   address   translation   ( nating )   for   the   ip   address   in   conflict;   and 
+ the   ipsec   tunnel   for   the   vpns   will   be   base   on   ipsec   3 - des   technology . 
+ support   the   follow   load   balance   technique .    the   actual   technique   to   be   use   for   customer   will   be   determine   during 
+ implementation   and   document   in   the   operation   run   book   maintain   by   ibm . 
+ round   robin   ( default   load   balance   technique ) 
+ connection   be   distribute   evenly   across   all   member   in   the   pool . 
+ ratio 
+ member   -   connection   be   send   to   a   member   with   a   high   ratio   number   more   often   than   a   member   with   a   low   ratio   number . 
+ node   address   -   the   total   number   of   connection   send   to   a   member   in   the   pool   be   determine   by   the   weight   number   you   assign   the   node 
+ address . 
+ least   connection 
+ member   -   connection   be   send   to   the   member   with   the   least   active   connection . 
+ node   address   -   connection   be   send   to   the   node   serve   the   least   amount   of   connection . 
+ observe 
+ 0 . member   -   connection   be   send   to   a   member   base   on   a   combination   of   the   number   of   current   connection   and   the   response   time   of 
+ the   member .   the   load   balancer   analyze   the   performance   of   the   member   over   time   and   send   connection   to   the   member   base   on 
+ the   trend . 
+ . node   address   -   connection   be   send   to   a   node   base   on   a   combination   of   the 
+ number   of   current   connection   and   the   response   time   of   the 
+ node .   the   load   balancer   analyze   the   performance   of   the   node   over   time   and   send   connection   to   the   node   base   on   the   trend . 
+ 2 . predictive 
+ 3 . member   -   connection   be   send   to   a   member   base   on   a   combination   of   the   number   of   current   connection   and   the   response   time   of 
+ the   member   over   time . 
+ 4 . node   address   -   connection   be   send   to   a   node   base   on   a   combination   of   the   number   of   current   connection   and   the   response   time   of 
+ the   node   over   time . 
+ 5 . fast   node   address   -   connection   be   send   to   the   node   that   respond   most   quickly . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ security   management 
+ the   security   management   specify   in   this   section   be   include   as   part   of   the   switch   &   firewall   service   specify   above . 
+ ibm   will : 
+ be   responsible   for   day - to - day   logical   security   management   for   the   firewall(s ) ,   switch   and   server   dedicate   to   customer ’s   e - business 
+ host   environment; 
+ assist   in   logically   connect   ( at   osi   layer   3 )   customer   network   to   the   ibm   manage   network   only   when   the   connection   be 
+ specifically   identify   and   agree   to   in   advance   by   both   party   in   writing; 
+ implement   and   administer   technical   and   procedural   control   to   prevent   unauthorized ,   logical   access; 
+ report   incident   of   security   breach   or   suspect   security   breach   to   customer; 
+ replace   software   vendor - supply   default   password   setting   with   unique   secure   passwords; 
+ implement   network   intrusion   detection / event   log   mechanisms; 
+ host   base   intrusion   for   an   additional   fee ,   if   request   by   customer; 
+ perform   regular   vulnerability   scan   of   instal   base   component   software   for : 
+ know / report   component   vulnerability 
+ available   security   patch / fixes; 
+ include   firewall   and   all   ip   enable   device   in   the   network   both   inside   as   well   as   outside   the   firewall; 
+ scan   external   connection   to   the   customer 's   environment; 
+ scan   the   internal   connection   to   the   customer 's   servers; 
+ scan   the   connection   to   the   supplier   management   and   backup   segments; 
+ update   list   of   common   vulnerability   signature   weekly; 
+ update   list   of   security   patch   by   device   and   os   weekly; 
+ perform   weekly   scan   of   all   ip   enable   devices; 
+ 0 . post   weekly   exception   report   to   the   customer   accessible   web   portal; 
+ . recommend   corrective   action; 
+ 2 . notify   customer   of   all   critical   vulnerability   discover   during   the   scan; 
+ 3 . notify   customer   of   all   repeat   vulnerability   that   have   not   be   correct   or   acknowledge   by   the   customer; 
+ 4 . outage   cause   by   customer   not   approve   supplier   recommend   vulnerability   fix   will   not   be   eligible   for   sla . 
+ 5 . know / report   component   vulnerabilities;   and 
+ 6 . install   available   security   patch / fix   at   the   early   opportunity   afford   by   the   change   control   process; 
+ install   available   security   patch / fix   use   the   change   control   process ,   as   approve   by   the   customer   in   writing; 
+ establish   rule   for   password   selection   and   control ,   for   example : 
+ password   must   be   robust   and   not   incremental ,   easily   discern ,   and   change   on   regular   interval   such   as   90   days; 
+ user   id   /   password   should   be   disable   after   a   predefine   number   of   unsuccessful   access   attempt   or   after   a   period   of   prolong 
+ inactivity; 
+ if   support   by   the   operate   system / application ,   the   software   should   enforce   password   syntax   and   change   interval; 
+ define   and   implement   clear   procedure   for   detecting ,   recording   and   report   security   incident   and   issue . 
+ fully   manage   server 
+ ibm   will   provide   installation   and   ongoing   management   of   server   base   and/or   customer   component   specify   ( as   fully   manage 
+ server )   in   attachment   b ,   24x7   everyday   of   the   year .   follow   installation   and   prior   to   ibm   begin   ongoing   management ,   customer 
+ may   request   root   access   for   a   limit   period   of   time ,   solely   for   the   purpose   of   load   and   configure   customer   content .   it   be   require 
+ that   the   customer 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ will   not   modify   or   change   any   of   the   administrative   area   ( for   example ,   unix   / ,   /etc ,   /bin ,   /usr / sbin ,   or   /var )   without   write   consent   from 
+ ibm .    ibm   will   not   begin   ongoing   server   management   until   customer   return   sole   root   access   to   ibm   and   ibm   verifie   that   the 
+ environment   be   stable   and   supportable . 
+ ibm   will : 
+ install   the   manage   server   request   in   a   attachment   b   include   infrastructure   relate   software   object   module   consist   of   a 
+ predefine   combination   of   operate   system ,   applicable   fix ,   select   security   /   virus   patch   for   window   base   system , 
+ management   tool   and   agents; 
+ test   network   connectivity   path   to   server   component   request   in   a   attachment   b; 
+ perform   the   operation   event   and   predefine   action   for   manage   server   request   in   a   attachment   b; 
+ provide   technical   support ,   include   problem   determination ,   for   the   device   hardware   and   os .    ibm   will   install   agent   to   monitor   and 
+ report   on   only   the   follow : 
+ network   interface   up / down 
+ physical   memory   utilization 
+ processor   utilization   –   overall 
+ disk   space   utilization 
+ os   service   and/or   daemon 
+ provide   routine   server   administration   for   the   manage   server   request   in   the   applicable   attachment   a; 
+ perform   one   ( 1 )   weekly   full   and   six   ( 6 )   daily   incremental   backup   of   system   image   during   the   schedule   maintenance   window   unless 
+ otherwise   set   forth   in   the   applicable   attachment   a.   the   system   image   will   capture   the   information   necessary   to   be   able   to   perform   a 
+ successful   single   step   bare   metal   restore . 
+ provide   retention   in   the   ibm   library   for   weekly   full   backup   of   system   image   for   a   period   of   fourteen   ( 14 )   calendar   day   unless   otherwise 
+ set   forth   in   the   applicable   attachment   b; 
+ restore   system   image   at   no   additional   charge   up   to   two   ( 2 )   time   per   month   per   manage   server   per   customer .   this   exclude   bare 
+ metal   restore .   bare   metal   restore   may   be   perform   for   an   additional   charge   use   smarthand   rate . 
+ provide   offsite   storage   for   weekly   backup   of   system   image .   such   backup   shall   be   send   offsite   once   a   week   and   be   retain   offsite   for 
+ a   period   of   twenty - eight   ( 28 )   calendar   day   unless   otherwise   set   forth   in   the   applicable   attachment   b;   provide   daily   status   of   the   state 
+ of   the   customer   environment   use   a   customer   accessible   ibm   web   portal; 
+ provide   detail   and   a   monthly   summary   of   the   threshold   be   monitor   use   a   customer   accessible   ibm   web   portal; 
+ provide   detail   and   a   monthly   summary   of   the   utilization   of   manage   server   component   such   as   cpu ,   memory   and   disk .   report   will 
+ be   provide   use   the   customer   accessible   ibm   web   portal; 
+ provide   detail   of   trouble   ticket   and   their   status   and   action   take   to   resolve   the   trouble   ticket   use   a   customer   accessible   ibm   web 
+ portal; 
+ identify   maintenance   release   for   support   o / s   technology   outline   in   attachment   d   ( support   technology )   and   provide 
+ assessment   and   notification   to   customer; 
+ apply   os   maintenance   release   that   be   approve   by   ibm; 
+ identify   security   patch / hotfixe   for   support   o / s   technology   outline   in   attachment   d   ( support   technology )   and ,   for   critical 
+ patch ,   provide   assessment   and   notification   to   customer   and   the   ibm   pe   and   ibm   pm   within   seventy - two   ( 72 )   hour   of   release   from 
+ vendor; 
+ apply   patch   to   the   os   that   be   approve   by   ibm   or   customer;   and 
+ provide   device   availability   statistic   for   manage   server   use   a   customer   accessible   ibm   web   portal . 
+ in   addition ,   the   follow   will   apply   for   manage   server : 
+ when   ibm   own   administrative   right ,   then   follow   installation   and   prior   to   ibm   begin   ongoing   management ,   customer   may 
+ request   root   access   for   a   limit   period   of   time ,   solely   for   the   purpose   of   load   and   configure   customer   content .   it   be   require   that 
+ the   customer   will   not   modify   or   change   any   of   the   administrative   right   ( e.g.   linux   / ,   /etc ,   /bin ,   /usr / sbin ,   /var ,   etc;   microsoft   local 
+ administrator   account / group ,   user   right   assignment ,   system   file / directory   permission ,   etc )   without   write 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ consent   from   ibm .   ibm   will   not   begin   ongoing   server   management   until   customer   return   sole   root   access   to   ibm   and   ibm   verifie   that 
+ the   environment   be   stable   and   supportable . 
+ when   ibm   own   administrative   right ,   customer   may   request   temporary   administrative   right   in   writing   during   ongoing   management .   it 
+ be   require   that   the   customer   will   not   modify   or   change   any   of   the   administrative   right   ( e.g.   linux   / ,   /etc ,   /bin ,   /usr / sbin ,   /var ,   etc; 
+ microsoft   local   administrator   account / group ,   user   right   assignment ,   system   file / directory   permission ,   etc )   without   write 
+ consent   from   ibm .   during   this   period   the   sla   will   be   suspend . 
+ if   customer   choose   to   own   administrative   right ,   sla   for   those   manage   server   will   be   suspend   for   the   term   of   the   attachment   b. 
+ ibm   may   request   temporary   administrative   right   to   deploy   patch   and   other   administrative   task . 
+ although   there   be   no   limitation   on   the   number   of   change   request ,   the   number   of   emergency   request   will   be   limit   to   three   ( 3 ) 
+ request   per   month ,   per   customer   at   no   additional   charge .   additional   request   shall   be   at   the   smarthand   rate . 
+ customer   must   test   their   application   and   approve   the   ibm   apply   maintenance   release   for   their   os   such   that   the   environment   be 
+ always   within   two   maintenance   release .   all   sla   will   be   suspend   and   service   will   be   provide   on   a   good   effort   basis   for   any 
+ environment   that   do   not   comply   with   this   requirement . 
+ ibm   will   support   the   current   release   ( " n " )   and   the   release   immediately   precede   the   current   release   ( " n-1 " )   of   the   operate   system 
+ software .   ibm   and   ibm   will   work   jointly   to   determine   when   operate   system   and   micro   code   upgrade   and   fix   be   apply . 
+ ibm   will   not : 
+ setup   and   maintain   customer   end   users; 
+ install ,   maintain   or   support   customer   applications; 
+ provide   application   troubleshoot   service   unless   manage   application   service   or   t&m   service   have   be   purchased; 
+ perform   logical   database   administration;   and 
+ perform   backup   of   customer   content .   such   backup   be   provide   as   part   of   the   storage   service   as   outline   in   this   attachment   a. 
+ monitoring   of   fully   manage   server 
+ ibm   will   install   software   component   to   enable   monitoring   of   the   base   and/or   customer   component   specify   in   attachment   b.   on   a 
+ 24x7   everyday   of   the   year   basis ,   ibm   will : 
+ monitor   all   network   interface   card   ( nic); 
+ monitor   select   operate   system   threshold ,   log   and   processes; 
+ respond   to   exception   and   alert .   ibm   will   execute   any   internal   standard   operate   procedure   ( sop )   or   a   reasonable   sop   provide 
+ by   customer .   additionally ,   ibm   will   make   the   initial   determination   as   to   whether   the   issue   fall   within   the   operational / system / network 
+ area   or   be   an   application   issue; 
+ determine   if   there   be   patch   available   for   the   os; 
+ apply   patch   to   the   os   that   be   approve   by   ibm   in   writing; 
+ make   the   initial   determination   as   to   whether   the   issue   fall   within   the   operational / system / network   area; 
+ immediately   notify   the   customer   of   severity   1   and   2   incidents; 
+ monitor   for   hardware   predictive   failure   analysis   alert   when   use   ibm   servers;   and 
+ notify   customer   in   writing   when   customer   intervention   or   decision   be   require . 
+ customer   may   request ,   in   writing ,   the   granting   of   temporary   administrative   right   after   the   customer   environment   have   be   turn   over 
+ to   ibm   for   monitoring .   ibm   will   not   monitor   the   affect   component   while   customer   have   administrative   right   and   any   sla   provision 
+ will   be   suspend   during   this   period . 
+ ibm   will   provide   customer   with   information   on   the   web   portal   that   show   monitoring   statistic   that   include   daily   and   historical   information 
+ ( maintain   for   a   one   ( 1 )   month   period ) .   these   report   will   include   the   utilization   of   the   component   include   in   the   threshold   monitoring , 
+ such   as   cpu ,   memory   and   disk . 
+ monitoring   of   the   base   and/or   customer   component   with   associate   alert   will   not   be   activate   from   ibm ’s   production   monitoring 
+ system   until   the   customer   production   ready   date .   customer   shall   not   be 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ eligible   for   an   availability   credit   until   the   first   full   calendar   month   follow   the   customer   production   ready   date .  
+ basic   monitoring   service   ( ping   monitoring ) 
+ ibm   will   provide   basic   ping   monitoring   of   the   base   and/or   customer   component   on   a   24x7   everyday   of   the   year   basis .   ibm   will   provide 
+ installation   and   ongoing   monitoring   for   server   and   non - server   partially   manage ,   monitor   base   and/or   customer   component . 
+ customer   will   own   administrative   right   for   the   device   to   be   monitor .   however ,   ibm   may   request   and   will   be   grant   temporary 
+ administrative   right   in   order   to   install ,   setup ,   or   maintain   any   agent   require   to   perform   the   monitoring . 
+ ibm   reserve   the   right   to   adjust   the   threshold   for   any   monitor   event   in   order   to   reduce   the   instance   of   false   positive .   customer   will 
+ be   notify   in   of   the   change . 
+ ibm   reserve   the   right   to   take   a   basic   monitor   server   offline   if   it   be   deem   by   ibm   to   be   a   security   risk   for   the   rest   of   the   ibm 
+ environment .   ibm   will   inform   the   customer ,   the   ibm   pe   and   the   ibm   pm   of   such   action . 
+ ibm   will : 
+ monitor   all   network   interface   card   ( nic); 
+ request   the   temporary   root   access   privilege   from   customer   if   require 
+ provide   customer   with   a   user   i d   and   password   to   a   secure   portal   for   view   of   real - time   monitoring   status   and   alert   history; 
+ send   an   administrative   alert   via   electronic   mail   to   a   customer - supply   address   if   a   nic   fail   to   respond   to   a   ping; 
+ notify   customer   in   writing   when   customer   intervention   or   decision   be   require . 
+ maintain   and   monitor   system   use   to   provide   monitoring; 
+ test   and   apply   patch   to   monitor   system   as   needed;   and 
+ provide   monitoring   statistic   on   the   ibm   web   portal . 
+ ibm   will   not : 
+ respond   to   exception   and   alerts; 
+ monitor   any   hardware ,   application ,   database ,   network ,   or   operate   system   component   other   than   those   specify   above; 
+ provide   third - party   monitor   agents;   and 
+ provide   any   reporting   either   in   hard - copy   or   electronic   form   other   than   what   be   available   through   the   customer   portal . 
+ monitoring   of   the   base   and/or   customer   component   with   associate   alert   will   not   be   activate   from   ibm ’s   production   monitoring 
+ system   until   the   customer ’s   customer   production   ready   date .   customer   shall   not   be   eligible   for   an   availability   credit   until   the   first   full 
+ calendar   month   follow   the   customer   production   ready   date . 
+ in   addition ,   the   follow   will   apply   for   basic   monitoring   service : 
+ follow   the   initial   installation ,   customer   will   be   give   root   access   to   the   base   components; 
+ ibm   will   provide   space ,   power   and   cool   for   the   base   and/or   customer   components; 
+ ibm   will   include   up   to   five   ( 5 )   operational   event   per   month; 
+ customer   content   backup   be   not   include   in   the   base   offering   and   can   be   provide   at   an   additional   cost; 
+ customer   system   image   backup   be   not   include   in   the   base   offering   and   can   be   provide   at   an   additional   cost; 
+ system   administration   be   not   include   in   the   base   offering; 
+ patch   management   be   not   include   in   the   base   offering; 
+ the   status   of   all   server   base   and/or   customer   component   base   solely   on   the   ping   monitoring   of   the   network   interface   card   will   be 
+ show   on   the   web   portal   and   the   customer   will   also   be   notified;   and 
+ ibm   will   issue   the   ping   command   for   each   server   base   component   at   least   every   fifteen   ( 15 )   minute . 
+ advance   monitor   service 
+ ibm   will   provide   24x7   advanced   device   monitoring   of   the   server   and   non - server   base   and/or   customer   component . 
+ customer   will   own   administrative   right   for   the   device   to   be   monitor .   however ,   ibm   may   request   and   will   be   grant   temporary 
+ administrative   right   in   order   to   install ,   setup ,   or   maintain   native   snmp   agent   as   require   to   perform   the   monitoring . 
+ ibm   reserve   the   right   to   adjust   the   threshold   for   any   monitor   event   in   order   to   reduce   the   instance   of   false   positive .   customer   will 
+ be   notify   in   of   the   change . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ ibm   will : 
+ monitor   all   network   interface   card   ( nic); 
+ monitor   the   follow   operate   system   metric : 
+ cpu   utilization; 
+ memory   and   swap   utilization; 
+ disk   and   filesystem   utilization; 
+ monitor   for   hardware   predictive   failure   analysis   alert   when   use   ibm   servers; 
+ define   and   set   threshold   for   all   monitor   event   base   on   industry   standard   good   practices; 
+ provide   customer   with   a   user   i d   and   password   to   a   secure   portal   for   view   of   real - time   monitoring   status   and   alert   history; 
+ send   an   administrative   alert   via   electronic   mail   to   a   customer - supply   address   for   all   event   that   exceed   the   maximum   allowable 
+ threshold; 
+ notify   customer   in   writing   when   customer   intervention   or   decision   be   require . 
+ maintain   and   monitor   system   use   to   provide   monitoring; 
+ test   and   apply   patch   to   monitor   system   as   need 
+ ibm   will   not : 
+ respond   to   exception   and   alerts; 
+ monitor   any   application ,   database ,   network ,   or   operate   system   component   other   than   those   specify   above; 
+ provide   third - party   monitor   agents; 
+ provide   any   reporting   either   in   hard - copy   or   electronic   form   other   than   what   be   available   through   the   customer   portal . 
+ ibm   will   provide   customer   with   information   on   the   ibm   web   portal   that   show   monitoring   statistic   that   include   daily   and   historical 
+ information   ( maintain   for   additional   one   ( 1 )   month   period ) .   these   report   will   include   the   utilization   of   the   component   include   in   the 
+ threshold   monitoring ,   such   as   cpu ,   memory   and   disk .   this   historical   information   may   optionally ,   for   an   additional   fee ,   include   one   year 
+ of   history .   the   report   for   iserie   may   be   different   from   those   available   for   other   platform . 
+ monitoring   of   the   base   and/or   customer   component   with   associate   alert   will   not   be   activate   from   ibm ’s   production   monitoring 
+ system   until   the   customer ’s   customer   production   ready   date .   customer   shall   not   be   eligible   for   an   availability   credit   until   the   first   full 
+ calendar   month   follow   the   customer   production   ready   date . 
+ virtual   server   for   microsoft   window   and   linux   os 
+ customer   environment   can   consist   of   virtual   as   well   as   physical   device .   for   virtual   server ,   ibm   will   provide   the   follow   service : 
+ service   define   under   manage   server   in   section   4.8   ( fully   manage   servers; 
+ physical   server   need   to   operate   a   virtual   server   farm; 
+ all   license   for   virtualization   software   and   management   tool   ( e.g.   vmware   esx3.0;   vmotion   and   other   as   needed); 
+ capacity   management   for   the   physical   server   farm   to   ensure   each   virtual   server   have   resource   require   for   operation   as   specify   in 
+ attachment   b; 
+ restart   virtual   machine   in   the   event   of   a   virtual   or   physical   machine   failure;   and 
+ include   twenty   ( 20 )   gb   of   virtual   disk   for   os   and   application   code   for   each   virtual   server . 
+ storage   service   -   manage   san   fabric 
+ ibm   will   provide   installation ,   configuration ,   ongoing   system   administration   and   management   support   service   for   the   san   fabric   base 
+ and/or   customer   component   ( " san   fabric " )   identify   in   attachment   b   at   the   e - business   host   center .    ibm   will   zone   the   san 
+ switch   as   necessary   for   security .   ibm   retain   sole   root / administrative   access   ( privilege   access   with   authority   to   perform   system - level 
+ function   or   security   administration )   in   order   to   perform   installation   and   ongoing   management   service   for   the   san   fabric . 
+ the   follow   item   apply   to   the   san   fabric : 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ the   manage   server   will   be   connect   to   the   san   storage   via   multiple   connection   to   the   san   switch   use   two   or   more   hbas   for 
+ redundancy   in   each   server ,   as   describe   for   each   server   in   attachment   b. 
+ the   storage   backup   medium   server   will   be   connect   to   the   san   storage   via   redundant   connection   to   the   san   switch   use   two   or 
+ more   hbas   in   each   server . 
+ in   the   event   that   additional   san   switch   be   require ,   customer   will   sign   a   new   pcr   for   the   additional   san   switch . 
+ manage   san   storage   –   " share "   environment 
+ ibm   will   provide   installation   and   ongoing   system   administration   and   management   support   service   for   the   share   san   storage   device 
+ component   specify   in   attachment   b.   disk   space   will   be   allocate   by   ibm   base   upon   customer   provide   specification   from   a 
+ common   pool   of   san   storage .   san   switch   with   zoning   dedicate   to   a   customer   and   dedicate   lun   will   be   use   to   securely 
+ implement   individual   datum   storage   requirement .   manage   san   storage   apply   only   to   customer   datum   storage   and   exclude   system 
+ image . 
+ customer   will   be   responsible   for   populate   the   file   and   database   and   for   all   customer   content .   ibm   retain   sole   root / administrative 
+ access   ( privilege   access   with   authority   to   perform   system - level   function   or   security   administration )   in   order   to   perform   installation   and 
+ ongoing   management   service   for   san   storage . 
+ the   follow   item   apply   to   the   san   storage   share   environment : 
+ manage   server   will   be   connect   to   the   san   storage   via   redundant   connection   to   different   san   switch   use   two   ( 2 )   or   more 
+ hbas   in   each   server; 
+ the   storage   backup   medium   server   will   be   connect   to   the   san   storage   via   redundant   connection   to   the   san   switch   use   two   or 
+ more   hbas   in   each   server;   and 
+ if   additional   san   storage   capacity   be   require ,   customer   will   sign   a   project   change   request   for   additional   san   capacity . 
+ virtual   private   network 
+ ibm   will   configure   and   manage   the   number   of   vpns   identify   in   attachment   b.   the   vpns   will   consist   of   an   ipsec   tunnel   base   on   3- 
+ des   shaw   technology   in   the   firewall   at   the   e - business   host   center .   ibm   will   configure   and   manage   the   vpn   tunnel   at   the   e - business 
+ host   center .   customer   will   configure   and   manage   a   correspond   ipsec   tunnel   base   on   3 - des   shaw   technology   at   customer ’s 
+ location . 
+ the   ipsec   connection   will   be   from   specified   device   at   customer ’s   site   to   specify   device   at   the   e - business   host   center   as   define 
+ by   customer . 
+ physical   database   administration   ( microsoft   sql ) 
+ ibm   will   provide   physical   and   operational   database   administration   support   for   micorsoft   sql ,   database   software   ( " database   software " ) 
+ for   the   number   of   base   component   database   server   with   the   database   software   specify   in   attachment   b   ( " database   administration 
+ server " ) . 
+ customer   will   provide   all   database   software ,   and   any   require   license ,   as   a   customer   component . 
+ ibm   will   install   database   software   on   the   database   administration   server . 
+ ibm   will   provide   four   ( 4 )   hour   of   database   setup   support   for   each   of   the   database   administration   server . 
+ each   month   ibm   will   provide   four   ( 4 )   hour   of   database   administration   support   for   each   of   the   database   administration   server . 
+ additional   hourly   database   administration   and   setup   support   charge   will   be   at   the   additional   hourly   support   rate   specify   in 
+ attachment   c ,   unless   otherwise   specify   in   a   project   change   request   between   customer   and   ibm . 
+ ibm   will   not   provide   physical   or   logical   datum   base   administration   for   mysql . 
+ customer   care 
+ ibm   will   provide   a   toll   free   number   ( inside   the   we )   to   receive   problem   notification   and   service   request   7x24   each   day   of   the   year   from 
+ authorize   customer   representative   regard   service   provide   under   this   agreement .   customer   representative   shall   be   identify   via 
+ email   to   the   ibm   project   manager .   change   or   addition   to   the   customer   representative   will   also   be   make   to   the   ibm   project   manager 
+ via   email . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ ill   assign   the   follow   priority   level   to   each   report   problem   as   list   in   the   table   below : 
+ severity   1   –   critical   impact   problem   that   make   the   customer   environment   unavailable   or   degrade   to   a   level   where   customer   be   unable 
+ to   conduct   business . 
+ severity   2   –   major   impact .   customer   be   able   to   conduct   business   but   a   function   or   service   be   not   available . 
+ severity   3   –   minor   impact .   the   customer   environment   be   not   seriously   affect . 
+ severity   4   –   no   impact .   short   come ,   dissatisfaction ,   or   question . 
+ emergency   –   ability   to   conduct   business   be   not   be   affect ,   however   due   to   other   business   drive   decision ,   the   request   need   to 
+ be   treat   as   a   severity   1 . 
+ ibm   will : 
+ attempt   to   resolve   on   the   first   call   service   request   such   as   password   reset   for   administrative   i d ’s ,   access   control   for   authorize 
+ customer   representative   follow   the   mutually   agree   process   and   start   and   stop   of   service . 
+ document   customer   or   ibm   internally   generate   call   identification   datum   in   their   customer   care   ( technical   support )   system . 
+ provide   monthly   report   show   service   request ,   resolution ,   call   age   datum ,   and   other   call   report   information   within   ten   ( 10 )   business 
+ day   from   the   end   of   the   calendar   month .   the   report   will   be   provide   via   the   web   portal . 
+ direct   customer   call ,   as   appropriate ,   to   an   ibm   technical   specialist ,   coordinate   problem   determination ,   attempt   resolution ,   perform   root 
+ cause   analysis ,   make   ticket   history   available   via   the   web   portal   and   log   and   track   call   to   closure . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ will   assign   the   follow   priority   level   and   respond   to   each   report   problem   as   show   in   the   follow   table : 
+ severity 
+ initial   communication 
+ recur 
+ communication 
+ communication 
+ content 
+ 1   –   critical 
+ impact 
+ ibm   provide   notification 
+ within   15   minute   of   a 
+ confirm   outage . 
+ ibm   support   be   available   24   x   7   for   the 
+ duration   of   the   outage . 
+ on - site   support   at   ibm   host   facility 
+ within   four   ( 4 )   hour   when   ibm   on - site 
+ support   be   request   by   customer . 
+ · 
+ current   status 
+ · 
+ estimate   resolution 
+ time 
+ · 
+ next   activity   plan 
+ 2   –   major   impact ibm   provide   notification 
+ within   30   minute   of   a 
+ confirm   outage . 
+ ibm   support   be   available   24   x   7   for   the 
+ duration   of   the   outage . 
+ · 
+ current   status 
+ · 
+ estimate   resolution 
+ time 
+ · 
+ next   activity   plan 
+ 3   –   minor   impact ibm   provide   notification 
+ within   1   hour   of   a   confirm 
+ outage . 
+ ibm   support   be   available   24   x   7   for   the 
+ duration   of   the   outage . 
+ · 
+ current   status 
+ · 
+ estimate   resolution 
+ time 
+ · 
+ next   activity   plan 
+ 4   –   no   impact   or 
+ a   question 
+ ibm   provide   notification 
+ within   24   hour . 
+ ibm   support   be   available   24   x   7   for   the 
+ duration   of   the   outage . 
+ · 
+ current   status 
+ · 
+ estimate   resolution 
+ time 
+ · 
+ next   activity   plan 
+ emergency 
+ ibm   provide   notification 
+ within   15   minute   of   a 
+ confirm   outage 
+ ibm   support   be   available   24   x   7   for   the 
+ duration   of   the   outage . 
+ each   customer   be   only   allow   three 
+ ( 3 )   emergency   request   per   month . 
+ · 
+ current   status 
+ · 
+ estimate   resolution 
+ time 
+ · 
+ next   activity   plan 
+ customer   be   allow   up   to   three   ( 3 )   emergency   request   per   month   at   no   additional   charge .   additional   emergency   request   will   be 
+ charge   at   the   additional   hourly   support   rate   specify   in   attachment   c. 
+ relocation   of   manage   host   service 
+ in   the   event   that   ibm   determine   that   it   be   necessary   to   relocate   manage   host   service   within   the   same   or   to   another   e - business 
+ host   center ,   customer   will   cooperate   in   good   faith   with   ibm   to   facilitate   such   relocation ,   provide   that   such   relocation   be   base   on 
+ reasonable   business   need   of   ibm   ( include   the   need   of   other   ibm   customer ) ,   or   the   expansion   of   the   space   requirement   of 
+ customer .   ibm   will   use   commercially   reasonable   effort ,   in   cooperation   with   customer ,   to   minimize   any   interruption   to   service   in   the 
+ event   of   such   relocation . 
+ security   obligation 
+ ibm   will : 
+ implement   firewall   setting   and   other   security   parameter   as   define   by   customer   and   accept   by   ibm; 
+ administer   firewall   specify   in   attachment   b; 
+ perform   nightly   memory   and   file   system   anti - virus   scanning   and   install   virus   signature   definition   file   update ,   as   available ,   for   base 
+ component   and   customer   component   with   window   operate   systems; 
+ perform   regular   scanning   of   commonly   use   tcp   and   udp   port ,   on   base   and/or   customer   component   to   attempt   to   detect   port   and 
+ service   that   may   be   vulnerable   to   intrusion .   ibm   will 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ use   reasonable   effort   to   inform   customer   of   intrusion   vulnerability   detect ,   and   schedule   and   apply   change   to   security   setting 
+ agree   to   by   customer   to   attempt   to   mitigate   vulnerability .   ibm   make   no   representation   or   warranty   that   ibm ’s   monitoring   or   analysis 
+ procedure   will   identify   all   intrusion   customer   may   encounter; 
+ perform   monthly   security   parameter   status   check   and   identify   when   security   checking   find   parameter   status   to   be   different   from 
+ what   be   originally   established;   and 
+ authorize   root   access ,   administrator   access   or   their   equivalent   for   base   component   to   ibm - designate   personnel   only . 
+ customer   must   comply   and   ensure   any   customer   subcontractor   comply   with   the   follow   security   obligation .   customer   will : 
+ authorize   ibm   to   perform   the   service   describe   above   in   item   a.   of   security   obligations; 
+ provide   firewall   set   requirement   ( port ,   filter ,   and   traffic   direction )   to   ibm   and   provide   the   number   of   node   require   for   ibm   to 
+ perform   firewall   administration; 
+ provide   ibm   with   security   parameter   and   setting .   security   parameter   and   setting   will   be   use   for   monthly   security   status   checking 
+ and   be   subject   to   ibm ’s   review   and   acceptance; 
+ not   access   or   attempt   to   access   ibm ’s   secure   internal   network   or   the   resource   or   information   of   other   ibm   customers; 
+ when   perform   any   technical   security   integrity   review ,   penetration   test ,   or   vulnerability   scan   of    base   component   or   customer 
+ component : 
+ ) only   test ,   scan   or   review   the   ip   address   supply   by   ibm   to   customer   that   be   part   of   the   services; 
+ ) only   test ,   scan ,   or   review   customer   dedicate   base   component   and   customer   components; 
+ ) provide   ibm   at   least   one   week ’s   prior   write   notice   of   the   date   and   time   of   the   review; 
+ ) provide   the   source   ip   address   information   and   reviewer   contact   information   to   ibm; 
+ ) not   perform   such   review   more   than   once   per   calendar   quarter;   and 
+ not   perform   or   simulate   denial - of - service   attacks; 
+ not   administer   or   create   privileged   user   id   ( user   id   have   system   or   security   administrative   authority )   at   the   base   operate   system 
+ level   or   on   subsystem   manage   by   ibm;   and 
+ not   disclose   any   information   arise   out   of   ibm   or   customer   scanning   of   base   component   or   customer   component   to   any   other 
+ entity   without   ibm 's   prior   write   consent . 
+ ibm   strongly   recommend   that   customer   and   any   customer   subcontractor   comply   with   the   security   guideline   list   below ,   but 
+ customer   may   deviate   from   such   guideline   after   prior   write   notice   to   ibm .   ibm   will   have   no   liability   for   any   damage   arise   out   of 
+ customer ’s   or   customer ’s   subcontractor '   deviation   from   any   or   all   of   the   follow   guideline : 
+ not   use   base   component   or   customer   component   as   a   relay   to   provide   internet   access   at   customer   locations; 
+ initiate   connection   from   base   component   or   customer   component   to   customer   premise   equipment   use   either   caller   i d   or 
+ challenge   handshake   authentication   protocol   ( chap); 
+ only   initiate   traffic   flow   from   more   secure   to   less   secure   network   ( i.e. ,   from   the   customer   secure   network   to   the   e - business   host 
+ environment   ) ; 
+ access   server   in   the   e - business   host   environment   from   customer ’s   premise   by   establish   a   one   way   trust   relationship   with 
+ password   when   use   windows; 
+ not   initiate   nfs   traffic   through   the   internet   access   firewall; 
+ only   use   nfs   within   a   single   layer ,   mean   nfs   traffic   will   not   cross   firewall   and   the   server   will   be   in   the   same   vlan; 
+ not   place   nfs   export   file   in   the   same   file   structure   use   for   system   file   and   executable   file   in   customer   components; 
+ when   create   cgi   program ,   such   program   will : 
+ ) validate   input   to   construct   a   command   line .   the   input   character   string   will   have   to   be   validate   to   ensure   that   it   do   not   trigger   an 
+ undesirable   system   response   include   the   ability   to   change   file   permissions; 
+ ) do   not   run   in   privileged   mode; 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ ) do   not   create   file   in   any   system - relate   directory; 
+ ) do   not   need   to   be   store   in   any   directory   other   than   a   designate   cgi - bin   directory   or   require   the   interpreter   be   store   in   the   cgi - bin 
+ directory;   and 
+ ) do   not   create   buffer   overflow   condition   or   other   problem   that   could   expose   the   server   to   unauthorized   access; 
+ not   initiate   inbound   icmp   echo   request   or   reply   from   the   internet   to   the   base   component   or   customer   component   and   outbound 
+ icmp   echo   reply   or   icmp   reply   for   traceroute   from   the   base   component   or   customer   component   to   the   internet   unless   customer 
+ provide   ibm   with   source   ip   addresses;   and 
+ 0 . not   initiate   snmp   traffic   from   customer   premise   to   the   e - business   host   environment . 
+ technical   due   diligence   period 
+ a   two   ( 2 )   week   technical   due   diligence   period   commencing   within   two   ( 2 )   week   follow   the   execution   of   this   agreement   be   require . 
+ during   this   technical   due   diligence   period   customer   and   ibm   technical   team   will   work   together   and   determine   more   specific   detail 
+ regard   configuration ,   network ,   firewall ,   server ,   san ,   backup   and   monitor   installation ,   configuration   and   management   detail , 
+ setting ,   rule ,   and   the   schedule   and   threshold   to   be   monitor . 
+ any   change   as   a   result   of   the   technical   due   diligence   period   will   be   handle   as   follow : 
+ any   delay   in   the   procurement   of   equipment   will   be   document   in   the   project   plan   by   the   ibm   project   manager   and   communicate   to 
+ customer   in   a   timely   manner . 
+ any   delay   in   the   schedule   will   be   document   in   the   project   plan   by   the   ibm   project   manager   and   communicate   to   customer   in   a 
+ timely   manner;   and 
+ ibm   and   customer   will   use   the   pcr   process   to   make   any   change   to   this   agreement   as   a   result   of   this   technical   due   diligence   period . 
+ change   may   result   in   adjustment   to   price . 
+ service   level   agreement 
+ ibm   will   provide   an   availability   service   level   agreement   ( " server   availability   sla " )   for   qualifying   server   base   on   the   applicable   sla 
+ target   percentage   ( as   such   term   be   define   below ) .   the   first   device   in   the   path   to   the   qualifying   server   must   be   an   ibm   manage 
+ device ,   and   the   server   availability   sla   apply   up   through   and   include   the   last   ibm   manage   server . 
+ definition 
+ the   follow   definition   apply   to   this   server   availability   sla : 
+ " actual   available   minute   ( aam ) "   mean   the   total   available   minute   minus   minute   of   qualified   outage . 
+ availability   credit "   mean   an   amount   equal   to   five   percent   ( 5 )   of   monthly   recur   charge   for   manage   host   service .    such 
+ credit   be   available   when   the   service   provide   for   the   affected   device   be   less   than   the   monthly   availability   percentage . 
+ " ibm   manage   device "   mean   a   base   component   locate   in   an   ibm   e - business   host   center   for   which   ibm   be   perform 
+ management   responsibility .   for   server ,   only   the   server   identify   as   fully   manage   server   in   exhibit   a   be   consider   an   ibm 
+ manage   device . 
+ " monthly   availability   percentage "   mean   the   amount   equal   to   the   total   number   of   minute   in   the   applicable   month   minus   the   qualifying 
+ outage   minute   for   that   month ,   divide   by   the   total   number   of   minute   in   that   month . 
+ " monthly   recur   charge "   mean   the   total   of   customer ’s   monthly   recur   charge . 
+ " outage "   mean   the   period   ( measure   in   whole   minute )   from   the   time   indicate   in   a   trouble   ticket   ( when   the   outage   be   report   to 
+ ibm )   to   the   outage   end   time   base   upon   the   problem   resolution   ( as   reflect   in   the   trouble   ticket   call   record ) .   for   cluster   device ,   all 
+ of   the   device   in   the   cluster   must   not   be   available   for   use   by   customer . 
+ " qualify   server "   mean   the   ibm   manage   server   that   have   be   select   by   customer   and   approve   by   ibm . 
+ " qualify   outage   minute "   mean   the   aggregate   of   all   outage   in   a   month ,   minus   any   outage   in   that   month   result   from   any 
+ exclusion   describe   in   section   8.6   below . 
+ " sla   target   percentage "   mean   the   service   level   define   in   8.2   ( service   level ) . 
+ " unqualified   outage(s ) "   mean   an   outage(s )   that   can   be   attribute   to   the   list   availability   exclusion   as   set   forth   in   section   8.6 
+ ( exclusion ) . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ service   level 
+ ibm   will   provide   the   follow   monthly   availability   service   level   agreement   ( " sla " )   for   the   service   provide   by   ibm : 
+ for   manage   device   and   manage   server   ( include   firewall(s )   and   switch )   that   be   not   cluster   or   configure   in   a   high   availability 
+ configuration ,   the   sla   be   a   minimum   of   99.7   percent . 
+ for   manage   device   and   manage   server   ( include   firewall(s )   and   switch )   that   be   cluster   or   configure   in   a   high   availability 
+ configuration ,   the   sla   be   a   minimum   of   99.9   percent . 
+ for   manage   application   solution   ( include   firewalls(s )   and   switch )   that   be   cluster   or   configure   in   a   high   availability 
+ configuration ,   the   sla   be   a   minimum   of   98.0   percent . 
+ for   manage   application   solution   ( include   firewalls(s )   and   switch )   that   be   not   cluster   or   configure   in   a   high   availability 
+ configuration ,   the   sla   be   a   minimum   of   99.5   percent . 
+ for   basic   monitoring   service   the   sla   be   a   minimum   of   99.9   percent   applicable   only   for   the   core   infrastructure   component   ( include 
+ power ,   cool ,   internet   connectivity ,   firewall ,   load   balancer ,   ssl   acceleration ,   network   intrusion   detection ,   vlan   segment , 
+ switch ,   vpn   connection   at   the   host   center ,   and   all   relate   connection ) . 
+ for   advanced   monitor   service   the   sla   be   a   minimum   of   99.9   percent   applicable   only   for   the   core   infrastructure   component 
+ ( include   power ,   cool ,   internet   connectivity ,   firewall ,   load   balancer ,   ssl   acceleration ,   network   intrusion   detection ,   vlan 
+ segment ,   switch ,   vpn   connection   at   the   host   center ,   and   all   relate   connection ) . 
+ availability   credit 
+ if   in   any   month   during   the   term   of   manage   host   service   the   monthly   availability   percentage   for   a   qualifying   server   be   less   than   the 
+ sla   target   percentage   for   that   qualifying   server ,   customer   shall   be   eligible   to   receive   an   availability   credit ,   subject   to   section   8.3(b ) , 
+ 8.4 ,   8.5 ,   8.6   and   8.7 . 
+ if   in   any   month   during   the   term   of   manage   host   service   the   monthly   availability   percentage   for   basic   monitoring   or   advanced 
+ monitor   service   be   less   than   the   sla   target   percentage   for   basic   monitoring   or   advanced   monitor   service ,   customer   shall   be 
+ eligible   to   receive   an   availability   credit ,   subject   to   section   8.3(b ) ,   8.4 ,   8.5 ,   8.6   and   8.7 . 
+ customer   agree   to   contact   the   ibm   help   desk   to   report   problem   and   open   trouble   ticket   that   reflect   the   start   time   of   the   outage 
+ event . 
+ settlement   of   credit 
+ availability   credit   will   be   aggregate   on   a   quarterly   basis   and   settle   by   the   last   day   of   the   first   month   follow   the   end   of   the   quarter 
+ in   which   such   availability   credit   be   earn .   ( for   example ,   the   aggregate   availability   credit   earn   in   the   first   quarter   2007   will   be 
+ apply   against   monthly   recur   charge   for   service   the   customer   incur   in   the   april   2007   invoice . )   any   availability   credit   owe   from 
+ ibm   to   customer   upon   the   expiration   or   termination   of   the   service   will   be   pay   within   one   ( 1 )   month   follow   the   effective   date   of 
+ expiration   or   termination .   if   the   monthly   recur   charge   for   a   subject   month   have   not   be   incur ,   or   for   any   other   reason   have   be 
+ credit   or   waive ,   customer   shall   not   be   eligible   for   an   availability   credit   for   that   month .    customer   shall   receive   no   more   than   five 
+ percent   ( 5 )   of   customer ’s   monthly   recur   charge   for   manage   host   service   as   an   availability   credit   in   a   give   month . 
+ commencement   of   service   level   agreement 
+ ibm   will   exercise   commercially   reasonable   effort   to   meet   the   sla   target   percentage .   notwithstanding   the   foregoing ,   customer   shall 
+ not   be   eligible   for   an   availability   credit   until   the   first   full   calendar   month   follow   the   host   service   ready   date . 
+ exclusivity   of   remedy 
+ customer   agree   that   its   sole   remedy   for   ibm ’s   failure   to   meet   an   sla   target   percentage   be   the   availability   credit   as   provide   in   this 
+ attachment . 
+ exclusion 
+ ibm   be   not   responsible   for   any   outage   outside   of   its   control ,   include   but   not   limit   to ,   the   follow   example : 
+ period   of   schedule   or   emergency   maintenance   activity   or   schedule   outage; 
+ outage   due   to   problem   with   customer   provide   content   or   programming   error   include ,   but   not   limit   to ,   content   installation   and 
+ integration; 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ outage   due   to   system   administration ,   command ,   file   transfer   perform   by   customer   representatives; 
+ outage   due   to   work   perform   at   customer   request   ( for   example   t&m   assistance); 
+ other   activity   customer    direct ,   denial   of   service   attack ,   natural   disaster ,   change   result   from   government ,   political ,   or   other 
+ regulatory   action   or   court   order ,   strike   or   labor   dispute ,   act   of   civil   disobedience ,   act   of   war ,   act   against   party   ( include 
+ carrier   and   ibm ’s   other   vendor ) ,   and   other   force   majeure   items; 
+ lack   of   availability   or   untimely   response   time   of   customer   to   respond   to   incident   that   require   its   participation   for   source   identification 
+ and/or   resolution ,   include   meeting   customer   responsibility   for   any   prerequisite   services; 
+ outage   due   to   customer   breach   of   its   material   obligation   under   the   base   terms; 
+ outage   cause   by   customer   content   or   customer   initiate   patches; 
+ outage   cause   by   customer   not   approve   apply   ibm   recommend   os   patches; 
+ outage   cause   by   the   customer   not   approve   applying   of   os   maintenance   releases; 
+ period   where   the   customer   may   have   be   grant   system   administration   rights; 
+ customer   deny   ibm   recommend   software   patch ,   hardware   and/or   os   changes; 
+ . outage   due   to   failure   of   non - ibm   manage   customer   component   hardware   or   software; 
+ power   outage   cause   by   customer   not   provide   dual   power   equipment; 
+ power   outage   cause   by   improperly   configure   power   supplies; 
+ power   outage   cause   by   incorrectly   connected   power   supplies; 
+ power   outage   cause   by   customer   configure   and   manage   equipment   that   result   in   over   utilization   of   power   circuits;   and 
+ customer ’s   performance   of   any   technical   security   integrity   review ,   penetration   test ,   or   vulnerability   scan   pursuant   to   security   obligation 
+ set   forth   herein . 
+ open   source   software   additional   term 
+ if   request   by   customer ,   ibm   will   procure   red   hat   linux   software   on   behalf   of   customer .   the   red   hat   software   will   be   provide   as   a 
+ customer   component   ( " customer   component   linux   software " )   license   by   red   hat ,   inc .   ( " red   hat " )   to   customer   under   red   hat 's 
+ subscription   agreement   ( accessible   at   http://www.redhat.com/license ) .    customer   agree   to   the   term   and   condition   of   red   hat 's 
+ subscription   agreement   and   agree   that   red   hat 's   subscription   agreement   for   the   customer   component   linux   software   shall   be 
+ between   red   hat   and   customer .   the   linux   operate   system   customer   component   software   will   be   ship   to   customer ,   not   ibm .   ibm 
+ be   not   a   party   to   such   license .    ibm ’s   provision   of   service   hereunder   shall   not   constitute   a   distribution   of   the   customer   component 
+ linux   software   by   ibm . 
+ if   request   by   customer ,   ibm   will   install   customer   component   linux   software   " as   be "   and   make   no   representation   or   warranty , 
+ either   express   or   imply ,   with   respect   to   the   customer   component   linux   software   or   any   open   source   software   and   do   not 
+ indemnify   against   any   claim   that   customer   component   linux   software   or   any   open   source   software   infringe   a   third   party 's   intellectual 
+ property   right .   under   no   circumstance   shall   ibm   be   liable   for   any   damage   arise   out   of   customer ’s   use   of   the   customer   component 
+ linux   software   or   any   open   source   software .   customer   receive   no   express   or   imply   patent   or   other   license   from   ibm   with   respect   to 
+ the   customer   component   linux   software   or   any   open   source   software .   customer   and   ibm   agree   that   any   modification   or   creation   of 
+ derivative   work   of   linux   or   open   source   software   be   outside   the   scope   of   this   agreement . 
+ linux   and   any   other   open   source   software   ( " oss " ) ,   include   patch ,   fix ,   and   update ,   which   ibm   install ,   configure ,   update , 
+ operate   or   otherwise   assist   in   procure   on   customer ’s   behalf   as   a   result   of   provide   service   under   this   agreement   be   license   and 
+ distribute   to   you   by   linux   and   oss   distributor   and/or   respective   copyright   and   other   right   holder ,   include   red   hat ,   inc .   ( " right 
+ holder " )   under   the   right   holder '   term   and   condition .    ibm   be   neither   a   party   to   the   right   holder '   term   and   condition   nor   a 
+ distributor   of   linux   or   oss   and   merely   do   the   work   describe   in   this   agreement   on   your   behalf   upon   your   specification .   you   receive 
+ no   express   or   imply   patent   or   other   license   from   ibm   with   respect   to   linux   or   any   oss .   ibm   install   linux   and   oss   " as   be "   and 
+ make   no   representation   or   warranty ,   either   express   or   imply ,   with   respect   to   linux   or   oss ,   and   do   not   indemnify   against   any 
+ claim   that   linux   or   oss   infringe   a   third   party 's   intellectual   property   right .   under   no   circumstance   shall   ibm   be   liable   for   any   damage 
+ arise   out   of   your   use   of   linux   or   oss . 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ both   of   we   agree   that   any   modification   or   creation   of   derivative   work   of   linux   or   oss   be   outside   the   scope   of   this   agreement . 
+ responsibility   of   ibm   and   customer 
+ overall   –   ( with   physical   database   administration   support ) 
+ responsibility 
+ ibm 
+ customer 
+ -   installation   - 
+
+ designate   an   individual   to   whom   all   of   ibm ’s   communication   will   be   address   and 
+ who   have   the   authority   to   act   and   make   decision   for   customer   in   all   aspect   of   the 
+ service ,   include   request   change ,   problem   resolution ,   service   request , 
+ assignment   of   customer   focal   point   with   authority   over   specific   service ,   and 
+ designation   of   customer   authorize   representative   ( " customer   contact " ) 
+
+ perform 
+ designate   an   individual   to   whom   customer   will   address   communication   specific   to 
+ the   provision   of   the   service .   ibm ’s   call   management   center   may   be   the   ibm   contact 
+ for   some   service   ( " ibm   contact " ) 
+ perform 
+
+ assign   authorize   representative   with   appropriate   functional   knowledge   and 
+ technical   skill   who   may   submit   problem   or   service   request   to   the   ibm   call 
+ management   center   by   call   an   ibm - provide   toll - free   telephone   number   or   by   e- 
+ mail 
+
+ perform 
+ perform   the   installation   activity   specify   herein 
+ perform 
+
+ register   domain   name   with   an   accredit   domain   name   registrar   and   pay   all 
+ charge   associate   with   such   registration 
+
+ perform 
+ install   customer   application 
+
+ perform 
+ perform   physical   dba   task   to   install   and   configure   the   database(s ) 
+ perform 
+
+ perform   all   logical   dba   task   to   install   and   configure   the   database 
+
+ perform 
+ provide   backup   and   restore   requirement   to   ibm 
+
+ perform 
+ perform   necessary   physical   database   administration   task   to   prepare   customer 
+ database(s )   for   backup 
+ perform 
+
+ perform   necessary   logical   database   administration   task   to   prepare   customer 
+ database   for   backup 
+
+ perform 
+ provide   e - mail   address   for   customer   notification   of   threshold   exceed   or 
+ process   exception 
+
+ perform 
+ procure   base   component   specify   in   attachment   b 
+ perform 
+
+ notify   customer   when   ibm   installation   activity   be   complete   ( host   service 
+ ready   date ) 
+ perform 
+
+ provision   all   ssl   certificate 
+
+ perform 
+ inform   ibm   in   writing   within   five   ( 5 )   business   day   follow   ibm ’s   notification   of   the 
+ completion   of   ibm   installation   activity ,   if   customer   believe   ibm   have   not 
+ satisfactorily   complete   ibm   installation   activity 
+
+ perform 
+ -   ongoing   management   and   support   - 
+
+ provide   the   ongoing   service   specify   herein 
+ perform 
+
+ provide   ongoing   administration ,   tailoring ,   monitoring ,   or   maintenance   of   customer 
+ application 
+
+ perform 
+ provide   first   level   of   support   for   problem   with   customer   component   and   transfer 
+ problem   relate   to   ibm ’s   responsibility   to   the   ibm   call   management   center 
+
+ perform 
+ assist   ibm   in   the   investigation   of   problem ,   to   the   extent   such   investigation   involve 
+ customer ’s   or   its   subcontractor '   responsibility ,   and   exercise   commercially 
+ reasonable   effort   to   resolve   problem   relate   to   such   responsibility 
+
+ perform 
+ provide   ongoing   physical   database   administration   for   the   database(s ) 
+ perform 
+
+ provide   ongoing   logical   database   administration 
+
+ perform 
+ perform   the   ibm   security   obligation   specify   herein 
+ perform 
+
+ perform   the   customer   security   obligation   specify   herein 
+
+ perform 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ update   base   and/or   customer   component   with   applicable   fix   ( patch ,   hotfixe , 
+ program   temporary   fix   and   service   pack )   as   determine   by   ibm 
+ perform 
+
+ maintain   responsibility   for   all   labor   and   expense   associate   with   full   version 
+ operating   system   software   upgrade   ( to   be   eligible   for   continued   service ,   the 
+ operating   system   version   run   on   the   manage   server   must   be   one   currently 
+ support   by   the   manufacturer   of   that   operate   system ) 
+
+ perform 
+ maintain   copy   of   critical   content   and   establish   a   procedure   to   recover   such   content 
+ without   resort   to   the   e - business   host   environment   or   service 
+
+ perform 
+ manage   all   ssl   certificate 
+
+ perform 
+ server 
+ responsibility 
+ ibm 
+ customer 
+ -   installation ,   configuration   and   setup   for   fully   manage   server 
+
+ rack   and   stack   and   cable   the   equipment 
+ perform 
+
+ procure   and   install   base   component 
+ perform 
+
+ provision   cabinet   space 
+ perform 
+
+ provision   additional   power 
+ perform 
+
+ create   network   diagram 
+ perform 
+
+ assign   public   and   private   ip   address 
+ perform 
+
+ provision   internet   bandwidth 
+ perform 
+
+ procure   license   for   backup   tool   and   agent 
+ perform 
+
+ load   cd ,   if   request   by   customer 
+ perform 
+
+ configure   ip   address   on   the   server 
+ perform 
+
+ perform   connectivity   testing   of   base   and/or   customer   component 
+ perform 
+
+ identify   the   predefine   event   that   will   be   monitor 
+
+ perform 
+ configure   threshold   define   by   customer 
+ perform 
+
+ install   and   configure   monitor   tool 
+ perform 
+
+ install   and   configure   client   for   the   monitoring   tool 
+ perform 
+
+ perform   readiness   testing ,   include   test   the   flow   of   alert 
+ perform 
+
+ enable   switch   monitoring 
+ perform 
+
+ notify   customer   when   installation   activity   be   complete 
+ perform 
+
+ -   ongoing   management   and   support   for   fully   manage   server   - 
+
+ perform   7   x   24   each   day   of   the   year   monitoring   of   the   manage   server   for   action   and 
+ event 
+ perform 
+
+ maintain   require   documentation   for   server   management   and   operation 
+ perform 
+
+ research   os   patch 
+ perform 
+
+ provide   problem   determination   and   corrective   measure   and   support   for   alert   and 
+ predefine   error   event   and   threshold 
+ perform 
+
+ use   reasonable   effort   to   update   base   and/or   customer   component   with   applicable 
+ fix   approve   by   the   customer 
+ perform 
+
+ load   cd   if   request   by   customer 
+ perform 
+
+ call   ibm   service   if   need 
+ perform 
+
+ assist   ibm   in   the   investigation   of   problem   with   the   service   to   the   extent   such 
+ investigation   involve   customer 's   or   its   subcontractor '   responsibility 
+
+ perform 
+ monthly   report   of   threshold   be   measure 
+ perform 
+
+ perform   root   cause   analysis   for   problem   relate   to   the   equipment   or   service   be 
+ provide   by   ibm 
+ perform 
+
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ share   or   dedicate   san   storage 
+ responsibility 
+ ibm 
+ customer 
+ -   installation ,   configuration   and   setup   - 
+
+ install   san   configuration   and   management   console   and   agent   on   the   san   storage 
+ perform 
+
+ provide   ibm   with   disk   configuration   specification   ( folder ,   directory ,   quorum   disk 
+ layout ,   disk   space   size ,   and   raid   level ) 
+
+ perform 
+ configure   server   hbas   for   access   to   the   san   storage 
+ perform 
+
+ install   the   san   device 
+ perform 
+
+ connect   the   san   storage   device   to   the   san   switch   and   to   the   administration 
+ segment 
+ perform 
+
+ define   storage   partition 
+
+ perform 
+ configure   the   san   storage   per   customer   provide   specification 
+ perform 
+
+ provide   documentation   which   detail   the   installation   parameter   for   the   server   and 
+ san   storage   base   and/or   customer   component 
+ perform 
+
+ document   san   storage   configuration 
+ perform 
+
+ test   san   storage   functionality 
+ perform 
+
+ perform   connectivity   testing   of   the   san   storage 
+ perform 
+
+ perform   quality   assurance   review   on   all   operational   and   administrative   support 
+ procedure 
+ perform 
+
+ identify   the   predefine   action   and   event   ( the   " action   and   event " )   ibm   will   perform 
+ on   the   san   storage 
+ perform 
+
+ -   ongoing   management   and   support   - 
+
+ maintain   require   documentation   for   the   san   storage   management   and   operation 
+ perform 
+
+ perform   7x24   everyday   of   the   year   monitoring   of   the   manage   san   storage   for 
+ action   and   event 
+ perform 
+
+ provide   problem   determination   and   corrective   measure   support   for   action   and 
+ event 
+ perform 
+
+ reallocate   san   base   lun   to   different   system   and   server   ( for   example : 
+ rezone ,   import ,   recognition ,   and   file   system   remount ) ,   as   request   by   customer . 
+ perform 
+
+ assist   ibm   in   the   investigation   of   problem   with   the   service   to   the   extent   such 
+ investigation   involve   customer ’s   or   its   subcontractor '   responsibility 
+
+ perform 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ backup ,   restore   and   offsite   datum   storage 
+ responsibility 
+ ibm 
+ customer 
+ -   installation ,   configuration   and   setup   - 
+
+ install   select   base   component ,   include   external   cable   connection   and   storage 
+ server 
+ perform 
+
+ connect   the   tape   library   to   the   designate   backup   medium   server 
+ perform 
+
+ document   the   tape   library   and   backup   medium   server   configuration   and   setup 
+ parameter 
+ perform 
+
+ test   hardware   functionality 
+ perform 
+
+ notify   ibm   of   any   specific   procedure   require   for   backup   of   customer   datum   file   and 
+ the   schedule   backup   window 
+
+ perform 
+ creation   and   documentation   of   customer   backup   and   restore   procedure 
+ perform 
+
+ provide   list   of   file   to   be   back   up 
+
+ perform 
+ identify   and   maintain   list   of   customer   designate   datum   file   to   be   backup   up 
+ perform 
+
+ install   and   configure   the   storage   manager   software   provide   by   ibm 
+ perform 
+
+ verify   that   the   storage   manager   software   be   instal   and   configure   properly 
+ perform 
+
+ install   backup   software   client 
+ perform 
+
+ configure   backup   software   client   on   os   instance 
+ perform 
+
+ perform   a   test   backup   of   the   system   by   initiate   a   backup   of   customer   designate 
+ datum   file 
+ perform 
+
+ -   ongoing   management   and   support   - 
+
+ maintain   require   documentation   for   server   management   and   operation 
+ perform 
+
+ assist   ibm   in   the   investigation   of   problem   with   the   service   to   the   extent   such 
+ investigation   involve   customer 's   or   its   subcontractor '   responsibility 
+
+ perform 
+ perform   daily   incremental   backup 
+ perform 
+
+ perform   weekly   full   system   backup 
+ perform 
+
+ keep   daily   backup   in   the   library   for   seven   ( 7 )   day   backup   ( actual   backup ,   retention 
+ and   rotation   schedule   to   be   determine   by   customer   and   ibm ) 
+ perform 
+
+ create   a   copy   on   tape   of   the   weekly   full   system   backup   tape   and   send   offsite   for 
+ storage   with   thirty   ( 30 )   day   retention 
+ perform 
+
+ examine   backup   log   for   result   of   daily   backup   activity 
+ perform 
+
+ take   action   to   alleviate   alert   and   error   message   during   the   backup 
+ perform 
+
+ call   the   ibm   help   desk   to   request   a   take   to   be   restore   from   the   library   or   from   offsite 
+ storage . 
+
+ perform 
+ indicate   if   the   offsite   storage   recall   be   an   emergency   request   to   be   fulfil   within   six   ( 6 ) 
+ hour   ( additional   charge   may   apply ) 
+
+ perform 
+ identify   datum   file   name   and   version   require   restore 
+
+ perform 
+ initiate   obtaining   of   the   tapes(s )   from   offsite   storage ,   if   necessary 
+ perform 
+
+ initiate   restore   of   customer   designate   back   up   file   as   request 
+ perform 
+
+ perform   root   cause   analysis   for   problem 
+ perform 
+
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ switch   and   firewall 
+ responsibility 
+ ibm 
+ customer 
+ -   installation ,   configuration   and   setup   - 
+
+ configure   the   local   vlan 
+ perform 
+
+ specify   switch   and   firewall   setting   specific   to   the   application 
+
+ perform 
+ configure   vlan   and   zone   for   the   san   switch 
+ perform 
+
+ configure   firewall   setting 
+ perform 
+
+ test   a   single   path   to   switch   and   firewall   base   and/or   customer   component 
+ perform 
+
+ enable   switch   and   firewall   monitoring 
+ perform 
+
+ -   ongoing   management   and   support   - 
+
+ operate   and   monitor   availability   of   the   switch   and   firewall   7x24   each   day   of   the 
+ year 
+ perform 
+
+ assist   ibm   in   the   investigation   of   problem   with   the   service   to   the   extent   such 
+ investigation   involve   ibm ’s ,   customer ’s   or   its   subcontractor '   responsibility 
+
+ perform 
+ request   change   to   switch   and   firewall   setting 
+
+ perform 
+ administer   change   to   switch   and   firewall 
+ perform 
+
+ perform   monthly   patch   scan   on   server   that   may   be   vulnerable   to   intrusion   or 
+ need   hot   fix   apply 
+ perform 
+
+ inform   customer   of   hot   fix   and   vulnerability   detect   and   use   reasonable   effort 
+ to   schedule   and   apply   change   to   setting ,   as   need 
+ perform 
+
+ backup   customer - specify   switch   and   firewall   setting   and   restore   setting   in   the 
+ event   of   a   failure 
+ perform 
+
+ physical   database   administration   ( microsoft   sql ) 
+
+ ibm 
+ customer 
+ -   implementation   - 
+
+ provide   customer   with   database   survey   to   gather   support   requirement 
+ perform 
+
+ complete   database   survey 
+
+ perform 
+ acquisition   of   license   for   database   software 
+
+ perform 
+ configuration   of   database   software   in   accordance   with   customer   requirement   as 
+ provide   in   the   database   survey 
+ perform 
+ assist 
+ installation   and   configuration   of   application   software   and   content 
+
+ perform 
+ provide   documentation   specify   the   application   directory   structure ,   and/or   database 
+ structure   include   table   definition ,   index   and   table   space 
+
+ perform 
+ establish   connectivity   between   database   instance   and   datum   server   and   notify   customer 
+ when   database   software   be   ready   for   use   by   customer 
+ perform 
+
+ create   directory   structure   and/or   execute   database   definition 
+ perform 
+
+ enable   the   application   function ,   once   instal   and   configure ,   to   work   with   the 
+ database   software   and   customer ’s   host   environment 
+ assist 
+ perform 
+ establish   standard   database   availability   monitoring   to   assess   the   availability   of 
+ database   component 
+ perform 
+
+ provide   documentation   for   application   and   database   component   to   be   monitor   for 
+ availability 
+
+ perform 
+ acquire   any   necessary   certificate   or   key   necessary   for   authentication   function 
+ associate   with   the   database   software 
+
+ perform 
+ install   any   certificate   or   key   provide   by   customer   necessary   for   authentication 
+ function   associate   with   the   database   software 
+ perform 
+
+ retain   control   and   management   of   the   database   software   support / administration 
+ id / object   owner   id 
+ perform 
+
+ -   ongoing   management   and   support   - 
+
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ provide   application   software   troubleshooting ,   problem   determination ,   and   problem 
+ resolution .   note ,   where   the   application   software   be   third   party   software ,   ibm ’s 
+ responsibility   will   be   limit   to   coordinate   with   the   applicable   vendor   and   manage 
+ such   vendor   resolution . 
+ perform 
+
+ provide   system   software   troubleshooting ,   problem   determination ,   and   problem 
+ resolution 
+ perform 
+
+ assist   customer   with   database   software   in   problem   determination   of   application 
+ problem   and   notify   customer   once   a   problem   be   suspect   to   be   an   application 
+ problem 
+ perform 
+ assist 
+ provide   database   troubleshooting   and   problem   determination 
+ perform 
+
+ contact   appropriate   ibm   support   organization   for   all   database   relate   problem   after 
+ problem   have   be   record   in   the   problem   management   system   with   key   problem- 
+ relate   datum   by   ibm ’s   call   management   center 
+ perform 
+
+ determine   backup / recovery   plan 
+
+ perform 
+ implement   backup / recovery   plan   to   allow   point   in   time   recovery   or   version   recovery   as 
+ determine   by   customer 
+ perform 
+ assist 
+ provide   application - level   assistance   in   problem   determination   of   database   software 
+ problem 
+
+ perform 
+ assist   customer   in   application   problem   resolution   through   the   implementation   of 
+ database   change   require   by   customer 
+ perform 
+ assist 
+ apply   fix ,   ptfs   and   patch   provide   by   customer   to   correct   database   problem ,   as 
+ necessary ,   within   the   framework   of   the   project   change   control   procedure 
+ perform 
+
+ install   database   software   minor   release   upgrade   for   an   already   instal   version   of 
+ each   database   product   use   the   ibm   standard   change   control   procedure   ( " minor 
+ release   upgrade "   be   any   change   in   the   release   number   to   the   right   of   the   point   by   the 
+ software   manufacturer   –   e.g. :   x.y ) 
+ perform 
+
+ provide   any   code   promotion   for   application   software   code   and   all   content   update 
+
+ perform 
+ install   application   software   configuration   change ,   upgrade   and   patch ,   and   any 
+ update   to   content .   notify   ibm   of   any   require   database   configuration   change   need 
+ as   a   result   of   the   change ,   upgrade   and   patch ,   and/or   update 
+
+ perform 
+ install   system   software   configuration   change ,   upgrade   and   patch ,   and   update . 
+ perform 
+
+ implement   any   require   database   configuration   change   base   on   customer ’s 
+ recommendation 
+ perform 
+
+ provide   all   end   user   support   include   administration   of   application   user   id   and   group 
+ and   end   user   password   reset 
+
+ perform 
+ provide   requirement   for   pruning ,   rotation   and/or   archiving   of   any   application   and 
+ database   log   file 
+
+ perform 
+ implement   any   require   pruning ,   rotation   and/or   archiving   of   any   application   and 
+ database   log   file 
+ perform 
+
+ provide   documentation   for   performance   relate   parameter / configuration   setting 
+
+ perform 
+ implement   initial   database   performance   tuning   and   provide   additional   performance 
+ tuning   base   on   analysis   of   performance   metric   provide   by   customer 
+ perform 
+ assist 
+ provide   documentation   on   performance   metric   and   performance   result   that   the 
+ application   and   database   should   be   measure   against ,   include   any   necessary   tool 
+ and/or   script   to   collect   performance   datum 
+
+ perform 
+ implement   automate   performance   monitoring   and   datum   collection 
+ perform 
+ assist 
+ monitor   database   software   component   for   availability   and/or   their   presence   in   memory 
+ ( up / down   status ) 
+ perform 
+
+ assist   customer   in   testing   effort   and   monitoring   of   customer - provide   performance 
+ tool   and   metric   to   determine   if   environment   be   properly   tune 
+ perform 
+ assist 
+ collection   of   performance   and   capacity   datum   as   provide   by   customer ’s   application(s ) 
+ software 
+ assist 
+ perform 
+ implement   performance   enhancement   to   the   specific   database   software   base   on 
+ document   tune   parameter   and   procedure   supply   by   customer   and   specific   to 
+ customer   application(s ) 
+ perform 
+
+ collection   of   performance   and   capacity   datum   as   provide   by   system   software 
+ perform 
+
+ notify   ibm   within   fifteen   ( 15 )   minute   of   a   suspect   a   database   software   component 
+ problem 
+
+ perform 
+ monitoring   application   health   and   availability   and   functional   testing   of   application 
+
+ perform 
+ establish   ibm   as   single   point   of   contact   with   database   software   manufacturer 
+
+ perform 
+ procure   and   keep   current   service   contract   with   the   database   software   manufacturer   for 
+ 24x7   maintenance   and   support   include   upgrade   and   update / fix .   ibm   will   be 
+ name   as   a   primary   contact   in   the   service   agreement(s ) 
+
+ perform 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ provide   the   appropriate   support   information   for   customer   contact   and   database 
+ software   manufacturer   support   contact   ( id ,   contact   name ,   telephone   number , 
+ license   number ,   etc . ) 
+
+ perform 
+ implementation   of   any   database   software   product   major   version   upgrade   ( " major 
+ version   upgrade "   be   any   change   in   the   version   number   to   the   leave   of   the   point   by   the 
+ software   manufacturer   -   e.g. :   x.y ) 
+
+ perform 
+ establish   single   point   of   contact   with   application   software   vendor 
+
+ perform 
+ attachment   b   –   host   component 
+ part   I   –   ibm   provide   infrastructure 
+ e - business   host   center :   atlanta 
+ internet   bandwidth 
+ internet   access   commit   bandwidth 
+ 3   mbps 
+ number   of   register   ip   address 
+
+ virtualize   firewall 
+ quantity 
+
+ model 
+ cisco   virtualize   firewall 
+ failover   configuration 
+ yes 
+ number   ipsec   vpn   tunnel   to   be   set   up   at 
+ the   ibm   datum   center   ( customer   to   set   up   and 
+ manage   the   corresponding   vpn   tunnel   at 
+ their   site ) 
+
+ virtual   firewall   switch   port   and   vpn   tunnel 
+ quantity   of   pair   of   active   /   passive   virtual 
+ firewall 
+
+ virtual   firewall   and   switch   port   for   virtual 
+ server ,   include   firewall   port 
+
+ additional   remote   client   for   vpn   session 
+
+ additional   site - to - site   vpn   tunnel 
+
+ private   dedicate   backend   connection 
+
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ part   ii   -   ibm-   manage   base   component 
+ server   base   component 
+ e - business   host   center :   atlanta 
+ fully   manage   server   base   component 
+ server 
+ quantity 
+
+ model 
+ x3650 
+ processor 
+ 2   x   dual - core   intel   xeon   processor 
+ x5260   ( 3.33ghz   6 mb   1333mhz   80w ) 
+ memory 
+ 8   gb 
+ local   disk   drive 
+ · 
+ 2   x   73   gb   disk   for   os   use   for   os ,   not 
+ customer   datum 
+ o  
+ linux   redhat   as 
+ san   connection ? 
+ no 
+ nas   connection ? 
+ no 
+ fully   manage ? 
+ yes 
+ administrative   right   own   by 
+ ibm   during   steady   state ? 
+ yes 
+ quantity 
+
+ model 
+ x3850 
+ processor 
+ 2   slot ,   4x   3   ghz   cpus 
+ memory 
+ 8   gb 
+ local   disk   drive 
+ · 
+ 3   x   73   gb   2.5 "   disk-   2   os   +   1   hot   spare 
+ os  
+ win2003   ( qty   6 ) ,   linux   redhat   as   ( qty   4 ) . 
+ san   connection ? 
+ yes 
+ na   connection ? 
+ no 
+ fully   manage ? 
+ yes 
+ administrative   right   own   by 
+ ibm   during   steady   state ? 
+ yes 
+ san   fabric   and   san   storage   base   component   –   share   environment 
+ san   fabric 
+ number   of   server   connect   to   the   san 
+
+ number   of   san   switch   port 
+
+ san   storage   base   component   –   share   environment 
+ san   storage   -   share 
+ amount   of   usable   space   to   be   allocate ,   in 
+ gb 
+ 1600   gb 
+ raid   level 
+ raid5   ( standard ) 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ part   iii   -   customer   component 
+ customer   will   provide   all   content   and   all   component   not   specify   as   ibm   provide   infrastructure   or   ibm   provide   base   component   in 
+ part   I   or   part   ii   of   this   attachment   b. 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009 
+ attachment   c   –   charge 
+ one - time   charge 
+ one - time   charge   for   manage   host   service   of   81,217.00   will   be   invoice   in   january   2009   and   payable   in   accordance   with   section 
+ 5.2   payment . 
+ monthly   recur   charge 
+ monthly   recur   charge   for   manage   host   service   of   37,000.00   will   begin   on   the   host   service   ready   date   and   may   be 
+ prorate   base   on   the   date   during   the   month   that   manage   host   service   commence ,   change ,   or   end . 
+ usage   charge 
+ additional   hourly   support 
+ operational   assistance 
+ per   hour 
+ 89.10 
+ smarthand   ( system   administrative   and   technical   assistance ) 
+ per   hour 
+ 188.02 
+ operational   dba 
+ per   hour;   ms   sql 
+ 204.37 
+ charge   for   additional   hourly   support   request   by   customer ,   if   any ,   ( support   that   be   outside   the   scope   of   service   include   in   the 
+ monthly   recur   charge   specify   above )   will   be   due   as   incur .   ibm   will   charge   for   additional   hourly   support   in   fifteen   ( 15 )   minute 
+ increment . 
+ b.   peak   bandwidth   usage 
+ peak   bandwidth   usage   charge   for   datum   traffic   in   excess   of   committed   bandwidth   be   due   as   incur .    ibm   will   determine   peak 
+ bandwidth   usage   charge   each   month   by   subtract   the   committed   bandwidth   from   the   peak   bandwidth   usage   for   that   month   and 
+ multiply   the   difference   by   the   peak   bandwidth   usage   rate   of   147.14.00   per   mbps . 
+ c.   smarthand   hourly   support 
+ charge   for   smarthand   hourly   support   request   by   customer ,   if   any ,   will   be   due   as   incur .   ibm   will   charge   for   smarthand   hourly 
+ support   in   fifteen   ( 15 )   minute   increment . 
+ d.   additional   hourly   database   support 
+ charge   for   additional   hourly   database   support   ( " additional   hourly   database   support " )   request   by   customer ,   if   any ,   ( database   support 
+ that   be   outside   the   scope   of   database   support   hour   include   in   the   monthly   recur   charge )   will   be   due   as   incur .   ibm   will   charge 
+ for   additional   hourly   database   support   in   fifteen   ( 15 )   minute   increment . 
+ termination   charge 
+ in   the   event   the   customer   elect   to   terminate   this   agreement ,   or   any   portion   of   the   service   describe   herein ,   for   convenience , 
+ customer   will   pay   the   applicable   termination   charge   as   set   forth   in   the   table   below . 
+ 3 - year   ( thirty   six   ( 36 )   month )   term : 
+ for   termination : 
+ for   any   terminate   service , 
+ customer   will   be   charge : 
+ prior   to   first   anniversary   of   the   host   service   ready   date four   ( 4 )   month '   applicable   recur   monthly   charge   plus 
+ any   unpaid   one   time   charge 
+ from   the   first   anniversary   of   the   host   service   ready 
+ date   and   prior   to   the   second   anniversary   of   the   host 
+ service   ready   date 
+ three   ( 3 )   month '   applicable   recur   monthly   charge 
+ from   the   second   anniversary   of   the   host   service   ready 
+ date   and   prior   to   the   expiration   of   this   agreement 
+ two   ( 2 )   month ’s   applicable   recur   monthly   charge 
+  of   36 
+ source : quantum group inc /fl , 8 - k , 1/20/2009

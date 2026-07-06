@@ -1,0 +1,1665 @@
+exhibit 10.3 
+ [ ] certain information in this document have be exclude pursuant to regulation s - k , item 601(b)(10 ) . such exclude information be not material 
+ and would likely cause competitive harm to the registrant if publicly disclose . 
+ execution copy 
+ license , development and commercialization agreement 
+ date as of february 4 , 2020 
+ by and between 
+ xencor , inc . 
+ and 
+ aimmune therapeutic , inc . 
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ table of content 
+ page 
+ article 1 definition 
+
+ article 2 license 
+
+ article 3 development 
+
+ article 4 regulatory 
+
+ article 5 commercialization 
+
+ article 6 supply 
+
+ article 7 payment 
+
+ article 8 payment; records; audit 
+
+ article 9 intellectual property matter 
+
+ article 10 representation , warranty and covenants; compliance 
+
+ article 11 indemnification 
+
+ article 12 confidentiality 
+
+ article 13 term and termination 
+
+ article 14 effect of expiration or termination 
+
+ article 15 miscellaneous 
+
+ schedule 1.10 antibody 
+
+ schedule 1.79 xencor general patent 
+
+ schedule 1.81 xencor product specific patent 
+
+ schedule 2.7 xencor know - how , regulatory material , and regulatory datum 
+
+ schedule 6.1 initial product supply 
+
+ schedule 10.2.6 exception 
+
+ schedule 12.2 initial press release 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ license , development and commercialization agreement 
+ this license , development and commercialization agreement ( this " agreement " ) , date as of february 4 , 2020 ( the " effective date " ) , be make by 
+ and between xencor , inc . ( " xencor " ) , and aimmune therapeutic , inc . ( " aimmune " ) . xencor and aimmune be sometimes refer to herein 
+ individually as a " party " and collectively as the " party " . 
+ recital 
+ whereas , xencor have develop the antibody ( as define below); 
+ whereas , aimmune be interested in far develop and commercialize the antibody; and 
+ whereas , xencor wish to grant a license to aimmune under certain intellectual property right relate to the antibody to develop , manufacture 
+ and commercialize the product ( as define below ) , and aimmune wish to take such license , in each case in accordance with the term and condition 
+ set forth below . 
+ no w therefore , in consideration of the foregoing premise and the mutual promise , covenant and condition contain in this agreement , 
+ and for other good and valuable consideration , receipt of which be hereby acknowledge , the party agree as follow : 
+ article 1 
+ definition 
+ as use in this agreement , the follow initially capitalize term shall have the meaning set forth in this article 1 or as otherwise define 
+ elsewhere in this agreement : 
+ 1.1 " active ingredient " mean any substance ( whether chemical or biologic ) or mixture of substance intend to be use in the manufacture of a 
+ drug ( medicinal ) product that , when use in the production of such drug , become a therapeutically active ingredient of the drug product , and which 
+ such substance or mixture of substance be intend to furnish pharmacological activity or other direct effect in the diagnosis , cure , mitigation , treatment 
+ or prevention of disease or to affect the structure or function of the body . 
+ 1.2 " affiliate " mean with respect to any person , any other person directly or indirectly control , control by , or under common control with 
+ such person; provide , that , for purpose of this definition , " control " ( include , with correlative meaning , the term " control by " and " under 
+ common control with " ) , as use with respect to any person , shall mean ( i ) the possession , directly or indirectly , of the power to direct or cause the 
+ direction of the management and policy of such person , whether through the ownership of vote security or by contract or otherwise , or ( ii ) the 
+ ownership , directly or indirectly , of fifty percent ( 50 ) or more of the vote security of such person . for purpose of this section 1.2 , " person " mean 
+ mean an individual , corporation , partnership , limited partnership , limited liability company , limited liability partnership , syndicate , person ( include a 
+ " person " as define in section 13(d)(3 ) of the securities exchange act of 1934 , as amend , together with the rule and regulation promulgate 
+ thereunder ) , trust , association , entity or government or political subdivision , agency or instrumentality of a government . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 1.3 " aimmune agreement entity " mean aimmune ’s affiliate and sublicensee ( exclude distributor ) . 
+ 1.4 " aimmune common stock " mean aimmune ’s common stock , par value 0.0001 per share . 
+ 1.5 " aimmune field " mean the field of [ ] . 
+ 1.6 " aimmune invention " mean an invention that be invent , solely or jointly with a third party , by or on behalf of aimmune or its affiliate . 
+ 1.7 " aimmune know - how " mean any and all know - how , whether or not patented or patentable , that be control by aimmune or its affiliate as 
+ of the effective date or at any time during the term that be necessary or reasonably useful in connection with the development , manufacture , 
+ commercialization or other use of the antibody or product . 
+ 1.8 " aimmune patent " mean any patent that ( i ) ( a ) be control by aimmune ( or its affiliate ) as of the effective date or come under the 
+ control of aimmune ( or its affiliate ) during the term ( other than as a result of the license grant by xencor to aimmune under this agreement ) and 
+ ( b ) that would be infringe by the development , manufacture , commercialization or use of the antibody or product or that claim or cover aimmune 
+ know - how , or ( ii ) be an aimmune collaboration patent . 
+ 1.9 " aimmune technology " mean aimmune know - how and aimmune patent . 
+ 1.10 " antibody " mean xencor ’s humanize antibody know as xmab7195 have the sequence list in schedule 1.10 . 
+ 1.11 " anti - corruption law " mean the u.s . foreign corrupt practice act , as amend , the uk bribery act 2010 , as amend , as well as 
+ applicable law relate to the prevention of fraud , racketeering , money laundering or terrorism . 
+ 1.12 " applicable law " mean any applicable united states federal , state or local or foreign or multinational law , statute , standard , ordinance , code , 
+ rule , regulation , resolution or promulgation , or any order , writ , judgment , injunction , decree , stipulation , ruling , determination or award enter by or with 
+ any governmental authority , or any license , franchise , permit or similar right grant under any of the foregoing , or any similar provision have the force 
+ or effect of law . for the avoidance of doubt , any specific reference to any applicable law or any portion thereof , shall be deem to include all then- 
+ current amendment thereto or any replacement or successor law , statute , standard , ordinance , code , rule , regulation , resolution , order , writ , judgment , 
+ injunction , decree , stipulation , ruling , or determination thereto . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 1.13 " baseline quarter net sale " mean , on a country - by - country and product - by - product basis , the average cumulative net sale of such 
+ product in such country during the [ ] calendar quarter that [ ] precede the calendar quarter during which a generic product with respect to such 
+ product be first commercially sell in such country . for example , if a generic product with respect to a give product be commercially sell in the u.s . for the 
+ first time on [ ] , then the baseline quarter net sale with respect to such product and u.s . be the cumulative net sale of such product in the u.s . 
+ during the [ ] calendar quarter of [ ] divide by [ ] . 
+ 1.14 " business day " mean a day other than a saturday , sunday , or bank or other public holiday in california . 
+ 1.15 " calendar quarter " mean each three ( 3 ) month period commence january 1 , april 1 , july 1 or october 1 of any year; provide , however , 
+ that ( a ) the first calendar quarter of the term shall extend from the effective date to the end of the first full calendar quarter thereafter , and ( b ) the last 
+ calendar quarter of the term shall end upon the expiration or termination of this agreement . 
+ 1.16 " calendar year " mean the period begin on the 1st of january and end on the 31st of december of the same year; provide , however , 
+ that ( a ) the first calendar year of the term shall commence on the effective date and end on december 31 of the same year and ( b ) the last calendar year 
+ of the term shall commence on january 1 of the calendar year in which this agreement terminate or expire and end on the date of termination or 
+ expiration of this agreement . 
+ 1.17 " clinical trial " mean a clinical trial , include any a phase I clinical trial , phase ii clinical trial , phase iii clinical trial , or phase iv clinical 
+ trial , as the case may be , and as any such trial be define by an applicable regulatory authority . 
+ 1.18 " co - pay program " mean a program to support patient access to a product whereby the product manufacturer make payment to a third 
+ party equal to all or part of the difference between the price of product prescribe to a patient and the amount such patient pay for such product 
+ through such patient ’s insurance plan . 
+ 1.19 " combination product " mean any product contain an active ingredient that be not an antibody . such combination product shall be 
+ either ( a ) price and sell in a single package contain such multiple product or ( b ) package separately but sell together for a single price . 
+ 1.20 " commercialize " mean , with respect to the product , to promote , market , distribute , sell ( and offer for sale or contract to sell ) , import , export , 
+ or otherwise commercially exploit or provide product support for the product and to conduct activity , other than development or manufacturing , in 
+ preparation for conduct the forego activity , include activity to produce commercialization support datum and to secure and maintain market 
+ access and reimbursement . " commercialize " and " commercialization " shall have correlative meaning . for the avoidance of doubt , 
+ commercialization do not include development and manufacturing . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 1.21 " commercially reasonable effort " mean , with respect to the effort to be expend by a party with respect to any objective ( e.g. , 
+ development activity and commercialization hereunder ) , the level of effort consistent with the effort and resource [ ] of similar market potential , 
+ at a similar stage in development or product lifecycle , take into account the stage of development or product lifecycle of other of [ ] product 
+ candidate , safety and efficacy , product profile , cost of good , the competitiveness of the marketplace , such company ’s patent position with respect to 
+ such product ( include such company ’s ability to obtain or enforce , or have obtain or enforce , such patent right ) , the third party patent landscape 
+ relevant to the product , the regulatory structure involve , the likelihood of regulatory approval , the likelihood and extent of anticipated or actual 
+ profitability of the applicable product , and other technical , legal , scientific and medical consideration . without limit the foregoing , commercially 
+ reasonable effort require , with respect to such obligation , that a party : ( i ) promptly assign responsibility for such obligation to specific employee(s ) 
+ who be hold accountable for progress and monitor such progress on an on - go basis , ( ii ) set objective for carry out such obligation , and ( iii ) 
+ allocate resource design to advance progress with respect to such objective . 
+ 1.22 " control " or " control by " mean , with respect to any know - how , invention , patent , technology , copyright , trademark or other intellectual 
+ property right , possession by a party or its affiliate ( whether by ownership , license grant or other mean ) of the legal right to grant the right to access or 
+ use , or to grant a license or a sublicense to , such know - how , invention , patent , technology , copyright , trademark or other intellectual property right as 
+ provide for herein without violate the proprietary right of any third party or any term of any agreement or other arrangement between such party ( or 
+ any of its affiliate ) and any third party . 
+ 1.23 " cover " or " cover " mean , with respect to a particular subject matter at issue and a relevant patent , that the manufacture , use , sale , offer 
+ for sale or importation of such subject matter would , but for the existence of this agreement , infringe one or more claim in such patent ( or in the case of 
+ a patent application , would infringe if such application be to issue ) . 
+ 1.24 " designate officer " mean , with respect to xencor , the chief executive officer of xencor ( or its designee ) , and , with respect to aimmune , 
+ the chief executive officer of aimmune ( or its designee ) . 
+ 1.25 " develop " mean to research , develop , analyze , test and conduct preclinical trial , clinical trial ( include , for the avoidance of doubt , phase 
+ iv clinical trial and any preclinical / clinical / cmc commitment follow regulatory approval ) and all other regulatory trial , for the product , as well as 
+ any and all activity pertain to manufacturing development , formulation development , medical affair and lifecycle management , include new 
+ indication , new formulation and all other activity , include regulatory activity , relate to secure and maintain regulatory approval for the 
+ product , or otherwise characterize or understand the property and us of the antibody or the product . " develop " and " development " shall 
+ have correlative meaning . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 1.26 " development activity " mean those development activity undertake by or on behalf of aimmune with respect to the product . 
+ 1.27 " dollar " or " " mean the legal tender of the united states of america . 
+ 1.28 " e.u . major country " mean the united kingdom , france , germany , italy , and spain . 
+ 1.29 " fda " mean the united states food and drug administration and any successor regulatory authority have substantially the same 
+ function . 
+ 1.30 " fd&c act " mean the u.s . federal food , drug and cosmetic act , as amend , and the regulation promulgate thereunder . 
+ 1.31 " first commercial sale " mean , with respect to a product in any country , the first shipment of such product to a third party in such country 
+ for end use or consumption of such product in such country after regulatory approval of such product in such country or , if early , the invoicing of a 
+ third party for such shipment . 
+ 1.32 " force majeure " mean any circumstance whatsoever which be not within the reasonable control of the party affect thereby , potentially 
+ include an act of god , war , act of terrorism , insurrection , riot , strike or labor dispute , shortage of material , fire , explosion , flood , earthquake , government 
+ requisition or allocation , breakdown of or damage to plant , equipment or facility , interruption or delay in transportation , fuel supply or electrical power , 
+ embargo , boycott , order or act of civil or military authority . 
+ 1.33 " generic product " mean , with respect to a product and on a country - by - country basis , a product that ( a ) be market for sale in such 
+ country [ ] , ( b ) contain or comprise an antibody with the [ ] , ( c ) be approve [ ] , and ( d ) such product , as and to the extent require , be 
+ approve through an abbreviate process base in reliance , at least in part , on the safety and efficacy datum generate for the prior regulatory approval 
+ of such product by aimmune or an aimmune agreement entity in such country ( similar , with respect to the united states , to an abbreviate new drug 
+ application under section 505(j ) of the fd&c act ( 21 usc 355(j ) ) ) or be approve as a " biosimilar biologic product " under title vii , subtitle a biologic 
+ price competition and innovation act of 2009 , section 42 u.s.c . 262 , section 351 of the phsa , or , outside the united states , in accordance with european 
+ directive 2001/83 / ec on the community code for medicinal product ( article 10(4 ) and section 4 , part ii of annex i ) and european regulation 
+ eec/2309/93 establish the community procedure for the authorization and evaluation of medicinal product , each as amend , and together with all 
+ associate guidance , and any counterpart thereof or equivalent process inside or outside of the united states or eu to the foregoing . 
+ 1.34 " good clinical practice " or " gcp " mean all applicable good clinical practice standard for the design , conduct , performance , monitoring , 
+ auditing , recording , analysis and reporting of clinical trial , include , as applicable , ( i ) as set forth in the international conference on harmonisation of 
+ technical requirement for registration of 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ pharmaceutical for human use ( " ich ” ) harmonise tripartite guideline for good clinical practice ( cpmp / ich/135/95 ) and any other guideline for good 
+ clinical practice for trial on medicinal product , ( ii ) the declaration of helsinki ( 1964 ) as last amend at the 64th world medical association in october 
+ 2013 and any further amendment or clarification thereto , ( iii ) u.s . code of federal regulation title 21 , part 50 ( protection of human subject ) , 56 
+ ( institutional review board ) and 312 ( investigational new drug application ) , as may be amend from time to time , and ( iv ) the equivalent applicable 
+ law in any relevant country , each as may be amend and applicable from time to time and in each case , that provide for , among other thing , assurance 
+ that the clinical datum and report result be credible and accurate and protect the right , integrity , and confidentiality of trial subject . 
+ 1.35 " good laboratory practice " or " glp " mean all applicable good laboratory practice standard , include , as applicable , ( i ) as set forth in 
+ the then - current good laboratory practice standard promulgate or endorse by the fda as define in 21 c.f.r . part 58 , and ( ii ) the equivalent 
+ applicable law in any relevant country , each as may be amend and applicable from time to time . 
+ 1.36 " good manufacturing practice " or " gmp " mean all applicable good manufacturing practice include , as applicable , ( i ) the principle 
+ detail in the u.s . current good manufacturing practice , 21 c.f.r . section 210 , 211 , 601 and 610 , ( ii ) the principle detail in the ich q7 guideline , 
+ and ( iii ) the equivalent applicable law in any relevant country , each as may be amend and applicable from time to time . 
+ 1.37 " government official " mean : ( i ) any official , officer , employee , representative , or anyone act in an official capacity on behalf of : ( a ) any 
+ government or any department or agency thereof; ( b ) any public international organization ( such as the united nations , the international monetary 
+ fund , the international red cross , or the world health organization ) , or any department , agency , or institution thereof; or ( c ) any government - own or 
+ control company , institution , or other entity , include a government - own hospital or university; ( ii ) any political party or party official; and ( iii ) any 
+ candidate for political office . 
+ 1.38 " governmental authority " mean any united states federal , state or local , or any foreign , government or political subdivision thereof , or any 
+ multinational organization or authority , or any authority , agency or commission entitle to exercise any administrative , executive , judicial , legislative , 
+ police , regulatory or tax authority or power , any court or tribunal ( or any department , bureau or division thereof ) , or any governmental arbitrator or 
+ arbitral body . for clarity , any regulatory authority shall be a governmental authority . 
+ 1.39 " ifrs " mean international financial reporting standard , or with respect to the u.s . , as appropriate , generally accept accounting principle 
+ in the u.s . ( gaap ) , in each case , consistently apply . 
+ 1.40 " ind " mean an investigational new drug application , clinical trial authorization or similar application or submission for approval to conduct 
+ human clinical investigation file with or submit to a regulatory authority in conformance with the requirement of such regulatory authority . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 1.41 " invent " mean the act of ( an ) inventor(s ) , as determine in accordance with applicable law relate to inventorship set forth in the patent 
+ law of the united states ( title 35 , united states code ) , in first conceive an invention . 
+ 1.42 " invention " mean any discovery or invention , whether or not patentable , conceive or otherwise make by either party , or by both party , in 
+ exercise its right or perform its obligation under this agreement . 
+ 1.43 " joint invention " mean an invention that be invent jointly by an employee of , or person under an obligation of assignment to , each of 
+ xencor and aimmune or their respective affiliate . 
+ 1.44 " know - how " mean all technical , scientific , regulatory and other information , result , knowledge , technique and datum , in whatever form and 
+ whether or not confidential , patented or patentable , include invention , invention disclosure , discovery , plan , process , practice , method , 
+ knowledge , trade secret , know - how , instruction , skill , experience , idea , concept , datum ( include biological , chemical , pharmacological , toxicological , 
+ pharmaceutical , physical and analytical , safety , quality control , and preclinical and clinical datum ) , formulae , formulation , composition , specification , 
+ marketing , pricing , distribution , cost , sale and manufacturing datum or description . know - how do not include any patent claim any of the 
+ foregoing . 
+ 1.45 " licensed field " mean the diagnosis , treatment or prevention of human disease and condition . 
+ 1.46 " major territory " mean the [ ] . 
+ 1.47 " manufacture " or " manufacturing " or " manufacture " mean , with respect to the antibody and product , the receipt , handling and storage 
+ of active ingredient , drug substance or drug product , medical device and other material , the manufacturing , processing , packaging and labeling , 
+ hold ( include storage ) , quality assurance and quality control testing ( include release ) of the antibody and product ( other than quality assurance 
+ and quality control relate to development of the manufacturing process , which activity shall be consider development activity ) and shipping of 
+ the antibody and product . 
+ 1.48 " marketing authorization application " or " maa " mean an application to the appropriate regulatory authority for approval to sell the 
+ product ( but exclude pricing approval ) in any particular country or regulatory jurisdiction , include a biologics license application as describe in 21 
+ c.f.r . § 601.2 , as amend . 
+ 1.49 " medical science liaison " mean an individual who be employ by or on behalf of aimmune or its affiliate and who provide educational 
+ service and other educational effort direct towards the medical and/or scientific community . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 1.50 " net sale " mean , with respect to a product , the gross amount invoice for sale of a product by a sell party to third party for end use , 
+ less the follow deduction from such gross amount to the extent attributable to such product and to the extent actually incur , allow , accrue or 
+ specifically allocate : 
+ ( a ) credit or allowance actually grant for damage product , return or rejection of product , price adjustment and billing errors; 
+ ( b ) governmental and other rebate ( or equivalent thereof ) grant to manage health care organization , pharmacy benefit 
+ manager ( or equivalent thereof ) , federal , state , provincial , local and other government , their agency and purchaser and reimburser or to trade 
+ customers; 
+ ( c ) normal and customary trade , cash and quantity discount , allowance and credit actually allow or paid; 
+ ( d ) payment make as part of a co - pay program for a product; and 
+ ( e ) sale taxis , vat taxis and other taxis directly link to the sale of product; 
+ all as determine in accordance with ifrs on a basis consistent with the sell party ’s annual audit financial statement . 
+ net sale shall not include sale to affiliate , sublicensee or contractor engage by aimmune to develop , manufacture , or commercialize the 
+ product , solely to the extent that such affiliate , sublicensee or contractor purchase the product resell such product to a third party . however , 
+ subsequent sale of product by such aimmune affiliate , sublicensee or contractor to a third party shall be include in the net sale when sell in the 
+ market for end - user use . 
+ far , any use , supply or provision of product by aimmune or aimmune agreement entity at no cost or at a de minimis cost not to exceed 
+ [ ] percent ( [ ] ) of the fully burden cost thereof ( i ) in connection with patient assistance program , ( ii ) for charitable or promotional purpose , 
+ ( iii ) for preclinical , clinical , regulatory or governmental purpose , or compassionate use or other similar program , or ( iv ) for test or study reasonably 
+ necessary to comply with any applicable law , regulation or request by a regulatory authority shall not be include in net sale of product . sale or 
+ transfer of product among the aimmune agreement entity shall not result in any net sale , in which case net sale shall be base only on any 
+ subsequent sale or disposition to a third party; provide that the aimmune agreement entity be not an end user . 
+ in no event shall any particular amount identify above be deduct more than once in calculate net sale ( i.e. , no " double counting " of 
+ reduction ) . 
+ in the event that product be sell as part of a financial bundle with other product or include in financial package deal to customer and in such 
+ case , the price of product relevant for the calculation of net sale will be the average invoice sale price of product in the precede calendar quarter 
+ sell separately less the average discount of all product sell as part of such bundle or package . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ for net sale of a combination product , the net sale applicable to such combination product in a country will be determine by multiply the 
+ total net sale of such combined product by the fraction a/(a+b ) , where a be the actual price of the product that be include in such combination 
+ product in the same dosage amount or quantity in the applicable country during the applicable quarter if sell separately , and b be the sum of the actual 
+ price of all other product with which such product be combine in such combination product , in the same dosage amount or quantity in the applicable 
+ country during the applicable quarter if sell separately . if a or b can not be determine because value for such product or such other product with 
+ which such product be combine be not available separately in a particular country , then the party shall discuss an appropriate allocation for the fair 
+ market value of such product and such other product with which such product be combine to mutually determine net sale for the relevant transaction 
+ base on an equitable method of determine the same that take into account , in the applicable territory , the relative contribution of each active 
+ ingredient , variation in dosage formulation and relative value to the end user of each active ingredient . 
+ 1.51 " patent " mean any and all ( i ) issue patent , ( ii ) pende patent application , include all provisional application , substitution , 
+ continuation , continuation - in - part , divisional and renewal , and all patent grant thereon , ( iii ) patent - of - addition , reissue , and reexamination , 
+ include patent term adjustment , patent term extension , supplementary protection certificate or the equivalent thereof , ( iv ) inventor ’s certificate , ( v ) 
+ other form of government - issue right substantially similar to any of the foregoing , and ( vi ) united states and foreign counterpart of any of the 
+ foregoing . 
+ 1.52 " patent term extension " mean any term extension , supplementary protection certificate and equivalent thereof offer patent protection 
+ beyond the initial term with respect to any issue patent . 
+ 1.53 " person " mean any individual , firm , corporation , partnership , limited liability company , trust , business trust , joint venture , governmental 
+ authority , association or other entity . 
+ 1.54 " phase I clinical trial " mean a study in human which provide for the first introduction into human of a product , conduct in normal 
+ volunteer or patient to generate information on product safety , tolerability , pharmacological activity or pharmacokinetic , as more fully define in 21 
+ cfr § 312.21(a ) or comparable regulation in any country or jurisdiction outside the u.s . , and any amend or successor regulation . 
+ 1.55 " phase ii clinical trial " mean a study in human for which a primary endpoint be a preliminary determination of efficacy in patient with the 
+ disease be study , as more fully define in 21 cfr § 312.21(b ) or comparable regulation in any country or jurisdiction outside the u.s . , and any 
+ amend or successor regulation . phase ii clinical trial shall include in all case any phase i / ii clinical trial . 
+ 1.56 " phase iii clinical trial " mean a control study in human that be perform after preliminary evidence suggest effectiveness of a 
+ product have be obtain , and be intend to demonstrate or confirm the therapeutic benefit of such product and to gather the additional information 
+ about effectiveness and safety that be need to evaluate the overall 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ benefit - risk relationship of such product and to provide support for file for regulatory approval and for such product ’s labeling and summary of 
+ product characteristic , as more fully define in 21 cfr § 312.21(c ) or comparable regulation in any country or jurisdiction outside the u.s . , and any 
+ amend or successor regulation . for the sake of clarity , with respect to what be commonly call a phase ii / iii study , the phase iii clinical trial 
+ definition be meet upon [ ] , as far define in federal regulation 21 c.f.r . § 312.21(c ) and its foreign equivalent . 
+ 1.57 " phase iv clinical trial " mean a clinical study in human initiate in a country after receipt of regulatory approval for a biopharmaceutical 
+ product in such country , usually within or in support of the approve product labeling . 
+ 1.58 " pre - marketing " mean all sale and marketing activity undertake prior to and in preparation for the launch of the product . pre - marketing 
+ shall include market research , key opinion leader development , advisory board , medical education , disease - relate public relation , health care economic 
+ study , sale force training and other pre - launch activity prior to the first commercial sale of the product in a give country or other regulatory 
+ jurisdiction . 
+ 1.59 " pricing approval " mean , with respect to any country where a governmental authority authorize reimbursement or access , or approve or 
+ determine pricing , for biopharmaceutical product , receipt ( or , if require to make such authorization , approval of determination effective publication ) of 
+ such reimbursement or access authorization or pricing approval or determination ( as the case may be ) . 
+ 1.60 " product " mean any biopharmaceutical product contain or comprise ( i ) the antibody; and ( ii ) any variant of the antibody that : ( a ) 
+ [ ] and ( b ) [ ] ; provide , that a product do not include any active ingredient that be [ ] , other than the antibody as describe in the foregoing 
+ subsection ( i ) and ( ii ) . for clarity , product exclude : ( 1 ) [ ] ; ( 2 ) [ ] ; ( 3 ) [ ] ; ( 4 ) [ ] ; ( 5 ) [ ] ; or ( 6 ) [ ] . 
+ 1.61 " product approval " mean the approval by a governmental authority necessary for the marketing and sale of the product in a give country 
+ or regulatory jurisdiction , which may include the approval of an maa ( but shall not include any pricing approval ) . 
+ 1.62 " product complaint " mean any write , verbal or electronic expression of dissatisfaction regard any product sell by or on behalf of a 
+ sell party , include report of actual or suspect product tampering , contamination , mislabeling or inclusion of improper ingredient . 
+ 1.63 " promotional material " mean all write , print , video or graphic advertising , promotional , educational and communication material 
+ ( other than the product label and package insert ) for marketing , advertising and promote of the product , for use ( i ) by a sale representative or a 
+ medical science liaison or ( ii ) in advertisement , web site or direct mail piece . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 1.64 " regulatory approval " mean , with respect to any biopharmaceutical product in any regulatory jurisdiction for a give indication , approval 
+ from the applicable regulatory authority permit the manufacture , sale , distribution or commercialization of such biopharmaceutical product in such 
+ regulatory jurisdiction for such indication in accordance with applicable law , include any pricing approval . 
+ 1.65 " regulatory authority " mean , in a particular country or regulatory jurisdiction , any applicable governmental authority involve in grant 
+ regulatory approval and/or , to the extent require in such country or regulatory jurisdiction , governmental pricing approval of a biopharmaceutical 
+ product in such country or regulatory jurisdiction . 
+ 1.66 " regulatory datum " mean any and all research datum , pharmacology datum , chemistry , manufacturing and control datum , preclinical datum , clinical 
+ datum and all other documentation submit , or require to be submit , to regulatory authority in association with regulatory filing for the product 
+ ( include any applicable drug master file , chemistry , manufacturing and control ( " cmc " ) datum , or similar documentation ) . 
+ 1.67 " regulatory material " mean regulatory application , submission , notification , communication , correspondence , meet minute , 
+ registration , regulatory approval and/or other filing make to , receive from or otherwise conduct with a regulatory authority that be necessary in 
+ order to develop , manufacture , obtain marketing authorization , market , sell , distribute or otherwise commercialize the product in a particular country or 
+ regulatory jurisdiction . regulatory material include ind , maas , presentation , response , and application for product approval . 
+ 1.68 " royalty term " mean , with respect to a product on a country - by - country basis , the period of time begin on the first commercial sale of 
+ such product in such country and end the later of ( i ) the expiration of the last to expire valid claim cover the antibody or product in such country , 
+ or ( ii ) [ ] ( [ ] ) year from the first commercial sale of such product in such country . notwithstanding subsection ( i ) and ( ii ) above , the royalty 
+ term for a product in a country shall not [ ] . 
+ 1.69 " sale representative " mean an individual who be employ by a party and who perform detail and other promotional effort with respect 
+ to the product . 
+ 1.70 " sell party " mean aimmune or another aimmune agreement entity . 
+ 1.71 " third party " mean any person other than xencor , aimmune or their respective affiliate . 
+ 1.72 " united states " or " u.s . " mean the united states of america and its possession and territory . 
+ 1.73 " upstream agreement " mean that certain [ ] agreement by and between xencor and the [ ] date [ ] . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 1.74 " valid claim " mean , with respect to a particular country , ( i ) a claim of [ ] that ( a ) have not be specifically hold permanently revoke , 
+ unenforceable or invalid by a decision of a court or other governmental authority of competent jurisdiction , which decision be unappealed or 
+ unappealable within the time allow for appeal , and ( b ) have not be cancel , withdraw , abandon , disclaim or admit to be invalid or 
+ unenforceable through reissue , disclaimer or otherwise , or ( ii ) a bona fide claim of a pende patent application [ ] that have not be ( a ) cancelled , 
+ withdraw or abandon without be re - file in another application in the applicable jurisdiction , or ( b ) finally reject by an administrative agency 
+ action from which no appeal can be take or that have not be appeal within the time allow for appeal . 
+ 1.75 " variant " mean [ ] . 
+ 1.76 " xencor [ ] " mean a [ ] . 
+ 1.77 " xencor invention " mean an invention that be invent solely or jointly with a third party , by or on behalf of xencor or its affiliate . 
+ 1.78 " xencor know - how " mean any and all know - how , whether or not patented or patentable , ( i ) to the extent control by xencor or its 
+ affiliate as of the effective date , or , if transfer to aimmune thereafter during the term of this agreement , and that be necessary in connection with the 
+ development , manufacture , commercialization or other use of the antibody or product or ( ii ) constitute a xencor invention . notwithstanding the 
+ foregoing , in all case , xencor know - how do not include ( a ) [ ] , ( b ) [ ] , ( c ) [ ] , ( d ) [ ] , ( e ) [ ] , or ( f ) [ ] . 
+ 1.79 " xencor general patent " mean ( i ) the patent identify on schedule 1.79 , include patent issue from any patent application set forth on 
+ schedule 1.79 , ( ii ) with respect to such patent set forth on schedule 1.79 , all provisional application , substitution , continuation , continuation - in - part , 
+ divisional , renewal , patent - of - addition , reissue , reexamination and extension , ( iii ) all international and domestic counterpart of any of the 
+ foregoing , and ( iv ) any other patent control by xencor that claim invention necessary for the development , manufacture , commercialization or 
+ other use of the antibody or product as the antibody and product exist as of the effective date . 
+ 1.80 " xencor patent " mean xencor general patent and xencor product specific patent . 
+ 1.81 " xencor product specific patent " mean ( i ) the patent identify on schedule 1.81 , include patent issue from any patent application set 
+ forth on schedule 1.81 , ( ii ) with respect to all patent set forth on schedule 1.81 , all provisional application , substitution , continuation , continuations- 
+ in - part , divisional , renewal , patent - of - addition , reissue , reexamination and extension , ( iii ) any [ ] , and ( iv ) all international and domestic 
+ counterpart of any of the foregoing . 
+ 1.82 " xencor technology " mean xencor know - how and xencor patent . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 1.83 additional definition . the following term have the meaning set forth in the correspond section of this agreement : 
+ article 2 
+ license 
+ 2.1 grant to aimmune . subject to the term and condition of this agreement , xencor hereby grant to aimmune during the term an exclusive , 
+ worldwide , payment - bear license under and with respect to xencor patent and xencor ’s interest in joint collaboration patent , and a non - exclusive , 
+ payment bear license under and with respect to xencor know - how , in each case , with the right to sublicense solely in accordance with section 2.3.2 , 
+ solely to develop , manufacture and commercialize the product in and for the license field; provide that notwithstanding the foregoing , xencor shall 
+ retain the right under and with respect to xencor patent and xencor ’s interest in joint collaboration patent to the extent necessary to perform its 
+ obligation under this agreement . 
+ 2.2 additional licensing provision . 
+ 2.2.1 negative covenant . aimmune covenant that it will not use or practice any of xencor ’s right to and under the xencor patent , 
+ xencor know - how or other intellectual property right license ( or sublicense , as applicable ) to it under this article 2 , except for the purpose 
+ expressly permit in the applicable license grant . aimmune covenant that it will not research or develop ( include develop ) the antibody itself , 
+ include not develop any modification , variant , fragment , progeny or derivative of such antibody , in each case , in a way that would produce a 
+ molecule that be neither the antibody nor a molecule that fall within the definition of a product . 
+
+ term 
+ section 
+ " agreement " 
+ preamble 
+ " bankrupt party " 
+ 14.7 
+ " breach party " 
+ 13.2 
+ [ ] 
+ 1.73 
+ " claim " 
+ 11.1 
+ " cmc " 
+ 1.66 
+ " commercialization datum " 
+ 5.5 
+ " confidential information " 
+ 12.1.1 
+ " control party " 
+ 9.4.1(a ) 
+ " court " 
+ 15.13.3 
+ " dispute " 
+ 15.1 
+ " effective date " 
+ preamble 
+ " ich " 
+ 1.34 
+ term 
+ section 
+ " indemnify party " 
+ 11.3.1 
+ " indemnify party " 
+ 11.3.1 
+ " infringement claim " 
+ 9.4.1 
+ " joint collaboration patent " 
+ 9.1.1 
+ " aimmune " 
+ preamble 
+ " aimmune collaboration 
+ patent " 
+ 9.1.1 
+ " xencor " 
+ preamble 
+ " xencor collaboration patent " 
+ 9.1.1 
+ " loss " 
+ 11.1 
+ " packaging and labeling " 
+ 6.2 
+ term 
+ section 
+ " party " or " party " 
+ preamble 
+ " product trade dress " 
+ 5.4.1 
+ " product trademark " 
+ 5.4.1 
+ " recovery " 
+ 9.4.2(c)(iv ) 
+ " share " 
+ 7.1 
+ " stock issuance agreement " 
+ 7.1 
+ " sublicensee " 
+ 2.3.2 
+ " term " 
+ 13.1 
+ " third party patent " 
+ 7.3.2(b ) 
+ " upfront payment " 
+ 7.1 
+ " vat " 
+ 8.3.3 
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 2.2.2 no imply licenses; retain right . except as explicitly set forth in this agreement , xencor do not grant any license , express or 
+ imply , under its intellectual property right to aimmune , whether by implication , estoppel or otherwise . 
+ 2.2.3 upstream agreement . aimmune acknowledge , understand and agree that ( i ) the xencor know - how license to aimmune 
+ pursuant to section 2.1 include certain know - how license to xencor pursuant to the upstream agreement , ( ii ) the license to such xencor know - how 
+ constitute a sublicense under the upstream agreement , ( iii ) aimmune ’s right to such xencor know - how be subject and subordinate to the term and 
+ condition of the upstream agreement , ( iv ) aimmune will comply with the upstream agreement , include undertake such activity as xencor 
+ reasonably request to so comply , ( v ) [ ] be responsible for any and all payment due under the upstream agreement ( follow the effective date ) in 
+ connection with develop , manufacture and commercialize the product by or on behalf of aimmune ( include by or on behalf of its affiliate or 
+ sublicensee ) , and ( vi ) aimmune receive a copy of the upstream agreement prior to the effective date . 
+ 2.3 performance by affiliate and sublicensee . 
+ 2.3.1 performance by affiliate . the party recognize that each may perform some or all of its obligation under this agreement through 
+ affiliates; provide , however , that each party shall remain responsible for and be guarantor of the performance by its affiliate and shall cause its 
+ affiliate to comply with the provision of this agreement in connection with such performance . each party hereby expressly waive any requirement 
+ that the other party exhaust any right , power or remedy , or proceed against an affiliate , for any obligation or performance hereunder prior to proceed 
+ directly against such party . wherever in this agreement the party delegate responsibility to affiliate , the party agree that such entity may not make 
+ decision inconsistent with this agreement , amend the term of this agreement or act contrary to its term in any way . 
+ 2.3.2 sublicensee . aimmune shall [ ] the right ( but not the obligation ) to sublicense the right grant to it under section 2.1 to its 
+ affiliate or third party ( each , a " sublicensee”); provide , however , that aimmune shall remain responsible for the performance by any of its direct and 
+ indirect sublicensee and shall cause its direct and indirect sublicensee to comply with the applicable provision of this agreement in connection with 
+ such performance . without limit the foregoing , aimmune shall cause its direct and indirect sublicensee to accept in write all applicable term and 
+ condition of this agreement , include the reporting , audit , inspection and confidentiality provision hereunder and section 2.2.1 and 2.4 . for the 
+ avoidance of doubt , ( a ) aimmune will remain directly responsible for all amount owe to xencor under this agreement , and ( b ) aimmune shall cause 
+ each sublicensee ( include each tier of sublicensee ) to be subject to the negative and restrictive covenant set forth in section 2.2.1 and 2.4 , 
+ respectively . aimmune hereby expressly waive any requirement that xencor exhaust any right , power or remedy , or proceed against a subcontractor , for 
+ any obligation or performance hereunder prior to proceed directly against aimmune . 
+ 2.4 restrictive covenant . aimmune hereby covenant and agree that it shall not ( and shall cause the other aimmune agreement entity 
+ not to ) , either directly or indirectly , 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ develop , manufacture , or commercialize the product for use outside the licensed field . furthermore , xencor hereby covenant and agree that it shall 
+ not ( and shall cause its affiliate not to ) , either directly or through grant a license or other right to , or otherwise facilitate , a third party to ( a ) 
+ develop , manufacture or commercialize the antibody or the product during the term , ( b ) commence any [ ] of any [ ] that be not the antibody or a 
+ product and that [ ] for use in the licensed field , prior to the [ ] ( [ ] th ) anniversary of the effective date , or ( c ) develop , manufacture or 
+ commercialize any [ ] that be not the antibody or a product and that [ ] for use in the aimmune field during the term . it be the desire and intent of 
+ the party that the restrictive covenant contain in this section 2.4 be enforce to the full extent permissible under applicable law and public 
+ policy apply in each jurisdiction in which enforcement be seek . xencor and aimmune believe that the restrictive covenant in this section 2.4 be 
+ valid and enforceable . however , if any restrictive covenant should for any reason become or be declare by a competent court or competition authority to 
+ be invalid or unenforceable in any jurisdiction , such restrictive covenant shall be deem to have be amend to the extent necessary in order that 
+ such provision be valid and enforceable , such amendment shall apply only with respect to the operation of such provision of this section 2.4 in the 
+ particular jurisdiction in which such declaration be make . far , both party agree that [ ] of this agreement . 
+ 2.5 progress update . aimmune shall keep xencor inform as to its progress and activity relate to the development , manufacture and 
+ commercialization of the product on [ ] basis ( i.e. , every [ ] ( [ ] ) month ) , include by provide update on the status of study necessary for 
+ obtain regulatory approval with respect to the product , regulatory matter and meeting with regulatory authority with respect to the product , and 
+ commercialization activity commence no later than [ ] ( [ ] ) year prior to the date on which aimmune estimate the first commercial sale of 
+ product will occur . additionally , to the extent applicable , such update shall include summary of aimmune ’s development plan for the product for the 
+ ensue [ ] ( [ ] ) year time period . any information disclose under this section 2.5 shall be treat as confidential information as define in section 
+ 12.1 . 
+ 2.6 upstream agreement . during the term , neither xencor nor any of its affiliate shall ( a ) encumber any gpex technology , as define in the 
+ upstream agreement , to the extent include within the xencor technology , or commit any act or permit the occurrence of any omission that would cause 
+ the breach or termination of the upstream agreement , or otherwise knowingly take action or permit omission that would adversely affect the right 
+ grant to aimmune hereunder with respect to the xencor patent and xencor know - how , or ( b ) without aimmune ’s prior write consent , amend or 
+ otherwise modify or permit to be amend or modify , the upstream agreement in any respect that would adversely affect aimmune ’s right with respect 
+ to , the antibody or product . xencor shall promptly notify aimmune upon xencor ’s become aware of any allege , threaten , or actual breach of the 
+ upstream agreement by either party and shall not take any action that would reasonably give rise to the right of the counterparty to terminate the 
+ upstream agreement . 
+ 2.7 technology transfer . xencor shall use commercially reasonable effort to transfer , and aimmune shall use commercially reasonable effort 
+ to receive , the xencor know - how , regulatory material , and regulatory datum , in each case , as identify on schedule 2.7 to 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ permit and enable aimmune or its affiliate to develop and manufacture the product pursuant to the term of this agreement no later than [ ] ( [ ] ) 
+ business day after the effective date . the technology transfer under this section 2.7 shall occur in an orderly fashion and in a manner reasonably 
+ agree by the party . the implementation and transfer of information pursuant hereto shall be conduct through electronic , email and teleconference 
+ consultation between the party . [ ] shall be responsible for any development or manufacturing relate out - of - pocket cost associate with such 
+ technology transfer , include lab run , pilot scale testing and demo batch . xencor will allocate adequate appropriately qualified representative to 
+ enable aimmune to practice and understand the xencor know - how , regulatory material , and regulatory datum , include in connection with the 
+ transition of manufacturing responsibility to aimmune , xencor ’s obligation under this section 2.7 shall not exceed an aggregate of [ ] ( [ ] ) full- 
+ time equivalent hour unless the party otherwise agree in write [ ] . 
+ article 3 
+ development 
+ 3.1 overview of development . subject to the term and condition of this agreement , aimmune shall be responsible for the development of the 
+ product as set forth herein . aimmune , itself or with or through its affiliate and sublicensee , shall use commercially reasonable effort to perform the 
+ development activity for the product to ( i ) achieve the development milestone set forth in section 7.2 , and ( ii ) obtain regulatory approval for the 
+ product . 
+ 3.2 compliance . aimmune shall conduct the development activity in accordance with sound and ethical business and scientific practice , and in 
+ compliance with all applicable law , include gcp and glp , and also include all applicable datum privacy and datum protection law . in addition , 
+ aimmune shall not use in any capacity , in connection with its development ( or commercialization ) of the product hereunder , any person who have be 
+ debarred pursuant to section 306 of the fd&c act ( or similar applicable law outside of the u.s . ) , or who be the subject of a conviction describe in such 
+ section , and aimmune shall inform xencor in write promptly if it or any person who be perform service for aimmune hereunder be debar or be the 
+ subject of a conviction describe in section 306 ( or similar applicable law outside of the u.s . ) , or if any action , suit , claim , investigation or legal 
+ administrative proceeding be pending or , to aimmune ’s knowledge , be threaten , relate to the debarment of aimmune or any person use in any 
+ capacity by aimmune in connection with its development ( or commercialization ) of the product hereunder . xencor shall not use in any capacity in 
+ connection with perform its obligation under this agreement , any person who have be debar pursuant to section 306 of the fd&c act ( or similar 
+ applicable law outside of the u.s . ) , or who be the subject of a conviction describe in such section . xencor shall inform aimmune in write immediately 
+ promptly if it or any person who be perform service for xencor hereunder be debar or be the subject of a conviction describe in section 306 ( or 
+ similar applicable law outside of the u.s . ) , or if any action , suit , claim , investigation or legal administrative proceeding be pending or , to xencor ’s 
+ knowledge , be threaten , relate to the debarment of xencor or any person use in any capacity by xencor in connection with its development or 
+ manufacture of the product prior to the effective date or performance under this agreement or during the term in the course of perform xencor ’s 
+ obligation under this agreement . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 3.3 development cost . as between the party , aimmune shall be solely responsible for one hundred percent ( 100 ) of all development cost 
+ incur with respect to any development activity . 
+ 3.4 record , report and information . aimmune shall , and shall cause each of the other aimmune agreement entity to , maintain current and 
+ accurate record of all development activity conduct by it and all datum and other information result from such work ( which record shall include , 
+ as applicable , book , record , report , research note , chart , graph , comment , computation , analysis , recording , photograph , computer program 
+ and documentation thereof ( e.g. , sample of material and other graphic or write datum generate in connection with the development activity ) ) . such 
+ record shall properly reflect all work do and result achieve in the performance of the development activity in sufficient detail and in good 
+ scientific manner appropriate for regulatory and patent purpose . aimmune shall document all preclinical study and clinical trial to be conduct in 
+ formal write study report accord to applicable national and international ( e.g. , ich , gcp and glp ) guideline . 
+ article 4 
+ regulatory 
+ 4.1 regulatory filing and regulatory approval . 
+ 4.1.1 general responsibilities; ownership of regulatory approval . aimmune shall be responsible for the preparation of all regulatory 
+ material necessary or desirable for obtain and maintain the regulatory approval for the product and aimmune shall submit such regulatory 
+ material , as applicable , to the applicable governmental authority . for clarity , to the extent allow by applicable law , all regulatory approval for the 
+ product shall be hold and own by aimmune in its name . 
+ 4.1.2 pricing approval . to the extent that a give country or regulatory jurisdiction require pricing approval for sale of the product , 
+ aimmune shall ( to the extent permit by applicable law ) be solely responsible for ( and shall use commercially reasonable effort toward ) obtain 
+ and maintain pricing approval in all such country and regulatory jurisdiction in which it obtain regulatory approval for product , in its own 
+ name . 
+ 4.1.3 cost of regulatory activity . all regulatory cost incur in connection with the preparation of regulatory material , and obtain 
+ of product approval , for the product shall be bear solely by aimmune . aimmune shall be responsible for all regulatory cost involve in the 
+ maintenance of all regulatory approval for the product . 
+ 4.1.4 reporting and review . pursuant to the update to be provide to xencor under section 2.5 , aimmune shall keep xencor reasonably 
+ inform in connection with the preparation of all material regulatory material , regulatory authority review of regulatory material , and regulatory 
+ approval , in each case with respect to the product . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 4.1.5 safety reporting . aimmune shall provide a [ ] safety report in connection with the development of the product . aimmune shall 
+ determine , [ ] , the content and frequency of such report , but in any event such report will be make as [ ] for xencor to remain informed of the 
+ safety status of the product to assess , monitor and report to regulatory authority information relevant to the safety of product in connection with 
+ xencor ’s effort to obtain regulatory approval of product that be not the product and that [ ] , and comply with applicable law . xencor shall 
+ provide a [ ] safety report in connection with the development of product ( other than product ) that [ ] . xencor shall determine , [ ] , the content 
+ and frequency of such report , but in any event such report will be make as [ ] for aimmune to assess , monitor and report to regulatory authority 
+ information relevant to the safety of product in connection with aimmune ’s effort to obtain regulatory approval of the product and comply with 
+ applicable law . 
+ 4.2 no other regulatory filing . except as otherwise expressly set forth in this article 4 , aimmune and aimmune agreement entity shall not 
+ file any regulatory material or regulatory approval that be base on any xencor technology . 
+ 4.3 pharmacovigilance and medical inquiry . 
+ 4.3.1 pharmacovigilance . subject to section 4.1.1 , aimmune , as the holder of the product approval , shall be responsible for the 
+ collection , review , assessment , tracking and filing of information relate to adverse event associate with the product ( whether or not product approval 
+ have be achieve ) , in each case in accordance with applicable law and this agreement ( and aimmune shall , in the development and commercialization 
+ of the product , record , investigate , summarize , notify , report and review all adverse event in accordance with applicable law ) . 
+ 4.3.2 medical inquiry for the product . follow the effective date , subject to section 4.1.1 , aimmune shall be responsible for handle 
+ all medical question or inquiry in each country , include all product complaint , with regard to any product distribute or sell by or on behalf of 
+ aimmune ( or any of the other aimmune agreement entity ) , in each case in accordance with applicable law and this agreement . 
+ 4.3.3 regulatory authority communication . in addition to its obligation under this agreement , each party shall disclose to the other 
+ party ( and each party shall have the right to subsequently disclose to its affiliate and subcontractor and licensee , specifically those licensee of the 
+ product in the case of aimmune , who be bind by obligation of confidentiality substantially consistent with those in article 12 ) the follow 
+ regulatory information : all material information pertain to material adverse or potentially material adverse action take or that may be take by 
+ regulatory authority , in connection with the product or antibody , include any notice , audit notice , notice of initiation by regulatory authority of 
+ investigation , detention , seizure or injunction concern the product or antibody , notice of violation letter ( i.e. , an untitled letter ) , warning letter , 
+ service of process or other equivalent 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ communication or action . without limit the generality of the foregoing , each party shall promptly , but in any event within [ ] ( [ ] ) business day , 
+ inform the other party of any material adverse or potentially material adverse action take or that may be take by regulatory authority in connection 
+ with the product or antibody , include any notice , audit notice , notice of initiation by regulatory authority of investigation , detention , seizure or 
+ injunction concern the product or antibody , notice of violation letter ( i.e. , an untitled letter ) , warning letter , service of process or other equivalent 
+ communication or action . 
+ 4.3.4 recall , withdrawal , or market notification of product . in the event that any governmental authority threaten or initiate any 
+ action to remove the product from the market , aimmune shall notify xencor of such communication promptly , but in no event later than [ ] ( [ ] ) 
+ business day , after receipt thereof . aimmune shall [ ] any recall , withdrawal or market notification of the product . as between the party , all cost 
+ and expense associate with implement a recall , withdrawal or market notification with respect to the product shall be bear by [ ] . 
+ article 5 
+ commercialization 
+ 5.1 commercialization . during the term , as between the party , aimmune shall be solely responsible for commercialize the product . aimmune 
+ shall be responsible for one hundred percent ( 100 ) of the expense ( include pre - marketing and other commercialization expense ) incur in 
+ connection with the commercialization of the product . 
+ 5.2 aimmune ’s performance . 
+ 5.2.1 specific commercialization obligation . without limit the generality of the provision of section 5.1 , in connection with the 
+ commercialization of the product by or on behalf of aimmune or its affiliate and sublicensee hereunder : 
+ ( a ) aimmune , itself or with or through its affiliate and sublicensee , shall ( i ) use commercially reasonable effort to commercialize 
+ the product in the licensed field throughout the major territory , ( ii ) represent the product accurately and fairly , and ( iii ) not sell or distribute the product 
+ in a bundle with other product at a discount that be not equitably allocate between product and other product with which the product be bundle . 
+ ( b ) aimmune shall not ( i ) [ ] , or ( ii ) utilize deceptive , misleading or unethical business practice , in each case in the course of 
+ perform activity pursuant to this agreement . 
+ ( c ) aimmune , itself or with or through its affiliate and sublicensee , shall be solely responsible for ( i ) receive , accept and fill 
+ order for the product , ( ii ) handle all return of the product , ( iii ) control invoicing , order processing and collection of account receivable for the 
+ sale of the product , and ( iv ) distribute and manage inventory of the product . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 5.3 report . without limit aimmune ’s other reporting obligation hereunder , aimmune shall , during the fourth calendar quarter of each 
+ calendar year after the first commercial sale of a product , provide xencor [ ] involve product during the precede four ( 4 ) calendar quarter . 
+ 5.4 product trademark and product trade dress . 
+ 5.4.1 product trademark . aimmune shall commercialize the product under the trademark and the trade dress select by aimmune ( the 
+ " product trademark " and the " product trade dress " , respectively ) . 
+ 5.4.2 use and ownership of product trademark and product trade dress . all us of the product trademark and product trade dress by 
+ aimmune ( and its other aimmune agreement entity ) to identify and/or in connection with the commercialization of the product shall be in accordance 
+ with regulatory approval and all applicable law . aimmune or the other aimmune agreement entity shall own and retain all right to the product 
+ trademark and product trade dress ( in each case , together with all goodwill associate therewith ) . aimmune or the other aimmune agreement entity 
+ shall also own right to any internet domain name incorporate the product trademark or any variation or part of such trademark as its url address . 
+ 5.4.3 maintenance of product trademark . during the term , aimmune or the other aimmune agreement entity will use commercially 
+ reasonable effort to establish and maintain the product trademark and will [ ] . 
+ 5.4.4 no inclusion of xencor logos on packaging and promotional material . notwithstanding anything to the contrary herein , aimmune 
+ shall not use any xencor trademark , name , logo or housemark in connection with any promotional material or the product without xencor ’s write 
+ consent . without limit the foregoing , aimmune will take no action that will interfere with or diminish xencor ’s right in its respective trademark , 
+ name and logo , and if xencor reasonably believe that the use of any trademark , name and logo by aimmune hereunder be interfere with or 
+ diminish its right , xencor shall notify aimmune thereof in writing and aimmune shall promptly cease use of such trademark , name or logo in such 
+ manner . 
+ 5.5 commercialization datum . as between the party , aimmune shall own all marketing and sale datum and information result from its 
+ commercialization of the product during the term ( the " commercialization datum " ) , include promotional material , marketing strategy and market 
+ research datum . 
+ article 6 
+ supply 
+ 6.1 initial product supply . xencor shall provide a [ ] supply of product to aimmune in the amount and in the form set forth on schedule 6.1 , 
+ which aimmune agree to accept on an as - is basis . xencor shall make available to aimmune the quantity of the product 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ specify on schedule 6.1 within [ ] ( [ ] ) business day from the effective date or otherwise as agree to by the party , and shall provide 
+ appropriate documentation at such time ( i.e. , appropriate certificate of analysis or compliance , as applicable ) . the product shall be make available to 
+ aimmune [ ] . for clarity , aimmune shall bear all cost in connection with such supply of product relate to shipping , taxis , additional testing and 
+ other matter . 
+ 6.2 packaging and labeling; certain other manufacturing activity . notwithstanding anything to the contrary contain herein , aimmune or 
+ its designate third party shall be responsible ( [ ] ) for all final product labeling and packaging ( whether in commercial or clinical packaging 
+ presentation ) , include material such as patient insert , patient medication guide , professional insert and any other write , print or graphic 
+ material accompany the product and consider to be part of the finished product packaging and labeling , and handling , storage , quality control , 
+ quality assurance , testing and release ( collectively , " packaging and labeling " ) . aimmune or its designate third party shall ensure that all such 
+ packaging and labeling complie with applicable law , gmp and the regulatory approval for the product . to the extent that a third party be involve 
+ in packaging and labeling or other activity describe in this section 6.2 , [ ] shall be [ ] responsible for [ ] , qualify such third party to 
+ perform such activity . 
+ article 7 
+ payment 
+ 7.1 upfront payment . within [ ] ( [ ] ) day after the effective date of this agreement , aimmune shall issue to xencor share of aimmune 
+ common stock ( the " share " ) in accordance with that certain stock issuance agreement , date the date hereof , by and among xencor and aimmune 
+ ( the " stock issuance agreement " ) , and pay to xencor by wire transfer of immediately available fund , into an account designate in writing by xencor , 
+ an amount equal to five million dollar ( 5,000,000 ) ( together with the issuance of the share , the " upfront payment " ) . the upfront payment shall be 
+ nonrefundable and noncreditable against any other payment due hereunder . 
+ 7.2 milestone payment . aimmune shall pay to xencor the one - time milestone payment describe in this section 7.2 follow achievement ( and 
+ only upon the first occurrence ) of the correspond milestone event for a product . aimmune shall promptly notify xencor in writing of , but in no event 
+ later than [ ] ( [ ] ) day after , the achievement of each such milestone event with respect to a product . aimmune shall pay the applicable milestone 
+ payment by wire transfer of immediately available fund within [ ] ( [ ] ) day after the achievement ( and only upon the first occurrence ) of the 
+ applicable milestone event into an account designate by xencor in writing . each such milestone payment be nonrefundable and noncreditable against 
+ any other payment due hereunder . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ milestone event 
+ milestone 
+ payment 
+ development milestone 
+ [ ] 
+
+ [ ] 
+ [ ] 
+
+ [ ] 
+ [ ] 
+
+ [ ] 
+ [ ] 
+
+ [ ] 
+ [ ] 
+
+ [ ] 
+ [ ] 
+
+ [ ] 
+ sale milestone 
+ [ ] 
+
+ [ ] 
+ [ ] 
+
+ [ ] 
+ [ ] 
+
+ [ ] 
+ [ ] 
+
+ [ ] 
+ 7.3 royalty payment . 
+ 7.3.1 product . on a product - by - product and country - by - country basis during the royalty term applicable to such product and such 
+ country , aimmune shall pay to xencor the follow royalty on net sale of product , subject to section 7.3.2 : 
+ aggregate annual net sale 
+ royalty 
+ rate 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 7.3.2 royalty reduction . 
+ ( a ) no valid claim . on a country - by - country and product - by - product basis , if at any time during the royalty term with respect to 
+ such country and such product , such product be not cover by any valid claim of a [ ] , the royalty rate apply to net sale of such product shall be 
+ the royalty rate in section 7.3.1 reduce by [ ] percent ( [ ] ) for so long as during the royalty term such product be not cover by a valid claim of 
+ a [ ] in such country . 
+ ( b ) third party intellectual property . aimmune shall have the right ( but not the obligation ) , at its own expense ( subject to the 
+ reduction provide for by this section 7.3.2(b ) ) , to obtain any license from any third party that be not sublicensee of aimmune with respect to a 
+ product in such country under any issue patent that would be infringe by the practice of xencor technology license under section 2.1 with respect 
+ to a give product in a particular country ( each such patent , a " third party patent " ) . if aimmune obtain such a license to a third party patent , 
+ aimmune shall be entitle to credit [ ] percent ( [ ] ) of the royalty pay to such third party during a calendar quarter against the royalty 
+ payment otherwise payable by aimmune to xencor pursuant to this section 7.3 with respect to such product and such country in such calendar quarter . 
+ notwithstanding the foregoing , aimmune shall have no right to reduce payment due to xencor under this agreement by any amount pay to [ ] in 
+ connection with the upstream agreement or any other agreement enter into between aimmune and [ ] . 
+ ( c ) generic competition . on a country - by - country and product - by - product basis , if at any time during the royalty term with respect 
+ to such country and such product there be one or more generic product(s ) with respect to such product be sell for [ ] ) consecutive calendar 
+ quarter , then [ ] for such country and such product , the royalty rate for such product shall be reduce , after give effect to any reduction applicable 
+ to such product in such country pursuant to [ ] , on a calendar quarter basis as follow : 
+ ( i ) if the cumulative net sale of such product in such country during such calendar quarter be equal to or less than [ ] 
+ percent ( [ ] ) , but be great than [ ] percent ( [ ] ) , of the baseline quarter net sale , then the royalty rate will be reduce for such calendar 
+ quarter by [ ] percent ( [ ] ) ; and 
+ ( ii ) if the cumulative net sale of such product in such country during such calendar quarter be less than [ ] percent 
+ ( [ ] ) of the baseline quarter net sale of the baseline quarter net sale , then the royalty rate for such calendar quarter will be reduce by [ ] 
+ percent ( [ ] ) . 
+ provide , that , for clarity , on a country - by - country and product - by - product basis , there will be no royalty rate reduction with respect to a give country 
+ and product pursuant to this section 7.3.2(c ) with respect to the initial [ ] ( [ ] ) consecutive calendar quarter period during which generic product 
+ entry with respect to such product and such country be be establish . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ ( d ) royalty floor . notwithstanding any provision set forth in this agreement to the contrary , none of the permit reduction to 
+ royalty provide in this section 7.3.2 will reduce any royalty payment payable in a give calendar quarter with respect to net sale of any product in 
+ any country during the royalty term by more than [ ] percent ( [ ] ) of the royalty otherwise owe to xencor pursuant to section 7.3.1 . 
+ article 8 
+ payment; records; audit 
+ 8.1 royalty payment and report . the royalty payment due by aimmune to xencor under section 7.3 shall be calculate , report and pay for 
+ each calendar quarter within [ ] ( [ ] ) day after the end of each calendar quarter and shall be accompany by a report set forth net sale of 
+ product by aimmune in sufficient detail to permit confirmation of the accuracy of the royalty payment make , include the gross sale and net sale of 
+ each product , on a country - by - country basis , and the exchange rate use in accordance with section 8.2 . without limit the generality of the 
+ foregoing , aimmune shall require its affiliate and other aimmune agreement entity to account for its net sale and to provide such report with 
+ respect thereto as if such sale be make by aimmune . 
+ 8.2 manner and place of payment . when conversion of payment from any currency other than u.s . dollar be require , such conversion shall be 
+ at an exchange rate equal to the rate of exchange for the currency of the country from which such payment be payable as publish by the wall street 
+ journal , western u.s . edition , on the last business day of the calendar quarter in which the applicable sale be make in such country . all payment 
+ hereunder shall be payable in u.s . dollar . all payment owe under this agreement shall be make by wire transfer in immediately available fund to a 
+ bank and account designate in writing by xencor , unless otherwise specify in writing by xencor . 
+ 8.3 taxis . 
+ 8.3.1 the party acknowledge and agree that it be their mutual objective and intent to minimize , to the extent feasible , taxis payable with 
+ respect to their collaborative effort under this agreement to cooperate and coordinate with each other to achieve such objective . for the avoidance of 
+ doubt , as between the party , aimmune shall be responsible for any brand prescription drug fee that may be levy under section 9008 of the 
+ affordable care act with respect to any product sell . 
+ 8.3.2 subject to this section 8.3.2 , xencor will pay any and all taxis , include withholding , levy on account of any payment make to it 
+ under this agreement . if any taxis be pay or require to be withhold by aimmune for the benefit of xencor on account of any payment payable to 
+ xencor under this agreement , aimmune will ( i ) deduct such taxis from the amount of payment otherwise due to xencor , ( ii ) timely pay the taxis to the 
+ proper tax authority , ( iii ) send proof of payment to xencor within [ ] ( [ ] ) day follow such payment and ( iv ) cooperate with xencor in any 
+ way reasonably require by xencor to obtain available reduction , credit or refund of such taxis . notwithstanding the foregoing , if ( a ) aimmune 
+ assign its right or obligation or delegate its right under this agreement , ( b ) as a 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ result of such assignment or delegation , aimmune ( or its assignee ) be require by applicable law to withhold taxis from or in respect of any amount 
+ payable under this agreement , and ( c ) such withholding taxis exceed the amount of withholding taxis that would have be applicable but for such 
+ assignment or delegation , then any such amount payable shall be increase to take into account such withholding taxis as may be necessary so that , 
+ after make all require withholding ( include withholding on the additional amount payable ) , the payee receive an amount equal to the sum it 
+ would have receive have no such increase withholding be make . each party shall cooperate with the other party in any way reasonably request by 
+ the other party to minimize the withholding tax implication of any such assignment or delegation . 
+ 8.3.3 aimmune shall be responsible for all value add taxis ( " vat " ) , if any , attributable to transaction contemplate by this agreement 
+ without any offset or reimbursement from xencor . xencor shall cooperate with aimmune in any way reasonably request by aimmune to obtain 
+ available reduction , credit or refund of any vat amount attributable to transaction contemplate by this agreement . 
+ 8.3.4 [ ] . 
+ 8.4 records; audit . during the term and for [ ] ( [ ] ) year thereafter , aimmune shall keep , and shall cause its affiliate and sublicensee to 
+ keep and provide to xencor , complete and accurate record pertain to the sale or other disposition of product in sufficient detail to permit xencor to 
+ confirm the accuracy of payment due hereunder . xencor shall have the right , upon [ ] ( [ ] ) day ' prior write notice to aimmune , to cause an 
+ independent , certify international public accounting firm reasonably acceptable to aimmune or reasonably acceptable to its affiliate or sublicensee , 
+ as applicable , to audit such record during aimmune ’s , or its affiliate ’s or sublicensee ' , as applicable , normal business hour to confirm the number of 
+ product unit sell , the gross sale and net sale of product , the royalty payable , the method use to calculate the royalty payable , and the exchange 
+ rate use in accordance with section 8.2 . the audit shall be limit to pertinent record keep by aimmune and its affiliate and sublicensee for any 
+ year end not more than [ ] ( [ ] ) month prior to the date of the write notice . an audit under this section 8.4 shall not occur more than [ ] in 
+ any calendar year , except in the case of any subsequent " for cause " audit . the accounting firm shall disclose to xencor only whether the report be 
+ correct or incorrect and the specific detail concern any discrepancy . no other information shall be provide to xencor . the accounting firm shall 
+ provide aimmune with a copy of any disclosure or report make to xencor and aimmune shall have an opportunity to discuss such disclosure or 
+ report with xencor and the accounting firm . information , disclosure , or report arise from any such examination shall be confidential information of 
+ aimmune subject to the confidentiality and other obligation of article 12 . prompt adjustment shall be make by the party to reflect the result of 
+ such audit . xencor shall bear the full cost of such audit unless such audit disclose an underpayment of more than [ ] percent ( [ ] ) of the 
+ payment due under this agreement , in which case , [ ] . 
+ 8.5 late payment . in the event that any payment due under this agreement be not send to xencor when due in accordance with the applicable 
+ provision of section 7.1 , 7.2 , or 8.1 , the payment shall accrue interest from the date due at the [ ] , plus an additional [ ] 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ percentage point ( [ ] ppts); provide , however , that ( a ) in the event that more than [ ] payment due under this agreement be not receive by 
+ xencor when due , the foregoing rate shall increase to the prime rate plus an additional [ ] percentage point ( [ ] ppt ) per year calculate on the 
+ number of day such payment be delinquent , compound annually and compute on the basis of a three hundred sixty five ( 365 ) day year , and ( b ) in no 
+ event shall such rate exceed the maximum legal annual interest rate . the payment of such interest shall not limit xencor from exercise any other right it 
+ may have as a consequence of the lateness of any payment . 
+ article 9 
+ intellectual property matter 
+ 9.1 ownership of intellectual property . 
+ 9.1.1 general . subject to the provision of this section 9.1.1 and except as expressly set forth otherwise in this agreement , ( i ) xencor shall 
+ solely own patent cover any xencor invention ( " xencor collaboration patent " ) , and ( ii ) aimmune shall solely own patent cover any 
+ aimmune invention ( " aimmune collaboration patent " ) . all joint invention shall be jointly own by the party , and patent cover joint 
+ invention shall be refer to as " joint collaboration patent " . each party shall promptly disclose to the other party all xencor invention , aimmune 
+ invention and joint invention , as applicable , make by it during the term . the determination of inventorship for such invention shall be make in 
+ accordance with applicable law relate to inventorship set forth in the patent law of the united states ( title 35 , united states code ) . 
+ 9.1.2 employee . each party will require all of its and its affiliate ' employee to assign all invention that be develop , make or 
+ conceive by such employee accord to the ownership principle describe in section 9.1.1 free and clear of all lien , encumbrance , charge , security 
+ interest , mortgage or other similar restriction . each party will also use its commercially reasonable effort to require any agent or independent 
+ contractor perform an activity pursuant to this agreement to assign all invention that be develop , make or conceive by such agent or 
+ independent contractor to the relevant party , accord to the ownership principle describe in section 9.1.1 free and clear of all lien , encumbrance , 
+ charge , security interest , mortgage or other similar restriction . 
+ 9.2 disclosures; dispute regard invention . each party shall , before file a new patent application ( include provisional and 
+ continuation - in - part ) claim an invention , promptly disclose such invention to the other party and shall provide to the other party with a copy of the 
+ propose patent application at least [ ] ( [ ] ) business day before file such application or such short time as may be require to preserve patent 
+ right , include the avoidance of a statutory bar or prior publication . if such other party believe that the first party ’s propose patent application 
+ disclose such other party ’s confidential information , such other party shall so notify the first party within such [ ] ( [ ] ) business day after 
+ receipt thereof , and such first party shall amend its propose application to comply with the confidentiality provision of this agreement . if the party 
+ be in agreement as to the designation of the invention as a xencor invention , joint invention or aimmune invention , as applicable , they can 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ continue as set forth in section 9.3 . if the party disagree as to whether an invention be a xencor invention , joint invention or aimmune invention , and 
+ be unable to reach agreement within [ ] ( [ ] ) day after commence discussion , then the provision of section 15.1 shall apply to such dispute 
+ without limit either party ’s right to continue with file such application . 
+ 9.3 patent filing , prosecution and maintenance . 
+ 9.3.1 xencor general patent . subject to , and without limit aimmune ’s right under , section 9.4 of this agreement , xencor shall have 
+ the sole right to prepare , file , prosecute and maintain all xencor general patent , [ ] , include by conduct reissue , reexamination , interference , 
+ and/or defend against post grant proceeding , such as inter parte review and opposition and other challenge to the validity or enforceability of 
+ such xencor general patent . xencor shall keep aimmune generally inform of the status of xencor general patent upon aimmune ’s request 
+ reasonable request from time - to - time . 
+ 9.3.2 xencor product specific patent , aimmune patent and joint collaboration patent . 
+ ( a ) aimmune shall have the first right to prepare , file , prosecute and maintain ( i ) xencor product specific patent , ( ii ) aimmune 
+ patent cover an antibody or product , and ( iii ) joint collaboration patent , [ ] , include by conduct reissue , reexamination , interference , 
+ and/or defend against post grant proceeding , such as inter parte review and opposition and other challenge to the validity or enforceability of 
+ the relevant patent; provide that aimmune shall receive xencor ’s prior write approval , not to be unreasonably withhold or delay , before conduct 
+ reissue , reexamination , interference , and/or defend against post grant proceeding for the [ ] , such as inter parte review and opposition and 
+ other challenge to the validity or enforceability of such relevant patent . [ ] . [ ] . aimmune shall keep xencor inform of the status of xencor 
+ product specific patent , aimmune patent cover an antibody or product , and joint collaboration patent [ ] . with respect to any material 
+ substantive submission that aimmune be require to or otherwise intend to submit to a patent office with respect to a [ ] , aimmune shall provide a 
+ draft of such submission to xencor at least [ ] ( [ ] ) day ( or such time as be possible ) prior to the deadline for , or the intend filing date of , such 
+ submission , whichever be early ( or as soon as reasonably possible if aimmune have less than [ ] ( [ ] ) day ' notice of a deadline for submission ) . 
+ xencor shall have the right to review and comment upon any such submission by aimmune to a patent office , and will provide such comment within 
+ [ ] ( [ ] ) day after receive such submission ( provide , that if no comment be receive within such [ ] ( [ ] ) day period , then aimmune may 
+ proceed with such submission ) . aimmune shall [ ] any suggestion or recommendation of xencor concern the preparation , filing , prosecution and 
+ maintenance thereof . 
+ ( b ) the party shall cooperate reasonably in the prosecution of all xencor product specific patent , aimmune patent cover an 
+ antibody or product and joint collaboration patent and shall share all material information relate thereto promptly after receipt of such information . if , 
+ during the term , aimmune ( i ) intend to allow any xencor product specific patent , aimmune patent cover an antibody or product or joint 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ collaboration patent to expire or intend to otherwise abandon any such xencor product specific patent , aimmune patent cover an antibody or 
+ product or joint collaboration patent , or ( ii ) decide not to prepare or file patent application cover aimmune invention or joint invention , 
+ aimmune shall notify xencor of such intention or decision at least [ ] ( [ ] ) day ( or as soon as possible if less than [ ] ( [ ] ) day ) prior to any 
+ filing or payment due date , or any other date that require action , in connection with such xencor product specific patent , aimmune patent cover an 
+ antibody or product or joint collaboration patent , and xencor shall thereupon have the right , but not the obligation , to assume responsibility for the 
+ preparation , filing , prosecution or maintenance thereof [ ] , in the name of xencor or aimmune , as applicable . 
+ 9.3.3 cooperation . the party agree to cooperate in the preparation , filing , prosecution and maintenance of all patent under this section 
+ 9.3 , include obtain and execute necessary power of attorney and assignment by the name inventor , provide relevant technical report to the 
+ filing party concern the invention disclose in such patent , obtain execution of such other document which be need in the filing and 
+ prosecution of such patent , and , as request by a party , update each other regard the status of such patent , and shall cooperate with the other 
+ party so far as reasonably necessary with respect to furnish all information and datum in its possession reasonably necessary to obtain or maintain 
+ such patent . 
+ 9.4 infringement of third party patents; enforcement of patent . 
+ 9.4.1 infringement of third party patent . each of the party shall promptly , but in any event no later than [ ] ( [ ] ) day after receipt 
+ of notice thereof , notify the other party in write in the event of any claim by a third party of allege patent infringement by aimmune or the other 
+ aimmune agreement entity with respect to the research , development , manufacture , use , sale , offer for sale or importation of the antibody or product 
+ ( each , an " infringement claim " ) . with respect to any infringement claim , the party shall attempt to negotiate in good faith a resolution with respect 
+ thereto . if the party can not settle such infringement claim with the appropriate third party within [ ] ( [ ] ) day after the receipt of the notice 
+ pursuant to this section 9.4.1 , then the follow shall apply : 
+ ( a ) in the case of any such claim against aimmune alone or against both aimmune and xencor , in each case , with respect to the 
+ antibody or product , then aimmune shall be deem to be the " control party " for purpose of such infringement claim . in the case of any claim 
+ against xencor alone , then xencor shall be deem to be the " control party " for purpose of such infringement claim . 
+ ( b ) the control party shall assume control of the defense of such infringement claim . the non - controlling party , upon request of 
+ the control party , agree to join in any such litigation , and in any event to reasonably cooperate with the control party , in each case , at the [ ] 
+ expense . the non - controlling party will have the right to consult with the control party concern such infringement claim and to participate in and 
+ be represent by independent counsel in any litigation in which such non - controlling party be a party at its own expense . the control party shall 
+ have the exclusive right to settle any 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ infringement claim without the consent of the other party , unless such settlement would have a material adverse impact on the other party ( in which case 
+ the consent of such other party shall be require ) . for purpose of this section 9.4.1(b ) , any settlement that would involve the waiver of right ( include 
+ the right to receive payment ) of such other party shall be deem a material adverse impact and shall require the consent of such other party , such 
+ consent not to be unreasonably withhold . 
+ 9.4.2 prosecution of infringer . 
+ ( a ) notice . if either party ( i ) receive notice of any patent nullity action , any declaratory judgment action or any alleged or 
+ threaten infringement of patent or patent application or misappropriation of intellectual property comprise the ( w ) joint invention , ( x ) xencor 
+ patent , xencor invention , or xencor know - how or ( y ) aimmune patent , aimmune invention , joint collaboration patent or aimmune know - how , or 
+ ( ii ) learn that a third party be infringe or allegedly infringe any patent within the xencor patent , joint collaboration patent or aimmune patent , or 
+ if any third party claim that any such patent be invalid or unenforceable , it will promptly notify the other party thereof , include provide evidence of 
+ infringement or the claim of invalidity or unenforceability reasonably available to such party . any matter relate to patent nullity action , declaratory 
+ judgment action or claim of patent invalidity or unenforceability will be handle as provide in section 9.3 . 
+ ( b ) enforcement of patent . 
+ ( i ) as between the party , aimmune will have the first right ( but not the obligation ) to take the appropriate step to enforce 
+ any patent within the xencor product specific patent , aimmune patent and joint collaboration patent against infringement by a third party , that is , in 
+ each cause , conduct the manufacture , sale , use , offer for sale or import of any biopharmaceutical product . aimmune may take any step it reasonably 
+ believe appropriate to enforce such patent , include the initiation , prosecution and control of any suit , proceed or other legal action by counsel of 
+ its own choice and shall bear the cost of such enforcement , as applicable . notwithstanding the foregoing , xencor will have the right , at [ ] expense , 
+ to be represent in any such action by counsel of its own choice . 
+ ( ii ) if , pursuant to section 9.4.2(b)(i ) , aimmune fail to institute such litigation or otherwise take step to remedy the 
+ applicable infringement within [ ] ( [ ] ) day of the date one party have provide notice to the other party pursuant to section 9.4.2(a ) of such 
+ infringement , then xencor will have the right ( but not the obligation ) , at [ ] expense , to bring any such suit , action or proceeding by counsel of its own 
+ choice and aimmune will have the right , at [ ] expense , to be represent in any such action by counsel of its own choice . 
+ ( iii ) as between the party , xencor will have the sole right ( but not the obligation ) to take the appropriate step to enforce 
+ any patent within the xencor general patent against infringement by a third party , that is , in each cause , conduct the manufacture , sale , use , offer for 
+ sale or import of any biopharmaceutical product . xencor may take step include the initiation , prosecution and control of any suit , proceed or other 
+ legal action by counsel of its own choice and shall bear the cost of such enforcement , as applicable . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ ( c ) cooperation; damage . 
+ ( i ) if one party bring any suit , action or proceed under section 9.4.2(b ) , the other party agree to be join as party 
+ plaintiff if necessary to prosecute the suit , action or proceeding and to give the first party reasonable authority to file and prosecute the suit , action or 
+ proceeding; provide , however , that neither party will be require to transfer any right , title or interest in or to any property to the other party or any 
+ other party to confer stand on a party hereunder without the first party ’s consent , not to be unreasonably withhold , condition or delay . 
+ ( ii ) the party not pursue the suit , action or proceeding hereunder will provide reasonable assistance to the other party , 
+ include by provide access to relevant document and other evidence and make its employee available , subject to the other party ’s reimbursement 
+ of any cost incur by the non - enforce or defend party in provide such assistance . 
+ ( iii ) aimmune shall not , without the prior write consent of xencor ( [ ] ) , enter into [ ] relate to any claim , suit or 
+ action that it bring under section 9.4.2 involve a [ ] . xencor shall not , without the prior write consent of aimmune ( [ ] ) , enter into any [ ] 
+ relate to any claim , suit or action that it bring under section 9.4.2 involve an [ ] . 
+ ( iv ) any settlement , damage or other monetary award ( a " recovery " ) recover pursuant to a suit , action or proceeding 
+ bring pursuant to section 9.4.2(b ) will be allocate first to the cost and expense of the party take such action , and second , to the cost and 
+ expense ( if any ) of the other party , with any remain amount ( if any ) to be allocate as follow : ( i ) for a suit , action or proceeding control by 
+ aimmune , aimmune retain [ ] percent ( [ ] ) and xencor retain [ ] percent ( [ ] ) of such recovery , and ( ii ) for a suit , action or proceeding 
+ control by xencor , be allocate between the party such that xencor retain [ ] percent ( [ ] ) and aimmune retain [ ] percent ( [ ] ) of 
+ such recovery , provide that , notwithstanding the foregoing clause ( i ) or ( ii ) , the portion of any recovery from any such action involve [ ] . 
+ 9.5 patent term extension . as between xencor and aimmune , aimmune shall have the right , but not the obligation , to seek patent term 
+ extension ( include any supplemental protection certificate and the like available under applicable law ) in any country in relation to all [ ] ; 
+ provide that if , with respect to a give country , aimmune [ ] then xencor [ ] . aimmune will reasonably consider seek patent term extension 
+ for [ ] , and will not [ ] for the purpose of [ ] under this agreement . aimmune and xencor shall cooperate in connection with all such activity . 
+ each party , its agent and attorney will give due consideration to all suggestion and comment of the other party regard any such activity , but in 
+ the event of a disagreement between the party , aimmune will have the final decision make authority as to [ ] . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 9.6 patent marking . aimmune shall mark the product market and sell by aimmune ( or the other aimmune agreement entity ) hereunder with 
+ appropriate patent number or indicia . 
+ 9.7 patent challenge . xencor will be permit to terminate this agreement upon write notice to aimmune , effective [ ] ( [ ] ) day after 
+ receipt of write notice thereof by aimmune , if aimmune or any of the other aimmune agreement entity , directly or indirectly , ( i ) [ ] , or ( ii ) [ ] . 
+ article 10 
+ representation , warranty and covenants; compliance 
+ 10.1 mutual representation and warranty . each party hereby represent and warrant to the other party as follow , as of the effective date : 
+ 10.1.1 corporate existence and power . it be a company or corporation duly organize , validly exist , and in good standing under the law 
+ of the jurisdiction in which it be incorporate , and have full corporate power and authority and the legal right to own and operate its property and asset 
+ and to carry on its business as it be now be conduct and as contemplate in this agreement , include the right to grant the license grant by it 
+ hereunder . 
+ 10.1.2 authority and bind agreement . ( i ) it have the corporate power and authority and the legal right to enter into this agreement and 
+ perform its obligation hereunder , ( ii ) it have take all necessary corporate action on its part require to authorize the execution and delivery of this 
+ agreement and the performance of its obligation hereunder , and ( iii ) this agreement have be duly execute and deliver on behalf of such party , and 
+ constitute a legal , valid , and bind obligation of such party that be enforceable against it in accordance with its term , except as enforcement may be 
+ affect by bankruptcy , insolvency or other similar law and by general principle of equity . 
+ 10.1.3 no conflict . the execution , delivery and performance of this agreement by it do not ( i ) conflict with any agreement , instrument 
+ or understanding , oral or write , to which it be a party and by which it may be bind or ( ii ) violate any applicable law . 
+ 10.1.4 all consent and approval obtain . except with respect to regulatory approval for the development , manufacturing or 
+ commercialization of the product or as otherwise describe in this agreement , ( i ) all necessary consent , approval and authorization of , and ( ii ) all 
+ notice to , and filing by such party with , all governmental authority and other person require to be obtain or provide by such party as of the 
+ effective date in connection with the execution , delivery and performance of this agreement have be obtain and provide , except for those 
+ approval , if any , not require at the time of execution of this agreement . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 10.2 additional representation , warranty and covenant of xencor . xencor hereby represent , warrant and covenant to aimmune that , as of 
+ the effective date : 
+ 10.2.1 xencor have not file any marketing authorization application with a governmental authority for the sale of the product . 
+ 10.2.2 xencor be the sole owner or licensee of the xencor patent exist as of the effective date . 
+ 10.2.3 there be no know - how that be own by or license to xencor that be necessary in connection with the development , manufacture , 
+ commercialization or other use of the antibody or product that be not in the control of xencor as the antibody and product exist , and as be 
+ develop and manufacture , as of the effective date . 
+ 10.2.4 schedule 1.79 and schedule 1.81 , when take together , set forth a true , complete and correct list of all patent control by xencor 
+ or its affiliate as of the effective date that relate to the antibody or product and be necessary for develop , manufacture or commercialize the 
+ antibody or product . 
+ 10.2.5 to xencor ’s knowledge , xencor have comply with all applicable law in all material respect , include any disclosure 
+ requirement , in connection with the filing , prosecution and maintenance of the xencor patent own by xencor . 
+ 10.2.6 other than as set forth in schedule 10.2.6 , [ ] the issue patent within the xencor patent be neither invalid nor unenforceable . 
+ 10.2.7 no claim or demand of any person have be assert in writing to xencor or its affiliate , or to xencor ’s knowledge , its licensee or 
+ sublicensee that challenge the right of xencor , its affiliate , licensee or sublicensee to make , use , sell , exploit or license the antibody or product or 
+ to practice the xencor technology . 
+ 10.2.8 neither xencor nor , to the knowledge of xencor , its affiliate , licensee , sublicensee or subcontractor have receive write 
+ notice of any proceeding pende before or threaten by any regulatory authority with respect to the antibody or product . 
+ 10.2.9 the upstream agreement be in full force and effect and , to its knowledge , no fact or circumstance exist that would give either party 
+ to the upstream agreement the right to terminate for the other party ’s material breach thereof . 
+ 10.2.10 xencor have not use in any capacity , in connection with its development or manufacture of the product prior to the effective date 
+ any person who have be debar pursuant to section 306 of the fd&c act ( or similar applicable law outside of the u.s . ) , or who be the subject of a 
+ conviction describe in such section . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 10.2.11 neither xencor nor its affiliate or , to the knowledge of xencor , its licensee , sublicensee or subcontractor have make any 
+ material misstatement in any regulatory filing with any regulatory authority with respect to the antibody or product . 
+ 10.2.12 neither xencor nor , to the knowledge of xencor , its affiliate , licensee , sublicensee or independent contractor have receive 
+ any notice or claim of noncompliance with applicable law relate to activity conduct by or facility use by , xencor , its affiliate , licensee , 
+ sublicensee or independent contractor in connection with the development or manufacture of antibody or product , and xencor be not aware of any 
+ reasonable basis for any such notice or claim . 
+ 10.2.13 [ ] as of the effective date , neither the development , manufacture nor commercialization of antibody in the licensed field as 
+ the antibody exist as of the effective date will infringe or misappropriate any intellectual property right of any third party . 
+ 10.2.14 to xencor ’s knowledge , xencor have disclose to aimmune all material information in its possession or control relate to the 
+ antibody and product , and all such information be accurate in all material respect . 
+ 10.2.15 neither xencor nor its affiliate have develop or commercialize , and be not develop or commercialize , either directly or 
+ through enable any third party ( by license , sublicense or other grant of right or performance of action ) , any antibody [ ] , other than the antibody . 
+ 10.2.16 the follow variation of the antibody be not require to develop , manufacture and commercialize the product in the licensed 
+ field : ( i ) [ ] , ( ii ) [ ] , ( iii ) [ ] , ( iv ) [ ] , ( v ) [ ] , or ( vi ) [ ] . 
+ 10.3 additional representation , warranty and covenant of aimmune . aimmune hereby represent , warrant and covenant to xencor that , as 
+ of the effective date : 
+ 10.3.1 [ ] 
+ 10.3.2 aimmune and its affiliate ( a ) have not develop or commercialize , and ( b ) be not develop or commercialize , either directly 
+ or through enable any third party , any antibody [ ] other than the antibody and product pursuant to this agreement . 
+ 10.3.3 as of the effective date , aimmune have conduct due diligence in connection with the development and manufacture of the 
+ product in the licensed field . 
+ 10.4 disclaimer . aimmune understand that the product be the subject of ongoing clinical research and development and that xencor can not 
+ ensure the safety or usefulness of the product or that the product will receive regulatory approval . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 10.5 no other representation or warranty . except as expressly state in this agreement , no representation or 
+ warranty whatsoever , whether express or imply , include warranty of merchantability , fitness for a 
+ particular purpose , non - infringement , or non - misappropriation of third party intellectual property right , be make 
+ or give by or on behalf of a party . except as expressly state in this agreement , all representation and warranty , 
+ whether arise by operation of law or otherwise , be hereby expressly exclude . 
+ 10.6 compliance . 
+ 10.6.1 compliance with anti - corruption law . in connection with this agreement , each party represent , warrant and covenant to the 
+ other party that it have comply and will comply with all applicable law ( include anti - corruption law ) and industry code deal with government 
+ procurement , conflict of interest , corruption or bribery , include , if applicable , the u.s . foreign corrupt practice act of 1977 , as amend , and any law 
+ enact to implement the organization of economic cooperation and development convention on combat bribery of foreign official in international 
+ business transaction . 
+ 10.6.2 prohibit conduct . in connection with this agreement , each party represent , warrant and covenant to the other party that it have 
+ not make , offer , give , promise to give , or authorize , and will not make , offer , give , promise to give , or authorize , any bribe , kickback , payment or 
+ transfer of anything of value , directly or indirectly , to any person or to any government official for the purpose of : ( i ) improperly influence any act or 
+ decision of the person or government official; ( ii ) induce the person or government official to do or omit to do an act in violation of a lawful or 
+ otherwise require duty; ( iii ) secure any improper advantage; or ( iv ) induce the person or government official to improperly influence the act or 
+ decision of any organization , include any government or government instrumentality , in order to assist such party in obtain or retain business . 
+ article 11 
+ indemnification 
+ 11.1 indemnification by xencor . xencor hereby agree to save , indemnify , defend and hold aimmune , its affiliate , and their respective director , 
+ officer , agent and employee harmless from and against any and all loss , damage , liability , cost and expense ( include reasonable attorney ’ 
+ fee and expense ) ( collectively , " loss " ) arise in connection with any and all charge , complaint , action , suit , proceeding , hearing , 
+ investigation , claim , demand , judgment , order , decree , stipulation or injunction by a third party ( each a " claim " ) result or otherwise arise 
+ from ( i ) any breach by xencor of any of its representation , warranty , covenant or obligation pursuant to this agreement , ( ii ) the development , 
+ manufacturing , commercialization ( if applicable , after the term ) or the performance of a clinical trial for the antibody or product conduct by or on 
+ behalf of xencor ( or its affiliate , licensee ( other than aimmune and its affiliate and sublicensee ) , sublicensee , or independent contractor ) , prior to 
+ the effective date or after the term , provide that this section ( ii ) be not intend to extend to strict liability claim relate to the product , ( iii ) [ ] , and 
+ ( iv ) the negligence or willful misconduct by xencor or its affiliate , licensee , sublicensee or subcontractor or their respective officer , director , 
+ employee , agent or consultant in perform any obligation under this agreement , in each case except to the extent that such loss be subject to 
+ indemnification by aimmune pursuant to section 11.2 . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 11.2 indemnification by aimmune . aimmune hereby agree to save , indemnify , defend and hold xencor , its affiliate , and their respective 
+ director , agent and employee harmless from and against any and all loss arise in connection with any and all claim result or otherwise arise 
+ from ( i ) any breach by aimmune of any of its representation , warranty , covenant or obligation pursuant to this agreement , ( ii ) [ ] , ( iii ) the 
+ negligence or willful misconduct by aimmune ( or its affiliate , sublicensee , subcontractor , wholesaler or distributor ) or their respective officer , 
+ director , employee , agent or consultant in perform any obligation under this agreement , or ( iv ) the development , manufacturing , packaging and 
+ labeling or commercialization of the antibody or a product hereunder during or after the term ( include , for clarity , any product liability loss 
+ result therefrom ) by aimmune ( or its affiliate , sublicensee , subcontractor , wholesaler or distributor ) or their respective officer , director , 
+ employee , agent or consultant , in each case except to the extent that such loss be subject to indemnification by xencor pursuant to section 11.1 . 
+ 11.3 indemnification procedure . 
+ 11.3.1 a party believe that it be entitle to indemnification under , as applicable , section 11.1 or section 11.2 ( an " indemnified party " ) shall 
+ give prompt write notification to the other party ( the " indemnifying party " ) of the commencement of any claim for which indemnification may be 
+ seek or , if early , upon the assertion of any such claim by a third party ( it be understand and agree , however , that the failure by an indemnified 
+ party to give notice of a claim as provide in this section 11.3.1 shall not relieve the indemnify party of its indemnification obligation under this 
+ agreement except and only to the extent that such indemnify party be actually materially prejudiced as a result of such failure to give notice ) . within 
+ [ ] ( [ ] ) day after delivery of such notification , the indemnify party may , upon write notice thereof to the indemnified party , assume control of 
+ the defense of such claim with counsel reasonably satisfactory to the indemnified party . if a party believe that a claim present to it for indemnification 
+ be one as to which the party seek indemnification be not entitle to indemnification under , as applicable , section 11.1 or section 11.2 , it shall so notify 
+ the party seek indemnification . 
+ 11.3.2 if the indemnify party elect to assume the defense of such claim , the indemnified party may participate in such defense at its 
+ own expense; provide , that if the indemnified party reasonably conclude , base on advice from counsel , that the indemnify party and the 
+ indemnify party have conflict interest with respect to such claim , the indemnify party shall be responsible for the reasonable fee and expense 
+ of counsel to the indemnified party solely in connection therewith . 
+ 11.3.3 the indemnify party shall keep the indemnified party advise of the status of such claim and the defense thereof and shall 
+ consider recommendation make by the indemnified party with respect thereto . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 11.3.4 the indemnified party shall not agree to any settlement of such claim without the prior write consent of the indemnify party , 
+ which shall not be unreasonably withhold . the indemnify party shall not agree to any settlement of such claim or consent to any judgment in respect 
+ thereof that do not include a complete and unconditional release of the indemnified party from all liability with respect thereto or that impose any 
+ liability or obligation on the indemnified party or adversely affect the indemnified party without the prior write consent of the indemnified party , which 
+ shall not be unreasonably withhold . 
+ 11.4 limitation of liability . neither party shall be liable to the other party for any lost profit , or any special , 
+ consequential , incidental , or indirect damage arise from or relate to any breach of this agreement , 
+ regardless of any notice of the possibility of such damage . notwithstanding the foregoing , nothing in this section 
+ 11.4 be intend to or shall limit or restrict the indemnification right or obligation of any party under section 11.1 
+ or 11.2 , or damage available for a party ’s breach of confidentiality obligation under article 12 . 
+ 11.5 insurance . aimmune shall procure and maintain insurance , include clinical trial insurance and product liability insurance , adequate to cover 
+ its obligation hereunder and which be consistent with normal business practice of prudent company similarly situate at all time during which the 
+ product be be clinically test in human subject or commercially distribute or sell by aimmune pursuant to this agreement; provide , that any such 
+ clinical trial insurance coverage shall , prior to the first commercial sale of a product , in no event be less than [ ] dollar ( [ ] ) per loss occurrence , 
+ and product liability insurance coverage shall , after such first commercial sale , in no event be less than [ ] dollar ( [ ] ) per loss occurrence . it be 
+ understand that such insurance shall not be construe to create a limit of aimmune ’s liability with respect to its indemnification obligation under this 
+ article 11 . aimmune shall provide xencor with write evidence of such insurance prior to commencement of this agreement and upon expiration of 
+ any one coverage . aimmune shall provide xencor with write notice at least [ ] ( [ ] ) day prior to the cancellation , nonrenewal or material change 
+ in such insurance or self - insurance which materially adversely affect the right of xencor hereunder . 
+ article 12 
+ confidentiality 
+ 12.1 confidential information . 
+ 12.1.1 the party agree that during the term , and for a period of [ ] ( [ ] ) year thereafter , a party receive confidential information 
+ of the other party will ( x ) maintain in confidence such confidential information to the same extent such party maintain its own proprietary information of 
+ similar kind and value , and , in any event , no less than a reasonable standard of care , ( y ) not disclose such confidential information to any third party 
+ without the prior write consent of the other party , except as otherwise expressly permit below , and ( z ) not use such confidential information for any 
+ purpose except those permit by this agreement . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ as use herein , " confidential information " mean all know - how and other information and material receive by either party from the other party or its 
+ affiliate pursuant to this agreement . the foregoing obligation and the other obligation set forth in this section 12.1 shall not apply with respect to 
+ any portion of such confidential information which : 
+ ( a ) be publicly disclose by the disclosing party , either before or after it becomes know to the receive party; 
+ ( b ) be know to the receive party or any or its affiliate , without any obligation to keep it confidential , prior to when it be 
+ receive from the disclosing party; 
+ ( c ) be subsequently disclose to the receive party or any of its affiliate by a third party that be lawfully in possession thereof 
+ without obligation to keep it confidential; 
+ ( d ) have be publish by a third party or otherwise enter the public domain through no fault of the receive party or any of its 
+ affiliate in breach of this agreement; or 
+ ( e ) have be independently develop or acquire by the receive party or any of its affiliate without the aid , application or use of 
+ the disclosing party ’s confidential information . 
+ 12.1.2 the receive party shall have the right to disclose any confidential information provide by the other party hereunder if , in the 
+ reasonable opinion of the receive party ’s legal counsel , such disclosure be necessary to comply with the term and condition of this agreement , or the 
+ requirement of any law or rule impose by the u.s . securities and exchange commission or any security exchange or other applicable law , but only to 
+ the extent of such necessity or requirements; and no such disclosure shall cause any such information to cease to be confidential information hereunder , 
+ except to the extent such disclosure result in a public disclosure of such information . where reasonably possible , the receive party shall notify the 
+ disclosing party of the receive party ’s intent to make such disclosure of confidential information pursuant to the precede sentence sufficiently prior 
+ to make such disclosure so as to allow the disclosing party adequate time to take whatever action the disclosing party may deem to be appropriate to 
+ protect the confidentiality of the confidential information . 
+ 12.1.3 except as set forth above , each party agree that it shall provide or permit access to confidential information of the other party only 
+ to ( i ) the receive party ’s attorney , independent accountant and financial advisor for the sole purpose of enable such attorney , independent 
+ accountant and financial advisor to provide advice to the receive party and ( ii ) the receive party ’s affiliate , director , officer , employee , 
+ consultant , advisor , actual or potential acquirer and permit subcontractor , sublicensee and subdistributor , and to the director , officer , 
+ employee , consultant , advisor and permit subcontractor , actual or potential acquirer , sublicensee and subdistributor of such affiliate , who 
+ have a need to know such confidential information to assist the receive party with the 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ activity contemplate or require of it by this agreement; provide that in each case the person to whom confidential information be be disclose be 
+ subject to obligation of confidentiality and non - use with respect to such confidential information substantially similar to the obligation of 
+ confidentiality and nonuse of the receive party pursuant to this section 12.1; and provide far , that each party shall remain responsible for any 
+ failure by its attorney , independent accountant and financial advisor , affiliate , and its and its affiliate ' respective director , officer , employee , 
+ consultant , advisor , actual or potential acquirer and permit subcontractor , sublicensee and subdistributor , to treat such confidential 
+ information as require under this section 12.1 . 
+ for clarity , either party may disclose without any limitation such party ’s u.s . federal income tax treatment and the u.s . federal income tax structure of the 
+ transaction relate to such party that be base on or derive from this agreement , as well as all material of any kind ( include opinion , other tax 
+ analysis , or a complete copy of this agreement and any amendment thereto ) relate to such tax treatment or tax structure , except to the extent that 
+ nondisclosure of such matter be reasonably necessary in order to comply with applicable security law . 
+ 12.1.4 each party acknowledge that a party in breach of any of its obligation under this section 12.1 shall cause the non - breaching party 
+ irreparable harm , for which monetary damage will be an inadequate remedy . therefore , notwithstanding anything to the contrary in this agreement in the 
+ event of any such breach , the non - breach party shall be entitle , in addition to any other remedy available to it under this agreement , at law or in 
+ equity , to injunctive relief , include an accounting for profit , specific performance of the term hereof and other equitable relief for such breach , without 
+ the posting of bond or other security . 
+ 12.2 publicity . promptly after the effective date , the party shall each issue the applicable press release in the form attach hereto as 
+ schedule 12.2 , with respect to this agreement . subject to the foregoing , any press release or other public statement or disclosure regard the 
+ subject matter of this agreement shall be subject to the express prior write consent of each of the parties; provide that a disclosure shall be permit 
+ without the other party ’s consent to the extent that it do not contain information beyond that include in a prior disclosure approve in writing by both 
+ party . notwithstanding the foregoing any disclosure which be require by applicable law or the rule of the u.s . securities and exchange commission 
+ or any security exchange , as reasonably advise by the disclosing party ’s counsel , may be make without the prior consent of the other party , although , 
+ prior to any such legally require disclosure by a party , such party shall use reasonable effort where practicable to give the other party reasonable 
+ notice and an opportunity to comment on the propose disclosure . 
+ 12.3 security filing . in the event either party propose to file with the u.s . securities and exchange commission or the security 
+ regulator of any state or other jurisdiction under the security act of 1933 , as amend , the security exchange act of 1934 , as amend , or any other 
+ applicable security law a registration statement or any other disclosure document which describe or refer to this agreement , such party shall notify 
+ the other party of such intention and shall provide such other party with a copy of relevant portion of the propose filing not less than [ ] ( [ ] ) 
+ business day prior to such filing ( or such short period of time as may be require in the circumstance , and any revision to such 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ portion of the propose file a reasonable time prior to the filing thereof ) , and shall use reasonable effort where practicable to consider such comment 
+ to the extent consistent with such party ’s disclosure obligation under applicable security law or rule of a security exchange . 
+ 12.4 publication . except for disclosure permit under this agreement , if xencor , its affiliate , or its employee(s ) or consultant(s ) wish to 
+ make a publication or presentation specific to the product or which otherwise may reasonably contain know - how , or other intellectual property , of 
+ aimmune , xencor must receive write approval , not to be unreasonably withhold , condition or delay , from aimmune at least [ ] ( [ ] ) day 
+ prior to submission for publication or presentation . if aimmune , its affiliate , or its employee(s ) or consultant(s ) wish to make a publication specific to 
+ the product or which otherwise may reasonably contain xencor technology , aimmune shall deliver to xencor a copy of the propose write publication 
+ or an outline of an oral disclosure at least [ ] ( [ ] ) day prior to submission for publication or presentation and reasonably consider any comment 
+ of xencor thereon; provide that subject to section 12.1 through 12.3 , to the extent such publication describe or be specific to xencor technology , 
+ aimmune must receive write approval , not to be unreasonably withhold , condition or delay , from xencor prior to submit such publication to 
+ any third party . 
+ 12.5 use of name . except as otherwise set forth in this agreement , neither party shall use the name of the other party in relation to this 
+ transaction in any public announcement , press release or other public document without the write consent of such other party , which consent shall not 
+ be unreasonably withheld; provide , however , that subject to section 12.3 , either party may use the name of the other party in any document file with 
+ any regulatory authority or governmental authority , include the security and exchange commission or the rule of any security exchange . 
+ 12.6 unauthorized disclosure of confidential information . each party shall have a response plan in place for any disclosure of confidential 
+ information that be not authorize or otherwise permit under this agreement . such plan shall include consideration of , among other thing , 
+ notification , remediation and retrieval . in the event that a party become aware of an unauthorized disclosure of confidential information , then such party 
+ shall notify the other party promptly in writing . 
+ 12.7 prior cda . as of the effective date , the term of this article 12 shall supersede any prior non - disclosure , secrecy or confidentiality 
+ agreement between the party ( or their affiliate ) deal with the subject of this agreement , include the confidentiality agreement between the 
+ party date [ ] . any information disclose pursuant to any such prior agreement shall be deem confidential information of the applicable party for 
+ purpose of this agreement , to the extent that such information be deem to be " proprietary information " under such prior agreement . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ article 13 
+ term and termination 
+ 13.1 term . this agreement shall become effective on the effective date and , unless early terminate pursuant to this article 13 , shall remain in 
+ effect on a product - by - product and country - by - country basis until the expiration of the royalty term applicable to such product and country ( the 
+ " term " ) . upon expiration of this agreement with respect to a product in a country , the license grant to aimmune pursuant to this agreement shall 
+ continue in full force and effect on a fully - pay basis . 
+ 13.2 termination for breach . either party may , without prejudice to any other remedy available to it at law or in equity , terminate this agreement 
+ upon write notice to the other party in the event that the other party ( the " breach party " ) shall have materially breach or default in the 
+ performance of any of its obligation . the breach party shall have sixty ( 60 ) day ( thirty ( 30 ) day in the event of non - payment ) after write notice 
+ thereof be provide to the breach party by the non - breach party to remedy such default . unless the breach party have cure any such breach 
+ or default prior to the expiration of such sixty ( 60 ) day period ( thirty ( 30 ) day period for non - payment ) , such termination shall become effective upon 
+ receipt of the write notice of termination by the breach party to be give within ten ( 10 ) day of the end of such sixty ( 60 ) day period ( thirty ( 30 ) day 
+ period for non - payment ) . notwithstanding the foregoing , in the event that aimmune as the breach party have materially breach or default in the 
+ performance of any of its payment obligation under this agreement a third time or more in any three ( 3 ) year period , then xencor shall have the right to 
+ terminate this agreement immediately by provide write notice aimmune , without aimmune have opportunity to cure such breach or default . 
+ 13.3 termination as a result of bankruptcy . each party shall have the right to terminate this agreement upon write notice as a result of the 
+ filing or institution of bankruptcy , reorganization , liquidation or receivership proceeding , or upon an assignment of a substantial portion of the asset for 
+ the benefit of creditor by the other party; provide that such termination shall be effective only if such proceeding be not dismiss within ninety ( 90 ) 
+ day after the filing thereof . 
+ 13.4 termination by aimmune . aimmune may terminate this agreement in its entirety at any time for its convenience upon sixty ( 60 ) day ' prior 
+ write notice to xencor . 
+ 13.5 termination by xencor . without limitation of its right under this article 13 , xencor may also terminate this agreement in its entirety as 
+ applicable , pursuant to the provision of section 9.7 . 
+ article 14 
+ effect of expiration or termination 
+ 14.1 license . upon the termination of this agreement : 
+ 14.1.1 all right and license grant to aimmune hereunder shall immediately terminate and be of no further force and effect and aimmune 
+ shall cease develop , commercializing , manufacturing and packaging and label such product in and for all applicable countries; provide , that 
+ aimmune and its affiliate will be entitle , during the period 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ end on the last day of the [ ] follow the effective date of such termination , to sell any inventory of product affect by such termination that 
+ remain on hand as of the effective date of the termination , so long as aimmune pay to xencor all amount payable hereunder ( include milestone ) 
+ applicable to say subsequent sale , as applicable , in accordance with the term and condition set forth in this agreement and otherwise comply with 
+ the term set forth in this agreement . 
+ 14.1.2 aimmune hereby grant to xencor an exclusive license under and with respect to aimmune patent , and a non - exclusive license 
+ under and with respect to aimmune know - how , in each case , where such license be an irrevocable , perpetual , royalty - bear license , with the right to 
+ sublicense , to develop , manufacture and commercialize the product(s ) , as the product(s ) exist as of the effective date of such termination , or optimize 
+ version thereof that be product . for clarity , upon the termination of this agreement , as consideration for such license grant under this section 
+ 14.1.2 , xencor shall [ ] , and xencor shall be responsible for [ ] ; provide far that xencor shall have the right to terminate such license and 
+ forgo pay such royalty at its sole discretion upon write notice to aimmune . 
+ 14.2 assignment . upon the termination of this agreement , aimmune will promptly , in each case within [ ] ( [ ] ) day thereafter : 
+ ( a ) assign to xencor , [ ] , all of aimmune ’s right , title and interest in and to any agreement ( or portion thereof ) between aimmune 
+ and third party that relate to the development , commercialization or manufacture of the product , where such assignment be permit without charge to 
+ aimmune or its affiliate and where xencor shall assume all future payment due under any agreement assign pursuant to this subsection; 
+ ( b ) assign to xencor , [ ] , and subject to the execution of a standard trademark license between the party prior to such 
+ assignment , all of aimmune ’s right , title and interest in and to any ( i ) promotional material , ( ii ) copyright and trademark ( include the product 
+ trademark and product trade dress ) , include any goodwill associate therewith , and any registration and design patent for the foregoing , and ( iii ) 
+ any internet domain name registration for such trademark and slogan , all to the extent solely related to the product; provide , however , in the event 
+ xencor exercise such right to have assign such promotional material , aimmune shall grant , and hereby do grant , a royalty - free right and license to 
+ any housemark , trademark , name and logo of aimmune contain therein for a period of [ ] ( [ ] ) month in order to use such promotional 
+ material solely in connection with the commercialization of the product; 
+ ( c ) assign to xencor , [ ] , the management and continued performance of any clinical trial for the product ongoing hereunder as 
+ of the effective date of such termination in respect of which xencor shall assume full financial responsibility from and after the effective date of such 
+ termination; 
+ ( d ) transfer to xencor all of aimmune ’s right , title and interest in and to any and all regulatory filing , regulatory approval and 
+ other regulatory material for the product; 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ ( e ) transfer to xencor all of aimmune ’s right , title and interest in and to any and all development - relate datum and commercialization 
+ datum control by aimmune for the product; and 
+ ( f ) provide a copy of ( i ) the material tangible embodiment of the foregoing and ( ii ) any other material book , record , file and 
+ document control by aimmune solely to the extent relate to the product and which may be redact to exclude confidential information of 
+ aimmune; 
+ provide , however , that to the extent that any agreement or other asset describe in this section 14.2 be not assignable by aimmune ( whether because 
+ such agreement or asset be explicitly non - assignable or because the third party consent require for such assignment be not obtain ) , then such 
+ agreement or other asset will not be assign , and upon the request of xencor , aimmune will take such step as may be reasonably necessary to allow 
+ xencor to obtain and to enjoy the benefit of such agreement or other asset . for purpose of clarity , ( 1 ) [ ] and ( 2 ) to the extent xencor request [ ] . 
+ 14.3 disclosure and delivery . upon the termination of this agreement , aimmune will promptly transfer to xencor copy of any physical 
+ embodiment of any aimmune know - how , to the extent then use in connection with the development or commercialization of the product; such transfer 
+ shall be effect by the delivery of material document , to the extent such aimmune know - how be embody in such document , and to the extent that 
+ aimmune know - how be not fully embody in such document , aimmune shall make its employee and agent who have knowledge of such aimmune 
+ know - how in addition to that embody in document available to xencor for interview , demonstration and training to effect such transfer in a manner 
+ sufficient to enable xencor to practice such aimmune know - how but only in a manner as set out as follow in this section 14.3 . the aimmune know- 
+ how shall be transfer pursuant to the procedure to transfer xencor know - how , regulatory material , and regulatory datum in section 2.7 apply 
+ mutatis mutandis . 
+ 14.4 disposition of commercialization relate material . upon the termination of this agreement , aimmune will promptly deliver to 
+ xencor in electronic , sortable form ( a ) a list identify all wholesaler and other distributor involve in the commercialization of the product , will 
+ reasonably consider provide customer list ( e.g. , purchaser ) , where permit under applicable law and under applicable agreement with third 
+ party , at xencor ’s expense , relate to the commercialization of the product , and ( b ) all promotional material as well as any item bear the product 
+ trademark or product trade dress and/or any trademark or housemark otherwise associate with the product or xencor . 
+ 14.5 accrue right . expiration or termination this agreement for any reason will be without prejudice to any right that will have accrue 
+ to the benefit of a party prior to the effective date of such expiration or termination . such expiration or termination will not relieve a party from obligation 
+ that be expressly indicate to survive the expiration or termination of this agreement . 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 14.6 survival . notwithstanding anything to the contrary contain herein , the follow provision shall survive any expiration or termination of 
+ this agreement : article : article 1 ( to the extent necessary to give effect to the other survive provision ) , article 4 ( solely with respect to 
+ remain inventory of product that aimmune continue to sell after the effective date of termination ) , article 7 ( with respect to amount accrue prior 
+ to expiration or termination of this agreement ) , article 11 , article 12 ( for the period specify in section 12.1.1 ) , article 14 , article 15 and 
+ article 8 ( with respect to amount accrue prior to expiration or termination of this agreement ) and section : 2.2.1 , 2.3 ( with respect to the applicable 
+ party be responsible for its affiliate or sublicensee , and the waiver ) , 2.4 , 9.1 , 10.2 ( for [ ] after the effective date of termination or expiration ) , 10.3 
+ ( for [ ] after the effective date of termination or expiration ) , 10.4 , and 10.5 . except as set forth in this article 14 or otherwise expressly set forth 
+ herein , upon expiration or termination of this agreement all other right and obligation of the party shall cease . 
+ 14.7 right in bankruptcy . all right and license grant under or pursuant to this agreement by xencor and aimmune be , and shall otherwise 
+ be deem to be , for purpose of section 365(n ) of the u.s . bankruptcy code , license of right to " intellectual property " as define under section 101 of 
+ the u.s . bankruptcy code . the party agree that each party , as licensee of certain right under this agreement , shall retain and may fully exercise all of 
+ its right and election under the u.s . bankruptcy code . the party far agree that , in the event of the commencement of a bankruptcy proceeding by 
+ or against a party ( such party , the " bankrupt party " ) under the u.s . bankruptcy code , ( a ) the other party shall be entitle to a complete duplicate of ( or 
+ complete access to , as appropriate ) any intellectual property license to such other party and all embodiment of such intellectual property , which , if not 
+ already in such other party ’s possession , shall be promptly deliver to it ( x ) upon any such commencement of a bankruptcy proceeding upon such other 
+ party ’s write request therefore , unless the bankrupt party elect to continue to perform all of its obligation under this agreement or ( y ) if not deliver 
+ under clause ( x ) , follow the rejection of this agreement by the bankrupt party upon write request therefore by the other party and ( b ) the bankrupt 
+ party shall not unreasonably interfere with the other party ’s right to intellectual property and all embodiment of intellectual property , and shall assist 
+ and not unreasonably interfere with the other party in obtain intellectual property and all embodiment of intellectual property from another entity . the 
+ " embodiment " of intellectual property include all tangible , intangible , electronic or other embodiment of right and license hereunder , include all 
+ compound and product embody intellectual property , product , filing with regulatory authority and relate right and xencor know - how in the 
+ case that xencor be the bankrupt party and aimmune know - how in the case aimmune be the bankrupt party . 
+ article 15 
+ miscellaneous 
+ 15.1 dispute . the party recognize that , from time to time , dispute , controversy or claim may arise which stem from or be relate to a party ’s 
+ respective right or obligation under this agreement or a party ’s actual or allege breach of this agreement ( a " dispute " ) . it be the desire of the party 
+ to establish procedure to facilitate the resolution of dispute arise under this agreement in an expedient manner by mutual cooperation and without 
+ resort to 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ arbitration or litigation . to accomplish this objective , the party agree to follow the procedure set forth in this section 15.1 if and when a dispute arise 
+ under this agreement . if the party be unable to resolve any dispute within [ ] ( [ ] ) day after such dispute be submit to it , either party may , by 
+ write notice to the other party , have such dispute refer to designated officer of each party for attempt resolution . in the event the designate 
+ officer or their delegate be not able to resolve such dispute within such [ ] ( [ ] ) day period after receipt of write notice , then each party be free 
+ to pursue any remedy at law or in equity available to such party consistent with section 15.13 . 
+ 15.2 entire agreement; amendment . this agreement , together with the schedule and exhibit hereto , contain the entire understanding of the 
+ party with respect to the subject matter hereof . any other express or imply agreement and understanding , negotiation , writing and commitment , 
+ either oral or write , in respect to the subject matter hereof be supersede by the term of this agreement . the schedule and exhibit to this 
+ agreement be incorporate herein by reference and shall be deem a part of this agreement . this agreement may be amend , or any term hereof 
+ modify , only by a write instrument duly execute by authorize representative of each of the party . 
+ 15.3 force majeure . no party shall be liable for any failure to perform , or be consider in breach of , its obligation under this agreement ( other 
+ than obligation to make payment of money ) to the extent such performance have be delay , interfere with or prevent by an event of force 
+ majeure , and the obligation of such party under this agreement ( other than obligation to make payment of money ) whose performance be affect by 
+ force majeure shall be suspend during , but not long than , the continuance of the event of force majeure . any party that experience an event of 
+ force majeure shall provide prompt notice of such event to the other party , include and an estimate of the likely period of time during which its 
+ performance will be affect , and shall use reasonable effort to remove the condition constitute force majeure . in the event of a prolonged condition 
+ of force majeure that make it unreasonable to continue to perform other activity then be perform by the party and their affiliate pursuant to 
+ this agreement , the party shall consult directly as to whether they should appropriately scale back their respective activity in order to avoid waste or 
+ inappropriate usage of resource under the circumstance . 
+ 15.4 notice . any notice require or permit to be give under this agreement shall be in writing , shall specifically refer to this agreement and 
+ shall be deem to have be sufficiently give for all purpose if; mail by first class certify or register mail , postage prepay ( which notice shall be 
+ effective [ ] ( [ ] ) business day [ ] ) ; express delivery service ( which notice shall be effective on the first business day after delivery to such 
+ service); or personally deliver to the appropriate address ( which notice shall be effective upon delivery to such address ) set forth below or to such 
+ other address or number for a party as such party may inform the other party by give [ ] ( [ ] ) business day ' prior write notice : 
+ if to xencor : 
+ xencor , inc . 
+ 111 west lemon avenue 
+ monrovia , can 91016 
+ attention : general counsel 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ with copy to ( which shall not constitute notice ): 
+ xencor , inc . 
+ 111 west lemon avenue 
+ monrovia , can 91016 
+ attention : chief executive officer 
+ morgan , lewis & bockius llp 
+ 1 market street , spear street tower 
+ san francisco , can 94105 
+ attention : benjamin pensak 
+ if to aimmune : 
+ aimmune therapeutic , inc . 
+ 8000 marina boulevard 
+ suite 300 
+ brisbane , can 94005 
+ attention : general counsel 
+ with copy to ( which shall not constitute notice ): 
+ latham & watkins llp 
+ 140 scott drive 
+ menlo park , can 94025 
+ attention : patrick pohlen 
+ judith hasko 
+ 15.5 maintenance of record . aimmune shall keep and maintain all record require by applicable law or regulation ( include record for 
+ intellectual property protection purpose ) with respect to the antibody and product and shall , upon xencor ’s write request , allow xencor reasonable 
+ access to make copy of such record , at xencor ’s expense . aimmune must maintain such record for the great of [ ] ( [ ] ) year or the time period 
+ require by applicable law . 
+ 15.6 assignment . neither party may assign or transfer this agreement or any right or obligation hereunder without the prior write consent of 
+ the other party , except that a party may make such an assignment or transfer without the other party ’s write consent to ( a ) any of its affiliate , in whole 
+ or in part , or ( b ) any third party in connection with ( i ) the acquisition of such party by or merger or consolidation of such party with another entity or ( ii ) 
+ a merger , consolidation , sale of stock , sale of all or substantially all of such party ’s asset or other similar transaction in which such third party either 
+ become the owner of all or substantially all of the business and asset of ( y ) such party or ( z ) that portion of such party ’s business or business unit 
+ relate to this agreement . any permit successor or assignee of right or obligation hereunder shall , in a writing deliver to the other party , 
+ expressly assume the performance of such right or obligation . except as set forth in the immediately precede sentence , in the event of an assignment 
+ or transfer as permit above in this section 15.6 , the assigning or transfer party shall remain responsible ( jointly and severally ) with such affiliate 
+ for the 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ performance of such assign or transfer obligation . any assignment or transfer , or attempt assignment or transfer , by either party in violation of 
+ the term of this section 15.6 shall be null and void and of no legal effect . this agreement shall be bind on , and inure to the benefit of , each party , its 
+ successor and permit assign . notwithstanding anything to the contrary in this agreement , in the event of any permit assignment , the intellectual 
+ property right of the acquire party and its affiliate ( if other than one of the party to this agreement ) shall not be include in the technology 
+ license to the other party hereunder to the extent hold by such acquirer ( or its affiliate ) prior to such transaction , or to the extent such technology be 
+ develop outside the scope of activity conduct with respect to the antibody or product , unless the acquire party practice such intellectual 
+ property right of the acquirer in connection with its performance of activity pursuant to this agreement . 
+ 15.7 offset right . notwithstanding anything to the contrary in this agreement , neither party may , at any time or for any reason , offset any 
+ payment due to the other party or its affiliate under this agreement . 
+ 15.8 severability . if any one ( 1 ) or more of the provision of this agreement be hold to be invalid or unenforceable by any court of competent 
+ jurisdiction from which no appeal can be or be take , such provision shall be consider sever from this agreement and shall not serve to invalidate 
+ any remain provision hereof . the party shall make a good faith effort to replace any invalid or unenforceable provision with a valid and enforceable 
+ one such that the objective contemplate by the party when enter this agreement may be realize . 
+ 15.9 cumulative remedy . no remedy refer to in this agreement be intend to be exclusive , but each shall be cumulative and in addition to 
+ any other remedy refer to in this agreement or otherwise available under applicable law . 
+ 15.10 ambiguities; no presumption . each of the party acknowledge and agree that this agreement have be diligently review by and 
+ negotiate by and between they , that in such negotiation each of they have be represent by competent counsel and that the final agreement 
+ contain herein , include the language whereby it have be express , represent the joint effort of the party hereto and their counsel . accordingly , 
+ in interpret this agreement or any provision hereof , no presumption shall apply against any party hereto as be responsible for the wording or 
+ drafting of this agreement or any such provision , and ambiguity , if any , in this agreement shall not be construe against any party , irrespective of 
+ which party may be deem to have author the ambiguous provision . 
+ 15.11 heading . the heading for each article and section in this agreement have be insert for convenience of reference only and be not 
+ intend to limit or expand on the meaning of the language contain in the particular article or section . 
+ 15.12 interpretation . except where the context expressly require otherwise , ( a ) the use of any gender herein shall be deem to encompass 
+ reference to either or both gender , and the use of the singular shall be deem to include the plural ( and vice versa ) , ( b ) the word " include " , 
+ " include " and " include " shall be deem to be follow by the phrase " without limitation " , ( c ) the word " will " shall be construe to have the same 
+ meaning and effect as the 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ word " shall " , ( d ) any definition of or reference to any agreement , instrument or other document herein shall be construe as refer to such agreement , 
+ instrument or other document as from time to time amend , supplement or otherwise modify ( subject to any restriction on such amendment , 
+ supplement or modification set forth herein ) , ( e ) any reference herein to any person shall be construe to include the person ’s successor and assign , 
+ ( f ) the word " herein " , " hereof " and " hereunder " , and word of similar import , shall be construe to refer to this agreement in its entirety and not to any 
+ particular provision hereof , ( g ) all reference herein to article , section , exhibit or schedule shall be construe to refer to article , section , exhibit 
+ or schedule of this agreement , and reference to this agreement include all exhibit and schedule hereto , ( h ) the word " notice " mean notice in writing 
+ ( whether or not specifically state ) and shall include notice , consent , approval and other write communication contemplate under this agreement , 
+ ( i ) provision that require that a party or the party hereunder to " agree " , " consent " or " approve " or the like shall require that such agreement , consent 
+ or approval be specific and in writing , whether by write agreement , letter , approve minute or otherwise ( but exclude instant messaging ) , ( j ) 
+ reference to any specific law , rule or regulation , or article , section or other division thereof , shall be deem to include the then - current amendment 
+ thereto or any replacement or successor law , rule or regulation thereof , and ( k ) the term " or " shall be interpret in the inclusive sense commonly 
+ associate with the term " and/or . " 
+ 15.13 govern law and equitable relief . 
+ 15.13.1 govern law . this agreement shall be govern by and construe in accordance with the internal law of the state of california 
+ applicable to agreement make and to be perform entirely within such state , without regard to the conflict of law principle of such state; provide 
+ that any matter relate to the construction or effect of any patent will be govern by the patent law of the relevant jurisdiction in which such patent be 
+ grant . this agreement be prepare in the english language , which language shall govern the interpretation of , and any dispute regard , the term 
+ of this agreement . 
+ 15.13.2 equitable relief . notwithstanding anything in this agreement to the contrary , each party shall have the right to seek injunctive or 
+ other equitable relief from a court of competent jurisdiction that may be necessary to avoid irreparable harm or to maintain the status quo . 
+ 15.13.3 jurisdiction . each party ( a ) irrevocably submit to the exclusive jurisdiction of any united states district court in california ( the 
+ " court " ) , for purpose of any action , suit or other proceeding arise out of this agreement , ( b ) agree not to raise any objection at any time to the 
+ lay or maintaining of the venue of any such action , suit or proceed in any of such court , and ( c ) irrevocably waive any claim that such action , suit 
+ or other proceeding have be bring in an inconvenient forum and far irrevocably waive the right to object , with respect to such action , suit or 
+ other proceeding , that such court do not have any jurisdiction over such party . each party far agree that service or any process , summon , notice 
+ or document by u.s . register mail to such party ’s notice address provide for in this agreement shall be effective service of process for any action , suit 
+ or proceed in california with respect to any matter to which it have submit to jurisdiction in this section 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ 15.13.3 . notwithstanding the forgoing , nothing contain in this agreement will deny any party the right to seek injunctive relief or other equitable relief 
+ from a court of competent jurisdiction apply the law of the court in the context of a bona fide emergency or prospective irreparable harm , and such an 
+ action may be file and maintain notwithstanding any other ongoing proceeding . 
+ 15.13.4 no waiver . any delay in enforce a party ’s right under this agreement or any waiver as to a particular default or other matter 
+ shall not constitute a waiver of such party ’s right to the future enforcement of its right under this agreement , except with respect to an express write 
+ and sign waiver relate to a particular matter for a particular period of time . 
+ 15.14 no third party beneficiary . no person or entity other than aimmune , xencor and their respective affiliate , successor and permit 
+ assignee hereunder , shall be deem an intended beneficiary hereunder or have any right to enforce any obligation of this agreement . 
+ 15.15 independent contractor . it be expressly agree that aimmune and xencor shall be independent contractor and that the relationship 
+ between aimmune and xencor shall not constitute a partnership , joint venture or agency . neither aimmune nor xencor shall have the authority to make 
+ any statement , representation , or commitment of any kind , or to take any action , which shall be bind on the other party , without the prior write 
+ consent of such other party . 
+ 15.16 counterparts; facsimile signature . this agreement may be execute in three ( 3 ) or more counterpart , each of which shall be deem an 
+ original , but all of which together shall constitute one ( 1 ) and the same instrument . this agreement may be execute by delivery of electronically scan 
+ copy of original signature deliver by facsimile or electronic mail , and such signature shall be deem to bind each party as if they be original 
+ signature . 
+ [ no further text on this page ] 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ in witness whereof , the party have execute this agreement by their duly authorize representative as of the date first write above . 
+ aimmune therapeutic , inc . 
+ xencor , inc . 
+ by : 
+ /s/ jayson dallas , m.d 
+ by : 
+ /s/ bassil dahiyat , ph.d . 
+ name : 
+ jayson dallas , m.d 
+ name : 
+ bassil dahiyat , ph.d . 
+ title : 
+ president & ceo 
+ title : 
+ president & ceo 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ schedule 1.10 
+ antibody 
+ omit pursuant to regulation s - k , item 601(a)(5 ) 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ schedule 1.79 
+ xencor general patent 
+ omit pursuant to regulation s - k , item 601(a)(5 ) 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ schedule 1.81 
+ xencor product specific patent 
+ omit pursuant to regulation s - k , item 601(a)(5 ) 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ schedule 2.7 
+ xencor know - how , regulatory material , and regulatory datum 
+ omit pursuant to regulation s - k , item 601(a)(5 ) 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ schedule 6.1 
+ initial product supply 
+ omit pursuant to regulation s - k , item 601(a)(5 ) 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ schedule 10.2.6 
+ exception 
+ omit pursuant to regulation s - k , item 601(a)(5 ) 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ schedule 12.2 
+ initial press release 
+
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ distribution on wednesday , 2/5 8:01 be et 
+ for immediate release 
+ aimmune license exclusive worldwide right to xencor ’s xmab ® 7195 for the 
+ development of next - generation food allergy treatment 
+ brisbane , calif . – february 5 , 2020 – aimmune therapeutic , inc . ( nasdaq : aimt ) , a biopharmaceutical company develop treatment for 
+ potentially life - threaten food allergy , today announce it have obtain an exclusive worldwide license to develop and commercialize the 
+ investigational humanize monoclonal antibody xmab ® 7195 from xencor , inc . 
+ xmab7195 , which have be rename aimab7195 , be originally develop by xencor for the treatment of allergic asthma . it use three distinct 
+ mechanism of action to reduce blood serum ige and suppress ige - produce cell . aimmune initially plan to develop aimab7195 as an adjunctive 
+ treatment with select characterized oral desensitize immunotherapy ( codit ™ ) program , include palforzia ™ , to explore treatment outcome in 
+ patient with food allergy . 
+ " as we look to the future of food allergy treatment , we be excited to explore the potential of oral immunotherapy to achieve great level of 
+ desensitization – and perhaps even remission – when combine with adjunctive biologic that target immune pathway , " say jayson dallas , m.d . , 
+ president and ceo of aimmune . " in - licensing aimab7195 demonstrate our commitment to enrich our pipeline and strengthen aimmune ’s global 
+ leadership in the evolve therapeutic landscape of food allergy treatment . " 
+ " aimmune ’s focus , clinical success and regulatory expertise in food allergy demonstrate their capability to advance aimab7195 with highly 
+ complementary codit pipeline program to create new option for people live with food allergy , " say bassil dahiyat , ph.d . , president and ceo of 
+ xencor . " aimab7195 be design to reduce level of ige , a key mediator of allergic response , and there be strong scientific rationale that this reduction 
+ would synergize with the activity of desensitization therapy . " 
+ under the term of the agreement , aimmune will make an upfront payment to xencor of 5 million in cash and 5 million in equity , equivalent to 156,238 
+ newly issue share of aimmune common stock at 32.0025 / share . xencor also be eligible to receive up to 385 million base on the achievement of 
+ certain clinical development , regulatory and commercialization milestone — begin with the initiation of a phase 2 clinical trial — and be eligible to 
+ receive a high single - digit to mid - teen percentage of royalty upon commercialization of aimab7195 . aimmune will be solely responsible for cost relate 
+ to the development of aimab7195 and plan to provide a development plan in the come month . 
+ about aimab7195 ( formerly xmab ® 7195 ) 
+ aimab7195 be an anti - ige monoclonal antibody with enhanced bind to the fc gamma receptor iib ( fcyriib ) . ige recognize and interact with 
+ allergen and , as a result , can activate immune cell , such as mast cell and basophil , that drive an allergic response 
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ in patient . aimab7195 be design to clear ige rapidly from circulation , to prevent the production of ige by prevent the activation of ige - positive b 
+ cell , and to block ige from interact with its receptor on immune cell . aimab7195 have be evaluate in two phase 1 study that enrol more than 
+ 100 healthy volunteer and patient with allergy and atopic disease . 
+ about aimmune 
+ aimmune therapeutic , inc . be a biopharmaceutical company that aspire to become the global leader in develop curative therapy and solution for 
+ patient with food allergy . with a mission to improve the life of people with food allergy , aimmune be develop and commercialize oral treatment 
+ for potentially life - threaten food allergy . the company ’s characterize oral desensitization immunotherapy ( codit ™ ) approach be intend to 
+ provide meaningful level of protection against allergic reaction result from accidental exposure to food allergens by desensitize patient with 
+ define , precise amount of key allergen . aimmune have one fda - approve medicine for peanut allergy and other investigational therapy in 
+ development to treat other food allergy . for more information , please visit www.aimmune.com . 
+ forward - look statement 
+ statement contain in this press release regard matter that be not historical fact be " forward - look statement " within the meaning of the 
+ private security litigation reform act of 1995 . because such statement be subject to risk and uncertainty , actual result may differ materially from 
+ those express or imply by such forward - look statement . such statement include , but be not limit to , statement regard : aimmune ’s 
+ expectation regard the potential benefit of aimab7195; and aimmune ’s expectation regard potential application of the codit ™ approach to 
+ treat life - threaten food allergy . risk and uncertainty that contribute to the uncertain nature of the forward - look statement include : the 
+ expectation that aimmune will need additional fund to finance its operations; aimmune ’s dependence on the success of palforzia; aimmune ’s 
+ reliance on third party for the manufacture of aimab7195 , palforzia and other product candidates; possible regulatory development in the united 
+ state and foreign countries; and aimmune ’s ability to attract and retain senior management personnel . these and other risk and uncertainty be 
+ describe more fully in aimmune ’s most recent filing with the security and exchange commission , include its quarterly report on form 10 - q for the 
+ quarter end september 30 , 2019 . all forward - look statement contain in this press release speak only as of the date on which they be make . 
+ aimmune undertake no obligation to update such statement to reflect event that occur or circumstance that exist after the date on which they be 
+ make . 
+ this press release concern palforzia ( ar101 ) , which have be approve for marketing by the fda in the united states and have not be approve 
+ for marketing by the ema or swissmedic . ar101 in europe be currently limit to investigational use , and no representation be make as to its safety or 
+ effectiveness for the purpose for which it be be investigate . 
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ aimab7195 tm , palforzia ™ , aimmune ™ , aimmune therapeutic ™ and codit ™ be trademark of aimmune therapeutic , inc 
+ xencor ® and xmab ® be register trademark of xencor , inc . 
+
+ contact : 
+ investor : 
+ dede sheel 
+ ( 917 ) 834 - 1494 
+ dsheelaimmune.com 
+ medium : 
+ julie normart 
+ ( 559 ) 974 - 3245 
+ jnormartw2ogroup.com 
+ lauren barbiero 
+ ( 646 ) 564 - 2156 
+ lbarbierow2ogroup.com 
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ aimmune license exclusive worldwide right to xencor ’s xmab ® 7195 for the development of 
+ next - generation food allergy treatment 
+ monrovia , calif . – february 5 , 2020 – xencor , inc . ( nasdaq : xncr ) , a clinical - stage biopharmaceutical company develop engineer monoclonal 
+ antibodie for the treatment of cancer and autoimmune disease , announce it have grant an exclusive worldwide license to develop and commercialize 
+ the investigational humanize monoclonal antibody xmab ® 7195 to aimmune therapeutic , inc . 
+ xmab7195 , which have be rename aimab7195 , be originally develop by xencor for the treatment of allergic asthma . it use three distinct 
+ mechanism of action to reduce blood serum ige and suppress ige - produce cell . aimmune initially plan to develop aimab7195 as an adjunctive 
+ treatment with select characterized oral desensitize immunotherapy ( codit ™ ) program , include palforzia ™ , to explore treatment outcome in 
+ patient with food allergy . 
+ " as we look to the future of food allergy treatment , we be excited to explore the potential of oral immunotherapy to achieve great level of 
+ desensitization – and perhaps even remission – when combine with adjunctive biologic that target immune pathway , " say jayson dallas , m.d . , 
+ president and ceo of aimmune . " in - licensing aimab7195 demonstrate our commitment to enrich our pipeline and strengthen aimmune ’s global 
+ leadership in the evolve therapeutic landscape of food allergy treatment . " 
+ " aimmune ’s focus , clinical success and regulatory expertise in food allergy demonstrate their capability to advance aimab7195 with highly 
+ complementary codit pipeline program to create new option for people live with food allergy , " say bassil dahiyat , ph.d . , president and ceo of 
+ xencor . " aimab7195 be design to reduce level of ige , a key mediator of allergic response , and there be strong scientific rationale that this reduction 
+ would synergize with the activity of desensitization therapy . " 
+ under the term of the agreement , aimmune will make an upfront payment to xencor of 5 million in cash and 5 million in equity , equivalent to 156,238 
+ newly issue share of aimmune common stock at 32.0025 / share , the seven - day volume weight average price . xencor also be eligible to receive up to 
+ 385 million base on the achievement of certain clinical development , regulatory and commercialization milestone – begin with the initiation of a 
+ phase 2 clinical trial – and be eligible to receive a high single - digit to mid - teen percentage of royalty upon commercialization of aimab7195 . aimmune 
+ will be solely responsible for cost relate to the development of aimab7195 and plan to provide a development plan in the come month . 
+ about aimab7195 ( formerly xmab ® 7195 ) 
+ aimab7195 be an anti - ige monoclonal antibody with enhanced bind to the fc gamma receptor iib ( fcyriib ) . ige recognize and interact with 
+ allergen and , as a result , can activate immune cell , such as mast cell and basophil , that drive an allergic response in patient . aimab7195 be design 
+ to clear ige rapidly from circulation , to prevent the production of ige by prevent the activation of ige - positive b cell , and to block ige from 
+ interact with its receptor on immune cell . aimab7195 have be evaluate in two phase 1 study that enrol more than 100 healthy volunteer and 
+ patient with allergy and atopic disease . 
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020 
+ about xencor , inc . 
+ xencor be a clinical - stage biopharmaceutical company develop engineer monoclonal antibodie for the treatment of cancer and autoimmune 
+ disease . currently , 15 candidate engineer with xencor ’s xmab ® technology be in clinical development internally and with partner . xencor ’s xmab 
+ antibody engineering technology enable small change to the structure of monoclonal antibody result in new mechanism of therapeutic action . for 
+ more information , please visit www.xencor.com . 
+ forward - look statement 
+ statement contain in this press release regard matter that be not historical fact be forward - look statement within the meaning of applicable 
+ security law , include , but not limit to , the quotation from the chief executive officer of xencor and aimmune and any expectation relate to the 
+ potential benefit of aimab7195; its clinical development , synergy with codit ™ program and efficacy; regulatory approval; or commercialization . 
+ such statement involve known and unknown risk , uncertainty and other factor that may cause actual result , performance or achievement and the 
+ timing of event to be materially different from those imply by such statement , and therefore these statement should not be read as guarantee of 
+ future performance or result . such risk include , without limitation , the risk associate with the process of discover , develop , manufacturing and 
+ commercialize drug that be safe and effective for use as human therapeutic and other risk describe in xencor ’s public security filing . for a 
+ discussion of these and other factor , please refer to xencor ’s annual report on form 10 - k for the year end december 31 , 2018 as well as xencor ’s 
+ subsequent filing with the security and exchange commission . all forward - look statement be base on xencor ’s current information and belief as 
+ well as assumption make by xencor . you be caution not to place undue reliance on these forward - look statement , which speak only as of the 
+ date hereof . this caution be make under the safe harbor provision of the private security litigation reform act of 1995 . all forward - look statement 
+ be qualified in their entirety by this cautionary statement and xencor undertake no obligation to revise or update this press release to reflect event or 
+ circumstance after the date hereof , except as require by law . 
+ aimab7195 ™ , palforzia ™ , aimmune ™ , aimmune therapeutic ™ and codit ™ be trademark of aimmune therapeutic , inc 
+ xencor ® and xmab ® be register trademark of xencor , inc . 
+ contact 
+ charle lile 
+ 626 - 737 - 8118 
+ clilesxencor.com 
+ medium contact 
+ jason i. spark 
+ canale communication 
+ 619 - 849 - 6005 
+ jasoncanalecomm.com 
+ source : aimmune therapeutic , inc . , 8 - k , 2/5/2020

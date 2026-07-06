@@ -1,0 +1,1968 @@
+exhibit 10.2 
+ execution version 
+ intellectual property agreement 
+ this intellectual property agreement ( this " agreement " ) , date as of december 31 , 2018 ( the " effective date " ) be enter into by and 
+ between armstrong flooring , inc . , a delaware corporation ( " seller " ) and afi licensing llc , a delaware limit liability company ( " licensing " and 
+ together with seller , " arizona " ) and ahf holding , inc . ( formerly know as tarzan holdco , inc . ) , a delaware corporation ( " buyer " ) and armstrong 
+ hardwood floor company , a tennessee corporation ( the " company " and together with buyer the " buyer entity " ) ( each of arizona on the one hand 
+ and the buyer entity on the other hand , a " party " and collectively , the " party " ) . 
+ whereas , seller and buyer have enter into that certain stock purchase agreement , date november 14 , 2018 ( the " stock purchase 
+ agreement”); whereas , pursuant to the stock purchase agreement , seller have agree to sell and transfer , and buyer have agree to purchase and 
+ acquire , all of seller ’s right , title and interest in and to armstrong wood product , inc . , a delaware corporation ( " awp " ) and its subsidiary , the 
+ company and homerwood hardwood floor company , a delaware corporation ( " hhfc , " and together with the company , the " company 
+ subsidiary " and together with awp , the " company entity " and each a " company entity " ) by way of a purchase by buyer and sale by seller of the 
+ share , all upon the term and condition set forth therein; 
+ whereas , arizona own certain copyright , know - how , patent and trademark which may be use in the company field , and in connection 
+ with the transaction contemplate by the stock purchase agreement the company desire to acquire all of arizona ’s right , title and interest in and to 
+ such intellectual property use exclusively in the company field , and obtain a license from arizona to use other such intellectual property on the term 
+ and subject to the condition set forth herein; 
+ whereas , seller be signatory to the trademark license agreement pursuant to which seller obtain a license to the arizona license 
+ trademarks; 
+ whereas , the company desire to obtain a sublicense to use the arizona license trademark in the company field; 
+ whereas , arizona have obtain consent from all counterpartie to the trademark license agreement to grant to the company the sublicense 
+ to the arizona license trademark include in this agreement; and 
+ whereas , the company entity own certain copyright and know - how which may be use in the arizona field , and in connection with the 
+ transaction contemplate by the stock purchase agreement , arizona desire to obtain a license from the company entity to use such intellectual 
+ property on the term and subject to the condition set forth herein . 
+ now , therefore , in consideration of the foregoing and the mutual agreement , provision and covenant contain in this agreement , and 
+ for other good and valuable consideration , the receipt and sufficiency of which be hereby acknowledge , the party hereby agree as follow : 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 1 . 
+ definition and interpretation 
+ 1.1 
+ certain definition . as use herein , capitalize term have the meaning ascribe to they herein , include the follow term have the meaning 
+ set forth below . capitalize term that be not define in this agreement shall have the meaning set forth in the stock purchase agreement . 
+ ( a ) 
+ " arizona assign copyright " mean all copyright , whether registered or unregistered , own by licensing or seller as of the 
+ effective date and use or hold for use exclusively in the company field as of november 14 , 2018 ( the " spa signing date " ) and/or as of 
+ the effective date . 
+ ( b ) 
+ " arizona assign internet domain name " mean the internet domain name set forth on schedule 1.1(b ) and all other internet domain 
+ name own by licensing or seller as of the effective date and use or hold for use exclusively in the company field as of the spa 
+ signing date and/or as of the effective date ( other than any internet domain name that include any arizona license trademark ) . 
+ ( c ) 
+ " arizona assign ip " mean the arizona assign copyright , arizona assign internet domain name , arizona assign know- 
+ how , arizona assign patent and arizona assign trademark . 
+ ( d ) 
+ " arizona assign know - how " mean all know - how own by licensing or seller as of the effective date and use or hold for use 
+ exclusively in the company field as of the spa signing date and/or as of the effective date . 
+ ( e ) 
+ " arizona assign patent " mean the patent set forth on schedule 1.1(e ) and all other patent own by licensing or seller and use 
+ or hold for use exclusively in the company field as of the spa signing date and/or as of the effective date . 
+ ( f ) 
+ " arizona assign trademark " mean the trademark set forth on schedule 1.1(f ) and all other trademark own by licensing or 
+ seller as of the effective date and use or hold for use exclusively in the in the company field as of the spa signing date and/or as of the 
+ effective date ( other than , for clarity any arizona license trademark ) . 
+ ( g ) 
+ " arizona domain name " mean the internet domain name set forth on schedule 1.1(g ) . 
+ ( h ) 
+ " arizona field " mean all activity conduct by arizona or its affiliate , other than the company field . 
+ ( i ) 
+ " arizona license copyright " mean all copyright own by licensing or seller or their respective affiliate , as of the effective date 
+ and use or hold for use in the company field during the five ( 5 ) year prior to the effective date ( other than the arizona assign 
+ copyright ) . 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ ( j ) 
+ " arizona license ip " mean the arizona license copyright , the arizona license know - how , the arizona license patent , the 
+ arizona license trademark , the diamond license trademark and the phase - out mark . 
+ ( k ) 
+ " arizona license know - how " mean all know - how own by licensing or seller or their respective affiliate , as of the effective date 
+ and use or hold for use in the company field during the five ( 5 ) year prior to the effective date ( other than the arizona assign know- 
+ how ) . 
+ ( l ) 
+ " arizona license patent " mean the patent set forth on schedule 1.1(l ) and all other patent own by licensing or seller or their 
+ respective affiliate as of the effective date and use or hold for use in the company field during the five ( 5 ) year prior to the effective 
+ date ( other than the arizona assign patent ) . 
+ ( m ) 
+ " arizona license trademark " mean the trademark set forth on schedule 1.1(m ) . 
+ ( n ) 
+ " arizona trademark license term " mean the period commence on the effective date and end twenty - four ( 24 ) month thereafter . 
+ ( o ) 
+ " company field " mean the design , development , manufacture , marketing , promotion , advertising , source , distribution and sale of solid 
+ hardwood and engineer wood floor product by or for any company entity . 
+ ( p ) 
+ " company license copyright " mean all copyright and registration and application for any of the foregoing own by any 
+ company entity as of the effective date and use or hold for use in the arizona field as of the effective date . 
+ ( q ) 
+ " company license ip " mean the company license copyright , the company license know - how and the company license 
+ patent . 
+ ( r ) 
+ " company license know - how " mean all know - how own by any company entity as of the effective date and use or hold for use in 
+ the arizona field as of the effective date . 
+ ( s ) 
+ " company license patent " mean the patent set forth on schedule 1.1(s ) . 
+ ( t ) 
+ " copyright " mean copyright ( whether registered or unregistered ) include application for copyright ( exclude , for clarity , 
+ trademark ) . 
+ ( u ) 
+ " diamond license trademark " mean the trademark set forth on schedule 1.1(u ) . 
+ ( v ) 
+ " diamond product " mean the design , development , manufacture , marketing , promotion , advertising , source , distribution and sale of the 
+ solid hardwood floor product by any company entity as conduct under the diamond license trademark by any company entity 
+ prior to the effective date 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ ( include the composition of coating use with respect to such solid hardwood flooring product ) . 
+ ( w ) 
+ " diamond trademark license term " mean the period commence on the effective date and end eighteen ( 18 ) month thereafter . 
+ ( x ) 
+ " know - how " mean trade secret , and other confidential and proprietary information , invention , process , formula and methodology . 
+ ( y ) 
+ " license ip " mean the arizona license ip and the company license ip . 
+ ( z ) 
+ " license copyright " mean the arizona license copyright and the company license copyright . 
+ ( aa ) 
+ " license know - how " mean the arizona license know - how and the company license know - how . 
+ ( bb ) 
+ " license trademark " mean the arizona license trademark , the diamond license trademark and the phase - out mark . 
+ ( cc ) 
+ " patent " mean patent right , include patent , patent application , and all related continuation , continuation - in - part , divisional , 
+ renewal , reissue , re - examination , substitution , and extension thereof , and application for any of the foregoing . 
+ ( dd ) 
+ " proceeding " mean any proceeding , claim , suit or action arise out of , or in connection with , this agreement or its subject matter 
+ ( include its validity , formation at issue , effect , interpretation , performance or termination ) , howsoever arising . 
+ ( ee ) 
+ " seller license trademark " mean the arizona license trademark and the diamond license trademark . 
+ ( ff ) 
+ " third party " mean any person other than arizona , the company , and their respective affiliate . 
+ ( gg ) 
+ " trademark " mean any trademark , service mark , trade name , trade dress , and other similar designation of source or origin , and 
+ registration and application for any of the foregoing . 
+ ( hh ) 
+ " trademark license agreement " mean the trademark license agreement by and between armstrong world industry , inc . , awi 
+ licensing llc and armstrong flooring , inc , date as of april 1 , 2016 and attach hereto as exhibit a. 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 1.2 
+ interpretation . section 10.5 and 10.14 of the stock purchase agreement shall apply hereto , mutatis mutandis . 
+ 1.3 
+ company action . in respect of any action herein require to be undertake by any of the company entity , or to be omit by any of the 
+ company entity , the buyer entity shall cause the applicable company entity to so undertake or omit to undertake , as applicable , such action . 
+ 2 . 
+ assignment of arizona assign ip 
+ 2.1 
+ assignment . arizona agree to assign and hereby assign its entire right , title and interest in and to the arizona assign ip to the company . 
+ 2.2 
+ recordation of assignment . arizona will reasonably cooperate with the company to obtain , record , and perfect title to , and provide all necessary 
+ evidence of the company ’s ownership of , the arizona assign ip , include the execution of ( i ) a patent assignment in the form of the attach 
+ exhibit b , and ( ii ) a trademark assignment in the form of the attach exhibit c. 
+ 3 . 
+ grant of copyright license 
+ 3.1 
+ arizona copyright grant . subject to the term and condition of this agreement , arizona hereby grant to the company a perpetual , non- 
+ exclusive , royalty - free license in , to and under the arizona license copyright for use in the company field throughout the world . 
+ 3.2 
+ company copyright grant . subject to the term and condition of this agreement , the company hereby grant to seller a perpetual , non- 
+ exclusive , royalty - free license in , to and under the company license copyright for use in the arizona field throughout the world . 
+ 4 . 
+ grant of know - how license 
+ 4.1 
+ arizona know - how grant . subject to the term and condition of this agreement , arizona hereby grant to the company a perpetual , non- 
+ exclusive , royalty - free license in , to and under the arizona license know - how for use in the company field throughout the world . 
+ 4.2 
+ company know - how grant . subject to the term and condition of this agreement , the company hereby grant to seller a perpetual , non- 
+ exclusive , royalty - free license in , to and under the company license know - how for use in the arizona field throughout the world . 
+ 5 . 
+ grant of patent license 
+ 5.1 
+ arizona patent grant . subject to the term and condition of this agreement , arizona hereby grant to the company a perpetual , non - exclusive , 
+ royalty - free license in , to and under the arizona license patent for use in the company field throughout the world . 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 5.2 
+ company patent grant . subject to the term and condition of this agreement , the company hereby grant to seller a perpetual , non - exclusive , 
+ royalty - free license in , to and under the company license patent for use in the arizona field throughout the world . 
+ 6 . 
+ grant of trademark license 
+ 6.1 
+ arizona license trademark grant . subject to the term and condition of this agreement , arizona hereby grant to the company a limited , non- 
+ exclusive , royalty - free , non - sublicensable ( except as set forth in section 7.1 ) , non - assignable license in , to and under the arizona license 
+ trademark for the arizona trademark license term for use in the company field throughout the world only in the form and manner that such 
+ arizona license trademark be use in the business as of the closing , provide that the company shall use commercially reasonable effort to 
+ present the arizona license trademark in the form set forth on schedule 6.1 . 
+ 6.2 
+ diamond license trademark grant . subject to the term and condition of this agreement , arizona hereby grant to the company a limited , non- 
+ exclusive , royalty - free , non - sublicensable ( except as set forth in section 7.1 ) , non - assignable ( except as set forth in section 13.2 ) license in , to and 
+ under the diamond license trademark for the diamond trademark license term for use with respect to the diamond product throughout the 
+ world only in the form and manner set forth on schedule 6.2 . 
+ 6.3 
+ quality control . the buyer entity acknowledge the importance of arizona ’s exercise of quality control over the use of the seller license 
+ trademark to preserve the continued integrity and validity of the seller license trademark and to protect the value and goodwill associate 
+ with the seller license trademark , and accordingly : 
+ ( a ) 
+ the company shall ensure that all good and service provide by the company , under or in association with any of the seller license 
+ trademark , shall ( i ) be substantially the same as or great than the quality of good and service provide under such seller license 
+ trademark immediately prior to the effective date and ( ii ) not be associate with any good or service , include any activity , that be 
+ reasonably likely to have an adverse effect on ( a ) the image or reputation of any of the seller license trademark or ( b ) seller ’s right , 
+ title or interest in and to , any of the arizona license trademark . 
+ ( b ) 
+ the company shall not tarnish or bring into disrepute the reputation of or goodwill associate with the seller license trademark or 
+ arizona . 
+ ( c ) 
+ the company shall use the seller license trademark at all time in compliance with all applicable law . 
+ ( d ) 
+ the company shall include trademark and other notice in connection with the use of the seller license trademark as reasonably 
+ request by arizona from time to time . 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ ( e ) 
+ the company shall upon arizona ’s reasonable request from time to time , supply to arizona representative sample and/or write 
+ description , as appropriate , of us make by the company of the seller license trademark . 
+ ( f ) 
+ the buyer entity acknowledge that this license grant do not include , and the company shall receive no right under this agreement or 
+ the stock purchase agreement , to use any trademark that be confusingly similar to or derivative of a seller license trademark ( other than 
+ the seller license trademark themselves as expressly authorize hereunder ) . 
+ 6.4 
+ trademark license agreement . in addition to the obligation set forth in section 6.3 , and notwithstanding any other provision of this agreement , 
+ the company shall comply with all obligation applicable to arizona and its affiliate under the trademark license agreement include , for the 
+ avoidance of doubt , any obligation with respect to report complaint ( as define in the trademark license agreement ) , which report the 
+ company shall provide to arizona , and quality control and standard , and licensor competitor ( as define in the trademark license 
+ agreement ) , and neither party shall undertake any act that would constitute a breach or a basis for termination under the trademark license 
+ agreement . 
+ 6.5 
+ trade name . the company shall not create or use any corporate or trade name that include the arizona license trademark , other than those 
+ in existence immediately prior to the effective date . no later than thirty ( 30 ) day follow the closing , each of awp and the company shall 
+ change its respective corporate name and trade name and cause its organizational document to be amend to remove any reference to 
+ " armstrong . " 
+ 6.6 
+ with respect to any trademark notify to the company in write after the effective date that be use as of the effective date in the company 
+ field and be not ( i ) own by any company entity , ( ii ) arizona assign trademark , or ( iii ) seller license trademark ( the " phase - out 
+ mark " ) in each case ( i)-(iii ) the company shall have a period of twenty - four ( 24 ) month from the date of notification to phase out all use . any 
+ use by the company of any of the phase - out mark as permit in this section 6.6 , be subject to its use of the phase - out mark in a form and 
+ manner and with standard of quality consistent with that in effect for the phase - out mark as of the effective date . 
+ 6.7 
+ domain name . subject to the term and condition of this agreement , the license set forth in section 6.1 shall include the right of the company 
+ to use the arizona domain name solely in connection with the applicable arizona license trademark in the company field during the arizona 
+ trademark license term , in the ordinary course of business in a manner generally consistent with the past practice of arizona in the company 
+ field . the company shall not have the right to register any domain name or social medium address ( or any similar or successor identifier ) 
+ contain arizona license trademark . 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 7 . 
+ intellectual property right 
+ 7.1 
+ sublicense . arizona may sublicense the license grant herein to its affiliate and third party in the ordinary course of business in support of 
+ its and its affiliate ' business , but not for the independent use of third party , and the company may sublicense the license grant herein to 
+ third party , its subsidiary , awp , control affiliate , or any hold company that be a direct or indirect parent of the company in the 
+ ordinary course of business in support of its and its subsidiary ' or control affiliate ’ business , but not for the independent use of third 
+ party ( each such affiliate , third party , awp or subsidiary , a " sublicensee " ) . each party shall ensure that any sublicense that it grant to a 
+ sublicensee do not conflict with this agreement . for clarity , grant a sublicense shall not relieve the party of any obligation hereunder and 
+ each party shall cause each of its sublicensee to comply , and shall remain responsible for such sublicensee ' compliance , with all term and 
+ condition hereof applicable to the party . at the request of a licensing party , the other party shall provide to the licensing party a list of all 
+ sublicensee and otherwise reasonably cooperate with the licensing party in connection with sublicensee ' compliance with this agreement . 
+ 7.2 
+ reservation of right . except as expressly provide in the stock purchase agreement or herein , each party reserve its and its affiliate ' right in 
+ and to all intellectual property ( include with respect to the use , registration and licensing thereof ) . 
+ 8 . 
+ ownership 
+ 8.1 
+ ownership of arizona license ip . the buyer entity acknowledge and agree that ( a ) arizona and its affiliate own the arizona license ip 
+ ( other than the arizona license trademark ) , ( b ) awi licensing llc own the arizona license trademark , ( b ) neither the company , nor its 
+ affiliate or its sublicensee , will acquire any ownership right in the arizona license ip , and ( c ) the company shall not represent or make any 
+ claim that it have an ownership interest in any arizona license ip . without limitation to the foregoing , the company shall not file application to 
+ register any arizona license ip or assist any person in do the same , or contest , challenge , or otherwise take any action adverse to arizona ’s 
+ and its affiliate ' ownership of or right in and to the arizona license ip , or assist any person in do the same . 
+ 8.2 
+ ownership of company license ip . arizona acknowledge and agree that ( a ) the company and its affiliate own the company license ip , ( b ) 
+ neither arizona , nor its affiliate or its sublicensee , will acquire any ownership right in the company license ip , and ( c ) arizona shall not 
+ represent or make any claim that it have an ownership interest in any company license ip . without limitation to the foregoing , arizona shall not 
+ file application to register any company license ip or assist any person in do the same , or contest , challenge , or otherwise take any action 
+ adverse to the company ’s and its affiliate ' ownership of or right in and to the company license ip , or assist any person in do the same . 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 9 . 
+ prosecution , maintenance and enforcement 
+ 9.1 
+ responsibility and cooperation . as between the party , arizona , with respect to the arizona license ip , and the buyer entity , with respect to 
+ the company license ip , shall have the right ( but not the obligation ) for filing , prosecute , and maintain all arizona license ip and 
+ company license ip , respectively , in the licensing party ’s name . for the avoidance of doubt , in case either such party file any new intellectual 
+ property registration to the extent cover the licensed ip , such new intellectual property registration shall automatically become license ip . 
+ however , and for the further avoidance of doubt , the aforementioned shall not apply to new intellectual property create by a licensee party or its 
+ sublicensee separately and independently from the licensed ip , for example in case of separate and independent technical enhancement or 
+ advancement . the party shall reasonably consult and coordinate with each other at the other party ’s request with respect to the matter set 
+ forth in this section 9.1 . 
+ 9.2 
+ no additional obligation . this agreement shall not obligate either party to disclose to the other party , or maintain , register , prosecute , pay for , 
+ enforce , or otherwise manage any intellectual property except as expressly set forth herein . 
+ 9.3 
+ enforcement . as between the party , arizona , with respect to the arizona license ip , and the company or buyer , with respect to the company 
+ license ip , shall have the right ( but not the obligation ) to elect to bring a proceeding or enter into settlement discussion regard , or otherwise 
+ seek to resolve , any infringement , misappropriation , or other violation , or allegation of invalidity or unenforceability , of the license ip . in the 
+ event that arizona decline to institute any proceeding against third - party infringer or violator of any arizona license patent , regard 
+ activity that would fall within the company field if conduct by the company , within forty - five ( 45 ) day after be notify or become 
+ aware of such infringe conduct , the company or buyer shall have the right to institute any proceeding against such third - party infringer or 
+ violator . in the event that the company or buyer elect to institute such proceeding , arizona will reasonably cooperate with the company or 
+ buyer in such proceeding , and the company or buyer shall reimburse arizona for all reasonable cost and fee incur by arizona as a result of 
+ such cooperation . such cooperation by arizona will include join such proceeding as a party , if deem necessary by the company or buyer . in 
+ the event that arizona elect to bring a proceeding against any allege infringer of the arizona license trademark and seek the cooperation of 
+ the licensor of the trademark license agreement in such proceeding , arizona will take reasonable step to assist the company or buyer in 
+ request the cooperation of the licensor of the trademark license agreement , and pursue an infringement claim against such alleged 
+ infringer . the company or buyer , as applicable , shall retain all benefit , recovery , injunction or other value derive from such proceeding 
+ institute by such party . 
+ 10 . 
+ indemnification 
+ 10.1 
+ indemnification . each party ( the " indemnifying party " ) agree to indemnify , defend and hold harmless the other party and its affiliate and their 
+ respective employee , 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ director , officer , agent and successor ( collectively , the " indemnified party " ) from and against any and all loss ( include all cost , 
+ liability ( include present and future damage ) , claim and expense ) incur or suffer by any of the indemnified party , to the extent arise 
+ out of , relate to or result from ( a ) a breach by the indemnify party of this agreement; or ( b ) any gross negligence or willful misconduct of 
+ the indemnify party in connection with this agreement . 
+ 11 . 
+ disclaimer 
+ 11.1 
+ disclaimer . each party hereby acknowledge that , except to the extent expressly set forth in this agreement , the stock purchase agreement , the 
+ transition service agreement or the confidentiality agreement , neither party nor any of its affiliate have make any representation or warranty , 
+ express or imply , include any representation or warranty regard the validity , enforceability , or scope of the licensed ip , noninfringement , 
+ merchantability or fitness for a particular purpose . 
+ 12 . 
+ term 
+ 12.1 
+ term and termination . 
+ ( a ) 
+ unless early terminate pursuant to the provision hereof , the term of this agreement and the license and other grant of right ( and 
+ relate obligation ) under this agreement shall ( i ) with respect to the arizona license trademark , be for the arizona trademark license 
+ term , ( ii ) with respect to the diamond license trademark , be for the diamond trademark license term , ( iii ) with respect to the phase- 
+ out mark , be for the term set forth in section 6.6 , and ( iv ) with respect to copyright , know - how and patent , be in perpetuity . 
+ ( b ) 
+ either party may terminate this agreement if the other party materially breach this agreement and fail to remedy such breach within 
+ thirty ( 30 ) day ' write notice thereof; provide , however , that if the material breach of this agreement by the breach party be limit to 
+ the licensed copyright , license know - how , the arizona license patent , or the licensed trademark , the non - breaching party shall 
+ be entitle to termination solely with respect to the affected part of the license ( i.e. , in such case , the non - breaching party may terminate 
+ this agreement with respect to the licensed copyright or the licensed know - how or the arizona license patent or the licensed 
+ trademark , as applicable ) . 
+ 12.2 
+ effect of termination . 
+ ( a ) 
+ effect of termination . upon termination of this agreement , each licensee party shall and shall cause all of its sublicensee to cease all use 
+ of the licensed ip that be subject to such termination ( exclude for clarity ( a ) any arizona license patent , license copyright or 
+ license trademark that be expire , invalid or abandon or ( b ) any licensed know - how that no long constitute confidential 
+ information ) . 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ ( b ) 
+ survival . the follow provision of this agreement , together with all other provision of this agreement that expressly specify that they 
+ survive , shall survive expiration or termination of this agreement , in part or in its entirety : section 8 , 10 , 11 , 12.2(a ) and 13 . 
+ 13 . 
+ miscellaneous 
+ 13.1 
+ entire agreement . this agreement ( together with the schedule attach hereto ) , the stock purchase agreement , the transition service 
+ agreement and the confidentiality agreement constitute the entire agreement of the party hereto and supersede all prior negotiation , 
+ correspondence , agreement and undertaking , both write and oral , between or among the party , or any of they , with respect to the subject 
+ matter hereof . it shall be expressly understand that the stock purchase agreement shall govern the transaction contemplate thereby as a whole 
+ and that this agreement shall not be construe as an amendment or variation of the stock purchase agreement but rather shall be complement 
+ by and interpret in light of the stock purchase agreement . in the event that any provision of this agreement be inconsistent with , conflict with 
+ or contradict any term of the stock purchase agreement , the term of the stock purchase agreement will prevail . 
+ 13.2 
+ assignment . except as otherwise provide in this agreement , include under section 7.1 , neither this agreement nor any of the right , interest 
+ or obligation of any party under this agreement shall be assign , in whole or in part , by operation of law or otherwise , by either party without 
+ the prior write consent of the other party; provide , however , that ( a ) either party may assign any of the foregoing in connection with the sale 
+ or other transfer of the applicable business or asset of such party or its affiliate to which this agreement relate ( except that neither of the 
+ buyer entity may assign any such right , interest or obligation with respect to the arizona license trademarks); ( b ) arizona may assign any 
+ of the foregoing to one or more of its affiliate and ( c ) the company and buyer may assign any of the foregoing to one or more of its subsidiary , 
+ control affiliate , awp , or any hold company that be a direct or indirect parent of the company; provide that in each case ( b ) and ( c ) , no 
+ assignment shall relieve the assign party of any of its obligation under this agreement unless agree to by the non - assigning party . any 
+ assignment or other disposition in violation of the precede sentence shall be void . 
+ 13.3 
+ notice . all notice and other communication give or make pursuant hereto shall be in writing and shall be deem to have be duly give ( i ) 
+ on the date deliver , if deliver personally , ( ii ) on the third ( 3rd ) business day after be mail by registered or certify mail ( postage prepay , 
+ return receipt request ) , or ( iii ) on the next business day after be send by reputable overnight courier ( delivery prepay ) , in each case , to the 
+ party at the follow address , or on the date send and confirm by electronic transmission or confirmatory return email to the telecopi 
+ number or email address specify below ( or at such other address , telecopi number or email address for a party as shall be specify by notice 
+ give in accordance with this section 13.3 ): 
+ ( a ) if to buyer : 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ c / o american industrial partner 
+ 450 lexington avenue , 40th floor 
+ attention : general counsel and richard hoffman 
+ email : noticesamericanindustrial.com 
+ richardamericanindustrial.com 
+ with a copy to : 
+ baker botts l.l.p . 
+ 1299 pennsylvania avenue , nw 
+ washington , d.c . 20004 
+ attention : terrance l. bessey 
+ brendan o. dignan 
+ email : terrance.besseybakerbotts.com 
+ brendan.dignanbakerbotts.com 
+ ( b ) if to arizona : 
+ armstrong flooring , inc . 
+ 2500 columbia avenue , po box 3025 
+ lancaster , pa 17604 
+ attention : christopher s. parisi 
+ email : csparisiarmstrongflooring.com 
+ with a copy to : 
+ skadden , arp , slate , meagher & flom llp 
+ 4 time square 
+ new york , ny 10036 
+ attention : eric l. cochran 
+ steven j. daniels 
+ email : eric.cochranskadden.com 
+ steven.danielsskadden.com 
+ 13.4 
+ specific performance . each party hereto acknowledge that money damage would be both incalculable and an insufficient remedy for any breach 
+ of this agreement by such party and that any such breach would cause arizona , on the one hand , and the buyer entity , on the other hand , 
+ irreparable harm . accordingly , each party hereto also agree that , in the event of any breach or threaten breach of the provision of this 
+ agreement by such party , arizona , on the one hand , and the buyer entity , on the other hand , shall be entitle to equitable relief without the 
+ requirement of post a bond or other security , include in the form of injunction and order for specific performance . any and all remedy 
+ herein expressly confer upon a party will be deem cumulative with and not exclusive of any other remedy confer hereby , or by law or 
+ equity upon such party , and the exercise by a party of any one remedy will not preclude the exercise of any other remedy . arizona , on the one 
+ hand , and buyer entity , on the other hand , hereby agree not to raise any objection to the availability of the equitable remedy of specific 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ performance to prevent or restrain breach or threaten breach of this agreement by the buyer entity or arizona , as applicable , and to 
+ specifically enforce the term and provision of this agreement to prevent breach or threaten breach of , or to enforce compliance with , the 
+ covenant and obligation of the buyer entity or arizona , as applicable , under this agreement . 
+ 13.5 
+ govern law; jurisdiction; waiver of jury trial . 
+ ( a ) 
+ this agreement shall be govern by the law of the state of delaware , its rule of conflict of law notwithstanding . each party hereby 
+ agree and consent to be subject to the jurisdiction of the court of chancery of the state of delaware in and for new castle county , or if 
+ the court of chancery lack jurisdiction over such dispute , in any state or federal court have jurisdiction over the matter situate in new 
+ castle county , delaware , in any action seek to enforce any provision of , or base on any matter arise out of or in connection with , 
+ this agreement or the transaction contemplate hereby . each party hereby irrevocably consent to the service of any and all process in 
+ any such action by the delivery of such process to such party at the address and in the manner provide in section 13.3 hereof . each of 
+ the party hereto irrevocably and unconditionally waive any objection to the laying of venue of any proceeding arise out of this 
+ agreement or the transaction contemplate hereby in the court of chancery of the state of delaware in and for new castle county , or if 
+ the court of chancery lack jurisdiction over such dispute , in any state or federal court have jurisdiction over the matter situate in new 
+ castle county , delaware , and hereby far irrevocably and unconditionally waif and agree not to plead or claim in any such court 
+ that any such proceeding bring in any such court have be bring in an inconvenient forum . 
+ ( b ) 
+ each party acknowledge and agree that any controversy which may arise under this agreement be 
+ likely to involve complicated and difficult issue , and therefore each party hereby irrevocably and 
+ unconditionally waive any right such party may have to a trial by jury in respect of any litigation 
+ directly or indirectly arise out of or relate to this agreement , or the breach , termination or validity 
+ of this agreement , or the transaction contemplate by this agreement . each party certifie and 
+ acknowledge that ( i ) no representative , agent or attorney of any other party have represent , expressly 
+ or otherwise , that such other party would not , in the event of litigation , seek to enforce the foregoing 
+ waiver , ( ii ) each such party understand and have consider the implication of this waiver , ( iii ) each such 
+ party make this waiver voluntarily , and ( iv ) each such party have be induce to enter into this 
+ agreement by , among other thing , the mutual waiver and certification in this section 13.5(b ) . 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 13.6 
+ severability . if any term or other provision of this agreement , or any portion thereof , be invalid , illegal or incapable of be enforce by any rule 
+ of law or public policy , all other term and provision of this agreement , or the remain portion thereof , shall nevertheless remain in full force 
+ and effect so long as the economic or legal substance of the transaction contemplate hereby be not affect in any manner materially adverse to 
+ any party . upon such determination that any such term or other provision , or any portion thereof , be invalid , illegal or incapable of be enforce , 
+ the party hereto shall negotiate in good faith to modify this agreement so as to effect the original intent of the party as closely as possible in 
+ an acceptable manner to the end that the transaction contemplate hereby be consummate to the full extent possible . 
+ 13.7 
+ counterpart . this agreement may be execute in any number of counterpart , include by mean of email in portable document format ( .pdf ) , 
+ each of which when execute shall be deem to be an original copy of this agreement and all of which take together shall constitute one and 
+ the same agreement . 
+ [ remainder of page intentionally leave blank ] 
+
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ in witness whereof , the party have duly execute this agreement as of the date first write above . 
+ armstrong flooring , inc . 
+ by : /s/ donald r. maier 
+ name : donald r. maier 
+ title : president and chief executive officer 
+ afi licensing llc 
+ by : /s/ christina geerlof 
+ name : christina geerlof 
+ title : president 
+ ahf holding , inc . ( formerly know as tarzan holdco , 
+ inc . ) 
+ by : /s/ stanley edme 
+ name : stanley edme 
+ title : vice president 
+ armstrong hardwood floor company 
+ by : /s/ jason braeglemann 
+ name : jason braegelmann 
+ title : vice president 
+ [ signature page to ip agreement ] 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 1.1(b ) – arizona assign internet domain name 
+ domain name 
+ expiration date 
+ owner 
+ amish-handscraped.com 
+ 13 - apr-2019 
+ armstrong flooring , inc . ( " afi " ) 
+ amishhandscraped.com 
+ 13 - apr-2019 
+ afi 
+ bruce.adult 
+ 28 - apr-2019 
+ afi 
+ bruce.biz 
+ 26 - mar-2019 
+ afi 
+ bruce.com 
+ 21 - jan-2019 
+ afi 
+ bruce.dpml.pub 
+ 29 - oct-2019 
+ afi 
+ bruce.dpmlblock 
+ 29 - oct-2019 
+ afi 
+ bruce.info 
+ 10 - aug-2019 
+ afi 
+ bruce.porn 
+ 28 - apr-2019 
+ afi 
+ bruce.xxx 
+ 01 - dec-2021 
+ afi 
+ brucebuilder.com 
+ 02 - mar-2019 
+ afi 
+ brucecontractor.com 
+ 02 - mar-2019 
+ afi 
+ brucedealer.com 
+ 02 - mar-2019 
+ afi 
+ brucedistributor.com 
+ 02 - mar-2019 
+ afi 
+ brucefloors.com 
+ 04 - aug-2019 
+ afi 
+ brucehardwoodfloors.com 
+ 11 - apr-2019 
+ afi 
+ brucehome.com 
+ 02 - mar-2019 
+ afi 
+ brucelaminate.com 
+ 30 - dec-2018 
+ afi 
+ bruceremodeler.com 
+ 02 - mar-2019 
+ afi 
+ bruceretailer.com 
+ 02 - mar-2019 
+ afi 
+ brucesucks.com 
+ 25 - oct-2018 
+ afi 
+ brucesucks.info 
+ 22 - sep-2019 
+ afi 
+ capellaflooringcompany.com 
+ 12 - nov-2018 
+ afi 
+ capellafloors.com 
+ 27 - oct-2018 
+ afi 
+ forestglenhardwood.com 
+ 13 - sep-2019 
+ afi 
+ handscraped-hardwood.com 
+ 13 - apr-2019 
+ afi 
+ handscrapedhardwoodflooring.com 
+ 13 - sep-2019 
+ afi 
+ handscrapedwoodfloor.com 
+ 05 - sep-2019 
+ afi 
+ handscrapehardwoodfloor.com 
+ 05 - sep-2019 
+ afi 
+ handscrapehardwoodflooring.com 
+ 05 - sep-2019 
+ afi 
+ handscrapehardwoodfloors.com 
+ 05 - sep-2019 
+ afi 
+ handscrapewoodfloor.com 
+ 05 - sep-2019 
+ afi 
+ handscrapewoodflooring.com 
+ 05 - sep-2019 
+ afi 
+ handscrapewoodfloors.com 
+ 05 - sep-2019 
+ afi 
+ hardwood-flooring.asia 
+ 26 - mar-2019 
+ afi 
+ hartco.biz 
+ 18 - nov-2018 
+ afi 
+ hartco.info 
+ 10 - aug-2019 
+ afi 
+ hartcodistributor.com 
+ 02 - mar-2019 
+ afi 
+ hartcoflooring.com 
+ 24 - may-2019 
+ afi 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ domain name 
+ expiration date 
+ owner 
+ hartcoflooringcompany.com 
+ 18 - jun-2019 
+ afi 
+ hartcohome.com 
+ 02 - mar-2019 
+ afi 
+ homerwood.com 
+ 14 - sep-2019 
+ afi 
+ lifetimeluxuryhardwood.com 
+ 14 - jun-2019 
+ afi 
+ lockandfold.com 
+ 20 - nov-2018 
+ afi 
+ luxuryhardwood.com 
+ 20 - dec-2018 
+ afi 
+ mybruce.com 
+ 25 - jul-2019 
+ afi 
+ mybruce.net 
+ 25 - jul-2019 
+ afi 
+ myhartco.com 
+ 25 - jul-2019 
+ afi 
+ myhartco.net 
+ 25 - jul-2019 
+ afi 
+ myrobbins.com 
+ 25 - jul-2019 
+ afi 
+ myrobbins.net 
+ 25 - jul-2019 
+ afi 
+ powerofparagon.com 
+ 15 - jun-2019 
+ afi 
+ premium-hardwood.com 
+ 13 - apr-2019 
+ afi 
+ robbins-home.com 
+ 02 - mar-2019 
+ afi 
+ robbins.biz 
+ 26 - mar-2019 
+ afi 
+ robbins.com 
+ 13 - sep-2019 
+ afi 
+ robbins.info 
+ 10 - aug-2019 
+ afi 
+ robbinsflooring.com 
+ 21 - nov-2018 
+ afi 
+ robbinsflooring.info 
+ 22 - sep-2019 
+ afi 
+ robbinsfloors.com 
+ 14 - sep-2019 
+ afi 
+ robbinsfloors.net 
+ 17 - apr-2019 
+ afi 
+ robbinshardwoodflooring.com 
+ 26 - sep-2019 
+ afi 
+ robbinshighperformance.com 
+ 18 - oct-2018 
+ afi 
+ smokedhardwood.com 
+ 30 - apr-2019 
+ afi 
+ smokedhardwoodfloor.com 
+ 30 - apr-2019 
+ afi 
+ smokedhardwoodflooring.com 
+ 30 - apr-2019 
+ afi 
+ smokedhardwoodfloors.com 
+ 30 - apr-2019 
+ afi 
+ softscrapedhardwoodfloor.com 
+ 05 - sep-2019 
+ afi 
+ softscrapedhardwoodflooring.com 
+ 05 - sep-2019 
+ afi 
+ softscrapedhardwoodfloors.com 
+ 05 - sep-2019 
+ afi 
+ softscrapedwoodfloor.com 
+ 05 - sep-2019 
+ afi 
+ softscrapedwoodflooring.com 
+ 05 - sep-2019 
+ afi 
+ softscrapedwoodfloors.com 
+ 05 - sep-2019 
+ afi 
+ softscrapehardwoodfloor.com 
+ 05 - sep-2019 
+ afi 
+ softscrapehardwoodflooring.com 
+ 05 - sep-2019 
+ afi 
+ softscrapehardwoodfloors.com 
+ 05 - sep-2019 
+ afi 
+ softscrapewoodfloor.com 
+ 05 - sep-2019 
+ afi 
+ softscrapewoodflooring.com 
+ 05 - sep-2019 
+ afi 
+ softscrapewoodfloors.com 
+ 05 - sep-2019 
+ afi 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ domain name 
+ expiration date 
+ owner 
+ tmortan.com 
+ 07 - sep-2019 
+ afi 
+ tmorten.com 
+ 07 - sep-2019 
+ afi 
+ tmortin.com 
+ 07 - sep-2019 
+ afi 
+ tmorton-flooring.com 
+ 17 - mar-2019 
+ afi 
+ tmorton-floors.com 
+ 17 - mar-2019 
+ afi 
+ tmorton-hardwood-flooring.com 
+ 17 - mar-2019 
+ afi 
+ tmorton-hardwood-floors.com 
+ 17 - mar-2019 
+ afi 
+ tmorton-hardwood.com 
+ 17 - mar-2019 
+ afi 
+ tmorton-wood-flooring.com 
+ 17 - mar-2019 
+ afi 
+ tmorton-wood-floors.com 
+ 17 - mar-2019 
+ afi 
+ tmorton.asia 
+ 20 - mar-2019 
+ afi 
+ tmorton.com 
+ 17 - mar-2019 
+ afi 
+ tmorton.org 
+ 17 - mar-2019 
+ afi 
+ tmortonandco.com 
+ 17 - mar-2019 
+ afi 
+ tmortonco.com 
+ 17 - mar-2019 
+ afi 
+ wwwbruce.com 
+ 01 - mar-2019 
+ afi 
+ wwwhartco.com 
+ 17 - jan-2019 
+ afi 
+ wwwrobbins.com 
+ 17 - jan-2019 
+ afi 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 1.1(e ) – arizona assign patent 
+ country 
+ app . 
+ status 
+ app . number 
+ filing date 
+ patent number 
+ issue date 
+ we 
+ grant 
+ 10/459,977 
+ 12 - jun-03 
+
+ 3 - jun-08 
+ au 
+ grant 
+
+ 22 - nov-04 
+
+ 28 - oct-10 
+ cn 
+ grant 
+
+ 22 - nov-04 
+ zl200480039516.1 
+ 2 - jan-13 
+ de 
+ grant 
+
+ 22 - nov-04 
+
+ 11 - feb-17 
+ ep 
+ grant 
+ 8007063.4 
+ 22 - nov-04 
+
+ 5 - jan-11 
+ fr 
+ grant 
+ 8007063.4 
+ 22 - nov-04 
+
+ 5 - jan-11 
+ gb 
+ grant 
+ 8007063.4 
+ 22 - nov-04 
+
+ 5 - jan-11 
+ we 
+ grant 
+ 10/727,749 
+ 4 - dec-03 
+ 7,261,947 
+ 28 - aug-07 
+ we 
+ grant 
+ 11/901,361 
+ 17 - sep-07 
+ 8,287,971 
+ 16 - oct-12 
+ we 
+ grant 
+ 13/611,028 
+ 12 - sep-12 
+ 8,399,075 
+ 19 - mar-13 
+ we 
+ grant 
+ 12/825,448 
+ 29 - jun-10 
+
+ 12 - aug-14 
+ we 
+ grant 
+ 14/458,103 
+ 12 - aug-14 
+ 10,072,427 
+ 11 - sep-18 
+ au 
+ grant 
+
+ 28 - mar-14 
+
+ 20 - oct-16 
+ ep 
+ publish 
+ 14722915.7 
+ 28 - mar-14 
+ au 
+ grant 
+
+ 10 - apr-13 
+
+ 26 - nov-15 
+ can 
+ grant 
+ 2,869,667 
+ 10 - apr-13 
+
+ 19 - dec-17 
+ cn 
+ grant 
+
+ 10 - apr-13 
+
+ 9 - jun-17 
+ ep 
+ publish 
+ 13718698.7 
+ 10 - apr-13 
+ we 
+ grant 
+ 13/442,960 
+ 10 - apr-13 
+
+ 6 - sep-16 
+ au 
+ grant 
+
+ 10 - apr-13 
+
+ 17 - dec-15 
+ can 
+ grant 
+ 2,869,752 
+ 10 - apr-13 
+
+ 3 - jan-17 
+ cn 
+ grant 
+
+ 10 - apr-13 
+
+ 3 - may-17 
+ we 
+ grant 
+ 13/442,966 
+ 10 - apr-12 
+ 9,108,335 
+ 18 - aug-15 
+ cn 
+ grant 
+
+ 10 - feb-14 
+
+ 12 - apr-17 
+ ep 
+ grant 
+ 14154551.7 
+ 10 - feb-14 
+ ep2764965 
+ 21 - sep-16 
+ we 
+ grant 
+ 14/176,299 
+ 10 - feb-14 
+
+ 11 - jul-17 
+ au 
+ grant 
+
+ 28 - mar-14 
+
+ 30 - jun-16 
+ au 
+ grant 
+
+ 10 - dec-13 
+
+ 26 - nov-15 
+ cn 
+ grant 
+
+ 11 - dec-13 
+
+ 4 - jan-17 
+ au 
+ grant 
+
+ 10 - dec-14 
+
+ 15 - oct-15 
+ can 
+ grant 
+ 2,873,571 
+ 8 - dec-14 
+
+ 27 - mar-18 
+ cn 
+ publish 
+
+ 10 - dec-14 
+ au 
+ pende 
+
+ 5 - jul-16 
+ cn 
+ publish 
+
+ 5 - jul-16 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ country 
+ app . 
+ status 
+ app . number 
+ filing date 
+ patent number 
+ issue date 
+ ep 
+ publish 
+ 16818951.2 
+ 5 - jul-16 
+ tw 
+ publish 
+
+ 28 - jun-16 
+ will 
+ publish 
+ pct / us16/40942 
+ 5 - jul-16 
+ cn 
+ publish 
+
+ 17 - dec-15 
+ ep 
+ publish 
+ 15201544.2 
+ 21 - dec-15 
+ we 
+ publish 
+ 14/970,662 
+ 16 - dec-15 
+ au 
+ pende 
+
+ 20 - dec-16 
+ cn 
+ publish 
+
+ 20 - dec-16 
+ ep 
+ pende 
+
+ 20 - dec-16 
+ we 
+ publish 
+ 14/980,263 
+ 28 - dec-15 
+ will 
+ publish 
+ pct / us2016/067690 
+ 20 - dec-16 
+ au 
+ pende 
+
+ 20 - dec-16 
+ cn 
+ publish 
+
+ 20 - dec-16 
+ ep 
+ pende 
+
+ 20 - dec-16 
+ we 
+ publish 
+ 14/980,313 
+ 28 - dec-15 
+ will 
+ publish 
+ pct / us2016/067688 
+ 20 - dec-16 
+ will 
+ publish 
+ pct / us2017/055068 
+ 5 - oct-17 
+ we 
+ publish 
+
+ 22 - feb-18 
+ will 
+ publish 
+ pct / us18/19186 
+ 22 - feb-18 
+ we 
+ grant 
+ 09/478,016 
+ 5 - jan-00 
+
+ 26 - dec-00 
+ we 
+ grant 
+ 11/390,679 
+ 28 - mar-06 
+
+ 26 - may-09 
+ we 
+ grant 
+ 09/175,661 
+ 20 - oct-98 
+
+ 21 - nov-00 
+ we 
+ grant 
+ 09/303,176 
+ 30 - apr-99 
+
+ 5 - dec-00 
+ we 
+ grant 
+ 09/241,878 
+ 2 - feb-99 
+
+ 27 - feb-01 
+ we 
+ pende 
+ 62/611953 
+ 29 - dec-17 
+ we 
+ expire 
+ 62/404,413 
+ 5 - oct-16 
+ we 
+ expire 
+ 62/462,609 
+ 23 / feb-17 
+ we 
+ abandon 
+ 09/903,549 
+ 13 - jul-01 
+ we 
+ abandon 
+ 14/828,598 
+ 18 - aug-15 
+ we 
+ expire 
+ 62/187,925 
+ 2 - jul-15 
+ we 
+ grant 
+ 12/425,560 
+ 17 - apr-09 
+ 8,357,752 
+ 22 - jan-13 
+ we 
+ grant 
+ 13/741,770 
+ 15 - jan-13 
+ 8,617,654 
+ 31 - dec-13 
+ au 
+ grant 
+
+ 10 - dec-14 
+
+ 24 - mar-16 
+ ep 
+ publish 
+ 14199378.2 
+ 19 - dec-14 
+ cn 
+ publish 
+
+ 23 - dec-15 
+ ep 
+ publish 
+ 15202406.3 
+ 23 - dec-15 
+ we 
+ grant 
+ 14/580,347 
+ 23 - dec-14 
+ 9,567,755 
+ 14 - feb-17 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ country 
+ app . 
+ status 
+ app . number 
+ filing date 
+ patent number 
+ issue date 
+ we 
+ pende 
+ 15/724,391 
+ 5 - oct-17 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 1.1(f ) – arizona assign trademark 
+ country 
+ trademark 
+ status 
+ app . 
+ number 
+ app . date 
+ reg . 
+ number 
+ reg . date 
+ us 
+ american scrape 
+ register 
+
+ 3 - may-12 
+
+ 11 - feb-14 
+ ca 
+ artisan collective 
+ pende 
+
+ 10 - jan-17 
+ us 
+ artisan collective 
+ cltm 
+ can 
+ artistic timber 
+ register 
+
+ 2 - apr-14 
+ tma967273 
+ 31 - mar-17 
+ us 
+ artistic timber 
+ cltm 
+ us 
+ birch run 
+ register 
+ 85/931,142 
+ 14 - may-13 
+ 4,524,637 
+ 6 - may-14 
+ can 
+ birch run 
+ register 
+ 1,636,822 
+ 25 - jul-13 
+ tma905398 
+ 4 - jun-15 
+ us 
+ bristol trail 
+ register 
+
+ 25 - feb-16 
+
+ 13 - mar-18 
+ can 
+ bristol trail 
+ publish 
+
+ 26 - feb-16 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ country 
+ trademark 
+ status 
+ app . 
+ number 
+ app . date 
+ reg . 
+ number 
+ reg . date 
+ we 
+ brush impression 
+ register 
+
+ 12 - feb-16 
+
+ 11 - apr-17 
+ can 
+ brush impression 
+ publish 
+
+ 16 - feb-16 
+ can 
+ capella 
+ publish 
+
+ 4 - jul-16 
+ us 
+ dundee 
+ register 
+
+ 7 - may-14 
+
+ 2 - dec-14 
+ we 
+ everguard 
+ register 
+
+ 7 - oct-13 
+
+ 9 - dec-14 
+ we 
+ farmington 
+ register 
+
+ 25 - feb-16 
+
+ 13 - mar-18 
+ can 
+ farmington 
+ publish 
+
+ 26 - feb-16 
+ us 
+ forest glen 
+ register 
+
+ 7 - oct-13 
+
+ 4 - nov-14 
+ can 
+ forest glen 
+ register 
+
+ 26 - feb-16 
+
+ 27 - jan-17 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ country 
+ trademark 
+ status 
+ app . 
+ number 
+ app . date 
+ reg . 
+ number 
+ reg . date 
+ can 
+ forge heritage 
+ publish 
+ 1,752,076 
+ 26 - oct-15 
+ can 
+ hydropel 
+ pende 
+
+ 30 - aug-18 
+ us 
+ hydropel 
+ pende 
+
+ 9 - oct-18 
+ us 
+ lock&fold 
+ register 
+
+ 13 - mar-06 
+
+ 23 - jan-07 
+ we 
+ midtown 
+ register 
+
+ 24 - sep-12 
+
+ 10 - sep-13 
+ us 
+ millwork square 
+ register 
+
+ 12 - feb-16 
+
+ 11 - apr-17 
+ can 
+ millwork square 
+ publish 
+
+ 16 - feb-16 
+ can 
+ original rustic 
+ publish 
+
+ 18 - jul-16 
+ us 
+ original rustic 
+ cltm 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ country 
+ trademark 
+ status 
+ app . 
+ number 
+ app . date 
+ reg . 
+ number 
+ reg . date 
+ us 
+ paragon 
+ cltm 
+ can 
+ paragon 
+ cltm 
+ we 
+ prime harvest 
+ register 
+ 86/285,289 
+ 19 - may-14 
+ 4,742,207 
+ 26 - may-15 
+ can 
+ prime harvest 
+ register 
+ 1,677,599 
+ 20 - may-14 
+ tma906580 
+ 17 - jun-15 
+ we 
+ right every time 
+ publish 
+
+ 8 - dec-16 
+ we 
+ rustic 
+ restoration 
+ publish 
+
+ 26 - oct-16 
+
+ 17 - jul-18 
+ can 
+ rustic 
+ restoration 
+ pende 
+
+ 26 - oct-16 
+ we 
+ sdf 
+ pende 
+ ' 87947440 
+ 4 - jun-18 
+ can 
+ sdf 
+ pende 
+
+ 1 - jun-18 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ country 
+ trademark 
+ status 
+ app . 
+ number 
+ app . date 
+ reg . 
+ number 
+ reg . date 
+ us 
+ signature scrape 
+ register 
+
+ 25 - feb-16 
+
+ 18 - apr-17 
+ can 
+ signature scrape 
+ publish 
+
+ 26 - feb-16 
+ can 
+ signature soft scrape 
+ publish 
+
+ 26 - feb-16 
+ we 
+ timberblock 
+ publish 
+
+ 19 - mar-18 
+ can 
+ timberblock 
+ pende 
+
+ 20 - mar-18 
+ we 
+ timberbrushe 
+ register 
+
+ 15 - jul-16 
+
+ 15 - aug-17 
+ we 
+ timbercut 
+ register 
+
+ 10 - jan-17 
+
+ 2 - jan-18 
+ can 
+ timbercut 
+ pende 
+
+ 10 - jan-17 
+ we 
+ timberland 
+ register 
+
+ 13 - mar-03 
+
+ 1 - feb-05 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ country 
+ trademark 
+ status 
+ app . 
+ number 
+ app . date 
+ reg . 
+ number 
+ reg . date 
+ can 
+ tranquil wood 
+ publish 
+
+ 11 - jul-16 
+ us 
+ tranquil wood 
+ cltm 
+ we 
+ trutop 
+ publish 
+
+ 10 - apr-18 
+ can 
+ trutop 
+ pende 
+
+ 10 - apr-18 
+ can 
+ vintage farmhouse 
+ publish 
+
+ 11 - jul-16 
+ we 
+ wear master 
+ register 
+ 74/329383 
+ 9 - nov-92 
+
+ 3 - may-94 
+ cn 
+ wear master 
+ register 
+
+ 5 - aug-05 
+
+ can 
+ opal creek 
+ register 
+
+ 23 - jul-15 
+
+ 08 - aug-18 
+ us 
+ opal creek 
+ register 
+ cltm 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 1.1(g ) – arizona domain name 
+ domain name 
+ expiration 
+ date 
+ owner 
+ armstrongwoodproducts.com 
+ 19 - dec- 
+
+ afi 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 1.1(l ) - arizona license patent 
+ country 
+ app no . 
+ filing date 
+ patent number 
+ issue date 
+ au 
+
+ 30 - apr-09 
+
+ 26 - sep-13 
+ au 
+
+ 19 - sep-13 
+
+ 7 - jan-16 
+ cn 
+
+ 30 - apr-09 
+ de 
+ 60 2009 024 610.0 
+ 30 - apr-09 
+ 2 286 018 
+ ep 
+ 9739191.6 
+ 30 - apr-09 
+
+ 11 - jun-14 
+ ep 
+ 13192693.3 
+ 30 - apr-09 
+
+ 31 - aug-16 
+ fr 
+ 9739191.6 
+ 30 - apr-09 
+ 2 286 018 
+ 11 - jun-14 
+ gb 
+ 9739191.6 
+ 30 - apr-09 
+ 2 286 018 
+ 11 - jun-14 
+ we 
+ 12/432,845 
+ 30 - apr-09 
+ 8,420,710 
+ 16 - apr-13 
+ us 
+ 14/700,669 
+ 30 - apr-15 
+ be 
+ 10770074.2 
+ 29 - nov-11 
+ 2 424 911 
+ 23 - mar-16 
+ de 
+ de 60 2010 031 448.0 
+ 29 - nov-11 
+ 2 424 911 
+ 23 - mar-16 
+ ep 
+ 10770074.2 
+ 29 - nov-11 
+ 2 424 911 
+ 23 - mar-16 
+ fr 
+ 10770074.2 
+ 29 - nov-11 
+ 2 424 911 
+ 23 - mar-16 
+ gb 
+ 10770074.2 
+ 29 - nov-11 
+ 2 424 911 
+ 23 - mar-16 
+ nl 
+ 10770074.2 
+ 29 - nov-11 
+ 2 424 911 
+ 23 - mar-16 
+ us 
+ 12/799,700 
+ 30 - apr-10 
+ us 
+ 14/140,206 
+ 24 - dec-13 
+ au 
+
+ 26 - jul-12 
+
+ 4 - feb-16 
+ cn 
+
+ 26 - jul-12 
+
+ 1 - jun-16 
+ de 
+ 12751639.1 
+ 26 - jul-12 
+ ep2736977 
+ 20 - may-15 
+ ep 
+ 12751639.1 
+ 26 - jul-12 
+ ep2736977 
+ 20 - may-15 
+ gb 
+ 12751639.1 
+ 26 - jul-12 
+ ep2736977 
+ 20 - may-15 
+ au 
+
+ 25 - feb-13 
+
+ 25 - feb-13 
+ ep 
+ 13707792.1 
+ 25 - feb-13 
+ us 
+ 14/380,432 
+ 22 - aug-14 
+
+ 10 - jan-17 
+ au 
+
+ 30 - aug-13 
+
+ 28 - apr-16 
+ cn 
+
+ 4 - mar-15 
+
+ 23 - jan-18 
+ ep 
+ 13770989.5 
+ 30 - mar-15 
+ ep2890749 
+ 16 - may-18 
+ us 
+ 14/423,186 
+ 23 - feb-15 
+ au 
+
+ 8 - jul-15 
+
+ 9 - feb-17 
+ ep 
+ 14702412.9 
+ 14 - aug-15 
+ us 
+ 14/760,080 
+ 9 - jul-15 
+ au 
+
+ 8 - jul-15 
+
+ 10 - nov-16 
+ cn 
+
+ 15 - jul-15 
+
+ 11 - aug-17 
+ ep 
+ 14703007.6 
+ 14 - aug-15 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ country 
+ app no . 
+ filing date 
+ patent number 
+ issue date 
+ us 
+ 14/760,060 
+ 9 - jul-15 
+ au 
+
+ 16 - sep-15 
+
+ 30 - mar-17 
+ cn 
+
+ 23 - dec-14 
+
+ 24 - aug-18 
+ ep 
+ 15198373.1 
+ 8 - dec-15 
+ us 
+ 14/580,312 
+ 23 - dec-14 
+
+ 16 - may-17 
+ ep 
+
+ 12 - jul-00 
+
+ 13 - oct-04 
+ us 
+ 10/062,616 
+ 31 - jan-02 
+
+ 3 - jun-03 
+ us 
+ 10/060,487 
+ 30 - jan-02 
+
+ 28 - jun-05 
+ au 
+
+ 6 - nov-17 
+ cn 
+
+ 16 - oct-17 
+ ep 
+ 16719581.7 
+ 14 - nov-17 
+ tw 
+
+ 31 - mar-16 
+
+ 21 - may-18 
+ us 
+ 14/678,163 
+ 3 - apr-15 
+ will 
+ pct / us16/24457 
+ 28 - mar-16 
+ au 
+
+ 6 - nov-17 
+ cn 
+
+ 20 - oct-17 
+ ep 
+
+ 14 - nov-17 
+ we 
+
+ 3 - oct-17 
+ will 
+ pct / us16/24462 
+ 28 - mar-16 
+ we 
+ 62/142,611 
+ 3 - apr-15 
+ au 
+
+ 6 - nov-17 
+ cn 
+
+ 18 - oct-17 
+ ep 
+ 16719580.9 
+ 14 - nov-17 
+ us 
+ 14/678,183 
+ 3 - apr-15 
+ will 
+ pct / us16/24451 
+ 28 - mar-16 
+ au 
+
+ 18 - apr-18 
+ cn 
+
+ 7 - may-18 
+ ep 
+ 16866982.8 
+ 14 - jun-18 
+ us 
+
+ 16 - may-18 
+ will 
+ pct / us2016/062133 
+ 16 - nov-16 
+ will 
+ pct / us2017/055060 
+ 5 - oct-17 
+ will 
+ pct / us2017/055047 
+ 4 - oct-17 
+ will 
+ pct / us2017/055077 
+ 4 - oct-17 
+ will 
+ pct / us2017/055089 
+ 5 - oct-17 
+ will 
+ pct / us2017/055044 
+ 5 - oct-17 
+ will 
+ pct / us2017/055033 
+ 4 - oct-17 
+ us 
+ 14/721,724 
+ 26 - may-15 
+
+ 18 - oct-16 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 1.1(m ) – arizona license trademark 
+ armstrong 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 1.1(s ) - company license patent 
+ country 
+ app . 
+ status 
+ app . number 
+ filing date 
+ patent number 
+ issue date 
+ we 
+ grant 
+ 12/425,560 
+ 17 - apr-09 
+ 8,357,752 
+ 22 - jan-13 
+ we 
+ grant 
+ 13/741,770 
+ 15 - jan-13 
+ 8,617,654 
+ 31 - dec-13 
+ cn 
+ publish 
+
+ 23 - dec-15 
+ ep 
+ publish 
+ 15202406.3 
+ 23 - dec-15 
+ we 
+ grant 
+ 14/580,347 
+ 23 - dec-14 
+ 9,567,755 
+ 14 - feb-17 
+ we 
+ pende 
+ 15/724,391 
+ 5 - oct-17 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 1.1(u ) – diamond license trademark 
+ diamond 10 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 6.1 – presentation of arizona license trademark 
+ armstrong logo usage : 
+ 1 . 
+ logo color : the armstrong logo can appear only in black , white or 100 tungsten . if reverse out white , it should be on a dark background 
+ color . the entire mark must be the same color . the armstrong logo can not be use alone . 
+ 2 . 
+ logo size : the minimum logo size be 1 " or 25 mm . in digital format , the minimum width be 100 pixel at 72 dpi . 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 3 . 
+ clear space : if the business unit identifier be use below the logo , the clear space be 1∕2 the diameter of the armstrong ring on the top , right 
+ side and leave side and the width of the stem in in the low case " r " on the bottom . 
+ if the business unit identifier be use above the logo , the clear space be 1∕2 the diameter of the armstrong ring on the right side , leave side and 
+ bottom and the width of the stem of the low case " r " on the top . 
+ a. 
+ there be no clear space define below the business unit identifier if use below the logo and no clear space define above the 
+ business unit identifier if use above the logo . 
+ b. 
+ if the business unit identifier be two line , the clear space definition apply to the top most line , if use above , or bottom most 
+ line , if use below the armstrong logo . 
+ 4 . 
+ font : the armstrong logo be consider art and the font type , spacing , bold , can not be modify . 
+
+ 5 . 
+ logo background : the logo should never be use on a busy background or one that do not provide enough contrast . 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 6 . 
+ logo direction : the logo can be use on an angle or vertically but must read leave to right and top to bottom 
+ 7 . 
+ circle a : the circle a can never be use as a separate graphic element . 
+ notice : 
+ 1 . 
+ the trademark should always be distinguishable from surround text – at a minimum , the trademark notice ( tm or ® ) should be use at 
+ least the first time in the text . after first instance , mark should appear with some other distinguish feature ( e.g. , different font , all cap , 
+ and/or different color ) from the surround text . 
+ 2 . 
+ must include notice of awi licensing llc ’s ownership of the trademark within the credit notice of the product , product documentation , or 
+ other product communication . ( e.g. , armstrong and the armstrong logo be register trademark of awi licensing llc . 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ schedule 6.2 – presentation of diamond license trademark 
+ diamond 10 ® technology trademark and logo usage : 
+ 1 . 
+ when use diamond 10 ® technology in sentence to identify good or service : 
+ a. 
+ always mark with ® ( require for first usage on page ) 
+ b. 
+ always add a space between diamond and 10 . 
+ c. 
+ always keep the entire mark together . 
+ 2 . 
+ use of diamond 10 ® or the diamond 10 ® logo must include notice of afi licensing llc ’s ownership of the trademark within the credit notice of 
+ the product , product documentation , or other product communication . ( e.g. , diamond 10 and the diamond 10 technology logo be register 
+ trademark of afi licensing llc . ) 
+ 3 . 
+ logo color : can appear only in white or 4 color process comprise of morado , tungsten and black . if reverse out white , use only on dark 
+ background color for contrast . 
+ color 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 4 . 
+ logo size : a general guideline for the maximum width of the logo in any application should be the equivalent to 20 of the width of the short 
+ side . exception may be make for signage and promotional material . the minimum logo size be 1 " or 25 mm . in digital format , the minimum width be 
+ 100 pixel at 72 dpi . 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ 5 . 
+ clear space : the size of the clear space around the logo be determine by the size of the circle of the capital height of the word diamond . 
+ 6 . 
+ font : the diamond 10 technology logo be consider art and the font type , spacing , bold , can not be modify . 
+ 7 . 
+ logo background : the logo should never be use on a busy background or one that do not provide enough contrast . 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019 
+ exhibit a – trademark license agreement 
+ attach . 
+ source : armstrong flooring , inc . , 8 - k , 1/7/2019

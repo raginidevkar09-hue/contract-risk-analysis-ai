@@ -1,0 +1,938 @@
+exhibit 10.38 
+ in accordance with item 601(b ) of regulation s - k , certain identify information ( the " confidential 
+ information " ) have be exclude from this exhibit because it be both ( i ) not material and ( ii ) would likely 
+ cause competitive harm if publicly disclose . the confidential information be denote herein by [ ] . 
+ cisco systems , inc . 
+ nonexclusive value add distributor agreement 
+ this nonexclusive value add distributor agreement ( " agreement " ) , between scansource , inc . , a south carolina corporation , with its principal 
+ place of business at 6 logue court , greenville , south carolina , 29615 ( " distributor " ) , and cisco systems , inc . , a california corporation with its 
+ principal place of business at 170 west tasman drive , san jose , california 95134 - 1706 , ( " cisco " ) be enter into as of the date last write below 
+ ( " the effective date " ) . 
+ this agreement consist of this signature page and the follow attachment , each of which be incorporate into this agreement by reference : 
+ 1 . 
+ nonexclusive value add distributor agreement term and condition 
+ 2 . 
+ exhibit a : territory 
+ 3 . 
+ exhibit b : value add distributor support exhibit 
+ 3.1 appendix 1 : cisco problem prioritization and escalation guideline 
+ 4 . 
+ exhibit c : software license agreement 
+ 5 . 
+ exhibit d : distributor freight policy 
+ 6 . 
+ exhibit e : affiliate list 
+ 7 . 
+ exhibit f : software transfer and relicense policy 
+ 8 . 
+ exhibit g : end of life policy 
+ this agreement be the complete agreement between the party hereto concern the subject matter of this agreement and replace any prior or 
+ contemporaneous oral or write communication between the party . in the event of conflict between the term of this agreement and the term 
+ of an exhibit hereto , the term of the exhibit shall govern . there be no condition , understanding , agreement , representation or warranty , 
+ express or imply , which be not specify herein . this agreement may only be modify by a write document execute by the party hereto . 
+ in witness whereof , the party hereto have cause this agreement to be duly execute . each party warrant and represent that its 
+ respective signatory whose signature appear below have be and be on the date of signature duly authorize to execute this agreement . 
+ scansource , inc . ( " distributor " ) 
+ cisco systems , inc . ( " cisco " ) 
+ by : /s/ jeffrey e. yelton 
+ by : /s/ frank a. calderon 
+ name : jeffrey e. yelton 
+ name : frank a . calderon 
+ title : vp merchandising 
+ title : vp , ww sale finance 
+ date : 1/19/07 
+ date : january 22 , 2007 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ nonexclusive value add distributor agreement 
+ term and condition 
+ 1.0 definition . 
+ affiliate(s ) be the entity list on exhibit e to this agreement that be either business unit of distributor ( and therefore wholly - own and a part 
+ of distributor ) or be wholly - own subsidiary of distributor , but in either case , only for so long as ownership remain as define in this 
+ provision . 
+ cisco quarter shall mean cisco 's fiscal quarter ( august 1 - october 31; november 1 - january 31; february 1 - april 30; and may 1 - july 31 ) . 
+ documentation shall mean user manual , training material , product description and specification , technical manual , license agreement , 
+ support material and other print information relate to any product , whether distribute in print , in electronic form , or in cd - rom or video 
+ format . 
+ end user be the final purchaser or licensee who have acquire product for its own internal use and not for resale , remarkete or redistribution . an 
+ entity that perform stocking , spar or warehousing activity for third party or procure cisco product , service or software for delivery to 
+ third party be not an end user . 
+ global price list mean a complete listing of those cisco product , service , include product and service which cisco may make available to 
+ distributor at its sole discretion , and associate price . 
+ hardware be the tangible product make available to distributor . 
+ major release or new release mean a release of software which be designate by cisco as a change in the one digit in the software version 
+ number [ ( x).x.x ] . 
+ non - genuine product be any and all product : ( i ) to which a mark or other cisco trademark or service mark have be affix without cisco 's 
+ consent; ( ii ) that have not be manufacture by cisco or cisco technologies , inc . ( " cti " ) or by a licensed manufacturer of either cisco or cti in 
+ accordance with the applicable license; or ( iii ) be produce with the intent to counterfeit or imitate a genuine cisco product 
+ obsolete product shall mean any product that be remove from the then - current value add distributor price list . 
+ purchase order be a written or electronic order from distributor to cisco for hardware , software or service to be purchase , license or provide 
+ under this agreement . 
+ product mean , individually or collectively as appropriate , hardware , license software , documentation , developed product , supply , 
+ accessory , and good to the foregoing , list on the then - current publish global price list . 
+ reseller mean an authorized reseller of distributor that meet cisco 's then - current requirement for reseller , include , without limitation , the 
+ requirement set out in section 26.0 of this agreement . in the event cisco enter into authorization agreement whereby cisco authorize particular 
+ reseller to purchase product or service from distributor and to resell product or service to end user , then " reseller " shall mean a reseller that 
+ be a party to such an authorization agreement . 
+ service mean cisco 's smartnet family of package service offering , as well as such other service offering as cisco make available for 
+ purchase by distributor on cisco 's wholesale or global price list . 
+ software be the machine readable ( object code ) version of the computer program list from time to time on the wholesale or global price list and 
+ make available by cisco for license by distributor , and any copy or update thereof . cisco reserve the right , during the term of this agreement , 
+ to license and distribute item of software from time to time . such item of software may be license under additional or different policy and 
+ license term , which will be make available to distributor . notwithstanding the use of the term " purchase " to refer to any item of software 
+ comprising or include within a product , cisco and distributor agree that all software provide by cisco to distributor under this agreement be 
+ license by cisco to distributor rather than purchase by distributor from cisco . 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ territory be comprise of those region or country list in exhibit a. 
+ unauthorized cisco product mean any genuine cisco product or cisco service that distributor purchase or acquire from any party other than 
+ cisco and/or an approve source . unauthorized cisco product do not include non - genuine product . 
+ update mean a bug fix , error correction , patch or workaround for the software which be provide by cisco to distributor in response to 
+ distributor 's request , or at cisco 's option , which cisco choose to provide to distributor . 
+ value add distributor price list shall mean a portion of the global price list contain product which cisco make available to distributor for 
+ stocking and the price at which cisco will sell such product to distributor . 
+ 2.0 scope . 
+ this agreement and the attach exhibit set forth the term and condition for distributor 's purchase of hardware and license of software , and 
+ redistribution of product , during the term of this agreement . 
+ affiliate of distributor list on exhibit e may purchase product , solely for redistribution , from cisco under this agreement . distributor hereby 
+ guarantee the performance by such affiliate of the financial and other contractual obligation set forth in this agreement and represent and 
+ warrant that it be empower to enter into this agreement on behalf of such affiliate , and to bind ( and do so bind ) such affiliate to the term 
+ and condition of this agreement . 
+ cisco may require certain of the list affiliate to execute an agreement with cisco or an affiliate of cisco such that the legal relationship shall be 
+ between cisco or cisco 's affiliate and distributor 's affiliate . 
+ any breach by distributor or by an affiliate of ( i ) this agreement , or ( ii ) any other agreement between cisco and distributor or an affiliate of either 
+ party , shall entitle cisco to terminate this agreement and/or any such agreement with affiliate and/or any other affiliate pursuant to section 18 . 
+ the limit of liability set forth in this agreement shall be deem an aggregate limit of liability , not per affiliate , regardless of whether an affiliate or 
+ affiliate have execute a separate agreement with cisco or a cisco affiliate permit such affiliate to purchase under the term of this 
+ agreement . 
+ in addition , any reporting requirement hereunder shall be perform solely by distributor . all report information relate to distributor or any 
+ affiliate(s ) shall be aggregate and submit as part of a single report , as require herein . 
+ 3.0 appointment of distributor . 
+ 3.1 by this agreement , cisco make , and distributor accept , the appointment of distributor as an authorize , non - exclusive distributor of 
+ product and service to reseller locate in the territory . distributor agree to use its good effort to distribute product solely to reseller locate 
+ in the territory . those reseller may resell product only to end user who intend to use the product in the territory . all reseller to which 
+ distributor distribute product must meet cisco 's then - current guideline for reseller , as amend from time to time . 
+ 3.2 distributor be authorize to resell only those product and service which be list on the value add distributor price list . notwithstanding 
+ the foregoing , cisco may , in its discretion , make available for purchase and resale by distributor , but not for stocking by distributor , certain other 
+ product and/or service which be list on the global price list . upon such product or service be make available to distributor , such 
+ product and service will be deem to be product and service as define herein . 
+ 3.3 product requirement . for new product or service add to the global or value add distributor price list , include product or service 
+ which become available to cisco as a result of an acquisition by cisco of another entity , cisco may impose certification , installation , or training 
+ requirement on distributor prior to allow distributor to purchase , resell , or provide support for such product or service . 
+ 3.4 distributor agree not to solicit order for product or service , or to engage salesperson or establish warehouse or other distribution center 
+ for the redistribution of product or service , outside the territory , except to the extent advertising be place in a particular advertising medium 
+ ( except catalog ) which be distribute both inside and outside of the territory . 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ 3.5 unauthorized cisco product . distributor acknowledge that the purchase and resale of non - genuine or unauthorized cisco product be not 
+ within the scope of this agreement and integrator be not entitle to the right grant herein with respect to the resale of such non - genuine or 
+ unauthorized cisco product . for all unauthorized cisco product , cisco reserve the right to withhold any warranty or cisco support on such 
+ product , unless such product pass a cisco equipment inspection and cisco receive payment for the applicable equipment inspection and/or 
+ software license fee , as require in the then​ current software transfer and licensing policy . a print copy of the software transfe and licensing 
+ policy , in effect on the effective date of this agreement and available at http://www.cisco.com/warp/public/csc/refurb_equipment/swpolicy.html , 
+ shall accompany this agreement . this policy be subject to change without notice . if cisco determine that reseller have resold and/or redistribute 
+ unauthorized cisco product purchase from unauthorized source , then cisco may , at cisco 's sole discretion : ( a ) audit reseller 's purchase and 
+ resale record of cisco product and relevant record pursuant to section 17.0 ( report and record ) and/or ( b ) invoice reseller for all reasonable 
+ cost incur by cisco in its performance of the audit and/or ( c ) suspend all product shipment to reseller . 
+ 4.0 order . 
+ 4.1 upon and subject to credit approval by cisco at the time of cisco 's receipt of any purchase order , distributor shall purchase or license 
+ product or service by issue a purchase order , sign , if request by cisco , or ( in the case of electronic transmission ) send by its authorize 
+ representative , indicate specific product and service , cisco product number , quantity , unit price , total purchase price , shipping instruction , 
+ request shipping date , bill - to and ship - to address , tax exempt certification , if applicable and contract reference , if any . no contingency 
+ contain on any purchase order shall be bind upon cisco . the term of this agreement shall apply , regardless of any additional or conflicting 
+ term on any purchase order or other correspondence or documentation submit by distributor to cisco , and any such additional or conflicting 
+ term be deem reject by cisco . 
+ 4.2 cisco shall use commercially reasonable effort to provide order acknowledgement information within [ ] business day for all purchase 
+ order place on cisco.com or within [ ] business day of purchase order fax or hand deliver to cisco . cisco customer service will 
+ review and accept or decline all purchase order for the cisco entity that will supply the product or service , and no other person be authorize to 
+ accept purchase order on behalf of cisco . cisco customer service may accept a purchase order even if some of the information require by 
+ section 4.1 above be miss or incomplete . in relation to service , cisco will confirm acceptance of a purchase order for service by issue a list 
+ of product cover by such service ( the " equipment list " ) . 
+ 4.3 distributor may defer product shipment for up to [ ] from the original shipping date schedule by cisco , provide write or electronic 
+ notice ( issue , in either case , by an authorized representative of distributor ) be receive by cisco at least [ ] day before the originally 
+ schedule shipping date . cancel purchase order , reschedule shipment or product configuration change request by distributor less than 
+ [ ] day before the original schedule shipping date shall be subject to ( a ) acceptance by cisco , and ( b ) a charge of [ ] of the total 
+ invoice amount relate to the affected product . cisco reserve the right to reschedule shipment in case of configuration change request by 
+ distributor within [ ] day of scheduled shipment . no cancellation shall be accept by cisco where product be purchase with 
+ implementation service , include design , customization or installation service , except as may be set forth in the agreement or statement of work 
+ under which the service be to be render . 
+ 5.0 shipping and delivery 
+ 5.1 schedule shipping date will be assign by cisco as close as practicable to the distributor 's request date base on cisco 's then - current 
+ lead time for the product . cisco will communicate schedule shipping date in the order acknowledgement or on cisco.com . cisco will ship 
+ product in compliance with distributor freight policy set forth in exhibit d. if no guidance be contain on exhibit d for any particular shipment , 
+ cisco shall select the carrier . 
+ 5.2 for shipment to the united states , ship term be [ ] , which shall appear on cisco 's order acknowledgement or be accessible via 
+ cisco.com . title and risk of loss shall pass from cisco to distributor [ ] . for order place and/or shipment to destination outside of the 
+ united states but within the territory ( " international order " ) , distributor may need to contract with , and/or order from , a cisco affiliate . different 
+ shipping term may apply to international order , as cisco shall specify at the time and as shall be record in distributor 's agreement with such 
+ cisco affiliate or otherwise set out on cisco.com . 
+ 5.3 cisco shall not be liable for loss , damage or penalty for delay in delivery or for failure to give notice of any 
+ delay . except in accordance with the applicable delivery term set forth in this agreement , cisco shall not 
+ have any 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ liability in connection with shipment , nor shall the carrier be deem to be an agent of cisco . 
+ 6.0 payment . 
+ 6.1 price for product shall be those specify in cisco 's then - current global or value add distributor price list . [ ] as provide in sub- 
+ section 3.2 , in its discretion , cisco may choose to make product or service which be on the global price list but not on the value add 
+ distributor price list available to distributor . the price for such product or service will be provide by cisco to distributor at the time cisco 
+ make such product available . 
+ 6.2 upon and subject to credit approval by cisco , payment term shall be [ ] day from shipping date . all payment shall be make in the 
+ currency in which the price list be quote for the applicable purchase order [ ] . 
+ 6.3 the purchase price do not include any federal , state or local taxis , or sale , use , excise , ad valorem , value - add , withholding or other taxis or 
+ duty that may be applicable to the purchase of product . when cisco have the legal obligation to collect such taxis , the appropriate amount shall 
+ be add to distributor 's invoice and pay by distributor , unless distributor provide cisco with a valid tax exemption certificate prior to issuance 
+ of a purchase order . such certificate must be in a form authorize by the appropriate tax authority . 
+ 6.4 distributor be free to determine its minimum resale price unilaterally . distributor understand that neither cisco nor any employee or 
+ representative of cisco may give any special treatment ( favorable or unfavorable ) to distributor as a result of distributor 's selection of minimum 
+ resale price . no employee or representative of cisco or anyone else have any authority to determine what distributor 's minimum resale price for 
+ the product must be , or to limit distributor 's pricing discretion with respect to the product and service . 
+ 6.5 in the event any provision of this agreement or any other agreement between distributor and cisco require that cisco grant credit to 
+ distributor 's account , cisco will grant such credit to distributor 's account . [ ] . cisco will only consider debit memo initially receive from 
+ distributor during the time period associate with such request , as set forth herein . 
+ all debit memos distributor submit to cisco will be submit use any method identify in 25.8 , or as otherwise agree between the party . 
+ 6.6 except as state in section 7 ( price protection ) , 12 ( inventory balance ) , 13 ( return of obsolete product ) , 18 ( term and termination ) or as 
+ otherwise state herein , for all price adjustment relate credit request by the distributor to be grant by cisco , the 
+ 6.7 distributor must make the initial credit request to cisco , in writing , within [ ] of the underlying point of sale transaction . any initial credit 
+ request submit by the distributor to cisco great than [ ] after the underlying point of sale transaction will not be honor by cisco and 
+ cisco will not grant such credit to distributor . 
+ 7.0 price protection . 
+ 7.1 definition : for purpose of this section 7.0 , product " in - transit " shall be define as all product with a particular cisco part number ship 
+ by cisco to distributor in the [ ] day period prior to the date on which cisco announce a general price decrease for product with such part 
+ number , exclude those product which distributor have receive into its inventory during such [ ] day period . 
+ 7.2 in the event cisco put into effect a general price decrease for any product from the value add distributor price list , cisco will provide to 
+ distributor a price credit on any such product on order , in transit or in distributor 's inventory as of the effective date of the price decrease , 
+ provide that the price credit for such product in inventory or in transit shall not exceed the dollar value of shipment of that product ( measure 
+ by the appropriate cisco product number ) to distributor over the precede [ ] . cisco will credit distributor 's account with an amount equal 
+ to the number of unit of such product in distributor 's inventory and in transit on the effective date of a price decrease multiply by the 
+ difference between the net price pay and the new net price . distributor will have [ ] from the effective date of the price change to exercise 
+ protection under this program by issue a request for credit memo with support documentation to cisco . claim for price protection submit 
+ more than [ ] from the effective date of a price decrease will be reject . notwithstanding the foregoing , product on order will receive an 
+ automatic retroactive price credit . the only inventoried product cover under this price protection clause be product which have be identify by 
+ distributor to cisco in the daily inventory report require in sub - sub - section 17.2.2 , exclude any third - party 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ source product . cisco will use commercially reasonable effort to notify distributor within [ ] of all such pricing change . 
+ 8.0 reserve 
+ 9.0 proprietary right and software licensing . 
+ 9.1 distributor 's use of software be govern by the term contain in exhibit c ( end user license agreement ( " eula " ) ) . for purpose of this 
+ agreement , all reference to " customer " or " you " therein shall refer to distributor . 
+ 9.2 distributor shall notify cisco promptly of any breach or suspect breach of the eula and far agree that it will , at cisco 's request , assist 
+ cisco in effort to preserve cisco 's intellectual property right include pursue an action against any breach third 
+ party . 
+ 10 . warranty . 
+ 10.1 
+ c I s c o p r o d u c t s a r e p r o v i d e d w I t h w r i t t e n l I m I t e d w a r r a n t I e s , a s s e t f o r t h a t t h e f o l l o w I n g u r l : 
+ http://www.cisco.com/warp/public/cc/serv/mkt/sup/tsssv/wnty/. distributor will pass through to reseller all write limited warranty provide 
+ by cisco with product purchase by distributor and distributor shall contractually require ( in whatever manner distributor deem appropriate ) 
+ each such reseller to provide such warranty and other term to any end user to which the reseller redistribute the product . 
+ 10.2 in addition to the write limited warranty provide by cisco with its product , such warranty statement shall apply to distributor during the 
+ period between when it receive a product and when it resell or redistribute such product , 
+ 10.3 notwithstanding any other provision hereof , cisco 's sole and exclusive warranty and obligation with respect to the product sell hereunder 
+ be set forth in cisco 's limited warranty statement deliver with the product . distributor shall not make any warranty 
+ commitment , whether written or oral , on cisco 's behalf . distributor shall indemnify cisco against any warranty make in 
+ addition to cisco 's standard warranty and for any misrepresentation of cisco 's reputation or cisco 's product . 
+ 10.4 disclaimer of warranty . except as expressly provide in this section 10.0 , cisco hereby disclaim and 
+ distributor waif all representation , condition and warranty ( whether express , imply , or statutory ) , 
+ include , without limitation , any warranty or condition ( a ) of merchantability , fitness for a particular 
+ purpose , noninfringement , satisfactory quality , quiet enjoyment , accuracy , or system integration , or ( b ) arise 
+ from any course of dealing , course of performance , or usage in the industry . to the extent an imply 
+ warranty can not be disclaim , such warranty be limit in duration to the applicable express warranty 
+ period . 
+ notwithstanding anything to the contrary in this section 10 , cisco make no representation or warranty as to 
+ ownership of intellectual property or of proprietary right , or as to infringement or misappropriation thereof . 
+ distributor 's sole and exclusive remedy in the event of any such infringement , misappropriation or any claim 
+ thereof shall be as set forth in section 15 of this agreement ( " patent and copyright infringement " ) . 
+ 11.0 trademark . 
+ 11.1 cisco grant to distributor the right to use the name , logo , trademark , and other mark of cisco ( collectively , the " mark " ) for all proper 
+ purpose in the sale of cisco product and service to end user and the performance of distributor 's duty hereunder only so long as this 
+ agreement be in effect . distributor 's use of such mark shall be in accordance with cisco 's policy include , but not limit to trademark usage 
+ and advertising policy , and be subject to cisco 's write approval . distributor far agree not to affix any mark to product other than 
+ genuine product . distributor shall have no claim or right in the mark , include but not limit to trademark , service mark , or trade name 
+ own , use or claim now or which cisco have authority to grant distributor the right to use in the future . distributor agree that upon notice 
+ from cisco it will immediately terminate its use of a particular mark . 
+ 11.2 distributor shall not acquire , use , promote or resell non - genuine product . additionally , distributor shall 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ notify cisco promptly of the existence , or suspect existence , of non​ genuine product in possession of or promote by third party , and far 
+ agree that it will , at cisco 's request , assist cisco to diligently pursue any action against any third party in possession of or promote non- 
+ genuine product . 
+ 11.3 if distributor acquire , us , promote or resell non - genuine product , cisco may take one or more of the follow action , at cisco 's 
+ discretion : ( i ) invoice distributor , and the latter far agree to pay within [ ] of receipt of the invoice , for all reasonable cost associate 
+ with any audit and/or any investigation carry out by cisco or its independent accountant or investigator , that disclose a material breach by 
+ distributor of this section , and/or ( ii ) require distributor , [ ] of cisco 's request , to recall and destroy all non - genuine product that 
+ distributor have sell to reseller and replace such product with legitimate , equivalent product at distributor 's expense , ( iii ) require distributor , 
+ within [ ] of receive cisco 's write request , to provide cisco with all detail relate to distributor 's acquisition of all non - genuine 
+ product , include without limitation , its supplier , shipping detail and all buyer to whom distributor resold non - genuine product , and ( iv ) 
+ terminate this agreement by notice with immediate effect . 
+ 12.0 inventory balance . 
+ for a [ ] period , begin on the effective date of this agreement , distributor have the option to return to cisco , for credit , up to [ ] of 
+ the dollar value of product list on the value add distributor price list and ship to distributor in the precede cisco quarter , net of credit 
+ issue by cisco to distributor . [ ] cisco shall credit distributor 's account in the amount of the price pay by distributor for return product , 
+ less any price protection credit issue to distributor relate to the product return ( the " return credit " ) . each of the following requirement 
+ must be meet by distributor : 
+ 12.1 [ ] 
+ 12.2 distributor may submit the inventory balance claim between the first and [ ] calendar day of the following month : february , may , 
+ august , and november . 
+ 12.3 [ ] 
+ 12.4 distributor shall bear all shipping and handle charge to the cisco designate united states site for product return for credit; 
+ 12.5 distributor shall obtain an rma number prior to return any product to cisco . distributor shall follow cisco 's then - current rma process; 
+ and 
+ 12.6 distributor report must be provide to cisco in accordance with the requirement of sub- section 17.2 . 
+ [ ] 
+ 13.0 return of obsolete product 
+ 13.1 cisco will use commercially reasonable effort to notify distributor , include by electronic posting , when a product become an obsolete 
+ product . 
+ 13.2 provide distributor provide require report to cisco in accordance with section 17.0 of this agreement , distributor shall have the right to 
+ return obsolete product for full credit under cisco 's then - current rma process . [ ] 
+ 13.3 distributor must notify cisco of the quantity of obsolete product to be return to cisco within [ ] of notification of obsolescence by 
+ cisco . such right to return be contingent upon return by distributor of obsolete product within [ ] of such notification by cisco . such 
+ product must be in new and unused condition and in factory seal box . 
+ 13.4 [ ] 
+ 14.0 reserved 
+ 15.0 patent and copyright infringement . 
+ 15.1 cisco will have the obligation and right to defend any claim , action , suit or proceed ( " ipr claim " ) bring 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ against distributor , its officer , director , employee and agent ( " name party " ) so far as it be base on a claim that any product supply under 
+ this agreement infringe third party ipr ( as define below ) . cisco will indemnify name party and hold harmless against any final judgment 
+ enter in respect of such an ipr claim by a court of competent jurisdiction and against any settlement arise out of such an ipr claim . cisco 's 
+ obligation to defend the ipr claim and indemnify distributor be conditional upon : 
+ 15.1.1 distributor notify cisco promptly in writing of the ipr claim or threat thereof; 
+ distributor grant cisco full and exclusive authority for the conduct of the defense and settlement of the 15.1.2 ipr claim and any subsequent 
+ appeal; and 
+ 15.1.3 distributor provide cisco all information and assistance reasonably request by cisco in connection with the conduct of the defense and 
+ settlement of the ipr claim and any subsequent appeal . 
+ 15.2 for the purpose of this agreement , third party ipr mean a united states copyright exist as at the effective date , a united states patent 
+ issue as at the effective date , a trademark register in the united states as at the effective date , trade dress exist in the united states as at 
+ the effective date , or a claim that a product be manufacture by mean of misappropriation of a third party 's trade secret . 
+ 15.3 if an ipr claim have be make , or in cisco 's opinion be likely to be make , distributor agree to permit cisco , at its option and expense , either to : 
+ ( a ) procure for distributor the right to continue use the product; ( b ) replace or modify the product so that it become non - infringing; or ( c ) 
+ immediately terminate both party ' respective right and obligation under this agreement with regard to the product , in which case distributor 
+ will return the product to cisco and cisco will refund to distributor the price originally pay by distributor to cisco for the product , [ ] . 
+ 15.4 notwithstanding the foregoing , cisco have no liability for , and distributor will defend and indemnify cisco against , any ipr claim arise from : 
+ 15.4.1 the combination , operation , or use of a product supply under this agreement with any product , device , or software not supply by cisco; 
+ 15.4.2 the amount or duration of use which distributor , a reseller or an end user make of the product , revenue earn by distributor , a reseller or 
+ an end user from service it provide that use the product , or service offer by distributor , a reseller or an end user to external or internal 
+ customers; 
+ 15.4.3 the alteration or modification of any product supply under this agreement; 
+ 15.4.4 cisco 's compliance with distributor 's design , specification , or instructions; or 
+ 15.4.5 distributor 's use of the product after cisco have inform distributor of modification or change in the product require to avoid such an 
+ ipr claim if the allege infringement would have be avoid by implementation of cisco 's recommend modification or change . 
+ 15.5 this section state the entire obligation of cisco and its supplier , and the exclusive remedy of distributor , in respect of any infringement or 
+ allege infringement of any intellectual property right or proprietary right . this indemnity obligation and remedy be give to 
+ distributor solely for its benefit and in lieu of , and cisco disclaim , all warranty , condition and other term of 
+ non - infringement or title with respect to any product . 
+ 15.6 [ ] . 
+ 16.0 support . 
+ support shall be provide in accordance with exhibit b. distributor acknowledge that cisco will not be responsible for warranty service and 
+ support except as specifically provide in exhibit b or a cisco support program ( e.g. , smartnet ) . 
+ 17.0 report and record . 
+ 17.1 with regard to both distributor and affiliate ' activity , distributor shall keep full , true , and accurate record and account , in accordance with 
+ generally - accept accounting principle , of each product or service purchase and deploy , resold , or distribute by serial number , include 
+ information regard compliance with cisco marketing and sale program , software usage , and export or transfer . distributor shall make these 
+ record available for audit by cisco upon [ ] prior write notice , during regular business hour , at distributor 's principal place of business or 
+ such other of distributor 's location where distributor may maintain relevant record . [ ] . 
+ all report and relate obligation in this section 17 apply to not only datum regard distributor 's activity , but also 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ the activity of the affiliate . all such information shall be compile into one report unless otherwise direct herein . the report(s ) shall identify 
+ the specific distributor entity involve in the subject transaction . 
+ 17.2 reporting . [ ] 
+ 17.3 distributor agree to use commercially reasonable effort , commensurate with the manner in which distributor treat any of its other leading 
+ vendor , in order to facilitate cisco 's ability to obtain daily sale information from distributor via edi . 
+ 17.4 eccn number . upon request by distributor , cisco agree to make available to distributor the export control classification number ( eccn ) 
+ for each of cisco 's product and information as to whether or not any of such product be classify under the u.s . munition license . 
+ 17.5 unauthorized cisco product . distributor will not purchase product for resale to any reseller from any person or entity other than cisco , 
+ provide that distributor may accept return product from reseller if distributor initially sell the product to be return to such reseller . 
+ [ ] 
+ 18.0 term and termination . 
+ 18.1 this agreement shall commence on the effective date and continue thereafter for a period of two ( 2 ) year , unless extend by write 
+ agreement of both party or soon terminate as set forth below . without prejudice to either party 's right to terminate this agreement as set forth 
+ in sub​ section 18.2 to 18.5 below , cisco may , by write notice to distributor , give at least thirty ( 30 ) day prior to the end of the then - current 
+ term of the agreement , extend the term of the agreement for the period set forth in such notice , up to a maximum of one ( 1 ) year beyond the then- 
+ current expiration date . any extension shall be on the same term and condition then in force , except as may be mutually agree in writing by the 
+ party . in the event the agreement expire and cisco intend to not renew the agreement , cisco will provide write notice of same to distributor . 
+ notwithstanding cisco 's right to extend the term of this agreement , each party acknowledge that this agreement shall always be interpret as 
+ be limit in duration to a definite term and that the other party have make no commitment whatsoever regard the duration or renewal of this 
+ agreement beyond those expressly state herein . 
+ 18.2 termination for convenience . either party may terminate this agreement , without cause , by give the other party [ ] day prior write 
+ notice . notwithstanding the foregoing , cisco may terminate this agreement immediately upon write notice in the event of breach by distributor 
+ of section 9.0 ( proprietary right and software licensing ) , section 11.0 ( trademark ) , section 19.0 ( confidentiality ) or section 20.0 ( export 
+ restriction ) of this agreement . 
+ 18.3 a party may terminate this agreement immediately through write notice if ( i ) the other party cease to carry on business as a going concern; 
+ or ( ii ) the other party become or may become the object of the institution of voluntary or involuntary proceeding in bankruptcy or liquidation; or 
+ ( iii ) a receiver or similar officer be appoint with respect to the whole or a substantial part of the other party 's assets; or ( iv ) an event similar to any 
+ of the foregoing occur under applicable law . 
+ 18.4 cisco may terminate this agreement upon [ ] day ' write notice , in the event it becomes know that ( i ) distributor or an affiliate or 
+ distributor 's direct or indirect parent have acquire or intend to acquire a control interest in a third party that be a competitor of cisco , or ( ii ) 
+ distributor or its direct or indirect parent be to be acquire by a third party , or ( iii ) a control interest in distributor or its direct or indirect parent 
+ be to be transfer to a third party . 
+ 18.5 upon termination or expiration of this agreement , ( a ) cisco reserve the right to cease all further delivery of product or service due against 
+ any exist purchase order unless distributor agree to pay for such delivery in advance by certified or cashier 's check , ( b ) all outstanding 
+ invoice immediately become due and payable by certified or cashier 's check , and ( c ) all right and license of distributor hereunder shall 
+ terminate , subject to the term of the following sentence . except for a termination of this agreement result from distributor 's breach of section 
+ 9.0 ( proprietary right and software licensing ) or section 19.0(confidential information ) , upon termination or expiration of this agreement , 
+ distributor may continue to use , in accordance with the term and condition of this agreement , product ship to it by cisco prior to the date 
+ of termination or expiration . 
+ 18.6 upon termination or expiration of this agreement , distributor shall immediately return to cisco all confidential information ( include all 
+ copy thereof ) then in distributor 's possession , custody or control; provide , that except for a termination result from distributor 's breach of 
+ section 9.0 ( proprietary right and software licensing ) or section 19.0 ( confidential information ) , distributor may retain a sufficient amount of 
+ such confidential information and material 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ to support its instal base of product . 
+ 18.7 [ ] . 
+ 18.8 in the event of termination by cisco for convenience , termination by distributor for cisco 's material breach , or expiration of this agreement 
+ where cisco have provide distributor with write notice from an authorized representative of its intention not to renew the agreement , cisco 
+ agree to repurchase all product in distributor 's inventory within [ ] day follow the effective date of termination or expiration . within 
+ [ ] day follow the effective date of termination or expiration , distributor shall return to cisco all product hold in inventory as of the 
+ effective date of termination . distributor shall receive credit for any product so return in an amount equal to the original purchase price thereof , 
+ less any credit or discount which have be previously pay or apply to distributor . such credit shall be first apply to any uncontested 
+ amount due cisco . any remain balance shall be payable to distributor as soon as commercially practicable . cisco shall have the option to 
+ select the method of return and shall bear all freight cost associate with return of product by distributor under this section 18.8 . 
+ 18.9 in the event of termination by cisco for distributor 's material breach , or termination by distributor for convenience , cisco may , at its option , 
+ allow distributor to return unsold product , but cisco be in no way obligate to do so . in the case of authorized return of product by cisco under 
+ section 18.9 , distributor will bear all freight cost associate with return of product to cisco . 
+ 18.10 [ ] 
+ distributor shall obtain an rma number prior to return any product to cisco . distributor shall follow cisco 's then - current rma process . 
+ 18.11 distributor agree that , in the event of any termination of this agreement , it shall have no right to 
+ damage or indemnification of any nature , specifically include commercial severance pay , whether by way of 
+ loss of future profit , expenditure for promotion of any product , or other commitment in connection with 
+ the business and good will of distributor . distributor expressly waif and renounce any claim to 
+ compensation or indemnity for any termination of a business relationship . except as otherwise expressly set 
+ forth herein , this section shall in no way be interpret to release either cisco or distributor from any 
+ payment or financial obligation make prior to termination . 
+ 19.0 confidentiality . 
+ distributor acknowledge that , in the course of sell product and service and perform its duty under this agreement , distributor , its 
+ reseller , and end user to which distributor provide access to cisco technical datum ( include without limitation product , service , and 
+ technical datum make available on cisco connection online pursuant to exhibit c ) , may obtain information relate to product , service , or to 
+ cisco , which be of a confidential and proprietary nature ( " proprietary information " ) . such proprietary information include , but be not limit to , 
+ trade secret , know - how , invention , technique , process , program , schematic , software source document , datum , customer list , financial 
+ information and sale and marketing plan . 
+ cisco own and intend to maintain its ownership of all such proprietary information . [ ] distributor shall appropriately bind each of its 
+ employee to whom such disclosure be make , to hold the proprietary information in strict confidence and not to disclose such information to any 
+ person other than as be necessary in the course of its employment by distributor and will indemnify cisco for all damage suffer by cisco in the 
+ event of wrongful disclosure of such proprietary information . neither party shall disclose , advertise , or publish either the existence , the subject 
+ matter , any discussion relate to , or any of the term and condition , of this agreement ( or any summary of any of the forgoing ) to any third 
+ party without the prior write consent of the other party . any press release , publication , advertisement or public disclosure regard this 
+ agreement be subject to both the prior review and the write approval of both party . 
+ cisco acknowledge that , under this agreement , distributor may provide point of sale ( " pos " ) report , financial information , sale and marketing 
+ plan , distributor network design information and distributor list , of a proprietary and confidential nature ( " distributor confidential 
+ information " ) . such distributor information , exclude pos report and distributor list , shall be use by cisco only in connection with this 
+ agreement . [ ] cisco far agree to immediately return to distributor , at distributor 's request , all distributor confidential information in 
+ cisco 's possession , custody , or control upon termination of this agreement at any time and for any reason , except for pos report or distributor 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ list that cisco may use for internal business or end user support purpose or government - relate purpose . 
+ 20.0 export restriction . 
+ certain of the product supply by cisco under the agreement be subject to export control under the law and regulation of the united states 
+ ( u.s . ) and elsewhere . distributor shall comply with such law and regulation govern use , export , re - export , and transfer of product and will 
+ obtain all require u.s . and local authorization , permit , or license . 
+ 21.0 compliance with law . 
+ 21.1 distributor shall obtain all license , permit and approval require by any government , include any recycling or take - back program 
+ applicable to packaging or product , and shall comply with all applicable law , rule , regulation , policy and procedure and any requirement 
+ applicable to the importation , exportation , use , sale , loan , purchase , and distribution of product under telecommunication , consumer right 
+ relate , environmental , labor , tax , and any other law and regulation , of any government or other competent authority where the product be to 
+ be sell , use or deploy ( collectively " applicable law " ) . 
+ 21.2 distributor will indemnify and hold harmless cisco for any claim arise from or relate to distributor 's violation or allege violation of any 
+ applicable law . 
+ 21.3 distributor hereby represent and warrant that : ( a ) it shall comply with all applicable laws; ( b ) this agreement and each of its term be in 
+ full conformance and in compliance with such laws; and ( c ) it shall not take any action or permit or authorize any action which will render cisco 
+ liable for a violation of the u.s . foreign corrupt practice act , which prohibit the offering , give or promise to offer or give , directly or 
+ indirectly , money or anything of value to any official of a government , political party or instrumentality thereof in order to assist it or cisco in 
+ obtaining or retain business and ( i ) it will not violate or cause cisco to violate such act in connection with the sale or distribution of cisco 
+ product or services; and ( ii ) if distributor be a non - governmental entity , it will notify cisco in write if any of its owner , partner , principal , 
+ officer , and employee be or become during the term of this agreement official , officer or representative of any government , political party or 
+ candidate for political office outside the united states and be responsible for a decision regard obtain or retain business for cisco 
+ product by such government . cisco strive to maintain the high standard of business integrity and , accordingly , if distributor have any cause 
+ for concern regard any business practice these should be report to cisco at [ email address ] or by fax to [ fax number ] . 
+ 21.4 distributor shall use its good effort to regularly and continuously inform cisco of any requirement under any applicable law that directly 
+ or indirectly affect this agreement , the sale , use and distribution of product , or cisco 's trade name , trademark or other commercial , industrial or 
+ intellectual property interest , include , but not limit to , certification or type approval of the product from the proper authority in the 
+ territory . 
+ 22.0 limitation of liability . 
+ notwithstanding anything else in this agreement to the contrary , and except for liability arise out of 
+ distributor 's breach of section 9 ( proprietary right and software licensing ) or exhibit c ( software license 
+ agreement ) , or amount due for product and service purchase with respect to the payment of which no 
+ bona fide dispute exist , all liability of each party , include each party 's affiliate , officer , director , 
+ employee , agent and supplier collectively , for claim arise under this agreement or otherwise howsoever 
+ arising shall be limit separately for product and service purchase to the great of i ) [ ] or ( ll)the 
+ money pay to cisco for product or for service , separately and as applicable , under this agreement during the 
+ [ ] period precede the event or circumstance first give rise to such liability . these limitation of 
+ liability for product and service be cumulative and not per - incident ( i.e. , the existence of two or more claim 
+ will not enlarge this limit ) . 
+ 23.0 consequential damage waiver . 
+ except for liability arise out of or in connection with distributor 's breach of section 9 ( proprietary right 
+ and software licensing ) or exhibit c ( software license agreement ) , in no event shall either party , its respective 
+ affiliate , officer , director , employee , agent or supplier be liable for any special , incidental , 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ indirect or consequential damage , or lose revenue , lost profit , or lose or damaged datum , whether arise in 
+ contract , tort ( include negligence ) , or otherwise , even if such party have be inform of the possibility 
+ thereof . 
+ 24.0 general indemnification 
+ each party shall defend , indemnify and hold harmless the other , and their respective officer , director , employee , and agent from and against 
+ any and all claim , loss , liability , damage , and expense ( include , without limitation , reasonable attorney ' fee ) , include without limitation , 
+ those base on contract or tort , arise out of or in connection with a claim , suit or proceed bring by a third party base upon bodily injury 
+ ( include death ) or damage to tangible personal property ( not include lose or damaged datum ) arise from the negligent or intentional act or 
+ omission of the indemnify party or its subcontractor , or the officer , director , employee , agent , successor and assign of any of they . in 
+ the event that the indemnified party 's or a third party 's negligent or intentional act or omission contribute to cause the injury or damage for 
+ which a claim of indemnity be be assert against the indemnify party hereunder , the damage and expense ( include , without limitation , 
+ reasonable attorney ' fee ) shall be allocate or reallocate , as the case may be , between the indemnified party , the indemnify party and any 
+ other party bear responsibility in such proportion as appropriately reflect the relative fault of such party , or their subcontractor , or the 
+ officer , director , employee , agent , successor and assign of any of they , and the liability of the indemnify party shall be proportionately 
+ reduce . 
+ the foregoing indemnification obligation be condition upon the indemnified party promptly notify the indemnify party in writing of the 
+ claim , suit or proceed for which the indemnify party be obligate under this section 24 , cooperate with , assist and provide information 
+ to , the indemnify party as reasonably require , and grant the indemnify party the exclusive right to defend or settle such claim , suit or 
+ proceeding . 
+ 25.0 insurance 
+ ( a ) each party shall be responsible for maintain worker 's compensation insurance in the statutory amount require by the applicable state 
+ law . 
+ ( b ) each party shall maintain commercial general liability insurance with bodily injury and property damage limit of [ ] per occurrence and 
+ [ ] aggregate . such insurance shall ( a ) provide for contractual liability coverage , ( b ) provide for cross liability coverage , and ( c ) name the 
+ other party and its subcontractor , as well as the director , officer , employee , agent , successor and assign of all of they , as additional 
+ insured , but only to the extent of liability fall within the indemnity obligation of the other party pursuant to the term of section 24 in this 
+ agreement . 
+ 26.0 requirement for reseller 
+ 26.1 [ ] 
+ 26.2 [ ] 
+ 27.0 general provision . 
+ 27.1 choice of law . the validity , interpretation , and performance of this agreement shall be control by and construe under the law of the 
+ state of new york , united states of america , as if perform wholly within the state and without give effect to the principle of conflict of law , 
+ and the state and federal court of california shall have jurisdiction over any claim arise under this agreement . the party specifically disclaim 
+ the un convention on contract for the international sale of good . notwithstanding the foregoing , either party may seek interim injunctive relief 
+ in any court of appropriate jurisdiction with respect to any allege breach of such party 's intellectual property or proprietary right . 
+ 27.2 force majeure . except for the obligation to pay monie due and owing , neither party shall be liable for any delay or failure in performance due 
+ to event outside the default party 's reasonable control , include without limitation act of god , earthquake , labor dispute , industry wide 
+ shortage of supply , action of governmental entity , riot , war , act of terrorism , fire , epidemic , or delay of common carrier or other 
+ circumstance beyond its reasonable control . the obligation and right of the default party shall be extend for a period equal to the period 
+ during which such event prevent such party 's performance . 
+ 27.3 no waiver . the waiver by either party of any right provide under this agreement shall 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ not constitute a subsequent or continue waiver of such right or of any other right under this agreement . 
+ 27.4 assignment . distributor may not assign or delegate its right or obligation under this agreement ( other than ( i ) the right to receive any 
+ amount due , which shall be freely assignable , or ( ii ) to distributor 's parent or majority - own subsidiary company of sufficient net worth to meet 
+ any potential liability under this agreement ) without the prior write consent of cisco , such consent not to be unreasonably withhold or delay , 
+ provide that any such assignment shall not relieve distributor of any obligation to pay monie that be owe cisco prior to the date of the 
+ assignment . 
+ 27.5 severability . in the event that one or more term of this agreement become or be declare to be illegal or otherwise unenforceable by any 
+ court of competent jurisdiction , each such term shall be null and void and shall be deem delete from this agreement . all remain term of this 
+ agreement shall remain in full force and effect . notwithstanding the foregoing , if this paragraph be invoke and , as a result , the value of this 
+ agreement be materially impaired for either party , as determine by such party in its sole discretion , then the affected party may terminate this 
+ agreement by write notice with immediate effect to the other . 
+ 27.6 attorney ' fee . in any suit or proceeding relate to this agreement the prevail party will have the right to recover from the other its cost 
+ and reasonable fee and expense of attorney incur in connection with the suit or proceeding , include cost , fee and expense upon appeal , 
+ separately from and in addition to any other amount include in such judgment . this provision be intend to be severable from the other 
+ provision of this agreement , and shall survive expiration or termination and shall not be merge into any such judgment 
+ 27.7 no agency . this agreement do not create any agency , partnership , joint venture , or franchise relationship . no employee of either party 
+ shall be or become , or shall be deem to be or become , an employee of the other party by virtue of the existence or implementation of this 
+ agreement . each party hereto be an independent contractor . neither party have the right or authority to , and shall not , assume or create any 
+ obligation of any nature whatsoever on behalf of the other party or bind the other party in any respect whatsoever . 
+ 27.8 notice . all notice require or permit under this agreement will be in writing and will be deem give one ( 1 ) day after deposit with a 
+ commercial express courier specify next day delivery ( or two ( 2 ) day for international courier package specify 2 - day delivery ) , with write 
+ verification of receipt . all communication will be send to the address set forth on the cover sheet of this agreement or such other address as 
+ may be designate by a party by give write notice to the other party pursuant to this paragraph . notwithstanding the foregoing , notice 
+ regard general change in product status , pricing , policy , financial transaction or program may also be make by post on cisco.com or 
+ delivery by e - mail or fax , as applicable . cisco shall use commercially reasonable effort to provide distributor [ ] notice when introduce new 
+ program or product or modify product pricing . any notice regard discontinuation of product shall be pursuant to cisco 's then - current end 
+ of life policy , as find at http://www.cisco.com/en/us/products/product end - of - life policy.html . a current copy of this policy , as of the effective 
+ date of this agreement , be attach hereto as exhibit g. [ ] . 
+ 27.9 non - exclusive market and purchase right . it be expressly understand and agree that this agreement do not grant to cisco or distributor 
+ an exclusive right to purchase or sell product and shall not prevent either party from develop or acquire or sell compete product of 
+ other vendor or customer . 
+ 27.10 survival . section 6.0 ( payment ) , 10.0 ( limited warranty ) , 19.0 ( confidential information ) , 15.0 ( patent and copyright infringement ) , 18 ( term 
+ and termination ) , 17.0 ( report and record ) , 20.0 ( export restriction ) , 22.0 ( limitation of liability ) , 23.0 ( consequential damage waiver ) , 27.0 
+ ( general ) and the license to use the software set out in exhibit c ( software license agreement ) ( subject to the termination provision set forth in 
+ section 18.0 ) shall survive the termination of this agreement . 
+ 27.11 counterpart . this agreement may be execute in two counterpart , each of which shall be deem an original and together which shall 
+ constitute one and the same instrument . a validly execute counterpart that be deliver by 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ one party to the other via electronic transmission ( a " counterpart image " ) shall be valid and bind to the same extent as one deliver physically , 
+ provide that the valid signature be clearly visible in the counterpart image . in the event that a party deliver a counterpart image in place of an 
+ originally - execute counterpart , such party shall retain the originally - execute counterpart in its file for at least the duration of the term hereof . 
+ 27.12 heading . heading of section have be add solely for convenience of reference and shall not be deem part of this agreement . 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ exhibit a 
+ territory 
+ territory : the united states , exclude its territory . 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ exhibit b 
+ value add distributor support exhibit 
+ 1.0 definition . 
+ capitalize term use in this exhibit b have the meaning assign to those term in section 1.0 of the nonexclusive value add distributor 
+ agreement term and condition . additional capitalize term and the definition assign to those term in this exhibit b follow : 
+ cco mean cisco connection online , cisco 's online information web server . 
+ customer mean end user and reseller . 
+ standard business hour mean 6:00 am to 6:00 pm pacific standard time monday through friday , exclude cisco - observe holiday , in the 
+ u.s . and canada and outside the u.s . and canada , mean 8:00 am to 6:00 pm australia 's eastern standard time and central european time , 
+ monday through friday , exclude local cisco - observe holiday . 
+ tac mean cisco 's technical assistance center . 
+ 2.0 cisco right and obligation . 
+ for product purchase under the agreement , cisco provide the service describe below . [ ] 
+ 2.1 cco access . cisco will provide distributor with partner - level access to cco . 
+ 2.2 technical support . [ ] . 
+ 2.3 update . [ ] . 
+ 2.4 hardware support . 
+ 2.4.1 return for replacement . during the cisco warranty period , distributor may return fail product to cisco for replacement . cisco will use 
+ commercially reasonable effort to ship a replacement within [ ] day after receipt of the fail product from distributor . after the end of 
+ the warranty period , part will be charge at cisco 's then - current rate . 
+ 2.4.2 distributor may request advance replacement delivery of replacement part ( cisco will send the part upon distributor 's receipt of an 
+ rma number ) at cisco 's then - current advance replacement charge . 
+ 2.4.3 product use for replacement may be new or equivalent to new , at cisco 's discretion . 
+ 2.5 cisco brand service option . 
+ cisco will make available for purchase by distributor , all appropriate cisco brand support product for distributor 's internal use and for resale 
+ to reseller . this option to resell cisco brand service whereby service be deliver directly by cisco to the end user be available in accordance 
+ with cisco 's then - current package service resale program . availability of cisco brand service be subject to geographic limitation . information on 
+ where such service be available for resale , as well as the process for resell cisco brand service be locate at 
+ " http://www.cisco.com/warp/cproreg/45/index.html " . 
+ 3.0 distributor right and obligation . 
+ 3.1 prioritization and escalation guideline . distributor will escalate problem to cisco pursuant to the escalation and prioritization guideline 
+ ( appendix a ) . 
+ 3.2 spare part . distributor shall maintain sufficient spare part inventory to support its customer base for a one - month period under normal 
+ circumstance . distributor shall maintain adequate manpower and facility to assure prompt handling of inquiry , order and shipment for 
+ product . 
+ 3.3 warranty service . distributor shall provide to its reseller , [ ] all warranty service for a minimum 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ of the warranty period set forth in the publish product warranty provide with the original product . such warranty shall commence upon 
+ shipment to the end user . warranty service will consist of software and hardware replacement service as follow : 
+ 3.3.1 software service . distributor will use reasonable effort to provide work​ around solution or implement a cisco - provide patch . 
+ distributor will use reasonable effort to make late release of all cisco software available to its reseller . 
+ 3.3.2 hardware advance replacement . distributor will ship replacement part and/or product to its reseller in accordance with cisco 's then- 
+ current publish product warranty applicable to the particular product . 
+ 3.4 return coordination . distributor will comply with the following : 
+ 3.4.1 distributor shall coordinate the return of all fail part and/or product , freight and insurance prepay , to the cisco repair center specify 
+ by cisco . 
+ 3.4.2 distributor shall comply with the follow rma procedure : 
+ 3.4.2.1 distributor will ensure all product be properly package prior to be ship , and will include a write description of the failure and 
+ specification of any change or alteration make to the product . product return to cisco will conform in quantity and serial number to the rma 
+ request . 
+ 3.4.2.2 distributor shall tag each product return with the rma transaction number and a brief description of the problem . 
+ 3.4.2.3 cisco will not accept any product return which be not accompany by an rma number . 
+ 3.4.3 title and risk of loss to fail product and part transfer to cisco upon delivery to the cisco repair center specify by cisco . 
+ 3.5 reseller support . distributor will ensure reseller have all appropriate support as follow : 
+ 3.5.1 distributor shall provide competent technical support staff to support the product so as to ensure that the reseller be able to provide the 
+ necessary support to the end user reseller . 
+ 3.5.2 reseller frontline support . distributor will use good effort to ensure that its reseller provide high quality front - line support . 
+ 3.5.3 [ ] cisco be not responsible for any claim arise from failure by distributor 's reseller to provide this support . 
+ 3.5.4 resale of cisco brand service . where available , distributor will offer for purchase by its reseller , all appropriate cisco brand support 
+ product through its normal product availability process . 
+ 4.0 service not cover under this exhibit . 
+ 4.1 new release or major release for software . 
+ 4.2 customization of exist software for non - standard application . 
+ 4.3 support or replacement of product that be alter , modify , mishandle , destroy or damage by natural cause or damage during 
+ unauthorized use . 
+ 4.4 software problem result from third party equipment or cause beyond cisco 's control . 
+ 4.5 any hardware upgrade of product require to accept update . 
+ 5.0 termination . 
+ upon expiration or termination of the agreement , ( a ) all right and license of distributor under this support exhibit shall terminate , ( b ) 
+ distributor shall immediately discontinue all representation that distributor 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ provide maintenance service for cisco product , and ( c ) distributor access to cco shall terminate . 
+ 6.0 software license . 
+ distributor acknowledge that it may receive software as a result of service provide under this agreement . distributor agree that it be 
+ license to distribute such software only on product cover under the service and subject to the term and condition of this agreement and 
+ the software license grant with the original acquisition . except as otherwise specify in this exhibit , distributor shall not copy , in whole or 
+ in part , software or documentation; modify the software , reverse compile or reverse assemble all or any portion of the software; or rent , lease , 
+ distribute , sell , or create derivative work of the software . 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ appendix 1 
+ cisco problem prioritization and escalation guideline 
+ to ensure that all problem be report in a standard format , cisco have establish the following problem priority definition . these definition 
+ will assist cisco in allocate the appropriate resource to resolve problem . distributor must assign a priority to all problem submit to cisco . 
+ [ ] 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ exhibit d 
+ scansource freight policy 
+ to : all supplier 
+ subject : rout instruction 
+ in order to mm1m1ze inbound transportation cost , and to maximize control over transit time , tracing , and expediting , this rout guide have be 
+ issue . these instruction supercede all previous shipping instruction and be to be retain for ready reference . 
+ for shipment of catalyst telecom and paracon product : contact : 
+ melinda hamilton , receive supervisor 
+ phone : ( 800 ) 854 - 9570 ext . 8187 
+ fax : ( 901 ) 369 - 7876 
+ email : melinda.hamiltonpartnerservicesinc.com 
+ ship to address : 
+ scansource , inc . 
+ 4020 quest way , ste . 114 
+ memphis , tn . 38115 
+ receive hour : 7:00 am - 2:00 pm 
+ for shipment of scansource and scansource security product : contact : 
+ deborah lucas , receive manager 
+ phone : ( 800 ) 854 - 9570 ext . 8111 
+ fax : ( 901 ) 367 - 0666 
+ email : deborah.lucaspartnerservicesinc.com 
+ ship to address : 
+ scansource , inc . 
+ 4100 quest way 
+ memphis , tn . 38115 
+ receive hour 7:00 am - 12:00 pm ( noon ) 
+ note : a pack slip / manifest must be include with each shipment . it should include : 
+ a ) 
+ a listing of product and quantity ship 
+ b ) 
+ purchase order number ( this must also show on the bill of lading ) 
+ c ) 
+ date ship 
+ d ) 
+ name of carrier 
+ e ) 
+ tracking or pro number 
+ please comply with the follow instruction when transportation be our responsibility : 
+ 1 . 
+ all freight charge assign to scansource must be ship " freight collect " . for up shipment ship " bill recipient " . 
+ please consolidate all of one day 's shipment on one bill of lading . 
+ exception will be charge back . cisco may accomplish this by leverage an order group process and set up internal tool accordingly . og 
+ will only be available for ltl or tl carrier . in order to support og , scansource must include a ltl and tl carrier in their rout config in src 
+ tool . if combined shipment do not meet the minimum requirement to ship ltl or tl ( i.e. number piece , min weight ) then no grouping will be do . 
+ 2 . 
+ do not insure shipment or declare value for carriage . 
+ 3 . 
+ each bill of lading must display the total number of carton in the shipment , 
+ i.e. 24 carton on 1 pallet . bill of lading must be fill out completely . please accurately describe product with the appropriate nmfc code . if you 
+ do not have the nmfc information available , ask the carrier to identify it for you . 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ 4 . 
+ indicate our purchase order number and number of box on all container and shipping document . 
+ 5 . 
+ all pallet must be standard 40 " wide x 48 " long four way pallet . primary fork entry from the 40 " end . 
+ 6 . 
+ banding must be plastic , no metal . 
+ 7 . 
+ stack height on pallet be 48 " maximum . 
+ all freight bill be audit , and any premium transportation charge incur because these instruction have not be follow will be charge to 
+ cisco . the charge will be base on the actual premium pay . scansource agree to provide cisco with advance notice in the event such a charge 
+ become necessary . cisco will have the opportunity to validate any such charge prior to actually incur same . 
+ if pickup service , via the carrier show below , be not available in your area or if you have any other question concern this guide , please contact 
+ the scansource traffic department at ( 901 ) 362 - 0421 , bob balsano . your cooperation in follow this program be appreciate . 
+ standard surface transportation 
+ i. 
+ shipment , not individual carton , weigh less than 250 lbs . and meet the weight and size restriction , must be ship by 
+ united parcel service . 
+ ii . 
+ approve motor carrier for all ltl shipment from the state show below be list . 
+ carrier servicing 
+ fedex freight east 
+ toll free number for pickup ( 800 ) 874 - 4723 
+ -alabama 
+ -arkansa 
+ -georgia 
+ -illinoi 
+ -indiana 
+ -kentucky 
+ -louisiana 
+ -minnesota 
+ -mississippi 
+ -missouri 
+ -new jersey 
+ -north carolina 
+ -oklahoma 
+ -south carolina 
+ -tennessee 
+ -texas 
+ -virginia 
+ -west virginia 
+ -wisconsin 
+ con - way : 
+ arizona 
+ california 
+ colorado 
+ oregon 
+ washington 
+ all remain state 
+ yellow freight 
+ toll free ( 800 ) 610 - 6500 
+ premium routing 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ scansource purchasing or traffic department must authorize use of premium freight ( air , special truck , truckload ) in advance . all premium 
+ shipment must state the total number of carton in the shipment and the correct dimension of each carton . 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ exhibit e 
+ affiliate list 
+ the follow entity be either business unit of distributor or be wholly - own subsidiary of distributor . for the purpose of this agreement , 
+ and as set forth in section 1 ( " definition " ) , all such entity list below shall be refer to herein as " affiliate(s ) . " 
+ 1 . 
+ scansource , inc . 
+ 2 . 
+ scansource , inc . d / b / a catalyst telecom 
+ 3 . 
+ scansource , inc . d / b / a paracon 
+ 4 . 
+ scansource security distribution , inc . 
+ 5 . 
+ t2 supply , inc . 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ exhibit f 
+ software transfer and relicense policy 
+ september 15 , 2000 
+ this document set forth cisco 's policy with respect to the transferability of any cisco software ( " software " ) . a transfer occur when : ( 1 ) the 
+ original or authorize subsequent licensee try to convey or reassign its right to use the software to another entity , or ( 2 ) the original lessor of 
+ cisco use hardware ( include bundle software ) ( " hardware " ) try to reassign the original lessee 's right to use the software to another lessee , 
+ or the lessor try to convey or reassign its right to lease the hardware and software bundle to another lessor . a rental would be treat the same 
+ as the lease situation as describe in item 2 above . 
+ this policy apply to all software whether standalone or embed . standalone software be software which be not require to operate the 
+ hardware upon which it reside ( i.e. , icsg software such as call center , unified messaging , network management software ) . embed software be 
+ software which be incorporate into the hardware and be require for its operation ( i.e. , operate system software , certain feature of io ) . 
+ policy : 
+ cisco 's policy be that software , whether standalone or embed , be not transferable , except where a list exception below applie , and except , of 
+ course , where cisco 's contract expressly allow it . any other transfer will require the payment of a new license fee ( see global price list ) . for 
+ product where there be no separate line item for the software ( i.e. the price for both the hardware and software be bundle ) , and therefore , a fee 
+ can not be determine , an exception will be make to allow for the transfer without the customer be require to obtain a new license ( the customer 
+ may be require to pay an inspection fee ) , if ( a ) software to be transfer ( i ) will be under a support contract provide by either cisco or a cisco​‐ 
+ authorize support partner or ( ii ) be still support by cisco; or ( b ) approval from the theatre sale controller have be obtain . 
+ use of the software will be govern by either the original license term and condition in place between cisco and the original software licensee 
+ or by the new license between cisco and the new user . cisco may withhold its consent to any transfer not conform to this policy . 
+ license fee : 
+ the license fee be generally the same amount as the fee charge for a new license or a portion of the fee of a new license , unless otherwise note 
+ on the global price list . 
+ it be the obligation of the transferor to obtain cisco 's consent and/or a new license before the transfer occur . 
+ exception : 
+ provide the condition of transfer be meet as set forth below , the follow exception apply to the prohibition against transfer without write 
+ approval and payment of the applicable fee . these exception may be overridden by express term in an applicable licensing agreement govern 
+ the transferability of special license software ( special license software be the term now use in our template to refer to icsg product ) 
+ affiliate : an entity may transfer its right to use a certain piece of software to its affiliate . an affiliate be another entity where at least 50.1 of its 
+ voting power be own or control by the transferring entity or where as least 50.1 of the transferring entity 's voting power be own or 
+ control by the transferee . 
+ merger or acquisition : an entity may transfer its right to use a certain piece of software to the purchaser of all or substantially all of the capital 
+ stock of the transferor or all or substantially all of the asset of that portion of the transferor 's business to which those license pertain . 
+ lease : in a leasing situation where the original lessee / customer would like to buy out the equipment from the lease company during or at the end 
+ of the lease term , the original lessee / customer may retain the license without pay a new license fee , provide lease company give cisco 
+ prior write notice . also , if the original lessee / customer default under the lease and the lease company take the equipment back before the 
+ end of the lease term , the lease company may transfer the license to the another lessee for the remainder of the original lease term , without 
+ pay cisco a license fee , upon 30 day ' prior write notice to cisco , or as soon as practicable if the equipment be re - lease before such 30- day 
+ period . if the new lease term be in 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ excess of the original lease term , the lease company be expect to pay cisco a new license fee on or before the expiration date of the original 
+ lease term . [ note : in the situation where a lease company lease cisco equipment to customer a for a specified term and at the end of the lease 
+ term , the lease company desire to lease the same equipment to customer b , lease company may not transfer the license without obtain a 
+ new license from cisco . ) ] . 
+ outsource : customer desire to outsource the operation , support and maintenance of its network to a third party ( e.g. ed ) ( " third - party service 
+ provider " ) , for the benefit of that customer . as part of the outsourcing , customer transfer all of its right , title and interest to the asset , include 
+ certain cisco product and software license , to the third - party service provider . customer may transfer the license to the third - party service 
+ provider solely for the purpose of provide service to customer upon 30 day ' prior write notice to cisco . 
+ all notice should be send to sw-licensecisco.com or as indicate in the agreement between cisco and the customer or transferor , if any . 
+ condition of transfer : 
+ transfer , in any event , shall only be allow under the following condition : 
+ ◦ 
+ the party involve in the transfer be not in breach of the agreement govern the use of the software or any other agreement 
+ with cisco; 
+ ◦ 
+ any additional service or charge incur by cisco as the result of any transfer shall be bear by the transferor and transferee; 
+ and 
+ ◦ 
+ the party involve in the transfer shall provide write prior notice of a permit transfer to cisco and the transferee shall , in a 
+ writing to cisco , ( i ) assume all of the obligation of the transferor , and ( ii ) agree that transferee 's use of the software shall be 
+ govern by the term of the then - current license agreement between cisco and transferor or , at cisco 's sole discretion , by the 
+ term of cisco 's then - current standard license agreement . 
+ question ? 
+ any question or comment regard this policy should be send to sw-licensecisco.com . 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ exhibit g 
+ cisco end of life policy 
+ product reach the end of their product life cycle for a number of reason . these reason may be due to market demand , technology innovation 
+ and development drive change in the product , or the product simply mature over time and be replace by functionally rich technology . 
+ while this be an established part of the overall product life cycle , cisco system recognize that end - of - life milestone often prompt company to 
+ review the way in which such end - of - sale and end - of - life milestone impact the cisco product in their network . with that in mind , we have set 
+ out below cisco 's end - of - life policy to help customer well manage their end - of - life transition and to understand the role that cisco can play in 
+ help to migrate to alternative cisco platform and technology . 
+ the end of life policy only apply to end of life and end of sale announcement make in all theater on or after november 30 , 2002 for all cisco 
+ product line . the policy do not apply to product that be already subject to an end of life and/or end of sale announcement . 
+ the general policy guideline be : 
+ 1 . 
+ as a general rule , cisco will provide 6 month ' notice of the affected product 's end - of - sale date and/or the last day when the affected 
+ product can be order . this notice will appear on cisco.com site ( http://www.cisco.com/en/us/products/prod_end_of_life.html ) and we 
+ encourage you to visit this site regularly as it contain useful information regard cisco 's end - of - life program . sign up to receive 
+ notification here : http://www.cisco.com/pcgi-bin/support/fieldnoticetool/field-notice 
+ 2 . 
+ access to cisco 's technical assistance center ( tac ) will be available 24 hour a day , seven day a week for a period of 5 year from the 
+ end - of - sale date for hardware and operating system software issue and for a period of 3 year from the end - of - sale date for application 
+ software issue . 
+ 3 . 
+ spare or replacement part for hardware will be available for a period of 5 year from the end - of​ sale date . we will provide spare and 
+ replacement part in accordance with our return material authorization ( rma ) process . 
+ 4 . 
+ software support will be as follow 
+ a. 
+ for the first year follow the end - of - sale date , we will provide bug fix , maintenance release , workaround , or patch for 
+ critical bug report via the tac or cisco.com web site . 
+ b. 
+ after the first year and for operating system sw -where available- we will provide bug fix , maintenance release , workaround 
+ or patch for a period of 4 year for operating system software . bear in mind that it may be necessary to use software upgrade 
+ release to correct a report problem . 
+ c. 
+ after the first year and for application sw -where available - we will provide bug fix , maintenance release , workaround or 
+ patch for a period of 2 year for application software . bear in mind that it may be necessary to use software upgrade release to 
+ correct a report problem . 
+ 5 . 
+ you will need to ensure that you have a current and fully pay support contract with cisco . please contact your support account 
+ manager regard fee payable during the end - of - life period so that we can support you right through the end - of - life transition period . 
+ 6 . 
+ below be guideline that should be follow to ensure that you receive effective support for the affected product within your network : 
+ a. 
+ for hardware or software that be not cover under a service contract , customer may add the product(s ) to a current contract or 
+ purchase a new contract until 12 month after the end - of - sale date . 
+ b. 
+ service contract that have not be renew or have lapse after 12 month of end - of​ sale date be not re - newable . 
+ c. 
+ renewal of your service contract will generally be available until the last year of support , but will not extend 
+ source : scansource , inc . , 10 - k , 8/22/2019 
+ exhibit 10.38 
+ beyond the last date of support . 
+ the end - of - life milestone and cisco commitment be present in table 1 . 
+ table 1 . standard guideline for end - of - life milestone 
+ milestone 
+ - 6 mos 
+ day 0 
+ 1 year 
+ 2 year 
+ 3 year 
+ 4 year 
+ 5 year 
+ end - of - sale 
+ date 
+ end - of - sale notice period 
+ operating system software maintenance 
+ support 
+ see 4(a ) 
+ see 4(b ) 
+ above 
+ add or attach new service contract 
+ renew service contract - for hw & 
+ operating system sw 
+ hardware repair or replacement 
+ customer service and support of hw & 
+ operating system sw ( tac access & 
+ support ) 
+ application software maintenance support 
+ see 4(a ) 
+ see 4(c ) 
+ above 
+ renew service contract - for application 
+ sw 
+ here be an explanation of some of the term that we have use in this notice : 
+ end of product life cycle : a process that guide the final business operation associate with the product life cycle . the end - of - life process 
+ consist of a series of technical and business milestone and activity that , once complete , make a product obsolete . once obsolete , the product 
+ be not sell , manufacture , improve , repair , maintain , or support . 
+ end - of - sale date : the last date to order the product through cisco point - of - sale mechanism . the product be no long for sale . 
+ hardware : the physical product and its physical component . 
+ operating system software : cisco operating system software that run on cisco hardware application software : cisco software that require the 
+ presence of some non - cisco operating system software . 
+ software maintenance support : the time period that cisco may release any software maintenance release or bug fix to the software product . 
+ after this date , cisco engineering will no long develop , repair , maintain , or test the product software . 
+ source : scansource , inc . , 10 - k , 8/22/2019

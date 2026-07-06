@@ -1,0 +1,1223 @@
+exhibit   99.1 
+
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " "  
+ mobile   virtual   network   enabler 
+ host   agreement 
+ between 
+ t - mobile   netherlands   b.v . 
+ & 
+ elephant   talk   communication   hold   ag 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ table   of   content 
+ 1 . 
+ definition 
+ 2 . 
+ purpose   and   scope   of   the   agreement 
+ 3 . 
+ host   service 
+ 4 . 
+ implementation 
+ 5 . 
+ forecast   &   commitment 
+ 6 . 
+ service   level 
+ 7 . 
+ datum   protection   &   privacy 
+ 8 . 
+ the   co - operation   relationship 
+ 9 . 
+ price ,   charge ,   billing   &   accounting 
+ 10 . 
+ customer   care   support 
+ 11 . 
+ confidentiality 
+ 12 . 
+ limitation   of   liability 
+ 13 . 
+ suspension   and   termination   of   host   service 
+ 14 . 
+ force   majeure 
+ 15 . 
+ intellectual   property   right 
+ 16 . 
+ sim   card   and   call   credit 
+ 17 . 
+ duration   of   the   agreement 
+ 18 . 
+ termination   of   the   agreement 
+ 19 . 
+ modification 
+ 20 . 
+ miscellaneous 
+ 21 . 
+ governing   law 
+ 22 . 
+ dispute   resolution 
+ 23 . 
+ counterpart 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ mobile   virtualnetwork   enabler   host   agreement 
+ by   and   between   elephant   talk   and   t - mobile 
+ ( t - mobile   host   elephant   talk ) 
+ this   agreement   be   make   between 
+ " elephant   talk   communication   hold   ag " ,   a   company   incorporate   under   the   law   of   switzerland ,   have   its   register   office   at   baarerstrasse 
+ 135 ,   ch-6301   zug ,   switzerland ,   legally   and   duly   represent   by   its   chief   executive   officer   steven   van   der   velden   and   its   chief   operation   officer 
+ and   chief   technology   officer   martin   zuurbier ,   hereinafter   refer   to   as :   " elephant   talk " 
+ and 
+ t - mobile   netherlands   b.v . ,   a   company   incorporate   under   the   law   of   the   netherlands ,   have   its   register   office   at   the   waldorpstraat   60 ,   2521 
+ cc   den   haag ,   the   netherlands ,   legally   and   duly   represent   by   its   manage   director   niek   jan   van   damme   and   its   marketing   director ,   bart 
+ weijermar ,   hereinafter   refer   to   as :   " t - mobile " 
+ each   individually   refer   to   as   " party "   and   together   as   " party " . 
+
+ whereas : 
+ 1 . 
+ elephant   talk   wish   to   become   a   full   mobile   virtual   network   enabler   ( hereinafter :   " mvne " )   provide   mobile   telecommunication 
+ service   to   legal   entity   partnering   with   elephant   talk   to   offer   mobile   service   in   an   ( enhance )   service   provider   model   use   the   t- 
+ mobile   network   and   the   by   t - mobile   provide   wholesale   mobile   network   services;   
+
+ 2 . 
+ t - mobile   be   a   license   dutch   mobile   telecommunication   and   service   provider   operate   inter   alia   its   own   gsm   and   umt / hsdpa 
+ mobile   network   in   the   netherlands   with   related   basic   service   and   offer   wholesale   and   retail   mobile   network   service   and   associate 
+ service   on   the   dutch   market; 
+
+ 3 . 
+   and   elephant   talk   have   conduct   preliminary   discussion   and   negotiation   lead   to   an   initial   understanding   on   the   basic 
+ business   principle   of   an   envisage   co - operation   between    and   elephant   talk ,   which   have   be   lay   down   in   head   of   agreement 
+ between    and   elephant   talk   ; 
+
+ 4 . 
+ ;  
+
+ 5 . 
+ in   answer   to   the   proposal   of    and   the   addition   to   this   proposal   by   t - mobile ,   elephant   talk   have   confirm   by   letter   date 
+ november   30 ,   2007   that   it   agree   to   be   directly   implement   on   the   t - mobile   network   in   order   to    the   t - mobile   network;  
+
+ 6 . 
+ elephant   talk   therefore   wish   to   obtain   from   t - mobile   wholesale   mobile   network   service   and   associate   service   and   t - mobile   be 
+ willing   to   offer   elephant   talk   such   services;  
+
+ 7 . 
+ follow   the   signing   of   the   aforementione   head   of   agreement   between    and   elephant   talk ,   party   have   continue   their 
+ discussion   and   negotiation   with   regard   to   their   envisage   co - operation   and   have   reach   agreement   on   the   term   and   condition   in   that 
+ respect ,   which   be   lay   down   in   this   agreement;  
+
+ now ,   therefore ,   the   party   have   agree   as   follow : 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 1 .  
+ definition 
+
+ for   the   purpose   of   this   agreement ,   the   follow   word   and   phrase   shall   have   the   meaning   set   forth   in   their   respective   definition ,   unless   a 
+ different   meaning   be   call   for   in   the   context   of   another   provision   in   this   agreement : 
+ 1.1  
+
+ " affiliate   company "   of   a   party   shall   mean   any   other   legal   entity : 
+ ·    directly   or   indirectly   own   or   control   the   party   ( mother   company ) ,   or 
+
+ · under   the   direct   or   indirect   ownership   or   control   of   the   same   legal   entity   ( mother   company )   directly   or   indirectly   own   or   control 
+ the   party ,   or 
+
+ · directly   or   indirectly   own   or   control   by   the   party ,   for   as   long   as   such   ownership   or   control   last . 
+ " ownership "   or   " control "   shall   exist   through   the   direct   or   indirect   ownership   of   more   than   fifty   ( 50 )   percent   of   the   nominal   value   of   the 
+ issue   equity   share   capital   or   of   more   than   fifty   ( 50 )   percent   of   the   share   entitle   the   holder   to   vote   for   the   election   of   director   or 
+ person   perform   similar   function . 
+ 1.2 
+ " agreement "   shall   mean   the   mobile   virtual   network   enabler(mvne )   host   agreement   together   with   the   appendix   attach   to   this 
+ mvne   host   agreement . 
+
+ 1.3 
+ " appendix "   and   " appendix "   shall   mean   the   appendix   or   appendix   attach   to   this   agreement . 
+ 1.4 
+ " business   day "   shall   mean   any   day   other   than   saturday ,   sunday   and   dutch   generally   recognize   public   holiday . 
+ 1.5 
+ " calendar   day "   shall   mean   any   day   include   saturday ,   sunday   and   dutch   generally   recognize   public   holiday . 
+ 1.6 
+ " cdr "   shall   mean   call   detail   record . 
+ 1.7 
+ " commercial   launch   date "   shall   mean   the   date   on   which   elephant   talk   commercially   launch   the   host   service   and   start 
+ provide   the   elephant   talk   service   commercially   to   elephant   talk   customer   in   the   dutch   market   ( not   be   the   soft   launch ) . 
+ the   commercial   launch   date   shall   not   be   later   than   six   ( 6 )   week   after   the   ready   for   service   date . 
+ 1.8 
+ " date   of   the   agreement "   shall   mean   the   date   on   which   both   party   have   sign   the   agreement   by   their   duly   authorize   representative 
+ or ,   if   the   party   sign   this   agreement   on   different   date ,   the   later   date   be   the   date   the   agreement   come   fully   into   effect . 
+ 1.9 
+ " elephant   talk   customer "   shall   mean   any   company   or   legal   entity   partner   with   elephant   talk ,   which   wish   to   offer   mobile 
+ service   in   a   mvno / esp / sp   model   use   the   t - mobile   network   and   the   by   t - mobile   provide   host   service   under   the   term   and 
+ condition   as   mention   in   this   agreement .   elephant   talk   customer   might   include   the   mobile   end - user   of   elephant   talk 
+ customer ,   subject   to   the   interpretation   of   the   specific   provision . 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 1.10 
+ " elephant   talk   infrastructure "   shall   mean   the   entire   ( current   and   future )   server   and   system   of   elephant   talk ,   include   the 
+ physical   or   logical   link   to   the   nap ,   as   describe   in   appendix   11 . 
+ 1.11 
+ " elephant   talk   wholesale   service "   shall   mean   the   mobile   telecommunication   service   provide   by   elephant   talk   to   the 
+ elephant   talk   customer ,   offer   service   in   a   mvno / esp / sp   model ,   base   on   the   host   service   via   the   t - mobile   network   and 
+ the   network   of   the   t - mobile   roam   partner . 
+ 1.12 
+ " gsm   association   permanent   reference   document "   shall   mean   the   document   that   be   establish ,   recognize   and   classify   as   bind 
+ by   the   gsm   association   plenary . 
+ 1.13 
+ " gsm   association   plenary "   shall   mean   the   group   of   appoint   representative   of   the   signatory   of   the   gsm   association . 
+ 1.14 
+ " gsm   specification "   shall   mean   etsi   gsm   technical   specification ,   as   define   by   the   gsm   association . 
+ 1.15 
+ " host   service(s ) "   shall   mean   the   network   host   ( and   relate )   service   -   as   list   in   appendix   1   -   provide   by   t - mobile   to   elephant 
+ talk   under   the   agreement ,   enable   elephant   talk   to   provide   elephant   talk   wholesale   service   to   elephant   talk 
+ customer   in   accordance   with   its   term   and   condition   of   the   agreement . 
+ 1.16 
+ " implementation   plan "   shall   have   the   meaning   as   describe   to   it   in   appendix   3 . 
+ 1.17 
+ " imsi "   mean   the   international   mobile   subscriber   identity ,  
+ 1.18 
+ " initial   term "   mean   the   initial   duration   of   the   agreement   as   agree   upon   between   the   party   and   define   in   article   17.1 
+ 1.19 
+ " in   platform "   ( the   intelligent   network   platform )   shall   mean   the   technical   architecture   and   telecommunication   system   of   elephant 
+ talk   for   rout   call   and   charge   real - time   the   outgoing   call   of   elephant   talk   customer . 
+ 1.20 
+ " location   area "   ( las )   shall   mean   the   individual   geographic   area   into   which   the   t - mobile   network   be   divide   at   any   time . 
+ 1.21 
+ " msisdn "   shall   mean   mobile   station   integrate   service   digital   network   number . 
+ 1.22 
+ " nap "   shall   mean   network   access   point ,   as   describe   in   appendix   11 . 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 1.23 
+ " operational   manual "   shall   mean   the   work   document   in   which   party   agree   upon   ( dynamic )   activity   and   procedure   as   describe   in 
+ the   agreement   in   more   detail   for   the   duration   of   the   agreement .   the   operational   manual   be   a   dynamic   document .   the   late   valid   and 
+ bind   version   shall   be   the   one   agree   in   writing   between   the   party   in   accordance   with   article   19.3 . 
+ 1.24 
+ " "   mean   the   company   formerly   know   as   .   form   under   the   law   of   the   netherlands ,    in   the   hague ,   the   netherlands . 
+ 1.25 
+ " protocol   of   delivery "   ( also   refer   to   as   " pod " )   shall   mean   the   document ,   as   attach   in   appendix   10 ,   provide   by   t - mobile   to 
+ elephant   talk   follow   the   soft   launch   for   the   purpose   of   accept   the   host   service   by   elephant   talk . 
+ 1.26 
+ " quarter "   and   " quarterly "   shall   mean   a   quarter   of   a   year ,   be   three   consecutive   month   start   every   january ,   april ,   july   and/or 
+ october   of   every   calendar   year . 
+ 1.27 
+ " ready   for   service   date "   shall   mean   the   date ,   follow   the   soft   launch ,   upon   which   the   host   service   agree   between   the   party   -   in 
+ accordance   with   article   3   -   meet   the   agree   specification   as   evidence   by   the   signing   of   the   protocol   for   delivery . 
+ 1.28 
+ " ready   for   test   date "   shall   mean   the   date   on   which   the   end - to - end   test ,   to   be   perform   internally   by   t - mobile   solely ,   have   be 
+ complete   by   t - mobile   and   pursuant   to   which   elephant   talk   can   commence   the   soft   launch .  
+ 1.29 
+ " regulatory   provision "   shall   mean   all   applicable   law ,   directive ,   consent ,   specification ,   regulation   and/or   stipulation   set   forth   by 
+ the   relevant   regulatory   authority . 
+ 1.30 
+ " sim   card "   shall   mean   a   subscriber   identity   module   ( chip )   card   for   the   identification   of   -the   mobile   end - user   of   -   an   elephant   talk 
+ customer   on   the   t - mobile   network   and   enable   access   to   the   elephant   talk   wholesale   service . 
+ 1.31 
+ " sla "   mean   the   service   level   agreement   attach   hereto   in   appendix   6 . 
+ 1.32 
+ " soft   launch "   shall   mean   the   test   to   be   perform   under   article   4   and   as   describe   in   appendix   3   and   the   period   in   which   elephant 
+ talk   can   gain   experience   with   the   functionality   of   the   host   service   prior   to   the   commercial   launch   date . 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+ source : pareteum corp , 8 - k , 10/1/2008 
+
+ 1.33 
+ " tap "   shall   mean   transfer   account   procedure   as   define   and   describe   in   gsm   association   permanent   reference   document .  
+ 1.34 
+ " technical   specification "   shall   mean   the   work   document   in   which   party   agree   upon   the   technical   specification   of   the   host   service 
+ as   attach   in   appendix   11 . 
+
+ 1.35 
+ " t - mobile   network "   shall   mean   the   t - mobile   dcs   1800   and   umt / hsdpa   mobile   telecommunication   network ,   include   all   network 
+ element ,   in   the   netherlands ,   as   describe   in   appendix   1 . 
+
+ 2 .  
+ purpose   and   scope   of   the   agreement 
+ 2.1 
+ the   purpose   of   this   agreement   be   to   lay   down   the   general   term   and   condition   between   the   party   under   which   t - mobile   shall   provide 
+ the   host   service   and   elephant   talk   shall   purchase   the   host   service   from   t - mobile ,   whereby   t - mobile   shall   enable 
+ elephant   talk   to   market ,   sell   and   provide   mobile   telecommunication   service   to   the   elephant   talk   customer   via   the   t - mobile 
+ network .   for   the   avoidance   of   doubt ,   elephant   talk   be   not   entitle   to   provide   ( retail )   telecommunication   service   base   on   the 
+ host   service   to   other   than   elephant   talk   customer ,   such   as   but   not   limit   to   mobile   end - user   or   business   company   with 
+ their   own   end - user . 
+ in   the   event   that    party   shall   negotiate   the   term   and   condition   under   which   t - mobile   shall   provide   and   elephant   talk   shall 
+ purchase   the   service   from   t - mobile .   these   term   and   condition   shall   be   lay   down   in   a   separate   document   and   shall   therefore   not   be 
+ part   of   this   agreement . 
+ 2.2 
+ t - mobile   be   entitle   without   limitation ,   to    related   service   to   any   other   party . 
+ 2.3 
+ elephant   talk   will   not   enter   into   any   discussion   or   agreement   on   the   provisioning   of   ( similar )   host   service   as   define   in 
+ appendix   1   with   any    in   the   netherlands   for   the   duration   of   the   initial   term   of   the   agreement .   in   case   elephant   talk   have   provide 
+ to   t - mobile   the   twelve   month   termination   notice   in   accordance   with   article   17.2 ,   elephant   talk   . 
+ 2.4 
+ the   co - operation   between   party   shall   regard   .   the   host   service   be   intend   for   .   elephant   talk   be   allow   to   provide 
+ sim   card   to   elephant   talk   customer   under   the   term   and   condition   as   mention   in   this   agreement . 
+
+ 2.5  
+ for   the   scope   of   this   agreement ,   elephant   talk   ( include   its   affiliate   company )   shall   not   provide   the   host   service   to   . 
+ exclude   from   this   provision   be   the   situation   wherein   elephant   talk   provide    under   the   term   and   condition   as   set   out   in   this 
+ article .  
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ elephant   talk   be   not   allow ,   without   the   explicit   write   approval   of   t - mobile ,   to   provide   the   elephant   talk   wholesale   service : 
+ i.   
+ to   the   below   state   category   of   company ,   include   company   that   represent   a   company   in   one   of   these   category ,   affiliate 
+ company   and/or   company   that   can   offer   a   brand   from   a   company   in   one   of   the   follow   category : 
+
+ a ) 
+
+ b ) 
+
+ c ) 
+ . 
+
+ ii . 
+ in   the   situation   where   t - mobile   for   good   reason   refuse   a   elephant   talk   customer   access   to   the   t - mobile   network   such   as : 
+
+ a ) 
+ association   with   -   proven-   bad   taste   ( company   or   brand   with   a   direct   reference   to   subject   such   as   criminal   or   illegal   behavior , 
+ violence   or   drugs); 
+
+ b ) 
+ possible   harm   of   the   good   name   of   t - mobile; 
+
+ c ) 
+ breach   of   an   intellectual   property   right   of   t - mobile;   and/or 
+
+ d ) 
+ conflict   with   key   strategic   issue   for   t - mobile   and   deutsche   telekom   affiliate   company   ( such   as   legal   issue   and   court   case ) . 
+
+ the   elephant   talk   customer   will   not   directly   or   indirectly   provide   the   elephant   talk   wholesale   service   to   other ,   include   an 
+ affiliate   company ,   with   the   objective   to   resell   wholesale   telecommunication   service   base   on   the   by   t - mobile   provide   host 
+ service   to   mobile   telecommunication   user . 
+ 2.6   
+ party   agree   to   implement   an   elephant   talk   ,   and   therefore   would   not   result   in   additional   cost   for   elephant   talk . 
+
+ in   order   to   execute   this   assessment   party   will   discuss   the   detailed   business   requirement   -   provide   by   elephant   talk   for   the 
+ implementation   of   the   elephant   talk    -   and   will   do   the   utmost   to   agree   on   this   set   of   business   requirement   before   or   on  
+ provide   that   party   have   agree   upon   the   final   set   of   business   requirement   before   or   on   ,   party   shall   subsequently   execute   an 
+ initial   evaluation   -   base   on   the   business   requirement   -   of   the   impact   of   the   implementation   on   the   t - mobile   infrastructure   and   network . 
+ party   agree   to   finalize   this   initial   evaluation   on   .   the   outcome   of   the   initial   evaluation   shall   consist   of   an   agree   high   level   project 
+ plan   for   the   implementation   of   at   least   the   implementation   of   the    solution .   follow   the   initial   evaluation   party   will   far   discuss 
+ and   negotiate   in   good   faith   the   element   of   the   project   plan ,   include   the   alignment   of    and   available   resource   in   order   to   implement 
+ the   . 
+ both   party   aim   to   implement   the    before   .   however ,   the   actual   implementation   date   of   the    solution   be   subject   to   the   choose 
+ technical   and   operational   solution   for   the    solution .   in   any   case   t - mobile   be   oblige   to   implement   the    before   or   on   . 
+ 2.7 
+ elephant   talk   shall   purchase   the   host   service   from   t - mobile   as   an   independent   contractor .   elephant   talk   shall   sell   and 
+ market   the   elephant   talk   wholesale   service   to   elephant   talk   customer   in   its   own   name ,   for   its   own   account   and   on   its   own 
+ risk   ( subject   to   the   term   of   this   agreement ) .   elephant   talk   warrant   t - mobile   that   elephant   talk   customer   shall   sell   and 
+ market   their   mobile   telecommunication   service   base   on   the   elephant   talk   wholesale   service   in   its   own   name ,   for   its   own   account 
+ and   on   its   own   risk .   elephant   talk   and   elephant   talk   customer   shall   not   in   any   respect   represent   t - mobile   or   enter   into   any 
+ agreement   or   other   commitment   on   t - mobile ’s   behalf . 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 2.8 
+ elephant   talk   shall   ensure   that   the   elephant   talk   infrastructure   complie   with   the   technical   specification ,   as   set   out   in 
+ appendix   11 . 
+ 2.9 
+ party   acknowledge   that   the   dutch   telecommunication   market   be   regulate   under   both   dutch   and   eu   law ,   such   as   inter   alia   eu - directive , 
+ the   dutch   telecommunication   act ,   dutch   competition   act   and   the   dutch   datum   protection   act .   party   shall   at   all   time   fully   comply   with 
+ all   relevant   regulation ,   such   as   but   not   limit   to ,   the   obligation   for   elephant   talk   -   as   provider   of   public   electronic   communication 
+ service   in   the   netherlands-   to   notify   opta   accord   to   article   2.1   of   the   dutch   telecommunication   act . 
+ furthermore ,   party   acknowledge   that   their   arrangement   be   subject   to   say   regulation ,   and   that   party ’   arrangement   ( include   pricing 
+ arrangement )   may ,   from   time   to   time ,   require   adjustment(s )   due   to   change   of   such   regulation . 
+ 2.10 
+ the   host   service   shall   be   provide   in   accordance   with   relevant   gsm   specification   and   the   gsm   association   permanent   reference 
+ document ,   include   all   the   commercial   aspect ,   as   define   in   the   agreement .   this   foregoing   be   however   subject   to   the   additional 
+ requirement   and   exception   to   the   gsm   specification   and   gsm   association   permanent   reference   document   as   may   be   agree   in 
+ writing   between   party .  
+ 2.11 
+ the   party   recognize   that   it   may   be   appropriate   to   modify   this   agreement ,   in   circumstance   in   which   they   deem   it   important   to   do   so ,   in 
+ the   light   of   experience   and   development   in   the   gsm   association ,   the   gsm   specification ,   the   gsm   association   permanent   reference 
+ document   and   mobile   telecommunication   service   available   at   the   market   not   offer   by   t - mobile   under   this   agreement   in   such   case 
+ party   shall   agree   upon   a   workable   solution   and   act   accordingly . 
+ 2.12 
+ the   appendix   shall   form   an   integral   part   of   the   agreement   and   shall   be   fully   bind   on   and   enforceable   by   and   against   the   party   as 
+ applicable   in   accordance   with   this   agreement .   in   case   that   the   agreement   contain   contradictory   provision ,   the   document   constitute 
+ the   agreement   shall   have   the   follow   priority   for   the   purpose   of   interpretation : 
+ a )  
+ the   agreement; 
+ b )  
+ the   appendix   in   order   of   their   number; 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008  
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ appendix   no . 
+ appendix   name 
+ appendix   1 
+ service   description 
+ appendix   2 
+ financial 
+ appendix   3 
+ implementation   plan 
+ appendix   4 
+ forecasting 
+ appendix   5 
+ lawful   intercept 
+ appendix   6 
+ service   level   agreement 
+ appendix   7 
+ accounting   and   billing 
+ appendix   8 
+ roam 
+ appendix   9 
+ bank   guarantee 
+ appendix10 
+ protocol   of   delivery 
+ appendix   11 
+ technical   specification 
+ appendix   12 
+
+ appendix   13 
+
+ 3 .  
+ host   service 
+ 3.1 
+ t - mobile   shall   provide   the   host   service ,   as   describe   in   appendix   1 ,   during   the   term   of   this   agreement   from   the   ready   for   service 
+ date . 
+ 3.2 
+ t - mobile   shall   ensure   that   all    from   elephant   talk   customer   and   other   telecommunication   end   user   in   the   netherlands   and   in 
+ the   relevant   roam   country ,   as   far   specify   in   the   agreement . 
+ 3.3 
+ elephant   talk   be   responsible   and   accountable   for   the   installation ,   maintenance   and   availability   of   the   lease   line   between   elephant 
+ talk ’s   pop   and   the   t - mobile   network ,   as   describe   in   appendix   1 .  
+ 3.4   
+ t - mobile   be   open   and 
+ willing   to   discuss   with   elephant   talk   the   provision   to   elephant   talk   of   new   service ,   mean   service   out   of   the   scope   of 
+ this   agreement ,   in   the   dutch   market . 
+ 3.5 
+ party   agree   that   elephant   talk ,   if   applicable ,   make   a   feature   available   in   the   sim   card   to   display   the   brand   name   of   elephant 
+ talk   customer ,   when   elephant   talk   customer   be   connect   -   via   the   elephant   talk   infrastructure   -   to   the   t - mobile 
+ network .   t - mobile   be   aware   of   the   fact   that   out - date   device   might   not   support   this   feature   available   in   the   sim   card . 
+ 3.6 
+ party   agree   to   implement   the   rule   and   procedure   pursuant   to   dutch   legislation   for   number   portability   prior   to   the   ready   for   service 
+ date ,   accord   to   appendix   1 .   a   elephant   talk   msisdn   that   be   out - port   from   elephant   talk ’s   customer   base   will   be   bar 
+ from   access   the   elephant   talk   service   in   the   t - mobile   network .  
+ 3.7 
+ party   shall   use   their   good   effort   to   ensure     as   set   out   in   appendix   1 .   elephant   talk   be   responsible   and   liable   for   ,   as 
+ describe   in   appendix   11 .  
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 3.8 
+ t - mobile   shall   support   elephant   talk   in   fulfil   its   legal   obligation   under   dutch   law   with   respect   to   lawful   interception   under   the 
+ term   and   condition   as   set   forth   in   detail   in   appendix   5 .   elephant   talk   agree   to   inform   in   writing ,   before   the   ready   for   service   date , 
+ the   relevant   dutch   authority   ( which   be   at   the   time   of   closing   of   this   agreement   the   public   prosecutor )   that   t - mobile   will   carry   out   the 
+ lawful   intercept   request   regard   elephant   talk   customer   and   that   t - mobile   will   and   be   entitle   to   collect   the   financial 
+ compensation   of   the   concern   authority   for   these   legal   intercept   activity   on   behalf   of   elephant   talk .   elephant   talk   shall 
+ provide   t - mobile   with   a   copy   of   the   aforementioned   letter   to   the   relevant   dutch   authority   before   the   ready   for   service   date . 
+
+ 4 .  
+ implementation 
+ 4.1 
+ the   party   shall   implement   the   host   service   accord   to   the   implementation   plan ,   as   describe   in   appendix   3 . 
+ 4.2 
+ the   party   shall   provide   each   other   with   information   on   preparation   make   and   other   detail   relevant   to   the   implementation   of   the 
+ host   service . 
+ 4.3 
+ if   it   becomes   know   to   a   party   that   either   a   delay   shall   occur   or   be   likely   to   occur ,   such   party   shall   immediately   notify   the   other   party 
+ thereof   in   writing .   in   such   case ,   the   reason   for   the   delay   shall   be   give   as   well   as   the   moment   when   it   be   anticipate   that   the   implementation 
+ can   take   place . 
+ 4.4   
+ .   t - mobile   shall   resolve   every   critical   part   of   the   host   service   as   soon   as   reasonable   possible   and   in   any   event   before   the   date 
+ which   be    after   the   agree   . 
+
+ once   the   host   service   and   every   critical   part ,   as    the   pod ,   thereof   have   successfully   pass   the    pursuant   to   the   procedure 
+ describe   in   the   pod   and   appendix   3   the   service   shall   be   accept   by   elephant   talk   and   elephant   talk   shall   sign   the   protocol 
+ of   delivery   acknowledge   such   acceptance . 
+ 4.5 
+ subject   to   article   4.4 . ,   elephant   talk   shall   commence   the   soft   launch   on   or   after   the   .   from   the    elephant   talk   shall   be 
+ permit   to   ( technically )   test   the   host   service   for   the   duration   of   five   ( 5 )   calendar   week ,   with   a   limit   number   of   user   ( ) .   the 
+ traffic   generate   during   the   soft   launch   shall   be   free   of   charge   for   up   to    -   base   on   the   tariff   t - mobile   will   charge   elephant   talk 
+ accord   to   appendix   2 .   for   all   other   user   and   cost   above   the   , -   per   user ,   elephant   talk   have   to   pay   the   fee   for   the   host 
+ service   as   define   in   appendix   2 .   the   soft   launch   be   not   part   of   the   forecast   pursuant   to   appendix   4 .   elephant   talk   will   finalize   the 
+ soft   launch   by   sign   the   protocol   of   delivery ,   accord   to   appendix   3   and   11 . 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 4.6   
+ if   it   would   become   applicable ,   elephant   talk   shall   obtain   any   regulatory   approval ,   consent ,   or   decision   which   allow 
+ elephant   talk   to   utilize   the   host   service   from   t - mobile   to   provide   the   elephant   talk   service   to   elephant   talk 
+ customer   as   contemplate   by   this   agreement .   t - mobile   agree   -   but   be   not   oblige   -   to   reasonably   assist   elephant   talk   in   obtain 
+ such   regulatory   approval ,   consent   or   decision ,   especially   by   make   available   to   elephant   talk   necessary   document ,   technical 
+ specification   and   other   information   require   and   by   cooperate   through   common   communication   to   any   regulatory   authority .  
+
+ 5 .  
+ forecast   &   commitment 
+ 5.1 
+ a   trial   period ,   cover   the    calendar   month   from   commercial   launch   date   shall   apply   for   elephant   talk   in   order   to   gain 
+ experience   and   knowledge   for   elephant   talk   on   forecasting   and   call   behavior   of   its   elephant   talk   customer .   . 
+ 5.2 
+ elephant   talk   shall   provide   quarterly   forecast   in   writing   express   in   volume   for   the   use   of   the   host   service .   detail   as   party 
+ have   agree   upon   regard   the   forecast   be   stipulate   in   appendix   4 . 
+ 5.3 
+ . 
+ 5.4 
+ elephant   talk   accept   that   t - mobile   will   not   be   bind   to   the   service   level   agree   between   party   pursuant   to   article   6   of   this 
+ agreement   in   relation   to   the   relevant   quarter ,   if   the   . 
+ 5.5 
+ in   case   of   ( promotional )   action   and   event   that   will   or   might   temporarily   exceed   the   forecast   traffic   volume ,   elephant   talk   shall 
+ inform   t - mobile   as   soon   as   possible ,   after   which   t - mobile   shall   make   reasonable   effort   to   take   appropriate   and   business   wise   feasible 
+ measure   to   prevent   network   interruption .  
+
+ 6 .  
+ service   level 
+ 6.1   
+ the   host   service   shall 
+ be   provide   in   accordance   with   the   level   of   service   and   support   as   the   party   have   agree   upon   in   appendix   6 . 
+ 6.2   
+ at   no   point   in   time   shall   one   of   the   party   carry   out   service   or   support   on   equipment ,   exclude   sim   card   order   accord   to   article 
+ 16 ,   that   belong   to   the   other   party   or   be   provide   or   maintain   by   the   other   party ,   unless   the   other   party   have   agree   in   writing   to   such 
+ measure   in   advance . 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 6.3   
+ t - mobile   shall   give   prior 
+ notice   to   elephant   talk   about   plan   outage   and   plan   work   as   agree   in   appendix   6 . 
+
+ 7 .   
+ datum   protection   &   privacy 
+ 7.1 
+ all   right   to   the   personal   and   traffic   datum   relate   to   elephant   talk   customer   which   elephant   talk   place   at   the   disposal   of   t- 
+ mobile ,   as   well   as   to   the   result   of   the   t - mobile   registering   and   processing   of   this   datum ,   shall   rest   in   elephant   talk .   t - mobile   shall 
+ have   at   its   disposal   datum   cover   by   the   agreement   only   to   the   extent   and   as   long   as   necessary   for   t - mobile   to   fulfill   its   obligation 
+ pursuant   to   this   agreement . 
+ 7.2 
+ both   party   confirm   that   they   shall   comply   with   the   datum   privacy   regulation   and   law   applicable   in   the   netherlands   and   internationally , 
+ include   the   dutch   datum   protection   act   ( " wet   bescherme   persoonsgegeven " ) ,   as   amend   or   vary   from   time   to   time .   t - mobile 
+ undertake   to   process   personal   datum   only   for   the   purpose   of   this   agreement . 
+ 7.3 
+ .   t - mobile   will   refrain   from   use   any   elephant   talk   customer   relate   datum   for   any   other   purpose   than   provide   the   host 
+ service   to   elephant   talk ,   with   the   exception   of : 
+
+ · 
+ legal   tap   requirement   in   accordance   with   a   request   from   the   relevant   public   body;   and 
+
+ · 
+ necessary   use   for   the   purpose   of   prevent ,   trace   and   fight   fraud   or   irregularities;   and 
+
+ · 
+ other   activity   require   by   law . 
+ 8 .  
+ the   co - operation   relationship 
+
+ 8.1 
+ the   authorize   member   of   each   party   shall   fully   co - operate   in   the   performance   of   the   agreement .   the   account   manager   of   each   party 
+ shall   act   as   the   first   point   of   contact   in   relation   to   any   issue   provide   for   in   the   agreement .   each   party   may   change   its   contact   person   at 
+ any   time   by   inform   the   other   party   in   writing . 
+ 8.2 
+ the   party   shall   promptly   inform   each   other   of   a   breakdown   in   their   respective   system   or   mobile   telecommunication   network   that   have   or 
+ might   have   an   effect   on   the   host   service   and/or   the   agreement . 
+
+ 8.3   
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 9 .  
+ price ,   charge ,   billing   and   accounting 
+
+ 9.1  
+ development   cost   &   price   for   host   service 
+ 9.1.1 
+ subject   to   the   term   of   this   agreement ,   elephant   talk   shall   pay   t - mobile   the   total   amount   of    -as   specify   in   appendix   2 ,   as   a 
+ contribution   for   upfront   ( network   relate )   development   cost   of   the   host   service ,   include    service ,   as   describe   in   appendix 
+ 1 .   payment   shall   be   make   in   accordance   with   article   9.2 . 
+ 9.1.2 
+ the   price   to   be   pay   by   elephant   talk   to   t - mobile   for   the   host   service   render   be   state   in   appendix   2 .   such   price   may   be 
+ amend   in   accordance   with   the   term   of   this   agreement   and   appendix   2   and   shall   be   pay   by   elephant   talk   to   t - mobile   in 
+ accordance   with   article   9.2 .  
+ 9.1.3 
+ if   the   price   due   to   subsequent   change   in   dutch   law   and   regulation   become   invalid   or   unenforceable   the   price   shall   be   modify   to   the 
+ extent   require   in   order   to   be   in   conformity   with   such   law   and   regulation .   in   the   event   that   such   change   of   price   reasonably   require 
+ that   party   revise   the   applicable   price   structure   of   the   host   service   in   its   entirety ,   party   shall   enter   into   good   faith   negotiation   to 
+ agree   upon   new   price . 
+
+ 9.2   
+ charge 
+
+ 9.2.1 
+ t - mobile   have   charge   the   first   installment   of    to   elephant   talk   with   regard   to   elephant   talk ’s   contribution   for   upfront 
+ ( network   relate )   development   cost ,   as   mention   in   article   9.1.1 ,   after   sign   of   the   head   of   agreement   between   the   party   date 
+ .   the   second   installment   of    shall   be   charge   to   elephant   talk   right   after   sign   of   the   agreement   and   shall   be   pay   by 
+ elephant   talk   within   fifteen   ( 15 )   calendar   day   of   the   invoice   date . 
+ 9.2.2 
+ whenever   an   elephant   talk   customer   use   the   elephant   talk   wholesale   service ,   elephant   talk   shall   be   fully   responsible 
+ for   timely   payment   of   the   appropriate   price(s )   establish   under   article   9.1.2   for   the   host   service   use .   elephant   talk   shall   pay   to 
+ t - mobile   the   charge   for   the   host   service   as   from   the   ready   for   service   date ,   include   the   charge   mention   under   article   4.5 . 
+ 9.2.3 
+ in   addition   to   the   invoice   mention   under   article   9.2.1 . ,   t - mobile   shall   on   a   monthly   arrear   basis   submit   invoice   to   elephant   talk 
+ detail   the   price   payable   by   elephant   talk   under   article   9.2.2 .   t - mobile   will   send   the   follow   invoice   for : 
+ a )  
+ network   host   services; 
+ a )  
+ cost   of   authorize   lawful   intercept   ( to   the   extent   provide   for   under   appendix   5); 
+ b )  
+ cost   for   other   service   agree   upon . 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+ 9.2.4 
+ elephant   talk   shall   pay   all   invoice   no   later   than    after   the   invoice   date .   elephant   talk   ,   in   the   event   that   elephant 
+ talk   fail   to   meet    
+ 9.2.5 
+
+ 9.2.6 
+ invoice   submit   to   elephant   talk   by   t - mobile   shall   be   itemize   in   accordance   with   dutch   acknowledge   principle   of   billing   and 
+ accounting . 
+ 9.2.7 
+ all   charge   under   this   agreement   be   exclusive   of   value - add   tax   ( vat ) ,   duty   or   levy   impose   by   any   authority ,   government   or 
+ governmental   agency   and   any   other   applicable   taxis   payable   in   relation   to   the   host   service   supply   to   elephant   talk .   any   taxis 
+ shall   be   charge   in   accordance   with   the   relevant   regulation   in   force   at   the   time   of   make   the   taxable   supply   to   elephant   talk   and 
+ shall   be   pay   by   elephant   talk . 
+ all   amount   and   any   payment   of   charge   under   this   agreement   shall   be   make   in   euro   and   in   full   without   any   set - off ,   deduction   or 
+ withholding   whatsoever . 
+ 9.2.8 
+ invoice   not   pay   within   the   time   limit   set   down   in   article   9.2.4   shall   bear   interest   ( " enkelvoudig " )   on   a   daily   basis   at   the   rate   of   the   legal 
+ commercial   interest   rate   ( " wettelijke   handelsrente " )   plus   1    until   full   payment   be   receive   by   t - mobile   whether   before   or   after   judgment . 
+ interest   shall   continue   to   accrue   notwithstanding   termination   or   expiry   of   this   agreement   for   any   cause   whatsoever . 
+ 9.2.9 
+ elephant   talk   may   object   to   any   invoice   accord   to   the   procedure   set   out   in   article   4   of   appendix   7 ,   accounting   and   billing .   in   the 
+ event   of   invoicing   irregularity ,   party   shall   use   their   good   effort   to   establish   the   reason   for   and   to   eliminate   such   irregularity   as   quickly 
+ as   possible . 
+
+ 9.2.10  
+ elephant   talk   will   be 
+ accountable   for   and   shall 
+ pay   all   generate   traffic 
+ by   elephant   talk 
+ customer   -include 
+ traffic   generate   via 
+ steal   or   lose   sim   card   - 
+ to   t - mobile   .  
+
+ 9.2.11 
+ elephant   talk   bear   the   risk   of   and   shall   indemnify   t - mobile   against   high   usage ,   fraud   and   bed   debt / non - payment   of   its   elephant 
+ talk   customer . 
+
+ 9.3  
+ billing   and   accounting 
+
+ 9.3.1 
+ procedure   for   billing   and   accounting   information   be   provide   in   appendix   7 . 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 9.3.2 
+ in   order   to   exchange   invoice   information ,   tap   file   will   be   transfer   by   t - mobile   to   elephant   talk ,   as   state   in   appendix   7 . 
+ 9.3.3 
+ for   verification   purpose   t - mobile   will   keep   the   cdr   in   accordance   with   dutch   legislation . 
+
+ 9.4  
+ financial   security 
+ 9.4.1 .   
+
+ : 
+ a.   elephant   talk   have   be   declare   bankrupt   or   have   apply   for   bankruptcy   accord   to   18.1   sub   g ,   or; 
+ b.   elephant   talk  
+
+ . 
+ 9.4.2 . 
+ t - mobile   shall   not   require   financial   security   as   set   out   in   9.4.1as   long   as   the   '   
+ t - mobile   customer   use    will   .   for    elephant   talk   will   issue   an   invoice   to   t - mobile .   party   agree   that   as   long   as : 
+
+ · 
+  ;   and 
+
+ · 
+ the   invoice   for   these    delivery   of   the   host   service   by   t - mobile   accord   to   this   agreement , 
+ article   9.4.1 .   shall   not   apply . 
+ in   the   event   that   elephant   talk   do   not   comply   with   the   payment   term   as   set   out   in   article   9.2.4 . ,   party   agree   that   t - mobile   be 
+ entitle    elephant   talk   follow   the   '   with   the   amount   which   elephant   talk   (   or   any   of   its   affiliate )   be   due   to   t - mobile 
+ accord   to   this   agreement . 
+ 9.4.3 . 
+ as   soon   as   article   9.4.2 .   do   no   long   apply   -   . 
+
+ 10 .  
+ customer   care   support 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 10.1  
+ elephant   talk   shall   for   its   own   account   and   at   its   own   cost   maintain   a   customer   support   organization   for   elephant   talk 
+ customer .   in   addition ,   t - mobile   shall   provide   second   line   customer   care   support   to   the   back   office   of   elephant   talk ’s   customer 
+ support   organization ,   accord   to   appendix   1 ,   2   and   6 . 
+
+ 10.2 
+ for   the   avoidance   of   doubt ,   it   be   state   that   party   agree   that   t - mobile   shall   not   provide   customer   support   service   to   elephant   talk 
+ customer   ( mean   end - user   of   elephant   talk   customer )   directly . 
+
+ 11 .  
+ confidentiality 
+ 11.1   the   party   agree   that   all   aspect   of   the   content   of   this   agreement   shall   be   treat   as   confidential   and   that   no   information   in   respect   of   the 
+ content   and/or   existence   of   this   agreement   shall   be   disclose   without   the   prior   write   consent   of   both   party .   neither   party   shall   make 
+ any   public   announcement ,   include   but   not   limit   to   press   release ,   article ,   brochure ,   advertisement   and   speech ,   concern   this 
+ agreement   without   the   prior   write   consent   of   the   other   party .   however ,   elephant   talk   be   entitle   to   communicate   -   as   far   as   strictly 
+ necessary   for   the   proper   conclusion   of   its   agreements-   to   the   elephant   talk   customer   that   its   service   be   provide   by   ( the )   t - mobile 
+ ( network ) .   elephant   talk   customer   shall   be   entitle   to   communicate   that   the   network   coverage   be   provide   by   t - mobile ,   only   in   case 
+ they   be   ask   for   it .   under   no   circumstance ,   elephant   talk   customer   shall   make   any   public   announcement ,   include   but   not 
+ limit   to   press   release ,   commercial   article   ( not   be   technical   or   business   article ) ,   brochure ,   advertisement ,   public   speech   and 
+ other   promotional   material ,   that   its   service   to   mobile   end - user   be   provide   by   the   t - mobile   network .   party   be   aware   of   the   fact   that   it 
+ might   be   impossible   for   technical   reason   to   make   a   reference   to   the   elephant   talk   ( customer )   brand   name   on   the   display   of   device 
+ and   that   the   t - mobile   brand   name   may   appear .   elephant   talk   shall   do   the   utmost   to   ensure   that   the   communication   to   mobile 
+ telecommunication   end - users-   include   the   communication   of   elephant   talk   customer   -   shall   be   in   accordance   with   this   article . 
+ 11.2   the   party   hereby   agree   to   treat   all   information   exchange   between   they   ( hereinafter   refer   to   as   " confidential   information " )   whether   for   the 
+ purpose   of   this   agreement   or   not   as   confidential   and   agree   not   to   disclose   such   confidential   information   in   any   manner   whatsoever   in 
+ whole   or   in   part   except   as   provide   for   in   the   article   11.4 .   the   party   may   disclose   confidential   information   only   to   employee ,   attorney 
+ at   law   and   accountant   or   other   professional   adviser   who   need   to   know   such   confidential   information   for   the   purpose   of   participation   in 
+ the   discussion   connect   with   this   agreement   between   the   party   and   any   transaction   result   there   from   and   who   be   inform   of   and 
+ bind   to   the   confidential   nature   of   such   confidential   information .  
+ 11.3   notwithstanding   the   above ,   in   the   event   that   the   receive   party   or   ( to   the   receive   party ’s   knowledge )   anyone   to   whom   the   confidential 
+ information   have   be   supply   to   by   the   receive   party   receive   a   request   to   disclose   under   the   term   of   a   subpoena ,   order ,   civil 
+ investigative   demand   or   similar   process   issue   by   a   court   of   competent   jurisdiction   or   by   a   governmental   body   all   or   any   part   of   the 
+ confidential   information ,   such   receive   party   agree   to : 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ i. 
+ notify   the   disclose   party   promptly   in   writing   of   the   existence ,   term ,   and   circumstance   surround   such   request; 
+
+ ii . 
+ consult   with   the   disclose   party   on   the   advisability   of   take   legally   available   step   to   resist   or   narrow   such   request; 
+
+ iii . 
+ give   the   disclose   party   the   opportunity   to   defend ,   limit   or   protect   against   such   disclosure; 
+
+ iv . 
+ if   disclosure   of   such   information   be   lawfully   require ,   furnish   only   that   portion   of   the   confidential   information   which   be   legally 
+ necessary   or   appropriate   in   the   light   of   all   the   circumstance   and   seek   to   obtain   confidential   treatment   for   any   information   require 
+ to   be   disclose . 
+ 11.4   for   the   purpose   of   this   agreement ,   confidential   information   shall   not   be   consider   to   be   confidential   if   such   confidential   information   be : 
+ a )  
+ in   or   pass   into   the   public   domain   other   than   by   breach   of   this   agreement;   or 
+ b )  
+ know   to   the   receive   party 
+ prior   to   the   disclosure   by   the   disclose   party   without   any   obligation   of   confidentiality;   or 
+ c )  
+ disclose   to   a   receive   party   without   restriction   by   a   third   party   have   the   full   right   to   disclose;   or 
+ d )  
+ independently   develop   by   a   receive   party   to   whom   no   disclosure   of   confidential   information   relevant   to   the   development   of 
+ such   confidential   information   have   be   make . 
+ 11.5   this   article   11   shall   survive   the   termination   of   this   agreement   as   provide   for   in   article   17   and   18   for   a   period   of   two   ( 2 )   year   but   shall   not   in 
+ any   way   limit   or   restrict   either   party 's   use   of   its   own   confidential   information . 
+
+ 12 .  
+ limitation   of   liability 
+ 12.1   without   prejudice   to   the   provision   expressly   state   elsewhere   in   this   agreement ,   a   party 's   liability   for   damage   suffer   by   the   other   party , 
+ attributable   to   the   first   mention   party   or   a   person   for   whom   it   be   liable   by   law ,   shall   be   limit   to   the   follow   event ,   and   the   follow 
+ amount : 
+
+ a )  
+ for   direct   damage   to   physical   good   ( property   damage   or   " zaakschade " )   or   directly   result   from   death   or   personal   injury :   up   to 
+ a   maximum   of    per   event   or   series   of   connected   event   and   up   to   a   further   maximum   of    for   all   event   ( connect   or   not )   in 
+ any   period   of   12   calendar   months; 
+
+ b )   
+ for   damage   directly   result   from   a   material   breach   of   this   agreement :   up   to   a   maximum    or    as   set   out   in   appendix   2 ) , 
+ whatever   amount   be   the   high ,   in   any   period   of   12   calendar   month . 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 12.2 
+ in   no   event   shall   either   party   be   liable   for   indirect   or   consequential   loss   or   damage ,   include   but   not   limit   to ,   loss   of   profit ,   loss   of   sale 
+ or   turnover ,   loss   of   or   damage   to   reputation ,   loss   of   contract ,   loss   of   business ,   loss   of   anticipate   saving   and   interest ,   increase 
+ operation   cost ,   increase   maintenance   cost   even   if   such   loss   or   damage   be   reasonably   foreseeable   or   if   a   party   have   be   advise   by   the 
+ other   party   of   the   possibility   of   incur   such   loss   or   damage . 
+
+ 12.3 
+ in   no   event   shall   any   employee   of   either   party   or   of   an   affiliate   company   be   liable   to   the   other   party   for   any   act   of   negligence   or   intent 
+ under   or   in   connection   with   this   agreement .   save   for   the   limitation   in   article   12.1   and   12.2   nothing   in   the   foregoing   shall   in   any   way 
+ restrict   the   liability   of   either   party   for   the   action   of   its   employee . 
+ 12.4 
+ limitation   of   liability   as   describe   in   this   article   shall   not   apply : 
+
+ a )   in   case   the   damage   or   loss   be   cause   by   a   party 's   willful   misconduct   ( include   fraud )   or   gross   negligence ,   or 
+
+ b )   in   case   of   a   breach   of   a   party   obligation   under   article   11   ( confidentiality )   and   article   15   ( indemnification   for   breach   of   intellectual 
+ property   right ) . 
+
+ 12.5 
+ any   claim   for   damage   must   be   notify   to   the   other   party   within   six   ( 6 )   month   as   from   the   date   on   which   the   damage   be   cause ,   fail 
+ which   such   claim   be   deem   to   be   waive . 
+
+ 12.6  
+ elephant   talk   will   be   fully   responsible   for   the   settlement   of ,   and   shall   indemnify   ( " vrijwaren " )   t - mobile   against   any   claim   make 
+ by   elephant   talk   customer   or   third   party   with   whom   elephant   talk   have   a   ( contractual )   relationship   and   which   claim   be 
+ relate   to   this   ( contractual )   relationship 
+
+ 13 .  
+ suspension   and   termination   of   host   service 
+ 13.1 
+ notwithstanding   anything   stipulate   in   the   agreement ,   t - mobile   may   without   liability   suspend   or   terminate   whole   or   part   of   the   host 
+ service   in   relation   to   one   or   more   elephant   talk   customer ,   in   circumstance   where   t - mobile   would   suspend   or   terminate   those 
+ service   to   its   own   customer ,   in   the   follow   circumstance   -   or   circumstance   of   similar   severity . 
+ a )  
+ ;   
+ b )  
+ ;   or 
+ c )  
+ suspect   fraudulent   or   unauthorized   use   by   the   relevant   ;   or 
+
+ d ) 
+ necessary   maintenance   or   enhancement   of   the   t - mobile   network . 
+ in   the   event   of   plan   suspension   or   termination   of   all   or   any   of   the   host   service ,   t - mobile   shall   inform   elephant   talk 
+ accordingly   by   send   a   write   notification ,   as   soon   as   reasonably   and   business   wise   possible . 
+ 13.2 
+ furthermore ,   t - mobile   may   without   liability   temporarily   suspend   all   or   any   of   its   host   service   to   elephant   talk   if   a   ( partial   or 
+ temporary )   breakdown   on   the   t - mobile   network   should   occur .   such   temporarily   suspension   shall   -   to   the   extent   possible   -   be   limit   to 
+ the   location   area   where   the   temporarily   breakdown   occur .   immediately   after   the   t - mobile   network   have   be   restore ,   t - mobile   shall 
+ take   all   appropriate   measure   in   order   to   re - establish   the   host   service   with   the   short   possible   delay ,   in   accordance   with   the 
+ procedure   as   describe   in   appendix   6 . 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008  
+
+ 13.3 
+ t - mobile   may   without   liability   limit   at   its   own   discretion   the   availability   of   all   or   any   of   the   host   service   above   the   level   of   the   traffic 
+ forecast   of   host   service   as   define   in   article   5   and   appendix   4 ,   provide   that   the   provision   of   these   host   service   -above   the 
+ level   of   the   traffic   forecast   -   to   elephant   talk   have   a   noticeable   negative   impact   on   the   quality   of   the   t - mobile   network   and   on   the 
+ provision   of   service   to   t - mobile   customer . 
+
+ 14 .  
+ force   majeure 
+ 14.1 
+ non - performance   by   either   party   of   its   obligation   pursuant   to   this   agreement   or   delay   in   perform   the   same   shall   not   constitute   a 
+ breach   of   the   agreement   if   and   for   as   long   as   it   be   due   to   a   force   majeure   event ,   include ,   but   not   limit   to ,   government   action   or 
+ requirement   of   regulatory   authority ,   lock - out ,   strike ,   shortage   of   transportation ,   war ,   terrorist   attack ,   rebellion   or   other   military   action , 
+ fire ,   flood ,   natural   catastrophe ,   that   a   party   be   not   able   to   overcome   with   reasonable   and   proportional   effort ,   or   a   non - performance   of 
+ obligation   by   a   sub - contractor   to   a   party   -   in   circumstance   where   it   be   reasonably   impossible   for   that   party   or   an   other   sub - contractor   to 
+ perform   such   obligation   instead   - ,   pursuant   to   any   of   the   aforementioned   reason . 
+ 14.2 
+ the   party   prevent   from   fulfil   its   obligation   shall   on   become   aware   of   such   event   inform   the   other   party   in   writing   of   such   force 
+ majeure   event   as   soon   as   possible . 
+ if   the   affected   party   fail   to   inform   the   other   party   of   the   occurrence   of   a   force   majeure   event   as   set   out   in   article   14.1   above ,   then   such 
+ party   thereafter   shall   not   be   entitle   to   refer   such   event   to   force   majeure   as   a   reason   for   non - fulfillment .   this   obligation   do   not   apply   if 
+ the   force   majeure   event   be   know   by   both   party   or   the   affected   party   be   unable   to   inform   the   other   party   due   to   the   force   majeure   event . 
+ 14.3 
+ if   the   force   majeure   event   continue   for   more   than   two   ( 2 )   consecutive   calendar   week ,   then   the   party   shall   promptly   meet   and   discuss 
+ method   to   resolve   the   difficulty   arise   from   the   event   of   force   majeure .   if   no   agreement   be   reach   by   the   party   within   a   period   of 
+ fifteen(15 )   calendar   day   and   the   force   majeure   event   continue   to   have   a   substantial   effect   on   the   performance   of   the   agreement ,   either 
+ party   shall   have   the   right   to   terminate   this   agreement   in   whole   or   in   part   with   immediate   effect   by   write   notice   without   incur   any 
+ financial   liability   to   the   other   party   as   a   consequence   of   such   termination .  
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 15 .  
+ intellectual   property   right 
+
+ 15.1 
+ this   agreement   do   not   imply   any   transfer   of   intellectual   property   right .   neither   party   shall   use   the   other   party 's   name ,   trademark , 
+ service   mark   or   other   intellectual   property   right   without   the   other   party ’s   prior   write   consent .   elephant   talk   shall   guarantee   that 
+ in   any   agreement   it   conclude   with   elephant   talk   customer   the   follow   provision   will   be   include :   ' in   no   circumstance ,   [ x ]   shall 
+ use   t - mobile ’s   name ,   trademark ,   service   mark   or   other   intellectual   property   right   in   public   announcement ,   include   but   not   limit 
+ to   press   release ,   commercial   article   ( not   be   technical   or   business   article ) ,   brochure ,   advertisement   public   speech   and   other 
+ promotional   material . ' 
+ 15.2 
+ elephant   talk   be   allow   to   market   and   sell   its   service   to   elephant   talk   customer   under   a   brand   name   choose   by   elephant 
+ talk .   however ,   elephant   talk   shall   not   use   any   logo ,   name   or   other   material   that   bear ,   be   similar   or   refer   to   any   intellectual 
+ property   right   of   t - mobile   or   t - mobile   competitor   ( mean   mobile   network   operator ,   mobile   virtual   network   operator   and   enhance 
+ service   provider   in   the   netherlands )   without   prior   write   approval   of   t - mobile . 
+ 15.3 
+ when   marketing   its   elephant   talk   wholesale   service   in   the   netherlands ,   elephant   talk   shall   refrain   from   use   comparative 
+ advertising ,   in   any   form   of   medium ,   in   relation   to   t - mobile ’s ,   include   its   affiliate ’s ,   product   and/or   service . 
+ 15.4 
+ elephant   talk   will   defend ,   indemnify   and   will   hold   t - mobile   harmless   from   and   against   any   claim   and   cost   assess   against   t- 
+ mobile   by   a   third   party   allege   that   the   elephant   talk   wholesale   service ,   constitute   an   infringement   of   any   third   party 's   intellectual 
+ property   right   in   circumstance   where   the   allege   infringement   be   attributable   to   elephant   talk   and   in   no   way   the   fault   of   t - mobile   or 
+ its   affiliate   company .   if   such   a   claim   be   valid ,   elephant   talk   shall   make   the   modification   need   to   cease   the   infringement   at   its   own 
+ expense   as   soon   as   possible .   such   modification   will   not   have   any   impact   on   the   functionality   and   cost   of   the   provide   host   service . 
+ elephant   talk   shall   inform   t - mobile   on   any   of   such   modification   as   soon   as   possible . 
+
+ 15.5 
+ t - mobile   shall   retain   all   right ,   title   and   interest   in   and   to   the   host   service ,   include   all   intellectual   property   right   therein   and   any 
+ modification   or   enhancement   thereof . 
+
+ 15.6  
+ t - mobile   hereby   grant   elephant   talk   a   fully   pay - up ,   non - exclusive   licence   to   use   the   host   service   for   the   purpose   of 
+ elephant   talk   in   provide   the   elephant   talk   wholesale   service   during   the   term   of   this   agreement   without   further 
+ consideration .   this   licence   grant   shall   take   effect   on   the   date   that   the   relevant   host   service   be   first   use   by   or   on   behalf   of 
+ elephant   talk   to   provide   the   elephant   talk   wholesale   service   under   this   agreement . 
+
+ 16 .  
+ sim   card   &   call   credit 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+ 16.1 
+ elephant   talk   shall   order   and   purchase   sim   card . 
+ 16.2 
+ in   principle   the    will   be   of    will   remain   the   property   of   t - mobile   at   all   time . 
+ 16.3 
+ t - mobile   shall   retain   at   all   time   full   ownership   of   its   intellectual   property   right   vest   in   the   software   ( include   t - moible ’s   and   its 
+ supplier   relate   software   and   code ,   but   exclude   typical   elephant   talk ’s   and/or   other   party ’s   content )   contain   in   the   t - mobile 
+ imsi ’s . 
+
+ 16.4  
+ party   agree   that   they   will   re - discuss   the   provisioning   of   a   ,   the   implementation   and   associate   cost   of   the    shall   be   consider 
+ part   of   the   agreement   and   therefore   shall   not   result   in   additional   cost   for   elephant   talk   provide   that   no    be   involve . 
+ elephant   talk   shall   retain   at   all   time   full   ownership   of   its   intellectual   property   right   vest   in   the   software   contain   in   the   .   . 
+ 16.5 
+ t - mobile   have   a   strict   policy   with   respect   to   the   usage   of    ( also   know   as   "   " )   and   any   other   device   that   " ) .   these    be 
+ under   no   circumstance   allow   on   the   t - mobile   network .   elephant   talk   be   aware   of   t - mobile ’s   position   with   respect   to   these  
+ and   will   refrain   from   use    or   from   do   business   with   any   party   ( include   elephant   talk ’s   customer ) ,   who   use   these    to 
+ the   t - mobile   network .   furthermore ,   duplicate   the    or   functionality   of   the    without   the   explicit   prior   write   approval   of   t- 
+ mobile   be   forbid .   elephant   talk   will   ( contractually )   inform   the   elephant   talk   customer   that   they   will   refrain   from   use  
+ or   .   t - mobile   herewith   give   elephant   talk   approval   to    once ,   only   for   the   purpose   of   supply    as   commonly   know   in 
+ the   market   at   the   moment   of   sign   the   agreement ,   to   elephant   talk   customer ,   only   to   be   use   by   end   user   of   elephant   talk 
+ customer   for   normal   end   user   purpose .   party   shall   use   their   reasonable   endeavor   to   co - operate   in   order   to   prevent   and   clarify   any 
+ misuse   of    or   use   of   .   in   the   event   that   t - mobile   discover   such   improper   use   or   forbid   act   of   elephant   talk 
+ customer ,   party   shall   contact   each   other ’s   fraud   manager   immediately ,   in   order   to   stipulate   detail   and   take   appropriate   measure .   in 
+ addition ,   elephant   talk   shall   do   its   good   to   stop   these   action   immediately   on   first   request   of   t - mobile .   should   elephant 
+ talk   wilfully   or   negligently   fail   to   comply   with   an   t - mobile   request ,   elephant   talk   shall   bear   full   responsibility   and   indemnify   t- 
+ mobile   for   all   damage   and   loss   t - mobile   suffer   result   from   action   as   mention   in   this   article   by   elephant   talk ’s   customer . 
+
+ 17 .  
+ duration   of   the   agreement 
+
+ 17.1 
+ this   agreement   shall   come   into   force   on   the   date   of   the   agreement ,   and   shall ,   subject   to   article   18 ,   remain   in   full   force   and   effect   for   an 
+ initial   period   of    from   the   commercial   launch   date . 
+ 17.2 
+ the   agreement   may   be   terminate   by   both   party   with   a   notification   period   of    before   the   end   of   the   initial   term   of   the   agreement .   if 
+ no   termination   notice   be   provide ,   the   agreement   will   be   automatically   extend   for   consecutive    period   until   such   time   as  
+ termination   notice   be   provide .   at   the   end   of    party   will   negotiate   in   good   faith   regard   a   possible   extension   of   the   initial   term . 
+
+ party   can   mutually   agree   in   writing   to   deviate   from   an   automatic   extension   of    by   extend   this   agreement   for   a   long   period   than 
+ . 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+ 18 .  
+ termination   of   agreement 
+ 18.1 
+ in   addition   to   the   condition   of   article   17 ,   this   agreement   may   be   terminate   as   follow : 
+
+ a. 
+ by   mutual   agreement   of   the   parties;   or 
+
+ b. 
+ by   either   party ,   with   immediate   effect ,   if   the   other   party   be   in   material   breach   of   any   provision   of   this   agreement   and   do   not   or   be   not 
+ capable   of   remedy   such   breach   within   a   reasonable   time   and   in   any   event   within   sixty   ( 60 )   business   day   of   receipt   of   a   write 
+ notice   to   such   effect .   a   material   breach   will ,   for   the   purpose   of   this   agreement ,   not   include   the   event   that   elephant   talk   fail   to 
+ comply   with   its   payment   obligation   under   article   9.2.;   or 
+
+ c. 
+ by   t - mobile ,   if   elephant   talk   fail   to   comply   with   its   obligation   under   article   16.5   upon   write   notification   thereof   by   t - mobile , 
+ within   a   reasonable   period   of   time   follow   the   respective   notification   date   ( but   in   no   event   later   than   forty - five   ( 45 )   business   day 
+ of   receipt   of   a   write   notice   to   such   effect);   or , 
+
+ d. 
+ by   t - mobile ,   subject   to    .   in   the   present   situation   ;   or 
+
+ e. 
+ by   t - mobile   or   its   successor ,   .;   or , 
+
+ f. 
+ by   elephant   talk ,   subject   to    and   this   entity   be   at   the   time   of   signing   of   ;   or 
+
+ g .. 
+ by   either   party ,   with   immediate   effect ,   if   the   other   party   become   bankrupt   or   insolvent    ( or   bankruptcy   or   insolvency   be   appropriately 
+ request   for )   or   be   liquidate   or   dissolve   other   than   for   the   purpose   of   a   bona   fide   reconstruction   or   amalgamation ,   or   if   that   other 
+ party   enter   into   any   composition   or   arrangement   with   its   creditors;   or , 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 18.2  
+ in   case   the   number   of   frequency   or   the   use   of   the   frequency   allocate   to   the   t - mobile   network   be   reduce   pursuant   to 
+ regulatory   provision   the   party   shall   renegotiate   in   good   faith   the   commercial   condition   of   this   agreement   in   order   to 
+ comply   with   regulatory   provision . 
+
+ 18.3 
+ in   the   event   that   t - mobile   be   in   material   breach   and   elephant   talk   terminate   the   agreement   accord   to   article   18.1.b ,   . 
+ 18.4 
+ this   agreement   will   terminate   immediately   in   the   event   that   a   final   order   make   by   the   relevant   governmental   authority   not   grant , 
+ revoke   or   deny   renewal   of   t - mobile   dcs   1800   or   umt / hsdpa   license   or   permission   to   operate   the   t - mobile   network   or   any   other 
+ license   to   operate   the   host   service ,   take   effect ,   if   such   order   will   be   beyond   the   reasonable   control   of   t - mobile .  
+
+ 19 .  
+ modification 
+ 19.1 
+ any   modification   and/or   addition   to   this   agreement   and/or   the   appendix   shall   be   valid   only   if   make   in   writing   and   sign   by   duly 
+ authorize   representative   of   both   party . 
+ 19.2 
+ if   a   party   request   a   modification   of   this   agreement   because   ( a )   a   material   change   occur   in   the   law   and   regulation   govern 
+ telecommunication   in   the   netherlands ,   or   ( b )   a   material   change   ( include   enforcement   action   by   any   regulatory   authority )   occur   which 
+ affect   or   reasonably   could   affect   the   commercial   and   technical   basis   of   this   agreement ,   party   shall   enter   into   good   faith   negotiation   in 
+ order   to   determine   if   a   modification   of   the   agreement   be   necessary   and   if   so   agree   upon   the   way   to   implement   the   require   change   in   or 
+ modification   to   this   agreement . 
+ 19.3 
+ party   agree   that   the   operational   manual   can   only   be   modify   by   t - mobile ’s   account   manager   upon   consultation   with   elephant 
+ talk ’s   authorize   account   manager   and   with   the   subsequent   write   agreement   of   elephant   talk   and   t - mobile . 
+
+ 20 .  
+ miscellaneous 
+
+ 20.1  
+ successor ,   assign 
+
+ this   agreement   and   the   right   and   obligation   specify   herein   shall   be   bind   upon   the   party   and   their   respective   legal   successor   and 
+ neither   party   shall   sell ,   transfer   or   assign   this   agreement   or   any   part ,   interest ,   right   or   obligation   hereunder   except   that   a   party   shall   have 
+ the   right   to   transfer   or   assign   this   agreement   in   whole   ( but   not   in   part )   to   an   affiliate   company   provide   that : 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ a ) 
+ such   affiliate   company   expressly   assume ,   by   write   instrument ,   all   of   the   obligation   of   the   party   under   this   agreement   and 
+ thereby   become   a   party   to   this   agreement ,   and 
+
+ b ) 
+ such   affiliate   company   have   adequate   financial   strength ,   resource   and   experience   in   the   reasonable   opinion   of   the   other   party 
+ ( such   opinion   to   be   obtain   in   writing   in   advance   of   any   assignment ) ,   to   comply   with   its   obligation   under   this   agreement .   such 
+ assignment   shall   not   release   the   assign   party   of   its   obligation   under   article   11   of   this   agreement . 
+ no   person   other   than   a   party   to   this   agreement   shall   acquire   any   right   hereunder   as   a   third - party   beneficiary   or   otherwise   by   virtue   of 
+ this   agreement . 
+ both   party   will   remain   independent   and   compete   company ,   will   develop   their   own   market   strategy ,   and   will   address   the   market   and   the 
+ subscriber   directly   and   independently . 
+
+ 20.2  
+ no   waiver 
+
+ failure   by   any   party   at   any   time   to   require   performance   of   any   provision   of   this   agreement   shall   in   no   manner   affect   its   right   to   enforce 
+ the   same ,   and   the   waiver   by   any   party   of   any   breach   of   any   provision   of   this   agreement   shall   not   be   construe   to   be   a   waiver   by   such 
+ party   of   any   succeed   breach   of   such   provision   or   waiver   by   such   party   of   any   breach   of   any   other   provision   hereof .  
+
+ 20.3  
+ severability 
+
+ if   any   part   of   this   agreement   or   any   appendix   hereto   be   hold   to   be   invalid   or   unenforceable   accord   to   regulatory   provision ,   this 
+ shall   not   invalidate   any   other   provision   of   this   agreement   or   the   appendix   hereto .   the   party   shall   attempt   through   negotiation   in 
+ good   faith   to   replace   any   such   provision   of   this   agreement   or   the   appendix   so   hold   to   be   invalid   or   unenforceable   with   a   valid 
+ provision   which   come   as   close   to   the   original   economic   understanding   and   intention   of   the   party   as   legally   feasible . 
+ the   same   apply   insofar   as   this   agreement   and/or   its   appendix   prove   to   have   a   gap .   in   this   case ,   the   party   shall   endeavor   to   close 
+ the   gap   through   negotiation   conduct   in   good   faith . 
+
+ 20.4  
+ entire   agreement 
+
+ 20.4.1 
+ this   agreement   and   the   document   refer   to   in   it   contain   the   whole   agreement   between   the   party   relate   to   the   subject   matter   of   this 
+ agreement   and   supersede   all   previous   agreement   and   understanding   whether   write   or   oral   between   the   party . 
+
+ 20.4.2 
+ each   party   acknowledge   that   in   enter   into   this   agreement   it   shall   not   rely   on   any   representation ,   warranty   or   other   assurance   except 
+ as   set   out   in   this   agreement . 
+
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 20.5  
+ non - solicitation 
+
+ without   the   prior   write   consent   of   the   other   party ,   a   party   shall   not   at   any   time   while   this   agreement   be   in   force   and   for   a   one - year   period 
+ after   termination   of   this   agreement   either   for   itself   or   on   behalf   of   any   other   company   solicit ,   induce   or   cause   any   employee   of   the   other 
+ party   or   any   affiliate   company   of   this   other   party   who   have   be   a   representative   of   or   employ   by   the   other   party   in   connection   with 
+ this   agreement   to   leave   such   employment .   in   case   of   violation   of   this   article ,   the   party   shall   pay   to   the   other   party   an   equivalent   of 
+ eighteen   ( 18 )   month   gross   salary   of   the   respective   employee .  
+ 20.6  
+ survival 
+
+ any   provision   of   this   agreement   which   by   its   nature   or   implication   ( include   in   respect   of   any   accrue   right   and   liability )   be   require   to 
+ survive   termination   or   expiry   of   this   agreement   shall   survive   termination   or   expiry   as   aforesaid . 
+
+ 20.7  
+ notice 
+
+ any   notice   or   other   formal   communication   to   be   give   or   make   under   or   in   connection   with   this   agreement ,   if   not   state   otherwise 
+ explicitly   in   this   agreement   and   its   appendix ,   shall   be   in   writing ,   sign   by   or   on   behalf   of   the   party   give   it   and   send   by   register 
+ mail .   all   notice   or   other   formal   communication   to   be   deliver   under   this   agreement   shall   be   address   to :  
+
+ for   elephant   talk :   the   cto; 
+
+ for   t - mobile :   the   director   wholesale   &   interconnect . 
+ 20.8  
+ expense 
+
+ each   party   shall   bear   its   own   cost   and   expense   include   the   fee   of   its   professional   advisor   in   relation   to   the   preparation ,   execution 
+ and   carry   into   effect   of   this   agreement   and   all   other   document   relate   to   it . 
+ 20.9  
+ representation 
+
+ neither   party   may   in   any   respect   represent   the   other   party   or   enter   into   any   agreement   or   other   commitment   on   behalf   of   the   other 
+ party   except   as   provide   for   in   this   agreement   or   agree   by   the   party   in   writing . 
+ the   agreement   and   condition   contain   herein   be   only   relate   to   the   dutch   market   and   can   not   be   refer   to   in   discussion   or   deal 
+ with   other   t - mobile   company   and/or   deutsche   telecom   and   their   respective   affiliate   company .   due   to   amongst   other   market   and 
+ country   difference ,   t - mobile   expressly   state   and   elephant   talk   agree   that   this   agreement   can not   and   will   not   create   any   precedent 
+ for   any   exist   or   future   discussion   between   elephant   talk   and   t - mobile / deutsche   telecom   and   their   affiliate   company   outside 
+ the   netherlands; 
+ source : pareteum corp , 8 - k , 10/1/2008 
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 21 .  
+ governing   law 
+
+ this   agreement   shall   be   govern   by   and   construe   in   all   respect   exclusively   in   accordance   with   the   law   of   the   netherlands .  
+
+ 22 .  
+ dispute   resolution 
+
+ any   dispute ,   exclude   invoice   dispute   as   describe   in   appendix   7 ,   controversy   or   claim   arise   out   of   or   in   connection   with   any   aspect 
+ of   this   agreement ,   or   the   breach ,   termination   or   invalidity   thereof ,   shall : 
+
+ a. 
+ in   first   instance   be   refer   to   the   authorize   account   manager   of   either   party .   the   account   manager   shall   try   to   solve   the   dispute 
+ within   ten   ( 10 )   business   day .   if   the   dispute   be   not   resolve   within   the   latter   period   the   appropriate   manager   of   both   account 
+ manager   will   seek   for   a   resolution   within   ten   ( 10 )   business   days;   and 
+
+ b. 
+ thereafter ,   if   the   matter   be   not   resolve ,   it   shall   be   refer   to   the   chief   executive   officer   of   the   manage   board   of   the   party   for 
+ a   further   period   of   ten   ( 10 )   business   day   for   resolution;   and 
+ thereafter ,   if   the   matter   remain   unresolved ,   it   shall   exclusively   be   refer   and   finally   settle   by   the   competent   court   in   the   hague   within 
+ the   jurisdiction   of   the   netherlands . 
+ source : pareteum corp , 8 - k , 10/1/2008 
+
+ confidential   treatment   request 
+ with   respect   to   certain   portion   hereof 
+ denote   with   " " 
+
+ host   agreement   between   elephant   talk   and   t - mobile ,   18/9/2008 
+
+ 23 .  
+ counterpart 
+ the   agreement   be   write   in   the   english   language   in   two   ( 2 )   copy ,   each   party   receive   one   ( 1 )   duly   sign   copy .   both   copy   be 
+ authentic . 
+ sign   in   september   17 ,   2008 
+
+ for   t - mobile   netherlands   b.v . 
+ /s/   niek   jan   van   damme 
+ name :   mr .   niek   jan   van   damme 
+ title :   manage   director 
+
+ for   elephant   talk   communication   hold   ag  
+ /s/   steven   van   der   velden 
+ name :   mr .   steven   van   der   velden 
+ title :   ceo 
+
+ for   t - mobile   netherlands   b.v . 
+ /s/   han   van   leeuwen 
+ name :   han   van   leeuwen 
+ title :   financieel   directeur 
+
+ for   elephant   talk   communication   hold   ag  
+ /s/   martin   zuurbier 
+ name :   mr .   martin   zuurbier 
+ title :   cto / coo 
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+ source : pareteum corp , 8 - k , 10/1/2008

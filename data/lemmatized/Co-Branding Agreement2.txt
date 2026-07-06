@@ -1,0 +1,1444 @@
+exhibit 10.4 
+  co - branding agreement 
+ this co - branding agreement ( this " agreement " ) date september 30 , 1999 ( the 
+ " effective date " ) be enter into between verticalnet , inc . , a pennsylvania 
+ corporation have a principal place of business at 700 dresher road , suite 100 , 
+ horsham , pennsylvania , pa 19044 ( " verticalnet " ) , and paperexchange.com , llc , a 
+ delaware limited liability company have a principal place of business at 545 
+ boylston street , 8th floor , boston , ma 02116 ( " paperexchange " ) . in consideration 
+ of the mutual covenant herein , and intend to be legally bind hereby , the 
+ party agree as follow : 
+ 1 . definition 
+  1.1 . affiliate shall mean , when use with reference to a party , any 
+ individual or entity directly or indirectly control , control by or under 
+ common control with such party . for purpose of this definition , " control " mean 
+ the direct or indirect ownership of at least 50 of the outstanding voting 
+ security of a party , or the right to control the policy decision of such 
+ party . 
+  1.2 . career center net revenue shall have the meaning ascribe thereto in 
+ section 7.1.1 [ co - branded career center ] . 
+  1.3 . co - branded career center shall mean the " career center " portion of 
+ pulp and paper online locate at : 
+ http://www.pulpandpaperonline.com/content/careercenter/home/jobscan_home.asp ( or 
+ a successor site thereto ) . 
+  1.4 . co - branded equipment listing shall mean the " auction " portion of 
+ pulp and paper online locate at : 
+ http://www2.pulpandpaperonline.com/content/auctions/home.asp ( or a successor 
+ site thereto ) . 
+  1.5 . co - branded site shall mean the co - branded career center and the 
+ co - branded equipment listing . 
+  1.6 . co - branded url shall mean the mutually agree - upon url which shall 
+ be register jointly by verticalnet and paperexchange and shall route user 
+ through to the co - brand site . 
+  1.7 . confidential information shall mean all proprietary and confidential 
+ information of a party , include , without limitation , trade secret , technical 
+ information , business information , sale information , customer and potential 
+ customer list and identity , product sale plan , sublicense agreement , 
+ invention , development , discovery , software , know - how , method , technique , 
+ formulae , datum , process and other trade secret and proprietary idea , whether 
+ or not protectable under patent , trademark , copyright or other area of law , 
+ that the other party have access to or receive , but do not include information 
+ that ( a ) be or become publicly available through no fault of receive party; 
+ ( b ) be already know to the receive party at the time it be disclose to the 
+ receive party , as evidence by write record of the receive party; ( c ) be 
+ independently develop by employee of the receive party who have no knowledge 
+ of or 
+  confidential treatment request : material have be omit and file 
+  separately with the commission . 
+ access to such information , as evidence by write record of the receiving 
+ party; or ( d ) be receive from a third party who be under no obligation of 
+ confidentiality to the disclosing party . 
+  1.8 . equipment listing net revenue shall have the meaning ascribe 
+ thereto in section 7.1.2 [ co - branded equipment listing ] . 
+  1.9 . initial term shall mean the effective date through the day prior to 
+ the fourth anniversary of the effective date , unless early terminate pursuant 
+ to section 8 . 
+  1.10 . intellectual property shall mean any and all trade secret , patent , 
+ copyright , trademark , url , trade dress , brand feature , know - how and similar 
+ right of any type under the law of any applicable governmental authority , 
+ include , without limitation , all application and registration relate to 
+ any of the foregoing . 
+  1.11 . intellectual property right shall mean all right in and to 
+ intellectual property . 
+  1.12 . link shall mean a link ( include , but not limit to , a hyperlink , 
+ button or banner ) that connect two site in a manner so that when a user click 
+ on the link , the user be transfer directly from one site to a second site . a 
+ " link from site a to site b " indicate that site a be the site of origin and 
+ site b be the site to which the user be link . 
+  1.13 . net advertising revenue shall mean the gross amount bill to an 
+ advertiser for the sale of advertising on the third party advertising allocation 
+ on the paperexchange site , less ( a ) credit for claim , allowance , retroactive 
+ price reduction or return good , and ( b ) sale , excise , use , value - add and 
+ other similar taxis ( exclude income taxis ) actually pay , if applicable . 
+  1.14 . package online shall mean the site locate at 
+ www.packagingonline.com ( or a successor site thereto ) . 
+  1.15 . paperexchange career content shall have the meaning ascribe thereto 
+ in section 2.2 [ co - branded career center and co - branded ... ] . 
+  1.16 . paperexchange competitor shall mean any exchange , auction or reverse 
+ auction for the sale , purchase and/or exchange of pulp , paper and paper 
+ packaging . 
+  1.17 . paperexchange equipment content shall have the meaning ascribe 
+ thereto in section 2.2 [ co - branded career center and co - branded ... ] . 
+  1.18 . paperexchange deliverable shall mean any good , service or other item 
+ to be deliver or make available by paperexchange . 
+  1.19 . paperexchange home page shall mean the home page locate at the 
+ paperexchange site . 
+  1.20 . paperexchange link shall mean a link that contain a paperexchange 
+ mark and will take user of other site to the paperexchange home page . 
+
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+  1.21 . paperexchange mark shall mean any trademark , service mark , trade 
+ name , domain name , design or logo of paperexchange . 
+  1.22 . paperexchange revenue shall mean the gross revenue receive by 
+ paperexchange from transaction fee less ( a ) credit for claim , allowance , 
+ retroactive price reduction or return good , and ( b ) sale , excise , use , 
+ value - add and other similar taxis ( exclude income taxis ) actually pay . 
+  1.23 . paperexchange site shall mean the site locate at 
+ www.paperexchange.com ( or a successor site thereto ) . 
+  1.24 . pulp and paper online shall mean the site locate at 
+ www.pulpandpaperonline.com ( or a successor site thereto ) . 
+  1.25 . pulp and paper online competitor shall mean any online vertical 
+ community portal for professional in the pulp and paper industry ( other than 
+ pulp and paper online and paperexchange ) . 
+  1.26 . renewal term shall have the meaning ascribe thereto in section 8.1 [ automatic renewal ] . 
+  1.27 . site shall mean an internet world wide web site . 
+  1.28 . storefront shall mean a site contain in ( and link to ) a 
+ verticalnet site that , among other thing , provide information regard an 
+ advertiser and the advertiser 's product and/or service , link a visitor to the 
+ advertiser 's website , and/or generate sale lead for the advertiser from 
+ interested visitor , but do not include direct e - commerce fulfillment , such as 
+ catalog sale . 
+  1.29 . term shall mean the initial term and any renewal term . 
+  1.30 . third party advertising allocation shall have the meaning ascribe 
+ thereto in section 4.1 [ advertisement on the paperexchange site ] . 
+  1.31 . transaction fee shall mean the fee receive by paperexchange from 
+ third party in consideration for facilitate the purchase and/or sale of pulp 
+ and/or paper through the paperexchange site . 
+  1.32 . verticalnet archive content shall have the meaning ascribe thereto 
+ in section 3.2 [ verticalnet content ] . 
+  1.33 . verticalnet content shall have the meaning ascribe thereto in 
+ section 3.1 [ verticalnet content ] . 
+  1.34 . verticalnet deliverable shall mean any good , service or other item 
+ to be deliver or make available by verticalnet . 
+  1.35 . verticalnet link shall mean a link that contain a verticalnet mark 
+ and will take user of other site to a page of pulp and paper online . 
+
+  1.36 . verticalnet mark shall mean any trademark , service mark , trade name , 
+ domain name , design or logo of verticalnet . 
+ 2 . co - branded career center and co - branded equipment listing 
+  2.1 . no later than seven day after the effective date , verticalnet shall , 
+ at verticalnet 's sole cost and expense , design , develop and implement the 
+ co - brand site with the overall " look and feel " agree upon by verticalnet and 
+ paperexchange , as show in exhibit a. after the co - brand site be 
+ implement , verticalnet shall notify paperexchange in write at least five 
+ day prior to make any material change to a co - brand site , include , 
+ without limitation , a change in the location , sizing or placement of the 
+ paperexchange link . if paperexchange do not notify verticalnet of its 
+ rejection of such change within five day , paperexchange shall be deem to have 
+ approve such change . verticalnet shall design , host and maintain the co - brand 
+ site at its sole cost and expense . within 30 day after the effective date , 
+ verticalnet and paperexchange shall agree upon the co - brand url . the party 
+ shall register the co - brand url reasonably promptly after the party have 
+ agree upon they . 
+  2.2 . from time to time , paperexchange shall provide to verticalnet , at 
+ paperexchange 's sole cost and expense , relevant content provide to it by third 
+ party consist of ( a ) job listing for inclusion , at verticalnet 's 
+ reasonable business discretion and at verticalnet 's then current listing rate , 
+ in the co - branded career center or on any other verticalnet site except a site 
+ co - brand with a paperexchange competitor ( the " paperexchange career content " ) 
+ and ( b ) equipment listing for inclusion , at verticalnet 's reasonable business 
+ discretion and at verticalnet 's then current listing rate , in the co - brand 
+ equipment listing or on any other verticalnet site except a site co - brand 
+ with a paperexchange competitor ( the " paperexchange equipment content " , and 
+ together with the paperexchange career content , the " paperexchange content " ) . 
+ paperexchange shall not provide such paperexchange content to verticalnet until 
+ the third party place the listing have agree to verticalnet 's then current 
+ term and condition , subject to final approval by verticalnet . paperexchange 
+ shall provide the paperexchange content in the form of the template attach 
+ hereto as exhibit b and c. any listing place on the co - brand site ( or 
+ other verticalnet site as permit in this section 2.2 [ co - branded career center and co - branded ... ] ) by a user that enter 
+ the co - branded site or permit verticalnet site , as applicable , from a 
+ paperexchange site or from a link to pulp and paper online jointly place by 
+ verticalnet and paperexchange , or place solely by paperexchange , on a third 
+ party 's site shall be treat as " paperexchange content " for all purpose of 
+ this agreement . verticalnet shall be responsible for , and shall have sole 
+ control of , all credit , billing and collection in connection with the 
+ paperexchange content . paperexchange shall have no authority to make collection 
+ on behalf of verticalnet . 
+  2.3 . paperexchange hereby grant verticalnet an exclusive license to use , 
+ modify , enhance , reproduce , display , perform and transmit the paperexchange 
+ content , subject to and in accordance with the term , condition and provision 
+ of this agreement . verticalnet shall not disclose , transfer or otherwise provide 
+ the paperexchange content to any third party , include , but not limit to , any 
+ paperexchange competitor , except as otherwise permit under this agreement . 
+
+  2.4 . paperexchange shall , at paperexchange 's sole cost and expense , place 
+ link on the paperexchange home page label " career center " and " equipment 
+ listing " ( or mutually agreeable substitute for such term ) in a mutually 
+ agreeable location and size that will directly transfer user to the co - brand 
+ site . 
+  2.5 . verticalnet , in its reasonable business discretion , shall market the 
+ co - branded site on pulp and paper online , at pulp and paper industry trade 
+ show , in its print advertisement campaign and through its sale force . such 
+ marketing activity shall be at verticalnet 's sole cost and expense . 
+  2.6 . paperexchange , in its reasonable business discretion , shall market 
+ the co - brand site on the paperexchange home page , at pulp and paper industry 
+ trade show , in its print advertisement campaign and through its sale force . 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ such marketing activity shall be at paperexchange 's sole cost and expense . 
+  2.7 . verticalnet will provide , install , repair , maintain and pay for the 
+ communication , computer and peripheral equipment , service and facility 
+ support the co - brand site . verticalnet shall maintain the co - brand site 
+ in a high quality and professional manner consistent with its maintenance of 
+ other verticalnet site . verticalnet and paperexchange shall be responsible for 
+ the sale of all advertising on the co - branded sites; provide , however , that 
+ neither party shall sell advertising on the co - brand site to a competitor ( as 
+ define in 1.16 and 1.25 ) and provide that each party shall submit any propose 
+ advertising for the co - brand site to the other party for its prior write 
+ approval , such approval not to be unreasonably withhold , delay or condition . 
+  2.8 . verticalnet shall be solely responsible for the development , 
+ operation and maintenance of pulp and paper online and for all material that 
+ appear on pulp and paper online , except for the paperexchange content . 
+  2.9 . paperexchange shall be solely responsible for the development , 
+ operation and maintenance of the paperexchange site and for all material that 
+ appear on the paperexchange site , except for the verticalnet content and the 
+ verticalnet archived content . 
+ 3 . verticalnet content 
+  3.1 . verticalnet shall provide or make available to paperexchange , for use 
+ in accordance with the provision of this agreement , ( a ) the full text of all 
+ original content ( headline , feature article , column and case study ) create 
+ from time to time by the manage editor of pulp and paper online , and ( b ) the 
+ content create from time to time by guest columnist for pulp and paper online , 
+ to the extent such columnist have approve the provision of such content by 
+ verticalnet to paperexchange . verticalnet shall provide such content ( the 
+ " verticalnet content " ) to paperexchange twice per week , in two " batch " of the 
+ verticalnet content create or acquire since the last provision of verticalnet 
+ content by verticalnet to paperexchange . 
+  3.2 . verticalnet hereby grant to paperexchange a non - exclusive , 
+ non - transferable license to use , reproduce , display and transmit the verticalnet 
+ content , solely in connection with the development , maintenance and operation of 
+ the paperexchange site , subject to and in accordance with the term , condition 
+ and provision of this agreement . paperexchange may 
+
+ reproduce , display and transmit any verticalnet content for up to three week on 
+ the paperexchange site , and after the expiration of such three week period 
+ paperexchange shall cease to reproduce , display and transmit such verticalnet 
+ content and remove such verticalnet content from the paperexchange site . 
+  3.3 . paperexchange shall place a verticalnet link in a mutually agreeable 
+ location and size on each page of the paperexchange site that contain all or a 
+ portion of the verticalnet content . 
+  3.4 . paperexchange shall list on a mutually acceptable page of the 
+ paperexchange site headline and abstract of the verticalnet content then 
+ reproduce , display and transmit on the paperexchange site . paperexchange 
+ shall place two verticalnet link in mutually agreeable location and size on 
+ such page of the paperexchange site , the first of which will take user to the 
+ buyer 's guide on pulp and paper online , and the second of which will take user 
+ to the professional e - bookstore on pulp and paper online . verticalnet and 
+ paperexchange shall mutually agree upon the method of implement such link . 
+  3.5 . paperexchange shall not remove any title or any trademark , copyright 
+ or patent notice , or any proprietary or restricted right notice that appear 
+ on the verticalnet content and/or the verticalnet archive content . all such 
+ title and notice must be reproduce on all permit copy of the verticalnet 
+ content and/or the verticalnet archive content . 
+  3.6 . during the term , verticalnet will not disclose , transfer or otherwise 
+ provide the verticalnet content and/or the verticalnet archive content to any 
+ paperexchange competitor . 
+ 4 . advertising 
+  4.1 . advertisement on the paperexchange site . 
+  4.1.1 . during the term , verticalnet shall have the exclusive 
+ right to arrange for the sale of of the third party advertising 
+ inventory ( which shall consist of a minimum of one advertisement per page on 
+ each of the " co - branded equipment , " " co - branded career , " " resource " and 
+ " home page " section or successor , replacement or substitute section ) of the 
+ paperexchange site and shall be consistent with the amount of advertising on 
+ other business to business vertical site on the paperexchange site ( the 
+ " third party advertising allocation " ) . paperexchange shall retain the right 
+ to place advertisement for its own account on the remaining of the 
+ third party advertising allocation; provide , however , that if any portion of 
+ such third party advertising allocation remain unsold 45 day after it 
+ become available for advertising , verticalnet shall have the exclusive right 
+ to arrange for third party advertising on such unsold third party advertising 
+ allocation . 
+  4.1.2 . verticalnet will use reasonable effort to sell 
+ advertisement on the paperexchange site . the advertising policy ( include 
+ rate and procedure ) applicable to verticalnet 's sale of advertising for the 
+ paperexchange site will be mutually agree upon by verticalnet and paperexchange 
+ ( the " paperexchange advertising policy " ) . any change to the agree upon 
+ paperexchange advertising policy shall be mutually agree upon by the party . 
+  confidential treatment request : material have be omit and file 
+  separately with the commission . 
+
+  4.1.3 . verticalnet shall provide notice to the director of online 
+ marketing of paperexchange of each advertiser that agree to place an 
+ advertisement on a paperexchange site on the term and condition contain in 
+ the then current paperexchange advertising policy . paperexchange shall then 
+ have three business day after receipt of such notice to ( a ) accept or reject 
+ such advertiser , in its reasonable business discretion , and ( b ) notify 
+ verticalnet of its decision . if , at the end of such three - day period , 
+ paperexchange have not respond to such notice , paperexchange shall be deem to 
+ have accept such advertiser . paperexchange shall then work with the advertiser 
+ to facilitate the placement of the advertisement and maintain such advertisement 
+ on the agree - upon page of the paperexchange site . paperexchange shall have the 
+ right to terminate its agreement with any such advertiser in its reasonable 
+ business discretion . to the extent an advertisement of equivalent size and 
+ location appear on both pulp and paper online and the paperexchange site , the 
+ party shall mutually agree upon the cpm , cpc or other use - base advertising 
+ rate , which rate shall be identical for such advertisement . paperexchange 
+ shall be responsible for , and shall have sole control of , all credit , billing 
+ and collection with the advertisement on the paperexchange site . verticalnet 
+ shall have no authority to make collection on behalf of paperexchange . 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+  4.2 . sale lead . paperexchange will , in its sole discretion , request that 
+ its board of director and veteran industry sale force use reasonable effort 
+ to provide pulp and paper industry specific sale strategy and specific sale 
+ lead to verticalnet . such strategy and lead shall include segment of the 
+ industry that be currently lack effective advertising solution , and how 
+ such industry participant could be market to by verticalnet for the purpose 
+ of this section 4 . verticalnet may only use the information provide to they 
+ pursuant to this section 4.2 [ sale lead ] in connection with its performance under this 
+ section 4 . 
+  4.3 . non - competition . 
+  4.3.1 . during the term , verticalnet shall not ( a ) act as an 
+ advertising agent or representative for any paperexchange competitor and ( b ) 
+ place any advertisement on pulp and paper online from any paperexchange 
+ competitor . 
+  4.3.2 . during the term , paperexchange shall not place any 
+ advertisement on the paperexchange site from any pulp and paper online 
+ competitor . 
+ 5 . co - marketing activity 
+  5.1 . trade show and convention . 
+  5.1.1 . during the term , paperexchange shall use commercially 
+ reasonable effort to expand its presence at major national and international 
+ pulp and paper industry trade show and convention , include booth 
+ exhibition , attendance by industry veteran sale force from all the major paper 
+ grade and industry panel sponsorship , when available . paperexchange , in its 
+ reasonable business discretion , shall actively engage in co - branded activity 
+ with verticalnet at paperexchange 's booth exhibition and shall maintain an open 
+ invitation policy for verticalnet to send its own sale force to co - locate , 
+ subject to section 5.1.3 [ trade show and convention ] , with paperexchange at its trade show booth . 
+  5.1.2 . verticalnet , in its reasonable business discretion , shall 
+ offer paperexchange 
+
+ exhibit booth space at pulp and paper industry trade show that verticalnet be 
+ unable to use on the same term that verticalnet accept for such space . 
+  5.1.3 . when verticalnet and paperexchange be both attend pulp 
+ and paper industry trade show , verticalnet and paperexchange shall work 
+ together to share cost of such trade show and related material . 
+  5.2 . sale force visit . paperexchange shall use commercially reasonable 
+ effort to ( a ) expand its sale force presence on a national and international 
+ basis , in all major paper grade and ( b ) commit its sale force to promote pulp 
+ and paper online through " on - the - ground " activity include site visit to 
+ mill , converter , printer and broker . 
+  5.3 . advertising campaign . 
+  5.3.1 . paperexchange shall , in its reasonable business discretion , 
+ promote the paperexchange site through print medium . 
+  5.3.2 . verticalnet shall , in its reasonable business discretion , 
+ promote pulp and paper online through print medium . 
+  5.3.3 . verticalnet and paperexchange shall co - promote the 
+ paperexchange home page and pulp and paper online in mutually agreeable 
+ advertising and collateral marketing material . all co - promotion advertising 
+ material produce by or on behalf of either party ( the " originate party " ) 
+ shall be subject to the write approval of the other party ( the " receive 
+ party " ) , which approval shall not to be unreasonably withhold , delay or 
+ condition . the receive party shall notify the originate party of its 
+ approval or disapproval of such advertising material as soon as practicable , 
+ but in any event within five business day after receive party 's receipt 
+ thereof . any failure of the receive party to respond within such five business 
+ day period shall be deem disapproval of the advertising material in question . 
+  5.4 . pulp and paper online promotion . paperexchange shall place the 
+ verticalnet link in a mutually agreeable location and size on the paperexchange 
+ site as soon as practicable and in no event more than 15 day after the 
+ effective date . the verticalnet link shall remain on the paperexchange site 
+ during the term . 
+  5.5 . paperexchange home page promotion . verticalnet shall place the 
+ paperexchange link on pulp and paper online in a mutually agreeable location 
+ and size as soon as practicable and in no event more than 15 day after the 
+ effective date . the paperexchange link shall remain on pulp and paper online 
+ during the term . 
+  5.6 . newsletter . verticalnet shall include a paperexchange link in a 
+ mutually agreeable location and size in the pulp and paper online weekly online 
+ newsletter send to verticalnet 's newsletter database . 
+  5.7 . discussion group . verticalnet , in its reasonable business 
+ discretion , shall provide to paperexchange co - sponsorship opportunity for 
+ discussion group and usenet forum . 
+  5.8 . non - competition . 
+
+  5.8.1 . during the term and for a period of four year after the 
+ termination of this agreement , verticalnet shall not , directly or indirectly , by 
+ itself , through its affiliate or through any type of joint venture or similar 
+ affiliation with a third party , without prior write approval from 
+ paperexchange , buy , sell or trade ( a ) paper pulp product through exchange , 
+ auction , or reverse auction or any other e - commerce medium , ( b ) paper ( other 
+ than finish paper - base product , include , but not limit to , book , stamp 
+ and label ) and copy paper ( i ) through exchange , auction or reverse auction 
+ or ( ii ) in quantity great than one ton through any e - commerce medium , ( c ) 
+ raw material use to make paper packaging , include , but not limit to , 
+ linerboard , medium , other containerboard grade and corrugate sheet through 
+ exchange , auction , reverse auction or any other e - commerce medium , or ( d ) 
+ paper roll and reel weigh more than 50 pound use by printer through 
+ exchange , auction , reverse auction or any other e - commerce medium; provide , 
+ however , that this section 5.8.1 [ non - competition ] shall not apply to advertisement , storefront 
+ or similar feature on verticalnet 's site . 
+  5.8.2 . during the term , verticalnet will not , directly or 
+ indirectly , design , host , operate , maintain or otherwise participate in a 
+ co - branded career center or a co - brand equipment list site with a 
+ paperexchange competitor or license a verticalnet link for use or display on any 
+ paperexchange competitor 's site . 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+  5.8.3 . during the term , paperexchange will not , directly or 
+ indirectly , design , host , operate , maintain or otherwise participate in a 
+ co - branded career center or a co - brand equipment list site with a pulp and 
+ paper online competitor or license a paperexchange link for use or display on 
+ any pulp and paper online competitor 's site . 
+  5.9 . exchange . 
+  5.9.1 . paperexchange shall provide to verticalnet an i d and a 
+ password that will allow verticalnet to access the " exchange " portion of the 
+ paperexchange site . paperexchange shall provide reasonable training to 
+ verticalnet with respect to the creation , operation and marketing of such an 
+ exchange . 
+  5.9.2 . paperexchange will place a verticalnet link in a mutually 
+ agreeable location and size on the " exchange " portion of the paperexchange site . 
+  5.10 . allocation of resource . during the term , each of paperexchange and 
+ verticalnet agree to dedicate reasonable financial , marketing and staffing 
+ resource in order to actively promote the activity contemplate by this 
+ agreement and will use reasonable effort to maintain the strategic alliance 
+ describe in this agreement ( and its focus on the pulp , paper and packaging 
+ industry generally ) as a high priority . 
+ 6 . intellectual property 
+  6.1 . except as set forth in section 4.3.1 [ non - competition ] and 5.8 [ non - competition ] , nothing in this 
+ agreement shall be construe as prevent verticalnet from implement 
+ verticalnet link on any other site . 
+  6.2 . except as set forth in section 4.3 [ non - competition ] or 5.8.3 [ non - competition ] , nothing in this 
+ agreement shall be construe as prevent paperexchange from implement 
+ paperexchange link on any other site . 
+
+  6.3 . verticalnet hereby grant to paperexchange a non - exclusive , 
+ non - transferable , royalty - free , right and license to link to pulp and paper 
+ online through a verticalnet link . verticalnet shall furnish paperexchange with 
+ a full color representation of each verticalnet link at least two day prior to 
+ its scheduled placement on a page of the paperexchange site . if verticalnet 
+ subsequently modify any verticalnet link or the url associate with such 
+ verticalnet link , it shall furnish a representation of same to paperexchange , 
+ which paperexchange shall substitute for the prior version within two day after 
+ receipt thereof . verticalnet shall have final approval over all verticalnet 
+ link on the paperexchange site . 
+  6.4 . paperexchange hereby grant verticalnet a non - exclusive , 
+ non - transferable , royalty - free , right and license to link to the paperexchange 
+ site through a paperexchange link . paperexchange shall furnish verticalnet with 
+ a full color representation of each paperexchange link at least two day prior 
+ to its scheduled placement on pulp and paper online . if paperexchange 
+ subsequently modify any paperexchange link or the url associate with such 
+ paperexchange link , it shall furnish a representation of same to verticalnet , 
+ which verticalnet shall substitute for the prior version within two day after 
+ receipt thereof . paperexchange shall have final approval over all paperexchange 
+ link on pulp and paper online . 
+  6.5 . except for the express right grant to paperexchange under this 
+ agreement , paperexchange acknowledge and agree that the intellectual property 
+ of verticalnet be and shall remain the sole property of verticalnet and nothing 
+ in this agreement shall confer in paperexchange any right of ownership or 
+ license right in verticalnet 's intellectual property . in addition , 
+ paperexchange shall not now or in the future contest the validity of 
+ verticalnet 's intellectual property . 
+  6.6 . except for the express right grant to verticalnet under this 
+ agreement , verticalnet acknowledge and agree that the intellectual property of 
+ paperexchange be and shall remain the sole property of paperexchange and nothing 
+ in this agreement shall confer in verticalnet any right of ownership or license 
+ right in paperexchange 's intellectual property . in addition , verticalnet shall 
+ not now or in the future contest the validity of paperexchange 's intellectual 
+ property . 
+  6.7 . paperexchange agree to use the verticalnet mark in accordance with 
+ the term of this agreement and with good trademark practice include , but not 
+ limit to , protect the value of the goodwill reside in such intellectual 
+ property . 
+  6.8 . verticalnet agree to use the paperexchange mark in accordance with 
+ the term of this agreement and with good trademark practice include , but not 
+ limit to , protect the value of the goodwill reside in such intellectual 
+ property . 
+  6.9 . except as set forth in section 4.3 [ non - competition ] and 5.8 [ non - competition ] , nothing in this 
+ agreement shall be construe as prevent either party from develop other 
+ co - branded version of its material , datum , information and content . 
+
+ 7 . commercial term 
+  7.1 . co - brand site . 
+  7.1.1 . co - branded career center . verticalnet will pay paperexchange 
+  of the career center net revenue . ."career center net revenue " shall mean 
+ the ( a ) list fee relate to the co - branded career center and any other 
+ verticalnet site on which the listing be post , ( b ) co - branded career center 
+ e - commerce revenue and ( c ) other co - branded career center revenue , in each case 
+ under the precede clause ( a ) , ( b ) and ( c ) , to the extent derive during the 
+ term from paperexchange or the paperexchange content provide to verticalnet by 
+ paperexchange pursuant to this agreement , or as otherwise mutually agree upon 
+ by the party , less ( i ) credit for claim , allowance , retroactive price 
+ reduction or return good , and ( ii ) sale , excise , use , value - add and other 
+ similar taxis ( exclude income taxis ) actually pay . 
+  7.1.2 . co - branded equipment listing . verticalnet will pay 
+ paperexchange of the equipment listing net revenue . " equipment listing 
+ net revenue " shall mean the ( a ) list fee relate to co - brand equipment 
+ listing and any other verticalnet site on which the listing be post , ( b ) 
+ co - branded equipment listing e - commerce revenue and ( c ) other co - brand 
+ equipment listing revenue , in each case under the precede clause ( a ) , ( b ) 
+ and ( c ) , to the extent derive during the term from paperexchange or the 
+ paperexchange content provide to verticalnet by paperexchange pursuant to this 
+ agreement , or as otherwise mutually agree upon by the party , less ( i ) credit 
+ for claim , allowance , retroactive price reduction or return good , and ( ii ) 
+ sale , excise , use , value - add and other similar taxis ( exclude income taxis ) 
+ actually pay . 
+  7.1.3 . review of payment . verticalnet and paperexchange will 
+ conduct a good faith review of the payment generate under section 7.1.1 [ co - branded career center ] and 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ 7.1.2 [ co - branded equipment listing ] no later than six month after the effective date and may mutually agree , 
+ subject to section 13.6 [ amendment or modification ] , to amend section 7.1.1 [ co - branded career center ] and/or 7.1.2 [ co - branded equipment listing ] at that time . if 
+ verticalnet and paperexchange be unable to reasonably agree on whether or how 
+ to amend section 7.1.2 [ co - branded equipment listing ] , either party shall have the right to immediately 
+ terminate the right and obligation of the party under section 2 and 7.1.2 [ co - branded equipment listing ] 
+ with respect to the co - brand equipment listing and paperexchange equipment 
+ content; provide , however , that all other right and obligation under this 
+ agreement ( include the right and obligation of the party under section 
+ 4.3 [ non - competition ] and 5.8 [ non - competition ] ) shall continue in full force and effect unless and until terminate 
+ in accordance with section 8 . the party understand and agree that termination 
+ of the right and obligation of the party under section 2 and 7.1.2 [ co - branded equipment listing ] in 
+ accordance with this section 7.1.3 [ review of payment ] shall not permit either party to terminate 
+ this agreement pursuant to section 8.2 [ termination for cause ] . 
+  7.1.4 . professional e - bookstore sale . verticalnet will pay 
+ paperexchange of the gross sale of the professional e - bookstore on pulp 
+ and paper online that originate from the paperexchange site . 
+  7.2 . advertising revenue . 
+  7.2.1 . during the term , verticalnet shall not share any revenue 
+ derive from advertisement host on pulp and paper online or any other 
+ verticalnet site with paperexchange; provide , however , that if paperexchange 
+ bring verticalnet a qualified lead 
+  confidential treatment request : material have be omit and file 
+  separately with the commission 
+
+ ( as define below ) for a new customer that turn into a sale of advertising 
+ on pulp and paper . online or package online , include , without limitation , 
+ the co - brand site , verticalnet shall pay to paperexchange a commission of 
+  of the net advertising revenue result from such sale of advertising , 
+ with the exception that if such advertising be on the co - brand career 
+ center , verticalnet shall pay paperexchange a commission of of the net 
+ advertising revenue result from such sale of advertising . as use in this 
+ section 7.2.1 [ advertising revenue ] , a " qualified lead " shall mean a customer refer to 
+ verticalnet by paperexchange that be not , at the time of referral , a customer 
+ of verticalnet , and which customer have agree to place an advertisement on 
+ pulp and paper online or package online on the term and condition 
+ contain in verticalnet 's then current advertising policy . 
+  7.2.2 . paperexchange shall pay to verticalnet a commission of 
+  of the net advertising revenue receive during the term for 
+ advertisement locate on the third party advertising allocation of the 
+ paperexchange site . 
+  7.2.3 . if paperexchange sell advertising to a third party on the 
+ paperexchange site independently from verticalnet , paperexchange shall pay to 
+ verticalnet a commission of of the net advertising revenue result 
+ from such advertising during the term; provide , however , that if 
+ paperexchange previously reject advertising by such party when propose by 
+ verticalnet pursuant to section 4.1 [ advertisement on the paperexchange site ] , or terminate without cause a prior 
+ agreement with such third party that have result from such a proposal by 
+ verticalnet , then paperexchange shall pay of the net advertising revenue 
+ result from such advertising during the term to verticalnet . paperexchange 
+ shall provide prompt notice to verticalnet of each advertiser that have agree 
+ with paperexchange to place an advertisement on a page of the paperexchange 
+ site . 
+  7.3 . fee . in consideration of verticalnet 's agreement to enter into an 
+ exclusivity and non - competition agreement herein , in conjunction with the other 
+ obligation under this agreement , paperexchange shall make the follow 
+ payment to verticalnet upon the early of ( a ) december 31 , 1999 and ( b ) the 
+ receipt by paperexchange of an aggregate of in additional funding : 
+  7.3.1 . a one - time , non - refundable fee in consideration of 
+ the execution of this agreement; 
+  7.3.2 . a one - time , non - refundable fee in consideration of 
+ the design , development and implementation of the co - branded career center as 
+ describe in section 2; and 
+  7.3.3 . in consideration of the design , development and 
+ implementation of the co - brand equipment listing site as describe in section 
+ 2 . 
+  7.4 . revenue sharing . after paperexchange have generate paperexchange 
+ revenue equal to , paperexchange shall pay an amount equal to of 
+ the paperexchange revenue to verticalnet; provide , however , that if , in any 
+ give calendar year , verticalnet receive pursuant to this section 7.4 [ revenue sharing ] , 
+ the percentage of paperexchange revenue that paperexchange shall pay to 
+ verticalnet for the remainder of such calendar year shall be reduce to 
+ ; and provide far , however , that if , in any give calendar year , 
+ verticalnet receive 
+  confidential treatment request : material have be omit and file 
+  separately with the commission . 
+
+  in the aggregate pursuant to this section 7.4 [ revenue sharing ] , the percentage of 
+ paperexchange revenue that paperexchange shall pay to verticalnet for the 
+ remainder of such calendar year shall be reduce to . 
+  7.5 . payment term . each party shall provide the other party with all 
+ amount due under this agreement for the prior calendar quarter within 30 day 
+ after the end of each calendar quarter during the term . each payment shall be 
+ accompany by a statement detail the amount of applicable gross revenue 
+ receive , the calculation of the amount due to the other party and the amount of 
+ the payment accompany such statement . all payment due to either party 
+ hereunder shall be make in immediately available u.s . fund , without set - off or 
+ counterclaim , free and clear of ( and without deduction for or gross up for , as 
+ applicable ) , any taxis , duty , charge , withholding , restriction or 
+ condition of any nature impose or levy by any governmental taxing or other 
+ authority . 
+  7.6 . taxis . all payment require under this agreement be exclusive of 
+ federal , state , local and foreign taxis , duty , tariff , levy and similar 
+ assessment . when applicable , such taxis shall appear as separate item on a 
+ party 's invoice or statement of the other party . payment of such taxis or 
+ charge shall be the responsibility of the party whose obligation it be under 
+ this agreement to make the payment in respect of which such taxis be assess , 
+ exclude any taxis base upon the other party 's net income . in lieu thereof , a 
+ party shall provide the other party with a tax or levy exemption certificate 
+ acceptable to the tax or levy authority . 
+  7.7 . audit . during the 18 - month period follow the payment by one party 
+ of any amount due under this agreement to the other party , the party receive 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ payment ( the " auditing party " ) shall have the right to have an independent third 
+ party ( the " auditor " ) audit the financial record of the other party ( the 
+ " audit party " ) relate to such payment to verify the accuracy of the audit 
+ party 's financial record in order to verify the amount of the payment owe 
+ and/or pay . the auditing party may cause the auditor to perform such an audit 
+ not more than once in any 12 - month period , unless a prior audit within the past 
+ two year reveal that the amount owe by the audit party to the auditing 
+ party be underpaid in excess of 5 of the amount owe , in which case an audit 
+ may be perform no more frequently than once in any three month period . if the 
+ amount owe by the audit party to the auditing party be underpaid , the 
+ audit party shall pay the additional amount owe and all accrue interest 
+ thereon to the auditing party within 15 day of notice of such underpayment to 
+ the audit party . if the amount owe by ' the audit party to the auditing 
+ party be underpaid in excess of 10 of the amount owe , the fee of such audit 
+ shall also be pay to the auditing party within 15 day of notice of such to the 
+ audit party . if the amount owe by the audit party to the auditing party be 
+ overpay , the auditing party shall return the excess amount pay to the auditing 
+ party within 15 day of notice of such underpayment to the auditing party . the 
+ auditing party shall give reasonable advance write notice to the audit 
+ party , and each audit shall be conduct during normal business hour and in a 
+ manner that do not cause unreasonable disruption to the conduct of business by 
+ the audit party . 
+  7.8 . interest . all payment not pay by the date such payment be due 
+ shall bear interest from the due date to the date payment be actually pay at 
+ the rate of the low of ( a ) 1 per month or ( b ) the maximum rate permit by 
+ law . 
+  confidential treatment request : material have be omit and file 
+  separately with the commission . 
+
+ 8 . term and termination 
+  8.1 . automatic renewal . this agreement will automatically renew at the end 
+ of the initial term or a subsequent renewal term on a year to year basis ( each , 
+ a " renewal term " ) , unless either party notifie the other at least 30 day prior 
+ to the end of the initial term or then current renewal term , as applicable , of 
+ its intention not to renew this agreement . 
+  8.2 . termination for cause . either party may terminate this agreement 
+ immediately upon write notice to the other party in the event any material 
+ breach of a material term of this agreement by such other party that remain 
+ uncured 30 day in the case of a breach of a payment obligation , or 45 day for 
+ all other breach , after notice of such breach be receive by such other 
+ party; provide , however that if such breach be not reasonably capable of cure 
+ within the applicable cure period , the breach party shall have an additional 
+ 180 day to cure such breach so long as the cure be commence within the 
+ applicable cure period and thereafter be diligently prosecute to completion as 
+ soon as possible . 
+  8.3 . upon termination . upon termination of this agreement , ( a ) each 
+ party 's liability for any charge , payment or expense due to the other party 
+ that accrue prior to the date of termination shall not be extinguish by 
+ termination , and such amount ( if not otherwise due on an early date ) shall be 
+ immediately due and payable on the termination date; ( b ) verticalnet shall be 
+ responsible for all charge , payment or expense incur by it in connection 
+ with the removal of the paperexchange link from co - brand site and the 
+ modification of the co - brand site , include , but not limit to , the removal 
+ of paperexchange content; ( c ) paperexchange shall be responsible for all 
+ charge , payment or expense incur by it in connection with the removal of 
+ the verticalnet link , verticalnet content and verticalnet archive content from 
+ the paperexchange site; ( d ) all right of paperexchange to use , display , 
+ reproduce or publish the verticalnet mark shall immediately cease . ( e ) all 
+ right of paperexchange to use , reproduce , display and transmit the verticalnet 
+ content and verticalnet archived content shall immediately cease and 
+ paperexchange shall destroy all copy of such content , ( f ) all right of 
+ verticalnet to use , display , reproduce or publish the paperexchange mark shall 
+ immediately cease , ( g ) all right of verticalnet to use , create derivative work 
+ of , reproduce , display , perform and transmit the paperexchange content shall 
+ immediately cease and verticalnet shall , at paperexchange 's cost , return one 
+ copy of the paperexchange content display on the co - brand site to 
+ paperexchange in electronic format and destroy all other copy of such content , 
+ ( h ) all right of verticalnet to arrange for the sale of advertising on the 
+ third party advertising allocation on the paperexchange site shall immediately 
+ cease , ( i ) verticalnet shall retain ownership of the url at which the 
+ co - brand site be locate , ( i ) the co - brand url shall be own by the 
+ party that offer to pay the high amount to the other for the ownership of 
+ such url upon payment of such amount to the other party ( k ) if the agreement be 
+ terminate during the initial term by verticalnet pursuant to section 8.2 [ termination for cause ] , ( x ) 
+ verticalnet shall be release from its obligation under section 5.8.1 [ non - competition ] and ( y ) 
+ paperexchange 's obligation under section 7.2 [ advertising revenue ] and 7.4 [ revenue sharing ] shall be extend for one 
+ year after the date of such termination , and ( i ) if the agreement be terminate 
+ during the initial term by paperexchange pursuant to section 8.2 [ termination for cause ] , verticalnet 
+ shall pay to paperexchange , as liquidate damage , an amount equal to the 
+ product determine by multiply ( 1 ) a fraction , the numerator of which shall 
+ be the number of day between the effective date of termination and the 
+ schedule expiration date of the initial term , and the denominator of which 
+ shall be the number of day 
+
+ between the effective date and the scheduled expiration date of the initial 
+ term , by ( 2 ) 
+ 9 . dispute resolution 
+  9.1 . negotiation and escalation . if any controversy or claim arise 
+ relate to this agreement , the party will attempt in good faith to negotiate 
+ a solution to their difference , include progressively escalate any 
+ controversy or claim through senior level of management . if negotiation do 
+ not result in a resolution within 30 day of when one party first notifie the 
+ other of the controversy or claim , either party may resort to arbitration under 
+ section 9.2 [ arbitration ] . 
+  9.2 . arbitration . any controversy or claim between the party concern 
+ any breach or allege breach of this agreement or performance or nonperformance 
+ of any obligation under this agreement which can not be resolve by negotiation 
+ will be resolve by bind arbitration under this section 9.2 [ arbitration ] and the 
+ then - current commercial rule and supervision of the american arbitration 
+ association ( the " aaa " ) . if any part of this section 9.2 [ arbitration ] be hold to be 
+ unenforceable , it will be sever and will not affect either the duty to 
+ arbitrate or any other part of this section 9.2 [ arbitration ] . the arbitration will be hold in 
+ new york , new york , before a sole disinterested arbitrator who be knowledgeable 
+ in business information and the internet and experience in handle commercial 
+ dispute . the arbitrator shall be appoint jointly by the party hereto within 
+ 30 day follow the date on which the arbitration be institute . if the 
+ party be unable to agree upon the arbitrator within such 30 - day period , the 
+ aaa shall be instruct to select such arbitrator within 15 day thereafter . the 
+ arbitrator 's award will be final and binding and may be enter in any court 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ have jurisdiction . the arbitrator will not have the power to award punitive or 
+ exemplary damage , or any damage exclude by , or in excess of , any damage 
+ limitation express in this agreement . issue of arbitrability will be 
+ determine in accordance solely with the federal substantive and procedural law 
+ relate to arbitration; in all other respect , the arbitrator will be obligate 
+ to apply and follow the substantive law of the commonwealth of pennsylvania . 
+  9.3 . equitable relief . notwithstanding anything to the contrary in this 
+ agreement , in the event of an allege violation of article 10 [ confidentiality ] of this agreement 
+ by either party , the party allege such a violation may seek temporary 
+ injunctive or other appropriate equitable relief from any court of competent 
+ jurisdiction pende appointment of an arbitrator . the party request such 
+ relief shall simultaneously file a demand for arbitration of the dispute , and 
+ shall request that the american arbitration association procee under its rule 
+ for an expedite hearing . 
+  9.4 . cost . unless the arbitrator , if any , determine otherwise , each 
+ party will bear its own attorney ' fee and other cost associate with the 
+ negotiation and arbitration provide for by this article 9 [ dispute resolution ] , except that cost 
+ and expense of the arbitrator shall be share equally . if court proceeding to 
+ stay litigation or compel arbitration be necessary , the party who 
+ unsuccessfully oppose such proceeding will pay all associate cost , expense 
+ and attorney ' fee that be reasonably incur by the other party . 
+  confidential treatment request : material have be omit and file 
+  separately with the commission . 
+
+  9.5 . two year limitation . except for claim under section 12.4 [ indemnification by paperexchange ] and 12.5 [ indemnification by verticalnet ] 
+ hereof , neither party may bring a claim or action regardless of form , arise 
+ out of or relate to this agreement , include any claim of fraud or 
+ misrepresentation , more than two year after the cause of action accrue or 
+ becomes know , whichever be later . 
+  9.6 . confidentiality . in order to facilitate the resolution of 
+ controversy or claim between the party with respect to each party hereto , 
+ such controversy or claim , include detail regard negotiation , 
+ arbitration and settlement term , shall be treat as confidential information 
+ of the other party hereto in accordance with article 10 [ confidentiality ] . 
+  9.7 . remedial measure . in the event of ( a ) any material remediable breach 
+ of this agreement by the other party which remain uncured 30 day after notice 
+ of such breach ( other than a breach of a payment obligation ) be receive by the 
+ other party or ( b ) any material breach which can not be cure , the non - breaching 
+ party may take reasonable remediable measure at the cost of the breach party 
+ without prejudice and in addition to any other right arise from such breach . 
+ in addition , the non - breach party shall take reasonable step to mitigate 
+ damage arise out of such breach . 
+ 10 . confidentiality 
+  10.1 . confidentiality obligation . except as permit elsewhere under 
+ this agreement , each party agree to take reasonable step ( as define below ) 
+ ( a ) to receive and maintain the confidential information of the other party in 
+ confidence , ( b ) not to disclose such confidential information to any third 
+ party and ( c ) to promptly notify the disclosing party upon learning of any 
+ law , rule , regulation or court order that purport to compel disclosure of any 
+ confidential information of the disclosing party and to reasonably cooperate 
+ with the disclosing party in the exercise of the disclosing party 's right to 
+ protect the confidentiality of such confidential information . neither party 
+ hereto shall use all or any part of the confidential information of the other 
+ party for any purpose other than to perform its obligation under this 
+ agreement . the party will take reasonable step ( as define below ) to ensure 
+ that their employee , representative and agent comply with this provision . as 
+ use herein , " reasonable step " mean at least the same degree of care that the 
+ receive party use to protect its own confidential information , and , in no 
+ event , no less than reasonable care . 
+  10.2 . exclusion . nothing contain herein shall prevent a party from 
+ disclose confidential information pursuant to any applicable law , rule , 
+ regulation or court order; provide , however , that such party complie with the 
+ notice provision of section 10.1(c ) [ confidentiality obligation ] to the extent permissible under applicable 
+ law , rule , regulation or court order . such disclosure shall not alter the 
+ status of such information hereunder for all other purpose as confidential 
+ information . 
+  10.3 . termination . subject to section 13.10 [ survival ] , upon termination of this 
+ agreement , all confidential information shall be return to the disclosing 
+ party or destroy unless otherwise specify or permit elsewhere under this 
+ agreement . the confidentiality obligation contain in this article 10 [ confidentiality ] shall 
+ survive termination of this agreement for a period of three year . 
+
+  10.4 . injunction . each party acknowledge and agree that the provision 
+ of this article 10 [ confidentiality ] be reasonable and necessary to protect the other party 's 
+ interest in its confidential information , that any breach of the provision of 
+ this article 10 [ confidentiality ] may result in irreparable harm to such other party , and that the 
+ remedy at law for such breach may be inadequate . accordingly , in the event of 
+ any breach or threaten breach of the provision of this article 10 [ confidentiality ] by a party 
+ hereto , the other party , in addition to any other relief available to it at law , 
+ in equity or otherwise , shall be entitle to seek temporary and permanent 
+ injunctive relief restrain the breach party from engage in and/or 
+ continue any conduct that would constitute a breach of this article 10 [ confidentiality ] , 
+ without the necessity of prove actual damage or post a bond or other 
+ security . 
+  10.5 . publicity . except as may be require by applicable law , rule or 
+ regulation ( include those arise under any security law ) , neither party 
+ will originate any publicity , news release or other public announcement , write 
+ or oral , whether to the public press or otherwise , concern the relationship 
+ between the party or the transaction describe in this agreement without the 
+ prior write consent of the other party , which consent shall not be 
+ unreasonably withhold or delay . in the event disclosure be require by 
+ applicable law , rule or regulation , then the party require to so disclose 
+ such information shall , to the extent possible , provide to the other party for 
+ its approval ( such approval not to be unreasonably withhold ) a write copy of 
+ such public announcement at least five business day prior to disclosure . 
+ notwithstanding the foregoing , either party shall have the right to make a press 
+ release with respect to its entering into this agreement; provide that such 
+ party provide to the other party a copy of the propose press release no less 
+ than five business day prior to its propose release and that the content of 
+ such press release shall be subject to the other party 's consent , which consent 
+ shall not be unreasonably delay or withhold . 
+ 11 . representation and warranty . each party hereby represent , covenant and 
+ warrant to the other party that : 
+  11.1 . it have the corporate power to enter into this agreement and to grant 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ the right and license grant herein and otherwise perform this agreement; 
+  11.2 . it be not a party to any agreement or understanding and know of no 
+ law or regulation that would prohibit it from enter into and perform this 
+ agreement or that would conflict with this agreement; and 
+  11.3 . when execute and deliver by it , this agreement will constitute a 
+ legal , valid and binding obligation of it , enforceable against it in accordance 
+ with this agreement 's term . 
+ 12 . disclaimer of warranty , limitation of liability and indemnification . 
+  12.1 . disclaimer of warranty . except as expressely set forth in this 
+ agreement , verticalnet hereby disclaim all warranty , express , imply or 
+ statutory , with respect to any and all verticalnet deliverable , include but 
+ not limit to any imply warranty of merchantability , fitness for a 
+ particular purpose , title and non - infringement . 
+
+  12.2 . disclaimer of warranty . except as expressly set forth in this 
+ agreement , paperexchange hereby disclaim all warranty , express , imply or 
+ statutory , with respect to any and all paperexchange deliverable , include but 
+ not limit to any imply warranty of merchantability , fitness for a 
+ particular purpose , title and non - infringement . 
+  12.3 . limitation of liability . except in connection with a breach by 
+ either party of article 10 , the indemnification obligation of paperexchange 
+ under section 12.4(c ) [ indemnification by paperexchange ] and the indemnification obligation of verticalnet under 
+ section 12.5(c ) [ indemnification by verticalnet ] , neither party will be liable for any special , indirect , 
+ consequential , exemplary or incidental damage arise out of or relate to this 
+ agreement , however cause and under any theory of liability ( include 
+ negligence ) , even if such party have be advise of the possibility of such 
+ damage . except in connection with a breach by either party of article 10 , the 
+ indemnification obligation of paperexchange under section 12.4(c ) [ indemnification by paperexchange ] and the 
+ indemnification obligation of verticalnet under section 12.5(c ) [ indemnification by verticalnet ] , each party 's 
+ liability for damage hereunder shall not exceed 1,000,000 . 
+  12.4 . indemnification by paperexchange . paperexchange shall indemnify and 
+ hold harmless verticalnet and its officer , director , employee and agent from 
+ and against any and all loss , claim , damage , liability , obligation , 
+ penalty , judgment , award , cost , expense and disbursement , include 
+ without limitation , the cost , expense and disbursement , as and when incur , 
+ of investigate , prepare or defend any action , suit , proceed or 
+ investigation assert by a third party , cause by , relate to , base upon , 
+ arise out of or in connection with ( a ) any breach by paperexchange of the 
+ representation , warranty or agreement make by it under this agreement , ( b ) 
+ negligence , recklessness or intentional misconduct on the part of paperexchange 
+ or its officer , director , employee , agent or consultant , ( c ) any claim that 
+ the paperexchange content infringe or misappropriate any intellectual property 
+ right or any other right of any third party or ( d ) the promotion , advertisement 
+ or marketing of the verticalnet content or verticalnet archive content by or on 
+ behalf of paperexchange . 
+  12.5 . indemnification by verticalnet . verticalnet shall indemnify and hold 
+ harmless paperexchange and its officer , director , employee and agent from 
+ and against any and all loss , claim , damage , liability , obligation , 
+ penalty , judgment , award , cost , expense and disbursement , include 
+ without limitation , the cost , expense and disbursement , as and when incur , 
+ of investigate , prepare or defend any action , suit , proceed or 
+ investigation assert by a third party , cause by , relate to , base upon , 
+ arise out of or in connection with ( a ) any breach by verticalnet of the 
+ representation , warranty or agreement make by it under this agreement , ( b ) 
+ negligence , recklessness or intentional misconduct on the part of verticalnet or 
+ its officer , director , employee , agent or consultant , ( c ) any claim that 
+ the verticalnet content infringe or misappropriate any intellectual property 
+ right or any other right of any third party; or ( d ) the promotion , 
+ advertisement or marketing of the paperexchange content by or on behalf of 
+ verticalnet . 
+
+  12.6 . each person seek to be reimburse , indemnify , defend and/or 
+ hold harmless under section 12.4 [ indemnification by paperexchange ] or 12.5 [ indemnification by verticalnet ] ( each , an " indemnitee " ) shall ( a ) 
+ provide the party oblige to indemnify such indemnitee with prompt write 
+ notice of any claim , suit , demand or other action for which such indemnitee 
+ seek to be reimburse , indemnify , defend or hold harmless ( each , a 
+ " claim " ) , which notice shall include a reasonable identification of the alleged 
+ fact give rise to such claim; ( b ) grant such party reasonable authority and 
+ control over the defense and settlement of any such claim; and ( c ) reasonably 
+ cooperate with such party and its agent in defense of any such claim . each 
+ indemnitee shall have the right to participate in the defense of any claim for 
+ which such indemnitee seek to be reimburse , indemnify , defend or hold 
+ harmless , by use attorney of such indemnitee 's choice , at such indemnitee 's 
+ expense . any settlement of a claim for which any indemnitee seek to be 
+ reimburse , indemnify , defend or hold harmless under this article shall be 
+ subject to the prior write approval of such indemnitee , such approval not to 
+ be unreasonably withhold , condition or delay . 
+  12.7 . essential part of bargain . the party acknowledge that the 
+ disclaimer and limitation set forth in this article 12 [ disclaimer of warranty , limitation of li ... ] be an essential 
+ element of this agreement between the party and that the party would not 
+ have enter into this agreement without such disclaimer and limitation . 
+ 13 . miscellaneous 
+  13.1 . govern law . this agreement shall be govern by and interpret 
+ under the law of the commonwealth of pennsylvania without regard to its 
+ conflict of law provision . subject to the provision of section 9 , both 
+ party consent and submit to the exclusive personal jurisdiction of the united 
+ state and the state court of the commonwealth of pennsylvania in and for 
+ horsham , pa . 
+  13.2 . no assignment . except as otherwise set forth herein , neither party 
+ shall transfer , assign or cede any right or delegate any obligation hereunder , 
+ in whole or in part , whether voluntarily or by operation of law , without the 
+ prior write consent of the other party , which consent may be withhold at the 
+ other party 's reasonable business discretion; provide , however , that either 
+ party may transfer this agreement without prior write consent of the other 
+ party to an affiliate or in connection with a merger or sale of all or 
+ substantially all of the stock or asset of such party . 
+  13.3 . good faith . the party undertake to display to each other the 
+ utmost good faith , consistent with their respective right and obligation set 
+ forth in this agreement . 
+  13.4 . independent contractor . in connection with this agreement , each 
+ party be an independent contractor . this agreement do not , and shall not be 
+ construe to , create an employer - employee , agency , joint venture or partnership 
+ relationship between the party . neither party shall have any authority to act 
+ for or to bind the other party in any way , to alter any of the term or 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ condition of any of the other party 's standard form of invoice , sale 
+ agreement , warranty or otherwise , or to warrant or to execute agreement on 
+ behalf of the other or to represent that it be in any way responsible for the 
+ act , debt , liability or omission of the other party . 
+
+  13.5 . notice . all notice , report , payment and other communication 
+ require or permit to be give under this agreement ( each , a " notice " ) shall 
+ be in writing and shall be give either by personal delivery against a sign 
+ receipt , by express delivery use a nationally recognize overnight courier , or 
+ by facsimile . all notice shall be properly address as follow , or to such 
+ other address as may be specify in a notice give hereunder : 
+ if to verticalnet : with a copy to : 
+ attn : general counsel michael j. hagan 
+ verticalnet , inc . verticalnet , inc . 
+ 700 dresher road , suite 100 700 dresher road , suite 100 
+ horsham , pennsylvania 19044 horsham , pennsylvania 19044 
+ fax no . : ( 215 ) 443 - 3336 fax no . : ( 215 ) 443 - 3336 
+ if to paperexchange : with a copy to : 
+ attn : chief executive officer attn : jonathan k. bernstein 
+ paperexchange.com , llc bingham dana llp 
+ 545 boylston street , 8th floor 150 federal street 
+ boston , ma 02116 boston , ma 02110 
+ fax no . : ( 617 ) 536 - 4097 fax no . : ( 617 ) 951 - 8736 
+ a notice shall be deem to be effective upon personal delivery or , if send via 
+ overnight delivery , upon receipt thereof . a notice send via facsimile be deem 
+ effective on the same day ( or if such day be not a business day , then on the 
+ next succeed business day ) if such facsimile be send before 3:00 p.m. 
+ philadelphia time and on the next day ( or if such day be not a business day , 
+ then on the next succeed business day ) if such notice be send after 3:00 p.m. 
+ philadelphia time . 
+  13.6 . amendment or modification . no subsequent amendment , modification or 
+ waiver of any of the provision of this agreement shall be effective unless in 
+ writing and sign by the party . 
+  13.7 . entire agreement . this agreement set out the entire agreement 
+ between the party with respect to the subject matter of this agreement and 
+ supersede all prior agreement , proposal , arrangement and communication , 
+ whether oral or write , with respect to the subject matter hereof , include , 
+ but not limit to , the letter of intent between the party date july 23 , 
+ 1999 . 
+  13.8 . severability . if any provision of this agreement be hold by a 
+ tribunal of competent jurisdiction to be illegal , invalid , or otherwise 
+ unenforceable in any jurisdiction , then to the full extent permit by law 
+ ( a ) the same shall not effect the other term or provision of this agreement , 
+ ( b ) such term or provision shall be deem modify to the extent necessary in 
+ the tribunal 's opinion to render such term or provision enforceable , and the 
+ right and obligation of the party shall be construe and enforce 
+ accordingly , preserve to the full extent the intent and agreement of the 
+ party set forth herein and ( c ) such finding of invalidity , illegality or 
+
+ unenforceability shall not affect the validity , legality or enforceability of 
+ such term or provision in any other jurisdiction . 
+  13.9 . no waiver . failure to enforce any term of this agreement be not a 
+ waiver of future enforcement of that or any other term . no term or provision of 
+ this agreement will be deem waive and no breach excuse unless such waiver or 
+ excuse be in writing and sign by the party against whom enforcement of such 
+ waiver or excuse be seek . 
+  13.10 . survival . section 5.8.1 [ non - competition ] ( subject to section 8.3(k ) [ upon termination ] ) , 6.1 - 6.2 , 6.5 , 
+ 6.6 , 6.9 , 7.5 - 7.8 , 8 , 9 , 10 , 11 , 12 and 13 , any payment obligation of the 
+ party hereunder accrue prior to the date of termination; and any other 
+ provision herein expressly survive termination or necessary to interpret the 
+ right and obligation of the party in connection with the termination of the 
+ term of this agreement will survive the termination or expiration of this 
+ agreement . 
+  13.11 . no third party beneficiary . nothing in this agreement be intend 
+ to confer benefit , right or remedy unto any person or entity other than the 
+ party and their permit successor and assign . 
+  13.12 . waiver of jury trial . each party hereby irrevocably waive all 
+ right a party may have to a trial by jury in any legal action or proceeding 
+ arise out of or in connection with this agreement or the transaction 
+ contemplate hereby . 
+  13.13 . title . the heading appear at the beginning of the section 
+ contain in this agreement have be insert for identification and reference 
+ purpose only and shall not be use to determine the construction or 
+ interpretation of this agreement . the nomenclature of the define term in this 
+ agreement shall only be use for the construction of this agreement , and be not 
+ to be use for any other purpose , include , but not limit to , interpretation 
+ for accounting purpose . 
+  13.14 . force majeure . neither party shall be hold to be in breach of this 
+ agreement by reason of a force majeure event , include , but not limit to , act 
+ of god , delay in transportation , fire , flood , earthquake , storm , war , act of a 
+ public enemy , civil commotion or any law , rule , regulation , order or other 
+ action by any public authority or any other matter reasonably beyond a party 's 
+ control . to the extent failure to perform be cause by such a force majeure 
+ event , such party shall be excuse from performance hereunder so long as such 
+ event continue to prevent such performance , and provide the non - perform 
+ party take all reasonable step to resume full performance . 
+  13.15 . compliance with law . each party shall comply with all prevail 
+ law , rule and regulation and obtain all necessary approval , consent and 
+ permit require by the applicable agency of the government of the 
+ jurisdiction that apply to its activity or obligation under this agreement . 
+  13.16 . execution in counterpart , facsimile . this agreement may be 
+ execute in one or more counterpart , each of which shall be deem an original 
+ and all of which together shall constitute one and the same instrument . this 
+ agreement shall become binding when any one or more counterpart hereof , 
+ individually or take together , bear the signature of both party 
+
+ hereto . for the purpose hereof , a facsimile copy of this agreement , include 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ the signature page hereto , shall be deem an original . 
+  [ the remainder of this page be intentionally leave blank . ] 
+
+ in witness whereof , the party to the agreement by their duly authorize 
+ representative have execute this agreement as of the date first write above . 
+ verticalnet , inc . paperexchange.com , llc 
+ by : /s/ [ illegible ] by : /s/ jason weiss 
+  --------------------------------- -------------------------------- 
+ title : bvi title : ceo 
+  ------------------------------ ----------------------------- 
+ verticalnet , inc . paperexchange.com , llc 
+ by : /s/ [ illegible ] by : /s/ rod a. parsley 
+  --------------------------------- -------------------------------- 
+ title : v.p . e - commerce product group title : vice president business devel 
+  ------------------------------ ----------------------------- 
+  exhibit a 
+ auction home of 2 
+ [ graphic omit ] 
+ pulp and paper online paperexchange.com 
+ [ graphic omitted ] 
+ register 
+ free gift ... 
+ to first time buyer and seller on online auction 
+ search : buyer 's guide by product / service [ graphic omit ] go ! 
+ home product career marketplace news / analysis community resource 
+  about we relate site 
+ auction 
+  home 
+  registration 
+  how to start 
+  buy 
+  my auction watch 
+  buyer 's toolkit 
+  buyer 's help 
+  additional industry 
+  sell 
+  seller 's toolkit 
+  seller 's help 
+ book , software , 
+ video 
+ shopping 
+ also on this site 
+ online homepage 
+ product center 
+ career center 
+ news & analysis 
+ community 
+ resource 
+ site information 
+ relate site 
+ - -------------------------------------------------------------------------------- 
+  click here 
+  highlight , product 
+  & more 
+ - -------------------------------------------------------------------------------- 
+  powdex 
+  incorporate interflow expo 
+  oct . 27 - 28 , 1999 atlanta , ga 
+  cobb galleria centre 
+ - -------------------------------------------------------------------------------- 
+  lab blast ' 99 
+  lab equipment at 
+  rock bottom price 
+  click here 
+ - -------------------------------------------------------------------------------- 
+ [ graphic omit ] 
+ online auction 
+ purchase and liquidate new and used product 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ find an item 
+  select a category below , or use advanced search . 
+  x auction _ fix price 
+  analytical instrumentation 
+  view item 
+ welcome 
+ pulp & paper online and paperexchange.com have partner to become the lead 
+ e - commerce solution for buy and sell new , surplus and use paper product 
+ and equipment . 
+ sell an item : register now as an online auction seller and sell an item here . 
+ find an item : begin use the auction by select a category from the box above 
+ or choose a featured or new item below . or click here for an advanced search 
+ customize auction feature 
+  buyer area seller area 
+  choose one ... go ! choose one ... go ! 
+ hot item be from all industry hot item be from all industry 
+ first time user : personalize your online auction experience and learn about our 
+  customize auction feature . 
+ feature item 
+ dynasty tool kit no . 9422 
+ item : 500607 
+ [ graphic omit ] 
+ dynasty tool kit no . 9422 . 120 tool . for the customer service engineer who 
+ carry a full array of tool and spare part during extended air travel . mold 
+ of tough linear polyethylene . rib for extra strength and rigidity . rugge 
+ aluminum valance . m 
+ price : 348 
+ auction period : 5/11/99 - 6/10/99 
+ techne thermal cycler 0.5ml 117v 
+ item : 500863 
+ [ graphic omit ] 
+ techne gene e thermal cycler ( for 0.5 ml tube ) . suitable for dna sequence , 
+ gene manipulation , dna hybridization , and other technique . use a refrigerated 
+ coolant for maximal cool efficiency ( cool rate up to 2.7(degrees)c per 
+ sec . ) . operate from 10 
+ price : 1,000 
+ auction period : 5/7/99 - 6/6/99 
+ dynasty tool kit no . 9422 
+ item : 500607 
+ [ graphic omit ] 
+ dynasty tool kit no . 9422 . 120 tool . for the customer service engineer 
+  exhibit a(2 ) 
+ auction home of 2 
+ [ graphic omit ] 
+ engineer who carry a full array of tool and spare part during extended air 
+ travel . mold of tough linear polyethylene . rib for extra strength and 
+ rigidity . rugged aluminum valance . m 
+ price : 348 
+ auction period : 5/11/99 - 6/10/99 
+ leader lfc-944b level meter 
+ item : 500608 
+ [ graphic omit ] 
+ leader lfc-944b level meter be a portable battery - operate field level meter 
+ design for testing and measure the performance of catv and matv system . it 
+ provide for measure level of -40 to +60 dbmv on vhf channel and -30 to +40 
+ dbmv on uhf c 
+ price : 220 
+ auction period : 5/11/99 - 6/10/99 
+ find an item 
+  select a category below , or use advanced search . 
+  x auction _ fix price 
+  analytical instrumentation 
+  view item 
+ send this page to a friend 
+ share the knowledge 
+ see something for a friend or associate ? you can forward this page by just 
+ click here ! 
+ home help feedback advertising info 
+ verticalnet disclaimer techsupport www.wateronline.com 
+  exhibit a(3 ) 
+ online jobscan of 2 
+ [ graphic omit ] 
+ pulp and paper online paperexchange.com 
+ [ graphic omit ] 
+ shop & compare 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ for the good price on the web 
+ search : buyer 's guide by product / service [ graphic omit ] go ! 
+ home product career marketplace news / analysis community resource 
+  about we relate site 
+ career center [ graphic omit ] online jobscan 
+ online jobscan 
+  job search 
+  post resume 
+  update resume 
+  new job area 
+  employer spotlight 
+ career resource 
+ salary survey 
+ recruiter center 
+ also on this site 
+ product center 
+ career center 
+ news & analysis 
+ community 
+ resource 
+ site information 
+ relate site 
+ - -------------------------------------------------------------------------------- 
+  click here 
+  highlight , product 
+  & more 
+ - -------------------------------------------------------------------------------- 
+  powdex 
+  incorporate interflow expo 
+  oct . 27 - 28 , 1999 atlanta , ga 
+  cobb galleria centre 
+ - -------------------------------------------------------------------------------- 
+  lab blast ' 99 
+  lab equipment at 
+  rock bottom price 
+  click here 
+ - -------------------------------------------------------------------------------- 
+ [ graphic omit ] 
+ online jobscan 
+ [ graphic omit ] 
+ online jobcenter 
+ job search 
+ post / update resume 
+ employer spotlight 
+ use this page to search for job opening , and view the most recent open house 
+ announcement from business within the industry 
+ job search 
+ pulp & paper online and paperexchange.com have combine resource to provide you 
+ with the most comprehensive source for career in the pulp and paper industry . 
+ search for a position by make selection from the below drop down menu . the 
+ more selection you make the more fined tune the result . for the broad 
+ result , use the menu default . 
+ multiple category can be choose within menu by hold down the " shift " key 
+ when make selection . 
+ select keyword 
+ separate keyword use and , or , or ' a phrase in quote ' 
+ - -------------------------------------------------------------------------------- 
+ - -------------------------------------------------------------------------------- 
+ type company name 
+ ( full or partial ) 
+ - -------------------------------------------------------------------------------- 
+ - -------------------------------------------------------------------------------- 
+ _ full time _ part time 
+ _ contract _ permanent 
+ location 
+ choose the state , region or country to include in your search 
+ state region 
+ all all 
+ alabama alaska / hawaii 
+ alaska mid - atlantic - u.s . 
+ arizona north central - u.s . 
+ country 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ united states 
+ antigua and arbuda 
+ antarctica 
+ argentina 
+ position 
+ all job type 
+ aerospace engineer 
+ biological scientist 
+ biologist 
+ jobscan sponsor 
+ - -------------------------------------------------------------------------------- 
+  click here 
+  highlight , product 
+  & more 
+ - -------------------------------------------------------------------------------- 
+  powdex 
+  incorporate interflow expo 
+  oct . 27 - 28 , 1999 atlanta , ga 
+  cobb galleria centre 
+ - -------------------------------------------------------------------------------- 
+  lab blast ' 99 
+  lab equipment at 
+  rock bottom price 
+  click here 
+ - -------------------------------------------------------------------------------- 
+ durlano pump embrace new valve technology for great efficiency ... 
+ chempro introduce new treatment for water purification ... 
+  exhibit a(4 ) 
+ online jobscan of 2 
+ duty 
+ all job function 
+ academia 
+ choose one 
+ consulting 
+ scan job reset 
+ open house announcement 
+ virtual company tour 
+ in an effort to well inform the job seeker and satisfy the need for industry 
+ recruiting of premium position , water online provide online open house . these 
+ page represent a virtual open house for each of the participate company 
+ that be actively seek new recruite . below be a list of the most recent open 
+ house page . 
+ - - chromatography ltd . santa monica can 
+ - - mass spectral interpretator austin tx 
+ - - contemporary wastewater and design phoenix az 
+ - - mass spectral incorporate chicago il 
+ - - activate carbon inc . bethesda md 
+ more ... 
+ send this page to a friend 
+ share the knowledge 
+ see something for a friend or associate ? you can forward this page by just 
+ click here ! 
+ home help feedback advertising info 
+ verticalnet disclaimer techsupport www.wateronline.com 
+  exhibit b 
+  career center request form 
+ please take the time to fill out this form so that we may collect the 
+ information need to process your career center request . please note that text 
+ of any length may be type or paste into the field below . 
+ billing information ( will not be display online unless it be the same as 
+ employer information , below . ) 
+  company name : 
+  address : 
+  address 2 : 
+  city : 
+  state : 
+  zip : 
+  country : 
+  foreign address : 
+  phone : extension : 
+  fax : 
+  e - mail : 
+  website address ( url ): 
+  contact name : 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+ employer information ( please enter all information as it should appear online . ) 
+  _ check here if same as above . 
+  company name : 
+  address : 
+  address 2 : 
+  city : 
+  state : 
+  zip : 
+  country : 
+  foreign address : 
+  phone : extension : 
+  fax : 
+  e - mail : 
+  division name : 
+  number of employee : 
+  company job website ( url ): 
+  contact person / department : 
+  job code / requisition number : 
+  how do you wish to be contact ? 
+  _ e - mail _ fax _ phone _ regular mail 
+ job information ( please enter all information as it should appear online . ) 
+  job title : 
+  job location : 
+  city : state : 
+  or 
+  us region : select region 
+  country : 
+  type of position : full time permanent 
+  require skill : 
+  brief job description : 
+  salary range : 
+  additional compensation : 
+  full job description : 
+ exhibit c 
+ a microsoft excel spreadsheet contain the follow column : 
+
+ - ----------------------------------------------------------------------------------------------- 
+ name category mfg / brand model original item price height weight 
+ - ----------------------------------------------------------------------------------------------- 
+ name catg flda fldb fldc fldd flde 
+ - ----------------------------------------------------------------------------------------------- 
+
+ - ----------------------------------------------------------------------------------------------- 
+ start bid reserve price bid increment start date / time duration item 
+ - ----------------------------------------------------------------------------------------------- 
+ minb rsrv incr strt daye fld1 
+ - ----------------------------------------------------------------------------------------------- 
+  default be 5.00 default be today default be 7 
+  -------------------------------------------------- 
+ - -------------------------------------------------------------------- 
+ approx . age sku description seller i d image location 
+ - -------------------------------------------------------------------- 
+ fld2 fldf desc sell imag 
+ - -------------------------------------------------------------------- 
+ - --------------------------------------------- 
+  sale 
+ location person capacity 
+ - --------------------------------------------- 
+  to be to be to be 
+ determine determined determine 
+ - --------------------------------------------- 
+ this page describe each of the field use in the excel spreadsheet for bulk 
+ upload . please put detail in the spreadsheet name bulk upload spreadsheet . it 
+ be very important that you do not change the field name or their order on the 
+ spreadsheet . 
+ - -------------------------------------------------------------------------------- 
+  name the title by which you want the item call . i.e. 
+  sartorius microbalance . this field be 60 character long 
+  but more detail will fit in the description section . the 
+  name need to be descriptive and distinct . there can not be 
+  two item with the same name . add a delineating feature 
+ source : paperexchange com inc , s-1 / a , 3/22/2000 
+  such as model number or size to the name . 
+ - -------------------------------------------------------------------------------- 
+ category this field require a number not word . see the enclose 
+  list . if you do not find a category that fit your 
+  product , please contact we . we can add category . 
+ - -------------------------------------------------------------------------------- 
+ mfg / brand manufacturer or brand name 
+ - -------------------------------------------------------------------------------- 
+ model model number 
+ - -------------------------------------------------------------------------------- 
+ original item if know , this can be an incentive to buyer who then see 
+ price your low price . 
+ - -------------------------------------------------------------------------------- 
+ height include foot or inch . 
+ - -------------------------------------------------------------------------------- 
+ weight include pound or ounce . 
+ - -------------------------------------------------------------------------------- 
+ quantity this field require only a number not each , case , etc . 
+ - -------------------------------------------------------------------------------- 
+ starting bid this be the amount at which the bidding will start . it 
+  should be low than your reserve price , if you set one . 
+  please use whole dollar . 
+ - -------------------------------------------------------------------------------- 
+ reserve price this be the amount you wish to receive for your product . 
+  if you set a reserve price , your item can not be sell for 
+  less than the reserve . please use whole dollar . 
+ - -------------------------------------------------------------------------------- 
+ bid increment 5 be the default , but feel free to change this to reflect 
+  your product 's price use whole dollar . 
+ - -------------------------------------------------------------------------------- 
+ start date / time this field must be fill out like the follow example : 
+  04/08/99 15:00 ( mm / dd / yy 24 : mm ) a start time must be 
+  include . 
+ - -------------------------------------------------------------------------------- 
+ duration the default for this field be 7 day . the option be 1 , 
+  3 , 5 , 7 , 21 , and 30 . 
+ - -------------------------------------------------------------------------------- 
+ item catalog number if the product come from a manufacturer 's 
+  or distributor 's catalog 
+ - -------------------------------------------------------------------------------- 
+ approx . age new , used , demo , recondition 
+ - -------------------------------------------------------------------------------- 
+ sku each , box , case 
+ - -------------------------------------------------------------------------------- 
+ description this field be only 1250 character long . use basic writing 
+  format here . complete sentence be desire rather than a 
+  list of feature . if you copy and paste from an outside 
+  source , please check to see that there be no tab or 
+  return in the paragraph . 
+ - -------------------------------------------------------------------------------- 
+ seller i d this be your six - digit i d number you receive when you 
+  register . 
+ - -------------------------------------------------------------------------------- 
+ image location a picture of your item be very helpful in sell your 
+  item and will greatly enhance its list appearance . the 
+  picture need to be in jpeg or gif format . you can send 
+  these on a separate disk or email if desire . please 
+  enclose a list delineate which picture go with which 
+  item . 
+ - -------------------------------------------------------------------------------- 
+ location where the equipment be currently locate / reside . 
+ - -------------------------------------------------------------------------------- 
+ sale person for paperexchange.com internal tracking . 
+ - -------------------------------------------------------------------------------- 
+ capacity specific information about the equipment i.e. " x " 
+  gallon / hr , " y " sheet / minute , etc . 
+ - -------------------------------------------------------------------------------- 
+  indicate require field 
+  indicate field with fieldname to be determine and 
+  whose position within the column be to be determine 
+ source : paperexchange com inc , s-1 / a , 3/22/2000

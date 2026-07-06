@@ -1,0 +1,458 @@
+exhibit   10.9 
+
+ global   music   international ,   inc . 
+ dba   imntv 
+ content   license   agreement 
+ this   content   license   agreement   ( " agreement " )   be   between   global   music   international ,   inc .   d / b / a   independent   music   network   ( imntv ) ,   locate   at   20 
+ old   stagecoach   road ,   redding ,   connecticut ,   06896   ( " imntv " ) ,   and   distributor ,   as   set   forth   below ,   and   describe   the   term   and   condition   under   which 
+ distributor   will   distribute   programming   provide   by   imntv   as   describe   herein .   distributor ’s   distribution   of   the   programming   be   subject   to   the   master   term   of 
+ service   ( " mts " )   attach   hereto   as   exhibit   a.   all   capitalize   term   shall   have   the   meaning   set   forth   on   the   mts .   in   consideration   for   the   mutual   promise   and 
+ covenant   contain   herein ,   the   party   agree   as   follow : 
+ distributor ’s   authorize   signature ,   be   require : 
+ a.   distributor   information   n / a 
+
+ provider   name : 
+ mobilevision   communication   ltd . 
+ address : 
+ 100   ba   li   zhuang   xi   li ,   suite   907 ,   zhubang2000   plaza ,   east   building ,   beijing ,   china 
+ country   province : 
+ p.r.china 
+ web   site 
+ www.looklook.cn 
+ tax   i d   : 
+ n / a 
+ business   contact : 
+ name :   mengdi   xu 
+
+ phone :   +86   135   010   37211 
+
+ email :   xumengdilooklook.cn 
+ marketing   contact : 
+ name :   baoqe   ( angel )   song 
+
+ phone :   +86   13911178981 
+
+ email :   angelsonglooklook.cn 
+ technical   contact : 
+ name :   weili   cheng 
+
+ phone :   +86   13011813916 
+ email :   chengwlmobiledata.com.cn 
+ billing   contact : 
+ name :   ruoxian   qi 
+
+ phone :   +86   13161502302 
+
+ email :   ruoxianlooklook.cn 
+ billing   address :   ( if   different   from   above ) 
+
+ customer   service   contact : 
+ name :   liang   ( dean )   wang 
+
+ phone :   +86   136   2131   5977 
+
+ email :   deanwanglooklook.cn 
+ notice   contact : 
+ name :   ruoxian   qi 
+
+ phone :   +86   13161502302 
+
+ email :   ruoxianlooklook.cn 
+ notice   address :   ( if   different   from   above ) 
+
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ b.   term 
+ this   agreement   be   effective   as   of   the   last   date   sign   below   ( " effective   date " ) .   the   initial   term   of   this   agreement   will   begin   on   the   effective   date   and 
+ end   twelve   ( 12 )   month   after   the   launch   ( the   " term " ) .   imntv   will   extend   the   agreement   on   the   same   term   and   condition   for   additional   one - year   term , 
+ provide   distributor   and   imntv   agree ,   predicate   on   satisfactory   performance   by   both   party 
+ in   witness   whereof ,   the   party   have   execute   this   agreement   by   their   duly   authorize   representative . 
+
+ distributor 
+ mobilevision   communication   ltd . 
+
+ by : name 
+ andrew   zhang 
+
+ title 
+ president 
+
+ signature 
+ /s/   andrew   zhang 
+
+ date 
+ 13/07/05 
+ global   music   international ,   inc . 
+ d / b / a   independent   music   network   ( imntv ) 
+ by : name 
+ corinne   fallacaro 
+
+ title 
+ president 
+
+ signature 
+ /s/   corinne   fallacaro 
+
+  date 
+ 13/07/05 
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ exhibit   a 
+ global   music   international ,   inc . 
+ dba   imntv 
+ master   term   of   service 
+ 1 .   definition 
+ the   follow   capitalize   term   will   have   the   meaning   set   forth   below : 
+
+ " bundle "   mean ,   any   version   of   the   mobile   product   that   include   imntv   content   bundle   with   any   other   product   or   service . 
+ " confidential   information "   mean   the   confidential   or   proprietary   technical   or   business   information   of   a   party ,   include   without   limitation   ( a )   proposal   or 
+ research   relate   to   possible   new   product   or   services;   ( b )   financial   statement   and   other   financial   information;   ( c )   report   information;   ( d )   the   material   term   of 
+ this   agreement   and   the   relationship   between   the   parties;   and   ( e )   plan   launch   date .   all   of   the   information   will   be   consider   confidential   only   if   it   be 
+ conspicuously   designate   as   " confidential , "   or   if   provide   orally ,   identify   at   the   time   of   disclosure   as   confidential .   " confidential   information "   do   not   include 
+ information   that   ( i )   be   in   or   enter   the   public   domain   without   breach   of   this   agreement ,   ( ii )   the   receive   party   lawfully   receive   from   a   third   party   without 
+ restriction   on   disclosure   and   without   breach   of   a   nondisclosure   obligation ,   or   ( iii )   the   receive   party   know   prior   to   receive   such   information   from   the   disclose 
+ party   or   develop   independently . 
+ " content "   mean   generally   text ,   image ,   video ,   audio ,   and   other   material . 
+ " fee "   mean   subscription   fee   that   include   imntv   content .. 
+ " internet   protocol "   mean   any   protocol   use   to   route   datum   on   the   internet ,   or   on   any   portion   of   the   internet ,   include   all   version   currently   in   existence   or 
+ develop   or   implement   in   the   future . 
+ " landing   page "   mean   the   destination   web   page   for   a   special   link ,   create   and   host   by   distributor ,   from   where   individual   may   begin   the   registration   process 
+ for   the   subscription   service   or   a   bundle ,   at   such   individual ’s   election . 
+ " launch "   mean   the   date   that   the   programming   be   make   generally   available   for   purchase   by   consumer   under   the   term   and   condition   of   the   agreement . 
+ " programming”means   imntv ’s   content ,   as   specifically   describe   on   section   b   ( 1 )   of   the   agreement .   as   use   herein ,   " programming "   also   include   any 
+ promotional   and   marketing   content   provide   by   provider   for   imntv ’s   promotional   and   marketing   activity   as   describe   herein . 
+ " programming   bundle   fee "   mean   the   fee   actually   pay   by   a   subscriber   for   a   programming   bundle   that   include   imntv   content   provide   in   accordance   with 
+ this   agreement . 
+ " distributor   mark "   mean   the   trademark ,   service   mark ,   brand ,   logo   and   trade   name   of   distributor . 
+ " distributor   portal "   mean ,   collectively ,   the   distributor ’s   site   and   any   other   web   site   or   property   from   where   distributor   promote   the   programming . 
+ " distributor   site "   mean   distributor ’s   internet   web   site   intend   to   promote   the   availability   of   any   distributor   content ,   include   the   programming ,   via   mobile 
+ and   wireless   network .   distributor   site   be   more   fully   describe   in   section   a   of   the   agreement . 
+ " subscription   fee "   mean   the   fee   actually   pay   by   a   subscriber   for   the   applicable   mobile   content . 
+ " subscriber "   mean   any   individual   who   purchase   mobile   content   programming   and :   ( a )   who   actually   pay   the   applicable   subscription   fee;   and   ( b )   do   not 
+ receive   a   refund   of   such   subscription   fee   for   any   reason   within   thirty   ( 30 )   day   from   the   end   of   the   payment   period   for   which   the   subscription   fee   be   pay .   a 
+ subscriber   remain   a   " subscriber "   for   the   purpose   of   this   agreement   so   long   as   such   individual   continue   to   pay   the   applicable   subscription   fee . 
+ " registration   process "   mean   the   download ,   payment ,   installation ,   and   electronic   registration   process   of   the   programming ,   a   bundle   or   the   applicable   software . 
+ " registration   process "   may   include   an   online   registration   form 
+
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ provide ,   host ,   and   manage   by   distributor ,   and   may   also ,   at   distributor ’s   discretion ,   include   other   method   by   which   a   subscriber   may   affirmatively   request 
+ access   to   the   programming ,   a   bundle ,   or   the   software . 
+
+ " imntv   mark "   mean   the   trademark ,   service   mark ,   brand ,   logo   and   trade   name   of   imntv   and/or   global   music   international . 
+ " imntv   portal "   mean   the   imntv   site   where   imntv   promote   the   programming . 
+ " imntv   site "   mean   the   internet   web   site   own   and   operate   by   imntv . 
+ " special   link”mean   a   format   or   " tag "   link   that   track   traffic   from   the   distributor   portal   to   the   landing   page . 
+ " subscriber "   mean ,   collectively ,   end   user   who   have   complete   the   registration   process   for   any   of   the   subscription   product   describe   herein .   " subscriber " 
+ include   " recur   subscriber . " 
+ " subscription   product "   mean ,   collectively   product   and   bundle   that   include   imntv   content . 
+ " imntv   mobile   product "   mean   an   imntv   brand   subscription   product   distribute   to   mobile   and   wireless   device ,   which   include   service ,   product   and 
+ content   from   one   or   a   variety   of   third   party ,   and   include   any   derivative ,   follow - on ,   repackage ,   or   substantially   similar   product   offer   by   distributor   that 
+ include   imntv   programming . 
+ " bundle   fee "   mean   the   fee   actually   pay   by   a   subscriber   for   the   mobile   product   bundle   that   include   provider   content   provide   in   accordance   with   this 
+ agreement . 
+ " imntv   mobile   product   fee "   mean   the   fee   actually   pay   by   a   subscriber   for   the   imntv   mobile   product . 
+ " recur   subscriber "   for   the   purpose   of   this   agreement   so   as   long   as   such   individual   continue   to   pay   the   applicable   subscription   fee ,   so   long   as   imntv 
+ actually   receive   such   fee . 
+ " territory "   mean   china .   other   territory   be   subject   to   approval   by   imntv . 
+ 2 .   distributor   obligation . 
+ 2.1   subscription   transaction .   distributor   will   provide   the   follow   service   to   market ,   launch   and   distribute   the   programming   use   its   exist   infrastructure   as 
+ follow : 
+ ( a )   fulfillment .   each   individual   who   purchase   a   subscription   must   complete   the   registration   process ,   where   such   individual   will   be   prompt   to   provide   certain 
+ personally   identifiable   information   include   a   valid   major   credit   card   ( e.g.   visa ,   mastercard ,   discover ,   american   express )   to   receive   the   programming .   support   for 
+ additional   payment   method   and   additional   credit   card   may   be   develop   by   distributor ,   with   imntv ’s   prior   write   approval . 
+ ( b )   customer   support .   distributor   will   provide   customer   support   in   target   territory   in   a   workmanlike   and   professional   manner . 
+ 2.2   distribution   channel .   distributor   and   imntv   may   create ,   sell   and   market   bundle   that   include   the   imntv   programming .   distributor   may   offer   the 
+ programming   and   any   bundle   through   all   wireless   distribution   channel   in   target   territory .   to   enable   all   subscriber   to   have   access   to   the   programming ,   the 
+ programming   may   be   distribute   in   whole   or   in   part   via   internet   protocol   in   a   manner   that   enable   the   programming   to   be   receive   and   play   back   by   mobile 
+ device   in   the   target   territory . 
+ 2.3   host   service .   host   of   on - demand   programming   will   be   provide   at   no   cost   to   imntv   in   a   format   acceptable   to   local   territory   wireless   device . 
+ distributor   will   provide   report   of   aggregate   subscriber   access   and   usage   datum   concern   the   programming   on   a   monthly   basis ,   together   with   report   describe   in 
+ section   6.5 ,   below . 
+ 2.4   promotion   of   programming .   distributor   may   use   the   programming   and   imntv ’s   mark   to   market ,   advertise   and   promote   the   programming   in   the   mobile 
+ software   application(s ) ,   the   distributor ’s   portal ,   and   in   other   on   and   off - line   marketing   effort   as   follow :   ( a )   promote   the   programming   in   directory ,   listing , 
+ and   keyword   searches;   ( b )   deep   link   to   the   programming;   ( c )   feature   programming   in   various   area   within   the   distributor ’s   software   and   distributor ’s   portal , 
+ ( d )   communicating   to   user   via   distributor ’s   consumer   marketing   channel   such   as   on - line   message ,   member   newsletter   or   email   campaigns;   ( e )   feature   excerpt , 
+ screenshot   of   programming   in   marketing   collateral   and   advertisements;   ( f )   feature   the   programming   in   product   demonstration   relate   to   distributor ’s 
+
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ software   or   subscription   product   at   trade   show   and   conferences;   ( g )   create   collateral   for   joint   promotional   effort   between   distributor   and   third   parties;   ( h ) 
+ promote   the   programming   in   television ,   radio   and   print   medium .   imntv   may   use   distributor 's   logo   and   mark   in   the   marketing   of   the   product ,   subject   to   pre- 
+ approve   trademark   usage   policy   and   brand   standard   to   be   provide   by   distributor   to   imntv . 
+ 2.5   distributor   support   and   operational   responsibility .   distributor   will   provide   all   " middleware "   programming   to   facilitate   connection   of   the   content   delivery 
+ platform   to   local   territory   wireless   network .   distributor   will   perform   localization   of   any   software   component   to   make   the   program   possible   to   use   in   the   local 
+ territory .   this   be   to   include   language   translation   or   interface   design   change .   provider   will   act   as   liaison   with   local   territory   wireless   carrier .   this   will   include 
+ content   review   to   insure   content   meet   local   broadcast   standard   and   meet   any   local   regulatory   requirement .   distributor   also   agree   to   secure   necessary 
+ governmental   approval   or   permit   necessary   to   operate   in   the   territory   and   to   secure   permission   to   enable   distribution   of   imntv ’s   share   of   subscription   fee   to 
+ imntv   in   the   united   state .   distributor   be   solely   responsible   for   monitoring ,   performance   and   ensure   the   availability   of   the   programming   and   will   notify 
+ imntv   immediately   of   plan   and   unplanned   programming   delay   or   outage . 
+ 2.6   privacy .   distributor   be   responsible   for   comply   with   all   applicable   law ,   rule   and   regulation   relate   to   its   collection   and   use   of   personal   information   from 
+ user   of   the   distributor   portal .   at   a   minimum ,   distributor   must   adopt ,   implement   and   comply   with   a   privacy   policy   that :   ( a )   be   easy   to   find ,   read   and   understand; 
+ ( b )   be   prominently   post   at   the   time   that   any   personally   identifiable   information   be   collect   or   requested;   and   ( c )   clearly   state   what   information   be   be 
+ collect ,   what   the   information   will   be   use   for ,   whether   such   information   will   be   provide   to   third   party ,   and   the   choice   available   regard   collection ,   use   and 
+ distribution   of   the   collect   information . 
+ 3 .   imntv   obligation . 
+ 3.1   grant   of   license .   during   the   term ,   for   the   activity   describe   in   this   agreement ,   imntv   hereby   grant   distributor   non - exclusive   right   and   license 
+ necessary   within   the   territory   to :   ( a )   copy ,   store   digitally ,   host   and   stream   the   programming;   ( b )   publicly   perform ,   publicly   display ,   electronically   transmit , 
+ distribute   and   broadcast   the   programming;   ( c )   promote   the   programming   and   use   imntv   mark   for   distributor ’s   promotion   of   the   programming   as   activity 
+ describe   in   section   2.4   above;   ( d )   archive   the   programming   on   distributor ’s   servers;   ( e )   encode ,   copy ,   and   create   continuous   programming   excerpt   of   up   to   sixty 
+ ( 60 )   second   and   transmit ,   publicly   perform ,   distribute ,   and   redistribute   such   excerpt   to   end   user   via   the   distributor ’s   portal   for   marketing   purpose   only(f ) 
+ deep   link   to   the   programming . 
+ 3.2   right   of   distribution   n / a 
+
+ 3.3   remove   n / a 
+
+ 3.4   programming   obligation .   imntv   will   create   and   maintain   it ’s   programming   content   and   will   deliver   same   to   distributor   in   a   format   suitable   for   the 
+ distribution   over   wireless   network   in   distributor ’s   territory   on   a   regular   basis . 
+ 3.5   logo   trademark .   distributor   may   use   imntv   logo   and   mark   in   the   marketing   of   the   product ,   subject   to   pre - approve   trademark   usage   policy   and   brand 
+ standard . 
+ 3.6   dedicate   personnel .   throughout   the   term ,   imntv   shall   designate   at   least   one   ( 1 )   staff   member   to   provide   distributor   with   all   reasonably   necessary 
+ assistance ,   information   and   support   relate   to   its   obligation   herein   include ,   but   not   limit   to ,   update   and   maintain   the   programming . 
+ 3.7   responsibility   for   programming .   except   as   expressly   set   forth   herein ,   imntv   be   solely   responsible   for   all   cost ,   activity ,   obligation   and   liability   associate 
+ with :   ( a )   obtain   all   right   and   license   necessary   for   the   authorize   use   and   distribution   of   the   imntv   programming   as   describe   herein   include ,   but   not 
+ limit   to ,   all   copyright ,   trademark   right ,   right   of   publicity   and   right   of   privacy ,   and   any   broadcast ,   rebroadcast ,   or   retransmission   right   or   permissions;   and   ( b ) 
+ obtain   all   necessary   permission   and/or   release   documentation   from   all   person   associate   with   the   distribution   of   the   programming   as   describe   herein , 
+ include ,   without   limitation ,   all   performer . 
+ 4 .   advertising 
+
+ the   imntv   programming   will   not   contain   any   advertising ,   either   integrate   or   before   or   after   each   clip ,   except   imntv   i’ds   and   imntv   commercial   for 
+ solicitation   of   chinese   music   video , without   the   prior   write   approval   of   both   party .  
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+ 5 .   ownership . 
+ 5.1   by   imntv .   as   between   distributor   and   imntv ,   imntv   own   or   have   the   necessary   license   to   all   copyright ,   trademark ,   patent   and   other   intellectual 
+ property   right   in   and   to ,   and   all   other   right ,   title   and   interest   in   and   to   the   programming ,   the   trademark   and   the   imntv   portal .   except   as   expressly   provide 
+ herein ,   imntv   retain   the   right   to   distribute   the   programming   in   any   medium   now   know   or   hereafter   develop .   as   between   imntv   and   distributor   ( exclude 
+ the   programming   and   other   provider   intellectual   property ) ,   imntv   own   all   copyright ,   trademark ,   patent   and   other   intellectual   property   right   therein ,   and   all 
+ other   right ,   title   and   interest   in   and   to   or   associate   with   the   subscription   product ,   the   imntv   site ,   the   imntv   mark ,   and   the   system   and   subscriber   datum . 
+ 5.3   trademark .   each   party :   ( a )   will   not   create   a   unitary   composite   mark   involve   a   trademark   of   the   other   party   without   the   prior   write   approval   of   such   other 
+ party;   ( b )   will   display   symbol   and   notice   clearly   and   sufficiently   indicate   the   trademark   status   and   ownership   of   the   other   party 's   trademark   in   accordance 
+ with   applicable   trademark   law   and   practice;   ( c )   acknowledge   that   its   utilization   of   the   other   party 's   trademark   will   not   create   in   it ,   nor   will   it   represent   it   have ,   any 
+ right ,   title   or   interest   in   or   to   such   trademark   other   than   the   license   expressly   grant   herein;   ( d )   agree   not   to   do   anything   contest   or   impair   the   trademark 
+ right   of   the   other   party;   ( e )   agree   to   promptly   notify   the   other   party   of   any   unauthorized   use   of   the   other   party 's   trademark   of   which   it   have   actual   knowledge; 
+ and   ( f )   will   have   the   sole   right   and   discretion   to   bring   proceeding   allege   infringement   of   its   trademark   or   unfair   competition   relate   thereto;   provide ,   however , 
+ that   each   party   agree   to   provide   the   other   party ,   at   such   other   party 's   expense ,   with   its   reasonable   cooperation   and   assistance   with   respect   to   any   such 
+ infringement   proceeding 
+ 6 .   fee   and   royalty 
+ 6.1   mobile   product   payment .   subscription   fee   in   territory   be   to   be   determine   base   on   market   research   perform   by   distributor   with   pricing   to   be   agree   upon 
+ jointly   and   in   write   each   quarter ,   distributor   will   make   royalty   payment   to   imntv   base   on   a   structure   as   follow : 
+ 55   of   subscriber   revenue   for   the   subscription   base   service   broadcasting   imntv   content   only ,   net   of   telecom   percentage   provide   in   accordance   with   this 
+ agreement . 
+
+ ( " programming   payment " ) ,   subject   to   the   following :   the   party   acknowledge   that   some   mobile   carrier   may   bill   end   user   for   a   full   month   in   a   single   billing ,   and 
+ that   other   may   bill   for   partial   month   or   pro - rate   the   billing   of   recur   subscriber .   for   each   full   month   of   fee   receive   from   a   recur   subscriber ,   distributor 
+ will   pay   imntv   base   on   the   rate   structure   ( the   " full   month   payment " ) .   to   the   extent   that   distributor   receive   a   partial   month 's   fee   or   pro - rat   fee   from   a 
+ recur   subscriber   as   a   result   of   a   carrier 's   billing   practice ,   distributor   will   pay   imntv   a   proportionate   or   pro - rat   portion   of   such   full   month   payment 
+ base   on   the   amount   receive   by   distributor . 
+ 6.2   payment .   all   payment   hereunder   shall   be   payable   to   imntv   in   united   state   dollar   on   a   quarterly   basis   upon   receipt   from   the   wireless   carrier   in   the 
+ territory ,   except   as   follow : 
+ ( a )   first   payment .   the   first   payment   to   imntv   will   be   payable   upon   receipt   at   the   end   of   the   first   calendar   quarter   after   launch ,   and   will   include   any   amount 
+ due ,   pro - rat   base   on   the   number   of   day   in   such   period   of   time;   and 
+ ( b )   last   payment .   the   last   payment   to   imntv   will   be   payable   upon   receipt   at   the   end   of   the   first   full   month   after   the   termination   or   expiration   of   this 
+ agreement ,   and   will   include   any   amount   due :   for   the   last   month   that   the   programming   be   available ,   prorate   base   on   the   number   of   day   in   such   final   period . 
+ ( c )   other   exception .   all   payment   hereunder   be   exclusive   of :   ( i )   any   trial   or   promotional   period   during   which   a   subscriber   receive   access   to   the   programming 
+ before   such   subscriber ’s   credit   card   be   charged;   and   ( ii )   refund ,   charge   back   and   fee   attributable   to   contest   credit   card   transaction 
+ ( d )   summary   of   timing .   the   party   acknowledge   the   follow   that   establishe   timing   of   payment :   ( 1 )   distributor   receive   a   carrier   statement   say   how   much 
+ distributor   will   be   paid;   ( 2 )   30 - 45   day   later   the   carrier   pay   distributor;   ( 3 )   when   distributor   be   pay   by   a   carrier ,   distributor   make   royalty   payment   to 
+ imntv . 
+ ( e )   exchange   rate .   payment   to   imntv   will   be   convert   from   local   currency   to   we   dollar   at   the   official   exchange   rate   post   on   the   day   payment   be   make   to 
+ imntv   via   wire   transfer   provide   that   currency   exchange   be   approve   by   the   relevant   chinese   currency   exchange   administrative   agency . 
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ 6.3   provider   payment   location .   distributor   will   remit   such   payment   a   bank   account   specifically   name   by   imntv .. 
+ 6.4   taxis .   distributor   will   collect   and   remit   to   the   appropriate   tax   authority ,   or   require   subscriber   to   pay ,   any   sale ,   use   or   similar   taxis   applicable   to   any   retail 
+ sale   or   distribution   of   the   programming .   except   for   the   foregoing ,   each   party   be   solely   and   separately   responsible   for   its   own   taxis ,   user   fee ,   or   similar   levy . 
+ 6.5   report .   distributor   will   provide   imntv   with   a   quarterly   report   or   monthly   report   if   available ,   summarize   the   datum   relevant   to   the   payment   obligation 
+ herein   within   five   ( 5 )   business   day   from   the   end   of   the   calendar   quarter .   the   report   will   contain   sufficient   information   to   permit   provider   to   verify   payment 
+ hereunder . 
+ 7 .   termination 
+ 7.1   general   termination   right .   either   party   may   terminate   the   agreement   at   any   time   in   the   event   of   a   material   breach   by   the   other   party   that   remain   uncured 
+ after   thirty   ( 30 )   day   write   notice   of   the   breach . 
+ 7.2   termination   for   programming   deficiency .   distributor   reserve   the   right   to   issue   a   warning   immediately   to   subscriber ,   to   temporarily   or   indefinitely   suspend 
+ the   availability   of   the   programming ,   or   to   terminate   this   agreement   ( the   " remedy " )   if   imntv   breach   this   agreement .   in   the   event   that   distributor   exercise 
+ any   of   its   right   set   forth   in   this   section   7.2 ,   distributor   will   notify   imntv   of   the   programming   deficiency ,   distributor ’s   elect   remedy ,   and   the   available   cure 
+ option ,   and   will   provide   imntv   with   a   reasonable   period   of   time   in   which   imntv   may   cure   the   programming   deficiency   ( the   " cure   period " ) .   during   the   cure 
+ period ,   if   commercially   reasonable ,   the   distributor   may   help   imntv   cure   the   programming   deficiency ,   but   be   under   no   affirmative   obligation   to   do   so .   if   imntv 
+ fail   to   cure   the   programming   deficiency   within   the   cure   period ,   distributor   may   terminate   this   agreement   immediately   upon   write   notice .   in   the   event   of   a 
+ suspension   or   termination   under   this   section   7.2 ,   distributor   will   notify   subscriber   that   the   programming   be   no   long   available .   distributor   will   be   solely   liable   for 
+ any   refund   pertain   to   the   programming   that   be   issue   to   subscriber   as   a   result   of   termination   under   this   section   7.2 . 
+ 7.3   termination   for   bankruptcy / insolvency .   either   party   may   terminate   this   agreement   immediately   follow   write   notice   to   the   other   party   if   the   other   party : 
+ ( a )   cease   to   do   business   in   the   normal   course;   ( b )   become   or   be   declare   insolvent   or   bankrupt;   ( c )   be   the   subject   of   any   proceeding   relate   to   its   liquidation   or 
+ insolvency   ( whether   voluntary   or   involuntary )   which   be   not   dismiss   within   ninety   ( 90 )   calendar   days;   or   ( d )   make   an   assignment   for   the   benefit   of   creditor . 
+ 7.4   effect   of   termination .   except   as   set   forth   in   section   7.3   above ,   upon   termination   or   expiration   of   this   agreement :   ( a )   the   license   grant   to   distributor   will 
+ immediately   terminate;   and   ( b )   all   fee   due   to   imntv   will   be   pay   to   imntv   pursuant   to   section   6.3   of   this   agreement .   in   the   event   that   distributor   terminate 
+ this   agreement   pursuant   to   either   section   7.2   or   7.3   above ,   distributor   will   notify   subscriber   that   the   programming   be   no   long   available . 
+ section   5 ,   6.3 ,   6.6 ,   7.2 ,   7.4 ,   8 ,   and   9   of   this   mts   will   survive   the   expiration   or   termination   of   the   agreement   for   any   reason . 
+ 8 .   warranty   and   indemnification 
+ 8.1   provider   warranty   and   indemnification .   imntv   represent   and   warrant   to   distributor   that :   ( i )   imntv   be   an   entity   duly   organize   and   validly 
+ exist   under   the   law   of   its   state   of   organization;   ( ii )   imntv   have   the   power   and   authority   to   enter   into   this   agreement   and   to   perform   fully   its 
+ obligation   under   this   agreement;   ( iii )   imntv   be   under   no   contractual   or   other   legal   obligation   which   could   reasonably   be   expect   to   interfere   in 
+ any   way   with   its   prompt   and   complete   performance   under   this   agreement;   and   ( iv )   the   person   execute   this   agreement   on   behalf   of   imntv   have 
+ be   duly   authorize   to   do   so   and   such   execution   be   bind   upon   imntv . 
+ imntv   will   defend ,   indemnify ,   and   hold   distributor   harmless   from   and   against   any   and   all   liability ,   claim ,   loss ,   cost ,   damage   and   expense 
+ ( include   reasonable   attorney '   fee   and   court   cost )   ( collectively ,   " claim " )   relate   to   or   arise   out   of :   ( a )   imntv 's   breach   of   this   agreement; 
+ ( b )   the   content   of   the   programming   ( e.g. ,   if   such   claim   allege   copyright   or   trademark   infringement   or   infringement   of   any   other   proprietary   right )   as 
+ furnish   by   imntv   under   this   agreement   ( exclude   any   claim   to   the   extent   base   on   any   alteration   of   or   insertion   in   any   imntv   content   by 
+ distributor   that   be   not   specifically   authorize   by   imntv   in   writing ) ,   imntv   mark   or   imntv   site;   ( c )   any   imntv   online   subscription   service ,   the 
+ programming   with   the   mobile   subscription   product ,   or   imntv ’s   act   or   omission   with 
+
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ respect   thereto   ( include   the   marketing   of   the   foregoing   by   imntv   and   exclude   any   claim   to   the   extent   base   on   any   alteration   of   or   insertion   in 
+ any   programming   by   distributor);   ( d )   violation   by   imntv   of   any   contractual   obligation ,   include   payment   or   royalty ,   that   imntv   have   to   any 
+ third   party;   ( e )   a   claim   that   the   programming   as   provide   by   imntv   do   not   comply   with   any   federal ,   state   and   local   law   and   regulation   that   be 
+ applicable   to   distributor ’s   transmission   or   use   of   programming   as   permit   this   agreement;   or   ( f )   imntv   not   having   obtain   all   necessary 
+ consent ,   license ,   permission   and   release   necessary   to   grant   distributor   the   right   imntv   grant   to   distributor   hereunder . 
+ 8.2   distributor   warranty   and   indemnification .   distributor   represent   and   warrant   to   imntv   that :   ( i )   distributor   be   an   entity   duly   organize   and   validly   exist 
+ under   the   law   of   its   country   of   organization;   ( ii )   distributor   have   the   power   and   authority   to   enter   into   this   agreement   and   to   perform   fully   its   obligation   under 
+ this   agreement;   ( iii )   distributor   be   under   no   contractual   or   other   legal   obligation   which   could   reasonably   be   expect   to   interfere   in   any   way   with   its   prompt   and 
+ complete   performance   under   this   agreement;   and   ( iv )   the   person   execute   this   agreement   on   behalf   of   distributor   have   be   duly   authorize   to   do   so   and   such 
+ execution   be   bind   upon   distributor .   distributor   will   defend ,   indemnify ,   and   hold   imntv   harmless   from   and   against   any   and   all   claim   relate   to   or   arise   out 
+ of :   ( a )   the   marketing   by   distributor   of   the   programming   ( exclude   claim   to   the   extent   base   on   programming   or   other   content   provide   by   or   approve   by 
+ imntv ) ,   or   any   subscription   product   which   include   any   programming ,   ( b )   any   claim   by   any   subscriber   concern   distributor ’s   operation   and   maintenance   of 
+ the   subscription   product   ( except   for   content   claim   describe   in   section   9.1 ,   claim   concern   the   transmission   of   subscriber   information   to   imntv ,   or   the   use 
+ of   subscriber   information   by   imntv   or   by   any   third   party   to   whom   imntv   have   disclose   such   information);   ( c )   distributor 's   alternation   of ,   or   insertion   of 
+ material   ( include   commercial   advertisement )   in ,   any   programming ,   except   as   explicitly   authorize   in   each   case   in   writing   by   imntv;   and   ( d )   any   infringement   of 
+ the   subscription   product   on   the   right   of   other   ( exclude   any   claim   to   the   extend   base   on   any   programming ) . 
+ 8.3   condition   of   indemnification .   a   party ’s   obligation   to   indemnify   the   other   party   be   expressly   condition   on   the   indemnify   party :   ( a )   give   write   notice   of 
+ the   claim   promptly   to   the   indemnify   party;   ( b )   give   the   indemnify   party   control   of   the   defense   and   settlement   of   the   claim   utilize ,   if   necessary ,   legal 
+ counsel   to   be   select   by   the   indemnify   party   upon   reasonable   approval   of   the   other   party;   ( c )   provide   to   the   indemnify   party   all   available   information   and 
+ assistance   ( at   the   indemnify   party ’s   expense);   and   ( d )   not   compromise   or   settle   such   claim ,   without   the   other   party ’s   prior   write   consent   which   may   not 
+ be   unreasonably   withhold . 
+ 8.4   disclaimer   of   warranty .   except   as   expressly   set   forth   herein ,   neither   party   make   any   warranty   or   representation 
+ relate   to   the   subscription   product ,   or   the   likelihood   of   success   of   the   programming ,   the   mobile   ntent 
+ product ,   or   any   bundle .   to   the   maximum   extent   permit   by   applicable   law ,   imntv   far   disclaim   all 
+ warranty   in   the   subscription   product ,   include   without   limitation   any   imply   warranty   of 
+ merchantability ,   fitness   for   a   particular   purpose ,   and   noninfringement . 
+ 8.5   limitation   of   liability .   no   party   will   be   liable   to   the   other   party   in   tort ,   contract   or   under   any   other   legal   theory 
+ for   any   consequential ,   indirect ,   incidental ,   punitive   or   special   loss   or   damage   arise   out   of   this   agreement , 
+ even   if   apprise   of   the   likelihood   of   such   damage   occur .   in   no   event   will   imntv ’s   liability   to   distributor 
+ under   this   agreement   exceed   the   amount   actually   due   to   imntv   herein . 
+ 9 .   general 
+ 9.1   notice   and   contact   information .   all   notice   and   demand   under   this   agreement   will   be   in   writing   and   will   be   deliver   by   personal   service ,   express   courier ,   or 
+ unite   state   mail ,   to   the   follow   address : 
+
+ if   to   imntv : 
+ independent   music   network 
+ 20   old   stagecoach   road 
+ redding ,   ct   06896 
+ usa 
+ attention :   general   counsel 
+
+ if   to   provider : 
+
+ to   the   notice   contact   as   set   forth   in   section   a   of   the   agreement . 
+ either   party   may   change   the   address   set   forth   above   by   write   notice   to   the   other   party .   notice   will   be   effective   on   receipt .   any   notice   or   report   deliver   in 
+ accordance   with   this   section   will   be   deem   give   on   the   date   actually 
+
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ delivered;   provide   that   any   notice   or   report   deem   give   or   due   on   a   saturday ,   sunday   or   legal   holiday   will   be   deem   give   or   due   on   the   next   business   day .   if 
+ any   notice   or   report   be   deliver   to   any   party   in   a   manner   which   do   not   comply   with   this   section   9.1 ,   such   notice   or   report   will   be   deem   deliver   on   the   date , 
+ if   any ,   such   notice   or   report   be   actually   receive   by   the   other   party . 
+
+ 9.2   non - assignment .   this   agreement   be   bind   upon   each   party 's   assign ,   transferee   and   successors;   provide   that   no   party   may   assign   or   otherwise   transfer ,   by 
+ operation   of   law   or   otherwise ,   this   agreement   in   whole   or   in   part ,   without   the   other   party 's   prior   write   consent .   notwithstanding   the   prior   sentence ,   either   party 
+ may   assign   this   agreement   in   its   entirety   without   the   other   party 's   consent   to   any   of   the   following :   ( i )   the   assignor 's   successor   in   a   consolidation   or   merger ,   ( ii )   the 
+ assignor ’s   successor   in   an   acquisition   of   all   or   substantially   all   of   the   asset ,   equity   or   beneficial   interest   of   the   assignor ,   ( iii )   an   entity   under   common   control   with , 
+ control   by   or   in   control   of   the   assignor ,   or   ( iv )   a   lender ,   as   an   assignment   of   collateral   to   secure   credit   extend   to   the   assignor .   the   assignor   will   give   the   other 
+ party   write   notice   within   thirty   ( 30 )   day   of   any   assignment   describe   in   the   immediately   precede   sentence . 
+ 9.3   confidentiality .   the   party   acknowledge   that   confidential   information   be   valuable   and   unique   and   that   disclosure   in   breach   of   this   confidentiality   provision   will 
+ result   in   irreparable   injury   to   its   owner .   from   the   effective   date   and   for   a   period   of   two   ( 2 )   year   from   the   date   of   termination   or   expiration   of   this   agreement , 
+ neither   party   will   use ,   disclose ,   or   permit   any   person   to   obtain   any   confidential   information   of   the   other   party .   if   either   party   receive   a   request   from   any   third 
+ party   for   the   confidential   information   of   the   other   party ,   or   if   such   party   be   direct   to   disclose   any   portion   of   any   confidential   information   of   the   other   party   by 
+ operation   of   law   or   in   connection   with   a   judicial   or   governmental   proceeding   or   arbitration ,   it   will   immediately   notify   the   other   party   and   will   assist   the   other   party 
+ in   seek   a   suitable   protective   order   or   assurance   of   confidential   treatment   to   preserve   the   confidentiality   of   any   such   confidential   information .   if   either   party 
+ breach   or   threaten   to   breach   the   term   of   this   confidentiality   provision ,   the   non - breaching   party   will   be   entitle   to   an   injunction   prohibit   any   such   breach . 
+ any   such   relief   will   be   in   addition   to   and   not   in   lieu   of   any   appropriate   relief   in   the   way   of   money   damage . 
+ 9.4   press   release   and   public   statement .   neither   party   will   issue   any   press   release   or   make   public   statement   relate   to   this   agreement   or   the   relationship 
+ between   the   party   without   the   other   party ’s   review   of   and   write   consent   to   such   press   release   or   public   statement . 
+ 9.5   force   majeure .   no   party   shall   be   deem   in   default   hereunder   for   any   cessation ,   interruption   or   delay   in   the   performance   of   its   obligation   due   to   cause 
+ beyond   its   reasonable   control ,   include   but   not   limit   to :   earthquake ,   flood ,   or   other   natural   disaster ,   act   of   god ,   labor   controversy ,   civil   disturbance ,   war 
+ ( whether   or   not   officially   declare )   or   the   inability   to   obtain   sufficient   supply ,   transportation ,   or   other   essential   commodity   or   service   require   in   the   conduct   of 
+ its   business ,   or   any   change   in   or   the   adoption   of   any   law ,   regulation ,   judgment   or   decree   ( each   a   " force   majeure   event " ) .   each   party   shall   have   the   right   to 
+ terminate   this   agreement   immediately   upon   write   notice   if   any   force   majeure   event   of   another   party   continue   for   more   than   ten   ( 10 )   day . 
+ 9.6   miscellaneous .   this   agreement   and   exhibit   a ,   b ,   and   c   constitute   the   final   agreement   between   the   party   with   regard   to   the   subject   matter   herein ,   and 
+ supersede   and   cancel   all   prior   negotiation ,   understanding ,   correspondence   and   agreement ,   oral   and   write ,   express   or   imply ,   between   the   party   with   regard 
+ to   the   subject   matter   herein .   no   waiver ,   amendment   or   modification   of   any   provision   of   this   agreement   will   be   effective   unless   it   be   in   a   document   that   expressly 
+ refer   to   this   agreement   and   be   sign   by   both   party .   failure   or   delay   by   either   party   in   exercise   any   right   or   remedy   under   this   agreement   will   not   operate   as   a 
+ waiver   of   any   such   right   or   remedy .   the   party   be   independent   contractor .   neither   party   will   be   deem   to   be   an   employee ,   agent ,   partner   or   legal   representative 
+ of   the   other   for   any   purpose   and   neither   will   have   any   right ,   power   or   authority   to   create   any   obligation   or   responsibility   on   behalf   of   the   other .   this   agreement 
+ will   be   govern   by   the   law   of   the   state   of   florida   without   regard   to   conflict   of   law   provision . 
+
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ exhibit   b 
+
+ 1 .   technical   requirement .   imntv   will   comply   with   the   follow   technical   requirement ,   as   applicable : 
+ on   demand .   provider   will   provide   all   on - demand   medium   file   encode   in   the   format   appropriate   for   each   stream   type   ( e.g. ,   audio ,   video ,   animation   and   other   medium 
+ file   type   as   they   become   support   and   as   imntv   may   then   elect   to   provide )   to   the   distributor   via   the   file   transfer   protocol   ( ftp ) . 
+ 2 .   live / stream   programming   ( as   applicable ) 
+ 2.1   prepare   content .   imntv   will   provide   distributor   with   the   url   for   each   live   or   simulate   live   stream   remotely   encode   by   imntv   use   the   convention 
+ establish   by   both   party . 
+ 2.2   feed   delivery .   at   imntv ’s   election ,   imntv   will   deliver   live   feed   to   the   distributor   via   method   other   than   ftp   over   the   internet ,   include   delivery   of 
+ physical   medium . 
+ ( a )   general .   imntv   shall   take   the   appropriate   measure   to   ensure   that   all   live   or   simulate   live   feed   will   be   deliver   continuously   to   the   distributor   24 
+ hour / day ,   7   day / week ,   except   for   schedule   maintenance .   if   any   feed   be   provide   to   distributor   use   transmission   method   that   be   proprietary   or   uncommon , 
+ provider   agree   to   provide   -at   no   cost   --   the   receiver   equipment   to   distributor   and   to   allow   adequate   time   for   setup   and   testing   of   equipment   prior   to   delivery   of 
+ live   content . 
+ ( b )   encode .   imntv   will   encode   feed   to   be   deliver   to   distributor . 
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ exhibit   c 
+ programming   technical   specification 
+ 1 .   representation   of   programming 
+ 1.1   programming   presentation .   the   follow   be   requirement   for   all   programming : 
+ ( a )   each   individual   item   of   programming   will   be   identify   with   a   programming   identification   code   ( " programming   i d " ) 
+ ( b )   click   on   any   programming   will   instigate   an   " optimize "   presentation   as   follow : 
+ ( i )  
+ when   a   subscriber   select   the   programming ,   the   default   start - up   audio / video   sequence   for   the   presentation   will   start   play   in   the   playback   window   of 
+ the   mobile   platform   software   ( " playback   window " ) . 
+ 2 .   policy   for   advertising   and   promotion   within   software 
+ 2.1   the   programming   will   have   a   imntv   identification   ( " imntv   i d " ) ,   which   be   similar   to   on - air   network   i d ,   which   be   play   each   time   the   programming   be 
+ launch .   distributor   may   utilize   the   imntv   i d   in   the   distributor ’s   portal   for   promotional   purpose . 
+ ( a )   the   imntv   i d   will   be   no   long   than   two   ( 2 )   to   five   ( 5 )   second   in   length ,   and   may   be   audio   and   real   flash   visual   medium   clip . 
+ ( b )   all   imntv   id   will   be   host   and   serve   by   distributor . 
+ ( c )   if   programming   be   currently   play ,   the   imntv   i d   can not   interrupt   the   stream 
+ ( d )   if   any   advertisement   other   than   a   streaming   advertisement   be   schedule ,   the   imntv   i d   must   precede   it . 
+ 3 .   programming   design   guideline 
+ 3.1   the   initial   opening   of   imntv   i d   should   be   author   to   the   follow   standard : 
+ ( a )   for   a   120   w   x   96h   video   space   ( without   scroll   bar )   subject   to   review   with   distributor   to   determine   suitability   for   distributor ’s   territory . 
+ 3.2   design   restriction .   the   follow   requirement   serve   to   ensure   a   consistent   subscriber   experience   across   all   programming . 
+ ( a )   distributor   will   provide   imntv   with   page   size   and   load   time   goal   for   the   programming . 
+ ( b )   bullet   point   describe   the   programming 
+ ( c )   description   of   the   programming   that   correspond   with   each   bullet   point   and   elaborate   more   on   the   bullet   point 
+ ( d )   link   to   the   provider ’s   privacy   policy 
+ ( e )   link   to   the   provider ’s   term   of   use 
+ ( f )   information   for   customer   service   and/or   technical   support   to   use   while   service   subscriber 
+ source : global technology group , inc . , 10ksb , 9/28/2005 
+
+ exhibit   d 
+ distribution   of   the   provider ’s   content   through   china   unicom   tianjin   branch 
+
+ 1 .   service   offering 
+
+ a. 
+ mobilevision   be   an   authorize   and   fully   license   service   provider   ( sp )   partner   who   provide   the   programming   and   support   the   underlie 
+ technical   operation   of   the   streaming   service   for   china   unicom   tianjin . 
+
+ b. 
+ mobilevision   will   be   make   available   the   music   video   content   from   imntv   on   its   wap   portal   page   and   in   link   contain   in   its   wap 
+ push   message   through   china   unicom   tianjin ’s   network . 
+
+ 2 .   term   of   service 
+
+ a. 
+ the   china   unicom   tianjin   streaming   medium   service   be   offer   as   a   pilot   commercial   program   without   charge   for   the   period   of   two   to   three 
+ month .   imntv   agree   to   participate   in   this   pilot   program   by   provide   the   content   to   china   unicom   tianjin   via   mobilevision   without 
+ charge   during   this   period . 
+
+ b. 
+ start   on   october   1 ,   2005 ,   china   unicom   tianjin   intend   to   charge   for   the   streaming   service .   the   revenue   sharing   and   payment   term 
+ between   imntv   and   mobilevision   take   effect   start   on   the   same   date   of   commercial   service . 
+
+ 3 .   pricing   of   service 
+
+ a. 
+ tbd   subject   to   carrier ’s   pricing   policy   and   imntv   acceptance   of   term 
+ source : global technology group , inc . , 10ksb , 9/28/2005

@@ -1,0 +1,185 @@
+quicklinks -- click here to rapidly navigate through this document
+exhibit 99.12 
+transportation service agreement
+contract identification ft18150
+this transportation service agreement (agreement) is entered into by great lakes gas transmission limited partnership (transporter)
+and anr pipeline company (shipper).
+whereas, shipper has requested transporter to transport gas on its behalf and transporter represents that it is willing to transport
+gas under the terms and conditions of this agreement.
+now, therefore, transporter and shipper agree that the terms below constitute the transportation service to be provided and the
+rights and obligations of shipper and transporter.
+1.
+effective date: november 01, 2016 
+2.
+contract identification: ft18150 
+3.
+rate schedule: ft 
+4.
+shipper type: interstate pl 
+5.
+state/province of incorporation: delaware 
+6.
+term: november 01, 2014 to october 31, 2017 
+7.
+effect on previous contracts:
+this agreement supersedes, cancels and terminates, as of the effective date stated above, the following contract(s): service
+agreement dated november 01, 2015 with contract identification ft18150.
+8.
+maximum daily quantity (dth/day): 101,300
+please see appendix a for further detail.
+9.
+rates:
+unless shipper and transporter have agreed to a rate other than the maximum rate, rates shall be transporter's maximum rates
+and charges plus all applicable surcharges in effect from time to time under the applicable rate schedule (as stated above) on
+file with the commission unless otherwise agreed to by the parties in writing. provisions governing a rate other than the
+maximum shall be set forth in this paragraph 9 and/or on appendix b hereto.
+10.
+points of receipt and delivery:
+the primary receipt and delivery points are set forth on appendix a.
+11.
+released capacity:
+n/a
+12.
+incorporation of tariff into agreement:
+this agreement shall incorporate and in all respects be subject to the "general terms and conditions" and the applicable rate
+schedule (as stated above) set forth in transporter's ferc gas tariff, third revised volume no. 1, as may be revised from time
+to time. transporter may file and seek commission approval under section 4 of the natural gas act (nga) at any time and from
+time to time to change any rates, charges or provisions set forth in the applicable rate schedule (as stated above) and the
+"general terms and conditions" in transporter's ferc gas tariff, third revised volume no. 1, and transporter shall have the
+right to place such changes in effect in accordance with the nga, and this agreement shall be deemed to include such changes
+and any such changes
+source: tc pipelines lp, 10-k, 2/26/2016
+which become effective by operation of law and commission order, without prejudice to shipper's right to protest the same.
+13.
+miscellaneous:
+no waiver by either party to this agreement of any one or more defaults by the other in the performance of this agreement shall
+operate or be construed as a waiver of any continuing or future default(s), whether of a like or a different character.
+any controversy between the parties arising under this agreement and not resolved by the parties shall be determined in
+accordance with the laws of the state of michigan.
+14.
+other provisions:
+it is agreed that no personal liability whatsoever shall attach to, be imposed on or otherwise be incurred by any partner, agent,
+management official or employee of the transporter or any director, officer or employee of any of the foregoing, for any obligation
+of the transporter arising under this agreement or for any claim based on such obligation and that the sole recourse of shipper
+under this agreement is limited to assets of the transporter.
+upon termination of this agreement, shipper's and transporter's obligations to each other arising under this agreement, prior to
+the date of termination, remain in effect and are not being terminated by any provision of this agreement.
+15.
+notices and communications:
+all notices and communications with respect to this agreement shall be in writing by mail, e-mail, or fax, or other means as
+agreed to by the parties, and sent to the addresses stated below or to any other such address(es) as may be designated in
+writing by mail, e-mail, or fax, or other means similarly agreed to:
+administrative matters
+great lakes gas transmission limited partnership
+commercial services
+700 louisiana st., suite 700
+houston, tx 77002-2700
+anr pipeline company
+700 louisiana st., suite 700
+houston, tx 77002-2700
+attn:
+agreed to by:
+great lakes gas transmission
+limited partnership
+by: great lakes gas transmission company
+anr pipeline company
+/s/ steven d. jaskolski
+steven d. jaskolski
+director, commercial services
+/s/ joseph e. pollard
+joseph e. pollard
+director, long term marketing
+dated: december 14, 2015
+dated: december 14, 2015
+source: tc pipelines lp, 10-k, 2/26/2016
+appendix a 
+contract identification ft18150
+date: november 01, 2016
+supersedes appendix dated: november 01, 2015
+shipper: anr pipeline company
+maximum daily quantity (dth/day) per location:
+begin date
+end date
+point(s) of primary receipt
+point(s) of primary delivery
+mdq
+maximum
+allowable
+operating
+pressure
+(maop)
+11/01/2014
+03/31/2015
+south chester
+101,300
+
+11/01/2014
+03/31/2015
+deward
+101,300
+
+04/01/2015
+10/31/2015
+south chester
+
+11/01/2015
+03/31/2016
+south chester
+101,300
+
+11/01/2015
+03/31/2016
+deward
+101,300
+
+04/01/2016
+10/31/2016
+south chester
+
+11/01/2016
+03/31/2017
+south chester
+101,300
+
+11/01/2016
+03/31/2017
+deward
+101,300
+
+04/01/2017
+10/31/2017
+south chester
+
+11/01/2014
+03/31/2015
+farwell
+101,300
+
+04/01/2015
+10/31/2015
+farwell
+
+11/01/2015
+03/31/2016
+farwell
+101,300
+
+04/01/2016
+10/31/2016
+farwell
+
+11/01/2016
+03/31/2017
+farwell
+101,300
+
+04/01/2017
+10/31/2017
+farwell
+
+source: tc pipelines lp, 10-k, 2/26/2016
+quicklinks
+exhibit 99.12
+transportation service agreement contract identification ft18150
+appendix a contract identification ft18150
+source: tc pipelines lp, 10-k, 2/26/2016

@@ -1,0 +1,1642 @@
+exhibit 10.19
+
+strategic alliance agreement
+among
+
+sumitomo mitsui banking corporation,
+smbc nikko securities inc.
+
+and
+
+moelis & company holdings lp,
+moelis & company holdings gp llc
+
+dated december 27, 2011
+
+table of contents
+
+article i.
+
+certain definitions; interpretation.
+
+1.1
+
+certain definitions
+
+1.2
+
+interpretations
+
+article ii.
+
+strategic alliance.
+
+2.1
+
+strategic alliance
+
+2.2
+
+obligations of the parties
+
+article iii.
+
+scope.
+
+3.1
+
+scope
+
+3.2
+
+covered businesses
+
+3.3
+
+covered regions
+
+3.4
+
+japanese companies
+
+3.5
+
+client
+
+3.6
+
+corporate lending business
+
+article iv.
+
+fee allocation.
+
+4.1
+
+general allocation
+
+4.2
+
+certain moelis holdings sell-side assignments
+
+4.3
+
+target transactions
+
+4.4
+
+discretionary fee sharing
+
+4.5
+
+primary fee allocation criteria
+
+article v.
+
+non-circumvention/non-solicitation.
+
+5.1
+
+non-circumvention
+
+5.2
+
+non-solicitation
+
+5.3
+
+japan office
+
+i
+
+article vi.
+
+senior sponsorship; alliance review committee.
+
+6.1
+
+alliance review committee
+
+article vii.
+
+training and development.
+
+7.1
+
+training and development
+
+7.2
+
+secondment program
+
+article viii.
+
+engagements.
+
+8.1
+
+engagement letters and other agreements
+
+8.2
+
+expenses
+
+8.3
+
+conflict clearance
+
+8.4
+
+compliance with laws
+
+article ix.
+
+joint marketing.
+
+9.1
+
+joint marketing
+
+article x.
+
+confidentiality.
+
+10.1
+
+confidentiality
+
+article xi.
+
+term
+
+11.1
+
+term
+
+11.2
+
+termination
+
+11.3
+
+effect of termination
+
+article xii.
+
+certain rights of smbc/nikko.
+
+12.1
+
+advisory board
+
+12.2
+
+right of first refusal
+
+ii
+
+12.3
+
+moelis general partner’s consent to certain transfers
+
+12.4
+
+certain transfer matters
+
+12.5
+
+amendments to the moelis holdings agreement
+
+12.6
+
+percentage interest limit
+
+article xiii.
+
+registration rights.
+
+13.1
+
+registration
+
+13.2
+
+piggyback registration
+
+13.3
+
+reduction of size of underwritten offering
+
+13.4
+
+registration procedures
+
+13.5
+
+conditions to offerings
+
+13.6
+
+suspension period
+
+13.7
+
+market stand-off agreement
+
+13.8
+
+registration expenses
+
+13.9
+
+indemnification; contribution
+
+13.10
+
+rule 144
+
+13.11
+
+transfer of registration rights
+
+13.12
+
+termination of registration rights
+
+article xiv.
+
+representations and warranties; conduct of business
+
+14.1
+
+representations and warranties of moelis
+
+14.2
+
+representations and warranties of smbc/nikko
+
+14.3
+
+survival of covenants, representations and warranties
+
+article xv.
+
+miscellaneous
+
+15.1
+
+expenses; no partnership or joint venture
+
+15.2
+
+notice
+
+15.3
+
+entire agreement; amendment; waivers; counterparts
+
+15.4
+
+no assignment
+
+15.5
+
+obligation and responsibilities of smbc/nikko
+
+15.6
+
+separability
+
+15.7
+
+compliance with laws
+
+15.8
+
+governing laws; jurisdiction
+
+15.9
+
+effect on prior agreement
+
+15.10
+
+good faith discussion; further assurances
+
+iii
+
+strategic alliance agreement
+
+this strategic alliance agreement is entered into as of december 27, 2011 by and among sumitomo mitsui banking corporation
+(“smbc”), a japanese corporation with its head office at 1-2, marunouchi 1-chome, chiyoda-ku, tokyo 100-0006, japan and its subsidiary smbc
+nikko securities inc. (“nikko” and together with smbc, “smbc/nikko”), a japanese corporation with its head office at 3-1, marunouchi 3-chome,
+chiyoda-ku, tokyo 100-8325, japan, on the one hand, and moelis & company holdings lp (“moelis holdings”), a delaware limited partnership
+with offices at 399 park avenue, new york, ny 10022, united states, and moelis & company holdings gp llc, a delaware limited liability company
+with offices at 399 park avenue, new york, ny 10022, united states (“moelis general partner”, and together with moelis holdings, the “moelis
+entities”), on the other hand. smbc, nikko, moelis holdings and moelis general partner are each referred to herein as a “party” and collectively
+referred to as the “parties”.
+
+w i t n e s s e t h:
+
+whereas, on march 1, 2011, smbc/nikko and moelis holdings entered into that certain strategic alliance agreement (phase i) with
+respect to certain investment banking businesses in certain regions involving japanese companies (the “prior agreement”);
+
+whereas, on the date hereof, smbc entered into an investment and subscription agreement (as modified or amended, the
+“subscription agreement”) with moelis holdings and moelis general partner, pursuant to which smbc has agreed to acquire 57,364 newly issued
+partnership interests;
+
+whereas, the parties wish to amend and restate the prior agreement to further set forth the understanding of the parties with respect to
+certain investment banking businesses in certain regions involving japanese companies and to set forth certain agreements with respect to certain
+transfer and registration rights relating to the partnership interests as of the effective date; and
+
+whereas, the execution and delivery of this agreement is a condition to the closing of the transactions contemplated by the
+subscription agreement.
+
+now, therefore, in consideration of the foregoing and the respective promises contained herein and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged:
+
+article i.
+
+certain definitions; interpretation.
+
+1.1 certain definitions.
+
+“agreement” means this strategic alliance agreement, as amended or modified from time to time in accordance with section 15.3,
+including all schedules and exhibits hereto.
+
+“alliance review committee” has the meaning given in section 6.1.
+
+“client” has the meaning given in section 3.5.
+
+“closing” means the closing as defined in the side letter.
+
+“confidential information” has the meaning given in section 10.1.
+
+“control” shall mean possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of an
+entity whether through ownership of voting securities, by contract or otherwise, including the ability to elect the majority of the directors or the
+members of a similar governing body of such entity.
+
+“covered businesses” has the meaning given in section 3.2.
+
+“covered regions” has the meaning given in section 3.3.
+
+“demand notice” has the meaning set forth in section 13.1(a)(i).
+
+“demand registration” has the meaning set forth in section 13.1(a)(i).
+
+“effective date” has the meaning set forth section 11.1.
+
+“indemnified party” has the meaning set forth in section 13.9(c).
+
+“indemnified persons” has the meaning set forth in section 13.9(a).
+
+“indemnifying party” has the meaning set forth in section 13.9(c).
+
+“introduces” and “introduced” means that a party arranges or arranged an initial substantive meeting (in person or by phone) between a
+senior decision maker at the client and the other party.
+
+“ipo” means an initial underwritten public offering and sale of partnership interests (or any securities of moelis holdings or any
+successor entity into which partnership interests are converted, exchanged or redesignated) for cash pursuant to an effective registration
+statement (other than on form s-4 or s-8 or a comparable form).
+
+“issuer fwp” has the meaning assigned to “issuer free writing prospectus” in rule 433 under the securities act.
+
+“japanese companies” has the meaning given in section 3.4.
+
+“japanese competitors” means any japanese financial institution that engages in an investment banking business or any other covered
+business in japan or outside japan.
+
+“km” means mr. ken moelis and any entity or person controlled by or affiliated with mr. moelis, including moelis manager, any family
+trust or otherwise, through which mr. ken moelis holds his partnership interests.
+
+“losses” has the meaning set forth in section 13.9(a).
+
+“main-advisor party” has the meaning set forth in section 8.4.
+
+“major japanese competitors” means the following entities together with any ultimate parents controlling such entities: mitsubishi ufj
+financial group, inc., mizuho financial group, inc., nomura holdings, inc., daiwa securities group inc., sumitomo mitsui trust holdings, inc.,
+resona holdings, inc., shinsei bank, limited., orix corporation, any of their respective subsidiaries as of the date of this agreement that
+substantially engages in an investment banking business or any other covered business in japan, and any respective successors of any of the
+entities set forth herein.
+
+“minimum aggregate fees” has the meaning given in section 4.3.
+
+“moelis competitor” means any business enterprise that is engaged in, or owns or controls a significant interest in any entity that, in
+either case, is engaged, primarily or in any substantial manner in, investment banking activities or any other business activities that moelis
+holdings and/or its affiliates are engaged in primarily or in any substantial manner; provided, however, that no private equity fund, sovereign
+wealth fund or merchant bank shall be deemed a “moelis competitor”.
+
+“moelis entities” has the meaning set forth in the preamble to this agreement.
+
+“moelis general partner” has the meaning set forth in the preamble to this agreement.
+
+“moelis holdings” has the meaning set forth in the preamble to this agreement.
+
+“moelis holdings agreement” means that certain limited partnership agreement of moelis holdings, dated as of july 1, 2011 (as
+amended).
+
+“moelis manager” means moelis & company manager llc, a delaware limited liability company.
+
+“nikko” has the meaning set forth in the preamble to this agreement.
+
+“nikko affiliate” has the meaning set forth in section 10.1.
+
+“non-japanese competitors” means the following entities together with any ultimate parents controlling such entities: evercore partners
+inc., hawkpoint partners limited, perella weinberg partners lp, sagent advisors inc., dc advisory partners limited and stifel financial corp.
+(which, for the avoidance of doubt, includes stifel nicolaus weisel (f/k/a thomas weisel)).
+
+“partnership interests” means limited partnership interests and any securities of moelis holdings or any successor entity into which
+partnership interests are converted, exchanged or redesignated, including in connection with any recapitalization of moelis holdings for the
+purpose of conducting the ipo.
+
+“party” or “parties” has the meaning set forth in the preamble to this agreement.
+
+“piggyback registration” has the meaning set forth in section 13.2.
+
+“prior agreement” has the meaning set forth in the recitals to this agreement.
+
+“prospectus” means the prospectus (including any preliminary prospectus and any final prospectus) included in any registration
+statement, as amended or supplemented by any free writing prospectus, whether or not required to be filed with the sec, prospectus supplement
+with respect to the terms of the offering of any portion of the registrable securities covered by the registration statement and by all other
+amendments and supplements to the prospectus, and all material incorporated by reference in such prospectus.
+
+“registrable securities” means all smbc units beneficially owned by the smbc unit-holders at any time, and any securities of moelis
+holdings or any successor entity into which the smbc units are converted, exchanged or redesignated, including in connection with any
+recapitalization of moelis holdings for the purpose of conducting the ipo; provided, however, that an smbc unit shall cease to be a registrable
+security when (i) it has been effectively registered under the securities act and disposed of in accordance with the registration statement covering
+it, or (ii) it is distributed to the public pursuant to rule 144.
+
+“registration statement” means any registration statement of moelis holdings that covers registrable securities pursuant to the
+provisions of this agreement, including the prospectus, amendments and supplements to such registration statement, including pre- and post-
+effective amendments, and all exhibits and all material incorporated by reference in such registration statement.
+
+“representative” means, with respect to any person, such person’s, or such person’s subsidiaries’, directors, officers, employees,
+accountants, investment bankers, commercial bank lenders, attorneys and other advisors or representatives (including the employees or attorneys
+of such accountants, investment bankers or attorneys).
+
+“rule 144” means rule 144 promulgated under the securities act or any similar rule or regulation hereafter adopted by the securities and
+exchange commission having substantially the same effect as such rule.
+
+“side letter” means the letter from moelis general partner and moelis holdings to smbc, re investment in moelis & company holdings
+lp, dated the date hereof.
+
+“smbc” has the meaning set forth in the preamble to this agreement.
+
+“smbc affiliate” has the meaning set forth in section 10.1.
+
+“smbc competitor” means (i) any of the japanese competitors, (ii) each of the non-japanese competitors, (iii) any entity that is
+controlled by any japanese competitor or any non-japanese competitor and that engages in an investment banking business or any other
+covered business and (iv) any entity that is under common control with or controls any major japanese competitor and that engages in an
+investment banking business or any other covered business.
+
+“smbc units” means all partnership interests, including common units, held by an smbc unit-holder, which shall include all partnership
+interests acquired pursuant to the subscription agreement or thereafter.
+
+“smbc unit-holders” has the meaning set forth in section 13.1(a)(i).
+
+“securities act” means the securities act of 1933, as amended.
+
+“smb c/nikko” has the meaning set forth in the preamble to this agreement.
+
+“strategic alliance” means the rights and obligations of the parties set forth in article ii to xii of this agreement.
+
+“sub-advisor party” has the meaning set forth in section 8.4.
+
+“subscription agreement” has the meaning set forth in the recitals to this agreement.
+
+“suspension period” has the meaning set forth in section 13.6.
+
+“underwritten offering” means a public offering of securities registered under the securities act in which an underwriter, placement agent
+or other intermediary participates in the distribution of such securities.
+
+1.2 interpretations.
+
+(a) capitalized terms used without definition herein shall have the respective meanings given to such terms in the moelis
+holdings agreement.
+
+article ii.
+
+strategic alliance.
+
+2.1 strategic alliance. smbc/nikko and moelis holdings wish to continue their strategic alliance with respect to certain investment
+banking business in certain regions involving japanese companies as set forth herein, and will continue to offer the other the same quality or level
+of services that were offered under the prior agreement. smbc/nikko and moelis holdings will help the other continue the growth of the other
+party’s investment banking business.
+
+2.2 obligations of the parties. each of the parties acknowledge and agree that each other party may, and at the reasonable request from
+another party, shall, cause one or more of such party’s affiliates to act on behalf of such party in the performance of its duties or exercise of its
+rights under this agreement.
+
+article iii.
+
+scope.
+
+3.1 scope. subject to the terms and conditions set forth in this agreement and to the extent permitted by pre-existing arrangements of
+either party, smbc/nikko, on the one hand, and moelis holdings, on the other hand, shall use their commercially reasonable best efforts to work
+together on covered businesses involving japanese companies where all principal parties involved are located within covered regions. the
+strategic alliance shall continue to be non-exclusive.
+
+3.2 covered businesses. “covered businesses” shall mean m&a advisory, restructuring advisory (such as advising on recapitalization
+and restructuring transactions), capital markets advisory (including agency private placements), risk advisory (such as advising on investing,
+structuring, managing, restructuring and divesting risk exposures and complex assets classes) and merchant banking businesses (such as principal
+investment) to the extent the applicable target transaction requirement set forth in section 4.3 of this agreement is satisfied, but specifically
+excludes (unless the parties mutually agree to include a specific transaction) (i) underwritten offerings and bank or similar committed financings, (ii)
+purely domestic japanese transactions such as transactions solely between/among companies organized or headquartered in japan (including any
+transactions of or by subsidiaries or affiliates of such companies located throughout the world conducted as part of any such transaction), (iii) any
+transactions introduced to a party by a person or entity (other than a principal party to the transaction) not affiliated with such party and (iv)
+transactions where a party, its subsidiary or controlled affiliate is a principal party.
+
+3.3 covered regions. “covered regions” shall mean japan, north america, europe, the middle east and north africa, australia, hong
+kong and china. for the avoidance of doubt, the definition of covered regions does not prohibit the parties from
+
+discussing or working together on covered businesses in regions outside the covered regions, such as non-japan/hong kong/china asia.
+
+3.4 japanese companies. “japanese companies” shall mean (i) companies organized or headquartered in japan and their subsidiaries and
+controlled affiliates outside japan, (ii) subsidiaries and controlled affiliates organized or headquartered in japan of parent companies in the covered
+regions other than japan and (iii) japanese governmental and quasi-governmental entities and affiliates.
+
+3.5 client. a “client” is (i) with respect to smbc/nikko, a japanese company or any other person or entity within covered regions that
+smbc/nikko introduces to moelis holdings pursuant to this agreement and (ii) with respect to moelis holdings, a japanese company or any
+other person or entity within covered regions that moelis holdings introduces to smbc/nikko pursuant to this agreement.
+
+3.6 corporate lending business. smbc/nikko and moelis holdings will continue to work together in good faith to seek ways to expand
+the strategic alliance to cover corporate lending opportunities where moelis holdings sources corporate lending opportunities for smbc/nikko to
+moelis holdings’ clients and works with smbc/nikko to provide smbc/nikko clients and relationships access to moelis holdings capabilities in
+covered businesses. the parties may enter into additional agreements and/or addenda to this agreement designed to elaborate upon and clarify
+the arrangements contemplated by this section 3.6.
+
+article iv.
+
+fee allocation.
+
+4.1 general allocation. the parties agree to share fees 50/50 on assignments within the scope of this agreement set forth in section 3.1
+where smbc or nikko, on the one hand, and moelis holdings, on the other hand, are jointly retained as co-advisors by a client for such
+assignments, except as otherwise mutually agreed with respect to a specific matter by the parties. the parties agree that the parties will generally
+seek to be jointly retained as co-advisors by a client on assignments within the scope of this agreement.
+
+4.2 certain moelis holdings sell-side assignments. in the case of m&a sell-side assignments originated by moelis holdings within the
+scope of this agreement set forth in section 3.1 for which smbc or nikko does not serve (together with moelis holdings) as a co-advisor to the
+seller, if smbc or nikko introduces the actual buyer, and neither smbc nor nikko obtains a mandate to serve as an advisor to such buyer in
+connection with such acquisition, moelis holdings will pay smbc/nikko an introduction fee equal to 15 of the sale transaction fee paid to
+moelis holdings. there will be no other sharing of fees received from the seller between moelis holdings and smb c/nikko on any such
+assignments.
+
+4.3 target transactions. the strategic alliance will target transactions on which both parties work together as co-advisors to a client on
+the terms and conditions set forth in section 3.1 with minimum aggregate fees (the “minimum aggregate fees”) of: (1) m&a advisory, 3 million,
+(2) restructuring advisory, 2 million and (3) capital markets advisory and risk advisory, 1 million.
+
+4.4 discretionary fee sharing. one or more senior representatives of moelis holdings or smbc/nikko, as the case may be, will consider on
+a case by case basis if requested by a senior representative of the other party, discretionary fee sharing when moelis holdings or smbc/nikko, as
+the case may be, provides demonstrable value.
+
+4.5 primary fee allocation criteria. the parties may mutually agree on a fee allocation different from the foregoing allocations in good faith
+based on, among other things, the following criteria:
+
+(a) whether one or both parties have an important relationship that is crucial to securing an assignment
+
+(b) resource contribution
+
+(c) product expertise
+
+(d) industry expertise
+
+(e) transaction size
+
+(f) resource constraints
+
+article v.
+
+non-circumvention/non-solicitation.
+
+5.1 non-circumvention. subject to pre-existing arrangements of either party, each party agrees not to circumvent this agreement and to
+act in good faith in the spirit of the strategic alliance. each party shall ensure that its controlled affiliates comply with the terms and conditions of
+this agreement.
+
+5.2 non-solicitation. each of smbc/nikko and moelis holdings agrees not to solicit or hire any employee of the other party during the
+term of this agreement and for a period of 12 months thereafter; provided, however, that the foregoing restriction shall not apply to general
+solicitations to the public that are not specifically directed to employees of other party (or employment of applicants to such solicitations). each of
+smbc/nikko and moelis holdings agrees, during the term of this agreement (except pursuant to this agreement) and for a period of 12 months
+thereafter, not to solicit any client introduced by the other party in connection with an assignment on covered
+
+businesses involving japanese companies where all principal parties involved are located within covered regions.
+
+notwithstanding the foregoing, this provision shall not prevent any party from soliciting or otherwise contacting any client (i)
+for any purpose other than working on or obtaining an assignment on covered businesses involving japanese companies in covered regions
+where all principal parties involved are located within covered regions or (ii) with whom such party (or its employees or consultants) has had a
+pre-existing relationship, including, but not limited to, a pre-existing contractual or business relationship, prior to the introduction of such client in
+connection with an assignment covered by this agreement.
+
+5.3 japan office. moelis holdings agrees not to open an office in japan conducting covered businesses during the term of this
+agreement.
+
+article vi.
+
+senior sponsorship; alliance review committee.
+
+6.1 alliance review committee. as soon as reasonably practicable following the effective date, smbc/nikko and moelis holdings shall
+form a six person committee comprised of two senior executives from each of smbc, nikko and moelis holdings to review and discuss the
+progress of the strategic alliance (the “alliance review committee”). each party shall notify the other parties if it replaces either of its designees to
+the alliance review committee. the alliance review committee will meet annually and will have the authority to recommend changes to the
+strategic alliance or this agreement if deemed appropriate. for the avoidance of doubt, the recommendations of the alliance review committee
+will not be binding upon any party unless and until this agreement is amended or modified pursuant to section 15.3.
+
+article vii.
+
+training and development.
+
+7.1 training and development. during the term of this agreement, moelis holdings shall offer certain full-time analysts and associates of
+smbc/nikko, or employees with similar responsibilities, the opportunity to participate annually in moelis holdings’ training program for newly
+hired full-time analysts and associates, to the extent that moelis holdings’ holds such a program. smbc/nikko shall reimburse moelis holdings for
+all out-of-pocket and allocated expenses incurred by moelis holdings in connection with smbc/nikko employees’ attending the moelis holdings
+training program.
+
+7.2 secondment program.
+
+(a) during the term of this agreement, smbc/nikko shall second 3 or 4 bankers to moelis holdings’ new york office and second
+2 or 3 bankers to moelis holdings’ london office as local staff of moelis holdings. moelis holdings shall use its commercially reasonable best
+efforts to second a banker to smbc/nikko’s tokyo office as local staff of smbc/nikko. all secondees shall be investment bankers that serve in a
+position with responsibilities typically associated with an associate or a vice president at a major international investment bank, except as
+otherwise agreed between smb c/nikko and moelis holdings.
+
+(b) each party shall be responsible for all out-of-pocket and allocated expenses incurred by its employees who are seconded. a
+party’s secondee(s) must be reasonably acceptable to the other parties and shall agree to be subject to any policies and procedures, including
+without limitation, relating to confidential and proprietary information and securities and other trading activity limitations, that the party accepting
+such secondee may determine are necessary and/or appropriate.
+
+(c) smbc/nikko and moelis holdings will from time to time during the term of this agreement, review and discuss the
+secondment program and such additions and changes the parties consider appropriate to further the strategic alliance.
+
+article viii.
+
+engagements.
+
+8.1 engagement letters and other agreements.
+
+(a) parties. where the parties are executing an assignment together pursuant to this agreement, it is anticipated that generally
+both parties (or one of their respective affiliates) will sign the engagement letter (and, where necessary, other relevant agreements) with the relevant
+client in connection with the assignment. in certain limited circumstances mutually agreed upon by the parties, one party may sign the engagement
+letter with the client and then such party would also sign an agreement with the other party or parties for such party or parties to provide services
+to the client and receive compensation, indemnification and other protections after receiving the written consent of such client.
+
+(b) rights and obligations. the engagement letters will (unless otherwise agreed) include a provision to the effect that: “the
+rights and obligations of smbc, nikko and moelis holdings are the several rights and obligations of smbc, nikko and moelis holdings and that
+each of smbc, nikko or moelis holdings shall not be liable or responsible for the actions or omissions of the others.”
+
+(c) payment. the engagement letters will (unless otherwise agreed) provide that payments would be made to either smbc/nikko
+or moelis holdings and smbc/nikko and moelis holdings will split the fees pursuant to this agreement.
+
+8.2 expenses. if only one party is engaged for an assignment, such party will submit expenses of the other parties for reimbursement by the
+client. if there is an expense cap or any other expense reimbursement reduction, the parties will (unless otherwise agreed) bear the cost of such
+unreimbursed expenses in the same proportion as the parties agreed to split the fees from such assignment.
+
+8.3 conflict clearance. each party shall have its own separate conflict identification, business selection and client vetting procedures. the
+parties will cooperate to identify and resolve potential conflict issues.
+
+8.4 compliance with laws. in the case where one party executes an engagement letter with a client (the “main-advisor party”) and the
+main-advisor party appoints and retains the other party or parties as a sub-advisor (the “sub-advisor party”), each of the main-advisor party
+and the sub-advisor party shall comply in all material respects with all applicable laws or regulations, including the uk bribery act 2010, the us
+foreign corrupt practices act of 1977 and any other similar anti-bribery act in its execution and performance of its services for the covered
+businesses for such client. if either of the main-advisor party or sub-advisor party breaches its obligations set forth in this section 8.4, the non-
+breaching party shall have the right to immediately terminate its sub-advisor agreement or any other similar agreement entered into with respect to
+the covered businesses for such client by providing a written notice to the breaching party that specifically identifies how the breaching party has
+breached this section 8.4.
+
+article ix.
+
+joint marketing.
+
+9.1 joint marketing. the parties shall establish a joint marketing effort for the strategic alliance. among other things, the parties shall
+agree upon a joint press release and communication strategy for announcing the strategic alliance and certain joint marketing materials which
+either party may use in marketing to clients.
+
+article x.
+
+confidentiality.
+
+10.1 confidentiality. the parties each agree to keep confidential all non-public information disclosed by another party or a client or
+prospective client or a representative thereof in connection with the strategic alliance (including this agreement) (“confidential information”), (i)
+except to subsidiaries, affiliates or their professional advisors (and provided that the party shall cause the recipient to assume and perform the
+confidentiality obligations equivalent to those imposed on such party under this agreement and shall be responsible for breach of such
+obligations by such recipient) and (ii) except as required by judicial process or such party’s regulatory authorities, and
+
+to use such information only for purposes of the strategic alliance (including this agreement); provided, however, that confidential information
+shall not include (i) information that is already in the receiving party’s possession when it is received and not subject to a confidentiality agreement
+or other obligation of confidentiality to the disclosing party, (ii) information separately obtained by the receiving party from a third party that is not
+known or should not reasonably be known to the person receiving such information to be bound by a confidentiality agreement or other obligation
+of confidentiality to the disclosing party and (iii) information independently developed by the receiving party without any use of confidential
+information. in the event that any disclosure of confidential information is required by judicial process or such party’s regulatory authorities, the
+party required to make such disclosure shall, to the extent commercially practicable and legally permissible, consult with the party that provided
+such confidential information prior to making any such disclosure. nothing in this section shall restrict the receiving party’s ability to make any
+legally required disclosures of confidential information to bank examiners or other supervisory authorities having jurisdiction over the receiving
+party. each of moelis holdings and smbc/nikko shall also ask the other if it has internally cleared the receipt of non-public information regarding a
+client or prospective client before the party providing such information delivers any such information to the receiving party. due to japanese
+firewall restrictions, (i) smbc will not disclose confidential information relating to its clients to nikko (ii) nikko will not disclose confidential
+information relating to its clients to smbc and (iii) moelis holdings shall not disclose confidential information relating to a client received from
+smbc or any of its affiliates (excluding nikko and any person that would be an affiliate of nikko if nikko were not an affiliate of smbc) (an “smbc
+affiliate”) to nikko or its affiliates (excluding smbc and any person that would be an affiliate of smbc if nikko were not an affiliate of smbc) (a
+“nikko affiliate”) or confidential information relating to a client received from nikko or any nikko affiliate to smbc or any smbc affiliate,
+without first obtaining such client’s consent to such disclosure. this section 10.1 shall terminate with respect to confidential information relating
+to a (prospective) client, two years following receipt of such information, and with respect to any other confidential information, two years
+following the termination of this agreement.
+
+article xi.
+
+term
+
+11.1 term. this agreement shall be effective as of january 1, 2012 (the “effective date”), provided, however, that, article xii and
+article xiii shall not be effective until after the closing. the initial term of this agreement shall begin on the effective date and continue for
+three (3) years, subject to the prior termination rights provided below. at the end of such initial term, and any renewed term, as applicable, this
+agreement shall automatically renew for an additional one (1) year term, unless a party provides written notice to the other parties at least six (6)
+months prior to the end of the
+
+initial term. at any time during a renewed term, this agreement may be terminated by any party on six (6) months prior notice that it wishes to
+terminate the agreement.
+
+11.2 termination. this agreement may be terminated as follows:
+
+(a) effective immediately upon mutual agreement of each of the parties;
+
+(b) immediately by a non-breaching party, if either smbc or nikko, on the one hand, or moelis holdings, on the other hand, shall
+materially breach the terms and conditions of this agreement, and such breach is continuing after written notice has been given by the non-
+breaching party to the breaching party that specifically identifies how the breaching party has breached this agreement, and a reasonable period of
+time has elapsed in which to cure such breach, which period shall not be less than ninety (90) calendar days from the date that such breaching
+parties receive such notice;
+
+(c) immediately upon the bankruptcy, insolvency, or making of the assignment for the benefit of creditors by a party; unless such
+termination is waived by the parties in writing not subject to any of the foregoing proceedings;
+
+(d) by any party if the smbc unit-holders cease to hold any partnership interests as a result of sale or transfer pursuant to
+section 12.4 of this agreement or section 8.4 of the moelis holdings agreement, such termination to be effective six (6) months following the date
+on which the other parties receive written notice of such party’s election to terminate this agreement; and
+
+(e) immediately by moelis holdings if the closing has not occurred by march 1, 2012 or such later date if the closing is delayed
+pursuant to the terms of the subscription agreement.
+
+11.3 effect of termination. in the event of the termination of this agreement, no party shall have any liability to any other party in respect
+of this agreement except for any liabilities relating to any breach or any payment obligation hereunder and arising prior to such termination;
+provided, that, sections 5.2 (non-solicitation) and 8.2 (expenses) and article x (confidentiality), xii (certain transfer rights of smbc/nikko)
+(other than section 12.6, after the smbc unit-holders no longer hold any partnership interests), xiii (registration rights) and xv (miscellaneous)
+shall survive any expiration or termination of this agreement; provided, however, if moelis holdings terminates this agreement pursuant to section
+11.2(b) due to a material breach by either smbc or nikko, or if this agreement is terminated pursuant to section 11.2(c) due to the bankruptcy,
+insolvency or making of the assignment for the benefit of creditors by either smbc or nikko, article xii (certain transfer rights of
+smbc/nikko) and xiii (registration rights) shall not survive such termination; provided, further, that, if this agreement is terminated prior to the
+closing, xii (certain transfer rights of smb c/nikko), xiii (registration rights) shall not survive such termination.
+
+article xii.
+
+certain rights of smbc/nikko.
+
+12.1 advisory board. during the term of the strategic alliance, smbc/nikko shall have the right to appoint one person to serve as a
+member of the advisory board of moelis holdings.
+
+12.2 right of first refusal.
+
+(a) prior to the ipo and during the term of the strategic alliance, smbc shall have the right of first refusal to purchase all (but not
+less than all) additional units that moelis holdings proposes to issue to an smbc competitor, including (x) in a proposed issuance that is
+excepted from section 3.4.2 of the moelis holdings agreement as an issuance to a strategic investor, and (y) in a proposed issuance that is subject
+to section 3.4.2 of the moelis holdings agreement, to the extent that the partners do not exercise in full their right of first refusal thereunder. the
+above rights are in addition to the pro rata right of first refusal granted to all partners with respect to issuances of additional units in section 3.4.2
+of the moelis holdings agreement.
+
+(b) in the event moelis holdings proposes to undertake an issuance of additional units to which clause (x) of section 12.2(a)
+applies, it shall give smbc written notice of its intention describing the price and terms upon which moelis holdings proposes to issue the same.
+smbc shall have ten (10) days from the date of delivery of any such notice to agree to purchase all, but not less than all, of such additional units,
+for the price and upon the terms specified in the notice, by delivering written notice to moelis holdings. following the expiration of such 10-day
+period, moelis holdings shall have one hundred and eighty- (180-) days to sell or enter into an agreement to sell the additional units with respect
+to which smbc’s right of first refusal was not exercised, at a price and upon terms no more favorable to the purchasers of such securities than
+specified in moelis holdings’ notice. in the event moelis holdings has not sold the additional units or entered into an agreement to sell the
+additional units within such one hundred and eighty- (180-) day period, moelis holdings shall not thereafter issue or sell any additional units
+without first complying again with this section 12.2.
+
+(c) in the event moelis holdings proposes to undertake any issuance of additional units to which clause (y) of section 12.2(a)
+applies, smbc shall specify in its notice delivered to moelis holdings pursuant to section 3.4.2(b) of the moelis holdings agreement, in addition
+to whether or not it elects to purchase its pro rata portion of such additional units, whether or not it shall exercise its right of first refusal to
+purchase all (but not less than all) of the additional units that other partners do not purchase pursuant to their right of first refusal under section
+3.4.2 of the moelis holdings agreement.
+
+(d) the right of first refusal granted hereunder may not be assigned or transferred, except that such right is assignable by smbc
+to any of its respective wholly-owned subsidiaries.
+
+12.3 moelis general partner’s consent to certain transfers.
+
+(a) prior to the ipo and during the term of the strategic alliance, moelis general partner shall not consent to a sale or transfer by a
+partner of its partnership interests to an smbc competitor unless the moelis general partner caused the partner proposing to sell or transfer its
+partnership interests to provide smbc with a right to purchase, on the same terms and conditions, including price, all (but not less than all) of the
+partnership interests that such partner proposes to sell or transfer to an smbc competitor.
+
+(b) in the event a partner proposes to undertake a sale or transfer of partnership interests to which the foregoing right applies,
+and moelis general partner must consent to the sale or transfer, moelis general partner shall require that partner to give smbc written notice of its
+intention to sell or transfer partnership interests to an smbc competitor describing the price and terms upon which such partner proposes to sell
+or transfer its partnership interests. smbc shall have ten (10) days from the date of delivery of any such notice to agree to purchase all, but not
+less than all, of such partnership interests, for the price and upon the terms specified in the notice, by delivering written notice to such partner and
+moelis holdings.
+
+(c) following the expiration of such 10-day period, the partner proposing to sell or transfer partnership interests shall have one
+hundred and eighty- (180-) days to sell or transfer, or enter into an agreement to sell or transfer the partnership interests with respect to which
+smbc ‘s right under section 12.3(a) was not exercised, at a price and upon terms no more favorable to the purchasers of such securities than
+specified in the partner’s notice. in the event the partner has not sold or transferred the partnership interests, or entered into an agreement to sell or
+transfer the partnership interests, within such one hundred and eighty- (180-) day period, moelis general partner shall not consent to the partner’s
+selling or transferring its partnership interests to an smbc competitor thereafter without first requiring the partner to comply again with this
+section 12.3.
+
+(d) the rights granted under this section 12.3 may not be assigned or transferred, except that such right is assignable by smbc
+to any of its respective wholly-owned subsidiaries.
+
+(e) nothing in this section 12.3 shall affect the power of moelis general partner to withhold consent to any transfer of partnership
+interests in its sole discretion to the extent authorized under section 8.1 of the moelis holdings agreement.
+
+12.4 certain transfer matters.
+
+(a) during the term of the strategic alliance, if km sells all or a portion of km’s partnership interests, the smbc unit-holders
+may sell a pro rata portion of the smbc units without regard to any timing or transfer restrictions imposed by this agreement or the moelis
+holdings agreement, except that such sale or transfer may not be to a moelis competitor. in the event km proposes to undertake a sale or
+
+transfer of km’s partnership interests to which the foregoing right applies, km shall give written notice to smbc and moelis general partner at
+least ten (10) days in advance of such sale or transfer, describing the percent of km’s partnership interest being sold or transferred. km shall give
+written notice to smbc and moelis general partner within five (5) days of any cancellation or postponement of such sale. when an smbc unit-
+holder elects to sell or transfer the smbc units pursuant to its rights granted under this section 12.4(a), the smbc unit-holder shall provide
+moelis general partner with a notice stating its intent to sell or transfer the smbc units pursuant to this section 12.4(a). within ten (10) days of
+receiving such notice from an smbc unit-holder, moelis general partner shall deliver to such smbc unit-holder its consent for the proposed sale
+or transfer, unless the proposed sale or transfer is to a moelis competitor. for the avoidance of doubt, if the transaction is subject to (i) a drag-
+along right or a tag-along right, and such right was exercised, the smbc unit-holders shall be deemed to have sold its pro rata portion of its
+partnership interests with respect to such transaction and shall not have any additional rights under this section 12.4(a) or (ii) section 13.2 of this
+agreement, and an smbc unit-holder exercised its right thereunder, such smbc unit-holder shall be deemed to have sold its pro rata portion of
+its partnership interests with respect to such transaction and shall not have any additional rights under this section 12.4(a). the above right shall
+be in addition to the drag-along right and the tag-along right with respect to transfers by moelis general partner set forth in sections 8.4.1 and
+8.4.2, respectively, of the moelis holdings agreement.
+
+(b) during the term of the strategic alliance, and after the first anniversary of moelis holdings’ commencing a public registered
+share sale program for managing directors and other employees of moelis holdings or its affiliates, the smbc unit-holders may sell or transfer
+partnership interests pursuant to such public registered share sale program for any given period in an amount equal to (i) the number of partnership
+interests that can be sold pursuant to the program in such period multiplied by (ii) a fraction whose numerator is the number of partnership
+interests the smbc unit-holders have elected to sell in such program during such period and whose denominator is the total number of
+partnership interests the smbc unit-holders have elected to sell plus the number of partnership interests all other persons have elected to sell in
+such program during such period (whether such partnership interests are held as outstanding common stock of a successor or parent company of
+moelis holdings or as interests in an affiliate of such public company) (for example, if 50 partnership interests can be sold during the period, the
+smbc unit-holders has elected to sell 400 partnership interests and all persons other than the smbc unit-holders have elected to sell 1,600
+partnership interests, then the smbc unit-holders may sell 10 partnership interests and the other persons may sell 40 partnership interests);
+provided, that, (1) the smbc unit-holders shall be subject to the same conditions and terms as the other participants in the program; (2) such right
+under this section 12.4(b) shall not apply to sales moelis holdings may permit certain of its managing directors and other employees to make under
+rule 144 or otherwise; and (3) if both section 12.4(a) and section 12.4(b) apply to a sale or transfer of partnership interests, an smbc unit-holder
+may sell the higher of the amount under section 12.4(a) or section 12.4(b). if such public registered share sale program as set forth in this section
+12.4(b) is established, moelis holding will provide the smbc unit-holders with a monthly report which provides the number of partnership
+interests being
+
+sold in such share sale program during the relevant month and the outstanding number of partnership interests that are left in the public sale
+registered sale program as of the end of the relevant month.
+
+(c) after the termination of the strategic alliance:
+
+(i) prior to the ipo, moelis general partner shall not unreasonably withhold its consent to an smbc unit-holder’s
+transferring all or a portion of the smbc units to any other person who is not a moelis competitor; and
+
+(ii) following the ipo, the smbc unit-holders may freely transfer the smbc units, subject to applicable securities
+laws.
+
+(d) following the third anniversary of the closing, whether or not during the term of the strategic alliance, the smbc unit-
+holders may sell up to 9,231 smbc units (i) prior to the ipo, with the consent of moelis general partner (which consent may not be unreasonably
+withheld), provided such sale is not to a moelis competitor, or (ii) following the ipo, without restriction, subject only to applicable securities laws.
+
+(e) during the term of the strategic alliance and prior to the ipo, moelis holdings shall notify smbc in advance of publicly
+announcing the sale or issuance of any interests in moelis holdings (other than management units) to a strategic investor, provided, that moelis
+holdings shall notify smbc in advance only to the extent and in such manner as it is permissible under any confidentiality agreement entered into
+in connection with such sale or issuance.
+
+12.5 amendments to the moelis holdings agreement. without the prior written consent of smbc (which consent shall not be
+unreasonably withheld, delayed or conditioned), moelis general partner shall not enter into any side letter or agreement (other than the vesting
+agreement of any management partner) with any limited partner in respect of the issuance or holding of any class or type of interests in the
+partnership that (i) modifies the limited liability of the smbc unit-holders, (ii) materially and adversely affects in a disproportionate manner the
+interest of the smbc unit-holders in net income, net loss or available assets, (iii) increases the capital contributions required to be made by the
+smbc unit-holders, (iv) modifies the smbc unit-holders’ drag-along rights or tag-along rights under the moelis holdings agreement, or (v)
+materially and adversely affects in a disproportionate manner the interest of the smbc unit-holders in the distributions, regardless of whether
+such side letter or agreement is entered into by such limited partner in its capacity as such, and regardless of whether smbc is entitled to
+participate or does participate in such issuance of or otherwise holds any such interests; provided, however, the foregoing consent of smbc shall
+not be required if the side letter or agreement affects management units in a substantially similar manner.
+
+12.6 percentage interest limit. notwithstanding anything to the contrary in this agreement or the moelis holdings agreement, none of
+smbc, moelis holdings or any of their controlled affiliates shall take any action, including with respect to the acquisition of any partnership
+interests pursuant to the exercise of any right under this agreement or the moelis holdings agreement, that would reasonably be expected to (i)
+cause smbc, or any of its affiliates, to require approval of the board of governors of the federal reserve system under section 4 of the u.s. bank
+holding company act of 1956, as amended (including regulation y promulgated thereunder), or otherwise, to acquire or retain any interest in
+moelis holdings or (ii) cause moelis holdings to be deemed to be or presumed to be “controlled” by smbc, or any of its affiliates, for purposes of
+the u.s. bank holding company act of 1956, as amended (including regulation y promulgated thereunder). smbc and moelis holdings shall
+cooperate with each other and use their reasonable best efforts to avoid any of the events in the preceding sentence by taking any and all actions
+necessary, including, without limitation, in connection with any restructuring to facilitate the ipo, which shall include, among other things, issuing
+a new class or series of partnership interests or alternative economic interests to smbc, or its affiliates, as applicable. notwithstanding anything to
+the contrary in this section 12.6, nothing shall prevent smbc, or its affiliates, from seeking a noncontrol determination from the staff of the board
+of governors of the federal reserve system with respect to any action that would otherwise be prohibited by this section 12.6, and, after receiving
+a noncontrol determination, taking such action, including acquiring additional partnership interests.
+
+article xiii.
+
+registration rights.
+
+13.1 registration.
+
+(a)
+
+(i) following the ipo and the termination of the strategic alliance, smbc shall have the right to demand that moelis
+holdings register the sale of all, but not less than all, of the registrable securities held by smbc and its affiliates (together the
+“smbc unit-holders”) under the securities act (the “demand notice”), provided, however, smbc shall not be permitted to
+deliver the demand notice within (i) 180 days of the ipo or (ii) 60 days of any public offering and sale of partnership interests
+(and/or any securities of moelis holdings or any successor entity into which partnership interests are converted, exchanged or
+redesignated) for cash pursuant to an effective registration statement (other than on form s-4 or s-8 or a comparable form), and
+subject to the terms of any agreement entered into by moelis holdings, smbc or nikko pursuant to section 13.7. within 60 days
+after moelis holdings receives a written notice to register the registrable securities, moelis holdings will
+
+file a registration statement, on an appropriate form, to register the sale of the registrable securities, which registration
+statement will (if specified in the smbc unit-holders’ notice) contemplate the ability of the smbc unit-holders to effect an
+underwritten offering (the “demand registration”). the demand notice shall specify the intended method of distribution of the
+registrable securities. subject to section 13.2, moelis holdings may include in any registration effected pursuant to this section
+13.1 any securities for its own account or for the account of holders (other than the smbc unit-holders) of partnership interests;
+provided, that, moelis holdings shall pay a portion of all expenses of moelis holdings (including those set forth in section 13.8)
+in connection with any such registration, in proportion to the aggregate selling price of all securities so included in any such
+registration.
+
+(ii) moelis holdings will use its commercially reasonable efforts (i) to cause any registration statement to be declared
+effective (unless it becomes effective automatically upon filing) as promptly as practicable after the filing thereof with the sec
+and (ii) to keep such registration statement current and effective for a period of 90 days, or such shorter time necessary for the
+completion of the sale of registrable securities registered thereon. moelis holdings further agrees to use its commercially
+reasonable efforts to supplement or make amendments to such registration statement as may be necessary to keep such
+registration statement effective for the period referred to in clause (ii) above, including (a) to respond to the comments of the
+sec, if any, (b) as may be required by the registration form utilized by moelis holdings for such registration statement or by the
+instructions to such registration form, (c) as may be required by the securities act, or (d) as may reasonably be requested in
+writing by the smbc unit-holders or any underwriter and acceptable to moelis holdings. moelis holdings agrees to furnish to
+the smbc unit-holders copies of any such supplement or amendment no later than the time it is first used or filed with the sec.
+
+(b) if the demand notice specifies that the registrable securities will be sold in an underwritten offering, the parties shall
+mutually agree on the lead underwriter and any additional underwriters.
+
+(c) any registration initiated pursuant to section 13.1(a) shall not count as a demand registration (i) unless and until the
+registration statement with respect to the registrable securities has become effective and remained effective for a period of 90 days or, if a shorter
+time, until all of the registrable securities have been sold, or (ii) if the conditions to closing specified in the underwriting agreement, if any, entered
+into in connection with such registration are not satisfied or waived, other than by reason of a failure on the part of the smbc unit-holders.
+
+13.2 piggyback registration. if moelis holdings proposes to file a registration statement under the securities act (other than non-
+participating, non-convertible debt or
+
+equity securities or securities to be issued pursuant to a registration statement on form s-4 or s-8 or any comparable form) for its own account or
+for the account of a holder (other than the smbc unit-holders) of partnership interests, including in connection with the ipo and where smb
+c/nikko (including an smbc unit-holder) has the right to sell any or all smbc units under this agreement, then moelis holdings shall give
+written notice of such proposed filing to the smbc unit-holders as soon as commercially practicable but in no event less than (i) 20 days before
+the anticipated filing date or (ii) if moelis holdings determines to conduct a registration less than 20 days before the anticipated filing date, then on
+the date moelis holdings determines to proceed with such registration (a “piggyback registration”). if moelis holdings proposes to file the
+registration statement before the termination of the strategic alliance, the written notice to the smbc unit-holders shall include the number of
+partnership interests to be sold by km and the percentage of the total partnership interests held by km represented by that number. within 10
+days after delivery of any such notice by moelis holdings, or such shorter period as moelis holdings specifies in such notice if moelis holdings
+determines to conduct a registration less than 10 days before the anticipated filing date, the smbc unit-holders may request in writing that moelis
+holdings include any registrable securities held by the smbc unit-holders in the proposed registration. the request by the smbc unit-holders
+shall specify the number of registrable securities proposed to be included in the registration. moelis holdings will then, subject to section 13.3,
+include such requested registrable securities in the proposed registration; provided, however, that if moelis holdings proposes to file the
+registration statement before the termination of the strategic alliance, the percentage of all registrable securities that may be included in the
+proposed registration may not exceed the percentage of km’s total partnership interests to be sold in the proposed registration, as stated in the
+notice by moelis holdings. the smbc unit-holders may not withdraw any request for a piggyback registration involving an underwritten
+offering after the preliminary prospectuses for the proposed offering have been printed, or any “road show” has begun, or moelis holdings has
+made any public announcement with the consent of the smbc unit-holders that assumes the participation of the smbc unit-holders in the
+proposed offering, or in any event less than 24 hours before the pricing of such offering. the smbc unit-holders shall have no right to select the
+underwriters in an underwritten offering in connection with a piggyback registration. notwithstanding anything to the contrary in this section
+13.2, moelis holdings may, at any time at its sole option, choose not to proceed with the proposed registration that gives rise to the piggyback
+registration.
+
+13.3 reduction of size of underwritten offering. notwithstanding anything to the contrary contained herein, if the lead underwriter or
+underwriters in an underwritten offering pursuant to section 13.1 or section 13.2 advise moelis holdings that, in their good faith judgment, the
+number of partnership interests (including any registrable securities) that moelis holdings, the smbc unit-holders and any other persons intend
+to include in any registration statement exceeds the number that can be sold in the offering in light of marketing factors or because the sale of a
+greater number would adversely affect the price of the partnership interests to be sold, then the number of partnership interests to be included in
+the registration statement for the account of moelis holdings, the smbc unit-holders and any other persons will be reduced to the
+
+extent necessary to reduce the total number of securities to be included in any such registration statement to the number recommended by the lead
+underwriter or underwriters, in accordance with the following priorities:
+
+(a) in the case of a demand registration pursuant to section 13.1, priority will be (i) first, all registrable securities included in the
+registration statement, (ii) second, any partnership interests proposed to be offered by moelis holdings for its own account (iii) third, pro rata
+among any other holders of partnership interests requested to be registered pursuant to a contractual right, and (iv) fourth, pro rata among any
+other holders of partnership interests requested to be registered;
+
+(b) in the case of a registration statement initiated by moelis holdings for its own account that gives rise to a piggyback
+registration pursuant to section 13.2, priority will be (i) first, partnership interests proposed to be offered by moelis holdings for its own account,
+(ii) second, pro rata among all holders of partnership interests requested to be registered pursuant to a contractual right and (iii) third, pro rata
+among any other holders of partnership interests requested to be registered; and
+
+(c) in the case of a registration statement initiated by moelis holdings for the account of holders (other than the smbc unit-
+holders) of partnership interests, pursuant to registration rights afforded to such holders by contract, that gives rise to a piggyback registration
+pursuant to section 13.2, priority will be (i) first, pro rata among the holders of partnership interests for whose account the registration statement
+was initiated, (ii) second, partnership interests offered by moelis holdings for its own account, (iii) third, pro rata among any other holders of
+partnership interests requested to be registered pursuant to a contractual right and (iv) fourth, pro rata among any other holders of partnership
+interests requested to be registered.
+
+13.4 registration procedures. subject to the provisions of section 13.1 or section 13.2, in connection with the registration of the sale of
+registrable securities pursuant to the demand registration or a piggyback registration hereunder, moelis holdings will:
+
+(a) furnish to the smbc unit-holders without charge, no later than the time of filing of a registration statement, copies of such
+registration statement, and thereafter such number of copies of such registration statement, each amendment and supplement thereto (in each
+case including all exhibits thereto, including each preliminary prospectus), copies of any and all transmittal letters or other correspondence with the
+sec relating to such registration statement and such other documents in such quantities as the smbc unit-holders may reasonably request from
+time to time, for as long as moelis holdings is required to cause the registration statement to remain current, in order to facilitate the disposition of
+the registrable securities;
+
+(b) provide the smbc unit-holders and their representatives with the opportunity to participate in the preparation of the
+registration statement and the related prospectus;
+
+(c) use its commercially reasonable efforts to register or qualify the partnership interests being sold under such other securities or
+“blue sky” laws of such jurisdictions as the smbc unit-holders reasonably request and do any and all other acts and things as may be reasonably
+necessary or advisable to enable the smbc unit-holders to consummate the disposition of the registrable securities in such jurisdictions;
+provided, however, that moelis holdings shall in no event be required to (w) qualify generally to do business in any jurisdiction where it is not
+then so qualified, (x) subject itself to taxation in any jurisdiction where it is not otherwise then so subject, (y) take any action that would subject it
+to service of process in suits other than those arising out of the offer and sale of the securities covered by the registration statement or (z) consent
+to general service of process in any jurisdiction where it is not then so subject;
+
+(d) notify the smbc unit-holders and the lead underwriter or underwriters, if any, at any time when a prospectus relating to
+registrable securities is required to be delivered under the securities act, of the occurrence of any event as a result of which the registration
+statement, the prospectus included in a registration statement or any amendment or supplement thereto relating to registrable securities contains
+an untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein, in
+the light of the circumstances under which they were made, not misleading, and moelis holdings will use its commercially reasonable efforts to
+prepare and file with the sec a supplement or amendment to such prospectus and registration statement (and comply fully with the applicable
+provisions of rules 424, 430a and 430b under the securities act in a timely manner) so that, as thereafter delivered to the purchasers of the
+registrable securities, such prospectus and registration statement will not contain an untrue statement of a material fact or omit to state any
+material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were
+made, not misleading;
+
+(e) advise the lead underwriter or underwriters, if any, and the smbc unit-holders promptly and, if requested by such persons,
+confirm such advice in writing, of the issuance by the sec of any stop order suspending the effectiveness of the registration statement under the
+securities act or of the suspension by any state securities commission of the qualification of the registrable securities for offering or sale in any
+jurisdiction, or the initiation of any proceeding for any of the preceding purposes. if at any time the sec issues any stop order suspending the
+effectiveness of the registration statement, or any state securities commission or other regulatory authority issues an order suspending the
+qualification or exemption from qualification of the registrable securities under state securities or “blue sky” laws, moelis holdings shall use its
+commercially reasonable efforts to obtain the withdrawal or lifting of such order as promptly as practicable;
+
+(f) use its commercially reasonable efforts to cause the registrable securities to be registered with or approved by such other
+governmental authorities as may be necessary by virtue of the business and operations of moelis holdings to enable the smbc unit-holders to
+consummate the disposition of the registrable securities; provided, however, that moelis holdings shall in no event be required to (w) qualify
+
+generally to do business in any jurisdiction where it is not then so qualified, (x) subject itself to taxation in any jurisdiction where it is not otherwise
+then so subject, (y) take any action that would subject it to service of process in suits other than those arising out of the offer and sale of the
+securities covered by the registration statement or (z) consent to general service of process in any jurisdiction where it is not then so subject;
+
+(g) if requested by the smbc unit-holders or the underwriter or underwriters, if any, promptly include in any registration
+statement or prospectus, pursuant to a supplement or post-effective amendment if necessary, such information as the smbc unit-holders and the
+underwriter or underwriters, if any, may reasonably request to have included therein, including information relating to the “plan of distribution” of
+the registrable securities, information about the number of registrable securities being sold to the underwriter or underwriters, the purchase price
+being paid therefor and any other terms of the offering of the registrable securities to be sold in such offering, and make all required filings of such
+prospectus supplement or post-effective amendment as soon as practicable after moelis holdings is notified of the matters to be included in such
+prospectus supplement or post-effective amendment;
+
+(h) for the period beginning a reasonable time before the filing of the registration statement and for as long as moelis holdings is
+required to cause the registration statement to remain current under section 13.1(a)(ii), and except to the extent prohibited by applicable law and
+subject to entering into customary confidentiality agreements, after reasonable advance notice, make available for inspection by the smbc unit-
+holders, any underwriter participating in any disposition of the registrable securities, and any representative for the smbc unit-holders or such
+underwriter, during business hours and at the location designated by moelis holdings, any financial and other records and corporate documents of
+moelis holdings as will be reasonably necessary to enable them to conduct reasonable and customary due diligence with respect to moelis
+holdings and the related registration statement and prospectus, provided, however, that records, documents and information obtained hereunder
+will be used by such inspecting person only to conduct such due diligence; and
+
+(i) together with any other holder of partnership interests proposing to include securities in any underwritten offering, enter into
+a reasonable and customary written agreement with the underwriter or underwriters, if any, in such form and containing such provisions as are
+reasonable and customary in the securities business for such an arrangement between underwriters and companies of moelis holding’s size and
+investment stature.
+
+13.5 conditions to offerings. the obligations of moelis holdings to take the actions contemplated by sections 13.1, 13.2 and 13.4 with
+respect to an offering of registrable securities will be subject to the following conditions:
+
+(a) moelis holdings may require each smbc unit-holder to furnish to moelis holdings such information regarding such smbc
+unit-holder, the registrable securities or the distribution of such registrable securities as moelis holdings may from time to time request, in each
+case to the extent reasonably required by the securities act
+
+and the rules and regulations promulgated thereunder, or under state securities or “blue sky” laws; and
+
+(b) if an offering of registrable securities is an underwritten offering, each smbc unit-holder must: (a) agree to sell its
+registrable securities on the basis provided in any underwriting agreement approved by moelis holdings in accordance with section 13.4(i), (b)
+complete and execute, as applicable, all customary questionnaires, powers of attorney, underwriting agreements, lock-up agreements consistent
+with section 13.7 and other documents customarily required under the terms of such underwriting agreement and (iii) agree to make customary
+representations and warranties (including as to due organization and good standing, corporate power and authority, due approval, no conflicts and
+ownership and transfer of registrable securities, and as to accuracy and completeness of those statements made in the applicable registration
+statement, prospectus or other document in reliance upon and in conformity with written information furnished to moelis holdings or the
+underwriter or underwriters by such smbc unit-holder) and covenants in such underwriting agreement.
+
+13.6 suspension period.
+
+(a) notwithstanding anything to the contrary contained in this agreement, moelis holdings shall be entitled, by providing prior
+written notice to the smbc unit-holders, to postpone the filing or effectiveness or suspend the use of any registration statement pursuant to
+section 13.1 for a reasonable period of time not to exceed 60 days in succession or 120 days in any 365-day period (or a longer period of time with
+the prior written consent of smbc, which consent shall not be unreasonably withheld) (a “suspension period”) if (a) moelis holdings determines
+in good faith that effecting the registration (or permitting sales under an effective registration) would reasonably be expected to adversely affect an
+offering of securities of moelis holdings, (b) moelis holdings is in possession of material non-public information and deems it advisable not to
+disclose such information in a registration statement, or (c) due to a pending or contemplated financing, acquisition, disposition, corporate
+reorganization, merger, public offering of securities or other similar transaction or other material event or circumstance involving moelis holdings or
+its securities. moelis holdings will notify the smbc unit-holders promptly upon the termination of the suspension period. upon notice by moelis
+holdings to the smbc unit-holders of any determination to commence a suspension period, the smbc unit-holders shall, except as required by
+applicable law, including any disclosure obligations under section 13 of the exchange act, keep the fact of any such suspension period strictly
+confidential, and during any suspension period, promptly halt any offer, sale (including sales pursuant to rule 144), trading or transfer of any
+partnership interests for the duration of the suspension period until moelis holdings has provided notice that the suspension period has been
+terminated.
+
+(b) if moelis holdings suspends the use of a registration statement pursuant to section 13.6(a), the holders of registrable
+securities shall receive an extension of the registration period under section 13.1(a)(ii) and 13.1(c) equal to the number of days of the suspension.
+
+(c) the smbc unit-holders agrees that, upon receipt of any notice from moelis holdings of the occurrence of any event of the
+kind described in section 13.4(d) or section 13.4(e) or a condition described in section 13.6(a), each smbc unit-holder will forthwith discontinue
+disposition of registrable securities pursuant to the registration statement covering the sale of registrable securities until the smbc unit-holders
+receive copies of the supplemented or amended prospectus contemplated by section 13.4(d) or section 13.6(d) or notice from moelis holdings of
+the termination of the stop order or suspension period.
+
+(d) after the expiration of any suspension period and without any further request from a holder of partnership interests, moelis
+holdings shall use its commercially reasonably efforts to prepare a registration statement, or post-effective amendment or supplement to the
+registration statement or prospectus or any document incorporated therein by reference, or file any other required document so that, as thereafter
+delivered to purchasers of the registrable securities included therein, the prospectus will not include a material misstatement or omission or be not
+effective and useable for the sale of registrable securities.
+
+13.7 market stand-off agreement.
+
+(a) in connection with any underwritten offering that is the ipo, or any underwritten offering in which the smbc unit-holders
+are selling registrable securities pursuant to sections 13.1 or 13.2, each smbc unit-holder agrees that, during the period of duration (up to 180
+days, subject to customary extensions as may be required by the underwriter or underwriters up to a maximum of 214 days) specified by moelis
+holdings and the underwriter or underwriters of registrable securities, following the date of the final prospectus or other offering document
+distributed in connection with the underwritten offering, it shall not, to the extent requested by moelis holdings and such underwriter or
+underwriters, directly or indirectly, sell, offer to sell, contract to sell (including any short sale or other hedging transaction), grant any option to
+purchase or otherwise transfer any registrable securities held by it at any time during such period except for such registrable securities as shall be
+included in such registration. notwithstanding the foregoing, the obligations described in this section 13.7(a) shall not apply (i) to a registration
+relating solely to employee benefit plans on form s-1 or form s-8, (ii) to a registration relating solely to an acquisition or similar transaction on form
+s-4 or (iii) unless all holders then holding more than 3 of the issued and outstanding partnership interests (and/or any securities of moelis
+holdings or any successor entity into which the partnership interests are converted, exchanged or redesignated) with a contractual obligation
+enforceable by moelis holdings or its affiliates to do so and all of the then-current executive officers and directors (if applicable) of moelis
+holdings enter into similar agreements.
+
+(b) in order to enforce the foregoing covenant, moelis holdings may impose stop-transfer instructions with respect to the
+registrable securities of each smbc unit-holder until the end of such period.
+
+13.8 registration expenses. all fees and expenses incident to moelis holding’s performance of or compliance with the obligations of this
+article xiii, including all fees and expenses incurred in complying with securities or “blue sky” laws, printing expenses, messenger and delivery
+expenses of moelis holdings, any registration or filing fees payable under any federal or state securities or “blue sky” laws, the fees and expenses
+incurred in connection with any listing or quoting of the securities to be registered on any national securities exchange or automated quotation
+system, fees of the financial industry regulatory authority, fees and disbursements of counsel for moelis holdings, its independent registered
+certified public accounting firm and any other public accountants who are required to deliver comfort letters (including the expenses required by or
+incident to such performance), fees of transfer agents and registrars, costs of insurance, and the fees and expenses of other persons retained by
+moelis holdings, will be borne by moelis holdings; provided, however; that the smbc unit-holders shall pay all reasonable out-of-pocket
+expenses of moelis holdings (including, for the avoidance of doubt, all the fees set forth above in this section) in connection with the demand
+registration subject to moelis holdings’ obligations set forth in section 13.1(a)(i). the smbc unit-holders will bear and pay any fees and
+expenses of smbc or its affiliates or their representatives, including their counsel, and any underwriting discounts, fees and commissions and any
+transfer taxes applicable to registrable securities offered for its account pursuant to any registration statement.
+
+13.9 indemnification; contribution.
+
+(a) in connection with any registration of registrable securities, moelis holdings will indemnify, defend and hold harmless each
+smbc unit-holder, its affiliates, directors, officers and smbc unit-holders and each person who controls smbc unit-holder within the meaning
+of either section 15 of the securities act or section 20 of the exchange act (collectively, the “indemnified persons”) from and against any and all
+direct losses, claims, damages, liabilities, obligations, costs and expenses (including, without limitation, as a result of any notices, actions, suits,
+proceedings, claims, demands, assessments, judgments, awards, costs, penalties, taxes and reasonable expenses, including reasonable attorneys’
+and other professionals’ fees and disbursements, but excluding any consequential damages) (collectively “losses”) caused by (i) any untrue or
+alleged untrue statement of material fact contained in any part of any registration statement or any prospectus, including any amendment or
+supplement thereto, used in connection with the registrable securities or any issuer fwp or (ii) any omission or alleged omission to state therein a
+material fact required to be stated therein or necessary to make the statements therein (in the case of a prospectus, in the light of the circumstances
+under which they were made) not misleading; provided, however, that moelis holdings will not be required to indemnify any indemnified person
+for any losses resulting from any such untrue statement or omission if such untrue statement or omission was made in reliance on and in
+conformity with information with respect to any indemnified person furnished to moelis holdings in writing by, or on behalf of, any of the smbc
+unit-holders expressly for use therein.
+
+(b) in connection with any registration statement, prospectus or issuer fwp, each smbc unit-holder, jointly and severally, will
+indemnify, defend and
+
+hold harmless moelis holdings, its directors, its officers and each person, if any, who controls moelis holdings (within the meaning of either
+section 15 of the securities act or section 20 of the exchange act) to the same extent as the foregoing indemnity from moelis holdings to each
+smbc unit-holder, but only with respect to information furnished to moelis holdings in writing by, or on behalf of, any smbc unit-holder or any
+indemnified persons expressly for use in such registration statement, prospectus or issuer fwp; and provided, further, however, that in no event
+shall the liability for indemnity of any smbc unit-holder under this section 13.9(b) exceed the dollar amount of the proceeds (net of any
+underwriting discount or commission or other selling expenses) received by such smbc unit-holder from the sale of the registrable securities
+giving rise to such indemnification.
+
+(c) in case any claim, action or proceeding (including any governmental investigation) is instituted involving any person in
+respect of which indemnity may be sought pursuant to section 13.9(a) or 13.9(b), such person (the “indemnified party”) will promptly, but in any
+event within 10 business days, notify the person against whom such indemnity may be sought (the “indemnifying party”) in writing, and the
+indemnifying party shall have the right to participate in, and to the extent the indemnifying party so desires, to assume the defense thereof with
+counsel reasonably satisfactory to the indemnified party; provided, that the failure of any indemnified party to give notice within the time limit
+provided herein shall not relieve the indemnifying party of its obligations under section 13.9(a) or 13.9(b), except to the extent that the indemnifying
+party is actually and materially prejudiced by such failure to give notice. in any such claim, action or proceeding where the indemnifying party has
+assumed the defense thereof, the indemnified party shall have the right, but not the obligation, to participate in any such defense and to retain its
+own counsel, but the fees and expenses of such counsel will be at the expense of such indemnified party unless the indemnified party and the
+indemnified party have been advised by counsel that representation of both parties by the same counsel would be inappropriate due to actual or
+potential conflicting interests between them. it is understood that the indemnifying party will not, in connection with any claim, action or
+proceeding or related claims, actions or proceedings in the same jurisdiction, be liable for the reasonable fees and expenses of more than one
+separate firm of attorneys (in addition to any local counsel) at any time for all such indemnified parties and that all such reasonable fees and
+expenses will be reimbursed as they are incurred. in the case of the retention of any such separate firm for the indemnified parties, such firm will be
+designated in writing by the indemnified parties. no indemnified party will, without the prior written consent of the indemnifying party, settle,
+compromise or offer to settle or compromise any pending or threatened proceeding in respect of which any indemnified party is seeking indemnity
+hereunder. the indemnifying party will not be liable for any settlement of any claim, action or proceeding effected without its written consent, but if
+such claim, action or proceeding is settled with such consent or if there has been a final judgment for the plaintiff, the indemnifying party agrees to
+indemnify the indemnified party from and against any loss by reason of such settlement or judgment. no indemnifying party will, without the prior
+written consent of the indemnified party, settle, compromise or offer to settle or compromise any pending or threatened proceeding in respect of
+which any indemnified party is seeking indemnity hereunder, unless such settlement includes (i) an
+
+unconditional release of such indemnified party from all liability in connection with such proceeding, (ii) no finding or admission of any violation of
+law or any violation of the rights of any person by the indemnified party or any of its affiliates can be made as the result of such action, and (iii)
+the sole relief (if any) provided is monetary damages that are reimbursed in full by the indemnifying party.
+
+(d) if the indemnification provided for in this section 13.9 from the indemnifying party is unavailable to an indemnified party
+hereunder or is insufficient in respect of any losses referred to in this section 13.9, then the indemnifying party, in lieu of indemnifying such
+indemnified party, will contribute to the amount paid or payable by such indemnified party as a result of such losses (i) in such proportion as is
+appropriate to reflect the relative fault of the indemnifying party and indemnified party in connection with the actions that resulted in such losses,
+as well as any other relevant equitable considerations, or (ii) if the allocation provided by clause (i) is not permitted by applicable law, in such
+proportion as is appropriate to reflect not only the relative fault referred to in clause (i) but also the relative benefit of moelis holdings, on the one
+hand, and each smbc unit-holder, on the other, in connection with the statements or omissions that resulted in such losses, as well as any other
+relevant equitable considerations; provided, however, that in no event shall a smbc unit-holder be required by this section 13.9(d) to contribute
+an aggregate amount in excess of the dollar amount of proceeds (net of underwriting discounts and commissions and other selling expenses)
+received by such smbc unit-holder from the sale of registrable securities giving rise to such contribution. the relative fault of such indemnifying
+party and indemnified party will be determined by reference to, among other things, whether any action in question, including any untrue or alleged
+untrue statement of a material fact or omission or alleged omission to state a material fact, has been taken by, or relates to information supplied by,
+such indemnifying party or indemnified party, and the parties’ relative intent, knowledge, access to information and opportunity to correct or
+prevent such action. the amount paid or payable by a party as a result of the losses referred to above will be deemed to include, subject to the
+limitations set forth in section 13.9(c), any reasonable out of pocket legal or other out of pocket fees or expenses reasonably incurred by such party
+in connection with any investigation or proceeding.
+
+(e) the parties agree that it would not be just and equitable if contribution pursuant to section 13.9(d) were determined by pro
+rata allocation or by any other method of allocation that does not take into account the equitable considerations referred to in section 13.9(d). no
+person guilty of “fraudulent misrepresentation” (within the meaning of section 11(f) of the securities act) will be entitled to contribution from any
+person who was not guilty of such fraudulent misrepresentation. notwithstanding the provisions of this section 13.9(e), a smbc unit-holder shall
+not be required to contribute, in the aggregate, any amount in excess of the amount by which the net proceeds received by such smbc unit-holder
+from the sale of the registrable securities exceeds the amount of any damages which such smbc unit-holder has otherwise been required to pay
+by reason of such untrue or alleged untrue statement or omission or alleged omission.
+
+(f) if indemnification is available under this section 13.9, the indemnifying party will indemnify each indemnified party to the
+fullest extent permissible under applicable law provided in sections 13.9(a) and 13.9(b) without regard to the relative fault of said indemnifying party
+or indemnified party or any other equitable consideration provided for in section 13.9(d) or 13.9(e). the obligations of moelis holdings under this
+section 13.9 shall be in addition to any liability that moelis holdings may otherwise have to any indemnified person.
+
+(g) notwithstanding anything to the contrary in this agreement, each of the indemnified parties has relied on this section 13.9, is
+an express third party beneficiary of this section 13.9 and is entitled to enforce the obligations of the applicable indemnified parties under this
+section 13.9 directly against such indemnified parties to the full extent thereof.
+
+13.10 rule 144. for so long as moelis holdings is subject to the requirements of section 13, 14 or 15(d) of the securities act, moelis
+holdings agrees that it will use its reasonable best efforts to (i) make and keep public information available, as those terms are understood and
+defined in rule 144 and (ii) file the reports required to be filed by it under the securities act and the exchange act.
+
+13.11 transfer of registration rights. the rights to cause moelis holdings to register securities granted to the smbc unit-holders under
+this article xiii may be assigned by the smbc unit-holders with the consent of moelis holdings, except that the smbc unit-holders may
+assign such rights to their wholly-owned subsidiaries without the consent of moelis holdings.
+
+13.12 termination of registration rights. the registration rights contained in section 13.1 shall automatically terminate when the smbc
+unit-holders collectively hold registrable securities in an amount less than (i) 1 of the issued and outstanding partnership interests (and/or any
+securities of moelis holdings or any successor entity into which the partnership interests are converted, exchanged or redesignated) and (ii) the
+average weekly reported volume of trading in partnership interests (and/or any securities of moelis holdings or any successor entity into which
+the smbc units are converted, exchanged or redesignated) on all national securities exchanges and/or reported through the automated quotation
+system of a registered securities association for the four calendar weeks preceding the date on which such determination is made.
+
+article xiv.
+representations and warranties; conduct of business
+
+14.1 representations and warranties of moelis. moelis holdings and moelis general partner each represent and warrant to smbc/nikko
+that:
+
+(a) organization. moelis general partner has been duly formed and is validly existing as a limited liability company under the
+delaware limited liability
+
+company act. moelis holdings has been duly formed and is validly existing as a limited partnership under the delaware revised uniform limited
+partnership act.
+
+(b) power, authority, etc. each of moelis holdings and moelis general partner has all requisite power and authority to enter into
+this agreement and to consummate the transactions contemplated herein. the execution, delivery and performance of this agreement do not
+require any further consent of any third party or governmental authority. this agreement has been duly authorized, executed and delivered by
+moelis holdings and moelis general partner and, when duly executed and delivered by the other parties hereto, will be the valid and binding
+obligation of moelis holdings and moelis general partner, enforceable in accordance with its terms, except (a) as may be limited by or subject to
+any bankruptcy, insolvency, reorganization, moratorium or other similar laws affecting creditors’ rights generally and (b) that the remedies of
+specific performance, injunction and other forms of equitable relief may not be available because they are subject to certain tests of equity
+jurisdiction, equitable defenses and the discretion of the court before which any proceeding therefor may be brought.
+
+(c) other. each of the representations and warranties set out in exhibit a of this agreement are true and correct on the date
+hereof.
+
+14.2 representations and warranties of smbc/nikko. smbc and nikko each represent and warrant to moelis holdings and moelis
+general partner that:
+
+(a) organization. smbc and nikko have been duly formed and are validly existing as corporations under the laws of japan.
+
+(b) power, authority, etc. smbc and nikko have all requisite power and authority to enter into this agreement and to
+consummate the transactions contemplated herein. the execution, delivery and performance of this agreement by smbc and nikko does not
+require any further consent of any third party or governmental authority. this agreement has been duly authorized, executed and delivered by
+each of smbc and nikko and, when duly executed and delivered by the other parties hereto, will be the valid and binding obligation of smbc and
+nikko, enforceable in accordance with its terms, except (a) as may be limited by or subject to any bankruptcy, insolvency, reorganization,
+moratorium or other similar laws affecting creditors’ rights generally and (b) that the remedies of specific performance, injunction and other forms of
+equitable relief may not be available because they are subject to certain tests of equity jurisdiction, equitable defenses and the discretion of the
+court before which any proceeding therefor may be brought.
+
+14.3 survival of covenants, representations and warranties. each of the covenants, representations and warranties of the parties in this
+agreement and the subscription agreement shall survive the closing through and including the date thirty (30) days following the receipt by
+smbc/nikko of the audited financial statements of moelis holdings as of and for the year ended december 31, 2012.
+
+article xv.
+
+miscellaneous
+
+15.1 expenses; no partnership or joint venture. each party will bear its own legal, marketing, travel and other expenses in connection with
+the strategic alliance. no party is the partner, joint venture partner or agent of any other party with power to bind any other party contractually.
+this agreement and the strategic alliance represent an agreement to cooperate and not a partnership or joint venture agreement. no party owes
+any other party a fiduciary duty by virtue of this agreement or the operation of the strategic alliance.
+
+15.2 notice. notice under this agreement must be in writing and may be delivered by mail, overnight delivery service or email as follows:
+
+if to smbc:
+
+2-3, otemachi 1-chome
+chiyoda-ku, tokyo 100-0004
+attention: toshihiro horiuchi, senior vice president, securities
+business planning dept., planning dept., investment banking unit.
+email address: horiuchi_toshihirock.smbc.co.jp
+
+if to nikko:
+
+shin-marunouchi building 18f,
+5-1, marunouchi 1-chome,
+chiyoda-ku, tokyo 100-6518
+attention: masami hagiwara, head of mergers & acquisitions
+administration
+email address: hagiwara_masamismbcnikko.co.jp
+
+if to moelis holdings:
+
+moelis & company holdings lp
+399 park avenue, 5th floor
+new york, ny 10022
+attention: kate pilcher ciafone, senior vice president
+email address: kate.ciafonemoelis.com, with a copy to:
+attention: osamu watanabe, general counsel
+email address: osamu.watanabemoelis.com
+
+15.3 entire agreement; amendment; waivers; counterparts. this agreement and the subscription agreement (as modified by any letter
+agreement between the parties entered into on the date hereof), incorporates the entire understanding of the parties and supersedes all previous
+agreements with respect to the subject matter hereof. no
+
+amendment or modification of this agreement shall be effective unless it is made in writing and signed by each of the parties. no waiver, expressed
+or implied, by any party of a breach by another party of this agreement, or of any terms and provisions of this agreement, shall constitute a waiver
+of any subsequent such breaches or of future enforcement of any such terms or provisions. this agreement may be executed in three or more
+counterparts, each of which shall be deemed an original, but all of which shall constitute one and the same agreement.
+
+15.4 no assignment. this agreement may not be assigned by any party without the written consent of the other parties, except to a
+subsidiary or controlled affiliate of such party which succeeds such party’s conduct of covered businesses.
+
+15.5 obligation and responsibilities of smbc/nikko. smbc and nikko shall be severally and not jointly responsible for any obligation or
+responsibilities incurred or assumed by smb c/nikko hereunder.
+
+15.6 separability. in case one or more of the provisions contained in this agreement are for any reason held to be invalid, illegal or
+unenforceable in any respect under any such law or regulation, the invalidity, illegality, or unenforceability will not affect any other provisions of
+this agreement, which will be construed as if contained in this agreement, and each illegal, invalid or unenforceable provision will be construed as
+broadly as may be possible so that the original intent of the parties is given effect to the greatest extent possible.
+
+15.7 compliance with laws. each of the parties shall execute and perform this agreement in compliance with all applicable laws or
+regulations. notwithstanding the foregoing, a party shall not be obligated to take any action that violates, infringes or conflicts with or prohibited
+from taking any action required to be in compliance with any applicable laws or regulations.
+
+15.8 governing laws; jurisdiction. this agreement shall be governed by, and construed in accordance with, the laws of the state of new
+york without regard to principles of conflict of laws. the parties irrevocably and unconditionally submit to the exclusive jurisdiction of any state or
+federal court sitting in manhattan, new york over any suit, action or proceeding arising out of or relating to this agreement. the parties hereby
+agree that service of any process, summons, notice or document by u.s. registered mail addressed to such party at the address above shall be
+effective service of process for any action, suit or proceeding brought in any such court. the parties irrevocably and unconditionally waive any
+objection to the laying of venue of any such suit, action or proceeding brought in any such court and any claim that any such suit, action or
+proceeding brought in such a court has been brought in an inconvenient forum. each party waives any right to trial by jury with respect to any
+proceeding arising out of this agreement. notwithstanding the foregoing, any matter relating to the smbc unit-holders’ rights or obligations as
+limited partners of moelis holdings shall be subject to sections 10.4 and 10.10 of the moelis holdings agreement and not to this section 15.8.
+
+15.9 effect on prior agreement. commencing as of the effective date, the rights and obligations of the parties shall be determined pursuant
+to this agreement and the prior agreement shall be of no further effect; provided, that, any fees and expenses due to a party outstanding
+thereunder shall be deemed to be outstanding under this agreement.
+
+15.10 good faith discussion; further assurances. should there be any dispute or disagreement with respect to any matters not set forth in
+this agreement, the parties will discuss in good faith to resolve such dispute or disagreement. each party shall use its reasonable efforts to
+cooperate with the other party if necessary for compliance with laws and regulations applicable to such other party in relation to the smbc unit-
+holders’ holding of smbc units or transactions or matters contemplated under the subscription agreement, the side letter, this agreement and
+the moelis holdings agreement.
+
+[signature page follows]
+
+in witness whereof, the parties have caused this agreement to be executed and delivered on the date first written above.
+
+sumitomo mitsui banking corporation
+
+by:
+
+name: takeshi kunibe
+
+title: president
+
+smbc nikko securities inc.
+
+by:
+
+name: eiji watanabe
+
+title: president & ceo
+
+moelis & company holdings lp
+
+by: moelis & company holdings gp llc
+
+its: general partner
+
+by:
+
+name: kenneth d. moelis
+
+title: chief executive officer
+
+moelis & company holdings gp llc
+
+by:
+
+name: kenneth d. moelis
+
+title: chief executive officer
+
+[signature page to the strategic alliance agreement]
+
+exhibit a
+
+representations and warranties of the moelis entities
+
+in addition to the representations and warranties set forth in the subscription agreement, and except as specifically set forth in the disclosure
+schedule delivered to smbc/nikko simultaneously with the execution hereof (the “moelis disclosure schedule”), moelis holdings and moelis
+general partner represent and warrant to smbc/nikko that:
+
+(a) organization and authority. each of the moelis entities has all requisite corporate or other entity power and authority to own
+or lease all of its properties and assets and to carry on its business as it is now being conducted and is duly licensed or qualified to do business in
+each jurisdiction in which the nature of the business conducted by it or the character or location of the properties and assets owned or leased by it
+makes such licensing or qualification necessary, other than any failure to be so licensed or qualified that would not reasonably be expected to have
+a material adverse effect on the moelis entities and their controlled affiliates, taken as a whole.
+
+(b) moelis holdings agreement. the moelis holdings agreement has been duly authorized, executed and delivered by moelis
+general partner and is a valid and legally binding agreement of moelis general partner, enforceable against it in accordance with its terms, except (i)
+as the enforceability thereof may be limited by bankruptcy, insolvency, reorganization or other similar applicable laws affecting the enforcement of
+creditors’ rights generally and (ii) that the remedies of specific performance, injunction and other forms of equitable relief may not be available
+because they are subject to certain tests of equity jurisdiction, equitable defenses and the discretion of the court before which any proceeding
+therefor may be brought. the moelis holdings agreement attached as tab 5 of the subscription agreement is a true, correct and complete copy of
+the moelis holdings agreement as currently in effect.
+
+(c) affiliates. each controlled affiliate of moelis holdings is duly organized, validly existing and in good standing under the laws
+of the jurisdiction of its incorporation or formation and has all requisite corporate or other entity power and authority to own or lease all of its
+properties and assets and to carry on its business as it is now being conducted and is duly licensed or qualified to do business in each jurisdiction
+in which the nature of the business conducted by it or the character or location of the properties and assets owned or leased by it makes such
+licensing or qualification necessary, other than any failure to be in good standing or to be so licensed or qualified that would not reasonably be
+expected to have a material adverse effect on the moelis entities and their controlled affiliates, taken as a whole. all the issued and outstanding
+shares of capital stock or other partnership, equity or ownership interests of such controlled affiliates have been duly authorized and validly
+issued, are fully paid and nonassessable with no personal liability attaching to the ownership thereof (except as provided for in the governing
+documents of such controlled affiliate), have been issued in compliance with all applicable securities laws, and were not issued in violation of any
+preemptive rights or other right to subscribe for or purchase securities. except as set
+
+forth in the moelis disclosure schedule, moelis holdings owns, directly or indirectly, all of the issued and outstanding equity interests of each of
+its controlled affiliates, free and clear of all liens or encumbrances.
+
+(d) capitalization. (1) the moelis disclosure schedule sets forth a true and complete list of the number, class and series of each
+issued and outstanding class and series of partnership interests as of the date of this agreement. (2) all of the issued and outstanding partnership
+interests have been duly authorized and validly issued and are fully paid and nonassessable, and have been issued in compliance with all
+applicable securities laws, and were not issued in violation of any preemptive rights or other rights to subscribe for or purchase securities. (3)
+except with respect to employees of moelis holdings or its controlled affiliates and except as set forth in the moelis holdings agreement, none of
+moelis holdings or any of its controlled affiliates has or is bound by any outstanding subscriptions, options, warrants, calls, commitments or
+agreements of any character calling for the purchase or issuance of, or securities or options, warrants or rights convertible or exercisable into or
+exchangeable for, any partnership interests or other equity or synthetic ownership interests of moelis holdings or any controlled affiliate, or any
+securities representing or contractual right granting the right (i) to purchase or otherwise receive any equity interest in moelis holdings or any
+controlled affiliate (including any rights plan or agreement) or (ii) to receive any periodic or other distribution on net income or net loss or upon the
+liquidation and winding up of moelis holdings or any controlled affiliate. (4) (a) except as set forth in the moelis disclosure schedule, as of the
+date of this agreement, there are no, written or oral, side letter, contract, memorandum of understanding and any other agreements entered into
+between any of moelis entities on one hand and any limited partner of moelis holdings on the other hand in respect to of the issuance or holding
+of any class or type of interest in moelis holdings, regardless of whether such side letter, written contract, memorandum of understanding and any
+other agreements are entered into by such limited partner in its capacity as such, except for any vesting agreements, employment agreements, offer
+letters or similar agreements entered into between the moelis entities and employees of moelis holdings or its controlled affiliates; and (b) as of the
+date of this agreement, no preferential voting or economic right granted to any limited partner of moelis holdings pursuant to any representation
+(d) transaction agreements (as defined in the moelis disclosure schedule) would reasonably be expected to significantly and adversely affect any
+voting or economic right of the smbc unit-holders under the moelis holdings agreement, the subscription agreement, the side letter or this
+agreement (as applicable), other than as a result of dilution in accordance with the moelis holdings agreement from the issuance of additional
+management units pursuant to such representation (d) transaction agreements. (5) the moelis disclosure schedule sets forth a schedule of
+smbc’s pro forma ownership of moelis holdings, as of the date of this agreement, after giving effect to the transactions contemplated by the
+subscription agreement and the methodology for calculating such pro forma ownership as described in such schedule.
+
+(e) partnership interests. the issuance of partnership interests to smbc pursuant to the subscription agreement has been duly
+authorized by all necessary action on the part of moelis holdings. when issued, delivered and sold against receipt of
+
+a-2
+
+the consideration therefor as provided in the subscription agreement, such partnership interests will be validly issued, fully paid and
+nonassessable and without any personal liability attaching to the ownership thereof (except as provided for in the moelis holdings agreement),
+will not be issued in violation of or subject to preemptive rights of any other unitholder of moelis holdings and will not result in the violation or
+triggering of any price-based antidilution adjustments under any agreement to which moelis holdings is a party. the issuance of partnership
+interests to smbc qualifies as an issuance of “additional units” to a “strategic investor” under section 3.4.1 of the moelis holdings agreement
+for which existing common partners will not have the right of first refusal as provided therein.
+
+(f) no conflicts. neither the execution and delivery by the moelis entities of the strategic alliance agreement or the
+subscription agreement, nor the consummation of the transactions contemplated thereby, nor compliance by the moelis entities with any of the
+provisions thereof, will violate any applicable law or regulation or violate, conflict with, or result in a breach of any provision of, or constitute a
+default (or an event which, with notice or lapse of time or both, would constitute a default) under, or result in the termination of, or result in the loss
+of any benefit or creation of any right on the part of any third party under, or accelerate the performance required by, or result in a right of
+termination or acceleration of, or result in the creation of any lien or encumbrance upon any of the material properties or assets of any of the moelis
+entities or any of their controlled affiliates under any of the terms, conditions or provisions of (i) their respective organizational documents or (ii)
+any note, bond, mortgage, indenture, deed of trust, license, lease, agreement or other instrument or obligation to which any of the moelis entities or
+any of their controlled affiliates is a party or by which it may be bound, or to which any of the moelis entities or any of their controlled affiliates or
+any of the properties or assets of any of the moelis entities or any of their controlled affiliates may be subject, except as would not reasonably be
+expected to have a material adverse effect on the moelis entities and their controlled affiliates, taken as a whole.
+
+(g) consents. no consents or approvals of or prior filings or registrations with any governmental authority or with any third
+party are necessary in connection with the execution and delivery by the moelis entities of the strategic alliance agreement, the subscription
+agreement or the side letter, or the consummation of the transactions contemplated thereby.
+
+(h) financial statements. the moelis entities have previously made available to smbc/nikko true and correct copies of (i) the
+consolidated balance sheets of moelis holdings as of december 31 for the fiscal years 2007 through 2010, inclusive, and the related consolidated
+statements of income, changes in total capital and of cash flows for the fiscal years then ended, in each case accompanied by the audit report of
+deloitte and touche llp, independent public accountants with respect to moelis holdings and (ii) the september 30, 2011 unaudited consolidated
+balance sheet of moelis holdings and the related unaudited consolidated statements of income, changes in total capital and of cash flows for the
+nine-month period then ended (including the related notes, where applicable) (each of the above, the “financial statements”). the financial
+statements have been prepared from, are in accordance with and accurately reflect in all
+
+a-3
+
+material respects, the books and records of moelis holdings and its controlled affiliates, have been prepared in all material respects in accordance
+with united states generally accepted accounting principles applied on a consistent basis during the periods involved (except as may be stated in
+the notes thereto), are true and complete and fairly present in all material respects the consolidated financial position and the consolidated results
+of operations and cash flows (and changes in financial position, if any) of moelis holdings and its controlled affiliates as of the times and for the
+periods referred to therein (subject, in the case of unaudited statements, to normally recurring year-end audit adjustments which are not material
+either individually or in the aggregate).
+
+(i) business plan. all estimates and pro forma financial information contained in the business plan included in the moelis
+disclosure schedule, as of the date of the business plan were prepared in good faith by the moelis entities.
+
+(j) properties and leases. moelis holdings and its controlled affiliates have good and marketable title to all material properties
+and assets, real and personal, tangible or intangible, owned by them, in each case free from liens or encumbrances that would materially affect the
+value thereof or interfere with the use made or to be made thereof by them in any material respect. moelis holdings and its controlled affiliates own
+or lease all material properties as are necessary to their operations as now conducted.
+
+(k) taxes. the moelis entities and their controlled affiliates have filed, or joined in the filing of, all material tax returns required to
+be filed by or with respect to them prior to the date of this agreement, and to the best knowledge of the moelis entities all such tax returns are true,
+accurate and complete in all material respects and all material amounts of taxes shown to be due in such tax returns have been paid, collected or
+withheld, as the case may be. with respect to any completed taxable period for which such tax returns have not yet been filed, or for which taxes are
+not yet due or owing, the moelis entities and their controlled affiliates have made due and sufficient current accruals for any such taxes on their
+respective balance sheets in accordance with united states generally accepted accounting principles. to the best knowledge of the moelis entities,
+there are no material claims or assessments pending against the moelis entities or their controlled affiliates for any alleged deficiency in any tax,
+and the moelis entities and their controlled affiliates have not been notified of any material proposed tax claims or assessments against the moelis
+entities or their controlled affiliates.
+
+(l) no undisclosed liabilities. as of the date of this agreement, neither moelis holdings nor any of its controlled affiliates has
+any liabilities or obligations of any nature (absolute, accrued, contingent or otherwise) except for (i) liabilities or obligations disclosed in the
+financial statements and current liabilities that have arisen since the date thereof in the ordinary and usual course of business and consistent with
+past practice, (ii) liabilities or obligations arising under contracts entered into by moelis holdings and/or its controlled affiliates prior to the date
+hereof, or (iii) liabilities or obligations that would not reasonably be expected to have a material adverse effect on moelis holdings and its
+controlled affiliates, taken as a whole.
+
+a-4
+
+(m) employment agreements. each managing director of moelis holdings or any of its controlled affiliates, as applicable, has
+entered into either an offer letter, agreement or term sheet setting forth the terms of such managing director’s employment and vesting of
+management units granted to such managing director in connection with his or her employment. the forms of vesting agreements for the
+management units provided by moelis holdings to smbc/nikko, taken as a whole, are representative of the vesting agreements entered into by
+moelis holdings or each controlled affiliate, as applicable, with respect to the grant of management unit; except for differences that would not
+reasonably be expected to have a material adverse effect on the moelis entities and their controlled affiliates, taken as a whole, or the smbc unit-
+holders’ partnership interests.
+
+(n) litigation. none of the moelis entities or any of their controlled affiliates is a party to any, and there are no pending or, to the
+moelis entities’ knowledge, threatened, material legal, administrative, arbitral or other proceedings, claims, actions or governmental or regulatory
+investigations (i) of any nature against the moelis entities or any controlled affiliate except as would not reasonably be expected to have a material
+adverse effect on the moelis entities and their controlled affiliates, taken as a whole, or (ii) challenging the validity or propriety of the transactions
+contemplated by the subscription agreement. there is no material injunction, order, judgment, decree or regulatory restriction imposed upon the
+moelis entities, any controlled affiliate or any of their assets, except for regulatory restrictions of general application.
+
+(o) compliance with laws. each of the moelis entities and each of their controlled affiliates have all permits, licenses, franchises,
+authorizations, orders and approvals of, and have made all filings, applications and registrations with, all governmental authorities that are required
+in order to permit them to own or lease their properties and assets and to carry on their businesses as they are now being conducted other than any
+failure that would not reasonably be expected to have a material adverse effect on the moelis entities and their controlled affiliates, taken as a
+whole. except as would not be reasonably expected to have a material adverse effect on the moelis entities and their controlled affiliates, taken as a
+whole, each of the moelis entities and their controlled affiliates has complied with, and is not in default or violation of, and none of them is given
+notice of any violation or threat of violation of, to the knowledge of the moelis entities, under investigation with respect to or, to the knowledge of
+the moelis entities, has been threatened to be charged with, any applicable law, statute, ordinance, license, rule, regulation, policy or guideline,
+order, demand, writ, injunction, decree or judgment of any governmental authority. except as would not be reasonably expected to have a material
+adverse effect on the moelis entities and their controlled affiliates, taken as a whole, and except for statutory or regulatory restrictions of general
+application, no governmental authority has placed any restriction on the business or properties of the moelis entities or any of their controlled
+affiliates.
+
+(p) risk management. the moelis entities and their controlled affiliates have in place risk management policies and procedures,
+of the type and in the form that the moelis entities and their controlled affiliates believe, in good faith, are sufficient in scope and operation to
+protect against risks of the type and in the form
+
+a-5
+
+expected to be used by persons of similar size and in similar lines of business as such moelis entity or controlled affiliate.
+
+(q) insurance. the moelis entities and their controlled affiliates maintain insurance underwritten by insurers of recognized
+financial responsibility, of the types and in the amounts that the moelis entities and their controlled affiliates believe, in good faith, are adequate
+for their respective businesses, all of which insurance is in full force and effect.
+
+(r) permanent disability. to the knowledge of the moelis entities, (i) km has not (a) suffered and is not currently suffering any
+physical or mental incapacity or disability, total or partial, that would constitute or would reasonably be expected to result in a key man event (as
+such term is defined in the moelis holdings agreement) or (b) been absent from work for three or more consecutive months at any time since the
+inception of the moelis entities and (ii) no other circumstance or condition exists that would constitute or would reasonably be expected to result in
+a key man event. since the inception of the moelis entities, no key man event has occurred.
+
+(s) affiliate party transactions. except as set forth in the moelis disclosure schedule and except for agreements related to
+employment, (i) any material transactions between any of the moelis entities, on the one hand and the management partners of any of the moelis
+entities or any of their affiliates (other than any of the moelis entities and any controlled affiliate), on the other hand are on terms and conditions as
+favorable to each of the moelis entities as would have been obtainable by it in a comparable arm’s-length transaction with an unrelated third party.
+
+(t) no guarantee of performance. none of the moelis entities or any of their controlled affiliates has guaranteed the future
+performance or results of, or is liable in connection with, on behalf of, or for, any obligation of (i) any pooled investment vehicle, open-end
+investment company, closed-end investment company, unit investment trust or business development company or other private or public fund
+(except, general partner liability to the extent imposed by applicable law) or (ii) any person to which any of the moelis entities or any of their
+controlled affiliates provides investment management or investment advisory services, including any sub-advisory services, pursuant to an
+investment advisory contract.
+
+(u) effect of agreement. none of this agreement, the subscription agreement or any other agreement entered into in connection
+therewith is subject to the disclosure rights under, or grant other limited partners rights pursuant to, section 10.19 of the moelis holdings
+agreement.
+
+a-6

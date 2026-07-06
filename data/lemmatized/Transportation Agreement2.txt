@@ -1,0 +1,185 @@
+quicklink -- click here to rapidly navigate through this document 
+ exhibit 99.12 
+ transportation service agreement 
+ contract identification ft18150 
+ this transportation service agreement ( agreement ) be enter into by great lake gas transmission limited partnership ( transporter ) 
+ and anr pipeline company ( shipper ) . 
+ whereas , shipper have request transporter to transport gas on its behalf and transporter represent that it be willing to transport 
+ gas under the term and condition of this agreement . 
+ now , therefore , transporter and shipper agree that the term below constitute the transportation service to be provide and the 
+ right and obligation of shipper and transporter . 
+ 1 . 
+ effective date : november 01 , 2016 
+ 2 . 
+ contract identification : ft18150 
+ 3 . 
+ rate schedule : ft 
+ 4 . 
+ shipper type : interstate pl 
+ 5 . 
+ state / province of incorporation : delaware 
+ 6 . 
+ term : november 01 , 2014 to october 31 , 2017 
+ 7 . 
+ effect on previous contract : 
+ this agreement supersede , cancel and terminate , as of the effective date state above , the follow contract(s ): service 
+ agreement date november 01 , 2015 with contract identification ft18150 . 
+ 8 . 
+ maximum daily quantity ( dth / day ): 101,300 
+ please see appendix a for further detail . 
+ 9 . 
+ rate : 
+ unless shipper and transporter have agree to a rate other than the maximum rate , rate shall be transporter 's maximum rate 
+ and charge plus all applicable surcharge in effect from time to time under the applicable rate schedule ( as state above ) on 
+ file with the commission unless otherwise agree to by the party in writing . provision govern a rate other than the 
+ maximum shall be set forth in this paragraph 9 and/or on appendix b hereto . 
+ 10 . 
+ point of receipt and delivery : 
+ the primary receipt and delivery point be set forth on appendix a. 
+ 11 . 
+ release capacity : 
+ n / a 
+ 12 . 
+ incorporation of tariff into agreement : 
+ this agreement shall incorporate and in all respect be subject to the " general term and condition " and the applicable rate 
+ schedule ( as state above ) set forth in transporter 's ferc gas tariff , third revise volume no . 1 , as may be revise from time 
+ to time . transporter may file and seek commission approval under section 4 of the natural gas act ( nga ) at any time and from 
+ time to time to change any rate , charge or provision set forth in the applicable rate schedule ( as state above ) and the 
+ " general term and condition " in transporter 's ferc gas tariff , third revise volume no . 1 , and transporter shall have the 
+ right to place such change in effect in accordance with the nga , and this agreement shall be deem to include such change 
+ and any such change 
+ source : tc pipeline lp , 10 - k , 2/26/2016 
+ which become effective by operation of law and commission order , without prejudice to shipper 's right to protest the same . 
+ 13 . 
+ miscellaneous : 
+ no waiver by either party to this agreement of any one or more default by the other in the performance of this agreement shall 
+ operate or be construe as a waiver of any continue or future default(s ) , whether of a like or a different character . 
+ any controversy between the party arise under this agreement and not resolve by the party shall be determine in 
+ accordance with the law of the state of michigan . 
+ 14 . 
+ other provision : 
+ it be agree that no personal liability whatsoever shall attach to , be impose on or otherwise be incur by any partner , agent , 
+ management official or employee of the transporter or any director , officer or employee of any of the foregoing , for any obligation 
+ of the transporter arise under this agreement or for any claim base on such obligation and that the sole recourse of shipper 
+ under this agreement be limit to asset of the transporter . 
+ upon termination of this agreement , shipper 's and transporter 's obligation to each other arise under this agreement , prior to 
+ the date of termination , remain in effect and be not be terminate by any provision of this agreement . 
+ 15 . 
+ notice and communication : 
+ all notice and communication with respect to this agreement shall be in writing by mail , e - mail , or fax , or other mean as 
+ agree to by the party , and send to the address state below or to any other such address(es ) as may be designate in 
+ writing by mail , e - mail , or fax , or other mean similarly agree to : 
+ administrative matter 
+ great lake gas transmission limited partnership 
+ commercial service 
+ 700 louisiana st . , suite 700 
+ houston , tx 77002 - 2700 
+ anr pipeline company 
+ 700 louisiana st . , suite 700 
+ houston , tx 77002 - 2700 
+ attn : 
+ agree to by : 
+ great lake gas transmission 
+ limited partnership 
+ by : great lake gas transmission company 
+ anr pipeline company 
+ /s/ steven d. jaskolski 
+ steven d. jaskolski 
+ director , commercial service 
+ /s/ joseph e. pollard 
+ joseph e. pollard 
+ director , long term marketing 
+ date : december 14 , 2015 
+ date : december 14 , 2015 
+ source : tc pipeline lp , 10 - k , 2/26/2016 
+ appendix a 
+ contract identification ft18150 
+ date : november 01 , 2016 
+ supersede appendix date : november 01 , 2015 
+ shipper : anr pipeline company 
+ maximum daily quantity ( dth / day ) per location : 
+ begin date 
+ end date 
+ point(s ) of primary receipt 
+ point(s ) of primary delivery 
+ mdq 
+ maximum 
+ allowable 
+ operating 
+ pressure 
+ ( maop ) 
+ 11/01/2014 
+ 03/31/2015 
+ south chester 
+ 101,300 
+
+ 11/01/2014 
+ 03/31/2015 
+ deward 
+ 101,300 
+
+ 04/01/2015 
+ 10/31/2015 
+ south chester 
+
+ 11/01/2015 
+ 03/31/2016 
+ south chester 
+ 101,300 
+
+ 11/01/2015 
+ 03/31/2016 
+ deward 
+ 101,300 
+
+ 04/01/2016 
+ 10/31/2016 
+ south chester 
+
+ 11/01/2016 
+ 03/31/2017 
+ south chester 
+ 101,300 
+
+ 11/01/2016 
+ 03/31/2017 
+ deward 
+ 101,300 
+
+ 04/01/2017 
+ 10/31/2017 
+ south chester 
+
+ 11/01/2014 
+ 03/31/2015 
+ farwell 
+ 101,300 
+
+ 04/01/2015 
+ 10/31/2015 
+ farwell 
+
+ 11/01/2015 
+ 03/31/2016 
+ farwell 
+ 101,300 
+
+ 04/01/2016 
+ 10/31/2016 
+ farwell 
+
+ 11/01/2016 
+ 03/31/2017 
+ farwell 
+ 101,300 
+
+ 04/01/2017 
+ 10/31/2017 
+ farwell 
+
+ source : tc pipeline lp , 10 - k , 2/26/2016 
+ quicklink 
+ exhibit 99.12 
+ transportation service agreement contract identification ft18150 
+ appendix a contract identification ft18150 
+ source : tc pipeline lp , 10 - k , 2/26/2016

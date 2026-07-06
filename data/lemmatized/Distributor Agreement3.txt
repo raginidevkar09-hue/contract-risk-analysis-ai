@@ -1,0 +1,520 @@
+exhibit 10.12 
+ exclusive distributor agreement 
+ this exclusive distributor agreement ( this " agreement " ) be make and enter into as of the 12th 
+ day of november , 2019 ( the " effective date " ) , by and among water now , inc . , a texas corporation ( " water now " ) , 
+ hydraspin usa , inc . , a texas corporation and a subsidiary of water now ( the " subsidiary , " and collectively with water 
+ now , " hydraspin " ) and bestev management , llc , a texas limited liability company ( " distributor " ) . hydraspin 
+ and distributor be sometimes hereinafter refer to individually as a " party " and collectively as the " party . " 
+ recital : 
+ a. hydraspin hold the exclusive distribution right in the united states of america for certain commercial oil and gas 
+ product , and the associated technology , use to separate and remove hydrocarbon from natural and inject water involve in the 
+ extraction process . 
+ b. hydraspin desire to appoint distributor , and distributor desire to be appoint , as the exclusive distributor of product of 
+ hydraspin in the territory ( as define below ) , pursuant to the term and condition of this agreement . 
+ now , therefore , in consideration of the premise and the mutual promise and covenant herein contain , and for 
+ other good and valuable consideration , the receipt and sufficiency of which be hereby acknowledge , the party hereby agree as 
+ follow : 
+ article i. 
+ definition 
+ 1.1 for purpose of this agreement , the follow term , where write with an initial capital letter , shall have the meaning 
+ assign to they in this article I unless the context otherwise require : 
+ " affiliate " mean an individual or legal entity that directly or indirectly , through one or more intermediary , control 
+ or be control by , or be under common control with , another person . the term " control " as utilize herein mean the 
+ possession , directly or indirectly , of the power to direct or cause direction of the management and policy of a person , 
+ whether through management , ownership , by contract , or otherwise; provide , however , in no event shall hydraspin be 
+ deem an affiliate of the distributor . 
+ " change of control " mean the sale , conveyance or disposition of all or substantially all of the asset of hydraspin , 
+ the effectuation by hydraspin of a transaction or series of transaction in which more than 50 of the voting power of 
+ hydraspin be dispose of , or any consolidation , merger or other business combination of hydraspin with or into any other 
+ person or person where hydraspin be not the survivor . 
+ " customer " mean any person that be a customer of the distributor and any affiliate of distributor that have an 
+ interest in or ultimately utilize the product ( as define below ) . 
+ " distributor share " mean , with respect to net revenue , the percentage of net revenue that the distributor be 
+ entitle to receive , as follow : ( i ) for the first ten ( 10 ) product instal , 7.5 of net revenue , and ( ii ) for the eleventh ( 11th ) 
+ product instal and all product instal thereafter , 15 of net revenue . notwithstanding anything to the contrary 
+ contain herein , the 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ distributor share with respect to the split of net revenue between hydraspin and the distributor with respect to any 
+ particular production installation or group product installation may be negotiate by hydraspin and the distributor and set 
+ forth in a separate write agreement between the party , and in such case , the distributor share set forth in the separate 
+ write agreement shall supersede and control over the distributor share set forth above . 
+ " governmental entity " mean any and all federal , state or local government , governmental institution , public 
+ authority and any other governmental entity of any nature whatsoever , and any subdivision or instrumentality thereof , 
+ include , but not limit to , department , board , bureau and panel , and any division or instrumentality thereof , whether 
+ permanent or ad hoc and whether now or hereafter constitute or exist . 
+ " hydraspin share " mean , with respect to net revenue , the percentage of net revenue that hydraspin be entitle 
+ to receive , as follow : ( i ) for the first ten ( 10 ) product instal , 92.5 of net revenue , and ( ii ) for the eleventh ( 11th ) 
+ product instal and all product instal thereafter , 85 of net revenue . notwithstanding anything to the contrary 
+ contain herein , the hydraspin share with respect to the split of net revenue between hydraspin and the distributor with 
+ respect to any particular production installation or group product installation may be negotiate by hydraspin and the 
+ distributor and set forth in a separate write agreement between the party , and in such case , the hydraspin share set forth 
+ in the separate write agreement shall supersede and control over the hydraspin share set forth above . 
+ " hydrocarbon " mean and include oil , gas , casinghead gas , condensate , natural gas liquid , and all component of 
+ the foregoing . 
+ " law " mean any constitution , law , ordinance , principle of common law , regulation , order , statute or treaty of or 
+ issue by any governmental entity . 
+ " loss " mean any damage , deficiency , penalty , fine , cost , amount pay in settlement , liability , obligation , tax , loss , 
+ expense or fee , include court cost and reasonable attorney ’ fee and expense . 
+ " mark " mean mean the trademark(s ) , service mark(s ) and/or logo(s ) applicable to each product and own by 
+ either hydraspin or african horizon technology ( pty ) ltd ( " aht " ) . 
+ " net revenue " mean the gross revenue derive from the sale of the hydrocarbon result from the product , 
+ less ( i ) the share of gross revenue due to the customer under the agreement between the customer and the distributor or 
+ any affiliate of the distributor , which be generally 50 , but may be great or less than 50 , and ( ii ) ordinary and customary 
+ cost , expense and fee that be deduct from the gross revenue . 
+ " person " mean natural person , corporation , venture , limited liability company , partnership , trust and all other 
+ entity and organization . 
+ " performance benchmark " shall mean the following requirement necessary for distributor to maintain the 
+ exclusivity grant in section 2.1 hereof : ( a ) the execution of contract to deploy product in 25 new location approve in 
+ advance by hydraspin ( " customer location " ) during each 12 month period follow the effective date and ( b ) all 
+ customer location in the aggregate shall generate an average of 7,500 barrel of fluid per day on a trail 12 month basis . 
+ customer location must be available for installation within 90 day of approval by hydraspin to be apply toward the 
+ satisfaction of the performance benchmark . all customer location in excess of 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ 25 secure during an applicable 12 month period shall be credit toward the satisfaction of the performance benchmark for 
+ the subsequent 12 month period . 
+ if this agreement be extend beyond the initial term , as hereinafter define , the number of customer location to 
+ be secure to maintain exclusivity during the pendency of the agreement shall be increase to 50 from 25 . 
+ " product " shall mean , collectively , ( i ) the product list on exhibit a attach hereto , as such exhibit may be 
+ amend from time to time by the party , ( ii ) all modification , alteration , improvement , upgrade , and replacement to the 
+ product list on exhibit " a " , now exist and exist in the future , and ( iii ) all other product , now exist and exist in 
+ the future , distribute by hydraspin or any affiliate thereof that perform substantially the same function as the product 
+ list on exhibit " a " , now exist and exist in the future . 
+ " revenue event " mean any payment in cash , or by check or wire transfer result from the sale of hydrocarbon 
+ to oil and gas company or other third party , due to the use of one or more product to separate such hydrocarbon from 
+ water during the extraction of such hydrocarbon from the earth . 
+ " support service " shall mean ( a ) promptly respond to all inquiry from customer , ( b ) service the product , 
+ ( c ) educate customer how to properly use and maintain the product , ( d ) liaising between customer , distributor and 
+ hydraspin , ( d ) distribute instruction for use , and any update thereto , of each product , and ( e ) any other related service 
+ perform for or on behalf of customer . 
+ " territory " shall mean the geographic territory describe on exhibit b attach hereto , as such exhibit may be 
+ amend from time to time by the party . 
+ 1.2 other definition . in addition to the term define in section 1.1 hereof , certain other term be define elsewhere in this 
+ agreement , and whenever such term be use in this agreement , they shall have their respective define meaning , unless the 
+ context expressly or by necessary implication otherwise require . 
+ article ii . 
+ appointment 
+ 2.1 exclusivity and territory . hydraspin hereby appoint distributor , and distributor hereby accept appointment , as 
+ hydraspin ’s exclusive distributor of the product in the territory during the term of this agreement , subject to the term and 
+ condition of this agreement , include , but not limit to , the satisfaction of the performance benchmark . the territory may be 
+ amend with the mutual agreement of both party from time to time to add or delete geographic territory by amend exhibit b 
+ attach hereto . if hydraspin desire to enter a new territory in the united states , hydraspin will offer distributor the first 
+ opportunity to become the exclusive distributor for the new territory . if the party be unable to reach an agreement on the term of 
+ exclusivity within ten ( 10 ) business day of the date the opportunity be present to distributor , hydraspin shall have no obligation to 
+ enter into a contract with distributor regard the new territory . in the event the distributor lose exclusivity on a territory due to 
+ not meet performance benchmark , the distributor shall maintain exclusivity on any and all exist product that be in the field 
+ and operate at they time exclusivity if forfeit . 
+ 2.2 sale outside the territory . distributor shall be entitle to advertise , promote , market or 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ solicit any customer that have a business presence outside the territory , except that distributor shall not conduct solicitation 
+ activity in any outside territory where hydraspin be bind to an exclusive distributor agreement with a third party , provide that 
+ hydraspin have notify distributor in writing of its arrangement with the other distributor and of the territory which be subject to 
+ exclusivity in favor of the other distributor . 
+ 2.3 noncircumvention . hydraspin certifie , stipulate , and agree that the hydraspin will deal exclusively with and through 
+ the distributor in relation to the distribution of the product in the territory . hydraspin will not in any way or in any capacity , either 
+ directly or indirectly ( include without limitation act by , with or through one or more person in which the hydraspin have an 
+ interest and/or with whom hydraspin have a relationship ): except pursuant to an agreement with the distributor , ( a ) contact , approach 
+ or negotiate with any customer outside of the distributor , or ( b ) contact , approach or negotiate with any person other than the 
+ distributor and its representative on any matter with respect to the product , without the prior write consent of the distributor . 
+ hydraspin agree that the hydraspin will not , in any manner , directly or indirectly , circumvent or attempt to circumvent this 
+ agreement , include , without limitation , forming , join , or in any way participate in any person or otherwise act in concert with 
+ any person , for the purpose of take any action in circumvention of this agreement or which be restrict or prohibit under this 
+ agreement . 
+ article iii . 
+ general obligation 
+ 3.1 marketing . distributor shall use its commercially reasonable effort to further the advertising , promotion , marketing , 
+ distribution and sale of the product throughout the territory . 
+ 3.2 support service . hydraspin shall install all product and train distributor to provide necessary maintenance of the 
+ product . follow installation and necessary training , distributor shall provide any and all necessary and appropriate support 
+ service to customer in the territory . hydraspin , if request and the nature of the request be reasonable , shall assist distributor in 
+ provide support service to the customer in the territory . 
+ 3.3 license . hydraspin shall obtain such authorization , license , permit , and other governmental or regulatory agency 
+ approval , if any , as be require for the distribution and sale of the product in the territory . distributor will incur no liability arise 
+ from hydraspin ’s possession , or lack of possession , of such requisite governmental authorization and approval . 
+ 3.4 proprietary right . distributor will not modify or remove any trademark , copyright and other notice of proprietary right 
+ include by aht or hydraspin on the product . 
+ article iv . 
+ product and inventory 
+ 4.1 product . hydraspin reserve the right , from time to time and in its sole discretion , to modify , alter , change , or improve 
+ any or all of the product cover by this agreement; provide , that this agreement shall continue to apply to all product in their 
+ alter , change or improve state . hydraspin shall promptly send distributor write notice of any modification , alteration , change or 
+ improvement to any product . 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ 4.2 unauthorized sale of product . if during the term of this agreement , hydraspin have actual knowledge of any 
+ unauthorized sale of any of the product in the territory , hydraspin shall take commercially reasonable action as soon as reasonably 
+ possible to bring such selling activity to an end . 
+ 4.3 product adulteration . distributor shall not modify , alter and/or change any product as provide by hydraspin without the 
+ prior write consent of hydraspin . 
+ 4.4 supply of product . hydraspin shall use its commercially reasonable effort to supply the product as provide in this 
+ agreement . in the event that the demand for any product exceed hydraspin ’s delivery capability , hydraspin shall exercise a good 
+ faith effort to allocate available product production resource on a pro rata basis so that distributor will receive product in the same 
+ ratio as distributor ’s purchase of such product during the period contemplate by the purchase order bear to hydraspin ’s total 
+ distribution of such product during such period . 
+ 4.5 regulatory approval . hydraspin shall be responsible , at its sole expense , for obtain all require approval , notice , 
+ filing and application for product in the territory under all applicable law and shall own all regulatory approval with respect to 
+ product . distributor shall have the right to rely on all such approval , notice , filing and application in the territory to the extent 
+ necessary to perform its obligation hereunder . hydraspin shall be responsible for undertake all activity require under all 
+ applicable law in the territory . if any separate regulatory approval be require to be make by distributor , hydraspin shall assist 
+ distributor in obtain such regulatory approval . 
+ 4.6 product information . hydraspin will , at its sole cost and to the extent it be available from the manufacturer of the product , 
+ furnish distributor with a reasonable supply of sale and technical information , literature and other marketing material regard 
+ hydraspin and the product in order to aid distributor in effectively carry out its activity under this agreement . 
+ 4.7 problem identification . during the term of this agreement , distributor shall provide hydraspin with write notice of any 
+ claim or legal proceeding in the territory involve any of the product promptly after distributor have actual knowledge of such claim 
+ or legal proceeding . likewise , during the term of this agreement , hydraspin shall provide distributor with write notice of any claim 
+ or legal proceeding in the territory involve any of the product promptly after hydraspin have actual knowledge of such claim or 
+ legal proceeding . distributor will also keep hydraspin inform as to any problem encounter with any of the product . hydraspin 
+ will repair or replace all defective or damaged product at the time of delivery at its sole cost and expense . 
+ article v. 
+ order and delivery 
+ 5.1 order . distributor shall order product from hydraspin by submit purchase order and an installation plan identify 
+ the number(s ) and type(s ) of product order , the request delivery date(s ) ( each , an " order " ) . the request delivery date shall 
+ be no less than 120 day from the date the order be accept by hydraspin . hydraspin will not unreasonably reject any order for 
+ product . hydraspin will accept or reject each order submit by distributor within ten ( 10 ) day after receipt of the order . any 
+ order not expressly reject by hydraspin within such ten ( 10 ) day period shall be deem accept by hydraspin . notwithstanding 
+ the foregoing , distributor may cancel any order for product that be not deliver within sixty ( 60 ) day after the delivery date 
+ specify therein . 
+ 5.2 delivery; storage; risk of loss . hydraspin shall use commercially reasonable effort to deliver product to customer 
+ by the delivery date specify in distributor ’s order . product shall be 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ deliver directly to the customer . all cost and expense of shipping , freight , delivery , transportation and storage , include , without 
+ limitation , insurance cover the product during transportation and while store at any facility will be bear solely by hydraspin and 
+ the distributor shall not be liable therefor . risk of loss shall be bear entirely by hydraspin , even while product be in the possession 
+ or control of distributor or any customer , and the distributor and the customer shall not be liable therefor , except solely in the case of 
+ distributor ’s or any customer ’s intentional misconduct or gross negligence . hydraspin may request distributor to store product at 
+ distributor ’s facility , and distributor shall use commercially reasonable effort to accommodate hydraspin ’s storage requests; 
+ provide , that hydraspin shall bear the full risk of loss with respect to product store at distributor ’s facility and distributor shall not 
+ be liable therefor , except solely in the case of distributor ’s intentional misconduct or gross negligence . 
+ article vi . 
+ net revenue and report 
+ 6.1 no cost . hydraspin shall provide the product to distributor ’s customer at no cost to distributor or the customer , 
+ except solely for the hydraspin share of net revenue , which shall be due and payable to hydraspin as set forth in this article vi . 
+ likewise , hydraspin shall install , service and maintain the product , with the commercially reasonable assistance of distributor , at no 
+ cost to distributor or the customer except solely for the hydraspin share of net revenue , which shall be due and payable to 
+ hydraspin as set forth in this article vi . 
+ 6.2 net revenue . with respect to each revenue event , distributor shall be entitle to receive the distributor share of net 
+ revenue , and hydraspin shall be entitle to receive the hydraspin share of net revenue . hydraspin and the distributor will 
+ cooperate to ensure that the party each receive the correct percentage of net revenue . if hydraspin receive any payment in 
+ excess of the hydraspin share , then hydraspin agree to remit promptly to the distributor such excess amount . likewise , if the 
+ distributor receive any payment or in excess of the distributor share , then the distributor agree to remit promptly to hydraspin 
+ such excess amount . 
+ 6.3 calculation of net revenue . the party hereto acknowledge and agree that the net revenue be determine , in part , by 
+ the method under which the hydrocarbon be measure , that such method differ from customer to customer , and be outside of 
+ the control of the party . likewise , the party hereto acknowledge and agree that the timing of receipt of net revenue be outside of 
+ the control of the party . no party shall be liable to another party as a result of any loss sustain by such party result from 
+ the measurement of hydrocarbon and the result net revenue derive from the product or the timing of receipt of a party ’s 
+ share of net revenue . 
+ 6.4 record . during the term of this agreement and for any additional time period thereafter require by applicable law , 
+ distributor shall maintain complete and accurate book and record relate to the product , include , without limitation , the name 
+ and address of customer , the location of the product , the sale of hydrocarbon relate to the product , the net revenue , the 
+ hydraspin share of net revenue , and the distributor share of net revenue . during the term of this agreement , distributor shall 
+ afford to hydraspin and its authorized representative full access at all reasonable time and upon reasonable prior notice , to all such 
+ book and record with respect to the product . 
+ article vii . 
+ representation and warranty 
+ 7.1 representation of hydraspin . hydraspin represent and warrant to distributor as follow : 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ ( a ) due organization , existence and authority . hydraspin ( i ) be duly organize , validly exist and in good standing 
+ under the law of its jurisdiction of organization , and ( ii ) have full power and authority to own its property , carry on its 
+ business as presently conduct and as propose to be conduct , and to enter into and perform its obligation under this 
+ agreement . 
+ ( b ) authorization . the execution and delivery by hydraspin of this agreement and the other document relate thereto 
+ and the full and timely performance of all obligation thereunder have be duly authorize by all necessary action under the 
+ constituent document of hydraspin and otherwise . 
+ ( c ) valid , binding and enforceable . this have be duly and validly execute , issue and deliver by hydraspin and 
+ constitute the valid and legally bind obligation of hydraspin , enforceable in accordance with its term , except as limit 
+ by bankruptcy , insolvency , reorganization or other similar law relate to or affect enforcement of creditor ’s right . 
+ ( d ) no violation . the execution , delivery and performance by hydraspin of this agreement do not and will not ( i ) 
+ contravene the constituent document of hydraspin , ( ii ) contravene any law , rule or regulation , or any order , writ , judgment , 
+ injunction or decree or any contractual restriction bind on or affect hydraspin or the product , and ( iii ) require any 
+ approval or consent of any general partner , board , manager , member , lender or any other person or entity , other than 
+ approval or consent that have be previously obtain and disclose in write to the distributor , [ include , without 
+ limitation , the consent of aht . ] no authorization or approval or other action by , and no notice to or file with , any 
+ governmental authority be require for the due execution , delivery and performance by hydraspin of this agreement , other 
+ than approval or consent that have be previously obtain and disclose in write to the distributor . 
+ 7.2 representation of distributor . distributor represent and warrant to hydraspin as follow : 
+ ( a ) due organization , existence and authority . distributor ( i ) be duly organize , validly exist and in good standing 
+ under the law of its jurisdiction of organization , and ( ii ) have full power and authority to own its property , carry on its 
+ business as presently conduct and as propose to be conduct , and to enter into and perform its obligation under this 
+ agreement . 
+ ( b ) authorization . the execution and delivery by distributor of this agreement and the other document relate 
+ thereto and the full and timely performance of all obligation thereunder have be duly authorize by all necessary action 
+ under the constituent document of distributor and otherwise . 
+ ( c ) valid , binding and enforceable . this have be duly and validly execute , issue and deliver by distributor and 
+ constitute the valid and legally bind obligation of distributor , enforceable in accordance with its term , except as limit 
+ by bankruptcy , insolvency , reorganization or other similar law relate to or affect enforcement of creditor ’s right . 
+ ( d ) no violation . the execution , delivery and performance by distributor of this agreement do not and will not ( i ) 
+ contravene the constituent document of distributor , ( ii ) contravene any law , rule or regulation , or any order , writ , judgment , 
+ injunction or decree or any contractual restriction bind on or affect distributor , or ( iii ) require any approval or consent of 
+ any general partner , board , manager , member , lender or any other person or entity , other than approval or consent that have 
+ be previously obtain and disclose in write to the hydraspin . 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ no authorization or approval or other action by , and no notice to or file with , any governmental authority be require for the 
+ due execution , delivery and performance by distributor of this agreement , other than approval or consent that have be 
+ previously obtain and disclose in write to hydraspin . 
+ article viii . 
+ intellectual property right 
+ 8.1 limited grant . hydraspin hereby grant to distributor an exclusive non - transferable and royalty - free right and license to 
+ use hydraspin ’s mark in connection with the advertising , promotion , marketing , distribution and sale of the product in the territory 
+ in accordance with hydraspin ’s standard and instruction . distributor shall acquire no right , title or interest in or to the mark , other 
+ than the above license , and distributor shall not use any mark as part of distributor ’s corporate or trade name or permit any third 
+ person or party to do so without the prior write consent of hydraspin . 
+ 8.2 notice of infringement . distributor shall notify hydraspin in writing of any and all infringement of the intellectual 
+ property relate to the product in the territory that may come to distributor ’s attention , and distributor shall assist hydraspin in 
+ take such action against such infringement as hydraspin in its sole discretion may decide; provide , however , that hydraspin shall 
+ bear any and all expense and cost incident to such action . 
+ 8.3 termination of use . distributor acknowledge hydraspin ’s proprietary right in and to the intellectual property relate to 
+ the product , and distributor waif in favor of hydraspin all right to the intellectual property relate to the product , include any 
+ addition to the intellectual property hereafter originate by hydraspin or aht . distributor shall not adopt , use or register any word , 
+ phrase or symbol which be identical to or confusingly similar to any of the mark . upon termination of this agreement , 
+ distributor shall immediately cease use the mark . 
+ 8.4 ownership . except for the limited right expressly grant herein by hydraspin to distributor , nothing in this agreement 
+ will serve to transfer to distributor any patent , copyright , trademark or other intellectual property right in or to any product , the 
+ mark , or other intellectual property own or claim by hydraspin or aht . distributor acknowledge and agree that hydraspin or 
+ aht have sole right , title and interest in and to all intellectual property right cover , claim or associate with the product , the 
+ mark and all goodwill associate therewith . 
+ 8.5 maintenance of intellectual property right . during the term of this agreement , hydraspin shall be responsible for 
+ maintaining , at hydraspin ’s sole cost and expense , any and all intellectual property right relate to the product , include , without 
+ limitation , ( i ) patent and patent application , and any and all division , continuation , continuation - in - part , reissue , continue patent 
+ application , reexamination , and extension thereof ( iii ) trademark and service mark , trade name , trade dress , and logos; and ( iii ) 
+ copyright and other work of authorship . 
+ article ix . 
+ confidential and/or proprietary information 
+ 9.1 confidentiality . each party acknowledge that in the course of perform its respective duty under this agreement , 
+ such party may obtain information relate to the other party , which be of a 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ confidential or proprietary nature ( " confidential information " ) . each party agree not to use such other party ’s confidential 
+ information , either directly or indirectly , for any purpose other than as require for performance of such party ’s obligation hereunder . 
+ such confidential information may include but be not limit to copyright , trade secret or other proprietary information , technique , 
+ process , schematic , software source document , pricing and discount list and schedule , customer list , contract term , customer 
+ lead , financial information , sale and marketing plan , and information regard the responsibility , skill and compensation of 
+ employee . title to confidential information shall remain with the owner of the confidential information at all time . each party 
+ agree to treat the confidential information with at least the degree of care and protection with which it treat its own confidential 
+ information , but in any event with no less than reasonable care and protection , and to use the confidential information only for the 
+ purpose set forth in this agreement . except as otherwise require by law , applicable regulation or the term of this agreement or as 
+ mutually agree upon by the party hereto , each party shall treat as confidential the term and condition of this agreement . 
+ notwithstanding anything contain in this agreement to the contrary , confidential information shall not include information 
+ that : 
+ ( a ) be or become available to the public other than through a disclosure in breach hereof by the receive party or 
+ any of its representatives; 
+ ( b ) be in the possession of the receive party or its representative prior to the effective date; 
+ ( c ) be communicate by the disclosing party to an unaffiliated third party free of any obligation of confidentiality , 
+ and the unaffiliated third party communicate the confidential information to the receive party or its representatives; 
+ ( d ) become available to the receive party or its representative from a source other than the disclosing party , 
+ provide , that such source be not know to the receive party or its representative to have make such information available 
+ in violation of an obligation of confidentiality owe to the disclosing party; or 
+ ( e ) be independently develop by or on behalf of a party or its representative without use of the confidential 
+ information of the other party . 
+ 9.2 nondisclosure . each party agree not to disclose or otherwise make such confidential information available to third party 
+ without the other party ’s prior write consent . each party agree that it will take appropriate action by instruction , agreement , or 
+ otherwise with such party ’s employee to satisfy its obligation under this agreement with respect to the use , copying , modification , 
+ protection , and security of confidential information . nothing in this section prohibit any disclosure require by applicable law , a valid 
+ court order or subpoena; provide , that the disclosing party give the other party prior notice of , and if possible a reasonable 
+ opportunity to contest , such require disclosure . 
+ 9.3 return of confidential information . each party will promptly return all confidential information to the other party upon 
+ expiration or termination of this agreement , or upon receipt by such party of write notice from the other party request return of 
+ such confidential information . such confidential information shall be return promptly and the non - disclosing party shall not retain 
+ any document or material or copy thereof contain any confidential information . 
+ 9.4 injunctive relief . any breach of the restriction contain in this article ix be a breach of this 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ agreement that may cause irreparable harm to a party and as such each party be entitle to injunctive relief to enforce this agreement 
+ without the need to post bond and that such relief shall be , in addition to , and not in lieu of , any monetary damage or other legal or 
+ equitable remedy that may be available . 
+ article x. 
+ term and termination 
+ 10.1 term . the initial term of this agreement shall commence on the effective date and end on the five ( 5 ) year anniversary 
+ of the effective date ( the " initial term " ) , unless soon terminate pursuant to the term hereof . upon expiration of the initial term of 
+ this agreement , this agreement will automatically renew for additional , successive five ( 5 ) year period unless either party provide the 
+ other party write notice of its desire to terminate at least one hundred twenty ( 120 ) day prior to the end of the initial term or any 
+ renewal . 
+ 10.2 termination . this agreement may be terminate as follow : 
+ ( a ) in the event that the party mutually determine that the arrangement contemplate by this agreement be no 
+ long in the good interest of the party or the party be not otherwise compatible , the party may at any time , by mutual 
+ write agreement , terminate this agreement . 
+ ( b ) immediately upon the occurrence of any of the follow event and effective upon delivery of notice : 
+ ( 1 ) by hydraspin , if distributor cease to do business , or otherwise terminate distributor ’s business 
+ operations; 
+ ( 2 ) by distributor , if hydraspin cease to do business , or otherwise terminate hydraspin ’s business 
+ operations; 
+ ( 3 ) by hydraspin , if distributor fail to satisfy the performance thresholds; 
+ ( 4 ) by either party , if any representation by the other party make in this agreement be false or misleading in 
+ any material respect when made; 
+ ( 5 ) by distributor , if hydraspin fail to secure or renew any license , permit , authorization , or approval for the 
+ conduct of hydraspin ’s business or the distribution of the product or if any such license , permit , authorization , or 
+ approval be revoke or suspend provide that such failure , revocation or suspension result in hydraspin ’s failure or 
+ inability to perform substantially all of its obligation hereunder; 
+ ( 6 ) by either party , if the other party engage in fraud , criminal / negligent conduct in connection with this 
+ agreement or the business relationship of the party or if the other party make any material false representation , 
+ report , or claim in connection with this agreement or any product; 
+ ( 7 ) by either party , if the other party breach any of its obligation under this agreement and such violation 
+ be not cure to the satisfaction of the non - breaching party within thirty ( 30 ) day after write notice be give from the 
+ non - breaching party to the breach party; 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ ( 8) by either party , if hydraspin undergo a change of control; or 
+ ( 9 ) by either party , if such other party seek protection under any bankruptcy , receivership , trustee , creditor 
+ arrangement , composition , or comparable proceeding , or if any such proceeding be institute against such other party . 
+ 10.3 effect of termination . 
+ ( a ) termination or expiration of this agreement will not relieve either party of any obligation incur 
+ hereunder prior to such termination or expiration . each party will be entitle to cancel any outstanding order , to the extent 
+ product have not be deliver . hydraspin shall be entitle to retrieve its product from the customer at its sole cost and 
+ expense . 
+ ( b ) if termination be the result of a change of control , distributor shall be entitle to receive a onetime 
+ payment , within three ( 3 ) business day of the effective date of the change of control , equal to the great of the follow 1 ) 
+ the aggregate amount of the distributor share receive during the 18 month prior to the effective date of such change of 
+ control or 2 ) the aggregate amount of the distributor share receive on the 30 day prior to the effective date of such change 
+ of control multiply by 18 . 
+ ( c ) neither party will incur liability for any loss of any kind suffer or incur by the other party arise 
+ from or incident to termination of this agreement by such party as permit by this article x. 
+ article xi . 
+ miscellaneous 
+ 11.1 notice . 
+ ( a ) manner of notice . all notice , request and other communication under this agreement shall be in writing ( include in 
+ portable document format ( or similar format ) deliver by email transmission ) and shall be deem to have be duly give if 
+ deliver personally , or send by either certify or registered mail , return receipt request , postage prepay , or by overnight courier 
+ guarantee next day delivery , or by email transmission , address as follow : 
+ ( i ) if to hydraspin : 
+ water now , inc . 
+ hydraspin usa , inc . 
+ 5000 south freeway , suite 110 
+ fort worth , texas 76115 
+ attn : david king 
+ email : dkingwaternowinc.com 
+ or at such other address or email address as hydraspin may have advise distributor in writing; and 
+ ( ii ) if to distributor : 
+ bestev management , llc 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ attn : 
+ email : 
+ or at such other address or email address as distributor may have advise hydraspin in writing . 
+ ( b ) deem delivery . all such notice , request and other communication shall be deem to have be receive ( i ) on the 
+ date of delivery thereof , if deliver by hand , ( ii ) on the fifth day after the mailing thereof , if mail , ( iii ) on the next business day after 
+ the sending thereof , if send by overnight courier , ( iv ) on the day of send , if send by email transmission prior to 5:00 p.m. on any 
+ business day , or ( v ) on the next business day , if send by email transmission after 5:00 p.m. on any business day or on any day other 
+ than a business day . 
+ 11.2 waiver and amendment . no amendment or waiver of any provision of this agreement , nor consent to any departure 
+ therefrom , shall be effective unless the same shall be in writing and sign by a duly authorize officer of each of the party , and 
+ then such waiver or consent shall be effective only in the specific instance and for the specific purpose for which give . no failure on 
+ the part of a party hereto to exercise , and no delay in exercise , any right hereunder shall operate as a waiver thereof; nor shall any 
+ single or partial exercise of any right hereunder preclude any other or further exercise thereof or the exercise of any other right . the 
+ remedy provide in this agreement be cumulative and not exclusive of any remedy provide by law . 
+ 11.3 assignment . neither party may assign any right , or delegate any duty under this agreement , in whole or in part , without 
+ the prior write consent of the other party , which shall not be unreasonably withhold or delay . any attempt assignment without 
+ such consent shall be void and of no effect . notwithstanding anything contain in this section to the contrary , hydraspin may assign 
+ this agreement upon write notice to distributor to any entity which control , be control by or under common control with 
+ hydraspin or to any successor to or purchaser of all or substantially all of its asset or stock , by merger or otherwise . 
+ 11.4 force majeure . the obligation of the party under this agreement shall be suspend to the extent that a party be 
+ hinder or prevent from comply therewith because of labor disturbance ( include strike or lockout ) , war , act of god , 
+ terrorism , fire , storm , accident , governmental regulation or any other cause whatsoever reasonably beyond a party ’s reasonable 
+ control . for so long as such circumstance prevail , the party whose performance be delay or hinder shall continue to use all 
+ commercially reasonable effort to recommence performance without delay . 
+ 11.5 relationship of party . each party hereto shall be , and at all time will remain , an independent contractor and will not 
+ represent itself to be the agent , joint venturer , or partner of the other party or relate to such party . no representation will be make 
+ or act do by either party which would establish any apparent relationship of agency , joint venture or partnership . nothing herein be 
+ intend or may be construe to create any employer / employee relationship between the party . 
+ 11.6 bind effect . this agreement shall be bind upon and inure to the benefit of the party and their respective 
+ successor and permit assign . 
+ 11.7 exhibit . the exhibit attach hereto or refer to herein be incorporate herein and make a part hereof for all 
+ purpose . as use herein , the expression " this agreement " mean this document and such exhibit . 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ 11.8 governing law . this agreement , and the right and obligation of the party , 
+ shall be govern by and construe and enforce in accordance with the substantive 
+ law of the state of texas , u.s.a . without regard to its principle of conflict of law . 
+ 11.9 arbitration . the party shall use their respective good effort to settle amicably any dispute , difference or 
+ controversy arise between the party out of or in connection with or in respect of this agreement . however , if not so settle , then 
+ the same shall be submit to arbitration and , to the full extent permit by law , be solely and finally settle by confidential binding 
+ arbitration , except as specifically provide otherwise herein . the confidential arbitration proceeding shall be hold in collin county , 
+ texas and shall be conduct in accordance with the alternative dispute resolution rule of the american arbitration association . the 
+ arbitration proceeding shall be hold before a single arbitrator unless ( i ) the matter in controversy exceed five hundred thousand 
+ dollar ( 500,000 ) , ( ii ) the party can not agree on the arbitrator , or ( iii ) either party request a panel of three ( 3 ) arbitrator . 
+ judgment upon the award render by the arbitrator may be enter in any court have jurisdiction , or application may be make to 
+ such court for a judicial acceptance of the award and any order of enforcement as the case may be . the arbitrator shall not award 
+ any party punitive , exemplary , multiplied or consequential damage , and each party hereby irrevocably waive any right to seek such 
+ damage in arbitration or in judicial proceeding . each party shall bear its own cost in the arbitration , and the fee and expense of 
+ the arbitration shall be share equally by the party . notwithstanding the foregoing , the arbitrator shall have the right and authority to 
+ apportion among the party all reasonable cost , include attorney ’ fee and witness fee , take into account the relative fault of 
+ the party . the foregoing provision of this section 11.9 do not limit the right of a party to seek injunctive or other equitable relief 
+ from a court of competent jurisdiction pende resolution of a dispute by arbitration . 
+ 11.10 jurisdiction and venue . subject to the arbitration provision set forth in section 11.10 , any judicial proceeding bring by 
+ or against either of the party on any dispute arise out of this agreement or any matter relate thereto shall be bring in any 
+ federal or state court sit or have jurisdiction in the county of collin , state of texas , and by execution and delivery of this 
+ agreement , each party hereby accept for itself the exclusive jurisdiction and venue of the aforesaid court as trial court , and 
+ irrevocably agree to be bind by any final non - appealable judgment render in connection with this agreement . 
+ 11.11 number and gender . whenever herein the singular number be use , the same shall include the plural where appropriate , 
+ and word of any gender shall include each other gender where appropriate . 
+ 11.12 caption . the caption , heading and arrangement use in this agreement be for convenience only and do not in any 
+ way affect , limit or amplify the provision hereof . 
+ 11.13 invalid provision . if any provision of this agreement be hold to be illegal , invalid or unenforceable under present or 
+ future law effective during the term hereof , such provision shall be fully severable , this agreement shall be construe and enforce 
+ as if such illegal , invalid or unenforceable provision have never comprise a part hereof , and the remain provision of this 
+ agreement shall remain in full force and effect and shall not be affect by the illegal , invalid or unenforceable provision or its 
+ severance from this agreement . furthermore , in lieu of such illegal , invalid or unenforceable provision , there shall be add 
+ automatically as part hereof a provision as similar in term , but in any event no more restrictive than , such illegal , invalid or 
+ unenforceable provision as may be possible and be legal , valid and enforceable . 
+ 11.14 entirety . this agreement and the document execute and deliver pursuant hereto , execute on the date hereof or in 
+ connection herewith , contain the entire agreement between the party with 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ respect to the matter address herein and supersede all prior representation , inducement , promise or agreement , oral or 
+ otherwise , which be not embody herein or therein . 
+ 11.15 counterpart . this agreement may be execute in multiple counterpart , each of which shall be deem an original for 
+ all purpose and all of which shall be deem collectively to be one agreement . signature give by facsimile or portable document 
+ format ( or similar format ) shall be bind and effective to the same extent as original signature . 
+ 11.16 third party beneficiary . nothing contain herein , express or imply , be intend to confer upon any person or entity 
+ other than the party and their respective successor in interest and permit assign any right or remedy under or by reason of 
+ this agreement . 
+ 11.17 interpretation . this agreement have be prepare in the english language which language shall be control in all 
+ respect . 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ in witness whereof , the party have cause their authorized representative to execute this agreement as of the 
+ date first set forth above . 
+ water now : water now , inc . 
+ by : 
+ name : david king 
+ title : chief executive officer 
+ hydraspin : 
+ hydraspin usa , inc . 
+ by : 
+ name : david king 
+ title : chief executive officer 
+ water now : water now , inc . 
+ by : 
+ name : 
+ title : 
+ distributor : bestev management , llc 
+ by : 
+ name : 
+ title : 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ exhibit a 
+ product 
+ african horizon technologie hydraspin unit 
+
+ source : water now , inc . , 10 - q , 11/20/2019 
+ exhibit b 
+ territory 
+ the territory consist of all of the follow : 
+ a. the san juan basin locate near the four corner region of the southwestern united states . the san juan basin 
+ territory include , without limitation , that certain area cover 7,500 square mile and reside in northwestern new mexico , 
+ southwestern colorado , and part of utah and arizona . specifically , the san juan basin occupy space in the san juan , rio arriba , 
+ sandoval , and mckinley county in new mexico , and la plata and archuleta county in colorado . 
+ b. the permian basin locate in the southwestern part of the united states . the permian basin territory include , without 
+ limitation , the mid - continent oil field province locate in western texas and southeastern new mexico , reach from just south of 
+ lubbock , past midland and odessa , south nearly to the rio grande river in southern west central texas , and extend westward 
+ into the southeastern part of new mexico . 
+ c. the eagle ford group basin ( also call the eagle ford shale basin ) cover much of the state of texas . the eagle 
+ ford group basin territory include , without limitation , the eagle ford outcrop belt trend from the oklahoma / texas border 
+ southward to san antonio , westward to the rio grande , big bend national park , and the quitman mountains of west texas . 
+ source : water now , inc . , 10 - q , 11/20/2019

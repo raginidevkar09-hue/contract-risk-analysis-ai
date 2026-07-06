@@ -1,0 +1,289 @@
+exhibit 10.1
+
+reseller agreement
+
+this reseller agreement (this “agreement”) is made and entered into effect the 7th day of april, 2017 (“effective
+date”), by and between i3 integrative creative solutions, llc (“i3 ics”), a virginia limited liability company, having its offices at
+6564 loisdale court suite 1010b, springfield, va 22150 (“reseller”) and the company set forth below (“company”) (each,
+individually, a “party” and collectively, “parties”):
+
+company: bravatek solutions, inc. (bvtk)
+telephone: 1-866-490-8590
+address:2028 e. ben white blvd., suite 240-2835
+fax: n/a
+austin, texas 78741
+e-mail: tom.celluccibravatek.com
+territory: us federal government civilian and military
+agencies/customers in the u.s.
+agreement term: 1 year
+company products: cybersecurity email software/telecom
+services
+other terms (not applicable if blank):
+pricing: reseller will obtain pricing quote from company for
+each opportunity.
+contract is renewable for 1 year extension by amendment to
+this agreement. either party may terminate this agreement for
+non-cause with a sixty (60) written notice.
+
+the parties agree as follows:
+
+1. definitions.
+
+a. “company” shall have the meaning assigned in the preamble.
+
+b. “company products” shall have the meaning assigned in the preamble.
+
+c. “effective date” shall have the meaning assigned in the preamble.
+
+d. “marks” shall have the meaning assigned in section 7.
+
+e. “net revenue” shall mean gross receipts collected by company or reseller from the distribution of company
+products, [less third party commissions, equipment sales, delivery costs, taxes, refunds, and credits.
+
+f. “proprietary information” shall have the meaning assigned in section 11.
+
+g. “registered referral” shall mean a named account (i) for which “reseller” identifies & creates the opportunity,
+provides sales assistance (as defined below), and (ii) which leads to a direct sale with the “company”. registered referrals may
+fall into two categories: sales executed by the “company”, and via a third party’s prime contract.
+
+h. “sales assistance” shall mean (i) introductions to and scheduling meetings with key executives at the named
+account (e.g., cxo, vice president of infrastructure and vice president of application development), and (ii) generating and
+delivering proposals and providing other marketing and sales support necessary to close the opportunity and obtain an order
+from the named account.
+
+source: bravatek solutions, inc., 8-k, 4/18/2017
+
+i. “registered opportunity” shall mean a named account (i) for which “reseller” identifies & creates the opportunity,
+and (ii) the “reseller” purchases directly from the “company” at a discount and sells to the customer.
+
+j. “fulfillment transaction” shall mean a sale through the reseller’s contract vehicle to a federal agency entity that is
+not a registered referral or registered opportunity
+
+k. “referral fee” shall have the meaning assigned in exhibit b.
+
+l. “reseller” shall have the meaning assigned in the preamble.
+
+m. “territory” shall have the meaning assigned in the preamble.
+
+2. general scope. company develops or provides company products and desires that reseller promote and solicit commitments
+to buy company products in the territory.
+
+3. reseller activity. reseller shall have the right to solicit orders for company products within the territory. in its activities under
+this agreement, reseller shall use the then-current names for the company products and any sales or marketing documentation
+or forms provided by company.
+
+4. company obligations. company shall provide reseller with the support described in exhibit b. company shall comply with
+good business practices and all applicable laws and regulations. during the term of this agreement, company shall notify reseller
+of any changes, modifications or the discontinuation of any of the company products within thirty (30) days. company shall
+make reasonable accommodations for any ongoing sales or existing sales.
+
+5. exclusivity on registered referrals and opportunities. during the term hereof and for a period of six (6) months following the
+termination of this agreement or the discontinuation of any of the company products, (i) the reseller shall have the exclusive
+right to commission for any registered referrals, (ii) the company shall not market, promote, sell, or distribute company products
+or solicit or procure orders for the company products, or for any product(s) or service(s) similar to the company products, in the
+territory other than through the reseller and pursuant to this agreement, except with the prior written consent of the reseller,
+and (iii) without limitation to the foregoing, the company shall not, directly or through other parties (whether agents,
+representatives, intermediaries, resellers or other parties), market, promote, sell, distribute, solicit or procure orders to any existing
+or prospective customer of the reseller.
+
+6. compensation. in the event that reseller (i) refers a registered referral to company, through delivery to company of the lead
+form attached hereto as exhibit a, and (ii) such registered referral executes an agreement to purchase any of such company
+products or services, then company shall pay reseller a referral fee, as specified in exhibit b attached hereto. referral fees will
+be paid within thirty (30) days of the collection of receivables from the registered referral. in the event an opportunity is
+requested and the government elects to use a different contract vehicle as described in 1g, reseller will still receive referral fee
+outlined in exhibit b.
+
+source: bravatek solutions, inc., 8-k, 4/18/2017
+
+7. trademarks, trade names and other designations. subject to the terms of this agreement, company grants reseller the right
+to use and display the company trademarks, tradenames and other designations of source, and proprietary notices, slogans,
+designs and distinct advertising as may appear on any documentation or other material with respect to product (“marks”) with
+prior approval, that will not be unreasonable withheld.
+
+8. warranty disclaimer. reseller shall make no representation, guarantee, or warranty concerning the
+company product except as expressly authorized in advance by company in writing. to the extent
+the reseller has complied with the obligations set forth in this section, the company shall
+indemnify and hold harmless the reseller for any and all losses suffered by the reseller or its
+affiliates (whether directly or in connection with a claim by a third party) as a result of or in
+connection with the company products. additionally, the reseller shall indemnify and hold
+harmless the company for any and all losses suffered by the company or its affiliates (whether
+directly or in connection with a claim by a third party) as a result of or in connection with the
+reseller’s activities.
+
+9. relationship of parties. the parties hereto expressly understand and agree that each party is an independent contractor in the
+performance of each and every part of this agreement.
+
+10. termination.
+
+a. unless terminated earlier as provided herein, this agreement shall have the term set forth above (which commences
+on the effective date).
+
+b. this agreement may be terminated by reseller for cause immediately upon the occurrence of any of the following
+events: (i) if the use or sale of company products are enjoined due to any claim of infringement of any u.s. patent or copyright or
+of any misappropriation of trade secrets; (ii) if company ceases to do business, or otherwise terminates its business operations;
+or (iii) if company breaches any provision of this agreement and fails to fully cure such breach within fifteen (15) business days
+of written notice from reseller describing the breach.
+
+c. this agreement may be terminated by company for cause immediately upon the occurrence of any of the following
+events: (i) if reseller ceases to do business, or otherwise terminates its business operations; or (ii) if reseller breaches any
+provision of this agreement and fails to fully cure such breach within fifteen (15) business days of written notice from company
+describing the breach.
+
+d. neither party shall incur any liability whatsoever for any damage, loss or expenses of any kind suffered or incurred by
+the other party arising from or incident to any termination of this agreement, which complies with the terms of the agreement,
+whether or not the terminating party is aware of any such damage, loss or expenses.
+
+source: bravatek solutions, inc., 8-k, 4/18/2017
+
+e. upon termination or expiration of this agreement, other than with respect to customers of the reseller existing at any
+time prior to the termination or expiration and with respect to ongoing sales or prospective sales, reseller (i) shall immediately
+discontinue any use of the name, logotype, marks or slogans of company, (ii) shall immediately discontinue all representations or
+statements from which it might be inferred that any relationship exists between the parties, (iii) will cease to promote, solicit
+orders for or procure orders for the product, (iv) will immediately return to company all proprietary information (as defined below)
+and any other information or materials of company in its possession, custody or control in whatever form held (including copies
+or embodiments thereof relating thereto). notwithstanding the foregoing, the right to payments accruing prior to the termination
+or expiration shall survive termination or expiration of this agreement.
+
+11. proprietary rights. each party acknowledges that, in the course of performing its duties under this agreement, it may obtain
+from the other party, certain business, technical or financial information, all of which is confidential and proprietary (“proprietary
+information”). the parties shall, at all times, both during the term of this agreement and after its termination, keep in trust and
+confidence all such proprietary information of the other party, and shall not use such proprietary information other than in the
+course of its duties as expressly provided in this agreement; nor shall a party or its employees disclose any such proprietary
+information of the other to any person without such other party’s prior written consent. neither party shall be bound by this
+section with respect to information it can document has entered or later enters the public domain as a result of no act or omission
+of the receiving party, or is lawfully received by such party from third parties without restriction and without breach of any duty
+of nondisclosure by any such third party.
+
+12. liability limitation. except for in the event of willful misconduct or gross negligence, the reseller
+and its affiliates shall not be liable to the company, and shall have no obligation to indemnify or
+hold harmless the company, with respect to or in connection with any loss resulting from or
+caused by the company products.
+
+13.  indemnification. company shall indemnify, defend and hold reseller and its officers, directors, employees, shareholders,
+agents, successors and assigns, harmless from and against any claim, demand lawsuit, cause of action or losses of any nature
+whatsoever, including reasonable attorneys’ fees, suffered or incurred by reseller or any of them, arising out of, (i) any claim that
+the company products infringe any u.s. patent or copyright or that the company products incorporate any misappropriated
+trade secrets or (ii) any claim for injury or other loss to any person arising from the use of company products. additionally,
+reseller shall indemnify, defend and hold company and its officers, directors, employees, shareholders, agents, successors and
+assigns, harmless from and against any claim, demand lawsuit, cause of action or losses of any nature whatsoever, including
+reasonable attorneys’ fees, suffered or incurred by company or any of them, arising out of, (i) any claim that the reseller’s
+activities infringe any u.s. business law or that the reseller’s activities violate any u.s. government process, procedure or
+requirement or (ii) any claim for injury or other loss to any person arising from the use of reseller’s activities.
+
+source: bravatek solutions, inc., 8-k, 4/18/2017
+
+14. miscellaneous. if any provision of this agreement is held to be illegal or unenforceable, that provision shall be limited or
+eliminated to the minimum extent necessary so that this agreement shall otherwise remain in full force and effect and enforceable.
+except as otherwise expressly provided herein, any provision of this agreement may be amended or waived only with the written
+consent of both parties. this agreement may be executed in separate counterparts, each of which so executed and delivered
+(including by emailed pdf) shall constitute an original, but all such counterparts shall together constitute one and the same
+instrument. this agreement shall be governed by and construed under the laws of the commonwealth of virginia without regard
+to the conflicts of law provisions thereof. this agreement supersedes all prior agreements or discussions between the parties
+with respect to the subject matter hereof.
+
+reseller
+
+bravatek solutions, inc.
+
+i3 ics, llc
+
+by:
+/s/ philip a. oakley
+
+by:
+/s/ thomas a. cellucci
+
+name:philip a. oakley
+
+name:thomas a. cellucci
+
+title: president
+
+title: chairman & ceo
+
+date: april 17, 2017
+
+date: april 17, 2017
+
+source: bravatek solutions, inc., 8-k, 4/18/2017
+
+exhibit a
+
+lead form
+
+customer info:
+
+date:
+
+company products:
+
+purchase price (in u.s. dollars):
+
+total license fee:
+
+term:
+
+evaluation term: [yes or no]
+
+source: bravatek solutions, inc., 8-k, 4/18/2017
+
+exhibit b
+
+reseller compensation
+
+earned commission:
+
+reseller will be compensated for registered referrals and registered opportunities (as defined in section 1g, 1i.) based on the
+following schedule:
+
+registered referral:
+
+·
+25 of net revenue (as defined in section 1e.) with a company-reseller agreed upon sale price in writing,
+the case of company’s software products. the company’s telecom services will be agreed upon on a case-by-case
+basis in writing.
+
+registered opportunity:
+
+·
+“reseller” will purchase directly from the “company” at a 25 discount off the company-reseller agreed upon
+sale price.
+
+·
+if sale is made through sewp, there will be an additional 4 discount off the sale price to cover the prime contract
+usage fee (typically 7-10) off the company-resellar agreed upon sale price.
+
+fulfillment transaction discount (as defined in section 1j):
+
+·
+“reseller” will purchase directly from the “company” at a 7-10 discount off the sale price.
+
+payment terms:
+
+for a registered referral where the customer purchases directly from company or another channel/contract vehicle other than
+reseller, earned commissions are payable within thirty (30)days of when such amounts are collected by company.
+
+for a registered opportunity where the customer purchases from reseller, payment will be made by reseller to company within 5
+days of receipt of payment (paid when paid).
+
+expense reimbursement: reimbursement will be provided only for expenses pre-approved in writing by company.
+
+marketing expense: as may be agreed to by the parties in writing.
+
+source: bravatek solutions, inc., 8-k, 4/18/2017
+
+company support obligations
+
+product training: training on the company products as needed.
+
+marketing materials: electronic and print copies of existing marketing material as needed.
+
+company personnel resources:
+
+·
+access to technical resources for demonstrations and meetings
+
+·
+access to company customer support services
+
+source: bravatek solutions, inc., 8-k, 4/18/2017

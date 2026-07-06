@@ -1,0 +1,468 @@
+exhibit 10.5 
+ certain confidential information contain in this document , mark by [ … … ] , have be omit because 
+ artara therapeutics , inc . have determine the information ( i ) be not material and ( ii ) would likely cause 
+ competitive harm to artara therapeutics , inc . if publicly disclose . 
+ sponsor research and license agreement 
+ this sponsor research and license agreement ( this " agreement " ) be enter into on november 28 , 2018 ( the " effective date " ) , by and 
+ between artara , inc . locate at 1 little west 12th street , new york , ny 10014 ( " artara " ) , and the university of iowa , locate at c / o division of 
+ sponsor program , 2 gilmore hall , iowa city , ia 52242 ( " university " ) . artara and university may individually be refer to herein as a " party , " 
+ and collectively as " party . " 
+ wi t n e s s e t h : 
+ whereas , artara be engage in the development of pharmaceutical product for the treatment of serious rare diseases; 
+ whereas , university be engage in clinical research to improve the diagnosis and treatment of lymphangioma ( lm ) use ok-432 ( as 
+ define below ) , a pharmaceutical product not approve by regulatory authority in the united states; 
+ whereas , university be engage in a clinical research program ( as define below ) and with chugai pharmaceutical co. , ltd . , 1 - 1 
+ nihonbashi 2 - chome , chuo - ku , tokyo , 103 - 8324 japan , and its wholly - own subsidiary , chugai pharma u.s.a , llc 300 connell drive , suite 
+ 3100 , berkeley height , new jersey 07922 ( collectively " chugai " ) , the product manufacturer; 
+ whereas , principal investigator ( as define below ) of the program be an employee of the university and hold the ind ( as define 
+ below ) approve by the fda ( as define below ) for ok-432 under bb - ind5266; 
+ whereas , artara wish to develop and submit for regulatory approval , tara-002 , a propose product that will be biosimilar to ok- 
+ 432; 
+ whereas , artara wish to use the program datum ( as define below ) collect from the program , conduct research analysis of the datum 
+ and potentially rely on say program datum to support regulatory approval ( as define below ) for tara-002 in the territory ( as define below); 
+ and 
+ whereas , the copying , review and analysis of program datum for the project ( as define below ) contemplate by this agreement be of 
+ mutual interest and benefit to university and artara . 
+ now , therefore , in consideration of the foregoing premise and the mutual covenant and agreement contain herein , the party 
+ agree as follow : 
+ article one 
+ definition 
+ 1.1 
+ " affiliate " of a person or entity mean any other entity which ( directly or indirectly ) be control by , control or be under common control 
+ with such person or entity . for the purpose of this definition , the term " control " ( include , with correlative meaning , the term 
+ " control by " and " under common control with " ) as use with respect to an entity will mean ( i ) in the case of a corporate entity , direct or 
+ indirect ownership of voting security entitle to cast at least fifty percent ( 50 ) of the vote in the election of director , or ( ii ) in the case 
+ of a non - corporate entity , direct or indirect ownership of at least fifty percent ( 50 ) of the equity interest with the power to direct the 
+ management and policy of such entity , provide that if local law restrict foreign ownership , control will be establish by direct or 
+ indirect ownership of the maximum ownership percentage that may , under such local law , be own by foreign interest . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ 1.2 
+ " cro " mean a contract research organization select by artara to assist in the project as approve by the university and/or principal 
+ investigator , such approval not to be unreasonably delay or withhold . 
+ 1.3 
+ " fda " mean the united states food and drug administration . 
+ 1.4 
+ " field " mean all therapeutic , diagnostic and prophylactic us of the product(s ) . 
+ 1.5 
+ " first commercial sale " mean the first sale for use or consumption for which revenue have be recognize of product in a country or 
+ territory after all require regulatory approval for commercial sale of product have be obtain in such country or territory . 
+ 1.6 
+ " ich - gcp ’s " mean the international conference on harmonization and good clinical practice guideline as adopt in the applicable 
+ fda regulation . 
+ 1.7 
+ " indication " mean treatment of lymphangioma ( also know as lymphatic malformation ) in human . 
+ 1.8 
+ " ind " mean university file investigational new drug application on file with the fda ( bb - ind5266 ) for ok-432 for the indication . 
+ 1.9 
+ " net sale " mean , with respect to the product , the gross invoice sale price payable to artara and/or its affiliate and their respective 
+ licensee and sublicensee for sale anywhere in the world of the product to a third party , less : 
+ ( a ) discount ( include cash , quantity and patient program discount ) , retroactive price reduction , charge - back payment and 
+ rebate grant to manage health care organization or to federal , state and local government , their agency , and 
+ purchaser and reimburser or to trade customers; 
+ ( b ) credit or allowance actually , not to exceed the original invoice amount , grant upon claim , damage good , rejection or 
+ return of the product , include the product return in connection with recall or withdrawals; 
+ ( c ) freight out , postage , shipping and insurance charge for delivery of the product if charge separately and include in the gross 
+ receipts; and 
+ ( d ) taxis or duty , exclude income taxis and value - add taxis , levy on , absorb or otherwise impose on the sale of the 
+ product , include governmental charge otherwise impose upon the billed amount , as adjust for rebate and refund , 
+ provide that such be include in gross receipt and be pay to and/or its affiliate and their respective licensee and 
+ sublicensee . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ net sale shall be determine in accordance with generally accept accounting principle , consistently apply . 
+ 1.10 
+ " ok-432 " mean picibanil ( ok-432 ) , a lyophilize mixture of group a streptococcus pyogene develop by chugai and that have be 
+ approve by applicable japanese pharmaceutical regulatory authority for the treatment of the indication . 
+ 1.11 
+ " principal investigator " mean richard smith , md 
+ 1.12 
+ " product " shall mean tara-002 and any similar product . 
+ 1.13 
+ " program " mean collectively , the clinical research study investigate the efficacy and safety of ok-432 for the indication conduct 
+ by principal investigator in collaboration with multiple site in the united states and the university expand access program perform 
+ by principal investigator design to improve the diagnosis and treatment of the indication use ok-432 . 
+ 1.14 
+ " program datum " mean the datum set forth on exhibit a include all case report form , source datum , and safety datum in the possession of 
+ or available to university arise from the program and any other datum and information include in the ind . 
+ 1.15 
+ " project " shall mean the compilation and available statistical analysis of the program datum as describe in the project plan , which be 
+ summarize in section 2.2 . 
+ 1.16 
+ " project documentation " shall mean the documentation create and generate by artara and cro in the conduct of the project that 
+ incorporate or be base upon program datum . 
+ 1.17 
+ " project plan " mean the plan for the project mutually agree upon by the party as summarize in section 2.2 . 
+ 1.18 
+ " right of reference " mean the authority to rely upon , and otherwise use , an investigation for the purpose of obtain regulatory 
+ approval , include the ability to make available the underlie raw ( source ) datum from the investigation for audit , if necessary . 
+ 1.19 
+ " regulatory approval " mean the medical , technical and scientific license , registration , authorization and approval ( include 
+ without limitation , approval of ind ’s , new drug application ( " nda ’s " ) and equivalent , supplement and amendment , pre- and post- 
+ approval , pricing and third - party reimbursement approval and labeling approval ) for the development and commercialization of 
+ pharmaceutical product . 
+ 1.20 
+ " regulatory authority " mean any applicable national , regional , state or local regulatory agency , department , bureau , commission , 
+ council or other governmental entity , necessary for the development , manufacture , distribution , marketing , promotion , offer for sale , use , 
+ import , export or sale of a pharmaceutical product in a regulatory jurisdiction . 
+ 1.21 
+ " regulatory filing " mean collectively , ind ’s , product license application , drug master file , nda ’s , biological license application 
+ ( " bla " ) include supportive and annual filing and/or any other equivalent or comparable filing as may be require by regulatory 
+ authority to obtain regulatory approval . 
+ 1.22 
+ " royalty " mean the royalty on net sale of product in the indication , as set forth in article three below . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ 1.23 
+ " tara-002 " mean the artara pharmaceutical product intend to be similar to or biosimilar to ok-432 . 
+ 1.24 
+ " territory " mean worldwide . 
+ article two 
+ project 
+ 2.1 performance of project . the university and/or principal investigator together with artara and the cro will conduct the project in accordance 
+ with the project plan and will use all reasonable endeavor consistent with their expertise to successfully complete the project . it be the goal of the 
+ project to use the program datum as clinical support for product regulatory filing and to gain approval to commercialize the product for the 
+ indication in the territory . 
+ 2.2 project plan . the project plan as approve by each of the party may be modify or amend only upon mutual agreement of each of the 
+ party . the project will consist of three phase : 
+ ( a ) phase I : university and/or principal investigator will provide access to the program datum to artara and the cro at the 
+ university ’s facility . artara and the cro will be allow to make complete copy of the original program datum for the 
+ purpose of off - site datum entry and storage , all as and only to the extent need to support artara ’s effort to accomplish the 
+ project . university will provide artara and cro the opportunity to examine the original of medical record and support 
+ record for the program datum at the university during normal business hour and at mutually agreeable time . university and 
+ principal investigator will also provide to artara contact information for other participate investigator and research site 
+ that have contribute datum to the program . university will retain all program datum for the soon to occur of a new drug 
+ application ( nda ) for the product be approve or ten ( 10 ) year from the effective date . artara will bear any cost relate 
+ to necessary long - term on or off - site storage of the program datum , medical record and/or support record . artara 
+ understand that separate engagement agreement may be require by collaborate third party entity and associate 
+ principal investigator and university will assist artara in obtain such agreement . it be understand that the goal of phase 
+ I be a feasibility analysis of the program datum to support regulatory filing in the united states . 
+ ( b ) phase ii : university recognize that because of artara ’s unfamiliarity with the program datum database , assistance from the 
+ principal investigator and other research and medical employee of the university may from time to time be 
+ need for artara to query and analyze the program datum database as need to achieve successful presentation to 
+ applicable regulatory authority and submission of regulatory filing . artara will endeavor to minimize university 
+ resource require during phase ii . the goal of phase ii will be to compile the project documentation . 
+ ( c ) phase iii : cro will convert program datum to ectd format for submission to regulatory authority . university recognize 
+ that artara may receive specific data request from regulatory authority in connection with artara ’s presentation of 
+ program datum to support regulatory filing . university will assist artara in respond to such request for datum or access to 
+ source datum from regulatory authority . artara agree to notify university of such request as soon as be practicable . the 
+ goal of phase iii will be file of a bla base on project documentation and response to regulatory authority . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ ( d ) phase iv optional : upon mutual write agreement of university and artara , artara may sponsor , and university may 
+ conduct , new product or product - relate clinical study ( for example , follow - up study ) to support the goal of the project or 
+ as may be useful for gain or maintain regulatory approval for the product for the indication . any such study will be 
+ at the sole discretion of each party subject to term and condition to be mutually agree upon in agreement separate from 
+ this agreement . richard smith , md will be give first consideration as a principal investigator for all new product or product- 
+ relate clinical study , in addition to other site provide final site selection will be base on the good interest of the project . 
+ ( e ) phase v : publication : collect datum from the project will be use to write a paper by the university and/or principal 
+ investigator ( the " publication " ) as a follow up to the publication in 2009 ( smith mc , zimmerman mb , burke dk , bauman 
+ nm , sato y , smith rj; ok-432 collaborative study group . efficacy and safety of ok-432 immunotherapy of lymphatic 
+ malformation . laryngoscope . 2009jan;119(1):107 - 15 . doi : 10.1002 / lary.20041 . pubme pmid : 19117316 ) . ( the 
+ " publication " ) . the publication will be in accordance with the term in article 5 herein . 
+ 2.3 project management . during the term of this agreement , the principal investigator and and/or his authorize representative and artara 
+ authorize representative will meet as necessary to consult with one another and discuss the progress and result of the project and any 
+ modification to the project plan . consultation by either party shall be by mean of personal visit , correspondence and telephone call , all as 
+ appear reasonable and necessary and be mutually agree upon by the principal investigator and artara . 
+ article three 
+ funding and payment 
+ 3.1 funding . during the term of the project in accordance with the project plan , artara will provide thirty thousand dollar ( us 30,000 ) per year in 
+ funding for the project , take into consideration the time spend by university employee require for the project . the party agree to discuss in 
+ good faith potential additional funding require for completion of the project as applicable and necessary . 
+ 3.2 approval milestone base on datum value : within forty - five ( 45 ) day of an approval of the tara-002 bla by the fda , artara will pay a one- 
+ time approval milestone to university pursuant to the usefulness of the program datum in tara-002 ’s bla filing , as set forth below : 
+ official feedback from fda regard the program datum 
+ milestone 
+ [ … … ] 
+ [ … … ] 
+ [ … … ] 
+ [ … … ] 
+ [ … … ] 
+ [ … … ] 
+ [ … … ] 
+ [ … … ] 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ 3.3 royalty . royalty will be payable by artara on net sale of product in the indication . artara will , no later than [ … … ] follow the close 
+ of each calendar quarter , pay tiere royalty base on annual net sale of product in the indication as set forth below : 
+ annual net sale of product for the 
+ indication 
+ annual royalty rate percent net 
+ sale 
+ 0 - 25,000,000 
+ 1.75 
+ > 25,000,000 - 50,000,000 
+ 2.25 
+ > 50,000,000 
+ 2.50 
+ 3.4 royalty reduction . in the event the regulatory authority determine that the program data be not sufficient for regulatory approval on its 
+ own and additional pediatric efficacy and safety clinical study be require , royalty set forth above will be reduce by [ … … ] percent ( [ … 
+ … ] ) . 
+ 3.5 sale milestone payment . in the event that annual net sale , as detail in section 3.3 , surpass certain threshold , artara will make the 
+ follow payment no later than [ … … ] follow the close of the calendar quarter in which each milestone be reach as set forth below : 
+ annual net sale of product for the 
+ indication exceed 
+ milestone payment 
+ 25,000,000 
+ 62,500 
+ 50,000,000 
+ 62,500 
+ 100,000,000 
+ 125,000 
+ 3.6 payment . 
+ all payment under article 3.2 , 3.3 and 3.5 shall be send to the follow address : 
+ check will be send to : 
+ the university of iowa research foundation 
+ attn : accounting 
+ 6 gilmore hall 
+ 112 north capitol st . 
+ iowa city , ia 52242 - 5500 
+ wire transfer will be send to : 
+ [ … … ] 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ artara will include the university of iowa research foundation agreement number 2019- 068 , a reference to " richard smith , md , artara 
+ sponsor research and license agreement date november 28 , 2018 " and purpose of payment with all payment . artara will add all applicable 
+ wire transfer fee to wire transfer payment . 
+ all other payment shall be send to the follow address : 
+ the university of iowa 
+ c / o grant accounting office 
+ 118 s. clinton st . 
+ iowa city , ia 52242 
+ article four 
+ datum and intellectual property 
+ 4.1 
+ program datum and project documentation . 
+ ( a ) program datum . access to all original program datum shall be provide to artara and the cro at university ’s facility in accordance 
+ with the project plan for the purpose of review and copying as and only to the extent need to support artara ’s effort to accomplish 
+ the project . as between artara and the university , ownership of all program datum be hereby retain by the university . 
+ ( b ) project documentation . all project documentation shall be own by artara to the extent publishable in accordance with section 5 
+ herein , except that ownership of any and all program datum incorporate into project documentation shall as between artara and the 
+ university remain with the university . university may use all project documentation without royalty obligation for patient care and for its 
+ own internal teaching , research , and educational purpose , for publication to the extent permit under section 5 herein , and for the 
+ purpose of comply with any federal , state , or local law or regulation . all medical record that support the program datum and project 
+ documentation shall remain the property of the university . 
+ 4.2 
+ license . university hereby grant to artara an exclusive license to use the program datum solely for the project and in regulatory filing 
+ in the field in the territory . 
+ 4.3 
+ right of reference and ind assignment . university hereby grant to artara an exclusive right of reference to all program regulatory 
+ filing by university in support of the product . upon write request of artara , university will assign the ind to artara . 
+ 4.4 
+ intellectual property . all intellectual property or patentable invention arise out of or in connection with the project which be 
+ discover or invent solely by the university and/or principal investigator shall be the exclusive property of the university ( " university 
+ intellectual property " ) . all intellectual property or patentable invention arise out of or in connection with the project which be 
+ discover or invent solely by or on behalf of artara shall be the exclusive property of artara . all intellectual property or patentable 
+ invention arise out of or in connection with the project that be discover or invent jointly by principal investigator and artara 
+ shall be consider joint intellectual property and shall be jointly own by the university and artara . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ article five 
+ confidential information; publication 
+ 5.1 confidentiality . during the term of this agreement and for a period of seven ( 7 ) year after its termination or expiration each party ( the 
+ " receive party " ) shall maintain in confidence and , except as authorize by this agreement , not use any know - how , datum , process , technique , 
+ formula , test datum and other information disclose by the other party ( the " disclose party " ) and which for any of the foregoing , if write , be 
+ marked " confidential " by the disclosing party or , if verbal or visual , be identify in writing as " confidential " at the time of disclosure and reduce 
+ to write by the disclosing party within thirty ( 30 ) day of the verbal or visual disclosure ( " confidential information " ) . 
+ 5.2 exception . the obligation of confidentiality and non - use set forth in paragraph 5.1 shall not apply to the extent that it can be establish by 
+ receive party that the information : 
+ ( a ) be already know to receive party without restriction at the time of disclosure; 
+ ( b ) be generally available to the public or otherwise part of the public domain at the time of its disclosure; 
+ ( c ) become generally available to the public or otherwise part of the public domain after its disclosure to receive party through no 
+ breach of this agreement by receive party; 
+ ( d ) be disclose to receive party without restriction by a third party who have no know obligation to not to disclose such information; 
+ ( e ) be independently develop by receive party without the use of confidential information; 
+ ( f ) be require to be disclose by operation of law or court order; or 
+ ( g ) disclose party give prior write consent to receive party to disclose such confidential information . 
+ 5.3 return of confidential information . in the event the disclosing party request in write the return of confidential information , the receiving 
+ party shall return such confidential information to disclose party with the exception of one copy , which may be retain for archival purpose . 
+ 5.4 publication . the university and artara each agree to treat matter of authorship of the publication in a proper collaborative spirit and follow 
+ guideline and policy in accordance with the university of iowa ’s operation manual which may be find at : https://opsmanual.uiowa.edu/. 
+ it be anticipate that employee of the university will be first and senior author on the publication , but it be understand that final authorship will be 
+ determine in accordance with all applicable law and regulation in publication practice , include section 6002 of the affordable care act a / k / a 
+ sunshine act and with icmje ( international committee of medical journal editor ) guideline , standard scientific practice and journal guideline . 
+ university and/or principal investigator shall provide artara with a copy of any propose publication for review and comment at least [ … … ] 
+ prior to submission thereof for publication . artara shall have [ … … ] , after receipt of say copy to object to such propose publication because 
+ there be confidential information which need protection . in the event that artara make such objection , university and/or principal investigator 
+ shall refrain from submit such publication for a maximum of [ … … ] from date of receipt of such objection in order for artara to file patent 
+ application(s ) direct to patentable subject matter contain in the propose publication . if in its review , artara identify information it consider 
+ to be its confidential information , artara may require redaction of that confidential information; provide , however , that artara shall not require 
+ removal of information necessary for complete and accurate presentation and interpretation of the program datum and result . the publication shall 
+ occur within [ … … ] of the date the project be close or terminate , or university and/or principal investigator shall be free to publish program 
+ datum and result at that time . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ article six 
+ representations; indemnification 
+ 6.1 representation . university represent : 
+ ( a ) the program be be , and have be , conduct in accordance with all applicable local , state and federal law , and regulation , 
+ include , but not limit to , the federal food , drug and cosmetic act and the regulation of the fda , international conference on 
+ harmonization good clinical practice as adopt in the applicable fda regulation ( " gcp ’s " ) , and the form fda 1572 statement of 
+ investigator . 
+ ( b ) the program be be and have be conduct in accordance with all applicable medical privacy law or regulation , include without 
+ limitation , by obtain any require subject inform consent to allow artara and artara ’s authorize representative , fda and 
+ other regulatory authority access to and use of enrol subject ' medical information as may be necessary for artara to receive 
+ and use program datum under this agreement . 
+ ( c ) the clinical study include in the program be and have be conduct in accordance with the applicable protocol associate with 
+ the bb - ind5266 hold by the principal investigator . 
+ ( d ) university represent that informed consent be require from all individual subject prior to enrollment in the program , and that the 
+ program be approve by the institutional review board of the university . 
+ ( e ) university represent that it be authorize to enter into this agreement and that the term of this agreement be consistent with the 
+ rule , regulation , policy and/or guideline of university . 
+ ( f ) 
+ university represent that to the good of its knowledge and belief there be no outstanding agreement or assignment which be 
+ inconsistent with the right grant to artara pursuant to article four . 
+ ( g ) the party shall commence performance of the project promptly after the date of last signature of this agreement and shall perform 
+ the project in accordance with the current state of the laboratory research art and in accordance with applicable state and federal law , 
+ include export law , and regulation . 
+ ( h ) university represent to the good of its knowledge , all information provide to artara pursuant to this agreement be accurate in 
+ accordance with ich - gcp ’s . 
+ ( i ) 
+ except as otherwise expressly set forth in this agreement , the university make no representation 
+ and extend no warranty of any kind , either express or imply , with respect to the subject matter of 
+ this agreement . in particular , but without limitation , the university make no representation and 
+ extend no warranty concern whether the program datum be accurate or complete . the party 
+ recognize and agree that all program datum , and related material , document , and other 
+ information , the university make available to artara at any time in connection with this 
+ agreement , be make available to artara as an accommodation , and without representation or 
+ warranty of any kind , whether express , imply or statutory , as to the accuracy and completeness of 
+ such material , document , and other information . artara expressly agree that any reliance upon 
+ or conclusion draw from the program datum shall be at artara ’s own risk to the maximum extent 
+ permit by law and shall not give rise to any liability of or against the university . artara hereby 
+ waif and release any claim arise under this agreement , common law or any statute arise 
+ out of any program datum , relate material , document or information provide to it by the 
+ university . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ ( j ) 
+ university represent , to the good of its knowledge and belief , that neither it nor any of its officer , director , employee involve in 
+ perform the project be presently debar pursuant to the generic drug enforcement act of 1992 . university shall notify artara 
+ upon become aware of any inquiry or the commencement of any such investigation or proceeding . 
+ 6.2 representation . artara represent and warrant : 
+ ( a ) it be a company duly organize , exist , and in good standing under the law of delaware; 
+ ( b ) the execution , delivery , and performance of this agreement have be authorize by all necessary corporate action on the part of 
+ artara and the person sign this agreement on behalf of artara have the authority to do so; 
+ ( c ) the making , exercise of any right , or performance of any obligation under this agreement do not violate any separate agreement 
+ it have with a third party , and in so act , artara will not breach the term and condition of this agreement or fail to comply with 
+ applicable law , regulation , and court orders; 
+ ( d ) it be not a party to any agreement or arrangement that would prevent it from perform its duty and fulfil its obligation to the 
+ university under this agreement; 
+ ( e ) it have and will maintain at the time specify in article 7 herein , the insurance coverage call for in article 7; 
+ ( f ) 
+ it will obtain any additional license from any third party need to perform and fulfill its duty and obligation under this 
+ agreement; and 
+ ( g ) there be no pende litigation and no threaten claim against it that could impair its ability or capacity to perform and fulfill its 
+ duty and obligation under this agreement . 
+ 6.3 indemnification by artara . to the extent permit by law , artara agree to defend , indemnify and hold the university of iowa research 
+ foundation , the university , the state of iowa , the university ’s board of regent , their respective affiliate , trustee , officer , director , faculty , 
+ staff , student , successor , assign , independent contractor , agent and employee include but not limit to principal investigator 
+ ( " university indemnitee " ) , harmless from and against any and all liability , loss , expense , reasonable adjudicated attorney ’ fee , or claim for injury 
+ or damage arise out of the use of the program datum by artara and its affiliate and subcontractor include but not limit to the cro 
+ involve in the project , but only in proportion to and to the extent such liability , loss , expense , attorney ’ fee , or claim for injury or damage be 
+ cause by or result from the negligent or act or omission of artara , its officer , agent , employee , subcontractor , the cro or affiliate . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ 6.4 no consequential damage . in no event shall either party be liable to the other party under this agreement in a 
+ direct action between the party for special , indirect , incidental or consequential damage ( include , 
+ without limitation , loss of profit ) suffer by the other party . 
+ article seven 
+ insurance 
+ 7.1 artara , affiliate , and sublicensee will obtain and maintain commercial general liability insurance with a reputable and financially secure 
+ insurance carrier prior to clinical testing , make , use , import , offer to sell , or sell any licensed product or engage in any other act 
+ involve any licensed product or the patent right , if such act could possibly create risk of a claim against university indemnitee for personal 
+ injury or property damage . 
+ ( a ) the insurance will identify university indemnitee as additional insured and will provide that the carrier will notify university in 
+ write at least [ … … ] prior to cancellation , non - renewal , or material change in coverage . should artara fail to obtain replacement 
+ insurance provide comparable coverage within such [ … … ] period , university will have the right to termination this agreement 
+ effective as of the end of the [ … … ] period without notice or any additional cure period . 
+ ( b ) the insurance will include coverage for product liability with a minimum of [ … … ] dollar ( [ … … ] ) per occurrence and [ … 
+ … ] dollar ( [ … … ] ) annual aggregate , coverage for contractual liability , clinical trial liability if any such trial be perform , 
+ bodily injury and property damage , include complete operation , personal injury , coverage for contractual employee , blanket 
+ contractual and product , and all other coverage standard for such policy . such insurance will additionally include error and 
+ omission insurance with a minimum of [ … … ] dollar ( [ … … ] ) per occurrence . 
+ ( c ) insurance policy purchase to comply with this article seven will be keep in force for at least [ … … ] after the last sale of licensed 
+ product . 
+ 7.2 at university ’s request , such request to be make no more than annually , artara will provide university with a certificate of insurance and 
+ notice of subsequent renewal for its insurance and that of affiliate extend right under this agreement and of sublicensee . 
+ 7.6 the specify minimum coverage and other provision of this article seven do not constitute a limitation on artara ’s obligation to indemnify 
+ the university indemnitee under this agreement . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ article eight 
+ term and termination 
+ 8.1 term . this agreement may be terminate by artara upon thirty ( 30 ) day prior write notice to university . 
+ 8.2 termination by either party . either party may terminate the project and all commitment and obligation with respect thereto , subject to section 
+ 8.3 herein , upon thirty ( 30 ) day write notice to the other party . in the event of any termination of the project by university , ( a ) university agree 
+ to complete phase I and ii of the project , and ( b ) artara will continue to provide annual funding until the completion of phase ii . upon termination 
+ of the project by artara this agreement will terminate subject to section 8.3 and artara will reassign to university the ind if assignment thereof 
+ previously occur pursuant to section 4.3 . 
+ 8.3 survival . termination of the project for any reason shall not relieve any party of any obligation that accrue under this agreement prior to 
+ termination . the provision of article three , article four , article five , section 6.3 and 6.4 , and article seven through nine shall survive 
+ termination of the project by university . the provision of article five , section 6.3 and 6.4 , article seven , section 8.3 and article nine shall 
+ survive termination of the project and this agreement by artara . 
+ article nine 
+ miscellaneous 
+ 9.1 force majeure . university will not be liable for any failure to perform as require by this agreement , if the failure to perform be cause by 
+ circumstance reasonably beyond university ’s control , such as labor disturbance or labor dispute of any kind , accident , failure of any 
+ governmental approval require for full performance , civil disorder or commotion , act of aggression , act of god , energy or other conservation 
+ measure , explosion , failure of utility , mechanical breakdown , material shortage , disease , theft , or other such occurrence . 
+ 9.2 publicity . no party will use directly or by implication the name of any other party , or the name of any employee thereof without prior write 
+ notification and agreement of the name party for promotional , marketing or advertising purpose . notwithstanding the foregoing , nothing herein 
+ shall prevent either party from disclose the existence of this agreement , the identity of the party , or the basic nature and scope of the purpose 
+ of this agreement . 
+ 9.3 notice . any notice require to be give pursuant to this agreement shall be make by personal delivery or , if by mail , then by register or 
+ certify mail , return receipt request , by one party to the other party at the follow address . 
+ in the case of artara , notice should be send to : 
+ artara therapeutic 
+ 1 little west 12th street 
+ ny , ny 10014 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ attention : jesse shefferman 
+ in the case of university , notice should be send to : 
+ the university of iowa 
+ c / o division of sponsor program 
+ 2 gilmore hall 
+ iowa city , ia 52242 
+ attention : [ … … ] 
+ 9.4 governing law . this agreement shall be govern by the law of the state of iowa . 
+ 9.5 assignment . no party may assign any right under this agreement or delegate any duty hereunder without the prior write consent of the 
+ other party . 
+ 9.6 independent contractor . the relationship between artara and the university create by this agreement shall be one of an independent 
+ contractor and no party shall have the authority to bind or act as agent for the other party . 
+ 9.7 entire agreement . this agreement constitute the entire agreement between the party with respect to the subject matter hereof and 
+ supersede all prior agreement and understanding between the party ( whether write or verbal ) relate to say subject matter . 
+ 9.8 severability . whenever possible each provision of this agreement shall be interpret in such a manner as to be effective and valid under 
+ applicable law but should any provision of this agreement be hold to be prohibit or invalid under applicable law , such provision shall be 
+ ineffective only to the extent of such prohibition or invalidity , without invalidate the remainder of this agreement . however , if such provision be 
+ deem significant and its invalidity would substantially alter the basis of this agreement , the party will negotiate in good faith to amend the 
+ provision of this agreement to give effect to the original intent of the party . 
+ 9.9 waiver . no provision of this agreement shall be waive by any act or omission of the party or their agent or employee except by an 
+ instrument in write expressly waive such provision and sign by a duly authorize officer of the waive party . 
+ 9.10 counterpart . this agreement may be sign in any number of counterpart , include in pdf format , each of which shall be an original , with 
+ the same effect as though the signature hereto and thereto be on the same instrument . 
+ 9.11 section heading . the recital and descriptive heading of this agreement be for convenience only and shall be of no force or effect in 
+ interpret any of the provision of this agreement . 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ in witness whereof , the party have cause this agreement to be duly execute by an authorized official as of the day and year first above 
+ write . 
+ artara therapeutics , inc . 
+ /s/ jesse shefferman 
+ by : jesse shefferman 
+ title : chief executive officer 
+ the university of iowa 
+ /s/ wendy beaver 
+ by : wendy beaver 
+ title : executive director , division of sponsor program 
+ read & acknowledge by principal investigator 
+ /s/ richard smith 
+ by : richard smith , m.d . 
+ title : professor of otolaryngology head and neck surgery 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020 
+ exhibit a 
+ program datum 
+ [ … … ] 
+
+ source : artara therapeutics , inc . , 8 - k , 1/10/2020

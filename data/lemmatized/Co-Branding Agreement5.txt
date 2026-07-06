@@ -1,0 +1,787 @@
+exhibit 10.20 
+  co - branding agreement 
+  this co - branding agreement ( the " agreement " ) be enter into as of march 
+ _ _ _ , 1999 ( the " effective date " ) by and between theglobe.com , inc . , with its 
+ principal place of business at 31 west 21st street , new york , ny 10010 
+ ( " theglobe " ) , and the boxlot company , with its principal place of business at 
+ 12626 high bluff drive , suite 370 , san diego , can 92130 ( " boxlot " ) . 
+ 1 . definition . 
+  ( a ) " boxlot banner " mean any banner , button , text or similar ad boxlot 
+ provide to theglobe in connection with this agreement . 
+  ( b ) " boxlot content " mean any content or information ( include without 
+ limitation any text , music , sound , photograph , video , graphic , datum or 
+ software ) , in any medium , provide by boxlot to theglobe ( other than boxlot 
+ banner ) , as part of the service or on the co - brand page , include any 
+ content specify in exhibit a. 
+  ( c ) " boxlot mark " mean all boxlot domain name , trademark , logo , and 
+ other graphic reasonably necessary or desirable for theglobe to perform under 
+ this agreement . 
+  ( d ) " boxlot site " mean the boxlot - brand ( i.e. , non - co - branded ) version 
+ of the service and associate page . 
+  ( e ) " co - brand page " mean all page of the service ( include , without 
+ limitation , any java screen associate with the service or email or other 
+ direct communication send to user by operation of the service ) . 
+  ( f ) " domain name " mean the domain name describe in exhibit a. 
+  ( g ) " launch date " mean the first date on which the service be make 
+ publicly available . 
+  ( h ) " mark " mean the boxlot mark or theglobe mark , as applicable . 
+  ( i ) " net revenue " mean all monetary consideration theglobe actually 
+ receive for cpm- or cpc - base advertisement and promotion ( other than those 
+ for its commerce partner ) deliver in connection with the co - brand page , 
+ less a sale and administration fee of 15 . 
+  ( j ) " page template " mean theglobe 's standard page layout template , as 
+ revise by theglobe from time to time . 
+  ( k ) " service " mean the service describe in exhibit a , as change over 
+ time in accordance with this agreement , which be co - brand use the page 
+ template . the service 
+
+ also include any boxlot - operate back - end administration tool or page use by 
+ theglobe or boxlot to exchange datum in accordance with this agreement . 
+  ( l ) " shadow site " mean the password - protect site where the co - branded 
+ page be make available for theglobe 's review and approval prior to be make 
+ publicly available . 
+  ( m ) " theglobe mark " mean all theglobe domain name , trademark , logo , 
+ and other graphic reasonably necessary or desirable for boxlot to perform under 
+ this agreement . 
+  ( n ) " theglobe site " mean all page under the theglobe.com domain . 
+  ( o ) " user " mean any person who access any co - branded page . 
+ 2 . development and implementation . 
+  2.1 pre - launch deliverable . on or around march 31 , 1999 , theglobe shall 
+ deliver to boxlot the page template and the other material specify in 
+ exhibit a. 
+  2.2 initial development . boxlot shall develop the co - brand page use 
+ the page template and take all other step require to co - brand the service in 
+ accordance with exhibit a. in addition , if theglobe be pass any user datum to 
+ boxlot , theglobe 's standard automatic partner registration procedure shall 
+ apply , and boxlot shall perform the development necessary to use such procedure . 
+ the current automatic partner registration procedure be describe in exhibit d. 
+ boxlot shall make the service implementation available to theglobe on the shadow 
+ site prior to make it publicly available . boxlot shall not make the initial 
+ service implementation publicly available without theglobe 's prior write 
+ approval . unless otherwise specify , each party shall be responsible for all 
+ development , hosting and other cost associate with the page live on their 
+ server and all email they send . 
+  2.3 change . theglobe shall have sole control over the service 's look and 
+ feel , and boxlot shall not make any change in the service 's look and feel 
+ without theglobe 's prior consent . far , boxlot shall notify theglobe if 
+ boxlot change or add any functionality of the service describe in exhibit a 
+ ( as modify by boxlot over time ) as implement on the boxlot site . unless 
+ request by theglobe , boxlot shall implement such change or addition to the 
+ service and make such implementation available on the shadow site for theglobe 's 
+ approval within 30 day of their introduction on the boxlot site . however , 
+ under no circumstance shall boxlot offer user any community feature ( such as 
+ email , chat , message board , or the ability to create home page ) from the co- 
+ brand page without theglobe 's consent , and if boxlot desire to do so , the 
+ party will work together to discuss appropriate implementation . boxlot shall 
+ make available via the shadow site all change to the service or the co - branded 
+ page complete in this section 2 , and boxlot shall not implement such change 
+ on the publicly available service or co - branded page until it have receive 
+ theglobe 's approval . 
+  2.4 service operation . boxlot shall host and operate the service under 
+ source : theglobe com inc , s-1 / a , 5/3/1999 
+ the domain name in accordance with the term of exhibit b. 
+
+  2.5 rebranding . if request by theglobe , boxlot shall implement on the 
+ co - branded page new version of the page template if theglobe change the page 
+ template across theglobe site generally . far , if request by theglobe , 
+ boxlot shall create additional branded version of the service and co - branded 
+ page brand with the branding of theglobe 's distribution partner , which 
+ brand version shall be implement within 30 day and subject to approval in 
+ accordance with this section 2 . 
+  2.6 boxlot content . boxlot shall provide boxlot content to user via the 
+ co - branded page , except that boxlot shall deliver to theglobe those element of 
+ boxlot content reside on theglobe 's server in accordance with the term of 
+ exhibit a. unless otherwise direct by theglobe , the co - branded page shall 
+ include all of the content display on the boxlot site , and the boxlot content 
+ shall be update to keep the co - brand page in parity with the boxlot site . 
+ any nonconformance with the term of the frequency / quantity column of exhibit a 
+ shall permit theglobe to terminate immediately if the breach be not cure within 
+ 12 hour . 
+  2.7 navigation . boxlot shall not , in conjunction with the service , use any 
+ interstitial , pop - up window , other intermediate step or any other technology 
+ or content which act as a barrier to the transition of a user from theglobe 
+ site to the co - brand page , nor shall boxlot otherwise frame the co - brand 
+ page or use any other technology which interfere with or affect the page 
+ layout of such page . all co - branded page shall link back to theglobe site as 
+ specify by theglobe . 
+  2.8 user relation . boxlot shall be responsible for provide all 
+ customer support regard the service or the co - brand page , and theglobe may 
+ redirect to boxlot any associate customer support inquiry . boxlot shall have 
+ sole control over the user agreement that govern the service , and boxlot shall 
+ have the sole responsibility for deal with breach of such user agreement . 
+ however , if theglobe have an issue with the user agreement or boxlot 's 
+ enforcement of it , the party shall discuss such issue in good faith . 
+ furthermore , boxlot 's privacy policy shall make any disclosure , or obtain any 
+ user consent , reasonably request by theglobe that the party believe be 
+ necessary to make the disclosure about user back to theglobe require by this 
+ agreement . all user shall be treat at least as favorable in all respect 
+ ( include without limitation with respect to pricing , quality of service , and 
+ customer support responsiveness ) as boxlot treat user of the boxlot site . 
+  2.9 database synchronization . if request by theglobe and if boxlot 
+ capture relevant information , boxlot shall use reasonable effort to cooperate 
+ with theglobe to implement way for theglobe to capture user information to the 
+ extent that such information would change the relevant information in theglobe 's 
+ database . 
+  2.10 promotion . follow the launch date , the party shall conduct the 
+ promotion specify in exhibit a. 
+ 3 . advertising . 
+
+  3.1 ad sale . theglobe shall have sole control over all advertising and 
+ promotion inventory on the co - brand page . boxlot shall not introduce any 
+ advertising spot or third party brand in conjunction with the co - brand 
+ page or the service without theglobe 's approval . if , after theglobe ( or its 
+ designee ) use commercially reasonable effort to sell such inventory , there 
+ remain unsold inventory , then theglobe may , in its sole discretion , place house 
+ or barter ad in such inventory . 
+  3.2 ad serve . theglobe or its designee shall be solely responsible for 
+ serve all advertisement and promotion in connection with the co - branded 
+ page . theglobe shall provide boxlot with ad serve code , which boxlot shall 
+ implement at its own expense on all co - brand page . theglobe hereby grant to 
+ boxlot a nonexclusive license to use such code solely to permit theglobe or its 
+ designee to serve ad in connection with the co - brand page . boxlot shall 
+ notify theglobe at least 15 day prior to make any change that would affect 
+ serve ad on the co - brand page . 
+  3.3 boxlot banner . boxlot shall deliver to theglobe any boxlot banner 
+ which be to be run in accordance with this agreement . such banner shall 
+ comply with theglobe 's then - current technical standard . the term of any 
+ insertion order or similar document regard the boxlot banner be expressly 
+ reject , except to the extent that they specify the location , timing or 
+ duration of the display of the boxlot banner and such term be accept by 
+ theglobe . unless mutually agree otherwise , boxlot banner shall link to the 
+ co - brand page . theglobe may request that boxlot banner be co - brand with 
+ theglobe mark , in which case the party shall work together to develop a 
+ mutually acceptable implementation . theglobe may approve or reject any boxlot 
+ banner in its sole discretion . theglobe shall use commercially reasonable 
+ effort not to run banner on the co - brand page for the company enumerate 
+ on exhibit c. boxlot may update exhibit c from time to time during the term; 
+ however : ( a ) boxlot may not add any site or company to exhibit c which be not 
+ reasonably consider to be in the online auction business , and ( b ) if boxlot 
+ add any new site or company to exhibit c , theglobe shall be entitle to 
+ complete any contractual obligation pursuant to contract in place with such 
+ site or company at the time of addition . 
+ 4 . license and standard . 
+  4.1 content . boxlot hereby grant to theglobe a non - exclusive , worldwide 
+ license to use , reproduce , create derivative work of ( only as necessary to 
+ build page in a manner consistent with this agreement ) , publicly display , 
+ publicly perform and digitally perform boxlot banner , and those element of the 
+ boxlot content serve from theglobe 's server ( as denote in exhibit a ) , on 
+ theglobe site or otherwise as reasonably appropriate to advertise and promote 
+ the service and the co - brand page . subject to the approval process in 
+ section 2 , theglobe hereby grant to boxlot a non - exclusive , worldwide license 
+ to use , reproduce , create derivative work of ( only as necessary to build co- 
+ brand page ) , publicly display , publicly perform and digitally perform the 
+ page template on co - brand page . 
+  4.2 trademark . boxlot hereby grant to theglobe a non - exclusive license 
+ to use the boxlot mark ( include the domain name if applicable ) to advertise 
+ source : theglobe com inc , s-1 / a , 5/3/1999 
+ and promote the service . 
+
+ theglobe hereby grant to boxlot a non - exclusive license to use theglobe mark 
+ ( include the domain name if applicable ) on the co - brand page . 
+  4.3 trademark restriction . the mark owner may terminate the foregoing 
+ trademark license if , in its reasonable discretion , the licensee 's use of the 
+ mark tarnish , blur or dilute the quality associate with the mark or the 
+ associate goodwill and such problem be not cure within 10 day of notice of 
+ breach; alternatively , instead of terminate the license in total , the owner 
+ may specify that certain licensee us may not contain the mark . title to and 
+ ownership of the owner 's mark shall remain with the owner . the licensee shall 
+ use the mark exactly in the form provide and in conformance with any trademark 
+ usage policy . the licensee shall not take any action inconsistent with the 
+ owner 's ownership of the mark , and any benefit accrue from use of such mark 
+ shall automatically vest in the owner . the licensee shall not form any 
+ combination mark with the other party 's mark other than the domain name ( if 
+ applicable ) . if the domain name be deem a combination mark , neither party 
+ shall use the domain name for any purpose except as expressly provide herein or 
+ attempt to register the domain name , and the party will jointly cooperate on 
+ any enforcement action of infringement of the domain name . 
+  4.4 ownership . as between theglobe and boxlot : ( a ) theglobe and its 
+ supplier retain all right , title and interest in and to all intellectual 
+ property right embody in or associate with the page template , and ( b ) 
+ boxlot and its supplier retain all right , title and interest in and to all 
+ intellectual property right embody in or associate with the boxlot content , 
+ boxlot banner and boxlot mark . there be no imply license under this 
+ agreement , and any right not expressly grant to a licensee hereunder be 
+ reserve by the licensor or its supplier . neither party shall exceed the scope 
+ of the license grant hereunder . 
+  4.5 standard . boxlot shall not provide boxlot banner or boxlot content , 
+ and theglobe shall not provide to boxlot any page template , that : ( a ) infringe 
+ any third party 's intellectual property right or right of publicity or privacy; 
+ ( b ) violate any law or regulation; ( c ) be defamatory , obscene , harmful to 
+ minor or child pornographic; ( d ) contain any virus , trojan horse , worm , 
+ time bomb , cancelbot or other computer programming routine that be intend 
+ to damage , detrimentally interfere with , surreptitiously intercept or 
+ expropriate any system , datum or personal information; or ( e ) be materially 
+ false , inaccurate or misleading . 
+ 5 . user data . 
+  5.1 right / restriction . except as specify in this section , each party 
+ may freely use and disclose any information ( both individual and aggregate ) 
+ about user ( " user data " ) . neither party shall disclose any user datum in any 
+ manner that permit the user datum to be associate with the other party or 
+ permit the targeting of user on the basis of their status as user ( in 
+ theglobe 's case ) or theglobe user ( in boxlot 's case ) , nor shall a party use the 
+ user datum to target user on the basis of their status as user ( in theglobe 's 
+ case ) or theglobe user ( in boxlot 's case ) . however , either party may disclose 
+ user datum if it be aggregate ( in a non - associatable way ) with datum from 
+ multiple online property . each party shall use and disclose user datum only in 
+ accordance with the privacy policy under which it be collect . 
+
+  5.2 delivery to theglobe . boxlot shall deliver to theglobe all 
+ information about user who register with boxlot on the co - brand page that 
+ boxlot collect from its registration process . such information shall be 
+ deliver weekly in an electronic format specify by theglobe use a process 
+ reasonably specify by theglobe . 
+ 6 . payment term . 
+  6.1 payment . the party shall make the payment describe in exhibit a. 
+ overdue payment shall accrue interest , at the less of 1 1/2 per month or the 
+ maximum allowable interest under applicable law , from due date until pay , and 
+ the owe party shall pay the owe party 's cost of collection ( include 
+ reasonable attorney ' fee ) . 
+  6.2 taxis . all fee and payment state herein exclude , and the party 
+ make payment shall pay , any sale , use or other tax relate to the party ' 
+ performance of their obligation or exercise of their right under this 
+ agreement , exclusive of taxis base on the receive party 's net income . 
+  6.3 audit right . a party obligate to make payment hereunder shall keep 
+ for 3 year proper record and book of account relate to the computation of 
+ such payment . once every 12 month , the party receive payment or its 
+ designee may inspect such record to verify report . any such inspection will 
+ be conduct in a manner that do not unreasonably interfere with the inspect 
+ party 's business activity . the inspect party shall immediately make any 
+ overdue payment disclose by the audit plus applicable interest . such 
+ inspection shall be at the inspect party 's expense; however , if the audit 
+ reveal overdue payment in excess of 5 of the payment owe to date , the 
+ inspect party shall immediately pay the cost of such audit , and the inspecting 
+ party may conduct another audit during the same 12 month period . 
+ 7 . report . 
+  7.1 by theglobe . within 30 day follow the end of each month , theglobe 
+ shall provide boxlot with its standard report regard theglobe 's promotion 
+ hereunder and report on the computation of net revenue . 
+  7.2 by boxlot . in addition to any other report specify herein , boxlot 
+ shall provide to theglobe the following report : ( a ) daily usage report 
+ regard the co - branded page describe the number of page impression , number 
+ of user and such other information as boxlot generally provide to its other 
+ similar partner , ( b ) weekly demographic report regard the service 
+ contain summary information regard user demographic profile , and ( c ) if 
+ applicable , within 30 day follow the end of each month , report regard 
+ the computation of the fee it owe under section 6 . 
+  in addition to the foregoing , as soon as commercially reasonable ( but in no 
+ event later than 6 month follow the launch date ) , boxlot ( with assistance as 
+ source : theglobe com inc , s-1 / a , 5/3/1999 
+ necessary from theglobe ) shall deliver report to theglobe about individual 
+ register user on the co - brand page when the user bid on an item , 
+ purchase an item , list an item for sale and successfully sell an item . the 
+ report shall be break down into at least the follow category : the user 's 
+ unique userid 
+
+ number assign by theglobe , the action be log ( bid , purchase , list , 
+ sale ) , the date and time of the event , and the topic / category in which the event 
+ occur . such report shall be provide to theglobe on at least a monthly basis 
+ in an electronic format that be easily decode in an automate manner for import 
+ into theglobe 's statistic database , and the file shall be a delimited 
+ text file with each line correspond to an event and include the information 
+ outline above . 
+ 8 . term and termination . 
+  8.1 term . this agreement will become effective on the effective date and 
+ will continue in effect for 2 year follow the launch date . 
+  8.2 termination for failure to perform . by provide write notice , a 
+ party may immediately terminate this agreement : ( a ) if the other party 
+ materially breach this agreement and fail to cure that breach within 15 day 
+ after receive write notice of the breach , or ( b ) as provide in section 2.6 [ boxlot content ] 
+ or 12.7 [ force majeure ] or exhibit b. in addition , by provide write notice , theglobe may 
+ immediately terminate this agreement , or at its option immediately suspend its 
+ promotion and other effort hereunder , in the case of boxlot 's breach of section 
+ 12.1 [ compliance with law ] . 
+  8.3 termination for change of control . by provide write notice , 
+ theglobe may terminate this agreement in its sole discretion if one of the 
+ follow company ( or their subsidiary ) do an " ownership change event " : 
+ lycos , yahoo ( include geocitie , which shall be include even if their 
+ propose merger do not occur ) , xoom , fortune city , excite , go network 
+ ( include disney and infoseek ) , snap ! ( include nbc ) and aol . an " ownership 
+ change event " mean : ( x ) the acquisition of 50 or more of boxlot 's equity or 
+ voting interests; ( y ) a merger or consolidation of boxlot; or ( z ) the sale , 
+ exchange or transfer of all or substantially all of boxlot 's asset relate to 
+ the service . 
+  8.4 termination for change . by provide write notice , theglobe may 
+ terminate this agreement in its sole discretion if : ( a ) boxlot 's business model 
+ change such that the service be no long boxlot 's primary line of business , or 
+ ( b ) at the one year anniversary of the launch date , the service be significantly 
+ inferior to the comparable service be offer by the market leader in the 
+ person to person auction space . 
+  8.5 termination for failure to grow . by provide write notice , boxlot 
+ may immediately terminate this agreement if theglobe 's register user base have 
+ not increase by user by the 1 year anniversary of the effective date . 
+  8.6 effect of termination . upon expiration or termination , all license 
+ grant hereunder shall terminate unless such license be expressly state as 
+ survive . boxlot shall promptly remove all theglobe mark and page template 
+ from its server , and theglobe shall promptly remove all boxlot mark , boxlot 
+ banner and boxlot content from its server . section 1 , 4.4 [ ownership ] , 5.1 [ right / restriction ] , 6.2 [ taxis ] , 6.3 [ audit right ] , 
+ 8.6 [ effect of termination ] , 9 , 10 , 11 and 12.2 [ govern law ] to 12.9 [ entire agreement; waiver ] , and any obligation to pay any owe but unpaid 
+ amount , shall survive any expiration or termination . 
+
+  in addition , boxlot acknowledge that the placement fee set forth in 
+ exhibit a be intend to be in year 1 and in year 2 , even though 
+ theglobe have agree to extend credit term to boxlot by allow boxlot to pay 
+ over time . thus , in the event that this agreement terminate under section 8.2 [ termination for failure to perform ] 
+ due to boxlot 's failure to perform ( exclude the cross - reference to section 
+ 12.7 [ force majeure ] ) prior to the end of the applicable year , boxlot shall immediately pay to 
+ theglobe the amount necessary to pay the total year 's placement fee for that 
+ year . boxlot waif any right to assert that the foregoing fee be a liquidate 
+ damage or a penalty . 
+ 9 . no warranty . each party provide all material and service to the other 
+ party " as be . " each party disclaim all warranty and condition , express , 
+ imply or statutory , include without limitation the imply warranty of 
+ title , non - infringement , merchantability , and fitness for a particular purpose . 
+ each party acknowledge that it have not enter into this agreement in reliance 
+ upon any warranty or representation except those specifically set forth herein . 
+ unless an approval process be specify herein , all deliverable provide by one 
+ party to the other shall be deem accept ( for purpose of the ucc ) when 
+ deliver . 
+ 10 . indemnity . each party ( the " indemnifying party " ) shall indemnify the other 
+ party ( the " indemnified party " ) against any and all claim , loss , cost and 
+ expense , include reasonable attorney ' fee , which the indemnified party may 
+ incur as a result of claim in any form by third party arise from : ( x ) the 
+ indemnify party 's act , omission or misrepresentation to the extent that 
+ the indemnify party be deem an agent of the indemnified party , or ( y ) the 
+ indemnify party 's breach of its privacy policy . in addition , theglobe shall 
+ indemnify boxlot against any and all claim , loss , cost and expense , 
+ include reasonable attorney ' fee , which boxlot may incur as a result of 
+ claim in any form by third party arise from the page template or theglobe 
+ mark . in addition , boxlot shall indemnify theglobe against any and all claim , 
+ loss , cost and expense , include reasonable attorney ' fee , which theglobe 
+ may incur as a result of claim in any form by third party arise from boxlot 
+ banner , boxlot content , boxlot mark , the service ( exclude the page template 
+ or theglobe mark ) or boxlot 's breach of section 12.1 [ compliance with law ] . the foregoing 
+ obligation be condition on the indemnified party : ( i ) give the 
+ indemnify party notice of the relevant claim , ( ii ) cooperate with the 
+ indemnifying party , at the indemnify party 's expense , in the defense of such 
+ claim , and ( iii ) give the indemnify party the right to control the defense 
+ and settlement of any such claim , except that the indemnify party shall not 
+ enter into any settlement that affect the indemnified party 's right or 
+ interest without the indemnified party 's prior write approval . the 
+ indemnify party shall have the right to participate in the defense at its 
+ expense . 
+ 11 . liability limit . neither party shall be liable for lost profit or 
+ special , incidental or consequential damage ( however arise , include 
+ source : theglobe com inc , s-1 / a , 5/3/1999 
+ negligence ) arise out of or in connection with this agreement , even if the 
+ party be aware of the possibility of such damage . 
+ except in the event of a claim under section 10 or failure to pay under section 
+ 6 , in no event shall either party be liable to the 
+
+ other party in an amount great than the amount boxlot actually pay to 
+ theglobe hereunder . 
+ 12 . general . 
+  12.1 compliance with law . at its own expense , boxlot shall comply with 
+ all applicable law and regulation regard provide and operate the 
+ service . without limit the foregoing , boxlot shall ( a ) obtain all 
+ governmental approval , permit and license , and make all governmental filing 
+ and registration , necessary for the marketing and performance of the service in 
+ every united states jurisdiction , ( b ) ensure that theglobe be not require to 
+ obtain any governmental approval , permit or license as a result of this 
+ agreement , theglobe 's performance hereunder or any payment make to theglobe 
+ hereunder , and ( c ) promptly resolve any assertion that the service be illegal 
+ or violate a protect third party interest . 
+  12.2 govern law . this agreement will be govern and construe in 
+ accordance with the law of the state of new york without give effect to 
+ conflict of law principle . both party submit to personal jurisdiction in new 
+ york and far agree that any cause of action arise under this agreement 
+ shall be bring in a court in new york city , ny . 
+  12.3 publicity . prior to the release of any press release or other 
+ similar promotional material relate to this agreement , the release party 
+ shall submit a write request for approval to the other party with a copy of 
+ the material to be release , which request shall be make no less than 3 
+ business day prior to the request release date . a party shall not 
+ unreasonably withhold or delay the granting of its approval of such material . 
+ the party shall issue the first press release jointly . 
+  12.4 independent contractor . the party be independent contractor , and 
+ no agency , partnership , franchise , joint venture or employment relationship be 
+ intend or create by this agreement . neither party shall make any warranty 
+ or representation on behalf of the other party . 
+  12.5 assignment . neither party may assign its right or delegate its 
+ duty hereunder ( except to an affiliated company , or to a successor in interest 
+ in the event of a merger , sale of asset of the business to which this agreement 
+ be relate , or consolidation ) without the other party 's prior write consent , 
+ and any purport attempt to do so be null and void . 
+  12.6 severability; heading . if any provision herein be hold to be 
+ invalid or unenforceable for any reason , the remain provision will continue 
+ in full force without be impair or invalidate in any way . the party 
+ agree to replace any invalid provision with a valid provision that most closely 
+ approximate the intent and economic effect of the invalid provision . heading 
+ be for reference purpose only and in no way define , limit , construe or 
+ describe the scope or extent of such section . 
+  12.7 force majeure . except as otherwise provide , if performance 
+ hereunder ( other than payment ) be interfere with by any condition beyond a 
+ party 's reasonable control , the affected party , upon give prompt notice to the 
+ other party , shall be excuse from such performance to 
+
+ the extent of such condition . however , if a force majeure detrimentally affect 
+ a party 's performance of a material covenant hereunder for 14 day or more , the 
+ other party can terminate this agreement . each party acknowledge that website 
+ operation may be affect by numerous factor outside of a party 's control . in 
+ the case of boxlot 's performance , a boxlot force majeure include theglobe 's 
+ failure to perform its obligation describe in this agreement or an outage that 
+ affect the entire internet in the united states; however , in no event shall a 
+ failure of any boxlot supplier or vendor be deem a boxlot force majeure . 
+  12.8 notice . any notice under this agreement will be in writing and 
+ deliver by personal delivery , overnight courier , confirm facsimile , 
+ confirm email , or certify or register mail , return receipt request , and 
+ will be deem give upon personal delivery , 1 day after deposit with an 
+ overnight courier , 5 day after deposit in the mail , or upon confirmation of 
+ receipt of facsimile or email . notice will be send to a party at its address 
+ set forth above or such other address as that party may specify in writing 
+ pursuant to this section . 
+  12.9 entire agreement; waiver . this agreement set forth the entire 
+ understanding and agreement of the party , and supersede any and all oral or 
+ write agreement or understanding between the party , as to the subject 
+ matter of the agreement . this agreement may be change only by a writing sign 
+ by both party . the waiver of a breach of any provision of this agreement will 
+ not operate or be interpret as a waiver of any other or subsequent breach . 
+  12.10 equity stake . boxlot shall grant to theglobe , pursuant to industry- 
+ standard term negotiate between the party in good faith , immediately vest 
+ option to purchase share of common stock equal to up to 4 of boxlot 's fully 
+ diluted capital stock ( in accordance with the chart below ) . theglobe shall be 
+ restrict from exercise such option until the first anniversary of the 
+ effective date , and such option shall have a five - year term . each such option 
+ shall have an exercise price equal to the less of ( 1 ) the price at which 
+ boxlot 's common stock be sell to the public in an initial public offering or ( 2 ) 
+ 6 per share; each of the foregoing as may be adjust for any stock split , 
+ combination or re - organization affect boxlot 's capital stock . boxlot shall 
+ grant to theglobe registration right for such option and any share of common 
+ stock issue or issuable upon the exercise of such option ( include without 
+ limitation , two demand registration right and unlimited piggyback registration 
+ right ) on form s-1 , form s-3 or such other form as may be applicable pursuant 
+ to the security act of 1933 as amend . 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ source : theglobe com inc , s-1 / a , 5/3/1999 
+  number of aggregate unique user , as measure by aggregate percent of boxlot 's equity subject to the 
+  unique ip address , in a month who visit a page option upon achieve such level once 
+  under the domain name 
+ - ------------------------------------------------------------------------------------------------------------------ 
+
+ 500,000 1 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 1,000,000 2 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 1,500,000 3 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 1,750,000 3.5 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 2,000,000 4 
+ - ------------------------------------------------------------------------------------------------------------------ 
+
+ theglobe.com , inc . : the boxlot company : 
+ by : /s/ dean daniel by : /s/ frederick cary 
+ name : dean daniels name : frederick cary 
+ title : coo title : ceo 
+
+  exhibit a 
+  business term 
+
+ description of the service : person - to - person auction 
+ description of boxlot content : 
+
+ domain name for the co - brand page : auctions.theglobe.com 
+ theglobe 's promotion . in position determine by theglobe in its sole 
+ discretion , theglobe shall : 
+  . list " classified / auction " in the tool category of the left hand nav bar 
+  . list auction in relevant theme area 
+  . list auction in myglobe [ note : this will be do when commercially 
+  reasonable to do so some time after the launch date ] 
+  . list auction in shop.theglobe.com 
+ theglobe may provide substitute placement if theglobe change or reorganize its 
+ site or navigation / directory structure . theglobe shall provide a minimum of 
+ impression per month of promotion for auction on the co - brand page 
+ ( include without limitation any of the foregoing ) . theglobe 's sole and 
+ exclusive obligation for fail to deliver the minimum number of impression 
+ shall be to continue perform the promotion until it deliver the total number 
+ of required impression . 
+ boxlot 's promotion . theglobe may place up to 100 listing a month on the 
+ boxlot site ( and all co - branded version thereof ) promote product be sell 
+ by theglobe or its affiliate without have to pay any listing fee , closing 
+ value fee , transaction fee or other fee . 
+ theglobe pre - launch deliverable : in addition to develop the page template , 
+ theglobe shall provide to boxlot a medium and promotional plan and a plan for 
+ do the production / design service relate to the service 's integration into 
+ theglobe site . 
+ payment 
+  . 
+  . placement fee . the follow schedule of payment apply : 
+
+ - ------------------------------------------------------------------------------------------------------------------ 
+  time of payment amount of payment 
+ - ------------------------------------------------------------------------------------------------------------------ 
+
+ execution 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 1st monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 2nd monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+
+ 3rd monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 4th monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 5th monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 6th monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 7th monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 8th monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 9th monthly anniversary of launch date 
+ source : theglobe com inc , s-1 / a , 5/3/1999 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 10th monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ 11th monthly anniversary of launch date 
+ - ------------------------------------------------------------------------------------------------------------------ 
+ each monthly anniversary thereafter ( exclude the 
+ final monthly anniversary ( e.g. , the last day of the 
+ contract ) ) 
+ - ------------------------------------------------------------------------------------------------------------------ 
+  . ad split . theglobe shall pay boxlot of net revenue . 
+  . transactional revenue . boxlot shall retain of the transaction revenue 
+  it generate from operation of the service . 
+
+  exhibit b 
+  performance standard 
+ a. service availability . the service generally shall be publicly available to 
+ user a minimum of 95 of the time during any 7 day period and 98 of the time 
+ during any 30 day period , exclude " maintenance . " maintenance be define as 
+ schedule service outage for service maintenance or upgrade of which theglobe 
+ be notify at least 48 hour in advance , so long as such outage be schedule 
+ for low - usage time period and do not exceed a total of 20 hour in any 30 day 
+ period . 
+ b. response time . the mean response time for server response to access the 
+ service shall not exceed more than 6 second during any 1 hour period . 
+ c. bandwidth . throughout the term , boxlot shall have an agreement in place 
+ with its internet connectivity provider which require such provider to 
+ automatically increase bandwidth capacity if such capacity exceed 25 
+ utilization . 
+ d. security . boxlot shall prevent unauthorized access to restricted area of 
+ its server and any database or other sensitive material generate from or use 
+ in conjunction with the service . in addition , boxlot shall immediately notify 
+ theglobe of any know security breach or hole in the service or co - branded 
+ page . 
+ e. error correction . boxlot shall resolve any error with the service 
+ ( include without limitation any javascript or activex control use in 
+ connection with such page ) that cause such service not to be able to perform 
+ one or more major function within 24 hour of the early of its discovery of 
+ the error or theglobe 's notice of the error . boxlot shall resolve all other 
+ error with such service within 7 day of the early of its discovery of the 
+ error or theglobe 's notice of the error . 
+ f. browser compatibility . the service shall initially be compatible with 
+ netscape navigator 3.x and 4.x and microsoft internet explorer 3.x and 4.x . 
+ theglobe may unilaterally add additional browser or version that the service 
+ must be compatible with , effective after 30 day advance write notice , if 
+ theglobe certifie that such additional browser or version be use by more 
+ than 5 of its user . user shall not require any plug - in in order to access 
+ any service functionality . 
+ g. data authentication . boxlot shall use commercially reasonable effort , no 
+ less than industry - standard , to authenticate the origin of all information 
+ provide by theglobe as having come from theglobe . 
+ h. customer support . boxlot shall auto - respond to all customer and technical 
+ support inquiry within 10 minute of the receipt of inquiry . boxlot shall 
+ manually respond to all such inquiry within 24 hour . boxlot shall resolve 
+ all such inquiry within 72 hour or shall notify theglobe that it can not do 
+ so , in which case theglobe at its sole discretion may intervene to assist in 
+ resolve the inquiry . 
+ i. remedy . in addition to other applicable remedy , theglobe may 
+ immediately terminate this agreement without a further cure period if : ( a ) any 
+ breach of this exhibit last 2 consecutive specify time period , or if no time 
+ period for measurement be specify , 10 day , or ( b ) the same provision be 
+ breach on two separate occasion ( even if the first be cure ) . 
+
+  exhibit c 
+  boxlot competitive set 
+ aciauction 
+ auction 123 
+ auction net online 
+ auction network 
+ auction online 
+ auction sale online 
+ auction universe 
+ auction usa 
+ auction warehouse 
+ auction world 
+ auctionaddict 
+ auctionfloor 
+ auctiongate 
+ auctioninc . 
+ auctionline 
+ auctionpc 
+ auctionport - interactive online auction 
+ auctionsamerica 
+ auctionware technology 
+ auctionwork 
+ auctionx 
+ autograph ... and more ! 
+ b2bauction 
+ bargainsusa 
+ bid on collectible 
+ source : theglobe com inc , s-1 / a , 5/3/1999 
+ bid online 
+ bid4it 
+ bidaway web auction 
+ biddernet 
+ bidder paradise 
+ biddersuite 
+ bidnask.com 
+ bidnow 
+ boekhout 's collectible mall 
+ buck auction 
+ butterfield & butterfield 
+ central missouri internet auction 
+ christie 's 
+ cityauction 
+ classified live 
+ cointrade online 
+ commpublic online 
+ consultant research institute 
+ csl associates online auction for pearl 
+ dan 's online auction 
+ dealdeal 
+ deep discount network 
+ digitalauction 
+ ebay 
+
+ electronic auction 
+ encore e - z auction 
+ fairauction 
+ finalbid internet auction service 
+ first auction 
+ focalpoint online photo auction 
+ foryourneed 
+ fun time auction 
+ g.b . tate & son online auction 
+ gem auction 
+ gift and more online auction 
+ glenn johnson coin 
+ going going sell 
+ go once 
+ go , go ... sell ! 
+ golden age antique and collectible 
+ golf auction 
+ golfclubexchange 
+ golfweb golfauction 
+ haggle online 
+ hobby market online 
+ human digital auction 
+ infinite auction 
+ insight corp auction 
+ interactive auction online 
+ interauction service 
+ intermodal equipment exchange 
+ international electronic auction 
+ internet auction house 
+ internet liquidator int 
+ iwa auction house 
+ john morelli auctioneer 
+ keybuy auction house 
+ klik - klok dutch auction 
+ labx 
+ lightningauction 
+ magnolia auction 
+ metric equipment sale 
+ ml coin 
+ motherlode gold auction 
+ nab - it 
+ national auction property , inc . 
+ nationwide dealer exchange 
+ netauction 
+ netauction 
+ netmarket 
+ nettworth 
+ nonprofitauction 
+ northerbys online auction 
+ numisma online coin auction 
+ numismatist online coin auction 
+ old auction barn 
+ onewebplace 
+ online auction service 
+
+ online exchange 
+ onsale interactive marketplace 
+ paulus swaen internet auction 
+ pc buyer 
+ philatelist online 
+ prizefight 
+ proauction 
+ racerx 
+ remington york online auction 
+ rotman collectible 
+ sandafayre 
+ sandy 's super auction 
+ save the earth foundation artrock auction 
+ scala - mathis auction , inc . 
+ scc exchange 
+ southeast auction company 
+ sotheby 's 
+ sportsauctionsusa 
+ steal - a - record auction 
+ super auction 
+ superior coin & stamp auction gallery 
+ surplusauction 
+ teletrade 
+ the auction block 
+ the auction store 
+ source : theglobe com inc , s-1 / a , 5/3/1999 
+ the sell and trade internet marketplace 
+ time machine .... silent watch auction 
+ u - auction - it 
+ ubid 
+ universe auction 
+ university of michigan auctionbot 
+ up4sale 
+ usauction 
+ uscent 
+ vintageusa direct auction 
+ webauction 
+ wild auction 
+ world wide auction 
+ yahoo auction 
+ zauction 
+ 1st sporting equipment auction 
+ 3wauction 
+
+  exhibit d 
+  automatic partner registration 
+
+ to maintain a consistent user experience , any theglobe member should not need to 
+ separately log in to the service or the co - brand page . the only login or 
+ registration that should be require to access the service or the co - branded 
+ page be theglobe site 's login or registration . because boxlot host the 
+ service and the co - brand page , theglobe will pass to boxlot information about 
+ each user access the service or the co - brand page as describe below : 
+  . account will be create for each user via a one - time " welcome " page 
+  ( host by theglobe ) when the user try to access the portion of the 
+  service require such registration for the first time . 
+  . the " welcome " page will include registration field for any information 
+  about the user need to use the service but not currently in theglobe 's 
+  database . 
+  . the " welcome " page will include a " privacy policy " inform the user that 
+  their datum be be pass to a third party ( boxlot ) in order to use the 
+  service . 
+  . any additional require user information be collect and enter into 
+  theglobe 's database . then , the require user information be send to boxlot 
+  all at once to create the new account . theglobe will include the user 's 
+  " username " and " userid " in the datum pass to boxlot . 
+ additional note on account creation : 
+  . the user will only see the " welcome " page until they consent to the privacy 
+  policy and enter any require information . this page will not appear after 
+  the user complete the initial account creation process . 
+  . account information store on boxlot 's server in connection to the service 
+  will need to be keep in parity with theglobe . to do so , the party shall 
+  work together to implement a mechanism for update information on boxlot 's 
+  server when user information change on theglobe site . 
+  . the technology use to pass the datum to boxlot for account creation and 
+  ongoing account update will be determine jointly by boxlot and theglobe . 
+  . the userid theglobe pass to boxlot during account creation will be 
+  store by boxlot in association with each user . this userid be necessary 
+  to link individual user reporting and individual account update between 
+  boxlot and theglobe on an ongoing basis . 
+
+ source : theglobe com inc , s-1 / a , 5/3/1999

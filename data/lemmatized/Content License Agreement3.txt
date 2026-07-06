@@ -1,0 +1,618 @@
+exhibit   10.26 
+
+ execution   version 
+
+ confidential 
+
+ domain   name   and   content   license   agreement 
+
+ this   domain   name   and   content   license   agreement   ( the   " agreement " )   be   make   and   enter   into ,   by   and   between   beijing   sina 
+ internet   information   service   co. ,   ltd .   ( 北京新浪互联信息服务有限公司 ) ,   a   limit   liability   company   organize   under   the   law   of   the   people ’s 
+ republic   of   china   ( hereinafter   " licensor " )   and   beijing   yisheng   leju   information   service   co. ,   ltd . ,   a   limit   liability   company   organize   under   the 
+ law   of   the   people ’s   republic   of   china   ( " licensee "   and   together   with   licensor ,   the   " party "   and   each   a   " party " )   and   be   make   effective   as   of   the 
+ effective   date   ( define   below ) . 
+
+ recital 
+
+ whereas ,   sina   corporation ,   a   company   organize   under   the   law   of   the   cayman   island   ( " sina " ) ,   and   cric   holding 
+ limit ,   a   company   organize   under   the   law   of   the   cayman   island   ( " cric " ) ,   enter   into   that   certain   share   purchase   agreement   date   july   23 , 
+ 2009   ( the   " share   purchase   agreement " ) ,   pursuant   to   which   sina   subscribe   from   cric   the   subscription   share   ( as   define   in   the   share   purchase 
+ agreement); 
+
+ whereas ,   licensor   be   the   registrant   of   certain   domain   name   as   more   particularly   describe   below   that   be   relate   to   the 
+ business   which   it   desire   to   license   to   licensee   and   licensee   desire   to   obtain   a   license   from   licensor   to   such   domain   name   to   use   in   connection 
+ with   its   operation   of   the   business   on   the   term   and   condition   set   forth   herein;   and 
+
+ whereas ,   licensor   and   shanghai   sina   leju   information   technology   co.   ltd .   ( " sina   leju " )   enter   into   that   certain   domain 
+ name   license   agreement   date   may   8 ,   2008   ( the   " original   agreement " )   and   ( i )   licensor   and   sina   leju   desire   to   terminate   the   original   agreement 
+ pursuant   to   the   mutual   termination   agreement   attach   hereto   as   exhibit   b   and   ( ii )   licensee   and   licensor   desire   to   enter   into   this   agreement ,   on 
+ or   prior   to   the   consummation   of   the   transaction   contemplate   by   the   share   purchase   agreement . 
+
+ now ,   therefore ,   for   and   in   consideration   of   the   mutual   covenant   and   agreement   of   the   party   and   the   faithful   performance 
+ thereof ,   and   other   good   and   valuable   consideration ,   the   receipt   and   sufficiency   of   which   be   hereby   acknowledge ,   the   party   hereto   agree   as 
+ follow : 
+
+ article   I 
+ definition 
+
+ as   use   herein ,   the   follow   term   shall   have   the   meaning   ascribe   to   they   below . 
+
+ " action "   have   the   meaning   set   forth   in   section   8.1 . 
+
+ " affiliate "   mean ,   when   use   with   respect   to   any   specify   person ,   a   person   that   directly   or   indirectly   through   one   or   more 
+ intermediary ,   control ,   be   control   by ,   or   be   under   common   control   with ,   such   specify   person .   for   the   purpose   of   this   definition ,   " control " 
+ ( include   the   term   " control   by "   and   " under   common   control   with " )   with   respect   to   the 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ relationship   between   or   among   two   or   more   person ,   mean   the   possession ,   directly   or   indirectly   or   as   trustee ,   personal   representative   or   executor , 
+ of   the   power   to   direct   or   cause   the   direction   of   the   affair   or   management   of   a   person ,   whether   through   the   ownership   of   vote   security ,   as 
+ trustee ,   personal   representative   or   executor ,   by   contract ,   credit   arrangement   or   otherwise . 
+
+ " agency   agreement "   mean   that   certain   advertising   sale   agency   agreement   by   and   between   sina   corporation   and   china 
+ online   housing   technology   corporation ,   date   as   of   the   date   hereof . 
+
+ " business "   mean   an   online   real   estate   medium   platform   in   the   prc   that   ( i )   provide   information   and   update   relate   to   real   estate , 
+ home   furnish   and   construction   in   the   prc   and   provide   real   estate ,   home   furnish   and   construction   advertising   service ,   and   ( ii )   operate   a 
+ business - to - business   and   business - to - consumer   internet   platform   target   participant   in   the   prc   real   estate   industry ,   in   each   case ,   as   currently 
+ conduct   or   contemplate   to   be   conduct   on   the   website   own   or   operate   by   licensee   or   any   of   licensee ’s   affiliate   in   the   prc . 
+
+ " business   day "   mean   any   day   that   be   not   a   saturday ,   a   sunday   or   other   day   on   which   bank   be   require   or   authorize   by   law 
+ to   be   close   in   beijing . 
+
+ " change   of   control "   mean   ( i )   the   consummation   of   any   acquisition   or   purchase ,   directly   or   indirectly ,   by   any   person   or   related 
+ group   of   person ,   that   result   in   a   competitor   own   more   ordinary   share   in   cric   than   e - house   and   sina ,   and   in   each   case ,   their   respective 
+ control   affiliate ,   own   in   the   aggregate   or   ( ii )   an   event   pursuant   to   which   a   competitor   acquire   the   right   to   nominate   a   member   to   the   board   of 
+ director   of   cric . 
+
+ " claimant "   have   the   meaning   set   forth   in   section   10.12 . 
+
+ " commission "   have   the   meaning   set   forth   in   section   10.12 . 
+
+ " competitor "   mean   any   person   whose   business   include   an   online   portal . 
+
+ " confidential   information "   have   the   meaning   set   forth   in   section   9.1 . 
+
+ " content "   mean   text ,   graphic ,   information   and   datum   and   other   content ,   whether   supply   by   licensee ,   licensor ,   end   user   or 
+ third   party   provider . 
+
+ " dispute "   have   the   meaning   set   forth   in   section   10.12 . 
+
+ " effective   date "   mean   the   closing   date   as   set   forth   in   the   share   purchase   agreement . 
+
+ " e - house   license   datum   and   information "   mean   the   datum   and   information   license   to   cric   holding   limit   and   its 
+ subsidiary ,   for   the   operation   of   the   cric   system   pursuant   to   the   master   transaction   agreement . 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ " governmental   authority "   mean   any   federal ,   national ,   supranational ,   state ,   provincial ,   local   or   other   government ,   governmental , 
+ regulatory   or   administrative   authority ,   agency   or   commission   or   any   court ,   tribunal ,   or   judicial   or   arbitral   body . 
+
+ " initial   term "   have   the   meaning   set   forth   in   section   6.1 . 
+
+ " law "   mean   any   federal ,   national ,   supranational ,   state ,   provincial ,   local   or   similar   statute ,   law   or   ordinance ,   regulation ,   rule , 
+ code ,   order ,   requirement   or   rule   of   law   ( include   common   law ) . 
+
+ " license   content "   shall   mean   all   content   ( i )   whose   copyright   be   own   by   licensor;   or   ( ii )   own   by   a   third   party   provider   but 
+ be   sublicensable   by   licensor   to   licensee   without   require   the   payment   of   any   additional   fee   to   any   third   party   and   without   violate   the   term   of 
+ any   agreement   with   such   third   party   provider ,   together   with   all   update   to   and   substitution   therefor   as   may   be   implement   by   licensor   or   such 
+ third   party   provider . 
+
+ " license   domain   name "   mean   the   domain   name   list   on   exhibit   a   attach   hereto . 
+
+ " licensee   party "   have   the   meaning   set   forth   in   section   8.1 . 
+
+ " licensor   party "   have   the   meaning   set   forth   in   section   8.2 . 
+
+ " master   transaction   agreement "   mean   the   master   transaction   agreement   enter   into   by   and   between   e - house   ( china ) 
+ holding   limit   and   cric   holding   limited ,   date   as   of   july   27 ,   2009 . 
+
+ " operate   content "   have   the   meaning   set   forth   in   section   2.2 . 
+
+ " person "   mean   any   individual ,   partnership ,   firm ,   corporation ,   limit   liability   company ,   association ,   trust ,   unincorporated 
+ organization   or   other   entity ,   as   well   as   any   syndicate   or   group   that   would   be   deem   to   be   a   person   under   section   13(d)(3 )   of   the   security 
+ exchange   act   of   1934 ,   as   amend . 
+
+ " prc "   mean   the   people ’s   republic   of   china ,   exclude   hong   kong ,   macau   and   taiwan . 
+
+ " recipient "   have   the   meaning   set   forth   in   section   9.1 . 
+
+ " respondent "   have   the   meaning   set   forth   in   section   10.12 . 
+
+ " rule "   have   the   meaning   set   forth   in   section   10.12 . 
+
+ " software   license   agreement "   mean   that   certain   software   license   and   support   service   agreement   by   and   between   beijing 
+ sina   internet   information   service   co. ,   ltd .   and   sina   leju   date   as   of   [   ] . 
+
+ " term "   have   the   meaning   set   forth   in   section   6.1 . 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ " trademark   license   agreement "   mean   that   certain   trademark   license   agreement   by   and   between   beijing   sina   internet 
+ information   service   co. ,   ltd .   and   licensee   date   as   of   [   ] . 
+
+ article   ii 
+ grant   of   license 
+
+ 2.1 .   grant   of   license . 
+
+ ( a )   subject   to   the   term   and   condition   of   this   agreement ,   licensor   hereby   grant   to   licensee ,   and   licensee   hereby   accept   from 
+ licensor ,   an   exclusive ,   non - transferable   ( except   as   set   forth   in   section   10.7 )   and   non - sublicensable   ( except   as   provide   in   section   2.1(c ) )   license   to 
+ use   the   license   domain   name   in   connection   with   the   business   during   the   term .   except   as   provide   in   section   2.3 ,   licensee ’s   use   of   the 
+ license   domain   name   under   the   term   of   this   agreement   shall   be   free   of   any   fee . 
+
+ ( b )   subject   to   the   term   and   condition   of   this   agreement ,   licensor   hereby   grant   to   licensee ,   and   licensee   hereby   accept   from 
+ licensor ,   an   exclusive ,   non - transferable   ( except   as   set   forth   in   section   10.7 )   and   non - sublicensable   ( except   as   provide   in   section   2.1(c ) )   license   to 
+ use   the   license   content   in   connection   with   website   associate   with   the   license   domain   name   until   the   early   of   ( i )   termination   or   expiration   of 
+ this   agreement ,   or   ( ii )   termination   or   expiration   of   the   agency   agreement ,   provide ,   however ,   that   in   the   event   the   agency   agreement   be   amend 
+ or   restate ,   such   amendment   or   restatement   shall   not   be   deem   a   termination   or   expiration   of   the   agency   agreement .   except   as   provide   in 
+ section   2.3 ,   licensee ’s   use   of   the   license   content   under   the   term   of   this   agreement   shall   be   free   of   any   fee . 
+
+ ( c )   notwithstanding   anything   in   this   agreement   to   the   contrary ,   licensee   have   no   right   to   sublicense   any   right   grant   hereunder 
+ to   any   third   party ,   or   otherwise   permit   any   third   party   to   use   any   license   domain   name   or   license   content;   provide ,   however ,   that   any   right 
+ grant   to   licensee   hereunder   shall   be   sublicensable ,   without   the   prior   write   consent   of   licensor ,   to   sina   leju   and   licensee ’s   affiliate   that   be 
+ control   by   sina   leju   solely   for   the   purpose   of   operate   the   business   during   the   term .   all   right   in   and   to   the   license   domain   name   and 
+ license   content   not   expressly   grant   herein   be   hereby   reserve   exclusively   by   licensor .   licensee   shall   be   responsible   for   the   compliance   of   the 
+ term   and   condition   of   this   agreement   by   all   of   its   sublicensee .   without   limit   the   foregoing ,   in   the   event   any   sublicensee   undertake   any 
+ action   ( or   inaction )   that   would   be   deem   a   breach   of   this   agreement   have   licensee   take   such   action   ( or   inaction ) ,   such   action   ( or   inaction )   shall 
+ be   deem   a   breach   by   licensee   under   this   agreement . 
+
+ 2.2 .   other   content .   licensee   may   desire   to   use   content   other   than   license   content ,   from   time   to   time ,   in   connection   with   the 
+ website   associate   with   the   license   domain   name   ( " operate   content " ) .   licensee   may   independently   enter   into   an   agreement   with   the   owner 
+ of   the   operate   content   to   secure   licensee ’s   right   to   use   such   operate   content ,   and   shall   be   solely   responsible   for   the   cost   and   expense 
+ associate   with   procure   such   content .   for   the   avoidance   of   doubt ,   licensee   shall   be   permit   to   upload   such   operate   content   directly   onto 
+ licensee ’s   website   or   through   use   of   the   licensor ’s   software   pursuant   to   the   software 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ license   agreement .   if   licensee   request   licensor   to   enter   into   such   an   agreement   on   behalf   of   licensee   and   to   provide   the   operate   content   to 
+ licensee ,   licensor   and   licensee   shall   discuss   such   request   in   good   faith;   provide ,   however ,   if   licensor   agree   to   procure   and   provide   such 
+ operate   content ,   licensee   shall   reimburse   licensor   for   all   reasonable ,   incremental   cost   that   licensor   incur   which   be   attributable   to   licensee ’s 
+ request .   for   example ,   if   licensor ,   prior   to   the   effective   date ,   employ   ten   ( 10 )   full   time   employee   dedicate   to   obtain   content   and ,   as   a   result   of 
+ licensee ’s   request   for   operate   content   pursuant   to   this   section   2.2 ,   must   hire   an   additional   full   time   employee   to   handle   licensee ’s   request , 
+ licensee   shall   reimburse   licensor   for   the   cost   relate   to   such   full   time   employee ,   provide   that ,   if   such   full   time   employee   also   engage   in   work   on 
+ behalf   of   licensor   or   its   affiliate ,   licensee   shall   reimburse   licensor   on   a   pro   rata   basis   only   for   the   time   spend   by   such   full   time   employee   in 
+ handle   licensee ’s   request .   licensee   far   acknowledge   that   licensor   have   no   obligation   to   fulfill   any   request   by   licensee   to   procure 
+ operating   content   under   this   section   2.2 .   unless   otherwise   agree   to   by   the   party ,   any   operate   content   obtain   on   licensee ’s   behalf   by 
+ licensor   shall   be   for   licensee ’s   use   only   and   shall   not   be   use   by   licensor   or   its   affiliate   or   provide   or   make   available   to   any   third   party   by 
+ licensor . 
+
+ 2.3 .   fee .   in   the   event   e - house   research   and   training   institute   becomes   entitle   to   charge ,   invoice ,   or   otherwise   receive   from , 
+ licensee   any   royalty ,   fee   or   other   remuneration   for   use   of   the   e - house   license   datum   and   information   pursuant   to   amendment   to   the   master 
+ transaction   agreement   or   through   other   mean ,   licensor   and   licensee   shall   use   good   faith   effort   to   amend   this   agreement   such   that   licensor 
+ becomes   entitle   to   charge ,   invoice ,   or   otherwise   receive   fee   from   licensee   to   use   the   license   domain   name   and   license   content ,   such   fee   to 
+ be   agree   upon   by   the   party ,   provide   that   ( i )   such   fee   shall   be   commercially   reasonable   and   ( ii )   such   fee   shall   not   exceed   the   fee   charge   by 
+ licensor   to   unaffiliated   third   party   for   use   of   the   license   content ,   take   into   account   any   other   consideration   receive   by   licensor   ( include , 
+ but   not   limit   to ,   discount   service   offering   from   the   third   party ) . 
+
+ article   iii 
+ quality   control 
+
+ 3.1 .   licensee   control .   subject   to   the   term   and   condition   of   this   agreement ,   licensee   shall   be   entitle   to   exercise   exclusive 
+ control   over   all   aspect   of   the   website   and   the   business   associate   with   the   license   domain   name   include ,   without   limitation ,   the   operation , 
+ the   look - and - feel   and   the   content   of   such   website . 
+
+ 3.2 .   content   distribution .   licensor   shall   make   available   to   licensee   the   license   content   in   substantially   the   same   manner   and 
+ with   substantially   the   same   speed   and   efficiency   as   such   licensed   content   be   make   available   to   sina   leju   prior   to   the   effective   date ,   namely 
+ through   licensor ’s   content   database ,   but   in   no   event   with   less   speed ,   efficiency ,   or   a   less   level   of   access   than   licensor   provide   with   respect   to 
+ its   own   operation .   licensee   agree   to   use   the   license   domain   name   only   in   accordance   with   such   content   distribution   policy   that   licensor 
+ use   in   connection   with   its   own   business ,   and   as   may   be   establish   by   licensor   and   communicate   in   writing   in   advance   to   licensee   from   time   to 
+ time   or   as   may   otherwise   be   agree   to   by   the   party   from   time   to   time ,   provide   that   licensee   shall   be   afford   the   same   period   of   time   to   implement 
+ any   such   content   distribution   policy   as   be   afford   to   licensor ’s   affiliate   and   other   third   party . 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ 3.3 .   website   monitoring   and   censor . 
+
+ ( a )   licensee   obligation .   licensee   shall   monitor   and   censor   all   content   on   the   website   associate   with   the   license   domain 
+ name ,   include   without   limitation   content   post   by   end   user .   licensor   shall   also   have   the   right   to   monitor   and   censor   content   of   the   website 
+ associate   with   license   domain   name .   licensee   shall   remove   any   offend   content ,   include ,   but   not   limit   to ,   any   illegal   material , 
+ pornographic ,   obscene   or   sexually   explicit   material ,   material   of   a   violent   nature ,   or   politically   sensitive   material ,   from   such   website   as   soon   as 
+ possible   after   it   become   aware   of   such   offend   content   but   in   no   event   later   than   the   timeframe   prescribe   by   the   governmental   authority   after 
+ receipt   of   oral   or   write   notice   from   licensor   or   such   governmental   authority .   licensee ’s   failure   to   comply   with   this   section   3.3(a )   shall   be   deem 
+ a   material   breach   of   this   agreement .   without   limit   the   forego   obligation ,   licensee   acknowledge   that   licensor   shall   have   the   right   to 
+ remove   such   offend   content   from   the   website   associate   with   license   domain   name . 
+
+ ( b )   new   restriction   impose   by   governmental   authority .   in   the   event   licensor   receive   notice   from   any   governmental 
+ authority   that   the   website   associate   with   the   license   domain   name   contain   offend   content   where   ( i )   the   basis   or   nature   of   such   offense 
+ have   not   previously   be   identify   by   any   governmental   authority   as   offensive   or   inappropriate   and   ( ii )   licensee   have   not   also   receive   notice   from 
+ such   governmental   authority ,   licensor   shall   promptly   notify   licensee   of   licensor ’s   receipt   thereof .   licensee   shall   then   use   good   effort   to   remove 
+ such   content   as   soon   as   possible   in   accordance   with   the   instruction   of   such   governmental   authority .   notwithstanding   the   foregoing   or   anything 
+ in   section   8.2   to   the   contrary ,   in   the   event   licensor   fail   to   notify   licensee   of   licensor ’s   receipt   of   such   notice   from   a   governmental   authority , 
+ such   that   licensee   do   not   have   sufficient   time   to   remove   such   offend   content ,   licensee   shall   not   be   liable   for   any   fine   or   penalty   impose 
+ by   a   governmental   authority   in   connection   with   such   offend   content . 
+
+ 3.4 .   compliance   with   law .   licensee   shall   ensure   that   the   business   complie   with   all   applicable   law   in   respect   of   operation , 
+ advertising   and   promotion   of   the   business   and   use   of   the   license   domain   name   and   license   content   in   connection   therewith . 
+
+ 3.5 .   restriction .   except   as   expressly   permit   under   the   trademark   license   agreement ,   licensee   shall   not   knowingly   ( a )   use   the 
+ license   domain   name   in   any   manner   that   tarnish ,   degrade ,   disparage   or   reflect   adversely   on   licensor   or   licensor ’s   business   or   reputation , 
+ ( b )   in   any   jurisdiction ,   register   or   attempt   to   register   any   domain   name   that   consist   of ,   in   whole   or   in   part ,   or   be   confusingly   similar   to ,   the   term 
+ " sina " ,   ( c )   contest ,   challenge   or   otherwise   make   any   claim   or   take   any   action   adverse   to   licensor ’s   interest   in   the   license   domain   name ,   ( d ) 
+ register   any   trademark ,   trade   name   or   company   name   that   consist   of ,   in   whole   or   in   part ,   or   be   confusingly   similar   to   the   term   " sina "   in   the 
+ name   of   licensee   or   of   any   of   its   affiliate ,   or   ( e )   use   the   license   content   and   other   content   for   any   unlawful   purpose ,   include   but   not   limit 
+ to   display   or   distribute   any   pornographic ,   obscene   or   sexually   explicit   material ,   material   of   a   violent   nature ,   or   politically   sensitive   material . 
+ in   the   event   that   licensor   reasonably   determine   that   any   violation   of   the   foregoing   by   licensee   pose   an   immediate   harm   to   licensor ’s   business , 
+ reputation   or   goodwill ,   licensee   shall   promptly ,   follow   receipt   of   notice   from   licensor ,   cease   and   desist   all   such   non - conforming   us . 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ article   iv 
+ ownership 
+
+ 4.1 .   ownership .   licensee   acknowledge   that ,   as   between   the   party ,   licensor   ( or   its   third   party   provider )   be   the   owner   of   all 
+ right ,   title   and   interest   in   and   to   the   license   domain   name   and   license   content ,   and   all   such   right ,   title   and   interest   shall   remain   exclusively 
+ with   licensor   ( or   its   third   party   provider ) . 
+
+ 4.2 .   prosecution   and   maintenance .   as   between   licensee   and   licensor ,   licensor   shall   have   the   sole   and   exclusive   right   and 
+ obligation   to   maintain   and   renew   registration   for   the   license   domain   name   during   the   term ,   and   shall   do   so   at   its   own   cost   and   expense   during 
+ the   term .   licensee   shall   not   engage   in   the   forego   affair ,   in   particular ,   licensee   shall   not   change   or   apply   for   change   of   the   domain   name 
+ registration   service   agency   for   the   license   domain   name   during   the   term   of   this   agreement . 
+
+ article   v 
+ enforcement 
+
+ 5.1 .   licensor   enforcement . 
+
+ ( a )   licensor   shall   have   the   right ,   but   not   the   obligation ,   to   take   action   against   third   party   in   the   court ,   administrative   agency 
+ or   otherwise ,   at   licensor ’s   cost   and   expense ,   to   prevent   or   terminate   misuse ,   infringement ,   dilution ,   misappropriation ,   imitation   or   illegal   use   by 
+ third   party   of   the   license   domain   name   or   license   content . 
+
+ ( b )   licensee   shall   reasonably   cooperate   with   licensor   in   any   action ,   suit   or   proceed   that   the   licensor   may   undertake   under 
+ this   section   5.1   ( include ,   without   limitation ,   executing ,   filing   and   deliver   all   document   and   evidence   reasonably   request   by   the   licensor ) 
+ and   shall   lend   its   name   to   such   action ,   suit   or   proceed   if   reasonably   request   by   the   licensor   or   require   by   applicable   law .   all   reasonable 
+ out - of - pocket   expense   incur   by   the   licensee   in   connection   therewith   shall   be   reimburse   by   the   licensor .   the   licensee   shall   have   the   right   to 
+ participate   and   be   represent   in   any   such   action ,   suit   or   proceeding   by   its   own   counsel   at   its   own   expense . 
+
+ ( c )   all   damage   or   other   compensation   of   any   kind   recover   in   any   action ,   suit   or   proceeding   undertake   under   this   article   v ,   or 
+ from   any   settlement   or   compromise   thereof ,   shall   be   for   the   benefit   of   the   licensor ,   provide ,   however ,   that   any   compensation   grant   or   award 
+ in   light   of   any   loss   incur   by   licensee   shall   be   for   the   benefit   of   the   licensee   after   licensor ’s   reasonable   expense   for   take   such   action ,   suit 
+ or   proceeding   have   be   pay . 
+
+ article   vi 
+ term   and   termination 
+
+ 6.1 .   term .   the   initial   term   of   this   agreement   ( the   " initial   term " )   shall   commence   on   the   effective   date   and   shall   continue   for   a 
+ period   of   ten   ( 10 )   year   thereafter .   begin   twelve   ( 12 )   month   prior   to   the   expiration   of   the   initial   term ,   the   party   shall   use 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ good   faith   effort   to   negotiate   an   extension   of   the   term   of   this   agreement   ( the   initial   term   together   with   any   applicable   extension ,   the   " term " ) . 
+
+ 6.2 .   termination   for   bankruptcy .   either   party   may   immediately   terminate   this   agreement   in   the   event   that   the   other   party   ( a ) 
+ become   insolvent   or   unable   to   pay   its   debt   as   they   mature;   ( b )   make   an   assignment   for   the   benefit   of   its   creditors;   ( c )   seek   relief ,   or   if 
+ proceeding   be   commence   against   such   other   party   or   on   its   behalf ,   under   any   bankruptcy ,   insolvency   or   debtor '   relief   law   and   such 
+ proceeding   have   not   be   vacate   or   set   aside   within   seven   ( 7 )   day   from   the   date   of   commencement   thereof . 
+
+ 6.3 .   termination   for   breach . 
+
+ ( a )   by   licensor .   licensor   may   terminate   this   agreement   at   any   time   in   the   event   that   the   licensee   be   in   material   default   or   breach 
+ of   any   provision   of   this   agreement ,   and ,   if   such   default   or   breach   be   capable   of   cure ,   such   default   or   breach   continue   uncured   for   a   period   of   thirty 
+ ( 30 )   day   after   receipt   of   write   notice   thereof;   provide ,   however ,   that   in   the   event   that   the   licensee   have   in   good   faith   commence   cure   within 
+ such   thirty   ( 30 )   day   period ,   but   can not   practically   complete   such   cure   within   such   thirty   ( 30 )   day   period ,   the   party   shall   negotiate   a   reasonable 
+ additional   time   to   cure . 
+
+ ( b )   by   licensee .   licensee   may   terminate   this   agreement   at   any   time   in   the   event   that   the   licensor   be   in   material   default   or   breach 
+ of   any   provision   of   this   agreement ,   and ,   if   such   default   or   breach   be   capable   of   cure ,   such   default   or   breach   continue   uncured   for   a   period   of   thirty 
+ ( 30 )   day   after   receipt   of   write   notice   thereof;   provide ,   however ,   that   in   the   event   that   the   licensor   have   in   good   faith   commence   cure   within 
+ such   thirty   ( 30 )   day   period ,   but   can not   practically   complete   such   cure   within   such   thirty   ( 30 )   day   period ,   the   party   shall   negotiate   a   reasonable 
+ additional   time   to   cure . 
+
+ 6.4 .   termination   for   a   change   of   control .   licensor   may   terminate   this   agreement   by   provide   prior   write   notice   to   licensee 
+ upon   the   occurrence   of   a   change   of   control . 
+
+ 6.5 .   termination   in   the   event   of   termination   of   agency   agreement .   in   the   event   that   the   agency   agreement   be   terminate 
+ pursuant   to   section   9.02(c)(iii )   or   9.02(d)(i )   thereof ,   this   agreement   shall   automatically   be   terminate   as   of   the   effective   date   of   the   termination   of 
+ the   agency   agreement   and   shall   thereafter   be   of   no   further   force   or   effect   except   as   set   forth   in   section   6.7 . 
+
+ 6.6 .   effect   of   termination . 
+
+ ( a )   upon   termination   ( but   not   expiration )   of   this   agreement   for   any   reason ,   licensee   shall   be   entitle   to   use   the   license   domain 
+ name   and   license   content   for   a   limit   period   of   time ,   not   to   exceed   ninety   ( 90 )   day ,   during   which   it   shall   diligently   work   to   transition   to 
+ another   solution .   upon   expiration   of   this   agreement   or   such   90 - day   period ,   ( i )   all   right   grant   to   licensee   under   this   agreement   with   respect   to 
+ the   license   domain   name   and   license   content   shall   immediately   cease ,   and   ( ii )   licensee   shall   immediately   discontinue   all   use   of   the   licensed 
+ domain   name   and   license   content . 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ ( b )   upon   termination   or   expiration   of   the   agency   agreement   ( other   than   as   describe   in   section   6.5 ) ,   licensee ’s   right   under 
+ section   2.1(b )   be   terminate   and   licensee   shall   immediately   discontinue   all   use   of   the   license   content ,   provide ,   however   that   in   the   event   the 
+ agency   agreement   be   amend   or   restate ,   such   amendment   or   restatement   shall   not   be   deem   a   termination   or   expiration   of   the   agency 
+ agreement . 
+
+ 6.7 .   survival .   the   duty   and   obligation   of   the   party   under   article   iv ,   vi ,   viii ,   ix   and   x   and   section   7.2   of   this   agreement   shall 
+ survive   any   termination   or   expiration   of   this   agreement . 
+
+ article   vii 
+ representation   and   warranty 
+
+ 7.1 .   representation   and   warranty . 
+
+ ( a )   by   each   party .   each   of   licensee   and   licensor   represent   and   warrant   to   each   other   party   that :   ( a )   it   be   a   corporation   duly 
+ incorporate ,   validly   exist   and   in   good   standing   under   applicable   law;   ( b )   the   execution ,   delivery   and   performance   of   this   agreement   and   the 
+ consummation   of   the   transaction   contemplate   hereby   be   within   its   corporate   powers;   ( c )   it   have   take   necessary   step   to   obtain   authority   and   all 
+ necessary   consent   and   approval   of   any   other   third   party   or   governmental   authority   to   execute   and   perform   this   agreement;   ( d )   this   agreement 
+ have   be   duly   execute   and   deliver   by   it   and   constitute   its   valid   and   bind   obligation ,   enforceable   against   it   in   accordance   with   its   term , 
+ except   as   such   enforceability   may   be   limit   by   bankruptcy ,   insolvency ,   reorganization ,   or   other   law   affect   the   right   of   creditor '   generally   or 
+ by   general   principal   of   equity;   and   ( e )   the   execution ,   delivery   and   performance   of   this   agreement   will   not   conflict   with   or   result   in   any   breach   of   its 
+ charter   or   certificate   of   incorporation ,   bylaw ,   or   other   govern   document ,   or   any   instrument ,   obligation ,   or   contract   to   which   it   or   its   property   be 
+ bind . 
+
+ ( b )   by   licensor .   licensor   represent   and   warrant   that : 
+
+ i.   it   have   the   right   to   grant   the   license   grant   to   licensee   hereunder;   and 
+
+ ii .   the   license   content   and   the   license   domain   name   be ,   and   the   right   grant   hereunder   in   connection   with   the 
+ license   domain   name   and   license   content   be ,   substantially   similar   to   the   license   content   and   the   license   domain   name   and   the   right 
+ that   be   grant   to   sina   leju   in   connection   therewith   prior   to   the   effective   date . 
+
+ 7.2 .   disclaimer .   licensee   hereby   acknowledge   and   agree   that   except   as   expressly   set   forth   herein   or 
+ in   the   share   purchase   agreement ,   the   license   domain   name   and   the   license   content   be   provide   without 
+ warranty   of   any   kind ,   express   or   imply ,   include   without   limitation ,   warranty   of   merchantability , 
+ validity ,   noninfringement ,   fitness   for   a   particular   purpose   or   other   warranty ,   whether   express   or   imply , 
+ and   licensor   hereby   disclaim   any   and   all   such   warranty . 
+
+ article   viii 
+ indemnification 
+
+ 8.1 .   indemnification   by   licensor .   licensor   shall   defend ,   indemnify   and   hold   harmless   licensee   and   its   affiliate ,   and   their 
+ respective   officer ,   director ,   employee ,   agent ,   shareholder ,   successor   and   assign ,   ( collectively ,   the   " licensee   party " )   from   and   against   any 
+ claim ,   suit ,   demand   or   action   ( " action " ) ,   and   any   and   all   direct   loss   suffer   or   incur   by   licensee   in   connection   with   any   third   party   claim 
+ arise   out   of   or   result   from   any   breach   by   licensor   of   any   provision   of   this   agreement .   licensor ’s   obligation   to   indemnify   licensee   shall   be 
+ condition   on   ( a )   licensee ’s   provision   to   licensor   of   prompt   notice   of   such   an   action   ( except   where   any   delay   do   not   materially   prejudice 
+ licensor);   ( b )   licensee ’s   reasonable   cooperation   with   licensor   in   the   defense   and   settlement   of   such   an   action   at   licensor ’s   cost;   and   ( c )   licensor 
+ have   exclusive   control   of   the   defense ,   settlement   and/or   compromise   of   such   an   action   ( provide   that   licensor   may   not   settle   any   action   in   a 
+ manner   that   adversely   affect   licensee   without   licensee ’s   prior   write   consent ,   not   to   be   unreasonably   withhold   or   delay ) . 
+
+ 8.2 .   indemnification   by   licensee .   licensee   shall   defend ,   indemnify   and   hold   harmless   licensor   and   its   affiliate ,   and   their 
+ respective   officer ,   director ,   employee ,   agent ,   shareholder ,   successor   and   assign ,   ( collectively ,   the   " licensor   party " )   from   and   against   any 
+ action ,   and   any   and   all   direct   loss   suffer   or   incur   by   licensor   in   connection   with   any   third   party   claim   ( a )   arise   out   of   or   result   from 
+ any   breach   by   licensee   of   any   provision   of   this   agreement ,   ( b )   regard   the   content   ( other   than   license   content )   of   the   website   associate 
+ with   license   domain   name ,   or   ( c )   regard   any   content   that   be   subject   to   a   request   for   removal   by   a   governmental   authority ,   even   if   licensee 
+ remove   such   content   within   the   time   period   proscribe   by   the   governmental   authority ,   provide   that ,   in   all   case ,   licensee   shall   not   be   liable   for 
+ any   direct   loss   suffer   or   incur   by   licensor   as   a   result   of   licensor ’s   failure   to   provide   licensee   with   a   reasonable   period   of   time   to   remove 
+ content   in   case   where   ( i )   the   basis   or   nature   of   the   offense   have   not   previously   be   identify   by   any   governmental   authority   as   offensive   or 
+ inappropriate   and   ( ii )   licensee   have   not   also   receive   notice   from   the   governmental   authority .   licensee ’s   obligation   to   indemnify   licensor   shall   be 
+ condition   on   ( x )   licensor ’s   provision   to   licensee   of   prompt   notice   of   such   an   action   ( except   where   any   delay   do   not   materially   prejudice 
+ licensee);   ( y )   licensor ’s   reasonable   cooperation   with   licensee   in   the   defense   and   settlement   of   such   an   action   at   licensee ’s   cost;   and   ( z ) 
+ licensee   have   exclusive   control   of   the   defense ,   settlement   and/or   compromise   of   such   an   action   ( provide   that   licensee   may   not   settle   any 
+ action   in   a   manner   that   adversely   affect   licensor   without   licensor ’s   prior   write   consent ,   not   to   be   unreasonably   withhold   or   delay ) . 
+
+ article   ix 
+ confidentiality 
+
+ 9.1 .   confidential   information .   in   perform   its   obligation   under   this   agreement ,   either   party   ( the   " recipient " )   may   obtain   certain 
+ confidential   information   of   the   other   party .   for   purpose   of   this   agreement ,   " confidential   information "   shall   mean   information ,   document   and 
+ other   tangible   thing ,   provide   by   either   party   to   the   other ,   in   whatever   form ,   relate   to   such   party ’s   business   and   marketing ,   include   such 
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+ party ’s   financial   information ,   personal   information ,   customer   list ,   product   plan   and   marketing   plan ,   whether   alone   or   in   its   compile   form   and 
+ whether   mark   as   confidential   or   not .   the   recipient   shall   maintain   in 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ confidence   all   confidential   information   and   shall   not   disclose   such   confidential   information   to   any   third   party   without   the   express   write   consent 
+ of   the   other   party   except   to   those   of   its   employee ,   subcontractor ,   consultant ,   representative   and   agent   as   be   necessary   in   connection   with 
+ activity   as   contemplate   by   this   agreement .   in   maintain   the   confidentiality   of   confidential   information ,   the   recipient   shall   exercise   the   same 
+ degree   of   care   that   it   exercise   with   its   own   confidential   information ,   and   in   no   event   less   than   a   reasonable   degree   of   care .   the   recipient   shall 
+ ensure   that   each   of   its   employee ,   subcontractor ,   consultant ,   representative   and   agent   hold   in   confidence   and   make   no   use   of   the 
+ confidential   information   for   any   purpose   other   than   those   permit   under   this   agreement   or   otherwise   require   by   law .   upon   request   by   the 
+ other   party ,   the   recipient   shall   return ,   destroy   or   otherwise   handle   as   instruct   by   the   other   party ,   any   document   or   software   contain   such 
+ confidential   information ,   and   shall   not   continue   to   use   such   confidential   information . 
+
+ 9.2 .   exception .   the   obligation   of   confidentiality   contain   in   section   9.1   shall   not   apply   to   the   extent   that   ( a )   the   recipient   be 
+ require   to   disclose   information   by   order   or   regulation   of   a   governmental   authority   or   a   court   of   competent   jurisdiction;   provide ,   however ,   that , 
+ to   the   extent   permit   by   applicable   law ,   the   recipient   shall   not   make   any   such   disclosure   without   first   notify   the   other   party   and   allow   the 
+ other   party   a   reasonable   opportunity   to   seek   injunctive   relief   from   ( or   a   protective   order   with   respect   to )   the   obligation   to   make   such   disclosure;   or 
+ ( b )   the   recipient   can   demonstrate   that   ( i )   the   disclose   information   be   at   the   time   of   such   disclosure   to   the   recipient   already   in   ( or   thereafter 
+ enter )   the   public   domain   other   than   as   a   result   of   action   of   the   recipient ,   its   director ,   officer ,   employee   or   agent   in   violation   hereof ,   ( ii )   the 
+ disclose   information   be   rightfully   know   to   the   recipient   prior   to   the   date   of   disclosure   ( other   than   pursuant   to   disclosure   by   the   other   party 
+ pursuant   to   other   agreement   in   effect   between   the   party ) ,   or   ( iii )   the   disclose   information   be   receive   by   the   recipient   on   an   unrestricted   basis 
+ from   a   source   unrelated   to   any   party   and   not   under   a   duty   of   confidentiality   to   the   other   party . 
+
+ article   x 
+ general   provision 
+
+ 10.1 .   taxis .   each   party   shall   be   responsible   for   taxis   that   should   be   bear   by   it   in   accordance   with   applicable   law .   if   any   party 
+ pay   any   taxis   that   should   have   be   bear   by   the   other   party   in   accordance   with   law ,   such   other   party   shall   reimburse   such   party   within   seven 
+ ( 7 )   day   after   its   receipt   of   documentation   evidencing   such   tax   payment   so   incur   by   such   party . 
+
+ 10.2 .   expense .   except   as   otherwise   specify   in   this   agreement ,   all   cost   and   expense ,   include ,   fee   and   disbursement   of 
+ counsel ,   financial   advisor   and   accountant ,   incur   in   connection   with   this   agreement   and   the   transaction   contemplate   by   this   agreement 
+ shall   be   bear   by   the   party   incur   such   cost   and   expense ,   whether   or   not   the   closing   shall   have   occur . 
+
+ 10.3 .   notice .   all   notice ,   request ,   claim ,   demand   and   other   communication   hereunder   shall   be   in   writing   and   shall   be   deem 
+ duly   give ,   make   or   receive   ( i )   on   the   date   of   delivery   if   deliver   in   person   or   by   messenger   service ,   ( ii )   on   the   date   of   confirmation   of   receipt   of 
+ transmission   by   facsimile   ( or ,   the   first   ( 1 )   business   day   follow   such   receipt   if   ( a )   such 
+
+ st 
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ date   of   confirmation   be   not   a   business   day   or   ( b )   confirmation   of   receipt   be   give   after   5:00   p.m. ,   beijing   time )   or   ( iii )   on   the   date   of   confirmation   of 
+ receipt   if   deliver   by   an   internationally   recognize   overnight   courier   service   or   register   or   certify   mail   ( or ,   the   first   ( 1 )   business   day   follow 
+ such   receipt   if   ( a )   such   date   of   confirmation   be   not   a   business   day   or   ( b )   confirmation   of   receipt   be   give   after   5:00   p.m. ,   beijing   time )   to   the 
+ respective   party   hereto   at   the   follow   address   ( or   at   such   other   address   for   a   party   as   shall   be   specify   in   a   notice   give   in   accordance   with 
+ this   section   10.3 ): 
+
+ if   to   licensor : 
+
+ sina   corporation 
+ 20 / f   beijing   ideal   international   plaza 
+ no .   58   northwest   4th   ring   road 
+ haidian   district ,   beijing ,   100090 
+ people ’s   republic   of   china 
+ facsimile :   +86   10   8260   7166 
+ attention :   head   of   legal   department   ( xie   guomin ) 
+
+ with   a   copy   ( which   shall   not   constitute   notice )   to : 
+
+ shearman   &   sterling   llp 
+ 12   floor   east   tower ,   twin   tower 
+ b-12   jianguomenwai   dajie 
+ beijing   100022 
+ people ’s   republic   of   china 
+ facsimile :   +86   10   6563   6001 
+ attention :   lee   edward ,   esq . 
+
+ if   to   licensee : 
+
+ beijing   yisheng   leju   information   service   co. ,   ltd . 
+ c / o   cric   holding   limit 
+ no .   383   guangyan   road 
+ shanghai   200072 
+ people ’s   republic   of   china 
+ facsimile :   +   86   ( 21 )   6086   7111 
+ attention :   president 
+
+ with   a   copy   ( which   shall   not   constitute   notice )   to : 
+
+ skadden ,   arp ,   slate ,   meagher   &   flom 
+ 42 / f ,   edinburgh   tower ,   the   landmark 
+ 12   queen ’s   road   central ,   hong   kong 
+ facsimile :   +852   3740   4727 
+ attention :   jonathan   b.   stone ,   esq .   and   z.   julie   gao ,   esq . 
+
+ 10.4 .   public   announcement .   other   than   ( i )   the   filing   with   the   sec   of   the   form   f-1 ,   any   amendment   thereto   and   any   other 
+ document   file   in   connection   with   the   form   f-1 , 
+
+ st 
+ th 
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ include   the   filing   of   this   agreement   or   ( ii )   any   communication   with   the   relevant   stock   exchange   or   regulator   in   connection   with   the   ipo ,   in   each 
+ case ,   as   deem   necessary   or   desirable   in   the   sole   discretion   of   cric ,   neither   party   to   this   agreement   shall   make ,   or   cause   to   be   make ,   any   press 
+ release   or   public   announcement   in   respect   of   this   agreement   or   the   transaction   contemplate   by   this   agreement   or   otherwise   communicate   with 
+ any   news   medium   without   the   prior   write   consent   of   the   other   party   unless   otherwise   require   by   law   or   applicable   stock   exchange   regulation ,   and 
+ the   party   to   this   agreement   shall   cooperate   as   to   the   timing   and   content   of   any   such   press   release ,   public   announcement   or   communication . 
+
+ 10.5 .   severability .   if   any   term   or   other   provision   of   this   agreement   be   invalid ,   illegal   or   incapable   of   be   enforce   by   any   law   or 
+ public   policy ,   all   other   term   and   provision   of   this   agreement   shall   nevertheless   remain   in   full   force   and   effect   for   so   long   as   the   economic   or   legal 
+ substance   of   the   transaction   contemplate   by   this   agreement   be   not   affect   in   any   manner   materially   adverse   to   either   party   hereto .   upon   such 
+ determination   that   any   term   or   other   provision   be   invalid ,   illegal   or   incapable   of   be   enforce ,   the   party   hereto   shall   negotiate   in   good   faith   to 
+ modify   this   agreement   so   as   to   effect   the   original   intent   of   the   party   as   closely   as   possible   in   an   acceptable   manner   in   order   that   the   transaction 
+ contemplate   by   this   agreement   be   consummate   as   originally   contemplate   to   the   great   extent   possible . 
+
+ 10.6 .   entire   agreement .   this   agreement   constitute   the   entire   agreement   of   the   party   hereto   with   respect   to   the   subject   matter 
+ hereof   and   supersede   all   prior   agreement   and   understanding ,   both   write   and   oral ,   with   respect   to   the   subject   matter   hereof   and   thereto 
+ ( include   the   original   agreement ) . 
+
+ 10.7 .   assignment .   this   agreement   and   any   right   or   authority   grant   hereunder   shall   not   be   assign   or   transfer   by   either 
+ party ,   include   by   operation   of   law ,   merger   or   otherwise ,   without   the   express   write   consent   of   the   other   party ,   provide   that   licensor   may   assign 
+ this   agreement   without   consent   to   any   of   its   affiliate   and   licensee   may   assign   this   agreement   without   consent   to   sina   leju   or   an   affiliate   of 
+ licensee   that   be   control   by   sina   leju . 
+
+ 10.8 .   amendment .   this   agreement   may   not   be   amend   or   modify   except   ( a )   by   an   instrument   in   writing   sign   by ,   or   on   behalf 
+ of ,   both   party   or   ( b )   by   a   waiver   in   accordance   with   section   10.9 . 
+
+ 10.9 .   waiver .   either   party   may   ( a )   extend   the   time   for   the   performance   of   any   of   the   obligation   or   other   act   of   the   other   party ,   ( b ) 
+ waive   any   inaccuracy   in   the   representation   and   warranty   of   the   other   party   contain   herein   or   in   any   document   deliver   by   the   other   party 
+ pursuant   hereto   or   ( c )   waive   compliance   with   any   of   the   agreement   of   the   other   party   or   condition   to   such   party ’s   obligation   contain   herein . 
+ any   such   extension   or   waiver   shall   be   valid   only   if   set   forth   in   an   instrument   in   writing   sign   by   the   party   to   be   bind   thereby .   no   waiver   of   any 
+ representation ,   warranty ,   agreement ,   condition   or   obligation   grant   pursuant   to   this   section   10.9   or   otherwise   in   accordance   with   this   agreement 
+ shall   be   construe   as   a   waiver   of   any   prior   or   subsequent   breach   of   such   representation ,   warranty ,   agreement ,   condition   or   obligation   or   any   other 
+ representation ,   warranty ,   agreement ,   condition   or   obligation .   the   failure   of   either   party   hereto   to   assert   any   of   its   right   hereunder   shall   not 
+ constitute   a   waiver   of   any   of   such   right . 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ 10.10 .   no   third   party   beneficiary .   except   for   the   provision   of   article   vii   relate   to   indemnify   party ,   this   agreement   shall   be 
+ bind   upon   and   inure   solely   to   the   benefit   of   the   party   and   their   respective   successor   and   permit   assign   and   nothing   herein ,   express   or 
+ imply   ( include   the   provision   of   article   vii   relate   to   indemnify   party ) ,   be   intend   to   or   shall   confer   upon   any   other   person   any   legal   or 
+ equitable   right ,   benefit   or   remedy   of   any   nature   whatsoever ,   include   any   right   of   employment   for   any   specify   period ,   under   or   by   reason   of   this 
+ agreement . 
+
+ 10.11 .   govern   law .   this   agreement   and   any   dispute   or   claim   arise   out   of   or   in   connection   with   it   or   its   subject   matter   shall 
+ be   govern   by ,   and   construe   in   accordance   with ,   the   law   of   the   people ’s   republic   of   china   ( without   regard   to   its   conflict   of   law   rule   that 
+ would   mandate   the   application   of   the   law   of   another   jurisdiction ) . 
+
+ 10.12 .   dispute   resolution .   ( a )   any   dispute ,   controversy   or   claim   arise   out   of   or   relate   to   this   agreement ,   or   the   breach , 
+ termination   or   invalidity   thereof   ( each ,   a   " dispute " ) ,   shall   to   the   extent   possible   be   settle   through   friendly   consultation   among   the   party   hereto . 
+ the   claim   party   ( the   " claimant " )   shall   promptly   notify   the   other   party   ( the   " respondent " )   in   a   date   write   notice   that   a   dispute   have   arise   and 
+ describe   the   nature   of   the   dispute .   any   dispute   which   remain   unresolved   within   sixty   ( 60 )   day   after   the   date   of   such   write   notice   shall   be 
+ submit   to   the   china   international   economic   and   trade   arbitration   commission   ( the   " commission " )   to   be   finally   settle   by   arbitration   in   beijing , 
+ prc   in   accordance   with   the   commission ’s   then   effective   rule   ( the   " rule " )   and   this   section   10.12 .   the   language   of   the   arbitration   shall   be 
+ mandarin   chinese . 
+
+ ( b )   the   arbitration   tribunal   shall   consist   of   three   ( 3 )   arbitrator .   the   claimant   shall   appoint   one   ( 1 )   arbitrator ,   the   respondent   shall 
+ appoint   one   ( 1 )   arbitrator ,   and   the   two   ( 2 )   arbitrator   so   appoint   shall   appoint   a   third   arbitrator .   if   the   claimant   and   the   respondent   fail   to   appoint 
+ one   ( 1 )   arbitrator ,   or   the   two   ( 2 )   arbitrator   appoint   fail   to   appoint   the   third   arbitrator   within   the   time   period   set   by   the   then   effective   rule ,   the 
+ relevant   appointment   shall   be   make   promptly   by   the   commission . 
+
+ ( c )   any   award   of   the   arbitration   tribunal   establish   pursuant   to   this   section   10.12   shall   be   final   and   bind   upon   the   party ,   and 
+ enforceable   in   any   court   of   competent   jurisdiction .   the   party   shall   use   their   good   effort   to   effect   the   prompt   execution   of   any   such   award   and 
+ shall   render   whatever   assistance   as   may   be   necessary   to   this   end .   the   prevail   party   ( as   determine   by   the   arbitrator )   shall   be   entitle   to 
+ reimbursement   of   its   cost   and   expense ,   include   reasonable   attorney ’s   fee ,   incur   in   connection   with   the   arbitration   and   any   judicial 
+ enforcement ,   unless   the   arbitrator   determine   that   it   would   be   manifestly   unfair   to   honor   this   agreement   of   the   party   and   determine   a   different 
+ allocation   of   cost . 
+
+ ( d )   the   forego   provision   in   this   section   10.12   shall   not   preclude   any   party   from   seek   interim   or   conservatory   remedy , 
+ include   injunctive   relief ,   from   any   court   have   jurisdiction   to   grant   such   relief . 
+
+ 10.13 .   no   presumption .   the   party   acknowledge   that   each   have   be   represent   by   counsel   in   connection   with   this   agreement 
+ and   the   transaction   contemplate   by   this   agreement .   accordingly ,   any   applicable   law   that   would   require   interpretation   of   any   claim 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ ambiguity   in   this   agreement   against   the   party   that   draft   it   have   no   application   and   be   expressly   waive .   if   any   claim   be   make   by   a   party   relate   to 
+ any   conflict ,   omission   or   ambiguity   in   the   provision   of   this   agreement ,   no   presumption   or   burden   of   proof   or   persuasion   will   be   imply   because 
+ this   agreement   be   prepare   by   or   at   the   request   of   any   party   or   its   counsel . 
+
+ 10.14 .   specific   performance .   the   party   hereto   acknowledge   and   agree   that   irreparable   damage   would   occur   if   any   of   the 
+ provision   of   this   agreement   be   not   perform   in   accordance   with   their   specific   term   and   that   any   breach   of   this   agreement   could   not   be 
+ adequately   compensate   in   all   case   by   monetary   damage   alone .   accordingly ,   in   addition   to   any   other   right   or   remedy   to   which   a   party   hereto 
+ may   be   entitle ,   at   law   or   in   equity ,   it   shall   be   entitle   to   enforce   any   provision   of   this   agreement   by   a   decree   of   specific   performance   and   to 
+ temporary ,   preliminary   and   permanent   injunctive   relief   to   prevent   breach   or   threaten   breach   of   any   of   the   provision   of   this   agreement , 
+ without   post   any   bond   or   other   undertaking . 
+
+ 10.15 .   force   majeure .   neither   party   shall   be   liable   for   failure   to   perform   any   of   its   obligation   under   this   agreement   during   any 
+ period   in   which   such   party   can not   perform   due   to   hacker   attack ,   fire ,   flood   or   other   natural   disaster ,   war ,   embargo ,   riot   or   the   intervention   of   any 
+ governmental   authority ,   provide ,   however ,   that   the   party   so   delay   immediately   notifie   the   other   party   of   such   delay .   in   no   event   shall   such 
+ nonperformance   by   licensee   be   excuse   due   to   any   such   event   for   long   than   ninety   ( 90 )   day . 
+
+ 10.16 .   counterpart .   this   agreement   may   be   execute   and   deliver   ( include   by   facsimile   transmission )   in   one   or   more 
+ counterpart ,   and   by   the   different   party   hereto   in   separate   counterpart ,   each   of   which   when   execute   shall   be   deem   to   be   an   original ,   but   all   of 
+ which   take   together   shall   constitute   one   and   the   same   agreement . 
+
+ 10.17 .   termination   of   original   agreement .   pursuant   to   the   mutual   termination   agreement   set   forth   in   exhibit   b   attach   hereto , 
+ the   original   agreement   shall   be   terminate   as   of   the   effective   date .   notwithstanding   anything   in   this   agreement   to   the   contrary ,   this   agreement 
+ shall   not   become   effective   unless   and   until   the   mutual   termination   agreement   set   forth   in   exhibit   b   be   execute . 
+
+ [ signature   on   next   page ] 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ in   witness   whereof ,   each   party   hereto   have   cause   this   agreement   to   be   execute   by   its   duly   authorize   representative   on 
+ the   date   first   set   forth   above . 
+
+ beijing   sina   internet   information   service   co. ,   ltd . 
+
+ by : 
+
+ /s/   charles   chao 
+
+ name : 
+
+ title : 
+
+ beijing   yisheng   leju   information   service   co. ,   ltd . 
+
+ by : 
+
+ /s/   fei   cao 
+
+ name : 
+
+ title : 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014 
+
+ exhibit   a 
+
+ license   domain   name 
+
+ house.sina.com.cn 
+
+ jiaju.sina.com.cn 
+
+ construction.sina.com.cn 
+
+ source : leju holdings ltd , drs ( on f-1 ) , 1/21/2014

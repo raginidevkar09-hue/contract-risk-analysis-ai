@@ -1,0 +1,1960 @@
+exhibit 10.1 
+ certain portion of this exhibit have be omit pursuant to rule 601(b)(10 ) of regulation s - k. the omit information be ( i ) not material 
+ and ( ii ) would likely cause competitive harm to the company if publicly disclose . information that have be omit have be note in this 
+ document with a placeholder identify by the mark " [ ] " . 
+ execution copy 
+ promotion agreement 
+ by and between 
+ siga technology , inc . 
+ and 
+ meridian medical technologies , inc . , 
+ a pfizer company 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ table of content 
+ page 
+ article 1 definition 
+
+ article 2 grant of right 
+
+ 2.1 
+ grant of right to mmt 
+
+ 2.2 
+ negative covenant 
+
+ 2.3 
+ non - compete covenant 
+
+ 2.4 
+ retain right 
+
+ 2.5 
+ no imply license 
+
+ 2.6 
+ [ ] 
+
+ article 3 governance 
+
+ 3.1 
+ joint steering committee 
+
+ 3.2 
+ good faith 
+
+ 3.3 
+ scope of governance 
+
+ article 4 promotion and other commercialization 
+
+ 4.1 
+ promotion in the territory 
+
+ 4.2 
+ diligence 
+
+ 4.3 
+ customer contract 
+
+ 4.4 
+ regulatory matter 
+
+ 4.5 
+ discontinue country 
+
+ article 5 forecasting and order 
+
+ 5.1 
+ product forecast 
+
+ 5.2 
+ purchase order 
+
+ 5.3 
+ delivery 
+
+ 5.4 
+ supply limitation 
+
+ 5.5 
+ supply penalty 
+
+ 5.6 
+ adverse event report 
+
+ article 6 payment 
+
+ 6.1 
+ promotion fee 
+
+ 6.2 
+ payment 
+
+ 6.3 
+ currency 
+
+ 6.4 
+ record 
+
+ 6.5 
+ audit 
+
+ 6.6 
+ block payment and indemnification 
+
+ 6.7 
+ source of recovery 
+
+ 6.8 
+ taxis 
+
+ article 7 intellectual property 
+
+ 7.1 
+ ownership of siga intellectual property 
+
+ 7.2 
+ intellectual property maintenance 
+
+ 7.3 
+ new patent and trademark 
+
+ -i- 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ table of content 
+ ( continue ) 
+ page 
+ article 8 representation and warranties; covenant 
+
+ 8.1 
+ mutual representation and warranty 
+
+ 8.2 
+ additional representation , warranty and covenant of siga 
+
+ 8.3 
+ additional representation and warranty of mmt 
+
+ 8.4 
+ covenant 
+
+ 8.5 
+ no other representation or warranty 
+
+ article 9 indemnification 
+
+ 9.1 
+ indemnification by siga 
+
+ 9.2 
+ indemnification by mmt 
+
+ 9.3 
+ indemnification procedure 
+
+ 9.4 
+ insurance 
+
+ 9.5 
+ limitation of liability 
+
+ article 10 confidentiality 
+
+ 10.1 
+ confidentiality 
+
+ 10.2 
+ authorize disclosure 
+
+ 10.3 
+ technical publication 
+
+ 10.4 
+ publicity; term of agreement 
+
+ 10.5 
+ prior confidentiality agreement 
+
+ 10.6 
+ return of confidential information 
+
+ 10.7 
+ unauthorized use 
+
+ 10.8 
+ exclusive property 
+
+ article 11 term and termination 
+
+ 11.1 
+ term 
+
+ 11.2 
+ termination for cause 
+
+ 11.3 
+ termination upon certain change of control 
+
+ 11.4 
+ termination for failure to [ ] 
+
+ 11.5 
+ termination for convenience 
+
+ 11.6 
+ effect of termination 
+
+ 11.7 
+ survival 
+
+ article 12 dispute resolution 
+
+ 12.1 
+ executive officer resolution 
+
+ 12.2 
+ govern law 
+
+ 12.3 
+ jurisdiction 
+
+ 12.4 
+ no jury trial 
+
+ article 13 miscellaneous 
+
+ 13.1 
+ entire agreement; amendment 
+
+ 13.2 
+ force majeure 
+
+ -ii- 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ table of content 
+ ( continue ) 
+ .3 
+ notice 
+
+ 13.4 
+ no strict construction; interpretation; heading 
+
+ 13.5 
+ assignment 
+
+ 13.6 
+ performance by affiliate 
+
+ 13.7 
+ further assurance and action 
+
+ 13.8 
+ severability 
+
+ 13.9 
+ no waiver 
+
+ 13.10 
+ relationship of the party 
+
+ 13.11 
+ english language 
+
+ 13.12 
+ counterpart 
+
+ 13.13 
+ schedule 
+
+ 13.14 
+ expense 
+
+ exhibit a 
+ permit subcontractor 
+ exhibit b 
+ business plan 
+ exhibit c 
+ siga press release 
+ schedule 1 
+ siga patent 
+ schedule 2 
+ siga trademark 
+ schedule 3 
+ safety reporting requirement 
+ schedule 8.2(b ) 
+ encumbrance 
+ -iii- 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ promotion agreement 
+ this promotion agreement ( this " agreement " ) be enter into as of may 31 , 2019 ( the " effective date " ) by and between siga 
+ technology , inc . , a delaware corporation have an address at 31 east 62nd street , new york , ny 10065 ( " siga " ) , and meridian medical 
+ technology , inc . , a pfizer company , and delaware corporation have an address at 6350 steven forest road , suite 301 , columbia , md 21046 
+ ( " mmt " ) . siga and mmt be sometimes refer to individually as a " party " and collectively as the " party " . 
+ recital 
+ whereas , siga develop the fda - approve oral capsule formulation of tpoxx ® ( tecovirimat ) for the treatment of smallpox; 
+ whereas , mmt possess resource and expertise in the marketing , promote , advertising , offer for sale and selling of 
+ pharmaceutical and antiviral products; and 
+ whereas , mmt desire to obtain from siga , and siga desire to grant to mmt certain exclusive license in the territory to market , 
+ promote , advertise , offer for sale and sell the product in the field in the territory , as set forth herein . 
+ now , therefore , in consideration of the foregoing premise and the mutual promise , covenant and condition contain in this 
+ agreement , the party hereby agree as follow : 
+ article 1 
+ definition 
+ " active country " have the meaning set forth in section 4.4(b ) . 
+ " affiliate " mean , with respect to each party , any corporation , firm , partnership or other entity or person which directly or indirectly 
+ control or be control by or be under common control with that party . a person will be regard as in " control " ( include , with correlative 
+ meaning , the term " control by " and " under common control with " ) of another person if it ( a ) own or control at least fifty percent ( 50 ) of the 
+ equity security of the subject person entitle to vote in the election of director , or ( b ) possess , directly or indirectly , the power to direct or 
+ cause the direction of the management or policy of any such person ( whether through ownership of security or other ownership interest , by 
+ contract or otherwise ) . 
+ " alliance manager " have the meaning set forth in section 3.1(d ) . 
+ " anti - corruption law " mean any applicable law of any jurisdiction concern or relate to bribery , kickback or corruption include 
+ the united states foreign corrupt practice act of 1977 , the anti - kickback statute , the uk bribery act 2010 , any law enact pursuant to the 
+ oecd convention on combat bribery of foreign public official , and other similar anti - corruption legislation in other jurisdiction , as may be 
+ amend from time to time and each to the extent applicable to a party . 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ " audit report " have the meaning set forth in section 6.5 . 
+ " bankruptcy code " mean , as applicable , the u.s . bankruptcy code , as amend from time to time , and the rule and regulation and 
+ guideline promulgate thereunder or the bankruptcy law of any other country or governmental authority , as amend from time to time , and the 
+ rule and regulation and guideline promulgate thereunder . 
+ " bind portion of forecast " have the meaning set forth in section 5.1(a ) . 
+ " business day " mean any day other than a day on which the commercial bank in new york city be authorize or require to be close . 
+ " business plan " have the meaning set forth in section 4.1(a ) . 
+ " calendar quarter " mean a period of three ( 3 ) consecutive month end on the last day of march , june , september , or december , 
+ respectively , except that the first calendar quarter of the term shall commence on the effective date and end on june 30 , 2019 and the last calendar 
+ quarter shall end on the last day of the term . 
+ " calendar year " mean a period of twelve ( 12 ) consecutive month begin on january 1 and end on december 31 , except that the 
+ first calendar year of the term shall commence on the effective date and end on december 31 of the year in which the effective date occur and the 
+ last calendar year of the term shall commence on january 1 of the year in which the term end and end on the last day of the term . 
+ " change of control " mean , with respect to either party , [ ] . 
+ " claim " have the meaning set forth in section 9.1 . 
+ " commercialize " mean to promote , distribute , obtain pricing approval and reimbursement approval , import , export and/or conduct 
+ other commercialization activity , and " commercialization " mean commercialization activity relate to a product , include any and all activity 
+ relate to promote , distribute , obtain pricing approval and reimbursement approval , import and export . " commercialize " or 
+ " commercialization " shall expressly exclude " develop " or " development " . 
+ " commercially reasonable effort " mean , with respect to the effort to be expend by any person with respect to any objective , 
+ reasonable , diligent and good faith effort to accomplish such objective . with respect to the promotion or other exploitation of the product , 
+ " commercially reasonable effort " mean [ ] . 
+ " compete product " mean [ ] . 
+ " compliance communication " have the meaning set forth in section 8.2(x)(i ) . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ " confidential information " of a party mean ( a ) any and all information of such party or its affiliate that be provide or disclose by such 
+ party or its affiliate to the other party or its affiliate under this agreement , whether in oral , write , graphic , or electronic form , and ( b ) the term 
+ of this agreement . 
+ " control " mean , with respect to any material , know - how , or intellectual property right , that a party ( a ) own or ( b ) have a license ( other 
+ than a license grant to such party under this agreement ) or other right to such material , know - how , or intellectual property right , and in each 
+ case , have the ability to grant to the other party access , a license , sublicense or other right ( as applicable ) to the foregoing on the term and 
+ condition set forth in this agreement without violate the term of any then - exist agreement or other arrangement with any third party . 
+ " credit amount " have the meaning set forth in section 6.1(b ) . 
+ " customer " mean a third party that have enter into a customer contract with mmt . 
+ " customer contract notice " have the meaning set forth in section 4.3(b ) . 
+ " customer contract " have the meaning set forth in section 4.3(a ) . 
+ " delivery date " shall mean the date set forth in each purchase order by which siga be to deliver the product order thereunder , which 
+ date shall not be any early than the correspond lead time set forth in the applicable purchase order . 
+ " develop " or " development " mean any and all activity relate to research or develop ( include synthesizing , screening , testing 
+ or evaluate ) , prepare and conduct non - clinical study , prepare and conduct clinical study , and conduct certain regulatory 
+ activity ( include preparation of regulatory application ) that be necessary or useful to obtain and maintain regulatory approval of the product 
+ in any country in the territory . " develop " or " development " may include " manufacture " or " manufacturing " but shall expressly exclude 
+ " commercialize " or " commercialization " . 
+ " discontinue country " have the meaning set forth in section 4.2 . 
+ " dollar " or " " mean u.s . dollar . 
+ " ema " mean the european medicine agency or any successor entity . 
+ [ ] 
+ " eu " mean the economic , scientific and political organization of member state of the european union as it may be constitute from time 
+ to time , which as of the effective date consist of austria , belgium , bulgaria , croatia , cyprus , the czech republic , denmark , estonia , finland , 
+ france , germany , greece , hungary , ireland , italy , latvia , lithuania , luxembourg , malta , the netherlands , poland , portugal , romania , slovakia , 
+ slovenia , spain , sweden , and the united kingdom . for clarity , the eu will at all time be deem to include the united kingdom , whether or not the 
+ united kingdom remain a member state of the eu . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ " executive officer " have the meaning set forth in section 3.1(e ) . 
+ " expand field " have the meaning set forth in section 2.1(c ) . 
+ " fd&c act " mean the u.s . federal food , drug , and cosmetic act , as amend . 
+ " fda " mean the u.s . food and drug administration or any successor entity . 
+ " field " mean [ ] . 
+ " final audit report " have the meaning set forth in section 6.5 . 
+ " final report " have the meaning set forth in section 6.2(b ) . 
+ " first commercial sale " mean the date of the first sale of the product in the field in a country in the territory to a third party for 
+ monetary value and for end use , include stockpiling , administration , or other consumption of the product in the field in such country in the 
+ territory . 
+ " gcp " mean the then - current standard , practice and procedure promulgate or endorse by the fda as set forth in the guideline 
+ entitle " guidance for industry e6 good clinical practice : consolidated guidance , " include related regulatory requirement impose by the fda 
+ and , as applicable , comparable regulatory standard , practice and procedure promulgate by the ema or other regulatory authority , as such 
+ standard , practice and procedure may be update from time to time , include applicable quality guideline promulgate under the ich q7 . 
+ " global trade control law " mean the u.s . export administration regulation , the u.s . international traffic in arm regulations; the 
+ u.s . economic sanction rule and regulation implement under statutory authority and/or the president 's executive order and administer by 
+ the u.s . department of the treasury office of foreign asset control; eu council regulation on export control , include no.428/2009; other eu 
+ council sanction law and regulation , as implement in eu member state and enforce by eu member state authority , include her 
+ majesty ’s treasury in the united kingdom; united nations sanction policies; all relevant regulation and legislative instrument make under any 
+ of the above; other relevant economic sanction , export and import control law , and other law , regulation , legislation , order and requirement 
+ impose by a relevant governmental authority . 
+ " glp " mean the then - current good laboratory practice standard promulgate or endorse by the fda as define in 21 c. f. r. part 58 , 
+ and , as applicable , comparable regulatory standard promulgate by the ema or other regulatory authority , as such standard may be update 
+ from time to time , include applicable quality guideline promulgate under the ich . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ " gmp " mean the standard relate to current good manufacturing practice for fine chemical , active pharmaceutical ingredient , 
+ intermediate , bulk product or finished pharmaceutical product set forth in ( i ) 21 u.s . c. 351(a)(2)(b ) , in fda regulation at 21 c. f. r. part 210 
+ and 211 and , as applicable , in the rule govern medicinal product in the european community , volume iv , good manufacturing practice for 
+ medicinal product , or ( ii ) the ich guideline relate to the manufacture of active pharmaceutical ingredient and finished pharmaceutical , as such 
+ standard may be update from time to time , include applicable quality guideline promulgate under the ich . 
+ " governmental authority " mean any supra - national , multi - national , federal , state , local , municipal , provincial or other governmental 
+ authority or political subdivision of any nature ( include any governmental division , prefecture , subdivision , department , agency , bureau , branch , 
+ office , public - institution , commission , council , court or other tribunal exercise executive , judicial , legislative , police , regulatory , administrative or 
+ tax authority or function of any nature pertain to government ) . 
+ " ich " mean the international council for harmonisation of technical requirement for pharmaceutical for human use . 
+ " indemnify party " have the meaning set forth in section 9.3 . 
+ " indemnify party " have the meaning set forth in section 9.3 . 
+ " independent auditor " have the meaning set forth in section 6.5 . 
+ " initial business plan " have the meaning set forth in section 4.1(a ) . 
+ " initial term " have the meaning set forth in section 11.1 . 
+ " jsc " have the meaning set forth in section 3.1(a ) . 
+ " know - how " mean all technical , scientific and other information , know - how and datum , include trade secret , knowledge , invention , 
+ discovery , method , specification , process , practice , formulae , instruction , skill , technique , procedure , experience , idea , technical 
+ assistance , design , drawing , assembly procedure , computer program , expertise , technology , other non - clinical , pre - clinical and clinical datum , 
+ documentation and result ( include pharmacological , toxicological , pharmaceutical , biological , chemical , physical , safety and manufacturing datum 
+ and result ) , analytical , regulatory and quality control datum and result , regulatory material , study design , protocol , assay , biological 
+ methodology and other technical information , in each case , whether or not confidential , proprietary , patented or patentable . " know - how " 
+ expressly exclude any patent . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ " law " mean any law , statute , rule , regulation , standard , order , judgment or ordinance have the effect of law of any applicable national , 
+ federal , provincial , state , county , city , or other political subdivision , or foreign , supranational or multinational law , include any statute , standard , 
+ code , resolution , or promulgation , or any order , writ , judgment , injunction , decree , stipulation , ruling , determination , or award enter by or with any 
+ governmental authority , or any license , franchise , permit , or similar right grant under any of the foregoing , or any similar provision have the 
+ force or effect of law , include the federal food , drug , and cosmetic act ( 21 u.s.c . § 301 , et seq . ) , the anti - kickback statute ( 42 u.s.c . § 1320a- 
+ 7b ) , the civil monetary penalty statute ( 42 u.s.c . § 1320a-7a ) , the false claim act ( 31 u.s.c . § 3729 et seq . ) , comparable state statute , the 
+ regulation promulgate under all such statute , and the regulation issue by the fda , and all applicable anti - corruption law , accounting and 
+ recordkeeping law , and law relate to interaction with hcp and government official . for the avoidance of doubt , any specific reference to 
+ any law or applicable law or any portion thereof shall be deem to include all then - current amendment thereto or any replacement or successor 
+ law , statute , standard , ordinance , code , rule , regulation , resolution , promulgation , order , writ , judgment , injunction , decree , stipulation , ruling , or 
+ determination thereto . 
+ " loss " have the meaning set forth in section 9.1 . 
+ " manufacture " or " manufacturing " mean all activity relate to the manufacturing of a compound or product , include test method 
+ development and stability testing , formulation , process development , manufacture scale - up , manufacture for use in non - clinical and clinical 
+ study , manufacture for commercial sale , packaging , release of product , quality assurance / quality control development , quality control testing 
+ ( include in - process , in - process release and stability testing ) and release of product or any component or ingredient thereof , and regulatory 
+ activity relate to all of the foregoing . " manufacture " or " manufacturing " may be include as part of " develop " or " development " to the extent 
+ applicable , but be expressly exclude from " commercialize " or " commercialization " . 
+ [ ] 
+ [ ] 
+ " mmt indemnitee " have the meaning set forth in section 9.1 . 
+ " mmt promotion personnel " any employee of mmt or its affiliate and other approve third party contractor , agent and personnel 
+ and permit sublicensee , that mmt will assign to conduct promotion pursuant to this agreement . 
+ " net product sale amount " mean [ ] 
+ " non - compliance action " have the meaning set forth in section 8.2(x)(ii ) . 
+ " non - promotion notice " have the meaning set forth in section 4.2 . 
+ " notice of disagreement " have the meaning set forth in section 6.5 . 
+ " notice of dispute " have the meaning set forth in section 12.1(a ) . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ " patent " mean ( a ) pende patent application , issue patent , utility model and design patent anywhere in the world; ( b ) 
+ provisional , non - provisional , reissue , substitution , confirmation , registration , validation , re - examination , addition , continuation , 
+ continue prosecution application , continuation - in - part , or divisional of or to any of the foregoing; ( c ) any other patent application claim 
+ priority to any of the foregoing anywhere in the world; ( d ) extension , renewal or restoration of any of the foregoing by exist or future extension , 
+ renewal or restoration mechanism , include supplementary protection certificate or the equivalent thereof; and ( e ) any foreign equivalent to 
+ any of the foregoing . 
+ " pdf " mean adobe ™ portable document format send by electronic mail . 
+ " permit sublicensee " have the meaning set forth in section 2.1(b ) . 
+ " person " mean an individual , sole proprietorship , partnership , limited partnership , limited liability partnership , corporation , limited liability 
+ company , business trust , joint stock company , trust , incorporate association , joint venture or similar entity or organization , include a 
+ government or political subdivision or department or agency of a government or other governmental authority . 
+ " pfizer " mean pfizer inc . , a delaware corporation . 
+ " potential new field " have the meaning set forth in section 2.1(c ) . 
+ " pricing and reimbursement authority " mean , as applicable , the body with the authority to control , approve , recommend , decide , or 
+ otherwise determine pricing and reimbursement of pharmaceutical product , include those with authority to enter into risk sharing scheme or to 
+ impose retroactive price reduction , discount , or rebate ( include the national institute for health and care excellence and the scottish 
+ medicine consortium in the u.k.; the institute for quality and efficiency in health care in germany; the technical scientific commission and the 
+ price and reimbursement committee within the italian medicine agency in italy; the directorate general for the basic portfolio of the national 
+ health and pharmacy system of the ministry of health in spain; the national union of health insurance fund and the national authority of 
+ health in france; and health canada in canada ) or non - governmental authority ( include " sick fund " in germany ) ) . 
+ " price approval " mean the approval , agreement , determination or decision establish price for product that can be charge in 
+ country where governmental authority or their designee control , approve , recommend , decide , or otherwise determine the price of 
+ pharmaceutical product . 
+ " product " mean the fda - approve oral formulation of tpoxx ® ( tecovirimat ) for use in the field , or any oral formulation of tecovirimat 
+ for use in the field for which a regulatory authority grant drug approval to siga in a country or jurisdiction in the territory . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ " promote " or " promotion " mean to market , advertise , promote , offer for sale , or sell a product . 
+ " promotion fee " have the meaning set forth in section 6.1(a ) . 
+ " purchase order " shall mean a write purchase order generate by mmt for product to be deliver pursuant to customer contract 
+ which include the information set forth in section 5.2(a ) . 
+ " quarterly collect revenue " mean net product sale amount that be collect during the applicable calendar quarter . 
+ " quarterly payment " have the meaning set forth in section 6.2(a ) . 
+ " quarterly report " have the meaning set forth in section 6.2(a ) . 
+ " regulatory approval " mean , with respect to the product in a particular country in the territory , marketing authorization grant by the 
+ relevant regulatory authority permit the marketing and sale of the product in such country but exclude any and all pricing approval and 
+ reimbursement approval . 
+ " regulatory authority " mean , in a particular country , the governmental authority with the authority to grant regulatory approval in 
+ such country . 
+ " regulatory material " mean any documentation comprise any regulatory application , submission , notification , communication , 
+ correspondence , proof of approval or license , registration , regulatory approval or other filing make to , receive from or otherwise conduct with 
+ a regulatory authority to develop , manufacture , market , sell or otherwise commercialize the product in a particular country in the territory . 
+ " reimbursement approval " mean the approval , agreement , determination or decision regard the price for product that can be 
+ reimburse in jurisdiction where the applicable pricing and reimbursement authority approve , determine or recommend the reimbursement of 
+ pharmaceutical product . 
+ " renewal term " have the meaning set forth in section 11.1 . 
+ " restrict market " mean , as applicable under global trade control law , the crimean peninsula , cuba , iran , north korea , and syria . 
+ " restricted party " mean any individual(s ) or entity(ie ) on any of the following ( collectively refer to herein as the " restricted party 
+ list " ): the list of sanctioned entity maintain by the un; the specially designate national list and the sectoral sanction identification list , 
+ as administer by the u.s . department of the treasury office of foreign asset control; the u.s . deny person list , the u.s . entity list , and the 
+ u.s . unverified list , all administer by the u.s . department of commerce; the entity subject to restrictive measure and the consolidated list of 
+ person , group and entity subject to e.u . financial sanction , as implement by the e.u . common foreign & security policy; the list of 
+ exclude individual / entity , as publish by the u.s . health and human service - office of inspector general; any list of prohibit or 
+ debarred party establish under the u.s . federal food drug and cosmetic act; the list of person and entity suspend or debar from 
+ contracting with the u.s . government; and similar list of restrict party maintain by the governmental authority of the country that have 
+ jurisdiction over the activity conduct under this agreement . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ " restrict party list " have the meaning set forth in the definition of restricted party . 
+ [ ] 
+ [ ] 
+ [ ] 
+ " rolling forecast " have the meaning set forth in section 5.1(a ) . 
+ " sec " have the meaning set forth in section 10.4(d ) . 
+ " sell or offer to sell " mean actual negotiation of term of purchase and contracting for sale of product in the field in the territory . 
+ " sell party " have the meaning set forth in the definition of net product sale amount . 
+ " siga indemnitee " have the meaning set forth in section 9.2 . 
+ " siga intellectual property " mean the siga know - how , siga trademark , siga patent and siga invention . 
+ " siga know - how " mean all know - how that ( a ) be necessary or useful for the development , manufacture or commercialization of the 
+ product in the field in the territory and ( b ) ( i ) be control by siga or its affiliate as of the effective date or ( ii ) be or becomes control by siga 
+ or its affiliate during the term . 
+ " siga patent " mean any patent that ( a ) claim , generically or specifically , the product , or the manufacture or use of the product in the 
+ field ( include its intermediate and relevant compound ) and ( b)(i ) be control by siga or its affiliate as of the effective date , which such 
+ patent be set forth in schedule 1 hereto , ( ii ) be control by siga or its affiliate during the term and claim priority to the patent control by 
+ siga or its affiliate as of the effective date , or ( iii ) be or becomes control by siga or its affiliate during the term . 
+ " siga trademark " mean any trademark that ( a ) be necessary for the development , manufacture or commercialization of a product in the 
+ field in the territory and ( b ) ( i ) be control by siga or its affiliate as of the effective date ( which such trademark be set forth in schedule 2 
+ hereto ) or ( ii ) be or becomes control by siga or its affiliate during the term . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ " siga ’s auditor " have the meaning set forth in section 6.5 . 
+ " south korea " mean south korea , include all of its territory and possession . 
+ " special access approval " have the meaning set forth in section 4.4(b ) . 
+ " supply limitation " have the meaning set forth in section 5.4 . 
+ " supply term " mean [ ] . 
+ " term " have the meaning set forth in section 11.1 . 
+ " territory " mean all country and territory in the world other than ( a ) the u.s . , ( b ) south korea , ( c ) any restricted market , and ( d ) any 
+ discontinue country and , in the case of ( a)-(c ) , each of their respective territory and possession . 
+ " third party " mean any person other than siga or mmt or an affiliate of either of they . 
+ " tier 1 country " mean [ ] . 
+ " tier 2 country " mean [ ] . 
+ " tier 3 country " mean [ ] . 
+ " tier period " have the meaning set forth in section 4.2 . 
+ " trademark " mean any trademark , service mark , trade name , brand name , sub - brand name , trade dress , product configuration , program 
+ name , product name , delivery form name , certification mark , collective mark , logo , tagline , slogan , design or business symbol , that function as an 
+ identifier of source or origin , whether or not register and all statutory and common law right therein and all registration and application 
+ therefor , together with all goodwill associate with , or symbolize by , any of the foregoing . 
+ " u.s . " mean the united states of america , include all of its territory and possession . 
+ " vat " have the meaning set forth in section 6.8(c ) . 
+ " yearly collect revenue " mean net product sale amount that be collect during the applicable calendar year . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ article 2 
+ grant of right 
+ 2.1 grant of right to mmt . 
+ ( a ) grant to mmt . subject to the term and condition of this agreement , siga hereby grant to mmt an exclusive right and 
+ license , with the right to grant sublicense as permit under section 2.1(b ) , under the siga intellectual property solely to promote the product in 
+ the field in the territory . the license grant by siga to mmt under this section 2.1(a ) will be exclusive even as to siga with respect to right to 
+ promote the product in the field in the territory , except as set forth in section 2.4 below . 
+ ( b ) sublicense right . except for the subcontractor appoint by mmt as of the effective date as list on exhibit a attach 
+ hereto , mmt may not grant sublicense of the right and license grant to it in section 2.1(a ) to any affiliate ( include pfizer or any affiliate of 
+ pfizer ) or third party without the prior write approval of siga ( such approval not to be unreasonably withhold ) . each such subcontractor list 
+ on exhibit a attach hereto and any affiliate or third party approve by siga as an mmt sublicensee pursuant to this section 2.1(b ) shall be 
+ deem to be a " permit sublicensee " for purpose of this agreement . 
+ ( c ) potential new field . from time to time , mmt may request to expand the field in a particular country in the territory because it 
+ believe that there be an opportunity to promote the product in such new field ( a " potential new field " ) . mmt shall make such request to siga in 
+ writing . siga will determine whether to approve such potential new field , base upon available information regard the regulatory environment 
+ in such country for such potential new field , and whether siga will need to seek regulatory approval and pricing approval and reimbursement 
+ approval . the party shall discuss the potential new field in good faith and upon the mutual write agreement of the party to proceed with a 
+ potential new field in such country , such potential new field shall be deem hereunder to be an " expand field " for purpose of that country 
+ only in the territory . 
+ 2.2 negative covenant . 
+ ( a ) mmt will not , and will not permit any of its affiliate or sublicensee to , use or practice any siga intellectual property 
+ outside the scope of the license grant to it under section 2.1 . 
+ ( b ) siga will not , and will not permit any of its affiliate or licensee to , promote the product in the field in the territory , except 
+ as set forth in section 2.4 . 
+ 2.3 non - compete covenant . during the term , mmt shall not commercialize in any manner any compete product in the field in any 
+ country in the territory; provide , however , the party hereby acknowledge that the restriction set forth in this section 2.3 shall not apply to any 
+ affiliate of mmt ( include pfizer ) . furthermore , [ ] . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 2.4 retain right . notwithstanding anything herein to the contrary , siga retain the right on behalf of itself and its affiliate , licensee 
+ or any third party to develop , manufacture , supply , distribute and otherwise commercialize the product in field the territory , except that siga 
+ may not promote or sell or offer to sell the product in the field in the territory to any third party; provide that siga may , at its sole cost and 
+ discretion engage in promotional activity regard ( but not enter into any customer contract in respect of ) the product in support of mmt ’s 
+ effort to promote or sell and offer to sell the product . 
+ 2.5 no imply license . except as explicitly set forth in this agreement , neither party will be deem by estoppel or implication to have 
+ grant the other party any license or other right to any intellectual property of such party . for clarity , mmt acknowledge and agree that siga 
+ have not grant any license to mmt hereunder to develop or manufacture the product , and mmt do not have any right to commercialize the 
+ product , other than the license grant by siga to mmt to promote the product in the field in the territory as set forth in section 2.1(a ) . 
+ 2.6 [ ] . 
+ ( a ) [ ] . 
+ article 3 
+ governance 
+ 3.1 joint steering committee . 
+ ( a ) formation and role . within thirty ( 30 ) day after the effective date , the party will establish a joint steering committee ( the 
+ " jsc " ) to govern the activity of the party with respect to the promotion and commercialization of the product in the field in the territory 
+ pursuant to this agreement . the role of the jsc be : 
+ [ ] 
+ ( b ) member . [ ] . 
+ ( c ) meeting . [ ] . 
+ ( d ) alliance manager . [ ] . 
+ ( e ) decision making . [ ] . 
+ 3.2 good faith . in conduct themselves on any committee , each representative of either party , include the chairperson , will consider 
+ diligently , reasonably and in good faith all input receive from the other party , and will use commercially reasonably effort to reach consensus on 
+ all matter before they . in exercise any decision - make authority grant to it under this article 3 , each party will conduct its discussion in 
+ good faith with a view toward operate for the mutual benefit of the party and in furtherance of the commercialization and promotion of the 
+ product in the field in the territory . notwithstanding anything to the contrary in this agreement , neither party nor any of their respective affiliate 
+ will be require to take , or will be penalize for not take , any action that be not in compliance with such party ’s ethical business practice and 
+ policy or that such party reasonably believe be not in compliance with law . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 3.3 scope of governance . the party agree not to share or discuss any confidential information beyond the scope of the collaboration 
+ contemplate by this agreement . each party acknowledge and agree that the jsc member and participant will receive confidential information 
+ in connection with their service on the jsc . each party will ensure that its jsc member and its non - voting observer and participant be inform 
+ that they should regard all jsc - relate information as confidential information , and be subject to obligation of confidentiality and non - disclosure 
+ no less stringent than those set forth in article 10 . 
+ article 4 
+ promotion and other commercialization 
+ 4.1 promotion in the territory . 
+ ( a ) [ ] 
+ ( b ) mmt shall use commercially reasonable effort at its sole cost and expense to promote the product in the field within the 
+ territory in accordance with the then - current business plan; provide that mmt shall not promote any product within any restricted market or 
+ discontinued country . 
+ ( c ) mmt shall conduct all promotion activity in accordance with applicable law , pfizer policy and practice regard 
+ advertising , marketing , promotional and other product - specific communication , and the term of this agreement . mmt may prepare marketing , 
+ advertising , promotional material and other communication relate to the product for promotion use in the field in the territory . all such 
+ material shall be truthful and non - misleading , and in compliance with applicable law , and subject to review by siga through the jsc; provide 
+ that the final decision to use any approve material will be at the sole discretion of mmt . 
+ ( d ) subject to section 4.2 , siga shall provide reasonable assistance to mmt with respect to mmt ’s conduct of promotion 
+ activity with respect to the product in the field in the territory as specifically set forth in the business plan , include provide response to 
+ medical inquiry communicate to mmt ’s sale representative or other external - face mmt representative or receive by mmt by letter , 
+ phone call or email or other mean of communication , at mmt ’s sole cost and expense; provide , however , siga shall solely be responsible for the 
+ cost and expense associate with the response to any medical inquiry . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( e ) mmt will provide appropriate ( as determine by mmt in its sole discretion ) training ( include regard compliance with 
+ applicable law ) of the mmt promotion personnel who will be communicate with potential customer about the product . 
+ ( f ) subject to section 13.6 , mmt may not use any subcontractor that be not a permit sublicensee to fulfill its obligation under 
+ this agreement . 
+ 4.2 diligence . notwithstanding anything herein to the contrary , mmt ’s commitment to use commercially reasonable effort as set forth 
+ herein shall not preclude the suspension or discontinuance of the promotion of the product in the field in a country within the territory , if 
+ reasonably appropriate , base on the application of commercially reasonable effort with respect to the promotion of the product in such country . 
+ if mmt do not document in the business plan [ ] the product in the field in a country in the territory ( " [ ] " ) for a period of either ( i ) [ ] 
+ calendar month after the effective date for tier 1 country , ( ii ) [ ] calendar month after the effective date for tier 2 country or ( iii ) [ ] 
+ calendar month after the effective date for tier 3 country ( each such time period set forth in ( i)-(iii ) be a " tier period " ) , then no later than 
+ [ ] business day after the expiration the applicable tier period for such country , siga may provide mmt with write notice [ ] non- [ ] ( a 
+ " non- [ ] notice " ) in such country , and upon mmt ’s receipt of such non- [ ] notice , such country shall be deem to be a " discontinue 
+ country " for purpose of this agreement . if [ ] , siga shall have the right to designate the applicable country as a discontinued country at any 
+ time thereafter as long as the relevant tier period [ ] for the country have be meet at the time of the non- [ ] notice . siga hereby 
+ acknowledge and agree that mmt and its affiliate make ( and have make ) no representation or warranty , either express or imply , at law or in 
+ equity , that it will be able to successfully achieve any amount of net product sale amount , and siga specifically disclaim that it be rely upon 
+ or have rely upon any such representation or warranty that may have be make by any individual or entity . siga acknowledge and agree 
+ that mmt and its affiliate have , and will continue to have , other program that may compete for resource that may be expend in the promotion 
+ of the product . except as otherwise set forth in section 2.3 with respect to compete product , nothing in this agreement shall limit or restrict the 
+ right of mmt or its affiliate to develop , make regulatory filing , obtain regulatory approval with respect to , or to commercialize any product that 
+ be not the product or , with respect to mmt only , a compete product or to engage in any business or other activity . 
+ 4.3 customer contract . 
+ ( a ) subject to section 2.4 and section 4.3(b ) , mmt shall serve as the primary contracting party [ ] . 
+ ( b ) [ ] . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 4.4 regulatory matter . 
+ ( a ) subject to section 4.4(b ) and ( c ) each party , at its sole cost and expense , will be responsible for obtain all regulatory 
+ authorization , permit , license , and approval require to carry out its obligation under this agreement . 
+ ( b ) [ ] . 
+ ( c ) mmt will provide siga with final copy of any marketing , advertising , promotional material and other communication 
+ develop pursuant section 4.1(c ) , and as soon as reasonably practicable thereafter , siga will be responsible for submit on mmt ’s behalf such 
+ material or other communication to seek to obtain any approval necessary under applicable law for the use of such material in the territory . 
+ ( d ) mmt will promptly notify siga , and shall provide siga with a copy , of any information it receive regard any threaten 
+ or pende action , inspection or communication by or from any third party , include a regulatory authority , which may affect the regulatory 
+ status of the product and will reasonably cooperate with siga in its response thereto . mmt may choose not to disclose communication , other 
+ than communication from regulatory authority , to the extent that mmt ’s counsel reasonably believe that such disclosure to siga could 
+ violate applicable privacy law or have a significant adverse impact on mmt ’s legal position or defense ( include the loss of attorney - client 
+ privilege ) , in which case mmt shall promptly notify siga that it be exercise its right not to disclose . 
+ 4.5 discontinue country . for clarity , notwithstanding anything to the contrary set forth herein , upon the designation of a country as a 
+ " discontinued country " under this agreement , siga shall have the right to promote the product in the discontinued country at its sole discretion 
+ and cost . upon designation of a country as a " discontinued country " in accordance with section 4.2 , mmt shall immediately cease all 
+ promotional effort relate to the product in such country , and siga shall have the sole right to promote the product in such discontinued country 
+ during and after the term . 
+ article 5 
+ forecasting and order 
+ 5.1 product forecast . 
+ ( a ) [ ] . 
+ ( b ) [ ] . 
+ 5.2 purchase order . 
+ ( a ) [ ] . 
+ [ ] . 
+ [ ] . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 5.3 delivery . [ ] . 
+ 5.4 supply limitation . [ ] . 
+ 5.5 supply penalty . [ ] . 
+ 5.6 adverse event report . mmt or its affiliate will reasonably cooperate with siga to meet applicable pharmacovigilance and safety 
+ reporting requirement and in the event of a product recall . to facilitate pharmacovigilance and safety reporting , the party agree that they will 
+ follow the procedure describe in schedule 3 safety reporting requirement , which may be amend from time - to - time , to ensure that adverse 
+ event and other safety information be identify , review , and report in a manner that will permit siga to comply with applicable law , include 
+ any reporting requirement with any applicable regulatory authority . 
+ article 6 
+ payment 
+ 6.1 promotion fee . 
+ ( a ) in consideration for the service provide by mmt hereunder , commence with the first commercial sale of the product in 
+ the territory , mmt shall be entitle to retain a fee ( the " promotion fee " ) of : 
+ ( i ) [ ] of the yearly collect revenue of the product in the territory in each calendar year during the term if the 
+ aggregate net product sale amount for such calendar year be equal to or below [ ] ; and 
+ ( ii ) [ ] of the yearly collect revenue of the product in the territory in each calendar year during the term if the 
+ aggregate net product sale amount for such calendar year exceed [ ] . 
+ ( b ) in satisfaction of mmt ’s right to the promotion fee , mmt shall retain from each payment to siga of the quarterly collect 
+ revenue an amount equal to ( i ) [ ] of the quarterly collect revenue in the territory during such calendar quarter so long as the total net 
+ product sale amount in the territory during the relevant calendar year be equal to or below [ ] and ( ii ) [ ] of the quarterly collect 
+ revenue in the territory during such calendar quarter where the total net product sale amount in the territory during the relevant calendar year 
+ exceed [ ] and ( iii ) any credit amount . if the net product sale amount in the territory exceed [ ] during any calendar year after any 
+ quarterly payment have be make , mmt shall automatically accrue a credit of [ ] ( the " credit amount " ) ( represent the additional [ ] fee 
+ that mmt would be entitle to receive with respect to the first [ ] of the quarterly collect revenue as a result of total net product sale 
+ amount in the relevant calendar year have [ ] ) , which credit amount will be deduct from future payment of quarterly collect revenue 
+ to siga until the full credit amount be retain by mmt . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 6.2 payment . 
+ ( a ) within [ ] day after the conclusion of each calendar quarter to occur during the term , commence with the first 
+ commercial sale of the product in the field in the territory , mmt shall deliver to siga a write report contain the follow information ( each a 
+ " quarterly report " ): [ ] . all such report shall be consider confidential information of mmt . concurrent with the delivery of the applicable 
+ quarterly report , mmt shall pay to siga in dollar by wire transfer of immediately available fund into an account designate by siga in write 
+ in advance of such payment the net result of quarterly collect revenue , minus the correspond promotion fee , and minus any applicable 
+ credit amount for such calendar quarter ( all amount as calculate in the quarterly report , and the payment of the net result be a " quarterly 
+ payment " ) . 
+ ( b ) upon the expiration or termination of this agreement , mmt shall submit a final write report cover the time period 
+ between the date of the last quarterly report submit by mmt and the date of expiration or termination of this agreement ( the " final report " ) . 
+ the final report shall contain all information require to be include in a quarterly report with respect to the time period between the conclusion 
+ of the most recent calendar quarter and the date of expiration or termination of this agreement . if mmt owe any outstanding amount to siga as 
+ calculate pursuant to such final report , then mmt shall pay to siga in dollar such outstanding amount by wire transfer of immediately 
+ available fund into an account designate by siga in write in advance of such payment within [ ] day after delivery of the final report . if 
+ siga owe any amount relate to any portion of any outstanding credit amount or otherwise , then siga shall pay such outstanding amount 
+ to mmt within [ ] day after delivery of the final report . 
+ 6.3 currency . all sum due under this agreement shall be payable in dollar . any amount in currency other than dollar shall , for 
+ purpose of determine net product sale amount or quarterly collect revenue , be convert to dollar use the [ ] . once the net 
+ product sale amount or quarterly collect revenue payable in respect of a particular calendar quarter have be convert into dollar , such 
+ amount of dollar shall be use for the purpose of calculate the total net product sale amount and quarterly collect revenue during the 
+ calendar year that include such calendar quarter . 
+ 6.4 record . mmt will keep ( and will ensure that its affiliate and sublicensee keep ) such record as be require to determine , in 
+ accordance with u.s . generally accept accounting principle or international financial reporting standard , as applicable , and this agreement and 
+ the sum or credit due under this agreement , include net product sale amount . mmt will retain all such book , record and account until 
+ the later of ( a ) [ ] after the end of the period to which such book , record and account pertain and ( b ) the expiration of the applicable tax 
+ statute of limitation ( or any extension thereof ) , or for such long period as may be require by law . mmt will require its sublicensee to 
+ provide to it a report detail the forego expense and calculation incur or make by such sublicensee , which report will be make available to 
+ siga in connection with any audit conduct by siga pursuant to section 6.5 . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 6.5 audit . siga may have an independent top four certify public accountant , reasonably acceptable to mmt ( " siga ’s auditor " ) , have 
+ access during normal business hour , and upon [ ] business day ' prior write notice , to examine only those record of mmt ( and its 
+ affiliate and sublicensee ) as may be reasonably necessary to determine , with respect to any calendar year end not more than [ ] before 
+ siga ’s request , the correctness or completeness of any report or payment make under this agreement; provide , however , mmt shall not be 
+ require to provide , and neither siga nor siga ’s auditor shall be entitle to review , the tax return or tax record of mmt or those of its affiliate 
+ and sublicensee . the foregoing right of review may be exercise only once per year and only once with respect to each periodic report and 
+ payment deliver in accordance with section 6.2 . report of the result of any such examination ( each an " audit report " ) will be ( a ) limit to 
+ detail of any discrepancy in mmt ’s record relate to the product together with an explanation of the discrepancy and the circumstance 
+ give rise to the discrepancy ( b ) make available to both party and ( c ) subject to article 10 . an audit report shall become final and bind on 
+ the party thirty ( 30 ) day follow mmt ’s receipt thereof , unless mmt deliver write notice of its agreement thereto ( in which case such 
+ audit report shall become final and bind on the date of delivery of such notice of agreement ) or write notice of its disagreement thereto 
+ ( " notice of disagreement " ) to siga in either case on or prior to such date . if a timely notice of disagreement be deliver by mmt to siga , then 
+ the audit report shall become final and bind on the party on the early of ( i ) the date mmt and siga resolve in write any difference they 
+ have with respect to the matter specify in the notice of disagreement , and ( ii ) the date all matter in dispute be finally resolve in writing by the 
+ independent auditor . during the thirty ( 30 ) day follow delivery of a notice of disagreement , mmt , siga and siga ’s auditor shall seek to 
+ resolve in write any difference which they may have with respect to the matter specify in the notice of disagreement . at the end of such 
+ thirty ( 30 ) day period , if no resolution have be reach , mmt and siga shall submit such dispute to an independent top four certify public 
+ accountant other than siga ’s auditor and reasonably acceptable to both party ( the " independent auditor " ) for resolution of all matter which 
+ remain in dispute which be include in the notice of disagreement , and the independent auditor shall make a final determination with respect 
+ thereto ( with it be understand that the party will request that the independent auditor deliver to the party its resolution in write not more 
+ than 30 day after its engagement ) . the independent auditor shall make a determination only with respect to the matter still in dispute and , with 
+ respect to each such matter , its determination shall be within the range of the dispute among mmt , siga and siga ’s auditor . if an audit report as 
+ finally determine pursuant to this section 6.5 ( a " final audit report " ) conclude that ( i ) additional amount be owe by mmt , mmt will pay 
+ the additional amount , or ( ii ) excess payment be make by mmt , siga will reimburse such excess payment , in either case ( ( i ) or ( ii ) ) , within 
+ thirty ( 30 ) business day after the date on which an audit report be deem a final audit report . siga will bear the full cost of the performance of 
+ any such audit , include the fee of siga ’s auditor and the independent auditor , unless a final audit report , which cover the entire calendar 
+ year , disclose a variance to the detriment of the auditing party of more than [ ] from the amount of the original report , royalty or payment 
+ calculation , in which case mmt will bear the full cost of the performance of such audit . the result of such audit , include any determination 
+ make by the independent auditor , will be final , absent manif error . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 6.6 block payment and indemnification . if either party utilize a restricted party in the activity contemplate under this agreement , 
+ without a license or other authorization require by global trade control law or in circumstance where reimbursement by the non - utilizing party 
+ would violate or create exposure to adverse consequence under global trade law , the non - utilizing party shall not be responsible for any 
+ payment due to the utilize party or any other party result from the activity involve such restrict party even if the contractual obligation 
+ relate thereto have already accrue . any and all payment due to such utilize party or any other party result from such activity involve a 
+ restricted party shall be entirely at such utilize party ’s expense . far , if the conduct of any activity or a transaction under this agreement be 
+ in violation of applicable global trade control law for any reason , such violate party shall indemnify the other party for any liability result 
+ from such activity or transaction , include any and all fine and penalty assess to such other party as a result of such activity or transaction . 
+ 6.7 source of recovery . any outstanding amount due and payable by siga pursuant to the term of this agreement , include 
+ reimbursement for supply penalty pursuant to section 5.5 and any amount owe to an mmt indemnitee pursuant to siga ’s indemnification 
+ obligation in section 9.1 , at mmt ’s option , can be set - off by mmt from any quarterly payment until such amount be fully recovered; provide 
+ that any amount that be subject to a dispute properly bring under article 12 may not be set - off pursuant to this section 6.7 . 
+ 6.8 taxis . 
+ ( a ) taxis on income . each party will pay all taxis ( include related interest and penalty ) impose on its share of income arise 
+ directly or indirectly from the effort of , or the receipt or deem receipt of any payment by , such party under this agreement . 
+ ( b ) tax withholding . subject to section 6.8(c ) and section 6.8(d ) , if any taxis ( include related interest and penalty ) be 
+ require to be withhold by or on behalf of mmt with respect to an amount payable to siga , ( a ) mmt will withhold such taxis from such amount , 
+ timely pay the withhold taxis to the proper tax authority and furnish reasonably satisfactory proof of payment to siga; and ( b ) siga will 
+ reasonably assist mmt in its effort to obtain a refund of or credit for such withholding tax in accordance with section 6.8(c ) . any amount actually 
+ withhold and remit by mmt to a tax authority pursuant to this section 6.8(b ) will be treat for all purpose of this agreement as having 
+ be pay to siga . if mmt make a payment without deduction for tax withholding and an amount of tax should have be withhold from such 
+ payment , mmt shall be entitle to recover the under withhold tax by an additional withholding from any amount payable to siga under this 
+ agreement , and to the extent such recovery be insufficient , siga shall indemnify mmt for any such amount . no amount shall be withhold , or a 
+ reduce amount shall be withhold , as applicable , if , in accordance with section 6.8(d ) , a party that be entitle to a payment timely furnish the other 
+ party with the necessary tax form and other document prescribe by law , which shall be in a form reasonably satisfactory to the party receive 
+ the document , identify that the relevant payment be exempt from tax or subject to a reduce tax rate . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( c ) vat . it be understand and agree between the party that the amount of any payment contemplate under this agreement 
+ be exclusive of any value add tax , sale tax or any similar tax ( " vat " ) , which shall be add thereon as applicable . where vat be properly add 
+ to a payment make under this agreement , mmt or siga , as applicable , will pay the amount of the vat , if applicable , but only on receipt of a valid 
+ tax invoice issue in accordance with applicable law of the country in which the vat be chargeable . 
+ ( d ) tax cooperation . the party agree to cooperate with one another and use reasonable effort to reduce or eliminate tax 
+ withholding , vat or similar obligation in respect of royalty , milestone payment , and other amount payable under this agreement . siga and 
+ mmt will provide each other with any applicable tax form that may be reasonably necessary in order for the other party not to withhold tax or to 
+ withhold tax at a reduce rate under an applicable income tax treaty or pursuant to applicable internal law . each party will provide the other with 
+ reasonable assistance to enable the recovery , as permit by law , of withholding taxis , vat , or similar obligation result from payment make 
+ under this agreement , such recovery to be for the benefit of mmt or siga , as applicable , to the extent it have comply with the requirement of 
+ this section 6.8 in respect of such obligation . 
+ article 7 
+ intellectual property 
+ 7.1 ownership of siga intellectual property . subject to the license grant to mmt under section 2.1 , siga shall own and retain all of its 
+ right , title and interest in and to the siga intellectual property and the goodwill relate to such intellectual property . 
+ 7.2 intellectual property maintenance . siga shall control and be solely responsible for , at its sole discretion , the filing , preparation , 
+ prosecution , enforcement , maintenance and defense of the siga intellectual property worldwide and all claim and other aspect relate thereto at 
+ siga ’s sole cost and expense , except as set forth in section 7.3 . 
+ 7.3 new patent and trademark . for each active country , siga shall prosecute ( a ) application in respect of any siga patent list on 
+ schedule 1 , and ( b ) trademark registration for the siga trademark list on schedule 2 ( or such other trademark in respect of the product as 
+ mutually agree by the party at the jsc ) , in each case ( ( a ) and ( b ) ) , with the appropriate governmental authority , provide that there be no 
+ trademark which may be substantially similar or patent which may limit patentability , and provide far , if siga determine that it be not 
+ commercially reasonable to prosecute such patent and trademark , siga shall consult with mmt in respect of the appropriate prosecution 
+ strategy in such active country . for clarity , any new patent or trademark file and/or register , as applicable , by siga , pursuant to this section 
+ 7.3 shall be deem a siga patent or a siga trademark , respectively , and shall be subject to the grant of right to mmt set forth in section 2.1 . 
+ siga ’s obligation to make the filing describe in the first sentence of this section 7.3 shall not apply with respect to an active country if the 
+ product be sell in such active country pursuant to a special access approval or other regulatory approval , without the need to file for siga 
+ patent or siga trademark in such country . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ article 8 
+ representation and warranties; covenant 
+ 8.1 mutual representation and warranty . each party hereby represent and warrant to the other party as follow : 
+ ( a ) corporate existence . as of the effective date , it be a company or corporation duly organize , validly exist , and in good 
+ standing under the law of the jurisdiction in which it be incorporate or formed; 
+ ( b ) corporate power , authority and bind agreement . as of the effective date , ( i ) it have the power and authority and the legal 
+ right to enter into this agreement and perform its obligation hereunder; ( ii ) it have take all necessary action on its part require to authorize the 
+ execution and delivery of this agreement and the performance of its obligation hereunder; and ( iii ) this agreement have be duly execute and 
+ deliver on behalf of such party , and constitute a legal , valid , and bind obligation of such party that be enforceable against it in accordance 
+ with its term , subject to bankruptcy , insolvency , reorganization , moratorium or similar law affect or relate to the enforcement of creditor ’ 
+ right generally , and general principle of equity; 
+ ( c ) no conflict . the execution and delivery of this agreement , the performance of such party ’s obligation hereunder and the 
+ license and sublicense to be grant pursuant to this agreement ( i ) do not and will not conflict with or violate any requirement of law exist 
+ as of the effective date; ( ii ) do not and will not conflict with or violate the certificate of incorporation , by - law or other organizational document of 
+ such party; and ( iii ) do not and will not conflict with , violate , breach or constitute a default under any contractual obligation of such party or any 
+ of its affiliate exist as of the effective date; 
+ ( d ) other right . neither such party nor any of its respective affiliate be a party to or otherwise bind by any oral or write 
+ contract or agreement that will result in any other person obtain any interest in , or that would give to any other person any right to assert any 
+ claim in or with respect to , any of such party ’s right under this agreement; 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( e ) no violation . neither such party nor any of its respective affiliate be under any obligation to any person , contractual or 
+ otherwise , that be in violation of the term of this agreement or that would impede the fulfillment of such party ’s obligation hereunder; and 
+ ( f ) no debarment . as of the effective date , neither such party , its respective affiliate , nor any of its respective employee , 
+ consultant or contractor involve in the performance of activity under this agreement : 
+ ( i ) be debar under section 306(a ) or 306(b ) of the fd&c act or by the analogous law of any regulatory authority; 
+ ( ii ) have , to such party ’s knowledge , be charge with , or convict of , any felony or misdemeanor within the ambit of 
+ 42 u.s . c. § § 1320a-7(a ) , 1320a-7(b)(l)-(3 ) , or pursuant to the analogous law of any regulatory authority , or be propose for exclusion , or the 
+ subject of exclusion or debarment proceeding by a regulatory authority; 
+ ( iii ) be exclude , suspend or debar from participation , or otherwise ineligible to participate , in any u.s . or non - u.s . 
+ healthcare program ( or have be convict of a criminal offense that fall within the scope of 42 u.s . c. § 1320a-7 but not yet exclude , debar , 
+ suspend , or otherwise declare ineligible ) , or exclude , suspend or debar by a governmental authority from participation , or otherwise 
+ ineligible to participate , in any government contract or program , include procurement or non - procurement programs; and 
+ ( iv ) be a restricted party or be own or control by a restricted party . 
+ 8.2 additional representation , warranty and covenant of siga . siga represent and warrant to mmt as of the effective date , and 
+ covenant to mmt during the term , as follow : 
+ ( a ) siga patent schedule . schedule 1 set forth a true and complete list of all siga patent own or otherwise control by 
+ siga or its affiliate that relate to the product or its manufacture or use , include in the case of siga patent that be license to siga , the name 
+ of the owner(s ) and licensor(s ) and the agreement(s ) provide siga with control . 
+ ( b ) title; encumbrance . except as set forth on schedule 8.2(b ) , ( i ) it have sufficient legal or beneficial title , ownership or license , 
+ right , free and clear from any mortgage , pledge , lien , security interest , option , conditional and installment sale agreement , encumbrance , 
+ charge or claim of any kind , of or to the siga intellectual property to grant the license to mmt as purport to be grant pursuant to this 
+ agreement and ( ii ) no third party have take any action before any patent and trademark office ( or similar governmental authority ) , which would 
+ render any of the siga intellectual property invalid or unenforceable; 
+ ( c ) notice of infringement or misappropriation; non - infringement of right by third party . to siga ’s knowledge , no third 
+ party be infringe or misappropriate or have infringe the siga intellectual property . in addition , it have not receive any notice from any third 
+ party assert or allege that ( i ) the product or any siga trademark have infringe or misappropriate the intellectual property right of any third 
+ party or ( ii ) the performance of mmt ’s obligation under this agreement infringe or would infringe any third party intellectual property rights; 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( d ) non - infringement of third party right . to siga ’s knowledge , the commercialization of the product can be carry out as 
+ contemplate by this agreement as of the effective date without infringe any issue patent or pende application control by a third party 
+ and without infringe any trademark right of any third party . 
+ ( e ) non - assertion by third party . no third party have assert or threaten in write legal action assert , that the siga 
+ patent or the siga trademark be invalid or unenforceable by challenge or threaten to challenge the inventorship , ownership , siga ’s right 
+ to use , scope , validity or enforceability of any siga patent ( include by way of example , through the institution or write threat of institution of 
+ interference , derivation , post - grant review , opposition , nullity or similar invalidity proceeding before any governmental authority); 
+ ( f ) no proceeding . there be no pende , and to siga ’s knowledge , no threatened , adverse action , claim , investigation , suit 
+ or proceeding against siga or any of its affiliate , at law or in equity , or before or by any governmental authority , involve the siga intellectual 
+ property or the product , nor to siga ’s knowledge have any such adverse action , claim , investigation , suit or proceeding be bring or threaten 
+ since the inception of siga as a company , in each case , which have be resolve in a manner that impairs any of siga ’s right in and to any such 
+ siga intellectual property or the product; 
+ ( g ) no consent . no authorization , consent , approval of a third party , nor any license , permit , exemption of or filing or 
+ registration with or notification to any court or governmental authority be or will be necessary for the ( i ) valid execution , delivery or performance of 
+ this agreement by siga , include siga ’s obligation under this agreement; ( ii ) the consummation by siga of the transaction contemplate 
+ hereby and the right convey to mmt hereunder; or ( iii ) prevention of the termination of any right , privilege , license or agreement relate to the 
+ siga intellectual property or the continuation thereof follow the effective date; 
+ ( h ) no non - competition agreement . neither siga nor any of its affiliate be bind by any non - competition agreement 
+ relate to the product; 
+ ( i ) compliance with law . siga have comply with all law in connection with the prosecution of the siga patent , include any 
+ duty of candor owe to any patent office pursuant to such laws; 
+ ( j ) no grant of right . as of the effective date , there be no right with respect to the product or the siga trademark in the 
+ territory grant by siga , in each case , to any person or entity other than mmt; 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( k ) no third party right to sublicense . no third party have the right to sublicense any siga patent or siga trademark without 
+ the express write consent of siga , which consent will be withhold if in any way it conflict with this agreement . 
+ ( l ) no unauthorized use . neither siga nor any of its affiliate have receive any write notice of any unauthorized use , 
+ infringement , or misappropriation by any person , include any current or former employee or consultant of siga or its affiliate , in respect of the 
+ product or of any of the siga intellectual property; 
+ ( m ) intellectual property right . the siga intellectual property include and will continue to include all intellectual property 
+ right control by siga which be reasonably necessary for the commercialization of the product in accordance with the term of this agreement . 
+ ( n ) maintenance of siga patent and trademark right . siga will , at siga ’s sole discretion , diligently prosecute , maintain , 
+ enforce , and defend each of the siga patent and the siga trademark reasonably necessary for the commercialization of the product in 
+ accordance with the term of this agreement . 
+ ( o ) siga patent and patent application . ( i ) the siga patent list on schedule 1 be the only patent and patent application 
+ relate to the product in the field in the territory which siga have an interest either alone or jointly with any third party , and ( ii ) siga do not 
+ have knowledge of any information which lead it to believe that any issue patent include in the siga patent be invalid or unenforceable; 
+ ( p ) siga trademark and trademark application . ( i ) the siga trademark list on schedule 2 be the only trademark and 
+ trademark application relate to the product in which siga have an interest either alone or jointly with any third party ( other than application 
+ make during the term in accordance with section 7.3 ) , and ( ii ) to siga ’s knowledge none of the siga trademark be invalid or unenforceable; 
+ ( q ) renewal and maintenance fee . all material renewal and maintenance fee due as of the effective date with respect to the 
+ prosecution and maintenance of the siga patent and siga trademark have be pay , and to siga ’s knowledge , all issue patent within the 
+ siga patent , and each claim set forth therein be in full force and effect and be valid and enforceable; 
+ ( r ) access to information . siga have allow , and will continue to allow , mmt reasonable access to material information in siga ’s 
+ possession or control ( i ) concern side effect , injury , toxicity or sensitivity reaction and incident or severity thereof with respect to the 
+ product; and ( ii ) in respect of the siga intellectual property and the product; 
+ ( s ) inventor . the inventor name in the siga patent be , to siga ’s knowledge , all of the true inventor for such siga patent 
+ and each of such inventor have assign to siga or its affiliate all of his or her right , title and interest to such siga patent and the invention 
+ describe therein; 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( t ) employee confidentiality agreement . all current and former employee and pay consultant ( in the case of academic 
+ consultant , those act outside the scope of their academic affiliation ) of siga and its affiliate who be or have be substantively involve in 
+ the conception , design , review , evaluation , reduction to practice , or development of siga patent or the product have execute write contract or 
+ be otherwise obligate to protect the confidential status and value thereof and to vest in siga exclusive ownership of the siga patent and the 
+ product; 
+ ( u ) third party confidentiality . with the exception of the government authority , to our knowledge , no third party have any 
+ siga know - how in its possession or control which be not subject to continue obligation of confidentiality owe to siga or its affiliate for at 
+ least the duration of the term; provide that siga know - how may be disclose to governmental authority without a continue obligation of 
+ confidentiality owe to siga or its affiliate if disclose in connection with the promotion of the product hereunder or by siga outside of the 
+ territory; 
+ ( v ) safety and efficacy . siga be not aware of any problem concern the safety or efficacy of the product ( include any of its 
+ ingredient ) or of any question raise by any regulatory authority with respect thereto , and siga have provide relevant information to mmt of 
+ all adverse drug reaction know to siga relate to the product or their use; 
+ ( w ) good practice . the development and manufacture of the product have be carry out as of the effective date in 
+ accordance with united states glp , gcp and gmp , as applicable and where require . after the effective date , the development and manufacture of 
+ the product will be carry in accordance with the glp , gcp and gmp of the united states and any country in the territory where the product have 
+ receive regulatory approval , in all case , as applicable and where required; and 
+ ( x ) regulatory matter . 
+ ( i ) siga have provide or make available , when request by mmt to conduct its due diligence review , document and 
+ communication in its possession from and to any governmental authority , or prepare by any governmental authority , relate to the product , 
+ that may bear on the compliance with the requirement of any governmental authority , include any notice of inspection , inspection report , 
+ warning letter , deficiency letter , or similar communication ( collectively " compliance communications”); 
+ ( ii ) neither siga nor any of its affiliate have receive , with respect to siga intellectual property and the product , any 
+ oral or write communication ( include any warning letter , untitled letter , or similar notice ) from any governmental authority and , there be no 
+ action pende or , to siga ’s knowledge , threaten ( include any prosecution , injunction , seizure , civil fine , suspension or recall ) , in each case 
+ allege that with respect to the siga intellectual property or product , siga or any of its affiliate be not currently materially in compliance with 
+ any and all law implement by such governmental authority ( collectively , a " non - compliance action " ) . neither siga nor any of its affiliate 
+ have receive any oral or write notice from any governmental authority claim that the development , commercialization or promotion of the 
+ product be not in material compliance with all law and permits; 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( iii ) as to any product , during the term siga shall provide , or make available , to mmt copy of any ( a ) compliance 
+ communication within five ( 5 ) business day after provision to , or receipt from , any governmental authority and ( b ) non - compliance action 
+ within five ( 5 ) business day after receipt from a governmental authority; except ( in the case of ( a ) and ( b ) ) to the extent that siga ’s counsel 
+ reasonably believe that such disclosure to mmt could violate applicable privacy law or have a significant adverse impact on siga ’s legal 
+ position or defense ( include the loss of attorney - client privilege ) . in the event that siga determine that disclosure could violate applicable 
+ privacy law or have a significant adverse impact on its legal position or defense , siga shall promptly notify mmt that it be exercise its right not 
+ to disclose; and 
+ ( iv ) to siga ’s knowledge , none of siga , any of its affiliate or any of their respective officer , employee or agent have 
+ make , with respect to the siga intellectual property or the product , an untrue statement of a material fact to any governmental authority or have 
+ fail to disclose a material fact require to be disclose to such governmental authority . 
+ 8.3 additional representation and warranty of mmt . mmt represent and warrant to siga as of the effective date , and covenant 
+ to siga during the term , as follow : 
+ ( a ) with respect to each country in the territory in which mmt promote or intend to promote the product , if mmt know or 
+ become aware that governmental authority in such country can not purchase the product unless the product have receive regulatory approval 
+ in such country , then mmt shall promptly notify siga of such requirement; and 
+ ( b ) with respect to each country in the territory , mmt have not receive , any oral or write communication relate to the 
+ product or the promotion of the product contemplate by this agreement ( include any warning letter , untitled letter , or similar notice ) from any 
+ governmental authority in such country and , there be no action pende or , to mmt ’s knowledge , threaten ( include any prosecution , 
+ injunction , seizure , civil fine , suspension or recall ) , in each case allege that mmt be not currently materially in compliance with any and all law 
+ implement by such governmental authority that would materially impact mmt ’s ability to perform its obligation hereunder in such country . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 8.4 covenant . 
+ ( a ) no debarment or restricted party . neither party will knowingly use any employee , consultant , contractor or agent or 
+ knowingly engage in promotion , commercialization , or distribution of product to any entity or person : 
+ ( i ) who have be debar under section 306(a ) or 306(b ) of the fd&c act or pursuant to the analogous law of any 
+ regulatory authority; 
+ ( ii ) who , to such party ’s knowledge , have be charge with , or convict of , any felony or misdemeanor within the ambit 
+ of 42 u.s.c . § § 1320a-7(a ) , 1320a-7(b)(l)-(3 ) , or otherwise pursuant to the analogous law of any regulatory authority , or be propose for exclusion , 
+ or the subject of exclusion or debarment proceeding by a regulatory authority , during the employee ’s or consultant ’s employment or contract 
+ term with such party; 
+ ( iii ) who be exclude , suspend or debar from participation , or otherwise ineligible to participate , in any u.s . or non- 
+ u.s . healthcare program ( or who have be convict of a criminal offense that fall within the scope of 42 u.s . c. § 1320a-7 but have not yet be 
+ exclude , debar , suspend , or otherwise declare ineligible); 
+ ( iv ) who be exclude , suspend or debar by a governmental authority from participation , or otherwise ineligible to 
+ participate , in any government contract or government program , include procurement and non - procurement programs; or 
+ ( v ) who be otherwise a restricted party . 
+ ( b ) each party will conduct appropriate screening of employee , consultant , contractor or agent that perform service on 
+ behalf of such party under this agreement against the relevant restrict party list . each party will notify the other party promptly , but in no 
+ event later than five ( 5 ) business day , upon become aware that any of its employee , consultant , contractor or agent have be exclude , 
+ debar , suspend or be otherwise ineligible , or be the subject of exclusion , debarment or suspension proceeding by any regulatory authority . 
+ notwithstanding the foregoing , each party will notify the other party immediately in the event that any employee , consultant , contractor or agent 
+ perform service on behalf of such party under this agreement become a restricted party during the term and , in such event , the party shall 
+ immediately suspend all activity relate thereto , include the performance of any accrue obligation under this agreement or any customer 
+ contract . 
+ ( c ) compliance . 
+ ( i ) health authority . each party and its affiliate will comply in all material respect with all law in the development , 
+ manufacture , promotion and commercialization of the product and the performance of its obligation under this agreement , include where 
+ applicable the statute , regulation and write directive of the fda , the ema , and any regulatory authority have jurisdiction in the territory , 
+ and all applicable anti - corruption law . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( ii ) anti - corruption . in connection with the performance of its obligation under this agreement , neither party , include 
+ its officer , director , employee , or agent , have take , nor will either party take during the term , any direct or indirect action to knowingly ( i ) offer , 
+ promise , provide , or authorize the offer or provision of money or anything of value , in order to improperly or corruptly seek to influence any official , 
+ employee , or representative of a governmental authority or any other person in order to obtain or retain business or any other improper business 
+ advantage , ( ii ) request or accept any such improper payment , ( iii ) establish or maintain any unlawful fund of corporate monie or other property , 
+ ( iv ) use any corporate fund for any illegal contribution , gift , entertainment , travel or other unlawful expense , or ( v ) cause a violation of any 
+ applicable anti - corruption law . for illustrative purpose only , an example of the activity describe in the second sentence of this section 8.4(c ) 
+ would be to knowingly provide any improper inducement for a government official or other person to approve , reimburse , prescribe , or purchase 
+ the product , to influence the outcome of a clinical trial , or otherwise to benefit a party ’s or its affiliate ' business activity improperly . 
+ ( iii ) trade control . 
+ ( a ) each party will perform the activity under this agreement in compliance with all applicable global trade 
+ control law . 
+ ( b ) neither party will knowingly transfer to the other party any good , software , technology , or service that 
+ be ( a ) control at a level other than ear99 under the u.s . export administration regulation , ( b ) control under the u.s . international traffic in 
+ arm regulation , ( c ) specifically identify as an e.u . dual use item or ( d ) on an applicable export control list of a foreign country . 
+ ( c ) the party acknowledge that activity under this agreement will not ( i ) be in or with a restricted market , 
+ ( ii ) involve individual ordinarily resident in a restricted market , or ( ii ) include company , organization , or governmental authority organize or 
+ locate in a restricted market . 
+ ( d ) no violation . neither party nor any of its affiliate will enter into an agreement or otherwise create any obligation to any 
+ person or entity , contractual or otherwise , that be in material violation of the term of this agreement . 
+ ( e ) third party confidentiality . siga will use commercially reasonable effort to ( i ) maintain the confidentiality of the siga 
+ know - how , and ( ii ) ensure that no third party have any siga know - how in its possession or control which be not subject to continue obligation 
+ of confidentiality owe to siga or its affiliate for at least the duration of the term; provide that siga know - how may be disclose to 
+ governmental authority without a continue obligation of confidentiality owe to siga or its affiliate if disclose in connection with the 
+ promotion of the product . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 8.5 no other representation or warranty . except as expressly state in this agreement , no representation or 
+ warranty whatsoever , whether express or imply , include warranty of merchantability , fitness for a 
+ particular purpose , non - infringement , or non - misappropriation of third party intellectual property right , be 
+ make or give by or on behalf of either party , and all representation and warranty , whether arise by 
+ operation of law or otherwise , be hereby expressly exclude . 
+ article 9 
+ indemnification 
+ 9.1 indemnification by siga . siga will , at its sole expense , defend , indemnify , and hold mmt and its affiliate and their respective 
+ officer , director , shareholder , owner , employee , agent and representative ( the " mmt indemnitee " ) harmless from and against any and all , 
+ damage , loss , liability , taxis , cost , expense ( include court cost and reasonable attorney ’ fee and expense ) and recovery ( collectively , 
+ " loss " ) to the extent arise out of or result from any claim , suit , proceeding or demand of third party ( include , for the avoidance of 
+ doubt , governmental authority ) ( " claim " ) , arise from or occur as a result of ( a ) allegation that the product and /or the siga intellectual 
+ property infringe any third party intellectual property right , ( b ) siga ’s failure to comply with any regulatory approval requirement of 
+ regulatory authority in the territory with respect to the product , ( c ) product liability claim arise from siga ’s development , manufacture or 
+ commercialization of the product , ( d ) the breach of any of siga ’s obligation under this agreement , include siga ’s representation and 
+ warranty , covenant and other agreement , ( e ) any breach by siga of any obligation that mmt have delegate or otherwise appoint siga to 
+ perform under a customer contract and siga have agree to such delegation or appointment in writing , include a failure to supply the product to 
+ customer pursuant to the term of this agreement and/or any customer contract or ( f ) the willful misconduct or gross negligence of siga , its 
+ affiliate , or the officer , director , employee , agent or representative of siga or its affiliate in connection with performance by or on behalf of 
+ siga of siga ’s obligation or exercise of siga ’s right under this agreement . the foregoing indemnity obligation will not apply ( i ) to the extent 
+ that ( x ) the mmt indemnitee fail to comply with the indemnification procedure set forth in section 9.3 and siga ’s defense of the relevant claim 
+ be prejudice by such failure or ( y ) such claim arise out of or result from the gross negligence or willful misconduct of mmt or its affiliate or the 
+ officer , director , employee , agent or representative of mmt or its affiliate , or breach by mmt of its representation , warranty or 
+ covenant or any other obligation of mmt hereunder; or ( ii ) to claim for which mmt have an obligation to indemnify siga pursuant to section 
+ 9.2 , as to which claim each party will indemnify the other to the extent of its respective liability for such claim , provide , for clarity , 
+ notwithstanding the provision of section 9.2(a ) or ( b ) , siga shall in all case be solely responsible for any claim relate to matter describe in 
+ section 9.1(c ) and ( e ) . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 9.2 indemnification by mmt . mmt will , at its sole expense , defend , indemnify , and hold siga and its affiliate and their respective 
+ officer , director , shareholder . owner , employee , agent and representative ( the " siga indemnitee " ) harmless from and against any and all 
+ loss to the extent arise out of or result from any claim arise from or occur as a result of ( a ) the breach of any of mmt ’s obligation 
+ under this agreement , include mmt ’s representation and warranty , covenant and other agreement , ( b ) subject to section 9.1(e ) any breach 
+ by mmt under any customer contract , include mmt ’s representation and warranty , covenant and other agreement , or the failure to 
+ comply with this agreement , or ( c ) the willful misconduct or gross negligence of mmt , its affiliate , or the officer , director , employee , agent or 
+ representative of mmt or its affiliate in connection with performance by or on behalf of mmt of mmt ’s obligation or exercise of mmt ’s 
+ right under this agreement . the foregoing indemnity obligation will not apply ( i ) to the extent that ( x ) the siga indemnitee fail to comply with the 
+ indemnification procedure set forth in section 9.3 and mmt ’s defense of the relevant claim be prejudice by such failure or ( y ) such claim arise 
+ out of or result from the gross negligence or willful misconduct of siga or its affiliate or the officer , director , employee , agent or 
+ representative of siga , or any breach by siga of its representation , warranty or covenant hereunder; or ( ii ) to claim for which siga have an 
+ obligation to indemnify mmt pursuant to section 9.1 , as to which claim each party will indemnify the other to the extent of its respective liability 
+ for such claim . 
+ 9.3 indemnification procedure . the party claim indemnity under this article 9 ( the " indemnified party " ) shall give write notice to 
+ the party from whom indemnity be be seek ( the " indemnifying party " ) promptly after become aware of a claim for which indemnity may be 
+ seek hereunder ( it be understand and agree , however , that the failure by an indemnified party to give notice of a claim for which indemnity 
+ may be seek as provide in this section 9.3 shall not relieve the indemnify party of its indemnification obligation under this agreement except 
+ that in no event shall the indemnify party be liable for any loss that result from any delay in provide such notice ) . the indemnified party 
+ will provide the indemnify party with reasonable assistance , at the indemnify party ’s reasonable expense , in connection with the defense of 
+ the claim for which indemnity be be seek . the indemnified party may participate in and monitor such defense with counsel of its own 
+ choosing at its sole expense; provide , however , the indemnify party shall assume and conduct the defense of the claim and may so defend any 
+ such claim with counsel of its choosing . the indemnify party will not settle any claim without the prior write consent of the indemnified party , 
+ not to be unreasonably withhold , unless the settlement involve only the payment of money by the indemnify party . so long as the 
+ indemnify party be actively defend the claim in good faith , the indemnified party will not settle or compromise any such claim without the 
+ prior write consent of the indemnify party . if the indemnify party do not assume and conduct the defense of the claim as provide 
+ above , ( a ) the indemnified party may defend against , consent to the entry of any judgment , or enter into any settlement with respect to such claim 
+ in any manner the indemnified party may deem reasonably appropriate ( and the indemnified party need not consult with , or obtain any consent 
+ from , the indemnify party in connection therewith ) , and ( b ) the indemnify party will remain responsible to indemnify the indemnified party as 
+ provide in this article 9 . the assumption of the defense by the indemnify party will not be construe as an acknowledgment that the 
+ indemnify party be liable to indemnify the indemnified party with respect to such claim , nor will it constitute a waiver by the indemnify party 
+ of any defense it may assert against the indemnified party ’s claim for indemnification . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 9.4 insurance . mmt and siga shall each , at their sole cost and expense , procure and maintain ( a ) commercial general liability insurance in 
+ amount not less than [ ] per incident and [ ] annual aggregate , and ( c ) product liability insurance in amount not less than [ ] annual 
+ aggregate , and each name the other party as additional insure . mmt and siga shall maintain such insurance throughout the term , and shall 
+ from time to time provide copy of certificate of such insurance the other party upon request . 
+ 9.5 limitation of liability . except ( i ) in the event of the fraud of a party or of a party ’s breach of its obligation 
+ under article 7 ( intellectual property ) or article 10 ( confidentiality ) , or ( ii ) to the extent any such damage be 
+ require to be pay to a third party as part of a claim for which a party provide indemnification under this 
+ article 9 , neither party nor any of its affiliate or sublicensee shall be liable to the other in contract , tort , 
+ negligence , breach of statutory duty or otherwise for any indirect , incidental , consequential , special , punitive , 
+ remote , exemplary or speculative damage or other damage that be not probable and reasonably 
+ foreseeable and irrespective of whether that party or any representative of that party have be advise of , or 
+ otherwise might have anticipate the possibility of , any such loss or damage; provide , for clarity , [ ] . 
+ article 10 
+ confidentiality 
+ 10.1 confidentiality . each party agree that , during the term and for a period of [ ] year thereafter , such party and its affiliate will 
+ keep confidential and will not publish or otherwise disclose and will not use for any purpose other than as provide for in this agreement ( which 
+ include the exercise of any right or the performance of any obligation hereunder ) any confidential information furnish to it or its affiliate by 
+ the other party or its affiliate pursuant to this agreement , except to the extent expressly authorize by this agreement or as otherwise agree to in 
+ writing by the parties; provide , however , that the confidentiality and non - use obligation impose by this agreement with respect to trade secret 
+ include in an item of confidential information will continue for as long as the disclosing party continue to treat such confidential information as 
+ a trade secret . the foregoing confidentiality and non - use obligation do not apply to any portion of the other party ’s confidential information that 
+ the receive party can demonstrate by competent write proof : 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( a ) be already know to the receive party or its affiliate , other than under an obligation of confidentiality hereunder , at the 
+ time of disclosure by the other party or any of its affiliates; 
+ ( b ) be generally available to the public or otherwise part of the public domain at the time of its disclosure to the receive party 
+ or any of its affiliates; 
+ ( c ) become generally available to the public or otherwise part of the public domain after its disclosure and other than through any 
+ act or omission of the receive party or any of its affiliate in breach of this agreement; 
+ ( d ) be disclose to the receive party or any of its affiliate by a third party who have a legal right to make such disclosure and 
+ who do not obtain such information directly or indirectly from the other party or any of its affiliates; or 
+ ( e ) be independently discover or develop by the receive party or any of its affiliate without access to or aid , application 
+ or use of the other party ’s confidential information , as evidence by a contemporaneous writing . 
+ 10.2 authorize disclosure . notwithstanding the obligation set forth in section 10.1 , either party or its respective affiliate may disclose 
+ the other party ’s confidential information and the term of this agreement to the extent : 
+ ( a ) such disclosure be reasonably necessary ( i ) for the filing or prosecuting of patent or trademark right as contemplate by this 
+ agreement; ( ii ) to comply with the requirement of regulatory authority with respect to obtain and maintain regulatory approval of 
+ product; or ( iii ) for prosecute or defend litigation as contemplate by this agreement; 
+ ( b ) such disclosure be reasonably necessary to its officer , director , employee , agent , consultant , contractor , licensee , 
+ sublicensee , attorney , accountant , lender , insurer , shareholder , or licensor on a need - to - know basis for the sole purpose of perform its 
+ obligation or exercise its right under this agreement; provide that in each case , the disclosee be bind by obligation of confidentiality and 
+ non - use no less stringent than those contain in this agreement; 
+ ( c ) such disclosure be reasonably necessary to any bona fide potential or actual investor , acquiror , merger partner , or other 
+ financial or commercial partner for the sole purpose of evaluate an actual or potential investment , acquisition or other business relationship with 
+ the disclosing party; provide that in each case , the disclosee be bind by write obligation of confidentiality and non - use have a minimum 
+ term of two ( 2 ) years; or 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( d ) such disclosure be reasonably necessary to comply with law , include regulation promulgate by applicable security 
+ exchange , court order , administrative subpoena or other order . 
+ notwithstanding the foregoing , if either party or any of its respective affiliate be require to make a disclosure of the other party ’s confidential 
+ information pursuant to section 10.2(a ) or 10.2(d ) , such party will promptly notify the other party of such require disclosure and , upon the other 
+ party ’s request , such party and its affiliate will use reasonable effort to obtain , or to assist the other party in obtain , a protective order 
+ prevent or limit the require disclosure at the non - disclosing party ’s sole cost . 
+ 10.3 technical publication . upon request , siga will provide to mmt publication , and other form of public disclosure such as abstract 
+ and presentation , of result of study carry out to the extent they relate to the product and be not protect by a confidentiality agreement with 
+ a third party , in each case , as soon as reasonably practicable after such disclosure . 
+ 10.4 publicity; term of agreement . 
+ ( a ) the party agree that the material term of this agreement be the confidential information of both party , subject to the 
+ special authorize disclosure provision set forth in this section 10.4 . 
+ ( b ) siga may make a public announcement of the execution of this agreement in the form attach as exhibit c , which will be 
+ issue on or promptly after the effective date . 
+ ( c ) if either party or its affiliate desire to make a public announcement concern the material term of this agreement such 
+ party will give reasonable prior advance notice of the propose text of such announcement to the other party for its prior review and approval 
+ ( except as otherwise provide herein ) , such approval not to be unreasonably withhold . a party comment on such a propose announcement will 
+ provide its comment , if any , within five ( 5 ) business day after receive the announcement for review , or such short period as may be 
+ reasonably require in order for the propose party to comply with any applicable deadline for make such announcement ( as such deadline be 
+ communicate by the propose party to the comment party ) . in addition , where require by law or seek by either party , include 
+ regulation promulgate by applicable security exchange , such party or its affiliate may make a press release announce the achievement of 
+ any material event with respect to this agreement or the party ’ performance thereof , subject only to the review procedure set forth in the 
+ precede sentence; provide that the review period will be reduce to two ( 2 ) business day ( or such short period as may be reasonably 
+ require in order for the propose party to comply with any applicable deadline for make such press release , as such deadline be communicate 
+ by the propose party to the comment party ) if the deadline for make such disclosure be five ( 5 ) or few business day after such 
+ achievement or event . in relation to the other party ’s review of such an announcement , such other party may make specific , reasonable comment 
+ on such propose press release within the prescribed time for commentary , but will not withhold , condition , or delay its consent to disclosure of the 
+ information . neither party nor their respective affiliate be require to seek the permission of the other party to repeat any information regard 
+ the term of this agreement that have already be publicly disclose by such party or its affiliate , or by the other party or its affiliate , in 
+ accordance with this section 10.4 , if such information remain accurate as of such time . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( d ) the party acknowledge that either or both party may be obligate to file under law a copy of this agreement with the 
+ u.s . securities and exchange commission ( " sec " ) or other governmental authority . each party will make such a required filing and will request 
+ confidential treatment of the commercial term and sensitive technical or other competitively sensitive term hereof and thereof to the extent such 
+ confidential treatment be available to such party or file redact version of such term as permit by the sec . in the event of any such filing , the 
+ filing party will provide the other party with a copy of this agreement mark to show the provision for which such party intend to seek 
+ confidential treatment and will reasonably consider and incorporate the other party ’s comment thereon to the extent consistent with the legal 
+ requirement , with respect to the filing party , govern disclosure of material agreement and material information that must be publicly file . 
+ 10.5 prior confidentiality agreement . any prior confidentiality agreement between the party be hereby supersede by this 
+ agreement . additionally , all information disclose by a party or its affiliate to the other party or its affiliate pursuant to any prior confidentiality 
+ agreement shall be deem to be such party ’s confidential information disclose hereunder and the confidentiality , non - use and non - disclosure 
+ obligation set forth in this article 10 will apply to the receive party , its affiliate and disclosee . if any such obligation conflict with the 
+ obligation set forth in any prior confidentiality agreement , then the receive party , its affiliate and disclosee will comply with the more 
+ stringent obligation . 
+ 10.6 return of confidential information . except as otherwise set forth in this agreement , upon termination of this agreement , the receiving 
+ party shall promptly return , or upon request of the disclosing party destroy and provide write certification of such destruction , all of the 
+ disclose party ’s confidential information , include all reproduction and copy thereof in any medium , except that the receive party may retain 
+ a reasonable number of archival copy as may be require by law or its reasonable standard document retention policy . 
+ 10.7 unauthorized use . if either party become aware or have knowledge of any unauthorized use or disclosure of the other party ’s 
+ confidential information , it will promptly notify the other party in writing of such unauthorized use or disclosure . 
+ 10.8 exclusive property . all confidential information be the sole and exclusive property of the disclosing party and the permit use 
+ thereof by the receive party for purpose of its performance hereunder will not be deem a license or other right of the receive party to use 
+ any such confidential information for any other purpose . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ article 11 
+ term and termination 
+ 11.1 term . this agreement become effective on the effective date and , unless early terminate as provide in this article 11 , shall 
+ continue until the five ( 5 ) year anniversary of the effective date ( the " initial term " ) . this agreement shall be automatically renew for successive 
+ three ( 3 ) year term thereafter ( each a " renewal term " and together with the initial term , the " term " ) until and unless ( i ) either party provide the 
+ other party write notice of non - renewal no later than ninety ( 90 ) day prior the end of the initial term or any renewal term or ( ii ) early terminate 
+ as provide in this article 11 . 
+ 11.2 termination for cause . 
+ ( a ) this agreement may be terminate by either party on country - by - country basis , or in its entirety , upon [ ] day prior 
+ write notice at any time during the term by give write notice to the other party in the event that such other party have commit a material 
+ breach of its obligation under this agreement with respect to such country(ie ) or the agreement in its entirety , as applicable , and such material 
+ breach remain uncured for [ ] day from the date of such notice . 
+ ( b ) either party may terminate this agreement in its entirety immediately by write notice if the other party ( i ) apply for or 
+ consent to the appointment of , or the taking of possession by , a receiver , custodian , trustee or liquidator of itself or of all or a substantial part of 
+ its property , ( ii ) make a general assignment for the benefit of its creditor , ( iii ) commence a voluntary case under the bankruptcy code of any 
+ country , ( iv ) file a petition seek to take advantage of any law relate to bankruptcy , insolvency , reorganization , winding - up , or composition 
+ or readjustment of debt , ( v ) fail to controvert in a timely and appropriate manner , or acquiesce in write to , any petition file against it in any 
+ involuntary case under the bankruptcy code of any country , ( vi ) take any corporate action to effect any of the foregoing , ( vii ) have a proceeding or 
+ case commence against it in any court of competent jurisdiction , seek ( a ) its liquidation , reorganization , dissolution or winding - up , or the 
+ composition or readjustment of its debt , ( b ) the appointment of a trustee , receiver , custodian , liquidator or the like of all or any substantial part of 
+ its asset , or ( c ) similar relief under the bankruptcy code of any country , or an order , judgment or decree approve any of the foregoing be enter 
+ and continue unstayed for a period of sixty ( 60 ) day , or ( viii ) have an order for relief against it enter in an involuntary case under the bankruptcy 
+ code of any country . 
+ ( c ) siga may immediately terminate this agreement on a country - by - country basis on notice to mmt if siga receive any 
+ information that it in good faith determine to be evidence of an actual breach by mmt or its affiliate of section 8.4(c)(ii ) in such country . in the 
+ event of such termination , siga shall have no liability to mmt for any charge , fee , reimbursement , or other compensation or claim under this 
+ agreement with respect to such country , include for service previously perform . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 11.3 termination upon certain change of control . [ ] . 
+ 11.4 termination for failure to [ ] . siga may terminate this agreement immediately upon write notice to mmt if mmt do not , in 
+ accordance with the provision of section 2.3 , notify siga in write [ ] . 
+ 11.5 termination for convenience . notwithstanding any other provision of this agreement , mmt may at any time terminate this 
+ agreement on country - by - country basis , or in its entirety , upon [ ] month ' prior write notice to siga . 
+ 11.6 effect of termination . upon termination of this agreement pursuant to this article 11 , for all customer contract then in force in the 
+ territory , mmt shall either ( i ) promptly exercise its right to terminate such customer contract pursuant to termination right accrue from the 
+ occurrence of a termination of this agreement or otherwise or ( ii ) upon timely write request of siga , use commercially reasonable effort to 
+ assign any customer contract identify in such notice then in force to siga . siga shall be solely responsible for all cost and expense incur 
+ under or in connection with the assignment of a customer contract to siga pursuant to clause ( ii ) of this section 11.6 . all cost , penalty or other 
+ expense incur under or in connection with any customer contract as a result of mmt ’s termination of a customer contract pursuant to clause 
+ ( i ) of this section 11.6 shall be the responsibility of the party terminate this agreement , provide that in the event of a termination under section 
+ 11.2 , such cost shall be the responsibility of the non - terminating party . 
+ 11.7 survival . termination or expiration of this agreement will not affect right or obligation of the party under this agreement that have 
+ accrue before the date of termination or expiration , include any accrue obligation relate to the delivery of the product pursuant to article 
+ 5 . notwithstanding anything to the contrary , the follow provision will survive any expiration or termination of this agreement : section 5.6 
+ ( adverse event report ) , section 7.1 ( ownership of siga intellectual property ) , article 1 ( definition ) , article 6 ( payment ) ( solely with 
+ respect to accrue payment obligation as of the date of termination or expiration of this agreement ) , article 9 ( indemnification ) , article 10 
+ ( confidentiality ) , article 11 ( term and termination ) , article 12 ( dispute resolution ) and article 13 ( miscellaneous ) . 
+ article 12 
+ dispute resolution 
+ 12.1 executive officer resolution . except with respect to dispute arise from the delivery of an audit report which dispute shall be 
+ govern by the term of section 6.6 , if any dispute or disagreement arise between the party in respect of this agreement , to the extent not 
+ resolve by the jsc : 
+ ( a ) the party claim that such a dispute exist will give notice in write to the other party of the nature of the dispute ( a 
+ " notice of dispute " ) . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ ( b ) within thirty ( 30 ) day of receipt of a notice of dispute , the party ’ executive officer will meet and confer in person or by 
+ teleconference and at this meeting will use their reasonable effort to resolve such dispute . 
+ ( c ) if , within a further period of thirty ( 30 ) day , or in any event within sixty ( 60 ) day of initial receipt of the notice of dispute , the 
+ dispute have not be resolve , or if , for any reason , the meeting describe in section 12.1(b ) have not be hold within sixty ( 60 ) day of initial 
+ receipt of the notice of dispute , then the party agree that either party may initiate litigation to resolve such dispute . 
+ ( d ) notwithstanding any provision of this agreement to the contrary , either party may immediately seek preliminary , temporary or 
+ permanent injunctive and other equitable relief in any court of competent jurisdiction to ( i ) prevent or curtail any actual or threatened breach of this 
+ agreement that be reasonably likely to cause it irreparable harm or ( ii ) enforce its right under this agreement . 
+ 12.2 governing law . this agreement and all dispute arise out of or relate to this agreement or any breach hereof be govern by and 
+ construe under the law of the state of new york , without give effect to any choice of law principle that would require the application of the 
+ law of a different state . 
+ 12.3 jurisdiction . each party to this agreement hereby ( a ) irrevocably submit to the exclusive jurisdiction of the state court of the state 
+ of new york or the united states district court for the southern district of new york for the purpose of any and all action , suit or proceeding 
+ arise in whole or in part out of , relate to , base upon or in connection with this agreement or the subject matter hereof , ( b ) waif to the extent 
+ not prohibit by law , and agree not to assert , by way of motion , as a defense or otherwise , in any such action , any claim that it be not subject 
+ personally to the jurisdiction of the above - name court , that its property be exempt or immune from attachment or execution , that any such action 
+ bring in one of the above - name court should be dismiss on ground of forum non convenien , should be transfer to any court other 
+ than one of the above - name court or that this agreement or the subject matter hereof may not be enforce in or by such court and ( c ) agree not 
+ to commence any such action other than before one of the above - name court nor to make any motion or take any other action seek or 
+ intend to cause the transfer or removal of any such action to any court other than one of the above - name court whether on the ground of 
+ forum non convenien or otherwise . 
+ 12.4 no jury trial . the party expressly waive and forego , to the full extent permit by law , any 
+ right to trial by jury in any legal proceeding ( whether base on contract , tort or otherwise ) directly or 
+ indirectly arise out of or relate to this agreement , the transaction contemplate hereby or the action 
+ of the party in the negotiation , administration , performance or enforcement hereof . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ article 13 
+ miscellaneous 
+ 13.1 entire agreement; amendment . this agreement , include the schedule and exhibit hereto , together with the confidentiality 
+ agreement reference in section 10.5 , and any other document deliver pursuant hereto or thereto , set forth the complete , final and exclusive 
+ agreement and all the covenant , promise , agreement , warranty , representation , condition and understanding between the party hereto and 
+ thereto and their affiliate with respect to the subject matter hereof and supersede , as of the effective date , all prior and contemporaneous 
+ agreement and understanding between the party with respect to the subject matter hereof . there be no covenant , promise , agreement , 
+ warranty , representation , condition or understanding , either oral or write , between the party with respect to the subject matter of this 
+ agreement other than as be set forth in this agreement . no subsequent alteration , amendment , change or addition to this agreement will be 
+ bind upon the party unless reduce to writing and sign by an authorized officer of each party . 
+ 13.2 force majeure . both party will be excuse from the performance of their obligation under this agreement to the extent that such 
+ performance be prevent by force majeure and the non - performing party promptly provide notice of the prevention to the other party . such 
+ excuse will continue for so long as the condition constitute force majeure continue and the non - performing party take reasonable effort to 
+ remove the condition . for purpose of this agreement , force majeure include condition beyond the control of the party , include an act of 
+ god , war , civil commotion , terrorist act , epidemic , failure or default of public utility or common carrier , destruction of production facility or 
+ material by fire , earthquake , and storm or like catastrophe . notwithstanding the foregoing , a party will not be excuse from make payment owe 
+ hereunder because of a force majeure affect such party . if a force majeure persist for more than sixty ( 60 ) day , then the party will discuss in 
+ good faith the modification of the party ’ obligation under this agreement to mitigate the delay cause by such force majeure . 
+ 13.3 notice . any notice require or permit to be give under this agreement will be in writing , will specifically refer to this agreement , 
+ and will be address to the appropriate party at the address specify below or such other address as may be specify by such party in write in 
+ accordance with this section 13.3 , and will be deem to have be give for all purpose ( a ) when receive , if hand - deliver or send by email with 
+ non - automated confirmed read receipt or a reputable courier service , or ( b ) five ( 5 ) business day after mail , if mail by first class certify or 
+ register airmail , postage prepay , return receipt request . 
+ if to siga : 
+ siga technology , inc . 
+ 31 east 62nd street , 5th floor 
+ new york , ny 10065 
+ attn : general counsel 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ with copy to ( which will not constitute notice ): 
+ lily wound , esq . 
+ wilmerhale 
+ 7 world trade center 
+ 250 greenwich street 
+ new york , ny 10007 
+ email : lily.woundwilmerhale.com 
+ if to mmt : 
+ meridian medical technologies , inc . 
+ 6350 steven forest road , suite 301 
+ columbia , maryland 21046 
+ attn : general manager 
+ with a copy to : legal department 
+ with a copy to ( which will not constitute notice ): 
+ arnold & porter kaye scholer llp 
+ 250 west 55th street 
+ new york , ny 10019 - 9710 
+ attn : lowell dashefsky and eric rothman 
+ email : lowell.dashefsky arnoldporter.com and 
+ eric.rothmanarnoldporter.com 
+ 13.4 no strict construction; interpretation; heading . the language in this agreement be to be construe in all case accord to its fair 
+ meaning . except where the context otherwise require , wherever use , the singular include the plural , the plural the singular , the use of any gender 
+ apply to all gender . the word " or " be use in the disjunctive sense and the word " and " be use in the conjunctive sense . the caption of this 
+ agreement be for convenience of reference only and in no way define , describe , extend , or limit the scope or intent of this agreement or the intent 
+ of any provision contain in this agreement . the term " include , " " include , " or " include " , whether or not follow by " without limitation " or 
+ " include , but not limit to , " or word of similar import , shall be construe to mean in each case include , without limit the generality of any 
+ description precede such term . the party agree that no meaning should be infer about the use of " without limitation " or " include , but not 
+ limit to " in some instance but not other . unless the context require otherwise , ( i ) any definition of or reference to any agreement , instrument or 
+ other document will be construe as refer to such agreement , instrument or other document as from time to time amend , supplement or 
+ otherwise modify ( subject to any restriction on such amendment , supplement or modification set forth herein or therein ) , ( ii ) any reference to 
+ any law will be construe as refer to such law as from time to time enact , repeal or amend , ( iii ) any reference to any person will be 
+ construe to include the person ’s successor and permit assign , ( iv ) the word " herein " , " hereof " and " hereunder " , and word of similar 
+ import , will be construe to refer to this agreement in its entirety and not to any particular provision hereof , ( v ) any reference to the word 
+ " mutually agree " or " mutual write agreement " will not impose any obligation on either party to agree to any term relate thereto or to engage in 
+ discussion relate to such term except as such party may determine in such party ’s sole discretion , ( vi ) all reference to section , exhibit or 
+ schedule will be construe to refer to section , exhibit and schedule to this agreement , ( vii ) the word " day " mean calendar day and the 
+ word " month " mean calendar month unless otherwise specify , ( viii ) the word " copy " and " copy " and word of similar import when use in 
+ this agreement include , to the extent available , electronic copy , file or database contain the information , file , item , document or material 
+ to which such word apply , and ( ix ) any reference " dollar " , " dollar " or " " will be construe to refer to u.s . dollar . the heading of each article 
+ and section in this agreement have be insert for convenience of reference only and be not intend to limit or expand on the meaning of the 
+ language contain in the particular article or section . each party represent that it have be represent by legal counsel in connection with this 
+ agreement and acknowledge that it have participate in the drafting hereof . in interpret and apply the term and provision of this 
+ agreement , the party agree that no presumption will apply against the party which draft such term and provision . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 13.5 assignment . neither party may assign or transfer this agreement or any right or obligation hereunder without the prior write 
+ consent of the other party , except that a party may make such an assignment without the other party ’s consent to its affiliate or to a third party 
+ successor of , or transferee to , asset of such party to which this agreement relate , whether in a merger , sale of stock , sale of asset or other 
+ transaction . any successor or assignee of right or obligation permit hereunder will , in write to the other party , expressly assume 
+ performance of such right or obligation . any permit assignment will be bind on the successor of the assign party . any assignment or 
+ attempt assignment by either party in violation of the term of this section 13.5 be null , void and of no legal effect . 
+ 13.6 performance by affiliate . subject to section 2.1(b ) , each party may discharge any obligation and exercise any right hereunder 
+ through any of its affiliate . each party hereby guarantee the performance by its affiliate of such party ’s obligation under this agreement , and 
+ will cause its affiliate to comply with the provision of this agreement in connection with such performance . any breach by a party ’s affiliate of 
+ any of such party ’s obligation under this agreement be a breach by such party , and the other party may proceed directly against such party 
+ without any obligation to first proceed against such party ’s affiliate . 
+ 13.7 further assurance and action . each party , upon the request of the other party , whether make before or after the effective date and 
+ without further consideration , will do , execute , acknowledge , and deliver or cause to be do , execute , acknowledge or deliver all such further 
+ act , deed , document , assignment , transfer , conveyance , power of attorney , instrument and assurance as may be reasonably necessary to 
+ effect complete consummation of the transaction contemplate by this agreement , and to do all such other act , as may be necessary or 
+ appropriate to carry out the purpose and intent of this agreement . the party agree to execute and deliver such other document , certificate , 
+ agreement and other writing and to take such other action as may be reasonably necessary to consummate or implement expeditiously the 
+ transaction contemplate by this agreement . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 13.8 severability . each of the provision contain in this agreement will be severable , and the unenforceability of one will not affect the 
+ enforceability of any other or of the remainder of this agreement . if any one or more of the provision of this agreement , or the application 
+ thereof in any circumstance , be hold to be invalid , illegal , or unenforceable in any respect for any reason , the party will negotiate in good faith 
+ with a view to the substitution therefor of a suitable and equitable solution to carry out , so far as may be valid and enforceable , the intent and 
+ purpose of such invalid provision; provide , however , that the validity , legality and enforceability of any such provision in every other respect and 
+ of the remain provision of this agreement will not be in any way impair thereby , it be intend that all of the right and privilege of the 
+ party hereto will be enforceable to the full extent permit by law . 
+ 13.9 no waiver . any term or condition of this agreement may be waive at any time by the party that be entitle to the benefit thereof , but 
+ no such waiver will be effective unless set forth in a write instrument duly execute by or on behalf of the party waive such term or condition . 
+ the waiver , delay or the failure of any party to enforce or exercise any term , condition or part of this agreement at any time or in any one or more 
+ instance will not be deem to be or construe as a waiver of the same or any other term , condition or part , nor will it forfeit any right , power or 
+ privilege to future enforcement thereof . no single or partial exercise of any right , power or privilege will preclude any other or further exercise of 
+ such right , power or privilege or the exercise of any other right , power or privilege . to the maximum extent permit by law , ( a ) no claim or right 
+ arise out of this agreement or any of the document refer to in this agreement can be discharge by one party , in whole or in part , by a waiver 
+ or renunciation of the claim or right unless in writing sign by the other party; ( b ) no waiver that may be give by a party will be applicable except 
+ in the specific instance for which it be given; and ( c ) no notice to or demand on one party will be deem to be a waiver of any obligation of that 
+ party or of the right of the party give such notice or demand to take further action without notice or demand as provide in this agreement or the 
+ document refer to in this agreement . except as expressly set forth in this agreement , all right and remedy available to a party , whether under 
+ this agreement or afford by law or otherwise , will be cumulative and not in the alternative to any other right or remedy that may be available 
+ to such party . 
+ 13.10 relationship of the party . neither party will have any responsibility for the hiring , termination or compensation of the other party ’s 
+ employee or for any employee benefit of such employee . no employee or representative of a party will have any authority to bind or obligate the 
+ other party to this agreement for any sum or in any manner whatsoever , or to create or impose any contractual or other liability on the other party 
+ without say party ’s approval . for all purpose , and notwithstanding any other provision of this agreement to the contrary , siga ’s legal 
+ relationship to mmt under this agreement will be that of independent contractor and nothing in this agreement give either party the power or 
+ authority to act for , bind , or commit the other party in any way . this agreement be not a partnership agreement . nothing in this agreement will be 
+ construe to establish a relationship of partner , principal and agent or joint venturer between the party or their respective employee or 
+ affiliate . nothing contain in this agreement shall be construe to create a " separate entity " or " business entity " within the meaning of the u.s . 
+ internal revenue code or the regulation thereunder and any foreign equivalent thereto . neither mmt nor siga will make any statement , 
+ representation , or commitment of any kind , or to take any action that be bind on the other , without the prior consent of the other party to do 
+ so . 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 13.11 english language . this agreement be prepare in the english language , which language govern the interpretation of , and any 
+ dispute regard , the term of this agreement . 
+ 13.12 counterpart . this agreement may be execute in one or more counterpart , each of which be an original , but all of which together 
+ constitute one and the same instrument . each party may execute this agreement by facsimile transmission or by pdf . in addition , facsimile or pdf 
+ signature of authorized signatory of any party will be deem to be original signature and will be valid and binding , and delivery of a facsimile 
+ or pdf signature by any party will constitute due execution and delivery of this agreement . 
+ 13.13 schedule . the disclosure of any matter in any section of or on any schedule to this agreement will only be deem to be a 
+ disclosure for the section or subsection of this agreement to which it correspond in number , unless the applicability of such schedule to any 
+ other section be readily apparent . the disclosure of any matter in any schedule to this agreement will expressly not be deem to ( a ) constitute an 
+ admission by either party hereto , or ( b ) imply that any such matter be material for purpose of this agreement . 
+ 13.14 expense . each of the party will bear its own direct and indirect expense incur in connection with the negotiation and 
+ preparation of this agreement and , except as set forth in this agreement , the performance of the obligation contemplate hereby and thereby . 
+ [ remainder of this page intentionally leave blank ] 
+
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ in witness whereof , the party hereto have cause this agreement to be execute by their duly authorize officer as of the effective 
+ date . 
+ siga technology , inc . 
+ meridian medical technologies , inc . 
+ by : 
+ /s/ phillip l. gomez , iii 
+ by : 
+ /s/ thomas handel 
+ name : phillip l. gomez , iii 
+ name : thomas handel 
+ title : ceo 
+ title : general manager and president 
+ signature page to promotion agreement 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ exhibit a 
+ permit subcontractor 
+ none . 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ exhibit b 
+ business plan 
+ [ ] 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ exhibit c 
+ siga press release 
+ see attach . 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ schedule 1 
+ siga patent 
+ issue patent 
+ patent number 
+ country 
+ protection confer 
+ issue date 
+ expiration date 
+ sg 184201 
+ singapore 
+ certain polymorph of st-246 , method of preparation of 
+ the polymorph and pharmaceutical composition 
+ contain the polymorph 
+ june 22 , 2015 
+ march 23 , 2031 
+ ru 2578606 
+ russia 
+ certain polymorph of st-246 , method of preparation of 
+ the polymorph and their use in treat orthopoxvirus 
+ march 27 , 2016 
+ march 23 , 2031 
+ oa 16109 
+ oapi / africa 
+ certain polymorph of st-246 , method of preparation of 
+ the polymorph and their use in treat orthopoxvirus 
+ october 31 , 2013 
+ march 23 , 2031 
+ nz 602578 
+ new zealand 
+ certain polymorph of st-246 , method of preparation of 
+ the polymorph and their use in treat orthopoxvirus 
+ december 2 , 2014 
+ march 23 , 2031 
+ mx 326231 
+ mexico 
+ pharmaceutical composition contain st-246 and one 
+ or more additional ingredient and dosage unit form 
+ contain st-246 
+ december 11 , 2014 
+ april 23 , 2027 
+ mx 348481 
+ mexico 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ june 15 , 2017 
+ april 23 , 2027 
+ mx 361428 
+ mexico 
+ polymorphic form of st-246 and method of preparation 
+ december 6 , 2018 
+ march 23 , 2031 
+ mx 363189 
+ mexico 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ march 14 , 2019 
+ april 23 , 2027 
+ jp 4884216 
+ japan 
+ therapeutic agent for treat orthopoxvirus include 
+ st-246 , pharmaceutical composition of matter for the st- 
+ 246 compound and method of manufacture st-246 
+ december 16 , 2011 
+ june 18 , 2024 
+ jp 5657489 
+ japan 
+ method of manufacture st-246 
+ december 5 , 2014 
+ june 18 , 2024 
+ jp 6018041 
+ japan 
+ certain polymorph of st-246 , method of preparation of 
+ the polymorph and pharmaceutical composition 
+ contain the polymorph 
+ october 7 , 2016 
+ march 23 , 2031 
+ jp 6188802 
+ japan 
+ method of prepare tecovirimat 
+ august 10 , 2017 
+ august 14 , 2033 
+ jp 6444460 
+ japan 
+ method of prepare tecovirimat 
+ december 7 , 2018 
+ august 14 , 2033 
+ cn 2011800245893 
+ china 
+ certain polymorph of st-246 , method of preparation of 
+ the polymorph and pharmaceutical composition 
+ contain the polymorph 
+ august 26 , 2015 
+ march 23 , 2031 
+ cn 2013800429237 
+ china 
+ method of prepare tecovirimat 
+ june 20 , 2017 
+ august 14 , 2033 
+ can 2529761 
+ canada 
+ use of st-246 to treat orthopoxvirus infection , 
+ pharmaceutical composition contain st-246 and 
+ composition of matter for the st-246 compound 
+ august 13 , 2013 
+ june 18 , 2024 
+ can 2685153 
+ canada 
+ pharmaceutical composition contain st-246 and one 
+ or more additional ingredient and dosage unit form 
+ contain st-246 
+ december 16 , 2014 
+ april 23 , 2027 
+ can 2793533 
+ canada 
+ certain polymorph of st-246 , method of preparation of 
+ the polymorph and pharmaceutical composition 
+ contain the polymorph 
+ february 26 , 2019 
+ march 23 . 2031 
+ can 2866037 
+ canada 
+ chemical , composition and method for treatment and 
+ prevention of orthopoxvirus infection and associated 
+ disease 
+ may 16 , 2017 
+ april 23 , 2027 
+ au 2004249250 
+ australia 
+ method of treat orthopoxvirus infection , 
+ pharmaceutical composition contain st-246 and 
+ composition of matter for the st-246 compound 
+ march 29 , 2012 
+ june 18 , 2024 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ patent number 
+ country 
+ protection confer 
+ issue date 
+ expiration date 
+ au 2007351866 
+ australia 
+ pharmaceutical composition contain st-246 and one 
+ or more additional ingredient and dosage unit form 
+ contain st-246 
+ january 10 , 2013 
+ june 18 , 2024 
+ au 2011232551 
+ australia 
+ certain polymorph of st-246 , method of preparation of 
+ the polymorph and their use in treat orthopoxvirus 
+ february 26 , 2015 
+ march 23 , 2031 
+ au 2013302764 
+ australia 
+ method of prepare tecovirimat 
+ april 5 , 2018 
+ august 14 , 2033 
+ au 2012268859 
+ australia 
+ pharmaceutical composition contain st-246 and one 
+ or more additional ingredient and dosage unit form 
+ contain st-246 
+ august 18 , 2016 
+ june 18 , 2024 
+ ap 3221 
+ aripo / africa certain polymorph of st-246 , method of preparation of 
+ the polymorph and their use in treat orthopoxvirus 
+ april 3 , 2015 
+ march 23 , 2031 
+ za 2012/07141 
+ south africa 
+ certain polymorph of st-246 , method of preparation of 
+ the polymorph and pharmaceutical composition 
+ contain the polymorph 
+ june 29 , 2016 
+ march 23 , 2031 
+ il 201736 
+ israel 
+ pharmaceutical composition contain st-246 and one 
+ or more additional ingredient and dosage unit form 
+ contain st-246 
+ october 1 , 2016 
+ april 23 , 2027 
+ il 236944 
+ israel 
+ method of prepare tecovirimat 
+ february 1 , 2017 
+ august 14 , 2033 
+ il 242666 
+ israel 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ december 1 , 2018 
+ april 23 , 2027 
+ at 1638938 
+ austria 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ be 1638938 
+ belgium 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ be 2549871 
+ belgium 
+ polymorphic form of st-246 
+ august 22 , 2018 
+ march 23 , 2031 
+ ch 1638938 
+ switzerland 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ ch 2549871 
+ switzerland 
+ polymorphic form of st-246 
+ august 22 , 2018 
+ march 23 , 2031 
+ de 1638938 
+ germany 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ de 2549871 
+ germany 
+ polymorphic form of st-246 
+ august 22 , 2018 
+ march 23 , 2031 
+ de 2887938 
+ germany 
+ method of prepare tecovirimat 
+ january 10 , 2018 
+ august 14 , 2033 
+ dk 1638938 
+ denmark 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ dk 2549871 
+ denmark 
+ polymorphic form of st-246 
+ august 22 , 2018 
+ march 23 , 2031 
+ e 1638938 
+ spain 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ fi 1638938 
+ finland 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ patent number 
+ country 
+ protection confer 
+ issue date 
+ expiration date 
+ fr 1638938 
+ france 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ fr 2887938 
+ france 
+ method of prepare tecovirimat 
+ january 10 , 2018 
+ august 14 , 2033 
+ fr 2549871 
+ france 
+ polymorphic form of st-246 
+ august 22 , 2018 
+ march 23 , 2031 
+ gb 1638938 
+ united kingdom 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ gb 2887938 
+ united kingdom method of prepare tecovirimat 
+ january 10 , 2018 
+ august 14 , 2033 
+ gb 2549871 
+ united kingdom polymorphic form of st-246 
+ august 22 , 2018 
+ march 23 , 2031 
+ ie 1638938 
+ ireland 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ it 502017000078377 
+ italy 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ nl 1638938 
+ netherland 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ pl 1638938 
+ poland 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ se 1638938 
+ sweden 
+ compound , composition and method for treatment 
+ and prevention of orthopoxvirus infection and 
+ associate disease 
+ april 12 , 2017 
+ june 18 , 2024 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ patent application 
+ [ ] 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ schedule 2 
+ siga trademark 
+ [ ] 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ schedule 3 
+ safety reporting requirement 
+ safety reporting requirement for the product 
+ 1 . 
+ scope : 
+ siga have a legal and corporate responsibility to comply with applicable regulation govern the collection and reporting of adverse 
+ event ( " ae(s ) " ) , at risk scenario ( " arss " ) , unexpected therapeutic effect ( " ute " ) , and product quality complaint ( " pqc(s ) " ) 
+ associate with the product , as these term be define below . for the purpose of this exhibit , aes , arss , ute , and pqcs be collectively 
+ term " safety report . " 
+ mmt be expressly entitle to perform any regulatory responsibility for the product through any of its affiliate . mmt or an affiliate of 
+ mmt shall exchange safety report with the siga contact list in section 4.1 reporting time - frame . throughout this safety reporting 
+ exhibit , siga shall be refer to as " siga " and mmt and its affiliate collectively as " promoter . " at all time siga and promoter shall 
+ follow the procedure set out below . 
+ the procedure describe in this agreement be to be follow for pharmacovigilance activity for the product , irrespective of any other 
+ activity between siga and promoter which be contain within the agreement . 
+ 2 . 
+ definition : 
+ 2.1 . 
+ adverse event ( ae ): an ae be any untoward medical occurrence in a patient administer the product . the event need not have a 
+ causal relationship with the treatment or usage . this include , but be not limit to : 
+ • 
+ abnormal test finding 
+ • 
+ clinically significant symptom and sign 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ • 
+ change in physical examination finding 
+ • 
+ hypersensitivity 
+ • 
+ progression / worsening of underlie disease 
+ • 
+ lack of drug efficacy 
+ • 
+ drug abuse 
+ • 
+ drug dependency 
+ • 
+ sign and symptom result from drug withdrawal and drug interaction 
+ • 
+ suspect transmission of an infectious agent via a medicinal product 
+ 2.2 . 
+ at risk scenario ( arss ): circumstance where the report do not include an ae per se , but nevertheless need to be report to 
+ siga . these circumstance include : 
+ • 
+ medication error ( include incorrect prescription or dispensing of a prescription , whether or not administer to the patient ) 
+ • 
+ exposure during pregnancy 
+ • 
+ exposure during breastfeed 
+ • 
+ overdose 
+ • 
+ extravasation 
+ • 
+ occupational exposure 
+ • 
+ off - label use 
+ 2.3 . 
+ unexpected therapeutic effect ( ute ): a beneficial therapeutic effect of the product aside from the use for which it have be give . 
+ 2.4 . 
+ product quality complaint ( pqc(s ) ): be any written or oral expression of dissatisfaction relative to the physical property , condition , 
+ labelling , potency and/or packaging of the product , include whether the product be suspect or confirm to be counterfeit . 
+ 3 . 
+ promoter responsibility : 
+ 3.1 . 
+ promoter shall ensure that all employee and , if applicable , subcontractor employee perform activity under this agreement 
+ ( " promoter personnel " ) who may become aware of a safety report associate with the use of the product comply with the 
+ requirement set out in this exhibit . 
+ 3.2 . 
+ if promoter personnel become aware of a safety report that may be associate with the product , promoter shall inform siga in 
+ accordance with the reporting procedure include in this exhibit and as may be update and provide to promoter in the future by 
+ siga . 
+ 3.3 . 
+ in the event promoter engage a subcontractor to perform service relate to this agreement , promoter shall request fulfilment by 
+ that subcontractor of these safety reporting requirement on substantially the same term as those outline in this exhibit , unless it be 
+ establish that there be no possibility that the subcontract service will involve receipt or handling of safety report by the 
+ subcontractor . 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 3.4 . 
+ in the event that promoter receive a communication from a regulatory authority relate to the product , promoter shall inform siga 
+ as soon as possible , but in any event no later than one ( 1 ) business day or three ( 3 ) calendar day of receipt , whichever be short . 
+ where possible , siga shall be inform prior to , and have the opportunity to review , any response to the regulatory authority by 
+ promoter . 
+ 4 . 
+ reporting process : 
+ 4.1 . 
+ report time - frame : promoter shall report all safety report to siga within two ( 2 ) business day or four ( 4 ) calendar day of 
+ awareness , whichever be short . all report shall be send to : 
+ drug safety unit - 
+ contact detail : regulatory affair , siga technology 
+ e - mail : 
+ drugsafetysiga.com 
+ telephone : 
+ 541 - 753 - 2000 
+ fax : 
+ 541 - 753 - 9999 
+ postal address : 
+ siga technology , inc . 
+ 4575 research way , suite 110 , corvallis , or 97333 
+ 4.2 . 
+ case receipt confirmation : the receipt of safety report from promoter shall be acknowledge by siga in write no later than one 
+ ( 1 ) business day follow receipt . if acknowledgement of receipt be not receive within this timeframe , then promoter shall contact 
+ siga to determine if the source document need to be re - send . 
+ 4.3 . 
+ case documentation and record retention : promoter shall document all safety report receive and report to siga . 
+ documentation shall include , where possible the name , address , and telephone number of the reporter , and whether consent have be 
+ give by the reporter to be re - contact by siga . promoter will maintain a record of each safety report receive , include relevant 
+ source document , and a record of each safety report report to siga for a minimum period of ten ( 10 ) year after the expiration or 
+ termination of this agreement and , if request , will provide these and any other information request by siga . notwithstanding 
+ the aforementioned requirement , before promoter destroy any safety report and associate source document , or training record , 
+ it will notify siga of its intention to do so and afford siga the opportunity to retain such record if it so wish . 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ 5 . 
+ datum privacy : 
+ in forward safety report to siga , promoter shall comply with all applicable privacy and datum protection law , rule and regulation on 
+ the protection of individual with regard to the processing of personal datum and the free movement of such datum . " personal datum " mean 
+ information that can be use by itself or in combination with other available information to identify a specific individual . the promoter shall 
+ collect , use and disclose any personal datum obtain in the course of perform the safety relate activity under this agreement solely for 
+ the purpose of comply with the regulatory obligation as describe in this agreement , or as otherwise require by law or by a court 
+ order . promoter shall use electronic , physical , and other safeguard appropriate to the nature of the information to prevent any use or 
+ disclosure of personal datum other than as provide for by this agreement . promoter will also take reasonable precaution to protect the 
+ personal datum from alteration or destruction . 
+ promoter shall notify siga promptly of any accidental , unauthorized , or unlawful destruction , loss , alteration , or disclosure of , or access to , 
+ the personal datum ( " security breach " ) , and take immediate step to rectify any security breach . 
+ 6 . 
+ audit : 
+ siga , or its authorized representative , shall have the right , at its cost , with reasonable advance notice , during regular business hour , to 
+ audit the facility use by the promoter in order to review the promoter activity under this exhibit include , but not limit to , any 
+ document relevant to these activity , for compliance with the safety reporting requirement set out in this exhibit . where evidence of non- 
+ compliance be identify siga and promoter will jointly discuss to determine appropriate corrective and preventive action and promoter will 
+ provide siga with regular report on the completion status of the identify corrective and preventive action . 
+ source : siga technologies inc , 8 - k , 6/3/2019 
+ schedule 8.2(b ) 
+ encumbrance 
+ the asset of siga be subject to a lien under the loan and security agreement date september 2 , 2016 . 
+ source : siga technologies inc , 8 - k , 6/3/2019

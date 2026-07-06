@@ -1,0 +1,742 @@
+exhibit 10.4 
+ intellectual property agreement 
+ by and between 
+ nuance communication , inc . 
+ and 
+ cerence inc . 
+ date as of september 30 , 2019 
+ source : cerence inc . , 8 - k , 10/2/2019 
+ table of content 
+ page 
+ article i 
+ definition 
+ section 1.01 . 
+ definition 
+
+ article ii 
+ recordation of intellectual property right assignment agreement 
+ section 2.01 . 
+ intellectual property assignment agreement 
+
+ section 2.02 . 
+ recordation 
+
+ section 2.03 . 
+ security interest 
+
+ article iii 
+ license and covenant from nuance to spinco 
+ section 3.01 . 
+ license grant 
+
+ section 3.02 . 
+ other covenant 
+
+ article iv 
+ license and covenant from spinco to nuance 
+ section 4.01 . 
+ license grant 
+
+ section 4.02 . 
+ other covenant 
+
+ article v 
+ additional intellectual property relate matter 
+ section 5.01 . 
+ ownership 
+
+ section 5.02 . 
+ assignment and license 
+
+ section 5.03 . 
+ no imply right 
+
+ section 5.04 . 
+ no obligation to prosecute or maintain patent 
+
+ section 5.05 . 
+ no technical assistance 
+
+ section 5.06 . 
+ group member 
+
+ article vi 
+ confidential information 
+ section 6.01 . 
+ confidentiality 
+
+ section 6.02 . 
+ disclosure of confidential technical information 
+
+ section 6.03 . 
+ compulsory disclosure of confidential technical information 
+
+ article vii 
+ limitation of liability and warranty disclaimer 
+ I 
+ source : cerence inc . , 8 - k , 10/2/2019 
+ section 7.01 . 
+ limitation on liability 
+
+ section 7.02 . 
+ disclaimer of representation and warranty 
+
+ article viii 
+ transferability and assignment 
+ section 8.01 . 
+ no assignment or transfer without consent 
+
+ section 8.02 . 
+ divest business 
+
+ article ix 
+ termination 
+ section 9.01 . 
+ termination by both party 
+
+ section 9.02 . 
+ termination prior to the distribution 
+
+ section 9.03 . 
+ effect of termination; survival 
+
+ article x 
+ further assurance 
+ section 10.01 . 
+ further assurance 
+
+ article xi 
+ miscellaneous 
+ section 11.01 . 
+ counterparts; entire agreement; corporate power 
+
+ section 11.02 . 
+ dispute resolution 
+
+ section 11.03 . 
+ govern law; jurisdiction 
+
+ section 11.04 . 
+ waiver of jury trial 
+
+ section 11.05 . 
+ court - order interim relief 
+
+ section 11.06 . 
+ specific performance 
+
+ section 11.07 . 
+ third - party beneficiary 
+
+ section 11.08 . 
+ notice 
+
+ section 11.09 . 
+ import and export control 
+
+ section 11.10 . 
+ bankruptcy 
+
+ section 11.11 . 
+ severability 
+
+ section 11.12 . 
+ expense 
+
+ section 11.13 . 
+ heading 
+
+ section 11.14 . 
+ survival of covenant 
+
+ section 11.15 . 
+ waiver of default 
+
+ section 11.16 . 
+ amendment 
+
+ section 11.17 . 
+ interpretation 
+
+ schedule a 
+ – 
+ field of use 
+ schedule b 
+ – 
+ nuance datum 
+ schedule c 
+ – 
+ spinco datum 
+ schedule d 
+ – 
+ spinco patent 
+ schedule e 
+ – 
+ spinco id 
+ schedule f 
+ – 
+ spinco trademark 
+ ii 
+ source : cerence inc . , 8 - k , 10/2/2019 
+ schedule g 
+ – 
+ spinco domain name 
+ schedule h 
+ – 
+ technology asset 
+ schedule I 
+ – 
+ oem technology 
+ exhibit a1 
+ – 
+ patent assignment agreement 
+ exhibit a2 
+ – 
+ trademark assignment agreement 
+ exhibit a3 
+ – 
+ domain name assignment agreement 
+ exhibit a4 
+ – 
+ invention disclosure assignment agreement 
+ iii 
+ source : cerence inc . , 8 - k , 10/2/2019 
+ intellectual property agreement , date as of september 30 , 2019 ( this " agreement " ) , by and between nuance communication , 
+ inc . , a delaware corporation ( " nuance " ) , and cerence inc . , a delaware corporation ( " spinco " ) . 
+ recital 
+ whereas , in connection with the contemplated spin - off of spinco and concurrently with the execution of this agreement , nuance and spinco 
+ be enter into a separation and distribution agreement ( the " separation agreement”); 
+ whereas , pursuant to the separation agreement and the other ancillary agreement , as of the distribution date , the nuance ip have be 
+ allocate to the nuance group and the spinco ip have be allocate to the spinco group; 
+ whereas , the party wish to record the transfer of any registration or application of nuance ip and spinco ip , as applicable , to the extent the 
+ ownership thereof have transfer from a member of the nuance group to a member of the spinco group , or vice versa , pursuant to the separation 
+ agreement or any other ancillary agreement; 
+ whereas , pursuant to the separation agreement and the other ancillary agreement , as of the distribution date , the nuance ip allocate to the 
+ nuance group include the nuance patent , the nuance share technology asset and the nuance datum , and the spinco ip allocate to the spinco 
+ group include the spinco patent , the spinco share technology asset and the spinco data; 
+ whereas , it be the intent of the party that nuance grant a license to spinco under the nuance patent and the nuance share technology 
+ asset , and provide certain right or service to the spinco group with respect to the nuance datum , in each case for the spinco field of use , subject to 
+ the term and condition set forth in this agreement; and 
+ whereas , it be the intent of the party that spinco grant a license to nuance under the spinco patent and the spinco share technology 
+ asset , and provide certain right or service to the nuance group with respect to certain of the spinco datum , in each case for the nuance field of use , 
+ subject to the term and condition set forth in this agreement . 
+ now , therefore , in consideration of the mutual agreement , provision and covenant contain in this agreement , the party , intend to be 
+ legally bind , hereby agree as follow : 
+ article I 
+ definition 
+ section 1.01 . definition . as use in this agreement , the follow term have the meaning set forth below and herein , and the term define in 
+ schedule shall have the meaning set forth therein . capitalize term use , but not define in this agreement shall have the meaning ascribe to such 
+ term in the separation agreement or any other ancillary agreement , as applicable . 
+ source : cerence inc . , 8 - k , 10/2/2019 
+ " bankruptcy code " have the meaning set forth in section 11.10 . 
+ " confidential technical information " mean , with respect to each disclosing party , any confidential datum , trade secret or technology source code 
+ within the nuance ip or spinco ip , as applicable , that be in the receive party ’s possession or that the receive party obtain pursuant to the term of 
+ this agreement , together with any tangible or electronic expression or embodiment thereof; provide , that " confidential technical information " shall 
+ not include information that be or be ( i ) publicly know at the time of disclosure or thereafter without any breach of this agreement by the receiving 
+ party or its group or ( ii ) subsequently make known to the receive party or its group from a source unconnected with either party or its group . 
+ " copyright " mean copyright , work of authorship ( include all translation , adaptation , derivation and combination thereof ) , mask work , 
+ design and database right , include , in each case , any registration and application therefor . 
+ " datum " mean all datum , database and collection and compilation of datum , in any form or medium . 
+ " disclose party " mean each party in its capacity as the discloser of confidential technical information , as applicable . 
+ " divest entity " have the meaning set forth in section 8.02 . 
+ " domain name assignment agreement " have the meaning set forth in section 2.01 . 
+ " domain name " mean internet domain name , include top level domain name and global top level domain name , url , social medium 
+ identifier , handle and tag . 
+ " intellectual property assignment agreement " have the meaning set forth in section 2.01 . 
+ " intellectual property right " or " ipr " mean any and all intellectual property right exist anywhere in the world associate with any and all ( i ) 
+ patent , ( ii ) trademark , ( iii ) copyright , ( iv ) domain name , ( v ) right in technology , ( vi ) right in trade secret , ( vii ) right in datum , ( viii ) all tangible 
+ embodiment of the foregoing in whatever form or medium and ( ix ) any other legal protection and right relate to any of the foregoing . " intellectual 
+ property right " specifically exclude contractual right ( include license grant from third party ) . 
+ " invention disclosure assignment agreement " have the meaning set forth in section 2.01 . 
+ " nuance datum " mean any datum that be ( i ) own by a third party and license to the nuance group as of immediately prior to the distribution 
+ pursuant to a nuance datum agreement or ( ii ) own by the nuance group as of immediately prior to the distribution but subject to a nuance datum 
+ agreement , in each case ( i ) and ( ii ) , which datum be use in the spinco business as of immediately prior to the distribution . 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ " nuance datum agreement " mean each contract identify in schedule b. 
+ " nuance field of use " have the meaning set forth in schedule a. 
+ " nuance ip " mean all intellectual property right own by the nuance group or the spinco group as of immediately prior to the distribution , 
+ other than the spinco ip . 
+ " nuance patent " mean all patent include within the nuance ip . 
+ " nuance share technology asset " mean ( i ) the nuance technology asset identify on schedule h-2 and ( ii ) any other nuance technology 
+ asset not identify on schedule h-2 that be use in the spinco business as of immediately prior to the distribution; provide that the " nuance share 
+ technology asset " exclude any oem technology . 
+ " nuance technology asset " mean all of the technology own by the nuance group or the spinco group as of immediately prior to the 
+ distribution , exclude the spinco technology asset . for the avoidance of doubt , the " nuance technology asset " include the technology identify 
+ on schedule h-1 . 
+ " nuance trademark " mean the trademark include in the nuance ip . 
+ " oem technology " mean the technology identify on schedule I , each of which shall be subject to a separate agreement . 
+ " party " mean either party hereto , and " party " mean both party hereto . 
+ " patent assignment agreement " have the meaning set forth in section 2.01 . 
+ " patent " mean patent ( include all reissue , divisional , continuation , continuation - in - part , reexamination , supplemental examination , inter 
+ part review , post - grant opposition , cover business method review , substitution and extension thereof ) , patent registration and application , 
+ include provisional application , statutory invention registration , invention disclosure and invention . 
+ " permit recipient " have the meaning set forth in section 6.02 . 
+ " receive party " mean each party in its capacity as the recipient of confidential technical information , as applicable . 
+ " software " mean any and all ( i ) computer program and application , include any and all software implementation of algorithm , model and 
+ methodology , whether in source code , object code , human readable form or other form , include operating software , network software , firmware , 
+ middleware , design software , design tool , asp , html , dhtml , shtml and xml file , cgi and other script , apis and web widget , ( ii ) description , 
+ flow chart and other work product use to design , plan , organize and develop any of the foregoing , screen , user interface , report format , firmware , 
+ development tool , template , menu , button and icon , ( iii ) all documentation include user manual and other training documentation relate to any 
+ of the foregoing and ( iv ) all tangible embodiment of the foregoing in whatever 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ form or medium now know or yet to be create , include all disk , diskette and tapes; provide , that " software " do not include datum . 
+ " spinco copyright " mean unregistered copyright that be own by the nuance group or the spinco group and exclusively relate to the 
+ spinco business as of immediately prior to the distribution; provide , that the " spinco copyright " do not include any technology or spinco datum . 
+ " spinco data " mean any datum that be ( i ) own by a third party and license to the nuance group or spinco group as of immediately prior to the 
+ distribution pursuant to a spinco datum agreement or ( ii ) own by the nuance group or spinco group as of immediately prior to the distribution but 
+ subject to a spinco datum agreement and ( iii ) datum own by the nuance group or spinco group and exclusively related to the spinco business as of 
+ immediately prior to the distribution . 
+ " spinco datum agreement " mean each contract identify in schedule c. 
+ " spinco domain name " mean the domain name identify on schedule g , in each case exclude any trademark contain " nuance " or any 
+ transliteration or translation thereof or any version of the " nuance and design " logo . 
+ " spinco field of use " have the meaning set forth in schedule a. 
+ " spinco id " mean the invention disclosure identify on schedule e. 
+ " spinco ip " mean ( i ) the spinco patent , ( ii ) the spinco copyright , ( iii ) the spinco domain name , ( iv ) the spinco trade secret , ( v ) the spinco 
+ trademark , ( vi ) the spinco id , ( vii ) the spinco technology asset and ( viii ) the spinco data . 
+ " spinco patent " mean the patent identify on schedule d. 
+ " spinco share technology asset " mean the spinco technology asset identify on schedule h-4 . for the avoidance of doubt , the " spinco 
+ share technology asset " exclude any oem technology . 
+ " spinco technology asset " mean the technology identify on schedule h-3 . 
+ " spinco trade secret " mean the trade secret know to the party that be own by the nuance group or spinco group and exclusively 
+ relate to the spinco business as of immediately prior to the distribution; provide , that the " spinco trade secret " do not include any technology or 
+ spinco datum . 
+ " spinco trademark " mean the trademark identify on schedule f. 
+ " technology " mean software , technical documentation , specification , schematic , design , user interface , test report , bill of material , build 
+ instruction , lab notebook , prototype , sample , program , routine , subroutine , tool , material , apparatus , and all recording , graph , drawing , 
+ report , analysis , other writing , disk , diskette and tape , 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ together with all intellectual property right ( other than patent and trademark ) in the foregoing . 
+ " third party " mean any person ( include any governmental authority ) who be not a member of the nuance group or the spinco group . 
+ " trade secret " mean all information , in any form or medium , to the extent that the owner thereof have take reasonable measure to keep such 
+ information secret and the information derive independent economic value , actual or potential , from not be generally know to , and not be readily 
+ ascertainable through proper mean by , the public . 
+ " trademark assignment agreement " have the meaning set forth in section 2.01 . 
+ " trademark " mean trademark , service mark , trade name , logo , slogan , trade dress or other source identifier , include any registration or 
+ any application for registration therefor , together with all goodwill associate therewith . 
+ article ii 
+ recordation of intellectual property right assignment agreement 
+ section 2.01 . intellectual property assignment agreement . in order to carry out the intent of the party with respect to the recordation of the 
+ transfer of any registration or application of nuance ip or spinco ip , as applicable , to the extent the ownership thereof have transfer from a member 
+ of the nuance group to a member of the spinco group , or vice versa , pursuant to the separation agreement or any other ancillary agreement , the 
+ party shall execute intellectual property assignment in a form substantially similar to that attach as exhibit a1 ( the " patent assignment agreement " ) , 
+ exhibit a2 ( the " trademark assignment agreement " ) , exhibit a3 ( the " domain name assignment agreement " ) and exhibit a4 ( the " invention 
+ disclosure assignment agreement " ) as well as such additional case specific assignment as deem appropriate or necessary under applicable law 
+ ( collectively , the " intellectual property assignment agreement " ) for recordation with the appropriate governmental authority . 
+ section 2.02 . recordation . the relevant assignee party shall have the sole responsibility , at its sole cost and expense , to file the intellectual 
+ property assignment agreement and any other form or document with the appropriate governmental authority as require to record the transfer of 
+ any registration or application of nuance ip or spinco ip that be allocate under the separation agreement , as applicable , and the relevant assignor 
+ party hereby consent to such recordation . 
+ section 2.03 . security interest . prior to , on and after the distribution date , each party shall cooperate with the other party , without any further 
+ consideration and at no expense to the other party , to obtain , cause to be obtain or properly record the release of any outstanding security interest 
+ attach to any nuance ip or spinco ip that be subject to assignment from one party or its group to the other party or its group hereunder , as applicable , 
+ and to take , or cause to be take , all action as the other party may reasonably be request to take in order to obtain , cause to be obtain or properly 
+ record such release . 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ article iii 
+ license and covenant from nuance to spinco 
+ section 3.01 . license grant . 
+ ( a ) patent . subject to the term and condition of this agreement , as of the distribution date , nuance hereby grant to spinco and the 
+ member of the spinco group a worldwide , non - exclusive , fully pay - up , perpetual and irrevocable , transferable ( subject to article viii ) , sublicensable 
+ ( subject to section 3.01(g ) ) license under the nuance patent , solely to the extent that claim of the nuance patent cover product or service of the 
+ spinco business in the spinco field of use , together with natural extension and evolution thereof , in each case to make , have make , use , sell , offer for 
+ sale , import and otherwise exploit such product and service , together with natural extension and evolution thereof . 
+ ( b ) technology . subject to the term and condition of this agreement , as of the distribution date , nuance hereby grant to spinco and 
+ the member of the spinco group a worldwide , non - exclusive , fully pay - up , perpetual and irrevocable , transferable ( subject to article viii ) , 
+ sublicensable ( subject to section 3.01(g ) ) license to install , access , use , reproduce , perform , display , modify ( include the right to create improvement 
+ and derivative work ) , far develop , sell , manufacture , distribute and market product and service base on , use or incorporate the nuance 
+ share technology asset within the spinco field of use , together with natural extension and evolution thereof . 
+ ( c ) other nuance share ip . subject to the term and condition of this agreement , as of the distribution date , nuance hereby grant to 
+ spinco and the member of the spinco group a worldwide , non - exclusive , fully pay - up , perpetual and irrevocable , transferable ( subject to article 
+ viii ) , sublicensable ( subject to section 3.01(g ) ) license to continue to use any nuance ip ( other than nuance patent , nuance technology asset , 
+ nuance trademark and nuance datum ) , in each case solely as and to the extent that it be use by the spinco group in connection with product and 
+ service of the spinco business within the spinco field of use , together with natural extension and evolution thereof . 
+ ( d ) trademark . the party acknowledge and agree that no right be grant to the spinco group in this agreement with respect to any 
+ trademark or domain name , provide that certain right and obligation with respect to the use by the spinco group of certain nuance trademark 
+ and relate domain name shall be set forth in the transitional trademark license agreement . to the extent there be a conflict between the term of this 
+ agreement and the transitional trademark license agreement , the term of the transitional trademark license agreement shall control . 
+ ( e ) nuance datum . the party acknowledge and agree that certain right and obligation with respect to the use or benefit by the spinco 
+ group of certain nuance datum shall be as provide in schedule b. 
+ ( f ) oem technology . notwithstanding the foregoing , the party acknowledge and agree that this section 3.01 do not grant any right or 
+ license to any oem technology , which be subject to certain separate agreement between the party , and to the 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ extent there be a conflict between this agreement and such separate agreement , such separate agreement shall control . 
+ ( g ) sublicense . the license grant in section 3.01(a ) , ( b ) and ( c ) to the spinco group include the right to grant sublicense within the 
+ scope of such license only to member of the spinco group and , without any further right to sublicense , to their respective ( i ) contractor , distributor , 
+ manufacturer and reseller , in each case solely for the benefit of the spinco business , and ( ii ) end user and customer , in each case solely in 
+ connection with the use of product and service of the spinco business . notwithstanding the forgo , subject to section 3.02(b ) and article vi , 
+ member of the spinco group may only sublicense the nuance share technology asset pursuant to term and condition as protective as those 
+ under which it license its own technology of a similar nature and value , and in any event term and condition that provide for commercially reasonable 
+ protection for the source code , structure and other confidential and proprietary element of the nuance share technology asset . the spinco group 
+ shall remain liable for any breach or default of the applicable term and condition of this agreement by any of its sublicensee . 
+ section 3.02 . other covenant . 
+ ( a ) spinco hereby acknowledge nuance ’s right , title and interest in and to the nuance ip . spinco agree that it will not ( i ) oppose , 
+ challenge , petition to cancel , contest or threaten in any way , or assist another party in oppose , challenging , petition to cancel , contesting or 
+ threaten in any way , any application or registration by nuance or its affiliate or their respective licensee for any nuance ip , ( ii ) engage in any act , or 
+ purposefully omit to perform any act , that impairs or adversely affect the right of nuance or any member of the nuance group in and to any nuance ip 
+ or ( iii ) apply for any registration ( include federal , state and national registration ) with respect to the nuance ip . 
+ ( b ) with respect to the nuance share technology asset , spinco agree that it will not ( i ) engage in any act , or purposefully omit to 
+ perform any act , that impairs or adversely affect the right of nuance or any member of the nuance group in and to any nuance share technology 
+ asset , ( ii ) use the nuance share technology asset on a service bureau , time sharing or similar basis , or for the benefit of any other person , ( iii ) 
+ remove any proprietary marking in the nuance share technology asset , ( iv ) incorporate or otherwise combine or integrate any open source software 
+ with or into the nuance share technology asset such that the nuance share technology asset , or any part thereof , become subject to any " open 
+ source , " " copyleft " or similar type of license term ( include , without limitation , any license that be or be recognize as an open source software license 
+ by the open source initiative ) , ( v ) reverse engineer , reverse assemble or decompile the nuance share technology asset or any software component of 
+ the nuance share technology asset or ( vi ) disclose , distribute or otherwise provide or permit access to source code of any nuance share 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ technology asset other than to commercial source code escrow provider who be only permit to make such source code available to third party 
+ that have enter into an escrow agreement with a member of the spinco group and escrow provider . 
+ article iv 
+ license and covenant from spinco to nuance 
+ section 4.01 . license grant . 
+ ( a ) patent . subject to the term and condition of this agreement , as of the distribution date , spinco hereby grant to nuance and the 
+ member of the nuance group a worldwide , non - exclusive , fully pay - up , perpetual and irrevocable , transferable ( subject to article viii ) , sublicensable 
+ ( subject to section 4.01(g ) ) license under the spinco patent , solely to the extent that claim of the spinco patent cover product or service of the 
+ nuance business in the nuance field of use , together with natural extension and evolution thereof , in each case to make , have make use , sell , offer for 
+ sale , import and otherwise exploit such product and service , together with natural extension and evolution thereof . 
+ ( b ) technology . subject to the term and condition of this agreement , as of the distribution date , spinco hereby grant to nuance and 
+ the member of the nuance group a worldwide , non - exclusive , fully pay - up , perpetual and irrevocable , transferable ( subject to article viii ) , 
+ sublicensable ( subject to section 4.01(g ) ) license to install , access , use , reproduce , perform , display , modify ( include the right to create improvement 
+ and derivative work ) , far develop , sell , manufacture , distribute and market product and service base on , use or incorporate the spinco 
+ share technology asset within the nuance field of use , together with natural extension and evolution thereof . 
+ ( c ) other spinco share ip . subject to the term and condition of this agreement , as of the distribution date , spinco hereby grant to 
+ nuance and the member of the nuance group a worldwide , non - exclusive , fully pay - up , perpetual and irrevocable , transferable ( subject to article 
+ viii ) , sublicensable ( subject to section 4.01(g ) ) license to continue to use any spinco ip ( other than spinco patent , spinco technology asset , spinco 
+ trademark , spinco domain name and spinco datum ) , in each case solely as and to the extent that it be use by the nuance group in connection with 
+ product and service of the nuance business within the nuance field of use , together with natural extension and evolution thereof . 
+ ( d ) trademark . the party acknowledge and agree that no right be grant to the nuance group in this agreement with respect to any 
+ trademark or domain name . 
+ ( e ) spinco datum . the party acknowledge and agree that certain right and obligation with respect to the use or benefit of the nuance 
+ group of certain spinco datum shall be as provide in schedule c. 
+ ( f ) oem technology . notwithstanding the foregoing , the party acknowledge and agree that this section 4.01 do not grant any right or 
+ license to any oem technology , which be subject to certain separate agreement between the party , and to the 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ extent there be a conflict between this agreement and such separate agreement , such separate agreement shall control . 
+ ( g ) sublicense . the license grant in section 4.01(a ) , ( b ) and ( c ) to the nuance group include the right to grant sublicense within the 
+ scope of such license only to member of the nuance group and , without any further right to sublicense , to their respective ( i ) contractor , distributor , 
+ manufacturer and reseller , in each case solely for the benefit of the nuance business and ( ii ) end user and customer , in each case solely in 
+ connection with the use of product and service of the nuance business . notwithstanding the forgo , subject to section 4.02(b ) and article vi , 
+ member of the nuance group may only sublicense the spinco share technology asset pursuant to term and condition as protective as those 
+ under which it license its own technology of a similar nature and value , and in any event term and condition that provide for commercially reasonable 
+ protection for the source code , structure and other confidential and proprietary element of the spinco share technology asset . the nuance group 
+ shall remain liable for any breach or default of the applicable term and condition of this agreement by any of its sublicensee . 
+ section 4.02 . other covenant . 
+ ( a ) nuance hereby acknowledge spinco ’s right , title and interest in and to the spinco ip . nuance agree that it will not ( i ) oppose , 
+ challenge , petition to cancel , contest or threaten in any way , or assist another party in oppose , challenging , petition to cancel , contesting or 
+ threaten in any way , any application or registration by spinco or its affiliate or their respective licensee for any spinco ip , ( ii ) engage in any act , or 
+ purposefully omit to perform any act , that impairs or adversely affect the right of spinco or any member of the spinco group in and to any spinco ip or 
+ ( iii ) apply for any registration ( include federal , state and national registration ) with respect to the spinco ip . 
+ ( b ) with respect to the spinco share technology asset , nuance agree that it will not ( i ) engage in any act , or purposefully omit to 
+ perform any act , that impairs or adversely affect the right of spinco or any member of the spinco group in and to any spinco share technology 
+ asset , ( ii ) use the spinco share technology asset on a service bureau , time sharing or similar basis , or for the benefit of any other person , ( iii ) 
+ remove any proprietary marking in the spinco share technology asset , ( iv ) incorporate or otherwise combine or integrate any open source software 
+ with or into the spinco share technology asset such that the spinco share technology asset , or any part thereof , become subject to any " open 
+ source , " " copyleft " or similar type of license term ( include , without limitation , any license that be or be recognize as an open source software license 
+ by the open source initiative ) , ( v ) reverse engineer , reverse assemble or decompile the spinco share technology asset or any software component of 
+ the spinco share technology asset or ( vi ) disclose , distribute or otherwise provide or permit access to source code of any spinco share 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ technology asset other than to commercial source code escrow provider who be only permit to make such source code available to third party 
+ that have enter into an escrow agreement with a member of the nuance group and escrow provider . 
+ article v 
+ additional intellectual property relate matter 
+ section 5.01 . ownership . the party receive the license hereunder acknowledge and agree that the party ( or the applicable member of its group ) 
+ grant the license be the sole and exclusive owner of the intellectual property right so licensed . 
+ section 5.02 . assignment and license . any assignment , other transfer or license by either party or any member of its group of any intellectual 
+ property right license to the other party or any member of its group pursuant to article iii or article iv , respectively , shall be subject to the 
+ applicable license , covenant and restriction set forth herein . 
+ section 5.03 . no imply right . nothing contain in this agreement shall be construe as confer any right ( include the right to 
+ sublicense ) by implication , estoppel or otherwise , under any intellectual property right , other than as expressly grant in this agreement , and all other 
+ right under any intellectual property right license to a party or the member of its group hereunder be expressly reserve by the party grant the 
+ license . 
+ section 5.04 . no obligation to prosecute or maintain patent . except as expressly set forth in this agreement , no party or any member of its group 
+ shall have any obligation to seek , perfect or maintain any protection for any of its intellectual property right . without limit the generality of the 
+ foregoing , except as expressly set forth in this agreement , no party or any member of its group shall have any obligation to file any patent application , to 
+ prosecute any patent , or secure any patent right or to maintain any patent in force . 
+ section 5.05 . no technical assistance . except as expressly set forth in this agreement , in the separation agreement or any other mutually execute 
+ agreement between the party or any of the member of their respective group , no party or any member of its group shall be require to provide the 
+ other party with any technical assistance or to furnish any other party with , or obtain on their behalf , any intellectual property right - relate document , 
+ material or other information or technology . 
+ section 5.06 . group member . each party shall cause the member of its group to comply with all applicable provision of this agreement . 
+ article vi 
+ confidential information 
+ section 6.01 . confidentiality . without limit section 6.02 , all confidential information of a party disclose to the other party under this agreement 
+ shall be deem confidential and proprietary information of the disclosing party , shall be subject to the provision of section 7.09 of the separation 
+ agreement and may be use by the receive party pursuant to this agreement for the sole and express purpose of effect the license grant herein . 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ section 6.02 . disclosure of confidential technical information . except as expressly permit by this agreement , include in section 3.02(b)(vi ) or 
+ section 4.02(b)(vi ) , the receive party shall not , and shall not permit any other person to , disclose any confidential technical information to any person 
+ without prior write consent of the disclosing party , except that the receive party may disclose the confidential technical information solely to those 
+ employee and contractor of the receive party who have a need to know the confidential technical information in connection with designing , 
+ develop , distributing , marketing , test and support any product or service of the receive party within the nuance field of use or spinco 
+ field of use , as applicable ( collectively , the " permit recipients”); provide , that prior to such disclosure the receive party shall notify each such 
+ permit recipient in writing of the use and disclosure restriction set forth in this agreement and ensure that such permit recipient be bind by 
+ confidentiality obligation with respect thereto . the receive party shall take , at its sole expense , all reasonable measure to prevent any prohibit or 
+ unauthorized disclosure or use of any confidential technical information , include by its permit recipient , and shall be liable for any breach of 
+ this agreement by any of its permit recipient , in each case , as if commit by the receive party . 
+ section 6.03 . compulsory disclosure of confidential technical information . if the receive party receive a request to disclose any confidential 
+ technical information pursuant to a subpoena or other order of a governmental authority : ( i ) the receive party shall promptly notify in write the 
+ disclose party thereof and reasonably consult with and assist the disclosing party in seek a protective order or other appropriate remedy to limit 
+ such disclosure , ( ii ) in the event that such protective order or remedy be not obtain , the receive party shall disclose only that portion of the 
+ confidential technical information which , in the write opinion of the receive party ’s legal counsel , be legally require to be disclose , and the 
+ receive party shall use reasonable good effort to ensure confidential treatment of any such disclose confidential technical information and ( iii ) the 
+ disclose party shall be give an opportunity to review any such confidential technical information prior to disclosure thereof . the party shall fully 
+ cooperate , to the extent permit by law , in any action the disclosing party may take in seek to prevent or limit such disclosure . any confidential 
+ technical information disclose under this section 6.03 shall continue to be deem confidential technical information for all purpose hereunder , 
+ notwithstanding such disclosure . 
+ article vii 
+ limitation of liability and warranty disclaimer 
+ section 7.01 . limitation on liability . without limit the term set forth in section 6.09 of the separation agreement , none of nuance , spinco or 
+ any other member of either group shall in any event have any liability to the other or to any other member of the other ’s group under this agreement for 
+ any indirect , special , punitive or consequential damage , whether or not cause by or result from negligence or breach of obligation hereunder and 
+ whether or not informed of the possibility of the existence of such damage . 
+ section 7.02 . disclaimer of representation and warranty . each of nuance ( on behalf of itself and each other member of the nuance group ) and 
+ spinco ( on behalf of itself and each other member of the spinco group ) understand and agree that , except as expressly set forth in this agreement , no 
+ party be represent or warrant in any way , include any 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ imply warranty of merchantability , fitness for a particular purpose , title , registerability , allowability , enforceability or non - infringement , as to any 
+ intellectual property right license hereunder , as to the sufficiency of the intellectual property right license hereunder for the conduct and 
+ operation of the spinco business or the nuance business , as applicable , as to the value or freedom from any security interest of , or any other matter 
+ concerning , any intellectual property right license hereunder , or as to the absence of any defense or right of setoff or freedom from counterclaim 
+ with respect to any claim or other intellectual property right of any such party , or as to the legal sufficiency of any assignment , document or instrument 
+ deliver hereunder to convey title to any intellectual property right or thing of value upon the execution , delivery and file hereof or thereof . except 
+ as may expressly be set forth herein , any such intellectual property right be be license on an " as be , " " where be " basis and the respective licensee 
+ shall bear the economic and legal risk relate to the use of the nuance ip in the spinco business or the spinco ip in the nuance business , as applicable . 
+ article viii 
+ transferability and assignment 
+ section 8.01 . no assignment or transfer without consent . except as expressly set forth in this agreement , neither this agreement nor any of the 
+ right , interest or obligation under this agreement , include the license grant pursuant to this agreement , shall be assign , in whole or in part , by 
+ operation of law or otherwise by either party without the prior write consent of the other party . any purport assignment without such consent shall 
+ be void . notwithstanding the foregoing , if any party to this agreement ( or any of its successor or permit assign ) ( a ) shall enter into a consolidation 
+ or merger transaction in which such party be not the survive entity and the survive entity acquire or assume all or substantially all of such party ’s 
+ asset , ( b ) shall transfer all or substantially all of such party ’s asset to any person or ( c ) shall assign this agreement to such party ’s affiliate , then , in 
+ each such case , the assign party ( or its successor or permit assign , as applicable ) shall ensure that the assignee or successor - in - interest 
+ expressly assume in write all of the obligation of the assign party under this agreement , and the assign party shall not be require to seek 
+ consent , but shall provide write notice and evidence of such assignment , assumption or succession to the non - assigning party . subject to the 
+ precede sentence , this agreement will be bind upon , inure to the benefit of , and be enforceable by , the party and their respective successor and 
+ assign . no assignment permit by this section 8.01 shall release the assign party from liability for the full performance of its obligation under this 
+ agreement . for the avoidance of doubt , in no event will the license grant in this agreement extend to product , service or other activity of the 
+ assignee exist on or before the date of the transaction describe in clause ( a ) or ( b ) of the precede sentence , except to the extent that they be 
+ license under the term of this agreement prior to such transaction . 
+ section 8.02 . divested business . in the event a party divest a line of business or line of product or service by ( a ) spin off a member of its 
+ group by its sale or other disposition to a third party , ( b ) reduce ownership or control in a member of its group so that it no long qualifier as a 
+ member of its group under this agreement , ( c ) selling or otherwise transfer such line of business , product or service to a third party or ( d ) form 
+ a joint venture with a third party with respect to such line of business , product or service ( each such divest entity or line of business , product or 
+ service , a " divested entity " ) , the divest entity 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ shall retain those license grant to it under this agreement , provide that the license shall be limit to the business , product or service ( as 
+ applicable ) of the divest entity as of the date of divestment and such natural development thereof within the nuance field of use ( where nuance be the 
+ divest party ) or spinco field of use ( where spinco be the divest party ) . the retention of any license grant be subject to the divested entity ’s 
+ and , in the event it be acquire by a third party , such third party ’s execution and delivery to the non - transferring party , within 90 day of the effective 
+ date of such divestment , of a duly authorize , write undertaking , agree to be bind by the applicable term of this agreement . for the avoidance of 
+ doubt , ( i ) in no event will the license retain by a divested entity extend to product , service or other activity of a third party acquirer exist on or 
+ before the date of the divestment , except to the extent that they be license under the term of this agreement prior to such divestment , and ( ii ) in the 
+ event that a divest entity own any intellectual property right license to the other party under this agreement , such intellectual property right 
+ may be transfer or assignment with such divest entity subject to the term and condition this agreement . 
+ article ix 
+ termination 
+ section 9.01 . termination by both party . subject to section 9.02 , this agreement may not be terminate except by an agreement in writing sign 
+ by a duly authorize officer of each of the party . 
+ section 9.02 . termination prior to the distribution . this agreement may be terminate by nuance at any time , in its sole discretion , prior to the 
+ distribution; provide , however , that this agreement shall automatically terminate upon the termination of the separation agreement in accordance with 
+ its term . 
+ section 9.03 . effect of termination; survival . in the event of any termination of this agreement prior to the distribution , neither party ( nor any 
+ member of their group or any of their respective director or officer ) shall have any liability or further obligation to the other party or any member of its 
+ group under this agreement . except with respect to termination of the agreement under section 9.02 , notwithstanding anything in this agreement to the 
+ contrary , article i , article vi , article vii , this section 9.03 and article xi shall survive any termination of this agreement . 
+ article x 
+ further assurance 
+ section 10.01 . further assurance . 
+ ( a ) in addition to the action specifically provide for elsewhere in this agreement , each of the party shall use reasonable good effort , 
+ prior to , on and after the distribution date , to take , or cause to be take , all action , and to do , or cause to be do , all thing , reasonably necessary , 
+ proper or advisable under applicable law and agreement to consummate , and make effective , the transaction contemplate by this agreement . 
+ ( b ) without limit the foregoing , prior to , on and after the distribution date , each party shall cooperate with the other party , without any 
+ further 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ consideration , but at the expense of the request party : ( i ) to execute and deliver , or use reasonable good effort to execute and deliver , or cause to be 
+ execute and deliver , all instrument , include any instrument of conveyance , assignment and transfer as such party may reasonably be request to 
+ execute and deliver by the other party; ( ii ) to make , or cause to be make , all filing with , and to obtain , or cause to be obtain , all consent of any 
+ governmental authority or any other person under any permit , license , contract , indenture or other instrument; and ( iii ) to take , or cause to be take , all 
+ such other action as such party may reasonably be request to take by the other party from time to time , consistent with the term of this agreement , 
+ in order to effectuate the provision and purpose of this agreement and any transfer of intellectual property right or assignment and assumption 
+ of liability relate thereto as set forth in the separation agreement . 
+ article xi 
+ miscellaneous 
+ section 11.01 . counterparts; entire agreement; corporate power . 
+ ( a ) this agreement may be execute in one or more counterpart , all of which counterpart shall be consider one and the same 
+ agreement , and shall become effective when one or more counterpart have be sign by each party and deliver to the other party . this agreement 
+ may be execute by facsimile or pdf signature and scan and exchange by electronic mail , and such facsimile or pdf signature or scan and 
+ exchange copy shall constitute an original for all purpose . 
+ ( b ) this agreement and the exhibit and schedule hereto contain the entire agreement between the party with respect to the subject 
+ matter hereof and supersede all previous agreement , negotiation , discussion , writing , understanding , commitment and conversation with respect 
+ to such subject matter , and there be no agreement or understanding between the party with respect to the subject matter hereof other than those set 
+ forth or refer to herein or therein . in the event of conflict or inconsistency between the provision of this agreement or the separation agreement , the 
+ provision of this agreement shall prevail . 
+ ( c ) nuance represent on behalf of itself and each other member of the nuance group , and spinco represent on behalf of itself and each 
+ other member of the spinco group , as follow : 
+ ( i ) each such person have the requisite corporate or other power and authority and have take all corporate or other action necessary in 
+ order to execute , deliver and perform this agreement and to consummate the transaction contemplate hereby; and 
+ ( ii ) this agreement have be duly execute and deliver by it and constitute , or will constitute , a valid and bind agreement of it 
+ enforceable in accordance with the term thereof . 
+ section 11.02 . dispute resolution . in the event that either party , act reasonably , form the view that another party have cause a material breach 
+ of the term of this agreement , then the party that form such a view shall serve write notice of the allege breach on the other party and the party 
+ shall work together in good faith to resolve any such allege 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ breach within thirty ( 30 ) day of such notice ( a " dispute " ) . if any such allege breach be not so resolve , then a senior executive of each party shall , in 
+ good faith , attempt to resolve any such allege breach within the following thirty ( 30 ) day of the referral of the matter to the senior executive . if no 
+ resolution be reach with respect to any such allege breach in accordance with the procedure contain in this section 11.02 , then the party may seek 
+ to resolve such matter in accordance with section 11.03 , section 11.04 , section 11.05 and section 11.06 
+ section 11.03 . govern law; jurisdiction . any dispute relate to , arise out of or result from this agreement , include to its execution , 
+ performance , or enforcement , shall be govern by , and construe in accordance with , the law of the state of delaware , regardless of the law that 
+ might otherwise govern under applicable principle of conflict of law thereof . each party irrevocably consent to the exclusive jurisdiction , forum and 
+ venue of the delaware court of chancery ( and if the delaware court of chancery shall be unavailable , any delaware state court or the federal court 
+ sit in the state of delaware ) over any and all claim , dispute , controversy or disagreement between the party or any of their respective affiliate , 
+ successor and assign under or relate to this agreement or any of the transaction contemplate hereby , include their execution , performance or 
+ enforcement , whether in contract , tort or otherwise . each of the party hereby agree that it shall not assert , and shall hereby waive , any claim or right or 
+ defense that it be not subject to the jurisdiction of such court , that the venue be improper , that the forum be inconvenient or any similar objection , claim or 
+ argument . each party agree that a final judgment in any legal proceeding resolve in accordance with this section 11.03 , section 11.04 , section 11.05 and 
+ section 11.06 shall be conclusive and may be enforce in other jurisdiction by suit on the judgment or in any other manner provide by applicable law . 
+ section 11.04 . waiver of jury trial . each party hereby waive its right to a jury trial of any claim or cause of action 
+ relate to , arise out of or result from this agreement or the transaction contemplate hereby , include 
+ their execution , performance or enforcement , whether in contract , tort or otherwise . the scope of this waiver be 
+ intend to be all - encompassing of any and all dispute that may be file in any court and that relate to the 
+ subject matter of this transaction , include contract claim , tort claim ( include negligence ) , breach of duty 
+ claim and all other common law and statutory claim . this section have be fully discuss by each of the party 
+ and these provision will not be subject to any exception . 
+ section 11.05 . court - order interim relief . in accordance with section 11.03 and section 11.04 , at any time after give notice of a dispute , each 
+ party shall be entitle to interim measure of protection duly grant by a court of competent jurisdiction : ( 1 ) to preserve the status quo pende 
+ resolution of the dispute; ( 2 ) to prevent the destruction or loss of document and other information or thing relate to the dispute; or ( 3 ) to prevent the 
+ transfer , disposition or hiding of asset . any such interim measure ( or a request therefor to a court of competent jurisdiction ) shall not be deem 
+ incompatible with the provision of section 11.02 , section 11.03 and section 11.04 . until such dispute be resolve in accordance with section 11.02 or final 
+ judgment be render in accordance with section 11.03 and section 11.04 , each 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ party agree that such party shall continue to perform its obligation under this agreement and that such obligation shall not be subject to any defense 
+ or setoff , counterclaim , recoupment or termination . 
+ section 11.06 . specific performance . subject to section 11.02 and section 11.05 , in the event of any actual or threatened default in , or breach of , any 
+ of the term , condition and provision of this agreement , the affected party shall have the right to specific performance and injunctive or other equitable 
+ relief of its right under this agreement , in addition to any and all other right and remedy at law or in equity , and all such right and remedy shall be 
+ cumulative . the other party shall not oppose the granting of such relief on the basis that money damage be an adequate remedy . the party agree that 
+ the remedy at law for any breach or threaten breach hereof , include monetary damage , be inadequate compensation for any loss and that any 
+ defense in any action for specific performance that a remedy at law would be adequate be waive . any requirement for the securing or posting of any 
+ bond or similar security with such remedy be waive . 
+ section 11.07 . third - party beneficiary . except as otherwise expressly set forth herein or as otherwise may be provide in the separation 
+ agreement with respect to the right of any nuance indemnitee or spinco indemnitee , in his , she or its respective capacity as such , ( a ) the provision of 
+ this agreement be solely for the benefit of the party hereto and be not intend to confer upon any person except the party hereto any right or 
+ remedy hereunder and ( b ) there be no third - party beneficiary of this agreement and this agreement shall not provide any third person with any 
+ remedy , claim , liability , reimbursement , cause of action or other right in excess of those exist without reference to this agreement . 
+ section 11.08 . notice . all notice or other communication under this agreement shall be in writing and shall be deem to be duly give ( a ) when 
+ deliver in person , ( b ) on the date receive , if send by a nationally recognize delivery or courier service , ( c ) upon write confirmation of receipt after 
+ transmittal by electronic mail or ( d ) upon the early of confirm receipt or the fifth ( 5th ) business day follow the date of mailing if send by registered or 
+ certify mail , return receipt request , postage prepay and address as follow : 
+ if to nuance , to : 
+ nuance communication , inc . 
+ 1 wayside road , burlington , ma 01803 
+ attn : wendy cassity , evp and chief legal officer 
+ email : wendy.cassitynuance.com 
+ with a copy to : david garfinkel , svp corporate development 
+ email : david.garfinkelnuance.com 
+ and 
+ paul , weiss , rifkind , wharton & garrison llp 
+ 1285 avenue of the america 
+ new york , ny 10019 - 6064 
+ attn : scott a. barshay 
+ steven j. williams 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ michael e. vogel 
+ email : sbarshaypaulweiss.com 
+ swilliamspaulweiss.com 
+ mvogelpaulweiss.com 
+ facsimile : 212 - 492 - 0040 
+ if to spinco , to : 
+ cerence inc . 
+ 15 wayside road , burlington , ma 01803 
+ attn : leanne fitzgerald , general counsel 
+ email : leanne.fitzgeraldcerence.com 
+ with a copy to : mark gallenberger , chief financial officer 
+ email : mark.gallenbergercerence.com 
+ either party may , by notice to the other party , change the address and identity of the person to which such notice and copy of such notice be to be 
+ give . each party agree that nothing in this agreement shall affect the other party ’s right to serve process in any other manner permit by law 
+ ( include pursuant to the rule for foreign service of process authorize by the hague convention ) . 
+ section 11.09 . import and export control . each party agree that it shall comply with all applicable national and international law and regulation 
+ relate to import and/or export control in its country(ie ) , if any , involve any commodity , software , service or technology within the scope of this 
+ agreement . 
+ section 11.10 . bankruptcy . the party acknowledge and agree that all right and license grant by the other under or pursuant to this agreement 
+ be , and shall otherwise be deem to be , for purpose of section 365(n ) of the united states bankruptcy code , as amend ( the " bankruptcy code " ) , 
+ license of right to " intellectual property " as define under section 101 of the bankruptcy code . the party agree that , notwithstanding anything else 
+ in this agreement , nuance and the member of the nuance group and spinco and the member of the spinco group , as licensee of such intellectual 
+ property right under this agreement , shall retain and may fully exercise all of its right and election under the bankruptcy code ( include nuance ’s 
+ and the nuance group member ' and spinco ’s and the spinco group member ' right 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ to the continue enjoyment of the right and license respectively grant by under this agreement ) . 
+ section 11.11 . severability . if any provision of this agreement or the application thereof to any person or circumstance be determine by a court of 
+ competent jurisdiction to be invalid , void or unenforceable , the remain provision hereof , or the application of such provision to person or 
+ circumstance , or in jurisdiction other than those as to which it have be hold invalid or unenforceable , shall remain in full force and effect and shall in 
+ no way be affect , impair or invalidated thereby , so long as the economic or legal substance of the transaction contemplate hereby be not affect in 
+ any manner materially adverse to either party . upon any such determination , any such provision , to the extent determine to be invalid , void or 
+ unenforceable , shall be deem replace by a provision that such court determine be valid and enforceable and that come close to express the 
+ intention of the invalid , void or unenforceable provision . 
+ section 11.12 . expense . except as set forth on schedule xxiv to the separation agreement , as otherwise expressly provide in this agreement or 
+ the separation agreement , ( i ) all third - party fee , cost and expense incur by either the nuance group or the spinco group in connection with 
+ effecting the spin - off prior to or on the distribution date , whether payable prior to , on or follow the distribution date ( but exclude , for the 
+ avoidance of doubt , any financing fee or interest payable in respect of any indebtedness incur by spinco in connection with the spin - off ) , will be 
+ bear and pay by nuance and ( ii ) all third - party fee , cost and expense incur by either the nuance group or the spinco group in connection with 
+ effecting the spin - off follow the distribution date , whether payable prior to , on or follow the distribution date , will be bear and pay by the party 
+ incur such fee , cost or expense . for the avoidance of doubt , this section 11.12 shall not affect each party ’s responsibility to indemnify nuance 
+ liability or spinco liability , as applicable , arise from the transaction contemplate by the distribution . 
+ section 11.13 . heading . the article , section and paragraph heading contain in this agreement , include in the table of content of this 
+ agreement , be for reference purpose only and shall not affect in any way the meaning or interpretation of this agreement . 
+ section 11.14 . survival of covenant . except as expressly set forth in this agreement , the covenant in this agreement and the liability for the 
+ breach of any obligation in this agreement shall survive the spin - off and shall remain in full force and effect . 
+ section 11.15 . waiver of default . no failure or delay of any party ( or the applicable member of its group ) in exercise any right or remedy under 
+ this agreement shall operate as a waiver thereof , nor shall any single or partial exercise of any such right or power , or any abandonment or 
+ discontinuance of step to enforce such right or power , or any course of conduct , preclude any other or further exercise thereof or the exercise of any 
+ other right or power . waiver by any party of any default by the other party of any provision of this agreement shall not be deem a waiver by the 
+ waive party of any subsequent or other default . 
+ section 11.16 . amendment . no provision of this agreement shall be deem waive , amend , supplement or modify by any party , unless 
+ such waiver , amendment , 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ supplement or modification be in writing and sign by the authorize representative of each party . 
+ section 11.17 . interpretation . word in the singular shall be hold to include the plural and vice versa and word of one gender shall be hold to 
+ include the other gender as the context require . the term " hereof , " " herein , " " herewith " and word of similar import , unless otherwise state , shall be 
+ construe to refer to this agreement as a whole ( include all of the schedule hereto ) and not to any particular provision of this agreement . article , 
+ section or schedule reference be to the article , section and schedule of or to this agreement unless otherwise specify . any capitalize term use 
+ in any schedule to this agreement but not otherwise define therein shall have the meaning as define in this agreement . any definition of or reference 
+ to any agreement , instrument or other document herein ( include any reference herein to this agreement ) shall , unless otherwise state , be construe as 
+ refer to such agreement , instrument or other document as from time to time amend , supplement or otherwise modify ( subject to any restriction 
+ on such amendment , supplement or modification set forth therein , include in section 11.16 above ) . the word " include " and word of similar import 
+ when use in this agreement shall mean " include , without limitation , " unless the context otherwise require or unless otherwise specify . the word 
+ " or " shall not be exclusive . the word " extent " in the phrase " to the extent " shall mean the degree to which a subject or other thing extend , and such 
+ phrase shall not mean simply " if . " all reference to " " or dollar amount be to the lawful currency of the united states of america . in the event that an 
+ ambiguity or question of intent or interpretation arise , this agreement shall be construe as if draft jointly by the party , and no presumption or 
+ burden of proof shall arise favoring or disfavor either party by virtue of the authorship of any provision hereof . 
+ [ signature page follow ] 
+
+ source : cerence inc . , 8 - k , 10/2/2019 
+ in witness whereof , the party have cause this intellectual property agreement to be execute by their duly authorize representative . 
+ nuance communication , inc . 
+ by : /s/ wendy cassity 
+ name : wendy cassity 
+ title : 
+ executive vice president and chief legal officer 
+ cerence inc . 
+ by : /s/ leanne fitzgerald 
+ name : leanne fitzgerald 
+ title : 
+ vice president and secretary 
+ [ signature page to the intellectual property agreement ] 
+ source : cerence inc . , 8 - k , 10/2/2019

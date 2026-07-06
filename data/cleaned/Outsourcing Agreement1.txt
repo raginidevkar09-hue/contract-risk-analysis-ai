@@ -1,0 +1,1600 @@
+exhibit 10.29
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+execution version
+outsourcing agreement
+between
+paratek pharmaceuticals, inc.
+and
+carbogen amcis ag
+date
+30 december 2016
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+table of contents
+
+article 1 interpretation
+
+1.1 definitions
+
+1.2 other definitions
+
+1.3 currency
+
+1.4 headings
+
+1.5 exhibits
+
+1.6 applicable law
+
+article 2 term
+
+2.1 term
+
+2.2 effect of expiration on purchase orders
+
+article 3 supply of product
+
+3.1 supply of product
+
+3.2 manufacturing services
+
+3.3 supply of materials and customer material
+
+3.4 production capacity
+
+3.5 processing changes
+
+3.6 monitoring of facilities
+
+3.7 subcontracting
+
+3.8 [ ]
+
+3.9 [ ]
+
+3.10 territory expansion
+
+3.11 supply to customer licensees
+
+3.12 alternative supply
+
+article 4 forecasts
+
+4.1 short term rolling forecasts
+
+4.2 long term forecasts
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+article 5 testing and samples
+
+5.1 release testing
+
+5.2 additional release testing
+
+5.3 retention samples
+
+5.4 stability testing
+
+5.5 reference standards
+
+5.6 preparation of process qualification
+
+article 6 purchase orders
+
+6.1 placement of purchase orders
+
+6.2 acceptance of orders
+
+6.3 delays
+
+6.4 cancellation of purchase orders
+
+6.5 material failure of supply
+
+6.6 services
+
+article 7 shipment of product
+
+7.1 storage of product
+
+7.2 release and shipment of product
+
+7.3 documentation
+
+7.4 steering committee
+
+article 8 acceptance of shipments
+
+8.1 acceptance of shipments
+
+8.2 dispute of rejected product
+
+8.3 remedies
+
+article 9 fees
+
+9.1 fees
+
+9.2 adjustments to fees
+
+9.3 taxes
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+article
+
+ invoicing and payment
+
+10.1 issuance of invoices
+
+10.2 invoice contents
+
+10.3 delay of shipment
+
+10.4 payment of invoices
+
+article
+
+ intellectual property
+
+11.1 title
+
+11.2 no grant of rights
+
+11.3 grant of license by customer
+
+11.4 ownership of inventions
+
+11.5 patents to inventions
+
+11.6 no use of trademarks
+
+11.7 [ ]
+
+article
+
+ confidentiality & publicity
+
+12.1 obligation of confidentiality
+
+12.2 disclosure with consent
+
+12.3 publicity
+
+12.4 disclosure required by law
+
+12.5 employee confidentiality and invention assignment
+
+12.6 duration of obligation
+
+article
+
+ representations, warranties and covenants
+
+13.1 supplier’s representations, warranties and covenants
+
+13.2 customer’s representations, warranties and covenants
+
+13.3 no other warranty
+
+13.4 no consequential damages and limitation of liability
+
+article
+
+ indemnification
+
+14.1 indemnification of supplier
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+14.2 indemnification of customer
+
+14.3 intellectual property indemnity
+
+14.4 indemnification procedure
+
+article
+
+ insurance
+
+15.1 insurance coverage
+
+15.2 evidence of insurance
+
+article
+
+ legal and regulatory
+
+16.1 compliance with laws
+
+16.2 maintenance of records
+
+16.3 notice of reports
+
+16.4 drug master files
+
+16.5 compliance with regulatory standards
+
+16.6 inspection
+
+article
+
+ recalls
+
+17.1 safety
+
+17.2 recalls
+
+17.3 supplier’s liability for recall
+
+17.4 customer’s liability for recall
+
+17.5 replacement shipments
+
+article
+
+ termination
+
+18.1 termination
+
+18.2 consequences of termination
+
+18.3 return of samples
+
+18.4 return of confidential information
+
+18.5 survival
+
+article
+
+ miscellaneous
+
+19.1 assignment; inurement
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+19.2 change of control
+
+19.3 counterparts
+
+19.4 dispute resolution
+
+19.5 force majeure
+
+19.6 performance
+
+19.7 further assurances
+
+19.8 independent contractors
+
+19.9 injunctions
+
+19.10 notices
+
+19.11 entire agreement
+
+19.12 severability
+
+19.13 waiver
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+this agreement (this “agreement”), dated december 30, 2016 (the “effective date”), is
+between:
+paratek pharmaceuticals, inc., a company having a place of business at 75 park plaza, 4th floor, boston, ma 02116, usa (“customer”)
+and:
+carbogen amcis ag, a company having a place of business at hauptstrasse 171, ch 4416 bubendorf, switzerland (“supplier” and, collectively
+with customer, the “parties”, and each, a “party).
+whereas:
+a. customer is the owner of certain technology and patent rights regarding the product (as defined herein) having the description set out in exhibit
+a (description of product) and exhibit b (chemical synthesis);
+b. customer has filed / intends to file for approval with the united states food and drug administration and/or its foreign equivalents, an
+investigational new drug application (“ind”) and a new drug application (“nda”), and/or the foreign equivalents thereof, for certain
+formulations containing the product;
+c. supplier is engaged in the business of performing contracted process development, manufacturing and supply services of active pharmaceutical
+ingredients (“apis”) and intermediates; and
+d. customer desires that supplier manufacture the product in bulk quantities, and supplier desires to perform such services, each on the terms and
+conditions set out in this agreement.
+now therefore, in consideration of the premises and the mutual covenants and agreements contained herein and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+article 1 interpretation
+1.1 definitions
+in this agreement, in addition to words and phrases defined where they are used, the following words and phrases shall have the following
+meanings:
+a) “affiliate” of a party shall mean any entity, directly or indirectly, controlling, controlled by, or under common control with a party. for purposes
+of this definition, “controlling” (including, “controlled by” and “under
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+common control”) shall mean: (a) ownership of at least fifty percent (50) of the equity capital or other ownership interest in or of an entity; (b) the
+power to control or otherwise direct the affairs of an entity; (c) in the case of non-stock organizations, the power to control the distribution of
+profits of an entity; or (d) such other relationship as, in fact, results in actual control over the management, business, and affairs of an entity;
+b) “agreement” means this supply agreement for the product, including all exhibits attached hereto;
+c) “applicable law” means any applicable law, statute, rule, regulation, order, judgment or ordinance of any governmental or regulatory authority or
+agency;
+d) “applicable regulatory authority” means fda, emea and/or other equivalent governmental or regulatory authorities or agencies and any
+successors thereto;
+e) “business day” means any day on which banking institutions in boston, massachusetts and bubendorf, switzerland are open for business;
+f) “campaign” means a schedule of one or more discrete batches of product manufactured in sequence by supplier without pausing to change
+over to manufacture of any other product;
+g) “cgmp requirements” means the current good manufacturing practices standards required under ich q7a guideline and/or any similar
+standards of applicable governmental and/or regulatory authorities as defined in the quality agreement;
+h) “change of control” means any transaction or series of transactions wherein (a) the voting securities of supplier outstanding immediately prior
+thereto cease to represent at least fifty percent (50) of the combined voting power of the surviving entity immediately after such transaction or
+transactions; (b) the stockholders or equity holders of supplier approve a plan of complete liquidation of supplier, or an agreement for the sale or
+disposition by supplier of all or substantially all of supplier’s assets, other than to an affiliate; (c) a third party becomes the beneficial owner of
+fifty percent (50) or more of the combined voting power of the outstanding securities of supplier; or (d) substantially all of supplier’s business or
+assets which relate to this agreement are sold or otherwise transferred to a third party;
+i) “chemical synthesis” means established and reliable execution of chemical reactions in order to produce the “product” by applying chemical and
+physical manipulations usually involving one or more reactions;
+j) “confidential information” means all written information and data provided by the parties to each other hereunder and identified as being
+“confidential” and provided to the recipient, except that the term “confidential information” shall not apply to any information or any portion
+thereof which:
+(i) was known to the recipient or any of its affiliates, as evidenced by its written records, before receipt thereof under this agreement;
+(ii) is disclosed to the recipient or any of its affiliates, without obligations of confidentiality, during the term by a third party who has
+the right to make such disclosure;
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+(iii) is or becomes part of the public domain through no breach of this agreement by the recipient; or
+(iv) the recipient can demonstrate through competent written records is independently developed by or for the recipient or any of its
+affiliates by individuals or entities who have not had access to the information disclosed under this agreement.
+the confidential information may include, without limitation, data, know-how, formulae, processes, designs, sketches, photographs, plans,
+drawings, specifications, samples, reports, studies, data, findings, inventions, ideas, production facilities, machines, production capacities, prices,
+market share, research and development projects, and other market data. for the purposes of this agreement, master batch record shall be deemed
+the confidential information of customer and the product specifications shall be deemed the confidential information of customer;
+k) “customer licensee” means any third party to whom customer grants a license or a right to research, develop, make, have made, use, sell, have
+sold, import, export or otherwise exploit a product or customer product;
+l) “customer material” means the compound satisfying the customer material specification;
+m) “customer material specifications” means the specifications for the customer material set forth in the quality agreement, as such may be
+amended from time to time in accordance with its terms;
+n) “customer product” means any pharmaceutical product owned, controlled or sold by customer, its affiliates or customer licensees that
+incorporates or is derived from a product;
+o) “customer technology” means:
+[ ];
+p) “drug master file” or “dmf” means a submission to the applicable regulatory authority that provides detailed information about facilities,
+processes or articles used in the manufacture, processing, packaging and storing of a drug or excipient, among others, in order to obtain
+appropriate applicable regulatory authority approval for the production for that drug;
+q) “emea” means the european medicines agency and any successors thereto;
+r) “fda” means the united states food and drug administration and any successors thereto;
+s) “fd&c act” means the federal food, drug and cosmetic act, as the same may be amended or supplemented from time to time;
+t) “fees” means the fees specified in exhibit c, as may be amended by the parties in accordance with this agreement;
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+u) “improvements” means, in relation to any intellectual property, any and all versions, adaptations, modifications, improvements, enhancements,
+changes, revisions, translations and derivative works (whether complete or incomplete), of, to, in or based upon such intellectual property;
+v) “intellectual property” means anything that is protected by any rights in and to any and all patents, trade-marks, copyrights, industrial designs,
+confidential information, know-how and processes, and all other intellectual and industrial property rights whatsoever and world-wide (whether
+registered or unregistered and including rights in any application for any of the foregoing);
+w) “manufacture,” “manufactured” or “manufacturing” means all activities involved in the production of products to be supplied to customer or
+its affiliates hereunder, including the preparation, formulation, finishing, testing, storage and packaging for shipment of products and the handling,
+storage and disposal of any residues or wastes generated thereby;
+x) “manufacturing process” means the activities set out in (a) this agreement, (b) the master batch record and (c) supplier’s standard operating
+procedures for the manufacturing, characterization and testing, and bulk packaging and storage of the product;
+y) “master batch record” means the complete detailed manufacturing and control instructions and specifications for the manufacturing process
+for the product, as defined by the applicable validation protocol and cgmp requirements, as may be amended from time to time; in accordance with
+cgmp requirements, or by mutual agreement of both customer and supplier;
+z) “materials” means any and all materials, reagents, chemicals, compounds, physical samples, models, specimens and any other similar physical
+substances that are used in the manufacture of the product except for customer materials, including processes and activities leading up to and
+peripheral to the manufacture of the product;
+aa) “product” means the compound product as described in exhibit a satisfying the product specifications;
+bb) “product specifications” means the specifications for the product set forth in the quality agreement, as such may be amended from time to
+time in accordance with its terms;
+cc) “quality agreement” shall mean that certain quality agreement relating to contract manufacturing services by and between customer and
+supplier, dated [ ];
+dd) “recall” means any action by supplier, customer or any of their respective affiliates, to recover possession of the product or finished products
+containing the product shipped to third parties. “recalled” and “recalling” shall have comparable meanings;
+ee) “rights” shall mean any and all proprietary, possessory, use and ownership rights, titles and interests (whether beneficial or legal) of all kinds
+whatsoever, howsoever arising, world-wide and whether partial or whole in nature;
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+ff) “seizure” means any action by an applicable regulatory authority in any jurisdiction, to detain or destroy any product or any intermediate or
+finished products containing the product or prevent release of the product or finished products containing the product. “seized” and “seizing”
+shall have comparable meanings;
+gg) “services” refers to any activities undertaken by supplier relating to the product, as referenced in section 6.6 (services);
+hh) “supplier technology” means, to the extent such is not customer technology: [ ];
+ii) “term” means the initial term and the renewal term, if applicable;
+jj) “territory” means the united states of america and its territories and possessions and any other countries in the world added to the definition of
+“territory” pursuant to section 3.10;
+kk) “third party” means any party other than a party to this agreement or an affiliate of a party to this agreement; and
+ll) “yield” means, with respect to any batch of product manufactured by supplier under this agreement, a percentage equal to the amount of
+customer material contained in such batch of product delivered and accepted by customer under this agreement divided by the amount of
+customer material used in the manufacturing process of such batch of product.
+1.2 other definitions
+any words defined elsewhere in this agreement shall have the particular meaning assigned to the words.
+1.3 currency
+in this agreement, all references to money or payments means u.s. dollars and all payments made hereunder shall be made in that currency.
+1.4 headings
+the headings in this agreement are solely for convenience of reference and shall not be used for purposes of interpreting or construing the
+provisions hereof.
+1.5 exhibits
+the exhibits attached hereto shall be deemed to form an integral part of this agreement. in the event of a conflict between the terms and conditions
+set out in this agreement and the terms and conditions set out in any exhibit hereto, the terms and conditions set out in this agreement shall
+govern.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+1.6 applicable law
+this agreement shall be governed by and construed in accordance with the substantive laws of the [ ], excluding any rules of conflicts of
+laws that would apply the substantive laws of any other jurisdiction.
+article 2 term
+2.1 term
+[ ]
+this agreement shall commence on the effective date and shall be valid until the [ ] (the “initial term”). both parties shall use reasonably
+diligent efforts to come to a subsequent long-term agreement, including good faith negotiations regarding minimum volume-based product
+commitments from customer to supplier, no later than [ ] to replace this agreement and serve as a long-term supply agreement between the
+parties. should the parties have not agreed to the following agreement by [ ], this agreement shall automatically stay in force for a maximum of
+[ ] (unless otherwise mutually agreed by the parties or as otherwise set forth in section 18.1(a)) or until the parties have signed the follow-on
+agreement (the “renewal term”).
+2.2 effect of expiration on purchase orders
+for the avoidance of doubt, any signed purchase order which has not been completed at the date of expiry shall continue in effect unless cancelled
+in accordance with section 6.4 or article 18. for further avoidance of doubt, the terms and conditions of this agreement shall remain applicable to
+any such signed purchase order which continues in effect.
+article 3 supply of product
+3.1 supply of product
+a) during the term, supplier shall manufacture the product and perform all services at its facilities located at bubendorf, switzerland and at
+neuland, switzerland (such facilities, the “facilities” and each, a “facility”). supplier will supply to customer or customer’s designee, the product,
+manufactured in accordance with the accepted purchase order placed by customer, master batch record, the product specifications, the quality
+agreement and cgmp requirements and, subject to section 3.1(b), in such quantities as ordered by customer in purchase orders submitted
+pursuant to section 6.1 and accepted pursuant to section 6.2.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+b) [ ]
+c) [ ]
+d) in the event the product manufactured and delivered to customer under a purchase order is less than [ ] of the amount ordered by customer
+under such purchase order or if customer otherwise reasonably requests, [ ].
+d) for clarity, nothing in this section 3.1 limits supplier’s liability under this agreement or under law, including liability for negligence, willful
+misconduct and failure to comply with product specifications; [ ].
+3.2 manufacturing services
+supplier will make available its labor, equipment and facilities for the manufacture and characterization of the product, including in-process and
+quality control analyses, release testing, storage and bulk packaging of the product, and shipping of the product, in accordance with the terms and
+conditions of this agreement.
+3.3 supply of materials and customer material
+a) materials
+
+i.
+supplier shall, at its cost, be responsible for the purchase, planning, supply, control, testing, release and compliance of all materials
+(other than customer materials unless expressly otherwise set forth in this agreement) required for the manufacture of the product and
+performance of services under accepted purchase orders.
+
+ii.
+supplier shall ensure that all materials (other than customer material unless expressly otherwise set forth in this agreement) used in
+the manufacture of the product and performance of services shall comply with the specifications mutually agreed by the parties in
+writing and applicable requirements of the quality agreement.
+
+iii.
+supplier shall test and inspect all materials as set forth in the quality agreement and supplier’s standard incoming inspection and
+testing procedures, which at a minimum will include appearance and identity testing.
+b) customer material
+
+i.
+customer or its designee (for which customer is responsible) shall, at its cost, be responsible for the planning, supply, control, testing,
+release and compliance of all customer materials supplied to supplier that are required for the manufacture of the product and
+performance of services under accepted purchase orders. customer shall ensure that all customer materials meet the customer
+material specifications.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+ii.
+customer or its designee (for which customer is responsible) shall, at its cost, be responsible for the qualification of suppliers of
+customer materials.
+
+iii.
+customer or its designee (for which customer is responsible) shall ensure that all customer materials used in the manufacture of the
+product and performance of services shall meet applicable requirements set forth in the quality agreement.
+
+iv.
+supplier shall test and inspect all customer materials in accordance with the quality agreement and supplier’s standard incoming
+inspection and testing procedures. supplier shall also independently release customer materials (but supplier shall not use any
+customer materials that have not also been released by customer).
+
+v.
+upon receipt of a purchase order from customer, supplier will inform customer of the latest delivery date required for customer
+materials [ ]. customer will use commercially reasonable efforts to coordinate delivery of customer materials by that date
+according to [ ].
+
+vi.
+if customer is unable to deliver customer materials by the date required by supplier, this will be promptly communicated to supplier.
+supplier will use commercially reasonable efforts to reallocate capacity and accommodate the planned campaign at a later date. [ ]
+supplier will be released from its obligation under the relevant purchase order and any associated penalties regarding delivery date for
+the corresponding product. in the event of any such delay in the delivery of customer materials to supplier, the parties shall negotiate
+in good faith and agree upon a revised schedule for the supply of products to customer or its designee, which revised schedule shall
+be binding on supplier in accordance with this agreement.
+
+vii.
+in the event that customer materials delivered to supplier are found by supplier to be non-conforming to the customer material
+specifications at the time of delivery of such customer materials to supplier and customer challenges this finding, the parties shall
+conduct a joint investigation. if supplier and customer are unable to resolve the issue of non-compliance then a sample of the relevant
+customer material will be submitted to an independent laboratory reasonably acceptable to both parties for testing against the
+customer material specifications, and determination whether or not the customer material did not comply with the customer material
+specifications at the time of delivery to supplier. the test results of the independent laboratory testing shall be final and binding upon
+customer and supplier, and the fees and expense of such laboratory testing and the out-of-pocket costs reasonably incurred by the
+parties in the joint investigation shall be [ ] in such event, except as set forth in section 3.3(b)(vi), supplier shall be released from its
+obligation with respect to the relevant purchase order and any associated penalties regarding a delayed delivery date for the
+corresponding product under such purchase order. in the event that customer delivers any such non-conforming customer materials,
+the parties shall negotiate in good faith and agree upon a revised schedule for the supply of products to customer or its designee,
+which revised schedule shall be binding on supplier in accordance with this agreement.
+
+viii.
+customer will provide supplier with a certificate of analysis, a bse/tse statement and a certificate of compliance, data on the chemical
+and physical properties, toxicity, and handling, storing, and shipping information for any customer materials (msds or equivalent) and
+any other information that is necessary for the safe handling and transportation of customer materials. customer shall update all of
+such information provided to supplier after such updated information becomes available or known to customer.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+following receipt of customer materials from customer and until the delivery of product containing such customer materials, supplier shall bear
+the risk of any loss of or damage to such customer materials resulting from [ ]. supplier shall retain exclusive control over customer materials
+and shall not transfer any portion of them to any third party without the prior written consent of customer. supplier shall identify customer
+materials at all times as customer property and shall segregate same from other substances except as needed for the manufacture of the product
+and performance of the services. supplier shall not take any action inconsistent with customer’s ownership interest in customer materials,
+including but not limited to, supplier shall keep customer materials free and clear of any liens, encumbrances, or security interests resulting from
+the actions or omissions of supplier or its affiliates and, in the event of any such liens, encumbrances, or security interests, supplier shall promptly
+remove same at its sole expense.
+3.4 production capacity
+supplier agrees to provide to customer all such facility and manufacturing capacity to perform the manufacturing process as required to meet the
+product requirements as described in the then-current short term rolling forecast (as defined below). supplier agrees that it shall provide to
+customer at least [ ] prior written notice of any scheduled shutdown at any facility that may impact supplier’s ability to manufacture and
+timely deliver the product to customer under this agreement, [ ].
+for the avoidance of doubt, supplier confirms that it has the capacity to deliver [ ], or such adjusted amount as mutually agreed by the parties.
+batch size and annual capacity could be adjusted in the future by mutual agreement of the parties based on results of ongoing scale up work.
+3.5 processing changes
+a) supplier shall not make any material changes to the manufacturing process, starting materials, the master batch record or product
+specifications for the manufacture of the product except in accordance with the quality agreement. for clarity, formatting changes in the
+documentation related to the master batch record shall not be deemed a “material” change under this section 3.5(a).
+b) customer (or supplier, if changes are necessitated by applicable law) may request reasonable changes to the manufacturing process, the
+master batch record, the product specifications, storage, testing or analytical methods or any starting materials for the manufacture of the
+product [ ]. the notice of any
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+such change by customer shall comply with the cgmp documentation system and standard operating procedures maintained by supplier at the
+facilities. no material modifications or additions to the machinery, equipment and other fixed assets used by supplier in the manufacture and
+supply of the product to customer shall be required without the consent of supplier, which consent may be granted or withheld in supplier’s sole
+discretion.
+c) in the event of a change to the manufacturing process, the master batch record or the product specifications, the relevant documents and
+related exhibits to this agreement will be revised accordingly.
+d) all operational master batch records and standard operating procedures utilized by supplier are in the german language. any requirement by
+customer for translation of such records will be billed at cost.
+3.6 monitoring of facilities
+customer shall have the right to have a representative present at each facility to observe the performance of the manufacturing process by
+supplier during normal business hours with at least [ ] advance notice. supplier shall have the right to reasonably restrict such observation
+access to prevent undue interference with supplier’s business operations or compromise supplier’s confidentiality obligations to third parties;
+provided, however, customer’s observation access shall be absolute with regard to the manufacturing process for the product. as such it is
+supplier’s obligation to segregate third party documents and materials from customer’s documents and materials and customer will not be
+restricted from observing any part of customer’s manufacturing process and related documentation.
+3.7 subcontracting
+supplier shall obtain customer’s prior written approval, in accordance with the quality agreement, to use a subcontractor to perform services
+under this agreement, such approval not to be unreasonably withheld, conditioned or delayed. any and all such contractors shall perform such
+services in accordance with the terms and conditions of this agreement, and supplier shall remain liable for the performance of its obligations
+under this agreement. supplier may use the third party suppliers set forth in schedule 4 of the quality agreement for such specific activities set
+forth opposite their respective name(s) in such schedule. it is hereby agreed that customer may authorize the use of additional third party
+suppliers under this agreement in accordance with the quality agreement. supplier agrees to use the third party suppliers identified, as
+applicable, in schedule 4 of the quality agreement as the exclusive suppliers of starting materials for the product manufacturing process and any
+deviation from said supply sources requires the prior written approval of customer, in accordance with the quality agreement, such approval not
+to be unreasonably withheld, conditioned or delayed.
+3.8 [ ]
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+3.9 [ ]
+3.10 territory expansion
+at any time during the term, customer may provide written notice to supplier of its intent to expand the territory under this agreement to include
+one or more additional countries or territories. promptly following such notification, the steering committee (as defined below) shall meet to discuss
+any expansion of supplier‘s manufacturing capabilities necessitated by such expansion in accordance with clause (b) of section 7.4 and the parties
+shall execute an amendment that (a) amends the definition of “territory” under clause jj) of section 1.1 to include such additional countries or
+territories and (b) modifies the provisions of this agreement as necessary in order to reflect the regulatory requirements of such additional
+countries or territories. for clarity, neither party shall be obligated to amend the definition of territory at any point during the term.
+3.11 supply to customer licensees
+in the event customer delivers a written request to supplier requesting that supplier engage in negotiations with a customer licensee on the terms
+of a definitive agreement pursuant to which supplier would manufacture and supply product to such customer licensee or a designee of a
+customer licensee, supplier shall use commercially reasonable good faith efforts to negotiate and execute such agreement on substantially the
+same terms of this agreement (including pricing, orders, forecasting, delivery, non-conformance, failure to supply, term and termination).
+3.12 alternative supply
+at any time during the term, customer may elect to qualify one or more alternative manufacturing facilities (whether owned by a third party,
+customer or by one of customer’s affiliates) to manufacture the products (each, a “backup supplier”). customer shall be responsible for any
+costs associated with qualifying backup suppliers. [ ]. supplier shall use commercially reasonable efforts to cooperate with the qualification of
+any backup supplier, including (a) technology transfer of all supplier technology necessary or useful for the manufacture of the products;
+provided that, to the extent that such technology and know-how constitutes confidential information of supplier, it shall be subject to the
+provisions of article 12 and customer’s designated alternative supplier shall be required to enter into a confidentiality agreement with supplier
+containing substantially the same terms as article 12 and (b) providing customer and any backup supplier with consulting services related to the
+manufacture, quality control and quality assurance of the products. any work related to technology transfer or qualification of a second supplier
+shall be considered as services under this agreement as described in section 6.6. for the avoidance of doubt, supplier will first prepare a
+customary scope of work describing the services to be performed and the costs to customer for the
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+approval of customer. no services shall be commenced by supplier unless (a) a customary scope of work relating to such services has been
+agreed, executed and delivered by both supplier and customer; and (b) a purchase order has been issued by customer and accepted by supplier
+relating to such services, which purchase order references the specific scope of work and this agreement. in case of disagreement on the scope
+of work, the parties will enter into good faith negotiations to reach a mutually satisfactory resolution.
+article 4 forecasts
+4.1 short term rolling forecasts
+commencing on the effective date, customer shall provide to supplier on a calendar quarterly basis on or before the last business day of each
+calendar quarter during the term, a short term rolling forecast for the [ ] period commencing on the first day of the following calendar month
+(each, a “short term rolling forecast”). each short term rolling forecast shall set out customer’s reasonable and genuine estimate of the
+quantities of the product to be ordered by customer and to be delivered by supplier under this agreement for the following [ ].
+(a): in case of an order volume equal or less than [ ]: the first [ ] of each short term rolling forecast shall be binding firm purchase orders
+by customer (each a “purchase order”) and the last [ ] of each short term rolling forecast shall be non-binding, good faith estimates. customer
+shall provide supplier with one or more purchase order(s) for product consistent with the first [ ] binding portion of each short term rolling
+forecast, at least [ ] in advance of the scheduled delivery dates provided in such purchase order(s).
+(b): in case of order volume larger than [ ]: the first [ ] of each short term rolling forecast shall be binding firm purchase orders by
+customer (each a “purchase order”) and the last [ ] of each short term rolling forecast shall be non-binding, good faith estimates. customer
+shall provide supplier with one or more purchase order(s) for product consistent with the first [ ] binding portion of each short term rolling
+forecast, at least [ ] in advance of the scheduled delivery dates provided in such purchase order(s).
+4.2 long term forecasts
+within [ ] after the effective date, customer shall provide to supplier a long term forecast of the estimated quantities of the product required by
+customer from supplier during the following [ ] (the “long term forecast”). customer shall during the term provide to supplier together with
+the short term rolling forecast, on a calendar quarter basis, updates of such long term forecasts for the following [ ] (or the balance of the
+term, if shorter). for the avoidance of doubt, the first [ ] of each long term forecast shall constitute the short term rolling forecast of which
+the first [ ], or the first [ ], as the case may be due to the order volume, shall be binding and the remainder of the short term rolling
+forecast and long term forecast shall be non-binding.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+article 5 testing and samples
+5.1 release testing
+a) supplier shall perform release testing of all batches of product prior to delivery to customer in accordance with the product specifications and
+the master batch record, to determine whether such batches of product meet the requirements set out in the product specifications. customer
+shall be responsible for the final release of product prior to shipping and further processing.
+b) supplier shall ensure that:
+(i) its quality assurance department approves each batch of product for release promptly following successful completion of release
+testing done by its quality control department (in this section “promptly” means [ ]); and
+(ii) its quality assurance department does not release any batch of product that does not meet the requirements set out in the product
+specifications without prior written consent of customer.
+c) supplier shall prepare a certificate of analysis and certificate of conformance, setting out the results of the release testing and which shall be
+included with each batch of product shipped to customer.
+d) customer shall have the right to oversee the activities set forth in this section 5.1 in accordance with the quality agreement.
+5.2 additional release testing
+customer reserves the right to conduct, in its sole discretion and at its expense, additional analytical testing on the product.
+5.3 retention samples
+supplier shall retain and store in accordance with cgmp requirements, applicable law and supplier’s internal quality standard operating
+procedures, retention samples of each batch of product manufactured under this agreement.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+5.4 stability testing
+if requested by customer, supplier shall be responsible for performing annual stability testing of the product and shall ensure that all such testing
+is performed in compliance with the applicable ich regulations (e.g. follow-up stability studies of commercially used products). costs associated
+with annual stability testing will be quoted separately from commercial unit pricing under a separate scope of work or purchase order.
+5.5 reference standards
+if requested by customer, supplier shall be responsible for qualification and requalification of reference standards. costs associated with
+qualification and requalification of reference standards will be quoted separately from commercial unit pricing under a separate scope of work or
+purchase order.
+5.6 preparation of process qualification
+all costs associated with the preparation of process qualification (as but not limited to analytical method validation, process optimization, par
+studies, preparation of quality risk assessments, preparation of validation protocols and report per stage, preparation of validation master protocol
+and report, preparation of process performance assessment) will be handled separately from the commercial unit pricing under separate scopes of
+work or purchase orders. until otherwise agreed, all pricing for process qualification services to be similar to current framework between supplier
+and customer.
+article 6 purchase orders
+6.1 placement of purchase orders
+consistent with the short term rolling forecast as set forth in section 4.1, customer shall place with supplier purchase orders, stating customer’s
+required delivery data, anticipated delivery schedule and the anticipated fees, in accordance with the fee schedule set out in exhibit c, for each
+delivery of product to be made under this agreement. purchase orders must have at least [ ] of lead time before anticipated delivery to allow
+sufficient time for supplier’s planning, raw material purchases, production and release. each purchase order shall constitute a firm, binding order,
+upon supplier’s acceptance thereof in accordance with section 6.2.
+6.2 acceptance of orders
+supplier may reject any purchase order placed by customer that is not placed in accordance with this agreement by giving written notice (e-mail
+shall constitute written notice) to customer within a reasonable time, not to exceed [ ] after receipt of each purchase order, setting out the
+reason for such rejection. in the event supplier does not respond within [ ], such purchase order shall be considered accepted by
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+supplier. in the event the ordered amount of product under the purchase order differs more than [ ] from the firm portion of the most recent
+short term rolling forecast or more than [ ] from the firm portion of the most recent short term rolling forecast, supplier shall [ ].
+in the event the terms and conditions of this agreement conflict with the terms and conditions of the purchase order, the terms and conditions of
+this agreement shall take precedence unless otherwise agreed upon by the parties.
+6.3 delays
+if, after acceptance of a purchase order, supplier is unable for any reason to supply quantities of the product in accordance with the purchase
+orders placed by customer under section 6.1 on the timelines set forth therein, supplier shall inform customer within [ ] of becoming aware of
+its inability to supply the product of the expected duration of such inability and shall keep customer informed on a timely basis of developments
+during any such period of time. the parties shall cooperate to expedite the scheduling of the resumption of manufacture of the product by supplier
+when any such inability has been alleviated. in the event of any delay in delivery of product from the delivery date on the applicable purchase
+order for such product, if such delay is: [ ].
+6.4 cancellation of purchase orders
+in the event that customer cancels all or part of a purchase order already accepted by supplier, supplier will use best efforts to reallocate capacity
+and mitigate any resultant costs of such cancellation. except as expressly set forth in section 3.4, section 6.2, section 6.3 and section 6.5, the
+following will be charged to customer:
+[ ]
+6.5 material failure of supply
+if supplier, for any reason, fails to supply at least [ ] of the units of product ordered by customer pursuant to valid purchase orders during any
+period of [ ] or longer beginning on the requested delivery date, in addition to and without limiting any other remedies available to customer, [
+ ].
+6.6 services
+from time-to-time during the term, customer may request that supplier perform services for customer relating to the product, for which customer
+shall pay reasonable compensation to supplier. in the event that supplier is willing to perform any such services requested by customer, supplier
+will first prepare a scope of work describing the services to be performed and the costs to customer for the approval of customer (each
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+a “scope of work”). no services shall be commenced by supplier unless (a) a scope of work relating to such services has been agreed, executed
+and delivered by both supplier and customer; and (b) a purchase order has been issued by customer and accepted by supplier relating to such
+services which purchase order references the specific scope of work and this agreement. customer shall have the right to terminate any scope of
+work and corresponding purchase order for services at any time on reasonable advance written notice to supplier (without terminating this
+agreement), in which case customer shall be responsible for:
+[ ]
+article 7 shipment of product
+7.1 storage of product
+supplier shall ensure that all product held in storage is stored in accordance with the product specifications until shipped to customer under this
+agreement and that all storage areas meet cgmp requirements. [ ]
+should any product, during storage, change chemical composition, then supplier and customer will agree upon a plan for disposition of the
+product, including possible disposal, reworking or using the product “as is.” for clarity, supplier shall not commence any action set forth in the
+preceding sentence until such a plan has been agreed by customer. the cost of reworking the product shall be borne by [ ].
+the cost of storage, monitoring (including any on-going analytical analysis), and insurance before shipment shall be borne by [ ].
+7.2 release and shipment of product
+a) supplier shall notify customer by facsimile or electronic transmission of each batch of product manufactured by it under this agreement in
+accordance with this article 7 as soon as reasonably possible, and no later than [ ], after supplier’s quality assurance department approves the
+batch for release following successful completion of the release testing procedures.
+b) supplier shall pack and label shipping boxes and ship all orders of product in a prompt and timely manner and in accordance with international
+transport guidelines and regulations, the product specifications, and customer’s reasonable written instructions including, as applicable, for such
+shipment and the terms of this agreement.
+c) supplier shall not sell or otherwise dispose of any product except in accordance with the terms and conditions of this agreement.
+d) the products will be shipped [ ]. all freight, applicable taxes (excluding any and all income taxes, employment taxes and the like incurred by
+supplier), duties, express and delivery charges shall be for
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+customer’s account and shall not be subject to discount. delivery shall be deemed completed and risk of loss or damage of the products shall pass
+to customer upon [ ]. title to the products shall pass to customer upon [ ].
+7.3 documentation
+supplier shall include with each shipment of product shipped to customer under section 7.2:
+a) commercially appropriate documentation;
+b) a certificate of analysis and certificate of compliance in english for each batch of product included in the shipment, in the forms set out in
+exhibit d; and
+c) a copy of any deviation or investigation reports concerning each batch of product shipped (to be sent separately from shipment as part of the
+batch record documentation).
+7.4 steering committee
+the parties agree to form a steering committee (the “steering committee”) to oversee their interactions under this agreement as provided herein.
+each party shall name a mutually agreed upon equal number of representatives to the steering committee, which shall meet either in person or
+remotely (as mutually agreed) at least [ ], or as otherwise mutually agreed by the parties. the primary function of the steering committee is to
+ensure the ongoing communication between the parties and discuss and resolve any issues arising under this agreement. the steering committee
+shall in particular have responsibility for the following: (a) reviewing key metrics for the product’s production and quality, and reviewing and
+monitoring any required remediation with respect to production and quality for the product; (b) reviewing supplier’s capacity and short-term and
+long-term planning for clinical and commercial supply of the product, including anticipating any capacity shortfalls and discussing the cost
+allocation of investments required to increase capacity or improve efficiencies; (c) [ ]; (d) reviewing and discussing draft scopes of work; (e)
+discussing the cost allocation, if any, of extraordinary costs incurred by supplier in connection with the manufacture of products or provision of
+services; and (f) establishing resource priorities and resolving resource conflicts.
+article 8 acceptance of shipments
+8.1 acceptance of shipments
+customer or its designees shall, within a period of [ ] after the date of physical receipt of any shipment of product from supplier, inspect the
+product for any shortages or any defects or deviations of the product
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+specifications (hereinafter “out of specification”) that would be apparent from visual inspections of the product. in the event that customer is of
+the opinion that the product is out of specification at the time of delivery, customer shall, within [ ] after the date of physical receipt of
+product, provide supplier with a written notice to reject the product (a “notice of rejection”), which shall include a description of the grounds for
+rejection and copies of test reports and testing methodology conducted on the product, if any. however, with respect to any out of specification
+product which would not be apparent from a reasonable visual inspection on delivery, including in the case of any hidden defects, such notice of
+rejection shall be provided to supplier not later than [ ].
+the failure of customer or its designees to notify supplier of any out of specification product in the manner set forth herein above shall constitute
+confirmation of the acceptance thereof.
+8.2 dispute of rejected product
+supplier may, at its option, within [ ] of receipt of any notice of rejection under section 8.1, challenge the notice of rejection by delivering
+written notice thereof to customer. in the event that supplier challenges the notice of rejection, customer and supplier shall conduct a joint
+investigation. if supplier and customer are unable to resolve the issue of non-compliance then a sample of the product will be submitted to an
+independent laboratory reasonably acceptable to both parties for testing against the product specifications, and determination whether or not the
+non-compliance may be caused by a fault on the part of supplier. the test results of the independent laboratory testing shall be final and binding
+upon customer and supplier, and the fees and expense of such laboratory testing shall be borne entirely by the party against whom such
+laboratory’s findings are made.
+8.3 remedies
+a) except as set forth in this agreement, in the event of a product shortage[ ].
+b) in the event that customer issues a timely notice of rejection in respect to any out of specification product:
+[ ]
+the party in possession of any rejected product which does not comply with the product specifications or cgmp requirements shall destroy, in
+accordance with all applicable law and in a manner to which customer has given its prior written approval, all rejected product in its possession,
+but only after the parties have followed the procedures specified under sections 8.2 and 8.3. no rejected product shall be sold, reprocessed,
+salvaged, reclaimed or otherwise reused in any manner by supplier or customer without the prior written agreement of the parties with the
+exception of use testing and analysis by supplier and/or customer in the investigating the cause of product rejection. representatives of the party
+not performing the destruction shall be permitted to witness the destruction of the rejected product under this section.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+article 9 fees
+9.1 fees
+a) customer shall pay to supplier, in respect of each purchase order placed by customer, the applicable fees for the supply of the product in bulk
+quantities under this agreement, in accordance with the terms of this agreement.
+b) except as otherwise expressly provided in this agreement, the fees specified in each purchase order accepted by supplier shall be full
+compensation for all manufacturing and characterization activities and materials in respect thereof. customer shall make all requests for processing
+changes to be performed under this agreement in writing under section 3.5 and supplier shall provide customer a cost estimate for such work.
+9.2 adjustments to fees
+during the term of this agreement, either party may request an increase or decrease of the fees specified in exhibit c no more than [ ] and
+such change in fees shall take effect on [ ] for which such fee change is requested. such change in fees may be requested due to any of the
+following events:
+[ ] or
+(iii) any other cost adjustments mutually agreed to by the parties via the steering committee.
+supplier will make available to customer records that substantiate any adjustment to fees for a product proposed by supplier and supplier will
+provide customer with any customer records that provide evidence for a decrease in fees pursuant to clause (i); such records to be considered
+supplier‘s confidential information hereunder.
+the party proposing an adjustment in the fees will notify the other party of the adjustment by delivering to the other party at least [ ] prior to
+the effective date of the fees adjustment, written notice of the proposed adjustment. said written notice shall specify the effective date as [ ] in
+which the fee adjustment becomes effective and the amounts for the adjusted fees. on receipt of such request, the parties shall seek in good faith
+to agree to an adjustment of the fees, based on such reasonable and objective evidence. each party shall use its commercially reasonable efforts to
+mitigate any cost increase. the fees for any product ordered by customer prior to the effective date of the fees adjustment shall be the fees
+existing on the date customer placed the purchase order, as set out in the purchase order.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+9.3 taxes
+the fees shall be exclusive of any taxes, customs duties, levies and other charges applicable to the supply of the product under this agreement
+(“taxes”). customer shall pay any taxes and reimburse supplier for any taxes for which customer is responsible but which have been paid by
+supplier. subject to compliance with laws, the parties shall reasonably cooperate to eliminate or minimize the amount of any such taxes imposed on
+the transactions contemplated in this agreement. for clarity, customer shall not be liable for any taxes incurred by the supplier including, without
+limitation, income taxes, employment taxes, use taxes, and the like incurred by supplier, or for any penalties or interest related to the failure of
+supplier to collect sales, use, vat or similar taxes.
+article 10 invoicing and payment
+10.1 issuance of invoices
+supplier shall, in accordance with section 10.2, invoice customer for each purchase order accepted under section 6.2 as follows:
+10.2 invoice contents
+all invoices issued by supplier under section 10.1 shall show:
+a) the actual quantity of product shipped;
+b) the lot number of each batch of product shipped;
+c) the fees for the quantity of product shipped, based on the fees for the product set out in the applicable purchase order; and
+d) the purchase order number placed by customer for the product shipped.
+if customer disputes for any reason with the amount of any invoice submitted by supplier, customer shall notify supplier of such dispute within [
+ ] after the date of the invoice, and the parties shall promptly attempt to resolve the dispute. if customer does not notify supplier of any such
+dispute within such [ ] period, such invoice will be final and binding on customer and supplier, subject to the correction of mathematical errors.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+10.3 delay of shipment
+if customer delays shipment of product released by supplier in accordance with section 7.2, supplier may issue its invoice under section 10.1 on or
+after the release, with reference to the product released under section 10.2.
+10.4 payment of invoices
+each invoice provided by supplier to customer under section 10.1, to the extent accurate, shall be paid by customer to supplier within [ ] after
+the date of the invoice to the extent that customer does not reasonably dispute that portion of the invoice in good faith.
+all payments will be made in u.s. dollars by swift bank transfer directly to the supplier account as specified in the respective purchase orders.
+article 11 intellectual property
+11.1 title
+a) the parties agree that, as between customer and supplier, each party owns its respective confidential information, customer owns all rights in
+and to the customer technology, the product(s) and its chemical synthesis and supplier owns all rights in and to supplier technology.
+b) supplier shall not knowingly use in the manufacturing process any intellectual property protected by any patent or patent application licensed
+to supplier by any third party, except with the prior written consent of customer.
+11.2 no grant of rights
+except as otherwise provided herein, neither party hereto shall be deemed by this agreement to have been granted any rights of the other party.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission. where two
+pages of material have been omitted, the redacted material is marked with [†].
+
+11.3 grant of license by customer
+during the term, customer hereby grants to supplier a paid-up, royalty-free, non-exclusive license, without the right to sublicense, to customer’s
+confidential information and the customer technology reasonably necessary to manufacture and supply to customer the product hereunder, but
+only for such purposes. the parties agree that the license grant contained in this section 11.3 is personal to supplier only and shall be exercised by
+supplier only, and supplier agrees to make use of customer’s confidential information and the customer technology only in accordance with this
+license and not to disclose any such confidential information or customer technology to any third party, except that nothing herein shall prevent
+supplier from disclosing to its permitted subcontractors under confidentiality obligations at least as strict as those that bind supplier under this
+agreement, as necessary to perform supplier’s obligations hereunder.
+11.4 ownership of inventions
+with respect to any ideas, innovations, improvements or inventions (whether patentable or non-patentable) developed by supplier during the term
+of this agreement and [ ], the parties agree that, as between customer and supplier, customer shall own all rights to such inventions and may
+obtain patent, copyright, and other proprietary protection respecting such inventions. supplier agrees to promptly disclose any inventions to
+customer. supplier agrees to assign (and cause its employees or permitted subcontractors to assign), and does hereby assign, any and all rights,
+title and interests of supplier in, to or under any inventions to customer. [ ]
+11.5 patents to inventions
+with respect to all intellectual property created or developed under this agreement, [ ].
+11.6 no use of trademarks
+nothing contained herein shall give either party any right to use any trademark of the other party. all trademarks and service marks adopted by
+customer to identify the product or a customer product are and shall remain the property of customer.
+11.7 [†]
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+article 12 confidentiality & publicity
+12.1 obligation of confidentiality
+it is contemplated that in the course of the performance of this agreement each party may, from time to time, disclose confidential information to
+the other. each party agrees:
+a) to keep and use in strict confidence all confidential information of the other party that each party acquires, sees, or is informed of, as a direct or
+indirect consequence of this agreement and to not, without the prior written consent of the other party, disclose any such confidential information
+or recollections thereof to any person or entity other than its corporate counsel, employees and contractors who are under an obligation of
+confidentiality on terms substantially similar to those set out in this agreement, who have been informed of the confidential nature of the
+confidential information and who reasonably require such information in the performance of their duties under this agreement;
+b) not to use, copy, duplicate, reproduce, translate or adapt, either directly or indirectly, any of the confidential information of the other party or
+any recollections thereof for any purpose other than the performance of the services and the manufacture and characterization of the product
+under this agreement, without the other party’s prior written approval;
+c) that all copies, duplicates, reproductions, translations or adaptations of any confidential information of the other party permitted to be made
+hereunder shall be clearly labelled as confidential; and
+d) to take all reasonable steps to prevent material in its possession that contains or refers to confidential information of the other party from being
+discovered, used or copied by third parties and to use reasonable steps to protect and safeguard all confidential information of the other party in
+its possession from all loss, theft or destruction.
+upon the termination of this agreement, each party shall promptly destroy or return all confidential information to the disclosing party in
+accordance with section 18.4.
+12.2 disclosure with consent
+a party receiving confidential information may, with the written consent of the disclosing party, disclose such confidential information to entities
+or persons other than its corporate counsel, employees and contractors, on such terms and conditions as the disclosing party may specify.
+12.3 publicity
+during the term, the parties agree that no press release, public announcement or publication regarding this agreement or the relationship of the
+parties (except to the extent that it may be legally required), shall be made unless mutually agreed to in writing prior to the release or dissemination
+of any such press release, public announcement or publication.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+12.4 disclosure required by law
+no provision of this agreement shall be construed so as to preclude such disclosure of confidential information of the other party as may be
+inherent in or reasonably necessary to the securing from any governmental agency of any necessary regulatory approval or license. to the extent
+required by legal process, subpoena, warrant, or court order, either party may disclose confidential information only to the extent required to
+comply with said legal proceeding, provided that the party obligated to make such disclosure shall, when lawfully permissible, provide reasonable
+prior notice the other party so as to allow the other party to take steps to oppose or limit the required disclosure.
+12.5 employee confidentiality and invention assignment.
+(a) supplier acknowledges and agrees that, with respect to any past or current employee, staff, contractor, subcontractor or other agent of supplier
+or its affiliates who has conducted services or activities related to the development, manufacture or supply of products for or to customer
+(collectively, the “supplier employees”), supplier or its affiliate has entered into a binding written arrangement(s) with each such supplier
+employee that requires: (i) that such supplier employee will, at a minimum, keep the confidential information of customer confidential and only use
+such confidential information to conduct permitted activities for customer under supplier’s employment; and (ii) that such supplier employee
+assign to supplier all of its right, title and interest in and to any inventions (including, without limitation, know-how, improvements, ideas,
+information, materials and processes) and all intellectual property rights therein that such supplier employee, alone or jointly with others,
+conceives, develops or reduces to practice during their period of employment or work with supplier or its affiliate.
+(b) supplier further covenants and agrees that, (i) with respect to any future supplier employee, supplier or its affiliate shall enter into a binding
+written arrangement with such supplier employee as set forth in section 12.5(a) and (ii) with respect to any binding written arrangement referred to
+in this section 12.5(b) or section 12.5(a), supplier shall enforce, to the fullest extent permitted under applicable law, the terms and provisions of
+such arrangement.
+12.6 duration of obligation
+unless otherwise agreed by the parties in writing, the obligations of the parties relating to confidential information set out in this article 12 shall
+survive the termination of this agreement for a period of [ ].
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+article 13 representations, warranties and covenants
+13.1 supplier’s representations, warranties and covenants
+supplier hereby represents, warrants and covenants to customer as follows:
+a) supplier has been duly organized and is validly subsisting and in good standing in its jurisdiction of organization and has the power to carry on
+the business as now being conducted by it;
+b) the execution, delivery and performance of this agreement by supplier have been duly authorized by all requisite corporate action and do not
+require any shareholder action or approval;
+c) supplier has the right and authority to enter into this agreement and perform its obligations hereunder, and this agreement is a legal and valid
+obligation binding upon supplier and enforceable in accordance with its terms;
+d) supplier has not made and will not make any commitments to third parties inconsistent with or in derogation of supplier’s obligations under this
+agreement and supplier is to its knowledge not subject to any obligations that would prevent it from entering into or carrying out its obligations
+under this agreement, and supplier’s compliance with the terms and provisions hereof does not and will not conflict with or result in a breach of
+any of the terms and provisions of or constitute a default under (i) a loan agreement, guaranty, financing agreement, agreement affecting a product
+or other agreement or instrument binding or affecting it or its property; (ii) the provisions of its charter or operative documents or by-laws; or (iii)
+any order, writ, injunction or decree of any court or governmental authority entered against it or by which any of its property is bound;
+e) supplier shall comply with all applicable law relating to its activities under this agreement;
+f) all product delivered to customer under this agreement will have been manufactured, stored and shipped in a competent fashion in accordance
+with the master batch record, the product specifications, this agreement, the quality agreement, applicable law and cgmp requirements by
+qualified personnel and, to supplier’s knowledge, will be free from defects;
+g) the facilities, including equipment, systems, utilities and services, complies with cgmp requirements for the manufacture of the product under
+this agreement;
+h) the facilities and supplier’s procedures and processes in the facilities are in compliance with applicable law, including applicable
+environmental, health and safety requirements, for the manufacture of the product under this agreement;
+i) supplier does not, at any time from and after the effective date, retain or use the services of (i) any person debarred under 21 u.s.c. § 335a or (ii)
+any person who has been convicted of a crime as defined under the fd&c act, in each case in any capacity associated with or related to the
+manufacture or supply of products or any service rendered to customer under this agreement or the quality agreement;
+j) all product supplied by supplier under this agreement shall be delivered by it free and clear of any security interests, liens, claims, pledges or
+encumbrances of any kind or nature except for such as are created by customer; and
+k) all records and reports required to be maintained by supplier under cgmp requirements shall be accurate and complete in all material respects.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+in no event shall customer seek to recover a refund for, or replacement to, an out of specification product due to supplier’s breach of sections 13.1
+(f), (g) or (h) except pursuant to article 8.
+13.2 customer’s representations, warranties and covenants
+customer hereby represents, warrants and covenants to supplier as follows:
+a) customer has been duly organized and is validly subsisting and in good standing in its jurisdiction of organization and has the power to carry on
+the business as now being conducted by it;
+b) the execution, delivery and performance of this agreement by customer have been duly authorized by all requisite corporate action and do not
+require any shareholder action or approval;
+c) customer has the right and authority to enter into this agreement and perform its obligations hereunder, and this agreement is a legal and valid
+obligation binding upon customer and enforceable in accordance with its terms;
+d) customer has not made and will not make any commitments to third parties inconsistent with or in derogation of customer’s obligations under
+this agreement and customer is not subject to any obligations that would prevent it from entering into or carrying out its obligations under this
+agreement, and customer’s compliance with the terms and provisions hereof does not and will not conflict with or result in a breach of any of the
+terms and provisions of or constitute a default under (i) a loan agreement, guaranty, financing agreement, agreement affecting a product or other
+agreement or instrument binding or affecting it or its property; (ii) the provisions of its charter or operative documents or by-laws; or (iii) any order,
+writ, injunction or decree of any court or governmental authority entered against it or by which any of its property is bound;
+e) customer shall comply with all applicable law relating to its activities under this agreement; and
+f) to customer’s knowledge, [ ].
+13.3 no other warranty
+the warranties set out in sections 13.1 and 13.2 are the sole warranties made by either party to the other and to
+the extent permitted by applicable law, the parties hereby disclaim any and all other warranties,
+representations or guarantees of any kind whatsoever, either express or implied, regarding the product or any
+other materials or services to be supplied under this agreement, including, but not limited to any express or
+implied warranties of merchantability or fitness for a particular purpose.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+13.4 no consequential damages and limitation of liability
+a) [ ], in no event shall either party be liable for any special, consequential, punitive, incidental or indirect
+damages, or lost profits, however caused, on any theory of liability. this limitation will apply even if the other
+party has been advised of the possibility of such damage.
+b) except as set forth below in this section 13.4(b), in no event will supplier’s liability, [ ], be greater than, per
+claim or series of claims arising from the same cause of action, [ ].
+except as set forth below in this section 13.4(b), [ ], as applicable, in no event shall a party’s liability, however
+caused and on any theory of liability, be greater than, per claim or series of claims arising from the same
+cause of action, [ ].
+except as set forth below in this section 13.4(b), with respect [ ], in no event shall a party’s liability be greater
+than, per claim or series of claims arising from the same cause of action, [ ].
+notwithstanding anything to the contrary in this section 13.4(b), with respect to [ ] in no event shall
+supplier’s liability, however caused and on any theory of liability, be greater than, per claim or series of claims
+arising from the same cause of action, [ ].
+[ ]
+article 14 indemnification
+14.1 indemnification of supplier
+customer shall indemnify, defend and hold harmless supplier and its officers, directors, agents, servants and employees against any and all actions,
+claims, demands, proceedings, suits, losses, damages, costs and expenses (including reasonable legal fees) of third parties (in this article 14,
+“claims”) (including claims for personal injury or death) to the extent such claims result from or arise out of (a) any product liability claim directly
+related to customer’s commercial use, sale or distribution of products or (b) customer’s [ ] acts or omissions or [ ], except, in each case of
+clause (a) and (b), to the extent supplier has an obligation to indemnify customer pursuant to section 14.2 or 14.3.
+14.2 indemnification of customer
+supplier shall indemnify, defend and hold harmless customer and its affiliates and customer licensees, and their respective officers, directors,
+agents, servants, employees and consultants against any and all claims (including claims for personal injury or death) to the extent such claims
+result from or arise out of (a) any [ ] acts or omissions or [ ] by supplier or its officers, directors, agents, servants,
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+employees or contractors (collectively, the “supplier representatives”) [ ] or (b) any [ ] or omissions or [ ] by supplier or the supplier
+representatives, except, in each case of clause (a) and (b), to the extent customer has an obligation to indemnify supplier pursuant to sections 14.1
+or 14.3.
+14.3 intellectual property indemnity
+customer (an “indemnifier”) shall indemnify, defend and hold harmless supplier and the supplier representatives (each, an “indemnified party”)
+from any and all claims of any third party that any intellectual property (including, without limitation, customer materials, product information,
+product specifications, customer technology or tufts technology), provided by customer to supplier hereunder, infringes a third party’s
+intellectual property rights or otherwise violates a third party’s rights. supplier (an “indemnifier”) indemnifies customer and its affiliates and
+customer licensees, and their respective officers, directors, agents, servants, employees and consultants (each, an “indemnified party”) from any
+and all claims of any third party that the intellectual property (other than the intellectual property customer has provided to supplier under this
+agreement) that supplier elects to use in conducting the activities set out in this agreement, infringes such third party’s intellectual property
+rights or otherwise violates a third party’s rights.
+the indemnifier’s obligation to indemnify the indemnified party shall apply only upon the following terms and conditions:
+a) the obligation shall only pertain to the intellectual property the indemnifier, its affiliates, officers, directors, agents, servants, employees or
+consultants elect to use in conducting the activities set out in this agreement, and not to any improvements or additions made by anyone other
+than the indemnifier, whether with or without permission; and
+b) [ ]
+14.4 indemnification procedure
+the indemnities contained in this article 14 shall be conditional on compliance with the terms and conditions set out in this section 14.4. the
+indemnifying party shall have the option to defend, contest, or otherwise protect against any such claims at its own cost and expense provided
+that the party seeking indemnification (the “indemnitee”) regarding any such claims gives written notice to the indemnifying party promptly after
+receiving notice of said claims. if the indemnifying party chooses to defend claims, the indemnitee may, but will not be obligated to, participate at
+its own expense in a defense thereof by counsel of its own choosing, but the indemnifying party shall be entitled to control the defense unless the
+indemnitee has relieved the indemnifying party from liability with respect to the particular matter. if the indemnifying party fails to timely defend,
+contest, or otherwise protect against any such claims, the indemnitee may defend, contest, or otherwise protect against the same, and make any
+reasonable compromise or settlement thereof and recover the entire costs thereof from the indemnifying party, including reasonable legal fees and
+costs and disbursements, and all amounts paid as a result of such
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+claims or the compromise or settlement thereof; provided, however, that if the indemnifying party undertakes the timely defense of such matter, the
+indemnitee shall not be entitled to recover from the indemnifying party for its costs incurred in the defense thereof. the indemnitee shall cooperate
+and provide such assistance as the indemnifying party may reasonably request in connection with the defense of the matter subject to
+indemnification.
+article 15 insurance
+15.1 insurance coverage
+customer and supplier each represent that they are sufficiently insured against any liability arising under this agreement. further, supplier shall at
+a minimum retain [ ].
+15.2 evidence of insurance
+each of customer and supplier shall, upon request by the other, provide the other party with a copy of all insurance policies maintained under this
+article 15 relating to the manufacture of the product in bulk quantities and the facilities therefor and shall notify the other party in writing at least
+30 days prior to the cancellation of or any material change to such insurance policies. each party may request that the other party procure and
+maintain such additional insurance coverage relating to the manufacture of the product and the facilities therefore as may be reasonably necessary
+in respect of the parties’ respective obligations under this agreement.
+article 16 legal and regulatory
+16.1 compliance with laws
+a) each party shall, in connection with its obligations, rights and duties under this agreement and in manufacturing, handling, storage, loading,
+shipping, using, commercializing, reselling and distributing the product:
+(i) comply with all applicable law or other requirements applicable to such party’s business; and
+(ii) subject to subsection b) below, obtain and maintain in full force and effect all applicable licenses, permits, certificates, authorizations
+or approvals from local governmental authorities necessary to conduct its business and the activities contemplated under this agreement. such
+licences or certificates are to be provided to the other party on request.
+b) customer shall be responsible for obtaining all necessary import and/or export licenses or permits and for the payment of all import and/or export
+fees, taxes or duties in connection with the purchase and/or delivery of the product under this agreement. supplier shall reasonably cooperate with
+customer in connection with obtaining necessary import and/or export licenses or permits.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+16.2 maintenance of records
+supplier shall maintain adequate books and records and retention samples consistent with cgmp requirements and any other applicable law and
+requirements of applicable governmental or regulatory authorities, in respect of test records, samples and associated support data for all batches of
+product manufactured by supplier sufficient to substantiate and verify supplier’s duties and obligations under this agreement for [ ] from the
+expiration date of the respective product batch.
+16.3 notice of reports
+supplier shall provide to customer within [ ] of receipt by supplier copies of all product-specific portions of any reports of any governmental
+or regulatory authority including, without limitation, any facility-specific reports solely to the extent applicable to the product or manufacturing
+process, fda form 483 observations, fda warning letters or other correspondence from the fda or equivalent correspondence from another
+applicable regulatory authority; provided that supplier may redact any information from such reports subject to confidentiality obligations and
+not related to the product.
+16.4 drug master files
+supplier will routinely update and keep current all information pertinent to maintain the drug master files relating to the manufacture of the
+product at the production site of supplier. supplier will fully support and reasonably assist customer with its filing of any application with respect
+to the product with any applicable regulatory authority at customer’s expense.
+16.5 compliance with regulatory standards
+supplier shall be responsible for manufacturing the product in compliance with applicable law, cgmp requirements and the standards of any
+other applicable governmental or regulatory authority. each party will provide reasonable assistance to the other, at no charge, if necessary to
+respond to audits, inspections, inquiries, or requests of any applicable regulatory authority. supplier shall advise customer immediately if
+supplier receives notice of an impending inspection related to a product or if an authorized agent of any applicable regulatory authority or other
+governmental agency provides advance notice of any investigation, inspection or visit to a facility. in such event, supplier shall permit, to the
+extent permitted by applicable law, customer or its representatives to be present during such visit, at customer’s expense. upon customer’s
+request, supplier shall provide customer with a copy of any report issued by such regulatory authority following such visit.
+16.6 inspection
+supplier shall allow monitoring of the facilities as set forth in section 3.6 and inspections or audits as provided for in the quality agreement.
+supplier shall make available to customer all relevant records and reports and customer shall have the right to copy all product related records and
+reports. the frequency of such audits as well as the response time with respect to audit findings shall be governed by the quality agreement.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+article 17 recalls
+17.1 safety
+supplier shall provide customer with reasonable co-operation to help customer investigate adverse events or product complaints involving or
+related to the product. the cost and expense of any testing undertaken by supplier at customer’s request shall be borne by [ ].
+17.2 recalls
+if either party has grounds to recommend a recall or otherwise receives a notification or information which might result in a recall, the party
+recommending such recall or receiving such notification or information shall immediately notify the other party in writing. subject to applicable
+law, customer and its designees shall have the sole responsibility to implement any recall of the product or any intermediate or finished product
+containing the product and the sole right to make all final decisions regarding any such recall. supplier shall reasonably cooperate with customer
+and its designees in implementing any such recall, at customer’s expense.
+17.3 supplier’s liability for recall
+in the event of a recall or seizure arising from [ ], supplier shall be liable for the expenses and out-of-pocket costs actually incurred by
+customer as a result of such recall or seizure, and supplier shall, at the option of customer:
+[ ].
+such liability shall not limit or otherwise be exclusive of any other provisions of this agreement.
+17.4 customer’s liability for recall
+in the event of a recall or seizure arising from [ ] customer shall [ ].
+such liability shall not be exclusive of any other provisions of this agreement.
+17.5 replacement shipments
+in the event of any recall or seizure with respect to the product during the term of this agreement, supplier shall, upon the written request of
+customer, as soon as reasonably possible, supply replacement product to customer in an amount sufficient to replace the amount of product
+recalled or seized, at the applicable then current fees for product under this agreement. if customer makes such written request, customer shall
+issue a purchase order in this regard which supplier is obliged to accept. supplier agrees to use commercially reasonable efforts to supply such
+replacement product pursuant to the new purchase order as soon as possible.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+article 18 termination
+18.1 termination
+this agreement is effective as of the effective date and will expire in accordance with section 2.1, unless, upon the occurrence of any of the
+following events, this agreement is earlier terminated in accordance with this section 18.1:
+a) customer delivers written notice of termination to supplier at least [ ] prior to the expiration date of the initial term, which termination shall
+be effective as of the expiration date of the initial term;
+b) either party delivers written notice of termination to the other party at least [ ] prior to the expiration date of the renewal term, which
+termination shall be effective as of the expiration date of the renewal term;
+c) a party makes a general assignment for the benefit of creditors, a court of competent jurisdiction declares a party insolvent or bankrupt, or a
+petition in bankruptcy or under any insolvency law is filed by or against a party and such petition is not dismissed within [ ] after it has been
+filed, and the other party delivers written notice of termination to such party, which termination shall be effective immediately upon delivery of such
+written notice;
+d) a party breaches a material provision of this agreement, and the other party delivers written notice of termination to such breaching party:
+(i) if the breach is not cured within [ ] after written notice thereof to the party in default; or
+(ii) if the breach is of a type that cannot be cured within [ ], if a cure is not promptly commenced and diligently pursued until
+complete remediation but in any case after [ ] unless otherwise agreed in writing between the parties;
+e) any governmental law, regulation or order is adopted and made effective which would make performance of a party’s obligations under this
+agreement impossible or commercially impracticable, and such party delivers written notice of termination to the other party, which termination
+shall be effective immediately upon delivery of such written notice; or
+f) a party has the right to terminate under section 14.3, which termination shall be effective [ ] after delivery of written notice to the non-
+terminating party.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+18.2 consequences of termination
+on expiration or the effective date of termination of this agreement, if earlier:
+a) both parties shall be released from all obligations and duties imposed or assumed hereunder, except obligations and liabilities previously accrued
+and as expressly provided by this agreement, including, without limitation, those provisions which expressly survive termination or expiration of
+this agreement;
+b) all rights granted by customer to supplier under section 11.3 shall immediately revert to customer, provided that supplier may continue to use
+any such rights in order to fulfil its surviving obligations under section 18.5, and only for such purpose;
+c) supplier shall provide to customer, to the extent they exist, copies of:
+(i) supplier’s manufacturing batch records and analytical reports relating to the product; and
+(ii) any other documents required to be delivered pursuant to this agreement or otherwise reasonably requested by customer;
+d) unless this agreement is terminated by customer pursuant to section 18.1(d) above, all purchase orders and scopes of work shall automatically
+be deemed terminated by customer and supplier shall be compensated for final product already produced or services already rendered in
+accordance with this agreement and, for products or services not yet produced or rendered, as the case may be, supplier shall be entitled to its
+fees, expenses and costs as set forth in sections 6.4 and 6.6. additionally, customer shall be entitled to request that (i) all products and/or works in
+process for which customer has compensated supplier and (ii) all customer materials be shipped to customer in accordance with the provisions of
+section 7.2(d). if this agreement is terminated by customer pursuant to section 18.1(d) as a result of supplier’s breach, then, customer shall be able
+to elect whether purchase orders or scopes of work not yet completed at the date of termination or expiration should continue in force, subject to
+the terms and conditions herein; and
+e) supplier shall promptly cooperate with customer to transfer and transition supply of the products to a third party supplier. upon customer’s
+request, supplier shall cooperate with customer in the transfer of technology and know-how necessary to manufacture products to such third
+party supplier, including providing customer and the third party supplier with reasonable access to the facilities and consulting services related to
+manufacturing of the product. supplier shall conduct such activities at customer’s expense paid in advance.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+18.3 return of samples
+on expiration or earlier termination of this agreement, unless otherwise instructed by customer, supplier shall, within [ ], return to customer all
+samples or other supplies of the product (for which supplier has been paid) in its possession or control in any form, with the exception of any
+samples such as retention samples that supplier may be required to keep according to applicable law. the cost of returning any such supplies
+shall: [ ]
+18.4 return of confidential information
+on expiration or earlier termination of this agreement, unless otherwise agreed between the parties, each party shall:
+a) promptly cease all use of the confidential information of the other party and ensure that its corporate counsel, employees and contractors cease
+all use thereof; and
+b) upon written request of the other party,
+(i) return to the other party all original copies of the confidential information of the other party in its control or possession, subject to
+the retention of one (1) complete copy for archival purposes and to satisfy any applicable legal requirements; and
+(ii) except for back-up copies generated by the recipient party’s it system, destroy any and all copies or other reproductions or extracts
+of the confidential information of the other party and all other documents, computer files, memoranda, notes or other writings prepared based on
+such confidential information subject to clause (i) above.
+18.5 survival
+except as otherwise provided herein or agreed in writing between the parties, expiration or early termination of this agreement shall not relieve
+either party of its obligations incurred prior to such expiration or early termination, including the obligation to manufacture and deliver the product
+under purchase orders placed by customer and accepted by supplier prior to the effective date of expiration or earlier termination, and the
+obligation to pay fees in respect thereof. in addition, the following provisions shall survive any expiration or early termination of this agreement in
+accordance with the terms of such provision; provided that if there is no express expiration or termination of an obligation or a right under a
+surviving provision, such provision or right shall continue to survive, subject to applicable law[ ]:
+article 1 (interpretation); section 2.2 (effect of expiration on purchase orders); section 5.3 (retention samples); article 9 (fees) (solely with respect
+to amounts owed or paid following termination); article 11 (intellectual property) (other than section 11.3 (grant of license by customer)); article
+12 (confidentiality & publicity); section 13.3 (no other warranty); section 13.4 (no consequential damages and limitation of liability); article 14
+(indemnification); article 15 (insurance); section 16.2 (maintenance of records); section 16.4 (drug master files); section 16.6 (inspection);
+sections 17.2
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+(recalls), 17.3 (supplier’s liability for recall) and 17.4 (customer’s liability for recall); sections 18.2 (consequences of termination), 18.3 (return
+of samples) and 18.4 (return of confidential information); this section 18.5 (survival); and article 19 (miscellaneous) (except 19.2 and 19.5).
+further, article 8 (acceptance of shipments) shall survive any expiration or termination of this agreement solely with respect to shipments of
+product shipped prior to the effective date of expiration or termination.
+article 19 miscellaneous
+19.1 assignment; inurement
+this agreement shall be binding upon and shall inure to the benefit of the parties hereto and their successors and permitted assigns. supplier shall
+not assign this agreement, in whole or in part, to any person without the prior written consent of customer, except to a third party which acquires
+all, or substantially all, of supplier’s business or assets, whether through merger or otherwise.
+customer shall be entitled to assign this agreement, in whole or in part, to any person without the consent of supplier, provided that (i) such
+person acquires all, or substantially all, of customer’s business or assets with respect to the product, whether through merger or otherwise; (ii)
+such person is an affiliate of customer or a customer licensee; or (iii) customer remains liable for any payments supplier is or will be entitled to
+under this agreement. customer shall not assign this agreement, in whole or in part, to any other person without the prior written consent of
+supplier, not to be unreasonably withheld, conditioned or delayed.
+19.2 change of control
+during the term, supplier will promptly notify customer in writing if at any time a change of control shall occur as to supplier, such notification to
+be given no later than fifteen (15) days following such change of control. [ ]
+19.3 counterparts
+this agreement may be executed in any number of counterparts each of which shall be deemed to be an original and all of which taken together
+shall be deemed to constitute one and the same instrument.
+19.4 dispute resolution
+any controversy or claim arising out of or relating to this agreement, or the breach thereof, shall be referred first to senior management of the
+parties for amicable resolution. in the event that amicable resolution has not been achieved within [ ], then either party may seek resolution
+through
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+confidential arbitration in accordance with the icc rules of arbitration. the arbitration hearing shall be held as soon as practicable following
+submission to arbitration. the arbitration hearing shall be held in delaware. the parties shall request that the arbitration panel render a formal,
+binding non-appealable resolution and award on each issue as expeditiously as possible. in any arbitration, the prevailing party shall be entitled to
+reimbursement of its reasonable attorneys’ fees and the parties shall use all reasonable efforts to keep arbitration costs to a minimum. judgment
+upon the award may be entered by any court having jurisdiction thereof or having jurisdiction over the relevant party or its assets.
+19.5 force majeure
+any delay or inability to perform any of the duties or obligations of either party caused by an event outside the affected party’s reasonable control
+shall not be considered a breach of this agreement, and unless provided to the contrary herein, the time required for performance shall be extended
+for a period equal to the period of such delay. such events shall include, without limitation: acts of god; any governmental act or regulation;
+insurrections; riots or civil disturbance; acts of war; embargoes; labor disputes at facilities of material suppliers, including strikes, lockouts, job
+actions, or boycotts; fires; explosions; terrorist attacks; floods; or other unforeseeable causes beyond the reasonable control and without the fault
+or negligence of the party so affected. in order to take the benefit of this section, the party so affected shall give prompt notice [ ] to the other
+party of such cause, and shall take whatever reasonable steps are necessary to relieve the effect of such cause as rapidly as reasonably possible. if
+performance is affected for a cumulative period of more than [ ], the non-affected party may terminate this agreement immediately by notice in
+writing to the affected party.
+19.6 performance
+each party agrees to perform its obligations under this agreement, including under any scope of work, in a timely manner. supplier shall allocate
+adequate resources to execute its obligations under this agreement, including under each scope of work. supplier represents and warrants that all
+services shall be performed by qualified personnel in accordance with the highest industry standards.
+19.7 further assurances
+the parties shall both execute and deliver such further instruments and do such further acts as may be required to implement the intent of this
+agreement.
+19.8 independent contractors
+supplier and customer shall be independent contractors and shall not be deemed to be partners, joint venturers or each other’s agents under this
+agreement, and neither party shall have the right to act on behalf of the other except as is expressly set forth in this agreement.
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+19.9 injunctions
+each party agrees that the other party may be irreparably damaged if any provision of this agreement is not performed in accordance with its terms.
+accordingly, notwithstanding section 19.3, each party will be entitled to apply for an injunction or injunctions to prevent breaches of any of the
+provisions of this agreement by the other party, without showing or proving any actual or threatened damage, notwithstanding any rule of law or
+equity to the contrary, and may specifically enforce such provisions by an action instituted in a court having jurisdiction. these specific remedies
+are in addition to any other remedy to which the parties may be entitled at law or in equity.
+19.10 notices
+unless otherwise provided herein, any notice required or permitted to be given hereunder or any proposal for any modification of this agreement
+(hereinafter collectively referred to as the “correspondence”) shall be faxed, mailed by overnight mail, certified mail postage prepaid, or delivered by
+hand to the party to whom such correspondence is required or permitted to be given hereunder at the addresses set out below. if delivered by
+hand, any such correspondence shall be deemed to have been given when received by the party to whom such correspondence is given and if
+faxed, any such correspondence shall be deemed to have been given on the first business day following facsimile transmission, as evidenced by
+written and dated receipt of the receiving party.
+if to supplier:
+
+carbogen amcis ag
+hauptstrasse 159-173
+ch 4416 bubendorf
+switzerland
+attention: ceo
+telephone: + 41 61 935 5353
+facsimile: + 41 61 935 5300
+if to customer:
+
+paratek pharmaceuticals, inc.
+75 park plaza, 4th floor
+boston, ma 02116
+usa
+attention: general counsel
+phone: +1 617 807 6600
+facsimile: +1 617 275 0039
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+either party may change the address to which any correspondence to it is to be addressed by notification to the other party as provided herein.
+19.11 entire agreement
+this agreement, the quality agreement and all exhibits attached hereto (as the same may be amended from time to time by the written agreement of
+the parties) constitute the entire agreement between the parties with respect to the subject matter hereof and supersede all other documents,
+agreements, verbal consents, arrangements and understandings between the parties with respect to the subject matter hereof. this agreement shall
+not be amended orally, but only by an agreement in writing, signed by both parties that states that it is an amendment to this agreement.
+19.12 severability
+if any term or provision of this agreement shall for any reason be held invalid, illegal or unenforceable in any respect, such invalidity, illegality or
+unenforceability shall not affect any other term or provision hereof, and this agreement shall be interpreted and construed as if such term or
+provision, to the extent the same shall have been held to be invalid, illegal or unenforceable, had never been contained herein.
+19.13 waiver
+no waiver or modification of any of the terms of this agreement shall be valid unless in writing and signed by an authorized representative of the
+parties hereto. failure by either party to enforce any rights under this agreement shall not be construed as a waiver of such rights, nor shall a
+waiver by either party in one or more instances be construed as constituting a continuing waiver or as a waiver in other instances.
+[signature page follows.]
+
+confidential
+
+ of 49
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+in witness whereof, each of the parties hereto has caused this agreement to be executed by its duly authorized officer as of the dates set
+forth below.
+
+customer
+by its authorized signatory:
+/s/ william m. haskel
+name: william m. haskel
+title:
+ sr. vice president
+date:
+ january 9, 2017
+carbogen amcis ag
+
+by its authorized signatory:
+/s/ silke erbeck
+name: silke erbeck
+title:
+ senior head of commercial products
+date:
+ 10.jan.2017
+/s/ dr. stephan fritschi
+stephan fritschi
+vp operations
+carbogen amcis ag
+10.jan.2017
+
+[signature page to outsourcing agreement]
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+exhibit a – description of product
+[ ]
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+exhibit b – chemical synthesis
+[ ]
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission.
+
+exhibit c – fee schedule
+[ ]
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017
+this exhibit has been redacted and is the subject of a confidential treatment request. redacted material is
+marked with [ ] and has been filed separately with the securities and exchange commission. where two
+pages of material have been omitted, the redacted material is marked with [†].
+
+exhibit d – certificate of analysis and certificate of compliance
+[†]
+source: paratek pharmaceuticals, inc., 10-k/a, 5/5/2017

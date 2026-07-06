@@ -1,0 +1,2235 @@
+exhibit 10.22 
+ transition service agreement 
+ transition service agreement ( the " agreement " ) date as of [ • ] , 2020 , between reynold group holdings inc . , a delaware corporation 
+ ( " rghi " ) , and reynold consumer products inc . , a delaware corporation , ( the " company " or " rcp " ) . each party or any of its affiliate provide 
+ service hereunder shall be a " provider , " and each party or any of its affiliate receive service hereunder shall be a " recipient . " 
+ preliminary statement 
+ a. prior to the commencement date , rghi and the company be wholly own subsidiary of reynold group holdings limit , a company 
+ organize under the law of new zealand ( " rghl " ) . effective february 4 , 2020 ( the " commencement date " ) , rcp be undertake an initial public offering 
+ of share of common stock and thereafter the company will no long be a subsidiary of rghl . 
+ b. in order to facilitate the separation of the company and its affiliate from rghi and its affiliate , ( i ) rghi will provide , or cause its affiliate to 
+ provide , certain service to the company and its affiliate , and ( ii ) the company will provide , or cause its affiliate to provide , certain service to rghi 
+ and its affiliate , all on the term and condition set forth herein . 
+ now , therefore , the party agree as follow : 
+ article I 
+ definition 
+ section 1.1 definition . the following term shall have the respective meaning set forth below throughout this agreement : 
+ " affiliate " mean , with respect to any person , any other person who directly or indirectly , through one or more intermediary , control , be 
+ control by , or be under common control with , such person . the term " control " mean the possession , directly or indirectly , of the power to direct 
+ or cause the direction of the management and policy of a person , whether through the ownership of vote security , by contract or otherwise , 
+ and the term " control " and " control " have meaning correlative thereto . for the avoidance of doubt , for the purpose of this agreement 
+ and all exhibit thereto , the term affiliate shall not apply to the relationship between rghi or rghl or either of their respective affiliate on the one 
+ hand and rcp and its direct and indirect subsidiary on the other hand . 
+ " applicable rate " mean the average of the daily " prime rate " ( express rate per annum ) publish in the wall street journal for each of the day 
+ in the applicable period , plus two percent ( 2 ) . 
+ " business " mean the manufacture and sale of consumer product include cooking product , waste & storage product , and tableware by the 
+ company and activitie ancillary thereto . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ " business day " mean any day that be not ( a ) a saturday , ( b ) a sunday , or ( c ) any other day on which commercial bank be authorize or require 
+ by law to be close in the city of new york . 
+ " change " have the meaning set forth in section 3.1(c ) . 
+ " commencement date " have the meaning set forth in the preamble . 
+ " confidential information " mean any information of a party , its affiliate , member , licensor , consultant , service provider , advisor or agent 
+ that be confidential or proprietary , however record or preserve , whether write or oral . confidential information include trade secret , pricing 
+ datum , employee information , customer information , cost information , supplier information , financial and tax matter , third - party contract term , 
+ invention , know - how , process , method , model , technical information , schedule , code , idea , concept , datum , software and business plan 
+ ( regardless of whether such information be identify as confidential ) . 
+ " dispute negotiation " have the meaning set forth in section 3.3(b ) . 
+ " fee " have the meaning set forth in section 5.1 . 
+ " force majeure event " have the meaning set forth in section 10.1 . 
+ " governmental authority " mean governmental or quasi - governmental entity of any nature ( include any governmental agency , branch , 
+ department , official , or entity and any court or other tribunal ) or ( iii ) body exercise , or entitle to exercise any administrative , executive , judicial , 
+ legislative , police , regulatory or tax authority or power of any nature , include any arbitral tribunal . 
+ " indemnify party " have the meaning set forth in section 9.1 . 
+ " indemnify party " have the meaning set forth in section 9.1 . 
+ " law " mean a law , statute , order , ordinance , rule , regulation , judgment , injunction , order , or decree . 
+ " litigation " mean any action , cease and desist letter , demand , suit , arbitration proceeding , administrative or regulatory proceeding , citation , 
+ summon or subpoena of any nature , civil , criminal , regulatory or otherwise , in law or in equity . 
+ " loss " mean any and all damage , liability , loss , obligation , claim of any kind , interest and expense ( include reasonable fee and 
+ expense of attorney ) . 
+ " migration plan " have the meaning set forth in section 2.1(c ) . 
+ " migration service " have the meaning set forth in section 2.1(c ) . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ " multi - party contract " mean a contract with a customer or supplier pursuant to which both rcp and rghi or any of its affiliate provide a 
+ benefit to or receive a benefit from a third party . 
+ " party " mean rghi or company , as applicable ( collectively , the " party " ) . 
+ " personnel " mean , with respect to any party , ( i ) the employee , officer and director of such party or its affiliate or ( ii ) agent , accountant , 
+ attorney , independent contractor and other third party engage by such party or its affiliate . 
+ " provider " have the meaning set forth in the preamble . 
+ " rcp name " mean the registered and unregistered trademark and corporate name use by rcp , rghi and its respective affiliate immediately 
+ prior to the commencement date which include the word " reynold " and any derivative thereof . 
+ " recipient " have the meaning set forth in the preamble 
+ " reverse transition service " have the meaning set forth in section 2.1(b ) . 
+ " rghi letter of credit " mean all letter of credit , performance bond or other surety agreement that rghl or rghi or its affiliate have in place 
+ with respect to the company . 
+ " rghi guarantee " mean all guarantee extend by rghi or rghl or its affiliate on behalf of the company . 
+ " sale and service taxis " have the meaning set forth in section 5.5 . 
+ " security incident " have the meaning set forth in section 4.1 . 
+ " security regulation " mean a party ’s and its affiliate ' system security policy , procedure and requirement , as amend from time to time . 
+ " service coordinator " have the meaning set forth in section 3.3(a ) . 
+ " service standard " have the meaning set forth in section 3.1(a ) . 
+ " service " mean the transition service and the reverse transition service , unless the context require otherwise . 
+ " system " have the meaning set forth in section 3.5 . 
+ " tax " mean any federal , state , local or foreign income , alternative , minimum , accumulate earning , personal hold company , franchise , capital 
+ stock , profit , windfall profit , gross receipt , sale , use , value add , transfer , registration , stamp , premium , excise , custom duty , severance , 
+ environmental ( include taxis under section 59a of the code ) , real property , personal property , ad valorem , occupancy , license , occupation , 
+ employment , payroll , social security , disability , unemployment , worker ’ compensation , withholding , estimate or other similar tax , duty , fee , 
+ assessment or other governmental charge or deficiency thereof ( include all interest and penalty thereon and addition thereto ) . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ " terminate party " have the meaning set forth in section 6.3 . 
+ " term " have the meaning set forth in section 6.1 . 
+ " termination date " have the meaning set forth in section 6.1 . 
+ " transition service " have the meaning set forth in section 2.1(a ) . 
+ " tsa record " have the meaning set forth in section 7.1(a ) . 
+ article ii 
+ service and internal control 
+ section 2.1 service . 
+ ( a ) during the applicable term of any service , and in accordance with the term and condition of this agreement , rghi shall provide , or 
+ shall cause its affiliate or , subject to section 2.2 , third party to provide , to the company or one or more of its affiliate ( in connection with the 
+ conduct of the business ) the service describe on exhibit a hereto ( the " transition service " ) . notwithstanding the content of exhibit a , rghi 
+ agree to consider in good faith any reasonable request by the company for access to any additional service that be necessary for the operation of 
+ the business , at fee to be agree upon after good faith negotiation between the party . rghi will not be in in breach of this agreement if rghi 
+ decline to provide a request additional service for any good faith reason , include the failure of the party to agree to the scope , term , and fee 
+ for the additional service . any such additional service so provide by rghi shall constitute service hereunder and be subject in all respect to 
+ the provision of this agreement as if fully set forth on exhibit a as of the date hereof . 
+ ( b ) during the applicable term of any service , and in accordance with the term and condition of this agreement , company shall provide , or 
+ shall cause its affiliate or , subject to section 2.2 , third party to provide , to rghi or one or more of its affiliate , the service describe on exhibit 
+ b hereto ( the " reverse transition service " ) . 
+ ( c ) in addition to the service describe on exhibit a hereto , rghi shall , and shall cause its affiliate to undertake the segregation and 
+ extraction require to separate the it system , datum , record and process of the company , or thereafter create in the conduct of the business 
+ from rghi ’s it environment or infrastructure , and migrate they to rcp ’s , or any of its affiliate ' , it environment or infrastructure ( collectively , the 
+ " migration service " ) . for the avoidance of doubt , migration service apply to service only and do not include the acquisition or supply of any 
+ hardware , software , license ( except where rghi , at the request of rcp , acquire such hardware , software , or license at rcp ’s cost ) , or ongoing 
+ operational support service for the operate environment(s ) ( except as otherwise contemplate by exhibit a ) . the cost of such migration 
+ service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ shall be pay by rcp , include any out - of - pocket cost incur by rghi or its affiliate in connection with such migration service and for the 
+ time spend by rghi , its affiliate or their personnel , as applicable , in provide such migration service . rghi will also provide to rcp any 
+ available reasonable documentation around the system implementation , configuration document , process map , or any other documentation 
+ relate to the system that be part of the separation . rghi and rcp shall work together in good faith to develop a detailed plan for migrating rcp ’s 
+ it system , datum , record and process to its it environment or infrastructure ( the " migration plan " ) . 
+ section 2.2 performance by affiliate or subcontractor . either party may , in its sole discretion , engage , or cause one of their affiliate to engage , 
+ one or more party ( include other third party or affiliate ) to provide some or all of the services; provide , ( i ) such party be use such affiliate or 
+ third party to perform the same service for itself and its affiliate ( to the extent applicable ) , ( ii ) such arrangement would not increase the cost to 
+ recipient for such service , and ( iii ) if such third party be not already engage with respect to such service as of the date hereof , provider shall obtain the 
+ prior write consent of recipient ( not to be unreasonably withhold ) . provider shall ( x ) be responsible for the performance or non - performance of any 
+ such party and ( y ) in all case remain responsible for ensure that obligation with respect to the standard of service set forth in article iii of this 
+ agreement be satisfied with respect to any service provide by such affiliate or third party . 
+ section 2.3 scope of service . other than as expressly set forth on exhibit a , section 2.1 , exhibit b , or as agree by the party in writing , in no 
+ event shall provider be obligate to provide any service to the recipient for any purpose other than to facilitate , on a transitional basis , the recipient ’s 
+ ability to conduct business as conduct immediately precede the date hereof . 
+ section 2.4 internal control and procedure . in addition to the requirement of article iii and article vii herein , with respect to the service 
+ provide by rghi and its affiliate provide service hereunder , certain of the service may involve process that directly or indirectly support 
+ financial information that the company include within its consolidated financial report . the company have an obligation to ensure that it have internal 
+ control over financial reporting that comply with the sarbane - oxley act of 2002 and must also ensure that its external auditor can complete their 
+ necessary evaluation of the company ’s internal control over financial reporting in accordance with auditing standard issue by the u.s . public 
+ company accounting oversight board . the company and rghi and such affiliate shall use reasonable commercial effort to agree ( i ) what key 
+ control over financial reporting will be perform by rghi and such affiliate within the process that directly or indirectly support financial 
+ information that the company include within its consolidated financial reports; ( ii ) the frequency as to the performance of the agree key controls; and 
+ ( iii ) the form of documentation require to evidence the effective performance of the agree key control . rghi and such affiliate will perform the agree 
+ key control and evidence such performance in the agree format . company shall have the right , in a manner to avoid unreasonable interruption to 
+ rghi ’s or its affiliate ' business , to ( 1 ) evaluate the effectiveness of the key controls; and ( 2 ) upon at least thirty ( 30 ) day ' write notice to rghi , 
+ perform ( through its external auditor ) audit procedure over rghi ’s internal control and procedure for the service provide under this agreement; 
+ provide that such right to audit shall exist solely to the extent reasonably require by company ’s external auditor to ensure company ’s compliance 
+ with the sarbane - oxley act of 2002 . company shall pay or reimburse all of rghi ’s expense and cost arise from such audit . the performance of the 
+ agree key control , preparation of documentation , provide access to the company or its delegate and the company ’s auditor will be bill at the 
+ agree rate as set forth on exhibit a. 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ article iii 
+ service levels; service coordinators; tsa committee 
+ section 3.1 quality of service . 
+ ( a ) provider shall perform the service ( i ) at a level of quality substantially similar in all material respect to that at which such service be 
+ perform or enjoy during the twelve ( 12 ) month period prior to the date hereof and ( ii ) in accordance with applicable law ( collectively , ( i ) and 
+ ( ii ) , the " service standard " ) . subject to section 3.1(c ) , internal control of provider and its affiliate with respect to the service standard shall 
+ remain materially the same in effect throughout the term of this agreement . each party acknowledge that the other party and their affiliate be 
+ not professional service provider of the service . 
+ ( b ) in the event of any material failure of a provider to perform the service , as applicable , in accordance with the service standard , 
+ recipient shall provide provider with write notice of such material failure , and provider will use commercially reasonable effort to remedy such 
+ failure as soon as reasonably possible and in the same manner that provider would remedy such a failure for their other business undergo 
+ such a material failure . 
+ ( c ) a provider may , from time to time : ( i ) reasonably supplement , modify , upgrade , substitute or otherwise alter ( " change " ) any service in a 
+ manner consistent with change make with respect to similar service provide by provider on their own behalf or to their affiliate , include 
+ take any physical or information security measure with respect to such service , in a manner that do not ( x ) adversely affect in any material 
+ respect the quality or availability of such service or ( y ) materially increase the fee payable in connection with such changed service; provide 
+ that to the extent that any such change be reasonably likely to modify , substitute or otherwise alter the receipt or use of such service , provider shall 
+ provide recipient with reasonable advance write notice of the implementation of the change to the extent practicable under the circumstances; 
+ provide , far , that the service standard shall continue to apply to such service follow any change . if a change be require by applicable 
+ law or be in response to a threatened security incident , provider may make any and all change to the service necessary to comply with applicable 
+ law and any change thereto or to respond to such threatened security incident in a manner consistent with response make by provider on its 
+ own behalf or in respect of their affiliates; provide that provider shall provide recipient such reasonable advance write notice of the 
+ implementation of any such change as may be practicable under the circumstances; and ( ii ) with reasonable advance write notice to recipient , 
+ temporarily suspend the provision of a service as necessary to conduct system maintenance or patch without such suspension constitute a 
+ breach of the service standard . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ ( d ) a provider need not provide any service if it be not permit to do so by applicable law . to the extent that any service be not permit 
+ pursuant to applicable law , the party will cooperate in good faith to enter into arrangement reasonably acceptable to each of the party under 
+ which the recipient would obtain the benefit of such service to the same extent ( or as nearly as practicable ) as if such service be permit by 
+ applicable law . 
+ section 3.2 policy . each party shall , and shall cause any of its affiliate or third party provide or receive service ( as the case may be ) to , 
+ follow the reasonable policy , procedure and practice of the other party and its affiliate applicable to the service that be know or make known to 
+ such party . a failure of a recipient to act in accordance with this section 3.2 that prevent a provider from provide a service hereunder shall , upon 
+ reasonable advance write notice to the recipient ( where practicable ) , relieve provider of its obligation under the service until such time as the failure 
+ have be cure . 
+ section 3.3 service coordinator and dispute resolution . 
+ ( a ) rghi and company shall each nominate a representative to act as the primary contact person with respect to the performance of the 
+ service ( each , a " service coordinator " ) . unless otherwise agree upon by the party , the party shall direct all initial communication relate to 
+ this agreement and the service to the service coordinator . the initial service coordinator for rghi and company , include their contact 
+ information , be set forth on exhibit c. either party may replace its service coordinator at any time by provide notice and contact information for 
+ the newly designate service coordinator in accordance with section 10.5 . the service coordinator shall oversee the implementation and ongoing 
+ operation of this agreement . the party shall ensure that their respective service coordinator shall meet in person or telephonically at such time 
+ as be reasonably request by rghi or company to review and discuss the status of , and any issue arise in connection with , the service or 
+ this agreement . 
+ ( b ) in the event a dispute arise between the party under this agreement , telephonic negotiation shall be conduct between the party ' 
+ respective service coordinator within ten ( 10 ) day follow a write request from any party ( " dispute negotiation " ) . if the service 
+ coordinator be unable to resolve the dispute within ten ( 10 ) day after the party have commence dispute negotiation , then either rghi or the 
+ company , by write request to the other party , may request that such dispute be refer for resolution to the respective president ( or similar 
+ position ) of the division implicate by the matter for the party , or more senior executive of a party if such party so designate , which president 
+ ( or other executive ) will have fifteen ( 15 ) day to resolve such dispute . if the president of the relevant division ( or other executive ) for each 
+ party do not agree to a resolution of such dispute within fifteen ( 15 ) day after the reference of the matter to they , or if the dispute be not otherwise 
+ resolve in a friendly manner as set forth in this section 3.3 , then any unresolved dispute may be resolve pursuant to section 10.8 . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section 3.4 limitation of service provide . except to the extent require to meet the service standard , in provide the service , the party be 
+ not obligate to : ( i ) hire any additional employees; ( ii ) maintain the employment of any specific employee; ( iii ) purchase , lease or license any additional 
+ equipment or software; or ( iv ) make any capital investment to provide or continue provide the service . the party have no responsibility to verify the 
+ correctness of any information give to they on behalf of the other party for the purpose of provide the service . 
+ section 3.5 third party license and consent . the party will cooperate and assist each other , and use commercially reasonable effort , to obtain , 
+ or direct its affiliate to obtain , any third party consent require under the term of any agreement between a party or any of its affiliate , on the one 
+ hand , and a third party , on the other hand , in order for a party or its affiliate to provide the service during the term . notwithstanding the foregoing , if 
+ the provision of any service as contemplate by this agreement require the consent , license or approval of any third party not previously obtain , the 
+ party shall use commercially reasonable effort , to obtain as promptly as possible after the commencement date , any third party consent , permit , 
+ license and approval require under the term of any third party agreement in order for provider to provide the service hereunder . the cost of 
+ obtain any consent , permit , license or approval with respect to any service shall be bear by the recipient of the relevant service . if any such 
+ consent , permit , license or approval be not obtain , the party will cooperate in good faith to enter into reasonably acceptable arrangement under which 
+ recipient would obtain the benefit of such service to the same extent ( or as nearly as practicable ) as if such consent be obtain ( at recipient ’s cost ) , 
+ and each party will continue to use commercially reasonable effort to obtain any such require consent or amendment . the party acknowledge that it 
+ may not be practical to try to anticipate and identify every possible legal , regulatory , and logistical impediment to the provision of service hereunder . 
+ accordingly , each party will promptly notify the other party if it reasonably determine that there be a legal , regulatory , or logistical impediment to the 
+ provision of any service , and the party shall each use commercially reasonable effort to overcome such impediment so that the service may be 
+ provide otherwise in accordance with the term of this agreement . all computer system or software ( " system " ) , datum , facility and other resource 
+ own by a party , its affiliate or third party use in connection with the provision or receipt of the service , as applicable , shall remain the property of 
+ such party , its affiliate or third party . 
+ article iv 
+ security; system 
+ section 4.1 security breach . if any party discover ( a ) any material breach of the security regulation or of the system use to provide the 
+ service or ( b ) any breach or threaten breach of the security regulation that involve or may reasonably be expect to involve unauthorized access , 
+ disclosure or use of the other party ’s or its affiliate ' confidential information ( each of ( a ) and ( b ) , a " security incident " ) , such party shall , at the cost of 
+ the party responsible for the security incident , ( i ) promptly ( both orally , if practicable , and in any event in writing ) notify the other party of the security 
+ incident and ( ii ) reasonably cooperate with the other party ( 1 ) to take commercially reasonable measure necessary to control and contain the security of 
+ such confidential information , ( 2 ) to remedy any such security incident , include use commercially reasonable effort to identify and address any root 
+ cause for such security incident , ( 3 ) to furnish full detail of the security incident to the other party and keep such other party advise of all material 
+ measure take and other development with respect to such security incident , ( 4 ) in any litigation or formal action with third party or in connection 
+ with any regulatory , investigatory or other action of any governmental authority and ( 5 ) in notify the other party ’s or its affiliate ' customer and 
+ personnel and other person of the security incident to the extent reasonably request by the other party . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section 4.2 system security . 
+ ( a ) if rghi , company , their affiliate or their respective personnel receive access to any of rghi ’s , company ’s , or their respective affiliate ' , 
+ as applicable , system in connection with the service , the access party or its personnel , as the case may be , shall comply with all of such other 
+ party ’s and its affiliate ' reasonable security regulation know to such access party or its personnel or make known to such accessing party 
+ or its personnel in writing , and will not tamper with , compromise or circumvent any security , security regulation or audit measure employ by 
+ such other party or its relevant affiliate . 
+ ( b ) each party shall , and shall cause its affiliate to , as require by applicable law , ( i ) ensure that only those of its personnel who be 
+ specifically authorize to have access to the system of the other party or its affiliate gain such access and ( ii ) prevent unauthorized access , use , 
+ destruction , alteration or loss of information contain therein , include by notify its personnel regard the restriction set forth in this 
+ agreement and establish appropriate policy design to effectively enforce such restriction . 
+ ( c ) each party shall , and shall cause their respective affiliate to , access and use only those system of the other party and its affiliate , and 
+ only such datum and information within such system , to which they have be grant the right to access and use . any party and its affiliate 
+ shall have the right to deny the personnel of the other party or its affiliate access to such first party ’s or its affiliate ' system , after prior write 
+ notice and consultation with the other party , in the event the party reasonably believe that such personnel pose a security concern . 
+ section 4.3 virus . provider and recipient shall each use its commercially reasonable effort consistent with its past practice to prevent the 
+ introduction or coding of virus or similar item into the system of the other party . without limit the right and remedy of any party hereunder , in 
+ the event a virus or similar item be introduce into the system of a party , whether or not such introduction be attributable to the other party ( include 
+ such other party ’s failure to perform its obligation under this agreement ) , the other party shall , as soon as practicable , use its commercially reasonable 
+ effort to assist such party in reduce the effect of the virus or similar item , and if the virus or similar item cause a loss of operational efficiency or loss 
+ of datum , upon such party ’s request , work as soon as practicable to contain and remedy the problem and to restore lose datum result from such 
+ introduction . 
+ section 4.4 provider ' software . except as authorize by this agreement or by provider ’s express write consent , recipient shall not , and shall 
+ cause its affiliate not to , copy , modify , reverse engineer , decompile or in any way alter any software of provider or any of its affiliate . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section 4.5 system upgrade . no provider shall be require to purchase , upgrade , enhance or otherwise modify any system use by any 
+ recipient as of the date hereof in connection with the business of any party , or to provide any support or maintenance service for any system that 
+ have be upgrade , enhance or otherwise modify from the system that be use in connection with the business of any party as of the date hereof . 
+ article v 
+ fee 
+ section 5.1 fee . recipient shall pay provider ( i ) the fee for each service set forth on exhibit a or exhibit b , ( ii ) provider ' and their affiliate ' 
+ reasonable and document out - of - pocket expense incur in provide the service , include the third - party fee and expense that be charge to 
+ recipient or their affiliate in connection with provision of the service ( include any fee and expense charge by subcontractor permit to 
+ provide the service under section 2.2 ) but exclude payment make to employee of provider or any of their affiliate pursuant to section 5.2 , and ( iii ) 
+ any other fee as agree to by the party in writing ( collectively , the " fee " ) . 
+ section 5.2 responsibility for wage and fee . any employee of provider or any of their affiliate provide service to recipient under this 
+ agreement will remain employee of provider or such affiliate and shall not be deem to be employee of recipient for any purpose . provider or such 
+ affiliate shall be solely responsible for the payment and provision of all wage , bonus and commission , employee benefit , include severance and 
+ worker ’s compensation , and the withholding and payment of applicable taxis relate to such employment . 
+ section 5.3 invoice . provider shall submit or cause to be submit to recipient in writing , within 15 day after the end of each month , an invoice 
+ set forth the fee for the service provide to recipient during such month in reasonable detail , as applicable , due under such invoice . 
+ section 5.4 payment . recipient shall pay , or cause to be pay , the fee show on an invoice no later than the last business day of the month 
+ recipient receive such invoice unless dispute in accordance with section 5.7 . any amount not receive from the invoice party within such period 
+ shall bear interest at the applicable rate , from and include the last date of such period to , but exclude , the date of payment . 
+ section 5.5 sale tax , etc . provider shall be entitle to invoice and collect from recipient any additional amount require for state , local and 
+ foreign sale tax , value add tax , good and service tax or similar tax with respect to the provision of the service hereunder , as applicable ( " sale and 
+ service taxis " ) . notwithstanding the previous sentence , if the recipient be exempt from liability for such sale and service taxis , it shall provide 
+ provider with a certificate ( or other proof ) evidence an exemption from liability for such sale and service taxis . provider shall be responsible for any 
+ loss ( include any deficiency , interest and penalty ) impose as a result of a failure to timely remit such sale and service taxis to the applicable tax 
+ authority to the extent the recipient timely remit such sale and service taxis to provider or provider ’s failure to do so result from provider ’s failure to 
+ timely charge or invoice such sale and service taxis . the recipient shall be entitle to any refund of any such sale and service taxis pay in excess of 
+ liability as determined at a later date . provider shall promptly notify the recipient of any deficiency claim or similar notice by a tax authority with respect 
+ to sale and service taxis payable hereunder , and of any pende audit or other proceeding that could lead to the imposition of sale and service taxis 
+ payable hereunder . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section 5.6 no offset . recipient shall not withhold any payment due under this agreement in order to offset payment due ( or to become due ) to 
+ recipient pursuant to this agreement unless such withholding be mutually agree to by the party in writing or be provide for in the final ruling of a 
+ court . any required adjustment to payment due hereunder will be make as a subsequent invoice . 
+ section 5.7 invoice dispute . in the event of an invoice dispute , the disputing party shall deliver a write statement to the other party no later than 
+ the date payment be due on the disputed invoice list all dispute item and provide a reasonably detailed description of each dispute item . 
+ amount not so disputed shall be deem accept and shall be pay , notwithstanding dispute on other item , within the period set forth in section 5.4 . 
+ the party shall seek to resolve all such dispute expeditiously and in good faith . provider shall continue perform the service in accordance with this 
+ agreement pende resolution of any dispute . 
+ section 5.8 audit . at the request of recipient , provider shall provide to recipient and its affiliate reasonable access to provider ’s applicable 
+ personnel and record with respect to the amount charge in connection with any service so that recipient may confirm that the pass through cost 
+ incur by provider or , to the extent such service be provide on an hourly basis , information relate to hour work in connection with such service , 
+ be commensurate with the amount charge to recipient for such service . in the event that recipient believe that the amount charge to recipient 
+ materially exceed the pass through cost actually incur by provider or hour charge in connection with such service , the party shall review such 
+ matter in good faith . 
+ article vi 
+ term and termination 
+ section 6.1 term of service . with respect to each of the service , the term thereof will be for a period commencing as of the date hereof , unless a 
+ different date be specify as the commencement date for any applicable service on exhibit a or exhibit b ( either , a " commencement date " ) , and shall 
+ continue until 12 month follow the commencement date unless ( i ) such other date as be specify as the termination date for any applicable service in 
+ this agreement or on exhibit a or exhibit b , as applicable ( the " term " ) or ( ii ) early terminate pursuant to this agreement ( a " termination date " ) . 
+ section 6.2 termination of service . except as agree by the party in writing or as otherwise state in the exhibit , company may terminate for 
+ convenience any transition service , and rghi may terminate for convenience any reverse transition service , upon 30 day ' prior write notice of such 
+ termination; provide , ( a ) that , with respect to the service describe in section g1 of exhibit a , unless otherwise indicate therein , those service may 
+ not be terminate independently except in accordance with an agree migration plan and , ( b ) any unamortized cost associate with provider ’s purchase 
+ of any license or other cost incur specifically for the purpose of provide the service hereunder will be pass through to the terminate party . 
+ upon termination of any service pursuant to this section 6.2 , the terminate party ’s obligation 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ to pay for such service will cease except any sum accrue or due as of the date of such early termination for service render ( which shall include ( i ) 
+ any amount contemplate by 6.2(b ) , plus ( ii ) a pro rata portion of any fee applicable to the current period in which such service be be perform if 
+ the applicable fee be determine on a period by period basis as set forth on exhibit a or exhibit b , as applicable ) . the provision of this section 6.2 shall 
+ apply mutatis mutandi with respect to any assignment of this agreement subject to section 10.10(b ) and the party will negotiate in good faith 
+ regard fee allocation and , if necessary , early termination or partial termination of any service . 
+ section 6.3 termination of agreement . this agreement shall terminate when the termination date have occur for all service . in addition , this 
+ agreement may be terminate by either party ( the " terminate party " ) upon write notice to the other party ( which notice , in case of material breach , 
+ shall specify the basis for such claim for breach ) , if : 
+ ( a ) the other party or its affiliate materially breach this agreement and such breach be not cure , to the reasonable satisfaction of the 
+ terminate party , within thirty ( 30 ) day of write notice thereof , it be understand that a good - faith dispute over an invoice or service shall not 
+ constitute a material breach of this agreement; or 
+ ( b ) the other party file for bankruptcy or similar proceeding , be the subject of an involuntary filing for bankruptcy or similar proceeding ( not 
+ dismiss within sixty ( 60 ) day ) , make a general assignment of all or substantially all of its asset for the benefit of creditor , become or be 
+ declare insolvent , become the subject of any proceeding ( not dismiss within sixty ( 60 ) day ) relate to its liquidation , insolvency , bankruptcy 
+ or the appointment of a trustee or a receiver , take any corporate action for its wind up or dissolution , or a court approve reorganization 
+ proceeding on such party . 
+ section 6.4 effect of termination . upon any termination or expiration of this agreement or any service provide hereunder : 
+ ( a ) each party shall , and shall cause its affiliate to , as soon as practicable , return to the other party any equipment , book , record , file and 
+ other property , not include current or archived copy of computer file , of the other party , its affiliate and their respective third - party service 
+ provider , that be in the party ’s or its affiliate ' possession or control ( and , in case of termination of one or more specific service , only the 
+ equipment , book , record , file and other property , not include current or archived copy of computer file , that be use in connection with the 
+ provision or receipt solely of such service and of no other services); and 
+ ( b ) the intellectual property license grant by section 8.2 shall terminate; provide , however , that in the case of termination of a specific 
+ service , such license shall terminate only to the extent such license be necessary for the provision or receipt of such service and be not necessary 
+ for any other service that have not yet terminate . 
+ section 6.5 survival . the follow article and section shall survive the termination or expiration of this agreement , include the right and 
+ obligation of each party thereunder : article i; article v; this article vi; article vii; article ix; and article x. 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ article vii 
+ book and record 
+ section 7.1 tsa book and record . 
+ ( a ) the party shall , and shall cause each of their respective affiliate to , take reasonable step to maintain book and record of all material 
+ transaction pertain to , and all datum use by it , in the performance of the service ( the " tsa record " ) . the tsa record shall be maintain 
+ ( a ) in a format substantially similar to the format such book and record be maintain as of the date hereof , ( b ) in accordance with any and all 
+ applicable law and ( c ) in accordance with the maintain party ’s business record retention policy . 
+ ( b ) each party shall make the tsa record it maintain available to the other party and its affiliate and their respective auditor or other 
+ representative , and in any event to any governmental authority , during normal business hour on reasonable prior notice ( it be understand 
+ that tsa record that be not store on a party ’s regular business premise will require additional time to retrieve ) , for review , inspection , 
+ examination and , at the review party ’s reasonable expense , reproduction . access to such tsa record shall be exercise by a party and its 
+ affiliate and their authorized representative in a manner that shall not interfere unreasonably with the normal operation of the party maintain 
+ the tsa record . in connection with such review of tsa record , and upon reasonable prior notice , a review party and its affiliate shall have 
+ the right to discuss matter relate to the tsa record with the employee of the party or its affiliate who be maintain the relevant tsa 
+ record and provide the service , as applicable , during regular business hour and without undue disruption of the normal operation of such 
+ maintain and provide party or its affiliate . neither party shall have access to any tsa record , and neither party shall be require to provide 
+ access or disclose information , when such access or disclosure would jeopardize any attorney - client privilege or violate any applicable law 
+ ( provide that such party shall use commercially reasonable effort to provide such access or share such information in a manner that would not 
+ jeopardize any such privilege or violate any such law ) . each party ’s right under this section 7.1(b ) shall continue for so long as tsa record be 
+ require to be maintain by the other party under section 7.1(a ) . 
+ section 7.2 access to information; book and record . 
+ ( a ) on and after the commencement date , rghi shall , and shall cause its affiliate to , until the 6th anniversary of the commencement date , 
+ afford to rcp and its employee and authorize representative during normal business hour reasonable access to their book of account , 
+ financial and other record ( include accountant ’s work paper ) , information , employee and auditor at the company ’s expense to the extent 
+ necessary or useful for the company in connection with any audit , investigation , or dispute or litigation ( other than any litigation involve a 
+ dispute between the party ) or any other reasonable business purpose relate to the business; provide that any such access by rcp shall not 
+ unreasonably interfere with the conduct of the business of rghi and its affiliate . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ ( b ) after the commencement date , rcp shall , and shall cause its affiliate to , until the 7th anniversary of the date on which rghl or its 
+ affiliate own less than 10 of the capital stock in rcp , afford to rghi and its employee and authorize representative reasonable access to 
+ rcp ’s employee and auditor , retain all book , record ( include accountant ’s work paper ) , and other information and document pertain to 
+ the business in existence on the commencement date and make available for inspection and copying by rghi ( at rghi ’s expense ) during normal 
+ business hour , in each case so as not to unreasonably interfere with the conduct of the business of rcp and its affiliate , such information ( a ) as 
+ may be require by any governmental authority , include pursuant to any applicable law or regulatory request or to prepare or file any tax 
+ relate documentation , ( b ) as may be necessary for rghi or its affiliate in connection with their ongoing financial reporting , accounting or other 
+ purpose relate to rghi and company ’s affiliation immediately prior to the commencement date , or ( c ) as may be necessary for rghi or its 
+ affiliate to perform their respective obligation pursuant to this agreement or in connection with any litigation ( other than any litigation 
+ involve a dispute between the party ) , in each case subject to compliance with all applicable privacy law . 
+ ( c ) notwithstanding anything to the contrary in this section 7.2 , the party grant access under section 7.2(a ) or section 7.2(b ) may 
+ withhold any document ( or portion thereof ) or information ( i ) that be subject to the term of a non - disclosure agreement with a third party 
+ ( provide that such party shall use commercially reasonable effort to share such information in a manner that would not violate any such 
+ obligation ) , ( ii ) that may constitute privileged attorney - client communication or attorney work product and the transfer of which , or the provision 
+ of access to which , as reasonably determine by such party ’s counsel , constitute a waiver of any such privilege ( provide that such party shall 
+ use commercially reasonable effort to share such information in a manner that would not jeopardize any such privilege ) , or ( iii ) if the provision of 
+ access to such document ( or portion thereof ) or information , as determine by such party ’s counsel , would reasonably be expect to conflict with 
+ applicable law . 
+ section 7.3 non - disclosure agreement . to the extent that any third - party proprietor of information or software to be disclose or make available 
+ to a recipient in connection with performance of the service require a specific form of non - disclosure agreement as a condition of such third party ’s 
+ consent to use the same for the benefit of recipient or to permit the recipient access to such information or software , each party shall , or shall cause its 
+ relevant affiliate to , as a condition to the receipt of such portion of the service , execute ( and shall cause its personnel to execute , if reasonably require ) 
+ any such form . 
+ section 7.4 confidential information . 
+ ( a ) each party agree to take the necessary step to protect any confidential information of the other party with at least the same degree of 
+ care that the receive party use to protect its own confidential or proprietary information of like kind , but not less than reasonable care . neither 
+ party shall use the other party ’s confidential information other than to perform service pursuant to this agreement or pursuant to section 7.2 
+ herein . the obligation of confidentiality hereunder shall not apply to information that ( i ) be already 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ in the possession of the receive party without restriction on its use or disclosure prior to the receipt of the information from the disclosing party , 
+ ( ii ) be or become available to the general public through no act or fault of the receive party , ( iii ) be rightfully disclose to the receive party by a 
+ third party without restriction on its use or disclosure , ( iv ) be independently develop by employee and/or consultant of the receive party who 
+ have not have access to the disclosing party ’s confidential information , ( v ) be disclose to the receive party after the receive party properly 
+ give notice to the disclosing party that the receive party no long desire to receive any additional confidential information from the disclosing 
+ party , or ( vi ) be require to be disclose pursuant to judicial or governmental decree or order , provide that the disclosing party be , where permit , 
+ give prompt write notice of and the opportunity to defend against disclosure pursuant to such decree or order . 
+ ( b ) upon any termination or expiration of this agreement , at the write request of the other party , each party shall , and shall cause any of its 
+ affiliate or third - party vendor use in connection with the provision or receipt of the service to , deliver to the other party ( i ) all record and datum 
+ ( include backup tape , record and related information ) receive , compute , develop , process and store by it hereunder in a readable 
+ format reasonably acceptable to the other party , and ( ii ) all other confidential information of such other party , but exclude , in each case , ( 1 ) any 
+ information store electronically in a back - up file pursuant to the receive party ’s customary electronic back - up practice which may be retain 
+ by such party solely for archival purpose and subject to the continue confidentiality obligation set forth in herein , and ( 2 ) any information 
+ obtain pursuant to section 7.2 herein; provide that , in lieu of deliver all of the foregoing to the other party , the relevant deliver party may 
+ confirm in write that it have destroy , or have cause rghi or company , as the case may be , to destroy , all of the foregoing . 
+ article viii 
+ intellectual property 
+ section 8.1 ownership of intellectual property . any intellectual property own by a party , its affiliate or third - party vendor and use in 
+ connection with the provision or receipt of the service , as applicable , shall remain the property of such party , its affiliate , or third - party vendor . 
+ section 8.2 license . each party grant , and shall cause its affiliate to grant , to the other party and its affiliate , a royalty - free , non - exclusive , non- 
+ transferable , worldwide license , during the term , to use the intellectual property own by such party or its affiliate ( but exclude any trademark ) only 
+ to the extent necessary for the other party and its affiliate to provide or receive the service , as applicable . other than the license grant to a party and 
+ its affiliate pursuant to the precede sentence , neither party nor its affiliate shall have any right , title or interest in the intellectual property own by 
+ the other party or its affiliate . 
+ section 8.3 use of rcp name . by the third anniversary of the commencement date , rghi and its affiliate will change its corporate name to 
+ remove rcp name and will cease use of rcp name as trademark unless such use be pursuant to a separate license agreement with rcp . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ article ix 
+ remedy 
+ section 9.1 indemnification . subject to the limitation set forth in this article ix , each party ( the " indemnifying party " ) agree to indemnify , defend 
+ and hold harmless the other party and its affiliate and its and their respective director , officer , employee , agent , representative , successor and 
+ permit assign ( collectively , the " indemnified party " ) from and against all loss impose upon or incur by an indemnified party to the extent 
+ arise out of or result from the indemnify party ’s or its affiliate ' material breach of this agreement , except to the extent that such loss be 
+ primarily cause by the indemnified party . 
+ section 9.2 exclusive remedy . the indemnity provide for in section 9.1 shall be the sole and exclusive monetary remedy of the party hereto and 
+ their affiliate and their respective officer , director , employee , agent , representative , successor and permit assign for any breach of or 
+ inaccuracy in any representation or warranty or any breach , nonfulfillment or default in the performance of any of the covenant or agreement contain 
+ in this agreement , and the party shall not be entitle to a rescission of this agreement or to any further indemnification right or claim of any nature 
+ whatsoever in respect thereof ( include any common law right of contribution ) , all of which the party hereto hereby waive . 
+ section 9.3 disclaimer . except as expressly set forth in this agreement , ( a ) no party make any representation or 
+ warranty of any kind , express or imply , with respect to the material and service , as applicable , provide 
+ hereunder , and all such material and service , as applicable , be provide on an " as be " basis and ( b ) each party 
+ disclaim any and all warranty , express or imply , include any imply warranty of merchantability , non- 
+ infringement or fitness for a particular purpose . 
+ section 9.4 limitation . 
+ ( a ) in no event shall any party be liable to the other party for any indirect , special , exemplary , punitive or 
+ consequential damage , or lose profit or lose revenue that the other party may incur by reason of its having 
+ enter into or rely upon this agreement , or in connection with any of the service provide hereunder or the 
+ failure thereof , regardless of the form of action in which such damage be assert , whether in contract or 
+ tort ( include negligence ) or otherwise , even if advise of the possibility of the same other than to the extent 
+ award in a third party claim . 
+ ( b ) except with respect to a material breach constitute willful misconduct by a provider , repeat 
+ performance of a service by the provider or refund of the fee pay for a service shall be the sole and exclusive 
+ remedy for breach of the service standard for such service . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ ( c ) in no event shall a party ’s liability in relation to service provide under this agreement exceed the fee 
+ pay to it under this agreement for the specific service that result in the loss . 
+ section 9.5 insurance . each party shall obtain and maintain , for the term ( i ) commercial general liability insurance with a single combine liability 
+ limit of at least 5,000,000 per occurrence , ( ii ) worker compensation / employer ’s liability insurance with a liability limit of at least 1,000,000 per occurrence 
+ or , if great , the statutory minimum , and ( iii ) " all risk " property insurance on a replacement cost basis adequate to cover all asset and business 
+ interruption loss that a party may suffer in connection with or arise out of this agreement , subject to policy limit , and in the case of the policy 
+ describe in clause ( i ) above , name the other party as an additional insure thereunder . upon request , each party shall provide the other party a 
+ certificate of insurance as proof of insurance coverage . 
+ article x 
+ miscellaneous 
+ section 10.1 force majeure . in the event that a party be wholly or partially prevent from , or delay in , provide one or more service , or one or 
+ more service be interrupt or suspend , by reason of event beyond their reasonable control , which by their nature be not foresee , or , if it be 
+ foresee , be not reasonably avoidable , include act of god , act of governmental authority , act of the public enemy or due to fire , explosion , accident , 
+ flood , embargo , epidemic , war , act of terrorism , nuclear disaster , civil unrest or riot , civil commotion , insurrection , severe or adverse weather 
+ condition , lack of or shortage of adequate electrical power , malfunction of equipment or software ( each , a " force majeure event " ) , such party shall 
+ promptly give notice of any such force majeure event to company and shall indicate in such notice the effect of such event on their ability to perform 
+ hereunder and the anticipated duration of such event . the party whose performance be affect by the force majeure event shall not be obligate to 
+ deliver or cause to be deliver the affected service during such period , and the applicable party shall not be obligate to pay during such period for 
+ any affected service not deliver . during the duration of a force majeure event , the party whose performance be affect by the force majeure event 
+ shall , and shall cause their relevant affiliate to , minimize to the extent practicable the effect of the force majeure event on their obligation hereunder 
+ and use commercially reasonable effort to avoid or remove such force majeure event and to resume delivery of the affect service with the least 
+ delay practicable . 
+ section 10.2 authority . a provider shall not be permit to bind a recipient or any of its affiliate or enter into any agreement ( oral or write ) , 
+ contract , lease , license or other document ( include the signing of check , note , bill of exchange or any other document , or access any fund 
+ from any bank account of recipient or any of its affiliate ) on behalf of recipient or any of its affiliate except with the express prior write consent of 
+ recipient , which consent may be give from time to time as the need arise and for such limited purpose as express therein . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section 10.3 specific performance . the party shall be entitle to seek an injunction to prevent actual or threatened breach of this agreement 
+ and to enforce specifically the term and provision of this agreement , this be in addition to any other remedy to which they be entitle at law or in 
+ equity . for the avoidance of doubt , nothing contain herein shall prevent a party from seek damage ( to the extent permit herein ) in the event that 
+ specific performance be not available . 
+ section 10.4 status of party . this agreement be not intend to create , nor will it be deem or construe to create , any relationship between 
+ rghi and its affiliate , on the one hand , and company and its respective affiliate , on the other hand , other than that of independent entity 
+ contracting with each other solely for the purpose of effect the provision of this agreement . neither rghi and its affiliate , on the one hand , nor 
+ company and its affiliate , on the other hand , shall be construe to be the agent of the other . 
+ section 10.5 notice . all notice , request , claim , demand and other communication hereunder shall be in writing and shall be give by delivery 
+ in person , by facsimile ( follow by overnight courier ) , email ( follow by overnight courier ) , or by register or certify mail ( postage prepay , return 
+ receipt request ) to the other party hereto as follow : 
+ if to company , 
+ reynold consumer products inc . 
+ 1900 w. field court 
+ lake forest , il 60045 
+ attention : 
+ david watson 
+ email : 
+ david.watsonreynoldsbrands.com 
+ if to rghi , 
+ reynolds group holdings inc . 
+ 1900 w. field court 
+ lake forest , il 60045 
+ attention : 
+ joseph doyle 
+ email : 
+ joseph.doylerankna.com 
+ with a copy ( which shall not constitute notice ) to : 
+ reynolds group holdings limit 
+ level nine 
+ 148 quay street 
+ p.o . box 3515 
+ auckland , new zealand 
+ attention : 
+ helen golding 
+ email : 
+ helen.goldingrankgroup.co.nz 
+ or such other address , email or facsimile number as such party may hereafter specify for the purpose by notice to the other party hereto . all such notice , 
+ request and other communication shall be deem receive on the date of receipt by the recipient thereof if receive prior to 5:00 p.m. on a business 
+ day in the place of receipt . otherwise , any such notice , request or 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ communication shall be deem to have be receive on the next succeed business day in the place of receipt . notwithstanding the forgo , normal 
+ business communication with respect to the service may be give by the party by whatever mean be usual and appropriate for such type of 
+ communication . 
+ section 10.6 entire agreement . this agreement , include all exhibit , constitute the sole and entire agreement and supersede all prior agreement , 
+ understanding and representation , both write and oral , between the party with respect to the subject matter hereof provide , however , nothing in 
+ this agreement shall supersede any other agreement or understanding enter into in connection with the initial public offering of the company . 
+ section 10.7 waiver and amendments; non - contractual remedies; preservation of remedy . no amendment , modification or discharge of this 
+ agreement , and no waiver hereunder , shall be valid or binding unless set forth in writing and duly execute by the party against whom enforcement of 
+ the amendment , modification , discharge or waiver be seek . any such waiver shall constitute a waiver only with respect to the specific matter describe 
+ in such writing and shall in no way impair the right of the party grant such waiver in any other respect or at any other time . neither the waiver by any 
+ of the party hereto of a breach of or a default under any of the provision of this agreement , nor the failure by any of the party , on one or more 
+ occasion , to enforce any of the provision of this agreement or to exercise any right or privilege hereunder , shall be construe as a waiver of any other 
+ breach or default of a similar nature , or as a waiver of any of such provision , right or privilege hereunder . the right and remedy herein provide be 
+ cumulative and none be exclusive of any other , or of any right or remedy that any party may otherwise have at law or in equity . 
+ section 10.8 governing law , etc . 
+ ( a ) this agreement shall be govern in all respect , include as to validity , interpretation and effect , by the law of the state of illinois , 
+ without give effect to its principle or rule of conflict of law , to the extent such principle or rule be not mandatorily applicable by statute and 
+ would permit or require the application of the law of another jurisdiction . each of the party hereto submit to the jurisdiction of any state or 
+ federal court sit in lake county , illinois , in any action or proceeding arise out of or relate to this agreement , agree to bring all claim under 
+ any theory of liability in respect of such action or proceed exclusively in any such court and agree not to bring any action or proceeding 
+ arise out of or relate to this agreement in any other court . each of the party hereto waif any defense of inconvenient forum to the 
+ maintenance of any action or proceed so bring and waive any bond , surety or other security that might be require of any other party with 
+ respect thereto . each party hereto agree that service of summon and complaint or any other process that might be serve in any action or 
+ proceeding may be make on such party by send or deliver a copy of the process to the party to be serve at the address of the party and in 
+ the manner provide for the giving of notice in section 10.5 . nothing in this section 10.8 , however , shall affect the right of any party to serve legal 
+ process in any other manner permit by law . each party hereto agree that a final , non - appealable judgment in any action or proceed so 
+ bring shall be conclusive and may be enforce by suit on the judgment or in any other manner provide by law . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ ( b ) the party each hereby waive , to the full extent permit by law , any right to trial by jury of any claim , demand , action , or cause of 
+ action ( i ) arise under this agreement or ( ii ) in any way connect with or related or incidental to the dealing of the party hereto in respect of 
+ this agreement or any of the transaction relate hereto , in each case whether now exist or hereafter arising , and whether in contract , tort , 
+ equity , or otherwise . the party to this agreement each hereby agree and consent that any such claim , demand , action , or cause of action shall be 
+ decide by court trial without a jury and that the party to this agreement may file an original counterpart of a copy of this agreement with any 
+ court as write evidence of the consent of the party hereto to the waiver of their right to trial by jury . 
+ section 10.9 further assurance . each party covenant and agree that , without any additional consideration , it shall execute and deliver , or shall 
+ cause its affiliate to execute and deliver , such document and other paper and shall take , or shall cause its affiliate to take , such further action as 
+ may be reasonably require to carry out the provision of this agreement and give effect to the transaction contemplate by this agreement . 
+ section 10.10 assignment . no party may assign this agreement , or any of its right or obligation under this agreement ( whether by operation of 
+ law or otherwise ) , without the prior write consent of the other party; provide , that notwithstanding the foregoing , any party may assign any or all of 
+ its right or obligation under this agreement without the consent of the other party to : ( a ) its affiliate , ( b ) a purchaser of : ( i ) one or more of its affiliate 
+ that be a provider or recipient under this agreement; ( ii ) all or substantially all of the business or asset of one or more of its affiliate that be a provider 
+ or recipient under this agreement; or ( iii ) all or substantially all of such party ’s business or asset , or ( c ) its financing source solely for collateral 
+ purpose , in each case so long as the assignee agree to be bind by the term of this agreement . any permit assignment shall be bind upon and 
+ inure to the benefit of the party and their respective heir , successor and permit assign . any attempt assignment of this agreement , or the 
+ right or obligation herein , not in accordance with the term of this section 10.10 shall be void . if an rghi affiliate provider be no long affiliate with 
+ rghi due to the sale of all or substantially all of the business or asset of such affiliate to a third party , rghi shall cause such affiliate to agree to 
+ continue provide the service that it be provide at the time of such transaction consistent with the term of this agreement for the remain term . 
+ section 10.11 multi - party contract . the company and rghi will use all commercially reasonable effort to obtain within 24 month follow the 
+ commencement date , from the counterparty to each multi - party contract any need consent to separate the portion of such contract that relate to the 
+ good or service purchase from or supply to the business under such multi - party contract ( include but not limit to assignment or partial 
+ assignment of such contract to the company or rghi or its affiliate ) . the contract constitute the separated portion of any multi - party contract that 
+ relate to the business as describe in the precede sentence shall be assume by and become the responsibility of the company . each party make 
+ purchase or receive service under any multi - party contract shall indemnify and hold harmless the other party and its affiliate for any claim , 
+ damage , etc . arise out of such purchase or receipt of service . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section 10.12 letter of credit and guarantee . rghi and the company shall use commercially reasonable effort to cause all rghi letter of credit 
+ and rghi guarantee , in each case with respect to the company , to be cancel or terminate , as of the commencement date such that rghi and its 
+ affiliate shall be release and have no further obligation or liability ( contingent or otherwise ) under such rghi letter of credit or rghi guarantee ( to 
+ the extent applicable to the company ) from and after the commencement date . with respect to any rghi letter of credit or rghi guarantee not 
+ terminate at the commencement date , rcp shall use commercially reasonable effort to replace , cash collateralize or otherwise " backstop " such rghi 
+ letter of credit and rghi guarantee at or prior to the commencement date . follow the commencement date , rcp shall indemnify rghi and its 
+ affiliate against any and all loss suffer or incur in connection with the company under the rghi guarantee or rghi letter of credit . 
+ section 10.13 severability . if any term or other provision of this agreement be determine by a court of competent jurisdiction to be invalid , illegal 
+ or unenforceable , all other provision of this agreement shall remain in full force and effect so long as the economic or legal substance of the 
+ transaction contemplate hereby be not affect in any manner materially adverse to any party . upon any such determination , the party shall negotiate 
+ in good faith to modify this agreement so as to effect the original intent of the party as closely as possible in an acceptable manner in order that the 
+ transaction contemplate hereby be consummate as originally contemplate to the full extent possible . 
+ section 10.14 interpretation . 
+ ( a ) the party acknowledge and agree that , except as specifically provide herein , they may pursue judicial remedy at law or equity in the 
+ event of a dispute with respect to the interpretation or construction of this agreement . 
+ ( b ) this agreement shall be interpret and enforce in accordance with the provision hereof without the aid of any canon , custom or rule 
+ of law require or suggest constitution against the party cause the drafting of the provision in question . 
+ section 10.15 no third - party beneficiary . other than the right grant to the indemnified party under section 9.1 , nothing in this agreement be 
+ intend or shall be construe to give any person , other than the party hereto , their successor and permit novate , transferee and assign , any 
+ legal or equitable right , remedy or claim under or in respect of this agreement or any provision contain herein . 
+ section 10.16 counterpart . this agreement may be execute in several counterpart , each of which shall be deem an original and all of which 
+ shall together constitute one and the same instrument . delivery of an execute counterpart of a signature page to this agreement by facsimile or scan 
+ page shall be effective as delivery of a manually execute counterpart to this agreement . 
+ section 10.17 heading . the heading in this agreement be for reference only and shall not affect the interpretation of this agreement . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section 10.18 order of precedence . in the event of any conflict between the provision of any exhibit and the other provision of this agreement , 
+ the other provision of this agreement shall govern , except to the extent that the relevant provision of the exhibit expressly identify the provision of 
+ this agreement it supersede and expressly indicate that such provision be be supersede or this agreement expressly indicate that the exhibit 
+ govern . 
+ [ signature page follow ] 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ in witness whereof , the party have execute this agreement as of the date first write above . 
+ reynolds group holdings inc . 
+ by : 
+ name : 
+ title : 
+ reynold consumer products inc . 
+ by : 
+ name : 
+ title : 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ exhibit a 
+ transition service 
+ section g1 : it services12 
+ service name 
+ description of service 
+ term 
+ monthly fee 
+ ( usd ) – 
+ commencement 
+ date – 2020 
+ monthly 
+ fee 
+ ( usd ) – 
+
+ g1.1 
+ it service category : major application – hosting and infrastructure support 
+ hosting – share and 
+ dedicate 
+ environment 
+ provision of infrastructure and host service at rghi ’s 
+ datum center for shared hardware and hardware dedicate to 
+ rcp ’s system . service include : 
+ •     access to and use of the note application group 
+ •     disaster recovery 
+ •     administration 
+ •     security management 
+ •     help desk service 
+ •     backup / restore management 
+ service also include provision of equivalent access to this 
+ set of rcp application in alternative datum center(s ) upon 
+ migration to rcp ’s new operate environment(s ) , and/or 
+ equivalent service from alternative provider , manage 
+ under this agreement by rghi . 
+ all service in 
+ group 24 month 
+ from the 
+ commencement 
+ date 
+ termination can 
+ only be as per an 
+ agree migration 
+ plan 
+ g1.1.1 
+ autosy 
+ job scheduling and monitor system . 
+ 10,109 
+ tbd 
+
+ where reference be make to rghi ’s data center , this mean either ( 1 ) the lincolnshire facility at 605 heathrow drive , ( 2 ) the lake forest backup data 
+ center at 1900 west field court , or ( 3 ) the cloud service provider select to house certain infrastructure operation from time to time during the 
+ term and migration . 
+
+ fee for 2021 be not yet finalize , and will be negotiate in good faith by rghi and rcp during the course of 2020 . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ monthly fee 
+ ( usd ) – 
+ commencement 
+ date – 2020 
+ monthly 
+ fee 
+ ( usd ) – 
+
+ g1.1.2 
+ citrix / virtual desktop 
+ vdi environment for remote application routing and access . 
+ 5,834 
+ tbd 
+ g1.1.3 
+ collaboration – email , 
+ instant messaging & 
+ team 
+ ms exchange email service , outlook integration , ms team , 
+ and skype for business instant messaging / collaboration . 
+ 32,155 
+ tbd 
+ g1.1.4 
+ crm 
+ rcp ’s instance of the ms dynamic customer relationship 
+ management system . 
+ 2,014 
+ tbd 
+ g1.1.5 
+ easy software 
+ easy payment software suite for account payable 
+ management . 
+ 5,073 
+ tbd 
+ g1.1.6 
+ edi infrastructure 
+ electronic datum interchange service for transactional 
+ interfacing with vendor and supplier . 
+ 4,094 
+ tbd 
+ g1.1.7 
+ hp dazel 
+ sap printing control subsystem . 
+ 5,918 
+ tbd 
+ g1.1.8 
+ hyperion / hfm 
+ hyperion financial management system for consolidation and 
+ reporting . 
+ 4,028 
+ tbd 
+ g1.1.9 
+ jda 
+ jda suite of application for planning and transportation 
+ management . 
+ 4,815 
+ tbd 
+ g1.1.10 
+ rightfax 
+ electronic fax message system . 
+ 2,292 
+ tbd 
+ g1.1.11 
+ rpa / aa 
+ automation anywhere ecosystem for robotic process 
+ automation . 
+ 11,861 
+ tbd 
+ g1.1.12 
+ sabrix 
+ thomson reuter sale and use tax calculation engine . 
+ 7,597 
+ tbd 
+ g1.1.13 
+ sharepoint 
+ ms sharepoint environment for collaboration , file - sharing and 
+ intranet delivery . 
+ 9,649 
+ tbd 
+ g1.1.14 
+ maintenance connect 
+ plant maintenance system . 
+ 4,316 
+ tbd 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ monthly fee 
+ ( usd ) – 
+ commencement 
+ date – 2020 
+ monthly fee 
+ ( usd ) – 
+
+ g1.2 
+ it service category : support service 
+ general support 
+ service 
+ overall service associate with delivery of general 
+ support from rghi to rcp , include component 
+ such as : 
+ •     administration of vendors 
+ •     procurement 
+ •     network management 
+ •     infrastructure administration and 
+ management 
+ all service in 
+ group 24 month 
+ from the 
+ commencement 
+ date 
+ termination can 
+ only be as per an 
+ agree migration 
+ plan 
+ g1.2.1 
+ site security 
+ application service 
+ management of various site security system , badge 
+ processing , video surveillance . 
+ 1,583 
+ tbd 
+ g1.2.2 
+ desktop & site 
+ management 
+ centralized management service for facility 
+ environment : patching , backup , package delivery , 
+ imaging , rf device support . 
+ 39,079 
+ tbd 
+ g1.2.3 
+ it security 
+ provisioning 
+ management of security provision for all 
+ application and access , include sso and ad . 
+ 18,479 
+ tbd 
+ g1.2.4 
+ it procurement 
+ handling of procurement activity for exist and 
+ new vendor , include contract management , sow 
+ completion , pr and po processing . 
+ 9,233 
+ tbd 
+ g1.2.5 
+ it finance 
+ payment , allocation processing , invoicing & 
+ reporting , and budget for exist and new 
+ vendor . 
+ 11,113 
+ tbd 
+ g1.2.6 
+ voice and cellular 
+ phone support 
+ general provisioning and management of voip 
+ service and cru mobility with vendor . 
+ 12,137 
+ tbd 
+ g1.2.7 
+ microsoft tenant 
+ management 
+ interaction with the ms cloud services agency for 
+ ms tenancy management and administration in 
+ azure . 
+ 15,637 
+ tbd 
+ g1.2.8 
+ aw tenant 
+ management 
+ interaction with the aws cloud services agency and 
+ lemongrass for aw tenancy management and 
+ administration in amazon . 
+ 36,835 
+ tbd 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ monthly fee 
+ ( usd ) – 
+ commencement 
+ date – 2020 
+ monthly fee 
+ ( usd ) – 
+
+ g1.2.9 
+ lan & wan 
+ management 
+ provisioning , monitoring , troubleshooting and 
+ administration of all long distance and local network 
+ facility , include at&t ( and other ) mpls , 
+ dmvpn , router and switch , and wi - fi aps . 
+ 97,353 
+ tbd 
+ g1.2.10 
+ governance 
+ overall management of service deliver under 
+ this agreement . 
+ 41,820 
+ tbd 
+ g1.2.11 
+ sap basis 
+ support for sap technical environment , 
+ configuration , and database management . 
+ 61,082 
+ tbd 
+ g1.2.12 
+ sql management 
+ management of environment for miscellaneous 
+ ms sql database / system . 
+ 32,720 
+ tbd 
+ g1.2.13 
+ base infrastructure 
+ all management and administration of core 
+ datacenter environment in support of all 
+ centralized application and utility delivery , 
+ include all service associate with the 
+ lincolnshire datum center , cloud hosting 
+ environment , third party administration and 
+ support service . 
+ 220,775 
+ tbd 
+ g1.3 
+ it service category : general pass - thru / variable cost 
+ variable and pass - thru 
+ cost 
+ service fee for consumption or license 
+ maintenance as levy by vendor to rghi base 
+ on rcp utilization of such service or license . 
+ all service in 
+ group 24 month 
+ from the 
+ commencement 
+ date 
+ termination will 
+ occur as service 
+ be contract 
+ directly with rcp 
+ all service cost be pass- 
+ through of actual third- 
+ party cost incur in 
+ provide the service 
+ g1.3.1 
+ wan service – site 
+ network 
+ vendor ( at&t and other ) cost for usage of mpls 
+ and isp service . 
+ g1.3.2 
+ voice and cellular 
+ phone service 
+ local , long distance , & mobile usage cost . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ monthly fee 
+ ( usd ) – 
+ commencement 
+ date – 2020 
+ monthly fee 
+ ( usd ) – 
+
+ g1.3.3 
+ multi - function device 
+ ( mfd ) service 
+ lexmark usage and consumable cost . 
+ g1.3.4 
+ host – microsoft 
+ o365 – microsoft usage 
+ g1.3.5 
+ licensing — microsoft 
+ microsoft license maintenance ( sa ) and subscription . 
+ g1.3.6 
+ licensing – sap 
+ sap license maintenance – r/3 
+ g1.3.7 
+ licensing — sap bi / mii 
+ sap license maintenance – bi ( hana ) , mii ( ifp ) 
+ g1.3.8 
+ licensing — 
+ oracle / hfm 
+ oracle license maintenance for hyperion financial manager . 
+ g1.3.9 
+ licensing – jda 
+ jda transportation and planning license maintenance fee . 
+ g1.3.10 
+ licensing – gep 
+ ge procurement system license fee . 
+ g1.3.11 
+ licensing – novatus 
+ novatus contract management system license fee . 
+ g1.3.12 
+ licensing – 
+ thingworx 
+ thingwork ( ptc ) license fee ( ifp ) . 
+ g1.3.13 
+ licensing – winshuttle 
+ winshuttle ( mdm management ) license fee . 
+ g1.3.14 
+ licensing – specright 
+ specright license fee . 
+ g1.3.15 
+ domain name 
+ domain name annual registration fee . 
+ g1.3.16 
+ it procurement – fee 
+ hardware / software / service procure on behalf of rcp . 
+ g1.3.17 
+ licensing – other 
+ krono , minitab , & knowbe4 , plus other miscellaneous minor 
+ license maintenance fee . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ monthly fee ( usd ) – 
+ commencement date – 2020 
+ monthly fee 
+ ( usd ) – 2021 
+ g1.4 
+ it service category : project management / it consulting3 
+ g1.4.1 
+ discretionary 
+ enhancement 
+ any system change or enhancement 
+ to the technical operating environment 
+ ( exclude , for the avoidance of doubt , 
+ migration service describe in g1.4.4 ) 
+ request by rcp during the term 
+ require agreement between rghi and 
+ rcp . provision of this service be subject 
+ to the availability of internal resource 
+ within rghi and agreement between the 
+ party regard the scope of the 
+ change / enhancement . 
+ where this service be use , the rate will 
+ be as follow : 
+ •     project manager at 150 / hour 
+ •     senior engineer at 200 / hour 
+ •     junior engineer at 150 / hour 
+ 24 month from the 
+ commencement 
+ date 
+ quote hourly rate with respect 
+ to the particular service to be 
+ provide 
+ plus the pass - through of actual 
+ third - party cost incur in 
+ provide the service 
+ quote 
+ hourly rate 
+ with respect 
+ to the 
+ particular 
+ service to be 
+ provide 
+ plus the 
+ pass- 
+ through of 
+ actual third- 
+ party cost 
+ incur in 
+ provide 
+ the service 
+ g1.4.2 
+ it consult service 
+ provision of advice , guidance and 
+ recommendation on new service 
+ ( exclude , for the avoidance of doubt , 
+ migration service describe in g1.4.4 ) , 
+ new technical solution relate to 
+ application and infrastructure , etc . 
+ provision of this service be subject to 
+ availability of internal resource within 
+ rghi and agreement between the 
+ party . where this service be use , the 
+ rate will be as follow : 
+ •     it consult service at 200 
+ / hour 
+ 24 month from the 
+ commencement 
+ date 
+ quote hourly rate with respect 
+ to the particular service to be 
+ provide 
+ plus the pass - through of actual 
+ third - party cost incur in 
+ provide the service 
+ quote 
+ hourly rate 
+ with respect 
+ to the 
+ particular 
+ service to be 
+ provide 
+ plus the 
+ pass- 
+ through of 
+ actual third- 
+ party cost 
+ incur in 
+ provide 
+ the service 
+
+ rghi shall provide the first 3,500 hour of internal labor pursuant to g1.4.1 , g1.4.2 , g1.4.3 , and g1.4.4 at no charge; thereafter , the state rate shall 
+ apply . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ monthly fee ( usd ) – 
+ commencement date – 2020 
+ monthly fee 
+ ( usd ) – 2021 
+ g1.4.3 
+ project management 
+ service 
+ provision of project management 
+ service and resource and technical 
+ resource require to deliver project 
+ agree between rghi and rcp 
+ ( exclude , for the avoidance of doubt , 
+ migration service describe in g1.4.4 ) . 
+ provision of this service be subject to 
+ availability of internal resource within 
+ rghi and agreement between the 
+ party . where this service be use , the 
+ rate will be as follow : 
+ •     project manager at 150 / hour 
+ •     senior engineer at 200 / hour 
+ •     junior engineer at 150 / hour 
+ any cost for engage external 
+ resource will be pass through to 
+ rcp . 
+ 24 month from the 
+ commencement 
+ date 
+ quote hourly rate with respect 
+ to the particular service to be 
+ provide 
+ plus the pass - through of actual 
+ third - party cost incur in 
+ provide the service 
+ quote 
+ hourly rate 
+ with respect 
+ to the 
+ particular 
+ service to be 
+ provide 
+ plus the 
+ pass- 
+ through of 
+ actual third- 
+ party cost 
+ incur in 
+ provide 
+ the service 
+ g1.4.4 
+ migration service 
+ project service to manage and execute 
+ the extraction of it operation from the 
+ rls manage environment(s ) and 
+ enable rcp to exit this tsa , as define 
+ in the tsa migration service in 
+ section 2.1.(c ) . 
+ for the avoidance of doubt , this service 
+ include all internal rghi labor and 
+ third - party cost associate with project 
+ management and execution of all 
+ separation activity , and any license or 
+ technology acquisition require to 
+ facilitate the establishment of rcp ’s 
+ new , stand - alone it environment and 
+ the handover of same to rcp for future 
+ management . 
+ this service can not be terminate until 
+ such time as separation have conclude 
+ to the satisfaction of rghi and rcp . 
+ 24 month from the 
+ commencement 
+ date 
+ quote hourly rate with respect 
+ to the particular service to be 
+ provide 
+ plus the pass - through of actual 
+ third - party cost incur in 
+ provide the service 
+ quote 
+ hourly rate 
+ with respect 
+ to the 
+ particular 
+ service to be 
+ provide 
+ plus the 
+ pass- 
+ through of 
+ actual third- 
+ party cost 
+ incur in 
+ provide 
+ the service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ monthly fee 
+ ( usd ) – 
+ commencement 
+ date – 2020 
+ monthly fee 
+ ( usd ) – 2021 
+ g1.4.5 
+ crossover service 
+ provision of desktop support and core application 
+ service for scenario where people not transfer be 
+ require to temporarily assist in rcp to augment 
+ transfer people ’ expertise or capacity , 
+ notwithstanding both party ’ intention to have these 
+ area of support self - sufficient inside rcp by 
+ commencement date . 
+ 12 month from 
+ the 
+ commencement 
+ date 
+ no fee 
+ no fee 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section g2 : hr service 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g2.1 
+ general hr – ancillary 
+ service 
+ rghi will be available to provide transition of support and 
+ agreement and provide support for meeting to share 
+ information and answer any question with current vendor 
+ regard current practice , include but not limit to 
+ support for separation of 401(k ) , h&w , and pension plan . 
+ the party shall cooperate in good faith regard preparation 
+ of 5500 and aca report for plan year 2019 , with 
+ responsibility for filing as follow : 
+ •     401(k ) 5500 
+ •     rghi shall file for exist employee saving plan 
+ ( non - bargaining ) and employee saving plan for 
+ pactiv bargaining 
+ •     rcp shall file for employee saving plan for 
+ reynold bargaining and any new company 
+ saving plan establish as of the commencement 
+ date 
+ •     pension and h&w 5500 
+ •     rghi shall file for reynolds services inc . group 
+ benefit plan , pactiv retirement plan , reynold 
+ services inc . group benefit plan for bargaining unit 
+ employee , pactiv retiree health & welfare plan , 
+ reynold group pension plan , evergreen packaging 
+ pension plan 
+ •     rcp shall file for new company plan establish as 
+ of the commencement date 
+ •     aca report 
+ •     rcp shall coordinate filing 
+ 12 month from the 
+ commencement date 
+ no fee 
+ g2.2 
+ general hr – administrative 
+ service 
+ administrative assistant , hr benefit will be available ( 50 ) 
+ to provide service to rcp under a secondment agreement . 
+ service will include all as currently provide , include : 
+ preparation of informational bulletin relate to benefit , 
+ vendor billing administration , track vendor performance 
+ guarantee , and general administrative duty . 
+ the early of ( i ) 
+ december 31 , 2020 or ( ii ) 
+ the cessation of current 
+ administrative 
+ assistant ’s employment 
+ 3,300 per 
+ month 
+ plus pass- 
+ through of 
+ actual third- 
+ party cost 
+ incur in 
+ provide the 
+ service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g2.3 
+ payroll service – system 
+ and support 
+ provision of payroll service comprise : 
+ •     management of the relationship and contract with 
+ adp and krono 
+ •     software and host access to krono 
+ •     ongoing support of interface file with adp and 
+ third - party vendor consistent with current 
+ practice , include management and oversight of 
+ exist vendor feed 
+ •     access to adp and krono so that rcp may 
+ undertake : 
+ •     processing salary and hourly payroll 
+ •     new hire report 
+ •     year - end tax reporting and preparation for 
+ employee ( if applicable ) 
+ •     payroll tax return preparation 
+ •     access to hris reporting capability ( where 
+ applicable and with exist vendor / feed ) 
+ rcp will be responsible for generate their own report from 
+ the payroll system . rghi and its affiliate will not permit the 
+ payroll provider to create any additional program report 
+ that be not part of the menu of standard report available to 
+ rghi . 
+ december 31 , 2020 
+ 11,000 per 
+ month 
+ 29,150 per 
+ month for adp 
+ 3,700 per 
+ month for 
+ kronos software 
+ ( host fee 
+ include in 
+ section g1 ) 
+ plus pass- 
+ through of 
+ actual third- 
+ party cost 
+ incur in 
+ provide the 
+ service 
+ g2.4 
+ payroll service – 
+ consulting / project 
+ management service 
+ provision of access to rghi director of payroll & hris and 
+ senior hris payroll analyst in relation to carve - out effort to 
+ establish rcp instance of adp . 
+ december 31 , 2020 
+ 100 per person 
+ / per hour 
+ plus pass- 
+ through of 
+ actual third- 
+ party cost 
+ incur in 
+ provide the 
+ service 
+ g2.5 
+ general hr – employment 
+ service 
+ employment of current director , supplier product and process 
+ quality – europe & asia , include , without limitation , 
+ provision of human resource support , payroll processing , 
+ and benefit coverage . 
+ the early of ( i ) the 
+ transfer of director , 
+ supplier product and 
+ process quality – 
+ europe & asia to rcp 
+ or ( ii ) march 31 , 2020 
+ pass - through of 
+ actual cost and 
+ third - party cost 
+ incur in 
+ provide the 
+ service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section g3 : financial service 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g3.1 
+ financial service – 
+ technical accounting 
+ provision of support and handover service for technical 
+ accounting include : 
+ •     assistance with accounting guidance in relation to 
+ specific transaction ( i.e. lease review , casualty loss , 
+ customer contract review , restructure , etc . ) , include 
+ research ( consistent with past practice ) for review by 
+ rcp management and auditor 
+ 12 month from the 
+ commencement date 
+ 125 per person / 
+ per hour 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ g3.2 
+ financial service – 
+ lease administration 
+ provision of support and handover service for lease 
+ administration include : 
+ •     lease accounting and lease administration service 
+ consistent with current practice and procedure , 
+ include but not limit to : 
+ •     mass datum upload leverage etl 
+ template into costar system ( 10 + lease 
+ record ) 
+ •     upload of discount rate ( as prepare by 
+ rcp ) 
+ •     preparation of monthly and quarterly report 
+ •     system control in relation to rghi instance 
+ of costar , backup , exchange rate review , 
+ facilitation of user security review , cost 
+ center / hierarchy maintenance , etc . 
+ •     assistance with system issue resolution 
+ •     copy of all record , standard report , and schedule , 
+ etc . from the costar system for purpose of adoption 
+ of the lease accounting standard 
+ the early of ( i ) 12 
+ month from the 
+ commencement date or 
+ ( ii ) the date rcp obtain 
+ its own instance of 
+ costar 
+ 125 per person / 
+ per hour 
+ 1,235 per month 
+ for costar 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ g3.3 
+ financial service – 
+ benefit report 
+ support4 
+ administration , execution , and handover of financial reporting 
+ and accounting service for report require for financial 
+ reporting relate to medical and benefit cost include vendor 
+ cost tracking , and other hr / benefit relate accounting matter 
+ consistent with past practice . 
+ 18 month from the 
+ commencement date 
+ 3,365 per month 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+
+ process re quarterly true - up will change during the term from reconcile claim by headcount to where incur and will reconcile back to the 
+ commencement date . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g3.4 
+ financial service – 
+ treasury administration 
+ handover service 
+ reasonable provision of treasury administration handover 
+ service , include : 
+ •     assistance with transition signatory , online 
+ access and other bank account transition 
+ consideration if require ( include but not limit to 
+ establishment of new banking platform ) 
+ •     assistance with transition of administration of letter 
+ of credit and any other assumed indebtedness 
+ •     assistance with transition of corporate credit card 
+ program administration 
+ •     assistance with completion of development of the 
+ structure and documentation of intercompany loan 
+ agreement that be in process at the time of the 
+ commencement date 
+ •     model and historical cash management 
+ report / material 
+ •     assistance with cash settlement , movement relate 
+ to trade balance , intercompany loan , dividend , 
+ cash forecasting , and banking platform 
+ •     assistance with development of daily cash report 
+ preparation process 
+ •     assistance with development of escheatment 
+ reporting and filing process 
+ •     training on review of bank - generate report 
+ •     assistance with transition of wire transfer 
+ administration ( i.e. authorization for token ) 
+ •     backup assistance with wire transfer administration 
+ and approval 
+ •     support for day to day cash management activity 
+ consistent with past practice 
+ rghi and rcp shall work together in good faith to finalize 
+ transition of the service denote with an asterisk ( ) above 
+ within 3 month from the commencement date . 
+ 12 month from the 
+ commencement date 
+ 95 
+ per person / per 
+ hour 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g3.5 
+ financial service – 
+ reporting application 
+ support service 
+ provision of access to and/or application support service for 
+ fis integrity . service be subject to ability to apply security so 
+ rcp can not view or access rghi datum in those system . 
+ 12 month from the 
+ commencement date 
+ 10,100 per month 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ g3.6 
+ financial service – 
+ external reporting5 
+ rghi external reporting team will be available to provide 
+ background support and consulting service relate to rcp ’s 
+ external reporting requirement . 
+ 18 month from the 
+ commencement date 
+ 22,500 per month 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ g3.7 
+ financial service – 
+ compliance advisory 
+ service 
+ provision of support service of rghi senior compliance 
+ manager relate to sap access and security risk ( sox 404 ) . 
+ the early of ( i ) 12 
+ month from the 
+ commencement date or 
+ ( ii ) the cessation of 
+ current senior 
+ compliance manager ’s 
+ employment 
+ 8,000 per month 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ g3.8 
+ financial service – 
+ sox compliance 
+ in connection with rcp ’s obligation to comply with the 
+ sarbane - oxley act of 2002 , provision of reasonable support 
+ and performance of key control relate to financial reporting as 
+ agree between the party . 
+ 24 month from the 
+ commencement date 
+ 200 per person / 
+ per hour 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+
+ rcp need to obtain its own instance of wdesk ( or similar system ) to prepare and file annual and quarterly filing as of the commencement date . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g3.9 
+ treasury service – 
+ fbar report 
+ provision of foreign bank and financial account ( " fbar " ) 
+ report service . 
+ 12 month from the 
+ commencement date 
+ 80 
+ per person / per 
+ hour 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ g3.10 
+ treasury service – 
+ hedging 
+ provision of support and handover service relate to 
+ commodity hedging activity , include : 
+ •     determine hedge quantity and timing 
+ •     execution of hedge trade in kiodex 
+ •     track open hedge position 
+ •     facilitate provision of month - end journal entry 
+ 12 month from the 
+ commencement date 
+ 105 
+ per person / per 
+ hour 
+ 8,500 per month 
+ for kiodex 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section g4 : internal audit and tax service 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g4.1 
+ audit and it audit 
+ handover service 
+ provision of audit handover service , include information 
+ relate to it internal audit process and procedure of rcp . 
+ reasonable provision of : 
+ •     training of new rcp staff and exist documentation 
+ for all relevant process 
+ •     assistance , relate to the service include in this 
+ section 
+ •     transition handover support as require 
+ 12 month from the 
+ commencement date 
+ 175 per person / 
+ per hour 
+ plus pass- 
+ through of actual 
+ third - party cost 
+ incur in 
+ provide the 
+ service 
+ g4.2 
+ tax service – direct 
+ ( we and canada ) 
+ provision of support service for tax accounting and direct tax 
+ filing , include preparation and filing of federal and state tax 
+ return . for the avoidance of doubt , preparation and filing of 
+ return may be complete by a third - party service provider 
+ consistent with current practice . 
+ reasonable handover tax service , include : 
+ •     the transfer by seller of any and all historical 
+ information and explanation necessary for transfer 
+ entity to completely and accurately prepare and file 
+ the tax return relate to post - closing period . 
+ •     identification of all information source , include 
+ information gathering format , for the collection of 
+ information require for transfer entity to prepare 
+ and file the tax return relate to post - closing period . 
+ •     provide continued support in provide historical 
+ documentation and explanation in relation to tax 
+ audits currently in process . 
+ •     provide work paper and support relate to 
+ account for income taxis . 
+ •     provide historical transfer pricing study and 
+ work paper . 
+ •     assistance with registration and/or electronic payment 
+ registration as need . 
+ 24 month from the 
+ commencement date 
+ 100,275 per 
+ month 
+ pass - through of 
+ actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g4.3 
+ tax service – indirect 
+ ( we and canada ) 
+ provision of support service for indirect tax filing , include 
+ preparation and filing of sale and use , vat , personal , and 
+ property tax return . for the avoidance of doubt , preparation and 
+ filing of return may be complete by a third - party service 
+ provider consistent with current practice . 
+ reasonable handover service , include : 
+ •     provide copy of all exist documentation require 
+ for property tax and sale and use tax compliance , 
+ include resale and manufacturer ’s exemption 
+ certificate as well as continue service in support of 
+ process to obtain , review , and maintain necessary 
+ documentation . 
+ •     facilitating and assist in the creating of 
+ documentation require for tax compliance . 
+ •     the transfer by seller of any and all historical 
+ information and explanation necessary for transfer 
+ entity to completely and accurately prepare and file 
+ the tax return relate to post - closing period . 
+ •     identification of all information source , include 
+ information gathering format , for the collection of 
+ information require for transfer entity to prepare 
+ and file the tax return relate to post - closing period . 
+ •     provide continued support in provide historical 
+ documentation and explanation in relation to tax 
+ audits currently in process . 
+ •     assistance with registration and/or electronic payment 
+ registration as need . 
+ provide work paper to support calculation relate to the 
+ accounting for income taxis . 
+ 24 month from the 
+ commencement date 
+ 13,285 per month 
+ plus pass- 
+ through of actual 
+ third - party cost 
+ incur in 
+ provide the 
+ service 
+ g4.4 
+ tax service – china 
+ provision of handover service relate to return and filing with 
+ retain third - party service provider . 
+ 12 month from the 
+ commencement date 
+ 140 per person / 
+ per hour 
+ plus pass- 
+ through of actual 
+ third - party cost 
+ incur in 
+ provide the 
+ service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g4.5 
+ tax service – audit 
+ support 
+ provision of support for state and federal income tax audit , 
+ include : 
+ •     provide documentation and explanation to the 
+ examiner 
+ •     prepare necessary paperwork relate to any filing or 
+ settlement 
+ 24 month from the 
+ commencement date 
+ 175 per person / 
+ per hour 
+ plus pass- 
+ through of actual 
+ third - party cost 
+ incur in 
+ provide the 
+ service 
+ g4.6 
+ tax service – transfer 
+ pricing consulting 
+ service 
+ provision of support and handover service for transfer pricing 
+ compliance and other matter relate to rcp canada / us 
+ transaction and sale service . 
+ transfer pricing support in connection with audits and country 
+ by country ( cbc ) and custom reporting will be available on an 
+ ad hoc basis and charge at an hourly rate . 
+ the early of ( i ) 24 
+ month from the 
+ commencement date or 
+ ( ii ) the cessation of 
+ current director of 
+ transfer pricing ’s 
+ employment 
+ 1,500 per month 
+ 140 per person / 
+ per hour for ad 
+ hoc support 
+ plus pass- 
+ through of actual 
+ third - party cost 
+ incur in 
+ provide the 
+ service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section g5 : procurement service 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g5.1 
+ procurement – support 
+ and handover service 
+ provision of support and handover service to assist rcp 
+ ( consistent with past practice ) in obtain supply and or 
+ service agreement , include assist with negotiation ( which 
+ shall not include legal advice , except to the extent include 
+ pursuant to the legal transition service schedule ) in relation to : 
+ •     small parcel freight ( up , fedex ) 
+ •     energy ( i.e. natural gas , electricity , etc . ) 
+ •     isn 
+ •     it multifunction device ( printer , etc . ) 
+ •     raw material – poly ( i.e. 110m+ ps , 50m+ pp , 40m+ 
+ pet , 20 m master batch and filler ) 
+ •     raw material – packaging ( corrugate , pallet , poly 
+ bag , mold fiber and relate chemical ) 
+ •     mro 
+ •     it procurement 
+ •     vendor mall administration ( i.e. support of ariba 
+ catalogue ) 
+ •     gep it extract 
+ 12 month from the 
+ commencement date 
+ 100 per person / 
+ per hour 
+ plus the pass- 
+ through of actual 
+ third - party cost 
+ incur in 
+ provide the 
+ service 
+ g5.2 
+ procurement – freight 
+ procurement service 
+ provision of freight procurement service to arrange shipment 
+ from rcp vendor to rcp facility ( consistent with current 
+ practice ) in accordance with the process and procedure set 
+ forth in the warehousing and freight service agreement 
+ between pactiv llc and reynold consumer product llc 
+ effective november 1 , 2019 . 
+ 12 month form the 
+ commencement date 
+ service bill 
+ through the 
+ warehousing and 
+ freight service 
+ agreement date 
+ november 1 , 2019 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section g6 : travel and expense service 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g6.1 
+ travel and expense service 
+ – concur & travel booking 
+ assistance 
+ provision of : 
+ •     access to discount airline , hotel , and rental car rate 
+ •     service relate to travel booking assistance and ticket 
+ issuance by world travel 
+ •     access to the concur system for travel booking , filing 
+ expense report , processing and payment of expense 
+ report , and reimbursement for cash expense 
+ 12 month from 
+ the 
+ commencement 
+ date 
+ monthly fee : 
+ 19,000 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service 
+ g6.2 
+ travel and expense service 
+ – corporate travel card 
+ administration of corporate travel credit card program and 
+ purchase " procard " credit card program for card provide by 
+ hsbc and use by rcp employee solely for business travel and 
+ business expense . service include : 
+ •     procurement of new card and cancellation of exist 
+ card 
+ •     facilitate change to credit limit 
+ •     audits of employee expense report for compliance 
+ with rcp ’s policy use current audit tool and 
+ practice 
+ •     other service consistent with current practice 
+ rcp employee may continue to use their current hsbc credit 
+ card under exist rule and limit . at or before the end of the 
+ term , all card must either be transfer to account establish 
+ by rcp with hsbc or cancel . 
+ 12 month from 
+ the 
+ commencement 
+ date 
+ monthly fee : 
+ 7,000 
+ plus pass - through 
+ of actual third - party 
+ cost incur in 
+ provide the 
+ service ( include , 
+ for the avoidance 
+ of doubt , all 
+ charge incur on 
+ the credit card ) 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section g7 : trade compliance 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g7.1 
+ trade compliance 
+ handover service 
+ provision of access to rghi ’s and its affiliate ' trade compliance team who will 
+ provide ongoing support , background information and handover support 
+ service for the current trade compliance function , include : 
+ •     assistance in datum handover of historical import and export 
+ transaction and classification database 
+ •     familiarization with trade compliance procedure , in particular : 
+ •     export control 
+ •     transition supplier communication regard importer security 
+ filing 
+ •     reporting and filing service , but will not require seller to carry 
+ out reporting or file on behalf of the transfer entity 
+ •     understanding of current issue , include routine filing , prior 
+ disclosure , protest , remediation and assistance declaration 
+ •     coordination of shipment with broker ( import and export ) 
+ •     classification 
+ •     preparation of custom documentation 
+ •     deny party screening 
+ •     monthly import and export report 
+ •     fta support 
+ 12 month from 
+ the 
+ commencement 
+ date 
+ no fee 
+ plus pass- 
+ through of 
+ actual 
+ third - party 
+ cost 
+ incur in 
+ provide 
+ the service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section g8 : legal and other regulatory support service 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g8.1 
+ general service – legal 
+ support 
+ provision of support and handover service with respect to 
+ all legal service provide by rghi and its affiliate ' , 
+ include : 
+ •    information , relevant document and knowledge 
+ transfer relate to the legal matter and legal 
+ function , include : 
+ •    in - house legal service , include advisory , 
+ regulatory , reporting and filing service 
+ •    employment and labor relation 
+ •    review of contract relate to information 
+ technology , real estate , general procurement , and 
+ advertising and intellectual property matter 
+ •    ongoing information and assistance in connection 
+ with all other matter for which employee of rghi 
+ or its affiliate be provide legal service prior 
+ to the commencement date 
+ •    access to contract management database ( conga 
+ novatus ) 
+ 24 month from the 
+ commencement date 
+ 190 
+ per person / per hour 
+ for lawyer and 70 
+ per person / per hour 
+ for paralegal 
+ plus pass - through of 
+ actual third - party cost 
+ incur in provide 
+ the service ( i.e. external 
+ legal firm fee to 
+ compile datum for rcp ) 
+ g8.2 
+ general service – 
+ intellectual property 
+ provision of handover and support service relate to rcp ’s 
+ intellectual property portfolio , include : 
+ •    facilitation of ongoing portfolio maintenance ( i.e. 
+ renewal decision and require filing ) 
+ •    management and oversight of patent and trademark 
+ prosecution activity ( i.e. office action response ) 
+ •    file new registration and application consistent 
+ with past practice 
+ •    assistance , information and knowledge transfer 
+ relate to the legal matter and legal function of 
+ rcp , include transfer to rcp , in such 
+ electronic or hard copy format as reasonably 
+ request by rcp , any and all documentation in the 
+ possession of rghi , its affiliate or their outside 
+ legal counsel , relate to the prosecution , 
+ enforcement , registration and application of any 
+ own intellectual property , include all 
+ information in any intellectual property docket 
+ maintain by rghi , its affiliate or their outside 
+ legal counsel 
+ the early of ( i ) 24 
+ month from the 
+ commencement date or 
+ ( ii ) the cessation of 
+ current administrator 
+ of ip 
+ operation / paralegal ’s 
+ employment 
+ 190 
+ per person / per hour 
+ for lawyer and 70 
+ per person / per hour 
+ for paralegal 
+ plus pass - through of 
+ actual third - party cost 
+ incur in provide 
+ the service ( i.e. external 
+ legal firm fee to 
+ compile datum for rcp ) 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g8.3 
+ general service – 
+ corporate secretarial 
+ provision of corporate secretarial duty and government 
+ filing assistance . 
+ to the early of ( i ) 24 
+ month from the 
+ commencement date or 
+ ( ii ) the cessation of 
+ current corporate 
+ governance paralegal ’s 
+ employment 
+ 190 
+ per person / per hour 
+ for lawyer , 45 per 
+ hour for corporate 
+ governance paralegal 
+ plus pass - through of 
+ actual third - party cost 
+ incur in provide 
+ the service ( i.e. external 
+ co - sec / legal firm fee ) 
+ g8.4 
+ general service – sec 
+ reporting and 
+ compliance 
+ rghi legal counsel will be available to provide assistance 
+ and support relate to report and filing requirement with 
+ the u.s . securities and exchange commission and corporate 
+ governance matter . 
+ 24 month from the 
+ commencement date 
+ 10,000 per month 
+ plus pass - through of 
+ actual third - party cost 
+ incur in provide 
+ the service 
+ g8.5 
+ general service – 
+ regulatory 
+ provision of handover service and support relate to 
+ compliance with fda regulation , food - contact product rule , 
+ product compliance , and other regulatory and compliance 
+ scheme . 
+ 12 month from the 
+ commencement date 
+ no fee 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g8.6 
+ general service – real 
+ estate 
+ provision of support and handover service relate to real 
+ estate administration ( consistent with past practice ) , 
+ include but not limit to : 
+ •    coordination of insurance , environmental , and legal 
+ function to review lease , prepare annual report , etc . 
+ •    reconciliation of annual lease expense 
+ •    assistance with resolution of facility issue ( i.e. repair , 
+ etc . ) 
+ •    review and monitoring of tenant improvement 
+ allowance 
+ •    assistance with establish new facility or closing 
+ exist facility 
+ •    support for year - end reporting 
+ 12 month from the 
+ commencement date 
+ 1,630 per month 
+ plus pass - through of 
+ actual third - party cost 
+ incur in provide 
+ the service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ exhibit b 
+ reverse transition service 
+ section gr1 : it 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ gr1.1 
+ it – crossover service 
+ provision of desktop support and core application service 
+ for scenario where people transfer be require to 
+ temporarily assist in rghi to augment non - transfer 
+ people ' expertise or capacity , notwithstanding both party ’ 
+ intention to have these area of support self - sufficient 
+ inside rghi by commencement date . 
+ 12 month from the 
+ commencement date 
+ no fee 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section gr2 : hr 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ gr2.1 
+ general hr – ancillary 
+ service 
+ rcp will be available to provide transition of support and 
+ agreement and provide support for meeting to share 
+ information and answer any question with current vendor 
+ regard current practice , include but not limit to 
+ support for separation of 401(k ) , h&w , and pension plan . 
+ the party shall cooperate in good faith regard 
+ preparation of 5500 and aca report for plan year 2019 , 
+ with responsibility for filing as follow : 
+ •    401(k ) 5500 
+ •    rghi shall file for exist employee saving 
+ plan ( non - bargaining ) and employee saving 
+ plan for pactiv bargaining 
+ •    rcp shall file for employee saving plan for 
+ reynold bargaining and any new company 
+ saving plan establish as of the 
+ commencement date 
+ •    pension and h&w 5500 
+ •    rghi shall file for reynolds services inc . 
+ group benefit plan , pactiv retirement plan , 
+ reynolds services inc . group benefit plan for 
+ bargaining unit employee , pactiv retiree 
+ health & welfare plan , reynold group 
+ pension plan , evergreen packaging pension 
+ plan 
+ •    rcp shall file for new company plan 
+ establish as of the commencement date 
+ •    aca report 
+ •    rcp shall coordinate filing for 2019 plan year 
+ 12 month from the 
+ commencement date 
+ no fee 
+ gr2.2 
+ general hr – aca and 
+ hsa training 
+ provision of handover and support service relate to aca 
+ reporting and hsa funding and reporting . 
+ 12 month from the 
+ commencement date 
+ no fee 
+ plus pass - through of 
+ actual third - party cost 
+ incur in provide 
+ the service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section gr3 : regulatory 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ g3.1 
+ general service – 
+ regulatory 
+ provision of handover service and support relate to 
+ compliance with fda regulation , food - contact product rule , 
+ product compliance , and other regulatory and compliance 
+ scheme . 
+ 12 month from the 
+ commencement date 
+ no fee 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section gr4 : procurement 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ gr4.1 
+ procurement handover 
+ service 
+ provision of handover service to assist rghi in establish 
+ relationship with vendor for the following service : 
+ •    fleet program 
+ •    office supply 
+ •    t&e ( include rental car , airline , world travel , and 
+ concur ) 
+ provision of purchase support and handover service for 
+ poly bag . 
+ 12 month from the 
+ commencement date 
+ 100 
+ per person / per hour 
+ plus pass - through of 
+ actual third - party cost 
+ incur in provide 
+ the service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ section gr5 : trade compliance 
+ service name 
+ description of service 
+ term 
+ fee ( usd ) 
+ gr5.1 
+ trade compliance 
+ handover service 
+ provision of access to rcp ’s and its affiliate ' trade 
+ compliance team who will provide ongoing support , 
+ background information and handover support service for 
+ the current trade compliance function , include : 
+ •    assistance in data handover of historical import 
+ and export transaction and classification 
+ database 
+ •    familiarization with trade compliance procedure , in 
+ particular : 
+ o     export control 
+ o     transition supplier communication regard 
+ importer security filing 
+ o     reporting and filing service , but will not 
+ require seller to carry out reporting or filing 
+ on behalf of the transfer entity 
+ o     understanding of current issue , include 
+ routine filing , prior disclosure , protest , 
+ remediation and assistance declaration 
+ •    coordination of shipment with broker ( import and 
+ export ) 
+ •    classification 
+ •    preparation of custom documentation 
+ •    deny party screening 
+ •    monthly import and export report 
+ •    fta support 
+ 12 month from the 
+ commencement date 
+ no fee 
+ plus pass - through of 
+ actual third - party cost 
+ incur in provide 
+ the service 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020 
+ exhibit c 
+ service coordinator 
+ to be designate in write from time to time by each party . 
+ source : reynold consumer products inc . , s-1 / a , 1/21/2020

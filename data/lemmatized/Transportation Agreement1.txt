@@ -1,0 +1,1402 @@
+exhibit   10.5 
+ execution   version 
+ transportation   service   agreement 
+ this   transportation   service   agreement   ( this   " agreement " )   be   make   and   enter   into   this   14th   day   of   april ,   2015   ( the   " effective   date " ) ,   by 
+ and   between   penntex   north   louisiana   operating ,   llc ,   a   delaware   limit   liability   company   ( " carrier " ) ,   and   mrd   operating   llc ,   a   delaware 
+ limit   liability   company   ( " shipper " ) .   shipper   and   carrier   may   be   refer   to   individually   as   a   " party , "   or   collectively   as   the   " party . " 
+ witnesseth : 
+ whereas ,   shipper   have   title   to   or   the   right   to   transport   and/or   sell   shipper   product   ( as   define   below);   and 
+ whereas ,   shipper   desire   for   carrier   to   ( i )   design ,   engineer   and   construct   the   system   ( as   define   below )   to   enable   carrier   to   be   able   to 
+ provide   transportation   and   relate   service   for   shipper   product   and   ( ii )   transport   shipper   product   on   the   system;   and 
+ whereas ,   carrier   desire   to   ( i )   design ,   engineer   and   construct   the   system   and   ( ii )   transport   shipper   product   on   the   system . 
+ now   therefore ,   in   consideration   of   the   mutual   promise ,   covenant   and   agreement   herein   contain ,   the   party   hereby   covenant   and 
+ agree   as   follow : 
+ article   I 
+ certain   definition 
+ unless   otherwise   require   by   the   content ,   the   term   define   in   this   article   I   shall   have ,   for   all   purpose   of   this   agreement ,   the   respective 
+ meaning   set   forth   in   this   article   I : 
+ " affiliate "   shall   mean ,   when   use   with   respect   to   any   person ,   any   other   person   that ,   directly   or   indirectly ,   through   one   or   more 
+ intermediary ,   control ,   be   control   by ,   or   be   under   common   control   with   such   person .   for   this   purpose ,   " control "   of   any   person   shall   mean   the 
+ possession ,   directly   or   indirectly ,   of   the   power   to   direct   or   cause   the   direction   of   the   management   and   policy   of   such   person ,   by   ownership   of 
+ voting   interest ,   by   contract   or   otherwise .   for   the   purpose   of   this   agreement ,   ( i )   with   respect   to   penntex   midstream   partner ,   llc   and   its 
+ subsidiary ,   the   term   " affiliate "   shall   exclude   memorial   resource   development   corp .   and   each   of   its   subsidiary   and   ( ii )   with   respect   to   memorial 
+ resource   development   corp .   and   its   subsidiary ,   the   term   " affiliate "   shall   exclude   penntex   midstream   partner ,   llc   and   each   of   its   subsidiary . 
+ " ami / mea   agreement "   shall   mean   that   certain   amend   and   restate   area   of   mutual   interest   and   midstream   exclusivity   agreement 
+ date   april   14 ,   2015   among   penntex   north   louisiana ,   llc ,   shipper ,   penntex   nla   holding ,   llc   and   mrd   whr   la   midstream   llc ,   as   such 
+ agreement   may   be   amend ,   supplement   or   otherwise   modify   from   time   to   time . 
+ " agreement "   shall   have   the   meaning   give   to   such   term   in   the   preamble   of   this   agreement . 
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ " applicable   law "   shall   mean   all   applicable   law ,   statute ,   directive ,   code ,   ordinance ,   rule ,   regulation ,   municipal   by - law ,   judicial , 
+ arbitral ,   administrative ,   ministerial ,   departmental   or   regulatory   judgment ,   order ,   decision ,   ruling   or   award ,   consent   order ,   consent   decree   and 
+ policy   of   any   governmental   authority . 
+ " business   day "   shall   have   the   meaning   give   to   such   term   in   the   tariff . 
+ " carrier "   shall   have   the   meaning   give   to   such   term   in   the   preamble   of   this   agreement . 
+ " carrier   default "   shall   have   the   meaning   give   to   such   term   in   section   8.3   of   this   agreement . 
+ " carrier   default   notice "   shall   have   the   meaning   give   to   such   term   in   section   8.4   of   this   agreement . 
+ " carrier   force   majeure "   shall   mean   an   event   of   force   majeure   that   prevent   carrier   from   provide   all   or   part   of   the   service   and   shall   not 
+ include   a   force   majeure   that   prevent   shipper   from   deliver   shipper   product   hereunder . 
+ " central   clock   time "   shall   mean   central   standard   time ,   as   adjust   for   central   daylight   time . 
+ " claim "   shall   mean   any   and   all   claim ,   demand   and   cause   of   action   of   any   kind   and   all   loss ,   damage ,   liability ,   cost   and   expense   of 
+ whatever   nature   ( include   court   cost   and   reasonable   attorney '   fee ) . 
+ " commencement   date "   shall   have   the   meaning   give   to   such   term   in   section   2.2   of   this   agreement . 
+ " commencement   date   facility "   shall   have   the   meaning   give   to   such   term   in   section   7.2   of   this   agreement . 
+ " contract   year "   shall   mean   a   period   commencing   at   9:00   a.m. ,   central   clock   time ,   on   the   commencement   date   and   end   at   9:00   a.m. ,   central 
+ clock   time   on   the   same   day   and   calendar   month   of   the   follow   calendar   year   and   thereafter   for   succeed   period   of   twelve   ( 12 )   consecutive 
+ month   each . 
+ " day "   or   " daily "   shall   mean   a   period   of   hour   commencing   at   9:00   a.m. ,   central   clock   time ,   on   a   calendar   day   and   end   at   9:00   a.m. ,   central 
+ clock   time ,   on   the   next   succeed   calendar   day . 
+ " dedicate   rate "   shall   have   the   meaning   give   to   such   term   in   the   tariff . 
+ " dedication "   shall   have   the   meaning   give   to   such   term   in   section   7.1   of   this   agreement 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ " delivery   point "   shall   mean   the   delivery   point   at   the   interconnection   of   the   system   with   dcp ’s   6 "   black   lake   natural   gas   liquid   pipeline   and 
+ other   mutually   agreeable   delivery   point   near   ada ,   bienville   parish ,   louisiana   as   provide   in   the   tariff . 
+ " dispute "   shall   mean   any   controversy   or   claim ,   whether   base   on   contract ,   tort ,   statute   or   other   legal   or   equitable   theory   ( include ,   but   not 
+ limit   to ,   any   claim   of   fraud ,   misrepresentation   or   fraudulent   inducement   or   any   question   of   validity   or   effect   of   this   agreement   include   this 
+ clause )   arise   out   of   or   relate   to   this   agreement   ( include   any   amendment   or   extension ) ,   or   breach   or   termination   thereof . 
+ " dispute   notice "   shall   have   the   meaning   give   to   such   term   in   section   12.2   of   this   agreement . 
+ " effective   date "   shall   have   the   meaning   give   to   such   term   in   the   preamble   to   this   agreement . 
+ " ferc "   shall   mean   the   united   state   federal   energy   regulatory   commission   and   any   lawful   successor   agency   thereto . 
+ " financial   assurance "   shall   mean   any   guarantee ,   letter   of   credit ,   amendment   or   supplement   thereto   or   other   credit   enhancement   provide 
+ for   in   article   xiii   of   this   agreement . 
+ " force   majeure "   shall   have   the   meaning   give   to   such   term   in   section   11.2   of   this   agreement . 
+ " gallon "   mean   one   ( 1 )   u.s .   gallon . 
+ " gas "   shall   mean   any   mixture   of   gaseous   hydrocarbon ,   consist   essentially   of   methane   and   heavy   hydrocarbon   and   inert   and 
+ noncombustible   gas   that   be   extract   from   the   subsurface   of   the   earth . 
+ " governmental   authority "   shall   mean   ( i )   the   united   state   of   america ,   ( ii )   any   state ,   county ,   parish ,   municipality   or   other   governmental 
+ subdivision   within   the   united   state   of   america ,   and   ( iii )   any   court   or   any   governmental   department ,   commission ,   board ,   bureau ,   agency   or   other 
+ instrumentality   of   the   united   state   of   america   or   of   any   state ,   county ,   municipality   or   other   governmental   subdivision   within   the   united   state   of 
+ america . 
+ " guarantee "   shall   have   the   meaning   give   to   such   term   in   section   13.1   of   this   agreement . 
+ " interest "   shall   mean   any   right ,   title ,   or   interest   in   land ,   well ,   or   lease   and   the   right   to   produce   oil   and/or   natural   gas   therefrom   whether 
+ arise   from   fee   ownership ,   work   interest   ownership ,   mineral   ownership ,   leasehold   ownership ,   farm - out   or   arise   from   any   pooling ,   unitization 
+ or   communitization   of   any   of   the   forego   right . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ " lincoln   parish   plant "   shall   mean   that   certain   natural   gas   processing   plant   to   be   construct   by   carrier   or   one   of   its   affiliate   and   locate   in 
+ arcadia ,   lincoln   parish ,   louisiana . 
+ " loss "   shall   mean   any   actual   loss ,   cost ,   expense ,   liability ,   damage ,   demand ,   suit ,   sanction ,   claim ,   judgment ,   lien ,   fine   or   penalty ,   include 
+ attorney '   fee ,   assert   by   a   third   party   not   affiliate   with   the   party   incur   such ,   and   which   be   incur   by   the   applicable   indemnify   person 
+ on   account   of   injury   ( include   death )   to   any   person   or   damage   to   or   destruction   of   any   property ,   sustain   or   allege   to   have   be   sustain   in 
+ connection   with   or   arise   out   of   the   matter   for   which   the   indemnify   party   have   indemnify   the   applicable   indemnify   person . 
+ " month "   shall   mean   a   period   of   time   begin   at   9:00   a.m. ,   central   clock   time   on   the   first   day   of   a   calendar   month   and   end   at   9:00   a.m. , 
+ central   clock   time   on   the   first   day   of   the   next   succeed   calendar   month . 
+ " mount   olive   plant "   shall   mean   that   certain   natural   gas   processing   plant   to   be   construct   by   carrier   or   one   of   its   affiliate   and   locate   in 
+ ruston ,   lincoln   parish ,   louisiana . 
+ " new   facility "   shall   have   the   meaning   give   to   such   term   in   section   7.3   of   this   agreement . 
+ " nomination "   ( include   " nominates "   and   the   syntactical   variant   thereof )   shall   have   the   meaning   give   to   such   term   in   the   tariff . 
+ " party "   shall   have   the   meaning   give   to   such   term   in   the   preamble   of   this   agreement . 
+ " party "   shall   have   the   meaning   give   to   such   term   in   the   preamble   of   this   agreement . 
+ " person "   shall   mean   any   individual ,   firm ,   corporation ,   trust ,   partnership ,   limit   liability   company ,   association ,   joint   venture ,   other   business 
+ enterprise   or   governmental   authority . 
+ " plant "   shall   mean   ( i )   the   lincoln   parish   plant ,   ( ii )   the   mount   olive   plant   and   ( iii )   any   other   gas   processing   plant   own   by   carrier   or   its 
+ affiliate   that   be   capable   of   extract   shipper   product   and   transporting   such   shipper   product   from   the   tailgate   of   such   plant   to   the   system .   " plant " 
+ shall   mean   any   of   such   plant . 
+ " product "   shall   mean   a   demethanize   mixture   of   natural   gas   liquid   comprise   primarily   of   ethane ,   propane ,   iso - butane ,   normal   butane ,   iso- 
+ pentane ,   normal   pentane ,   hexane   and   heavy   hydrocarbon ,   incidental   volume   of   methane ,   as   well   as   other   non - hydrocarbon   compound . 
+ " receipt   point "   shall   mean   the   receipt   point   provide   for   in   the   tariff   at   the   tailgate   of   the   plant   where   carrier   accept   product   for 
+ transport   on   the   system . 
+ " service "   shall   mean   receipt   and   transportation   on   the   system   of   product   for   shipper ’s   account   from   the   receipt   point   and   delivery   to   the 
+ destination   point   specify   in   shipper ’s   nomination . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ " shipper "   shall   have   the   meaning   give   to   such   term   in   the   preamble   of   this   agreement . 
+ " shipper   default "   shall   have   the   meaning   give   to   such   term   in   section   8.1   of   this   agreement . 
+ " shipper   default   notice "   shall   have   the   meaning   give   to   such   term   in   section   8.2(a )   of   this   agreement . 
+ " shipper   product "   shall   mean   product   that   be   attributable   to   gas   that   be   deliver   by   customer   or   its   designee   to ,   and   process   at ,   a   plant . 
+ " shipper ’s   dedicate   rate "   shall   have   the   meaning   give   to   such   term   in   section   6.1   of   this   agreement . 
+ " system "   shall   have   the   meaning   give   to   such   term   in   the   tariff . 
+ " tariff "   shall   mean   carrier ’s   rate ,   rule   and   regulation   tariff   for   the   system   on   file   and   in   effect   with   the   ferc   or   other   governmental 
+ authority ,   as   such   tariff   may   be   amend   or   supplement   by   carrier   from   time   to   time   in   accordance   with   this   agreement ,   a   pro   forma   copy   of 
+ which ,   materially   in   the   form   expect   to   be   file   by   carrier   with   the   ferc ,   be   attach   hereto   as   exhibit   a. 
+ " tariff   rate   revision   proceeding "   shall   have   the   meaning   give   to   such   term   in   section   14.3 . 
+ " taxis "   shall   mean   any   or   all   current   or   future   taxis ,   fee ,   levy ,   charge ,   assessment   and/or   other   imposition   levy ,   charge ,   impose , 
+ assess   or   collect   by   any   governmental   authority   have   jurisdiction . 
+ " term "   shall   have   the   meaning   give   to   such   term   in   section   2.1   of   this   agreement . 
+ " third   party   operator "   mean   an   operator   of   a   pipeline   or   other   facility   upstream   or   downstream   of   the   system ,   other   than   carrier   or   its 
+ affiliate . 
+ article   ii 
+ term 
+ 2.1   term .   this   agreement   shall   commence   on   the   effective   date   and   continue   in   full   force   and   effect   until   the   end   of   the   fifteenth   ( 15th ) 
+ contract   year ,   and   shall   continue   in   full   force   and   effect   thereafter   until   terminate   by   either   party   by   provide   thirty   ( 30 )   calendar   day '   prior 
+ write   notice   of   termination   to   the   other   party   ( such   fifteen   ( 15 )   contract   year   period ,   as   may   be   far   extend   as   provide   herein   be   refer   to 
+ as   the   " term " ) . 
+ 2.2   commencement   date .   the   " commencement   date "   under   this   agreement   shall   be   the   first   day   of   the   month   follow   the   date   carrier 
+ notifie   shipper   that   ( i )   carrier   have   obtain   all   require   operating   permit   and/or   approval   of   regulatory   authority   necessary   to   operate   the 
+ system ,   ( ii )   the   system   be   operational   to   the   extent   necessary   to   commence   the 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ service   hereunder ,   and   ( iii )   the   delivery   point   list   on   schedule   a   be   operational   and   all   necessary   interconnect   agreement   with   interconnect 
+ pipeline   necessary   to   deliver   shipper   product   to   such   delivery   point   be   in   effect   to   the   extent   necessary   to   commence   commercial   service   with 
+ respect   to   the   delivery   ( but ,   for   the   avoidance   of   doubt ,   not   the   further   downstream   transportation )   of   shipper   product .   carrier   will   not   be 
+ responsible   for   delay   to   the   commencement   date   due   to   the   action   or   inaction   of   shipper   or   third   party   operator . 
+ article   iii 
+ [ reserve ] 
+ article   iv 
+ carrier   right   and   obligation 
+ 4.1   provision   of   service .   subject   to   the   term   and   condition   of   this   agreement ,   carrier   shall ,   commence   on   the   commencement   date   and 
+ continue   through   the   remainder   of   the   term   of   this   agreement ,   provide   service   for   shipper   product   in   accordance   with ,   and   subject   to ,   this 
+ agreement ,   include   the   tariff ,   which   be   incorporate   herein   by   reference   and   constitute   part   of   this   agreement ,   expressly   include   provision   in 
+ the   tariff   relate   to   the   charge   and   rule   and   regulation   applicable   to   shipper   as   a   party   to   this   agreement .   this   section   4.1   shall   not   apply   to 
+ carrier   during   any   period   when   shipper   be   in   breach   of   its   obligation   to   carrier   under   this   agreement   or   the   tariff .   the   service   do   not   include   any 
+ terminaling ,   tankage   or   storage . 
+ article   v 
+ shipper   right   and   obligation 
+ 5.1   tariff .   shipper ’s   nomination   and   tender   of   product   for   shipment ,   and   carrier ’s   scheduling ,   acceptance ,   transporting ,   measure   and 
+ deliver   of   product ,   shall ,   at   all   time ,   be   subject   to ,   and   implement   in   accordance   with   the   tariff .   shipper   shall   comply   with   the   tariff   at   all 
+ time .   the   tariff   be   subject   to   amendment   by   carrier   in   accordance   with   section   15.1 . 
+ 5.2   shipper   reliance   on   carrier   performance .   all   shipper   product   receive   at   the   receipt   point   for   service   hereunder   be   deem   to   be   in 
+ compliance   with   all   product   specification   set   forth   in   the   tariff   or   carrier   shall   waive   such   specification   to   accept   shipper   product   and   all   shipper 
+ product   deliver   to   the   delivery   point   hereunder   shall   be   in   compliance   with   all   product   specification   set   forth   in   the   tariff . 
+ article   vi 
+ fee 
+ 6.1   transportation   rate .   shipper   shall   pay   rate   for   shipper   product   transport   on   the   system   in   accordance   with   the   tariff ,   which   shall ,   to 
+ the   extent   permit   by   applicable   law ,   provide   for   the   following : 
+
+ ( a ) 
+ for   all   shipper   product   transport   on   the   system   and   deliver   to   a   delivery   point   each   month ,   shipper   shall   pay   carrier   a 
+ transportation   fee   for   such   month 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+
+ equal   to   the   applicable   dedicate   rate ,   which   shall   initially   be   the   rate(s )   set   forth   in   schedule   a   attach   hereto ,   and   which 
+ shall   be   increase   by   carrier   annually ,   effective   july   1   of   each   year   follow   the   commencement   date ,   as   provide   in   the   tariff 
+ ( " shipper ’s   dedicate   rate " ) . 
+ 6.2   regulation   change .   notwithstanding   anything   herein   to   the   contrary ,   in   the   event   that ,   after   the   effective   date ,   any   governmental 
+ authority   promulgate ,   issue   or   change   any   rule ,   regulation   or   other   mandate   that   impose   any   material   fee ,   charge   or   cost   upon   carrier   in 
+ connection   with   the   performance   of   the   service   perform   hereunder ,   exclude   normal   fee ,   charge   or   cost   that   be   incur   by   carrier 
+ irrespective   of   whether   carrier   provide   the   service   on   behalf   of   shipper   and   exclude   taxis   address   in   article   xvii ,   then   carrier   may   increase 
+ the   then - effective   shipper ’s   dedicate   rate   by   up   to   ten   percent   ( 10 )   to   account   for   such   fee ,   charge   or   cost   ( to   the   extent   such   fee ,   charge 
+ or   cost   be   attributable   to   shipper   product);   provide ,   however ,   the   cumulative   effect   of   all   such   increase   pursuant   to   this   section   6.2   may   not 
+ exceed   thirty   percent   ( 30 )   of   the   initial   shipper ’s   dedicate   rate   ( as   the   same   may   be   adjust   pursuant   to   the   tariff   from   time   to   time ) .   if ,   in 
+ carrier ’s   reasonable   judgment ,   an   increase   in   shipper ’s   dedicate   rate   of   more   than   ten   percent   ( 10 )   would   be   require   to   place   carrier   in 
+ substantially   the   same   economic   position   as   it   be   in   prior   to   the   imposition   or   assessment   of   such   fee ,   charge   or   cost ,   carrier   may   call   for   a 
+ meeting   among   the   party '   senior   management   to   take   place   within   thirty   ( 30 )   day   of   write   notice   to   shipper ,   and   the   party   shall   negotiate   in 
+ good   faith   to   amend   the   provision   of   this   agreement   such   that   the   party   be   in   substantially   the   same   relative   economic   position   as   they   be   in 
+ prior   to   the   imposition   or   assessment   of   such   fee ,   charge   or   cost .   if   the   party   be   unable   to   agree   on   an   economic   adjustment   within   sixty   ( 60 ) 
+ day   of   the   senior   management   meeting ,   then   carrier   may ,   in   its   sole   discretion ,   terminate   this   agreement   without   penalty   by   deliver   shipper 
+ write   notice   of   carrier ’s   intent   to   terminate .   such   termination   shall   be   effective ,   at   the   option   of   shipper ,   ( i )   as   of   9:00   a.m.   on   the   first   day   of   the 
+ month   which   follow   the   month   that   carrier   deliver   its   notice   of   intent   to   terminate ,   or   ( ii )   as   of   9:00   a.m.   on   the   first   day   of   the   month   which   be 
+ twelve   ( 12 )   month   after   such   date ,   provide   that   shipper ’s   dedicate   rate   for   such   twelve   ( 12 )   month   period   before   such   termination   shall   be 
+ increase   to   place   carrier   in   substantially   the   same   economic   position   as   it   be   in   prior   to   the   imposition   or   assessment   of   such   fee ,   charge ,   or 
+ cost .   shipper   shall   exercise   such   option   by   delivery   of   write   notice   to   carrier   of   shipper ’s   election   within   ten   ( 10 )   business   day   of   receipt   of 
+ carrier ’s   notice   to   terminate ,   provide   that   if   shipper   have   not   respond   to   carrier   by   the   time   describe   in   clause   ( i )   above ,   the   agreement   shall 
+ continue   pursuant   to   clause   ( ii )   above . 
+ shipper   shall   be   entitle   to   audit   carrier ’s   applicable   book   and   record   for   the   limit   purpose   of   determine   if   the   amount   of   any   increase 
+ pursuant   to   this   section   6.2   be   justify   by   the   actually - incur   and   reasonable   amount   of   the   aggregate   cost   and/or   expense   relate   to   the 
+ system;   provide ,   however ,   such   audit   shall   not   require   carrier   to   disclose   confidential   information   of   any   person   other   than   shipper   who   be   a 
+ shipper   on   the   system .   if   such   audit   shall   reflect   that   such   increase   be   not   justifiable   in   accordance   with   the   foregoing ,   carrier   shall   promptly 
+ credit   the   amount   of   such   discrepancy   to   shipper ,   unless   carrier   disagree   with   the   result   of   such   audit ,   in   which   case   the   matter   shall   be   resolve 
+ pursuant   to   the   dispute   resolution   provision   set   forth   in   article   xii   hereof . 
+ 6.3   governmental   modification .   notwithstanding   anything   herein   to   the   contrary ,   the   party   acknowledge   that   the   tariff   rate   payable   for   all 
+ service   be   subject   to   the   approval   of   and   modification   by   the   ferc   or   any   other   governmental   authority   have   jurisdiction . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ article   vii 
+ dedication   &   facility 
+ 7.1   dedication .   during   the   term ,   subject   to   the   term   of   the   ami / mea   agreement ,   shipper   dedicate   and   commit   to   this   agreement ,   and 
+ shall   deliver   or   cause   to   be   deliver   to   the   system   for   transportation   hereunder ,   all   shipper   product   ( the   " dedication”);   provide ,   however ,   if 
+ carrier   be   unable   to   provide   service   with   respect   to   all   or   any   volume   of   shipper   product ,   then   such   volume   will   be   temporarily   release   from   the 
+ dedication   until   carrier   provide   shipper   write   notice   that   carrier   will   be   able   to   resume   receive   such   volume   hereunder .   notwithstanding 
+ anything   in   this   agreement   to   the   contrary ,   it   be   acknowledge   and   agree   that   there   be   no   minimum   amount   of   shipper ’s   product   that   must   be 
+ deliver   to   the   system   hereunder;   accordingly ,   shipper   shall   not   have   any   liability   ( financial   or   otherwise )   for   failure   to   deliver   any   particular 
+ quantity   of   product   to   carrier;   provide ,   however ,   the   forego   sentence   shall   not   reduce   or   eliminate   shipper ’s   obligation   to   pay   the   fee 
+ provide   herein   to   the   extent   service   be   provide   hereunder . 
+ 7.2   commencement   date   facility .   carrier   shall   design ,   engineer ,   modify ,   construct   and   equip ,   or   cause   to   be   design ,   engineer , 
+ modify ,   construct   and   equip ,   carrier ’s   system ,   include ,   without   limitation ,   the   facility   and   equipment   describe   on   exhibit   b   attach 
+ hereto   ( the   facility   and   equipment   describe   on   exhibit   b   be   collectively   refer   to   as   the   " commencement   date   facility " ) . 
+ 7.3   post - commencement   date   facility . 
+ ( a )   after   the   commencement   date ,   in   connection   with   the   construction   of   the   mount   olive   plant ,   carrier   will   construct   13   mile   of   8 "   pipeline 
+ between   the   mount   olive   plant   and   the   lincoln   parish   plant ,   and   a   receipt   point   at   the   mount   olive   plant . 
+ ( b )   if   after   the   commencement   date ,   shipper   require   an   addition ,   modification ,   alteration ,   replacement ,   or   expansion   of   the   system ,   other 
+ than   as   note   in   section   7.3(a )   above   ( a   " new   facility " ) ,   shipper   will   provide   carrier   a   write   notification   of   such   request   new   facility 
+ contain   sufficient   information   for   carrier   to   estimate   the   cost   to   provide   such   new   facility .   although   carrier   shall   have   no   obligation   to   provide 
+ a   request   new   facility ,   carrier   may ,   in   its   sole   discretion ,   agree   to   construct   or   acquire   such   new   facility .   the   commercial   term   applicable   the 
+ construction   or   acquisition   of   any   new   facility   will   be   determine   in   accordance   with   the   ami / mea   agreement .   the   party   agree   to   make   any 
+ revision   to   this   agreement   ( include   the   exhibit   hereto )   that   be   necessary   to   reflect   any   new   facility . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ article   viii 
+ default   and   remedy 
+ 8.1   shipper   default .   subject   to   section   11.1   hereof ,   the   follow   event   shall   be   a   " shipper   default " : 
+ ( a )   the   occurrence   and   continuation   of   a   material   breach   by   shipper   of   any   of   its   obligation   under   this   agreement   or   the   tariff , 
+ unless   such   material   breach   occur   as   a   result   of   a   breach   or   default   by   carrier   of   its   obligation   under   this   agreement   or   the   tariff;   or 
+ ( b )   the   occurrence   and   continuation   of   a   breach   under   article   xiii ,   financial   assurance . 
+ 8.2   remedy   on   shipper   default . 
+ ( a )   upon   become   aware   of   the   occurrence   of   a   shipper   default   with   respect   to   shipper ’s   obligation   under   this   agreement   or 
+ the   tariff ,   carrier   may   provide   write   notice   to   shipper   describe   the   shipper   default   in   reasonable   detail   and   require   shipper   to   cure   the 
+ shipper   default   ( the   " shipper   default   notice " ) .   if   ( i )   a   shipper   default   as   describe   in   section   8.1(a )   have   not   be   cure   within   ten   ( 10 )   business 
+ day   follow   receipt   by   shipper   of   a   shipper   default   notice ,   or   ( ii )   the   shipper   default   comprise   a   default   describe   in   section   8.1(b ) ,   then ,   in 
+ any   such   case ,   and   in   addition   to   carrier ’s   right   to   enforce   the   financial   assurance   and   carrier ’s   other   right   and   remedy   provide   for   in   this 
+ agreement ,   in   the   tariff   or   under   applicable   law ,   carrier   shall   not   be   obligate   to   transport   shipper   product   and   may   suspend   the   provision   of 
+ other   service   to   shipper . 
+ ( b )   if   the   shipper   default   continue   for   a   period   of   ninety   ( 90 )   or   more   day ,   or ,   if   such   failure   be   not   reasonably   capable   of   be 
+ cure   within   a   ninety   ( 90 )   day   period ,   but   shipper   expeditiously   commence   to   cure   the   same   follow   its   receipt   of   a   shipper   default   notice   and 
+ diligently   proceed   with   such   cure ,   within   such   long   period   of   time   as   shall   be   reasonably   necessary   to   cure   such   failure ,   carrier   shall   be   entitle , 
+ by   notice   in   writing   to   shipper ,   to : 
+ ( 1 )   terminate   this   agreement ,   any   such   termination   to   be   effective   upon   receipt   of   the   applicable   notice   by   shipper ,   in 
+ which   event   shipper   shall   be   liable   to   carrier   for   ( i )   all   of   its   accrue   obligation   up   to   and   include   the   effective   date   of 
+ termination ,   and   ( ii )   any   and   all   other   loss   and   damage   sustain   by   carrier   as   a   result   of   or   arise   out   of   such   termination; 
+ and/or 
+ ( 2 )   draw   on   any   guaranty ,   letter   of   credit   or   other   financial   assurance   provide   by   shipper   pursuant   to   article   xiii , 
+ financial   assurance .   if   carrier   terminate   this   agreement   pursuant   to   section   8.2(b )   hereof ,   carrier   shall   be   entitle   to   apply 
+ the   proceed   of   such   financial   assurance   to   shipper ’s   obligation   and   carrier ’s   loss   and   damage   reference   in   this   section 
+ 8.2(b ) .   in   all   other   circumstance   in   which   carrier   call   on   any   financial   assurance   provide   by   shipper   pursuant   to 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ article   xiii ,   financial   assurance ,   follow   a   shipper   default ,   carrier   shall   be   entitle   to   apply   the   proceed   to   cure   such 
+ shipper   default ,   and   to   hold   the   remain   proceed   as   additional   security   for   the   payment   and   performance   of   shipper ’s 
+ obligation   under   this   agreement   and   the   tariff . 
+ the   right   and   remedy   under   this   section   8.2(b )   shall   be   in   addition   to   all   of   carrier ’s   other   right   and   remedy   under   this   agreement   or   the   tariff 
+ or   which   carrier   may   otherwise   have   at   law ,   in   equity   or   by   statute   or   regulation ,   and   the   exercise   of   one   or   more   right   or   remedy   shall   not 
+ prejudice   or   impair   the   concurrent   or   subsequent   exercise   by   carrier   of   other   right   or   remedy . 
+ 8.3   carrier   default .   subject   to   section   11.1   hereof ,   the   follow   event   shall   be   a   " carrier   default " :   the   occurrence   and   continuation   of   a 
+ material   breach   or   default   by   carrier   of   any   of   its   obligation   under   this   agreement   or   the   tariff ,   unless   such   material   breach   or   default   occur   as   a 
+ result   of   a   breach   or   default   by   shipper   of   its   obligation   under   this   agreement   or   the   tariff . 
+ 8.4   remedy   on   carrier   default .   upon   become   aware   of   the   occurrence   of   a   carrier   default ,   shipper   may   provide   write   notice   to   carrier , 
+ describe   the   carrier   default   in   reasonable   detail   and   require   carrier   to   cure   the   carrier   default   ( the   " carrier   default   notice " ) .   if   ( a )   a   carrier 
+ default   comprise   carrier ’s   failure   to   make   any   payment   due   hereunder   have   not   be   cure   within   ten   ( 10 )   business   day   follow   receipt   by 
+ carrier   of   a   carrier   default   notice ,   or   ( b )   a   carrier   default   comprise   carrier ’s   failure   to   comply   with   any   obligation   under   this   agreement   or   the 
+ tariff ,   other   than   a   payment   obligation ,   have   not   be   cure   within   ninety   ( 90 )   day   after   receipt   by   carrier   of   a   carrier   default   notice ,   or ,   if   such 
+ failure   be   not   reasonably   capable   of   be   cure   within   a   ninety   ( 90 )   day   period ,   but   carrier   expeditiously   commence   to   cure   the   same   follow   its 
+ receipt   of   a   carrier   default   notice   and   diligently   proceed   with   such   cure ,   within   such   long   period   of   time   as   shall   be   reasonably   necessary   to 
+ cure   such   failure ,   then   in   any   such   case ,   shipper   may ,   by   write   notice   to   carrier ,   inform   carrier   of   its   intention   to   terminate   this   agreement   if   such 
+ carrier   default   be   not   cure   within   a   further   ninety   ( 90 )   day   period ,   and   if   any   such   carrier   default   have   not   be   cure   within   such   further   period   of 
+ ninety   ( 90 )   day ,   shipper   may ,   by   write   notice   to   carrier ,   terminate   this   agreement ,   any   such   termination   to   be   effective   upon   receipt   of   such 
+ termination   notice   by   carrier . 
+ the   right   and   remedy   under   this   section   8.4   shall   be   in   addition   to   all   of   shipper ’s   other   right   and   remedy   under   this   agreement   or   the   tariff   or 
+ which   shipper   may   otherwise   have   at   law ,   in   equity   or   by   statute   or   regulation ,   and   the   exercise   of   one   or   more   right   or   remedy   shall   not   prejudice 
+ or   impair   the   concurrent   or   subsequent   exercise   by   shipper   of   other   right   or   remedy . 
+ article   ix 
+ warranty   of   title   and   product   interest 
+ 9.1   title   warranty .   shipper   warrant   to   carrier   that   at   the   time   shipper   product   be   deliver   to   a   receipt   point   hereunder ,   shipper   will   have 
+ good   title   or   the   right   to   deliver   such   shipper   product ,   and   that   such   shipper   product   shall   be   free   and   clear   of   all   lien   and   adverse 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ claim ,   other   than   statutory   lien   and   lien ,   encumbrance   or   claim   under   credit   facility   or   other   credit   arrangement   in   respect   of   borrow 
+ money .   shipper   agree ,   with   respect   to   the   shipper   product   deliver   by   to   carrier   hereunder ,   to   indemnify   carrier   against   all   suit ,   action ,   debt , 
+ account ,   damage ,   cost   ( include   attorney ’s   fee ) ,   loss   and   expense   arise   from   or   out   of   any   adverse   claim   of   any   and   all   person   to   or 
+ against   say   shipper   product   other   than   any   lien ,   claim   or   encumbrance   allege   to   have   arise   by ,   through   or   under   carrier   or   its   affiliate . 
+ 9.2   proceed   of   production .   shipper   agree   to   make   payment   of   all   royalty ,   override   royalty ,   production   payment ,   and   all   other 
+ payment   for   interest   attributable   to   shipper   product   deliver   hereunder   due   to   any   person   under   any   lease   or   other   document   in   accordance 
+ with   the   term   thereof . 
+ 9.3   indemnification .   shipper   agree   to   indemnify   and   hold   carrier   harmless   from   any   and   all   claim   and   loss   incur   in   connection   with ,   or 
+ in   any   manner   whatsoever   relate   to   payment   of   taxis ,   royalty ,   override   royalty ,   production   payment ,   and   all   other   payment   for   interest 
+ attributable   to   shipper   product   transport   hereunder . 
+ article   x 
+ waiver   of   certain   damage 
+ notwithstanding   anything   to   the   contrary   in   this   agreement ,   in   no   event   shall   either   party   be   liable   to 
+ the   other   party   or   its   affiliate ,   any   successor   in   interest   or   any   beneficiary   or   assignee   of   this   agreement 
+ for   any   consequential ,   multiple ,   incidental ,   indirect ,   special ,   exemplary   or   punitive   damage ,   or   loss   of 
+ profit   or   revenue   arise   out   of   or   relate   to   this   agreement   or   any   breach   hereof;   provide ,   however , 
+ the   foregoing   shall   not   be   construe   as   limit   an   obligation   of   a   party   hereunder   to   indemnify ,   defend   and 
+ hold   harmless   the   other   party   against   claim   assert   by   unaffiliated   third   party ,   include ,   but   not 
+ limit   to ,   third   party   claim   for   special ,   indirect ,   consequential ,   punitive   or   exemplary   damage .   this 
+ article   x   shall   apply   notwithstanding   the   sole ,   joint   or   concurrent   negligence ,   fault   or   responsibility   of 
+ the   party   whose   liability   be   waive   by   this   provision ,   or   any   other   event   or   condition ,   whether   anticipate 
+ or   unanticipated ,   and   regardless   of   whether   pre - exist   prior   to   the   date   of   this   agreement . 
+ article   xi 
+ force   majeure 
+ 11.1   suspension   of   obligation .   in   the   event   carrier   or   shipper   be   render   unable ,   wholly   or   in   part ,   by   reason   of   force   majeure   to   carry   out 
+ its   obligation   under   this   agreement   ( other   than   the   obligation   to   make   payment   of   amount   due   hereunder ,   include   without 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ limitation ,   payment   of   fee   due   hereunder ) ,   it   be   agree   that   such   party   shall   give   notice   and   reasonably   full   particular   of   such   force   majeure ,   in 
+ writing ,   or   other   electronic   mean   to   the   other   party   within   a   reasonable   time   after   the   occurrence   of   the   cause   rely   on ,   and   the   obligation   of   the 
+ party   give   such   notice ,   so   far   as   they   be   affect   by   such   force   majeure ,   shall   be   suspend   during   the   continuance   of   any   inability   so   cause , 
+ but   for   no   long   period ,   and   such   cause   shall ,   so   far   as   possible ,   be   remedie   with   all   reasonable   dispatch .   it   be   understand   and   agree   that   the 
+ settlement   of   strike   or   lockout   shall   be   entirely   within   the   discretion   of   the   party   have   the   difficulty ,   and   that   the   above   requirement   that   any 
+ force   majeure   shall   be   remedie   with   all   reasonable   dispatch   shall   not   require   the   settlement   of   strike   or   lockout   by   accede   to   the   demand   of 
+ the   oppose   party   when   such   course   be   inadvisable   in   the   discretion   of   the   party   have   the   difficulty . 
+ 11.2   definition   of   force   majeure .   the   term   " force   majeure "   as   use   herein   shall   mean   act   of   god;   strike ,   lockout ,   or   other   industrial 
+ disturbances;   condition   arise   from   a   change   in   governmental   law ,   order ,   rule ,   or   regulations;   act   of   public   enemy;   wars;   blockades; 
+ insurrections;   riots;   epidemics;   landslides;   lightning;   earthquakes;   fires;   storms;   floods;   washouts;   arrest   and   restraint   of   government   and 
+ people;   civil   disturbances;   explosions;   breakage   or   accident   to   machinery   or   line   of   pipe;   the   necessity   for   make   repair ,   test ,   alteration ,   or 
+ perform   maintenance   to   machinery   or   line   of   pipe;   schedule   maintenance;   freeze   of   well   or   line   of   pipe;   partial   or   entire   failure   of   well , 
+ processing ,   or   gasification   and   gas   manufacturing   facilities;   order   or   directive   of ,   or   proceeding   initiate   by ,   any   governmental   authority;   and 
+ any   other   cause ,   whether   of   the   kind   herein   enumerate   or   otherwise ,   not   within   the   control   of   the   party   claim   relief   hereunder ,   and   which   by 
+ the   exercise   of   due   diligence ,   such   party   be   unable   to   prevent   or   overcome .   such   term   shall   likewise   include   those   instance   ( a )   where   either   carrier 
+ or   shipper   be   require   to   obtain   servitude ,   right - of - way ,   grant ,   permit   or   license   to   enable   such   party   to   fulfill   its   obligation   under   this 
+ agreement   and   be   unable   to   acquire   or   experience   delay   in   acquire   such   servitude ,   right - of - way ,   grant ,   permit   or   license ,   at   reasonable 
+ cost ,   and   after   the   exercise   of   reasonable   diligence ,   and   ( b )   the   partial   or   entire   failure   or   refusal   of   third   party   operator   to   receive   or   deliver   gas , 
+ or   increase   in   pressure   of   upstream   or   downstream   pipeline .   force   majeure   shall   not   include   failure   of   product   supply   due   to   pricing 
+ consideration . 
+ 11.3   termination   base   on   carrier   force   majeure .   if   as   a   result   of   an   event   of   carrier   force   majeure ,   carrier   provide   no   service   to   shipper 
+ for   a   period   of   at   least   twelve   ( 12 )   consecutive   month ,   either   party   shall   be   entitle   to   terminate   this   agreement   by   write   notice   to   the   other 
+ party   give   at   any   time   after   the   expiration   of   such   twelve   ( 12 )   month   period ,   but   prior   to   the   cessation   of   the   applicable   event   of   carrier   force 
+ majeure .   shipper ’s   termination   right   under   this   section   11.3   shall   be   subject   to   its   compliance   with   section   14.2   in   connection   with   any   certificate , 
+ approval ,   authorization   and   permit   require   by   carrier   as   a   result   of   the   event   of   carrier   force   majeure . 
+ article   xii 
+ dispute   resolution 
+ 12.1   resolution   of   dispute .   any   dispute   shall   be   resolve   pursuant   to   the   provision   of   this   article   xii ,   which   shall   be   the   sole   and 
+ exclusive   procedure   for   the   resolution   of   any 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ such   dispute .   any   party   that   fail   to   first   attempt   to   resolve   any   dispute   use   direct   negotiation   shall   pay   all   legal   and   consulting   fee   and   cost 
+ incur   by   the   other   party   in   any   suit ,   action ,   or   proceed   to   enforce   the   term   of   this   article   xii .   while   the   procedure   in   this   article   xii 
+ be   pende ,   each   party   shall   continue   to   perform   its   exist   obligation   under   the   agreement   to   the   extent   those   obligation   be   not   the   subject   of 
+ the   dispute . 
+ 12.2   dispute   notice .   prior   to   submit   any   dispute   for   resolution   by   a   court ,   a   party   shall   provide   write   notice   ( a   " dispute   notice " )   to   the 
+ other   of   the   occurrence   of   such   dispute .   the   dispute   notice   shall   contain   ( i )   a   concise   statement   describe   the   dispute ,   include   a   description   of 
+ its   nature ,   circumstance   and   cause ,   ( ii )   an   explanation   of   the   basis   and   justification   for   the   dispute ,   include   reference   to   any   pertinent 
+ provision(s )   of   the   agreement ,   ( iii )   if   applicable ,   the   estimate   dollar   amount   of   the   dispute   and   how   that   estimate   be   determine ,   ( iv )   the   claim 
+ party ’s   desire   resolution ,   and   ( v )   any   other   information   the   claim   party   deem   relevant . 
+ 12.3   direct   negotiation .   commencing   within   thirty   ( 30 )   day   after   the   dispute   notice   be   receive   and   concluding   fifteen   ( 15 )   business   day 
+ thereafter ,   the   authorize   representative   of   the   party   with   decision - make   authority   shall   meet   in   person   in   houston ,   texas   ( or   in   a   place 
+ mutually   agree   upon   by   the   party   to   the   dispute )   and   confer ,   in   good   faith ,   to   seek   to   resolve   the   dispute   raise   in   the   dispute   notice .   if   the 
+ party   be   unable   to   resolve   the   dispute   for   any   reason   within   such   fifteen   ( 15 )   business   day   period ,   then   either   party   shall   be   entitle   to   pursue 
+ any   remedy   available   at   law   or   in   equity;   provide ,   however ,   this   section   12.3   shall   not   limit   a   party ’s   right   to   initiate   litigation   prior   to   the 
+ expiration   of   the   time   period   set   forth   in   this   section   12.3   if   application   of   such   limitation   would   prevent   a   party   from   file   a   lawsuit   or   claim 
+ within   the   applicable   period   for   filing   lawsuit   ( e.g.   statute   of   limitation ,   prescription ,   etc . ) . 
+ 12.4   jurisdiction   and   venue .   the   party   hereby   irrevocably   consent   to   the   exclusive   jurisdiction   of   the   state   or   federal   court   locate   in   harris 
+ county ,   texas .   the   party   hereby   irrevocably   and   unconditionally   waive ,   to   the   full   extent   they   may   legally   and   effectively   do   so ,   any   objection 
+ which   they   may   now   or   hereafter   have   to   the   laying   of   venue   of   any   suit ,   action   or   proceed   arise   out   of   or   relate   to   this   agreement   or   the 
+ transaction   contemplate   hereby   in   any   federal   or   state   court   locate   in   harrison   county ,   texas . 
+ 12.5   cost   and   expense .   the   prevail   party   in   any   litigation   pertain   to   any   dispute   hereunder   shall   be   entitle   to   recover   its   reasonable 
+ cost ,   expense   and   attorney ’s   fee   in   connection   with   such   litigation . 
+ 12.6   waiver   of   jury   trial .   the   party   hereby   waive   all   right   to   a   trial   by   jury   for   any   and   all   dispute . 
+ 12.7   confidentiality   of   dispute   resolution . 
+ ( a )   the   party   agree   that   any   dispute   and   any   negotiation   among   the   party   in   relation   to   any   dispute   shall   be   subject   to   the 
+ confidentiality   provision   of   this   agreement . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ( b )   the   party   far   agree   that   any   information ,   document   or   material   produce   for   the   purpose   of ,   or   use   in ,   negotiation 
+ of   any   dispute   shall   be   subject   to   the   confidentiality   provision   of   this   section   12.7 .   the   party   far   agree   that   upon   the   request   of   the 
+ provide   party ,   any   information ,   document   or   material   produce   by   such   party   for   the   purpose   of   negotiation   of   any   dispute   shall   be   destroy 
+ or   return   to   the   provide   party   within   thirty   ( 30 )   day   of   the   resolution   of   such   dispute   or   the   issuance   of   a   final   decision   with   respect   to   such 
+ dispute;   provide ,   however ,   any   confidential   information   ( i )   find   in   draft ,   note ,   study   and   other   document   prepare   by   or   for   the   receive 
+ party   or   its   representative ,   or   ( ii )   find   in   electronic   format   as   part   of   receive   party ’s   off - site   or   on - site   datum   storage / archival   process   system ,   will 
+ be   hold   by   the   receive   party   or   destroy   at   the   receive   party ’s   option . 
+ ( c )   without   limit   the   foregoing ,   the   party   agree   that   disclosure   of   confidential   information   may   be   make   to   third   party : 
+ ( 1 )   in   order   to   enforce   any   of   the   provision   of   this   agreement   or   the   tariff ,   include   without   limitation ,   any   court 
+ judgment . 
+ ( 2 )   who   consist   of   a   party ’s   auditor ,   legal   adviser ,   insurer   or   affiliate . 
+ ( 3 )   if   the   party   make   such   disclosure   be   under   a   legal   or   regulatory   obligation   to   make   such   disclosure ,   but   limit   to   the 
+ extent   of   such   legal   obligation . 
+ ( 4 )   with   the   prior   write   consent   of   the   other   party   not   make   the   disclosure . 
+ ( d )   the   party   agree   to   submit   to   the   jurisdiction   of   a   court   of   competent   jurisdiction   locate   in   harris   county ,   texas   for   the 
+ purpose   of   any   proceeding   to   enforce   this   section   12.7   and ,   except   as   permit   under   this   section   12.7(c ) ,   the   receive   party   shall   prevent   any 
+ information ,   document   or   material   belong   to   a   disclose   party   from   be   disclose   to   third   party . 
+ article   xiii 
+ financial   assurance 
+ 13.1   financial   assurance .   if   shipper   have   fail   to   pay   any   amount   when   due   under   this   agreement   and   if   such   non - payment   be   not   be 
+ dispute   in   good   faith   by   shipper ,   carrier   shall   have   the   right   to   request   and   receive   from   shipper   adequate   assurance   of   performance   ( " financial 
+ assurance " )   which   shall   mean   credit   support   in   a   form   reasonably   acceptable   to   carrier   and   in   an   amount   and   for   the   term   reasonably   acceptable   to 
+ carrier .   any   of   the   follow   shall   be   an   acceptable   form   of   credit   support : 
+
+ ( a ) 
+ an   irrevocable   standby   letter   of   credit   from   a   bank   satisfactory   to   carrier; 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+
+ ( b ) 
+ provide   a   prepayment   or   a   deposit   in   advance   of   the   month   in   which   service   hereunder   be   to   be   provided;   or 
+
+ ( c ) 
+ a   performance   bond   issue   by   a   person   satisfactory   to   carrier . 
+ if   the   credit   of   shipper ’s   guarantor   be   satisfactory   in   carrier ’s   opinion ,   a   demand   for   financial   assurance   can   be   satisfy   with   a   guarantee 
+ issue   on   behalf   of   shipper   in   a   form   acceptable   to   carrier ,   but   only   for   as   long   as   the   credit   of   shipper ’s   guarantor   continue   to   be   acceptable   to 
+ carrier .   carrier   acknowledge   and   agree   that   memorial   resource   development   corp .   be   a   satisfactory   guarantor . 
+ should   shipper   or   its   guarantor   fail   to   provide   financial   assurance   within   ten   ( 10 )   business   day   after   receipt   of   write   demand   for   such 
+ assurance ,   then   carrier   shall   have   the   right   to   suspend   performance   under   this   agreement   until   such   time   as   shipper   furnish   financial 
+ assurance .   for   the   avoidance   of   doubt ,   such   suspension   of   performance   by   carrier   shall   not   relieve   shipper   of   its   obligation   to   make   payment   of 
+ amount   due   hereunder ,   include ,   without   limitation ,   payment   of   fee   due   hereunder . 
+ if   during   the   term ,   carrier   have   fail   to   pay   any   amount   when   due   under   this   agreement   and   if   such   non - payment   be   not   be   dispute   in 
+ good   faith   by   carrier ,   shipper   shall   have   the   right   to   request   and   receive   from   carrier   adequate   financial   assurance   under   similar   term   and 
+ condition   as   describe   above ,   include   the   right   to   suspend   performance   under   this   agreement   until   such   time   as   carrier   furnish   financial 
+ assurance . 
+ article   xiv 
+ duty   to   support 
+ 14.1   arm ’s   length   negotiation .   each   of   the   party   acknowledge   and   agree   that   this   agreement   be   the   result   of   good   faith ,   arm ’s   length 
+ negotiation   which   have   result   in   an   agreement   that   be   fair   and   equitable   to   carrier   and   shipper . 
+ 14.2   shipper   support .   shipper   hereby   agree ,   upon   write   request   by   carrier   provide   at   least   ten   ( 10 )   day   prior   to   the   deadline   for   such 
+ action :   ( a )   to   not   object   to   carrier ’s   application   for   necessary   certificate ,   approval ,   authorization   and   permit   of   the   ferc   and   louisiana 
+ regulating   body ,   if   any ,   in   relation   to   the   system;   ( b )   to   not   object   to   the   tariff   rate   calculate   in   accordance   with   the   term   of   this   agreement , 
+ and   not   take   any   action   directly   or   indirectly   that   could   be   interpret   as   evidence   of   shipper ’s   lack   of   support   for   such   tariff   rates;   and   ( c )   to   not 
+ object   to   the   pro   forma   tariff   materially   in   the   form   attach   as   exhibit   a ,   in   any   and   all   regulatory   proceeding   relate   thereto   and   not   take   any 
+ action   or   inaction   that   could   be   interpret   as   evidence   of   shipper ’s   lack   of   support   therefor;   provide   that   nothing   in   the   foregoing   shall   obligate 
+ shipper   to   support   future   change   to   the   tariff   rate   that   be   inconsistent   with   this   agreement ,   or   prevent   shipper   from   oppose   any   position 
+ take   by   carrier   before   ferc   and/or   louisiana   regulate   body   that   be   inconsistent   with   this   agreement . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ 14.3   no   tariff   rate   revision   proceeding .   each   of   the   party   far   acknowledge   that   the   setting   of   tariff   rate   for   the   system   be   subject   to 
+ the   approval   of ,   and   potential   modification   by ,   the   ferc ,   from   time   to   time ,   and   each   of   the   party   hereby   agree   not   to ,   directly   or   indirectly , 
+ commence   or   support   any   application ,   motion   or   other   proceeding   ( a   " tariff   rate   revision   proceeding " )   before   the   ferc   for   the   purpose   of 
+ request   the   ferc   to   set   tariff   rate   applicable   to   the   system   which   be   inconsistent   with   this   agreement . 
+ 14.4   third   party   proceeding .   in   the   event   of   any   tariff   rate   revision   proceeding   be   commence   by   a   third   party   or   by   the   ferc   itself , 
+ and   in   the   event   of   any   other   proceeding   pursuant   to   which   the   tariff   rate   for   the   system   may   be   review   by   the   ferc   or   other   governmental 
+ authority   have   jurisdiction ,   shipper   agree   to   not   object   to   the   setting   of   tariff   rate   applicable   to   the   system   that   be   consistent   with   this 
+ agreement .   in   the   event   of   any   other   proceeding   challenge   any   of   the   term   of   this   agreement   be   commence   by   a   third   party   or   by   the 
+ ferc   itself ,   shipper   agree   to   provide   all   reasonable   support   and   cooperation   in   defend   such   term   or   otherwise   resolve   the   complaint   or 
+ other   challenge   as   shall   be   reasonably   request   by   carrier . 
+ article   xv  
+ common   carrier   and   compliance   with   applicable   law 
+ 15.1   common   carrier   pipeline .   the   system   will   be   operate   as   a   common   carrier   pipeline ,   and   shipper ’s   right   hereunder   shall   be   subject   to   all 
+ law   relate   to   and   govern   the   operation   of   common   carrier   pipeline ,   include ,   without   limitation ,   law   and   regulation   that   prevent 
+ discrimination   in   favor   of   any   give   shipper   or   the   provision   of   service   for   consideration   other   than   the   rate   set   forth   in   a   publish   tariff .   the   tariff 
+ shall   apply   to   the   service   provide   hereunder ,   and   if   there   be   a   conflict   between   a   provision   of   this   agreement   and   the   tariff ,   the   tariff   shall   apply . 
+ carrier   reserve   the   right   to   modify   or   amend   the   tariff ,   in   its   sole   discretion ,   as   it   deem   necessary;   provide ,   however ,   any   such   modification   or 
+ amendment   shall   be   consistent   with   this   agreement . 
+ 15.2   compliance   with   law .   both   party   shall ,   in   carry   out   the   term   and   provision   of   this   agreement ,   abide   by   all   present   and   future 
+ law   of   any   governmental   authority . 
+ article   xvi  
+ assignment 
+ 16.1   restriction   on   assignment .   this   agreement   may   not   be   assign ,   dispose   of ,   alienate   or   otherwise   transfer   by   either   party ,   in 
+ whole   or   in   part ,   without   the   prior   write   consent   of   the   other   party ,   which   consent   shall   not   be   unreasonably   withhold ,   condition   or   delay , 
+ except   as   provide   below . 
+ 16.2   permit   assignment .   notwithstanding   the   foregoing ,   ( i )   either   party   may   assign   this   agreement   to   an   affiliate   of   such   party   without 
+ the   consent   of   the   other   party ,   ( ii )   either   party   may   pledge   this   agreement   to   secure   any   credit   facility   or   indebtedness   of   such 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ party   or   its   affiliate   without   the   consent   of   the   other   party ,   ( iii )   carrier   may   assign   this   agreement   without   shipper ’s   consent   in   connection   with 
+ the   sale   or   transfer   of   the   system ,   and   ( iv )   shipper   may   assign   or   partially   assign   this   agreement   without   carrier ’s   consent   in   connection   with   the 
+ sale   or   transfer   of   all   or   part   of   shipper ’s   ownership   interest   in   the   well   ( or   in   the   land   upon   which   such   well   be   locate )   produce   gas   from 
+ which   the   product   deliver   hereunder   be   extract ,   provide   that   such   assignee   have   a   credit   rating   reasonably   acceptable   to   carrier   at   the   time   of 
+ such   sale   or   transfer .   in   the   case   of   transfer   under   clause   ( iv )   above ,   the   transferor   shall   be   release   from   its   obligation   and   liability   under   this 
+ agreement   to   the   extent   of   the   obligation   assume   by   the   transferee ,   provide   that   shipper ’s   and   such   transferee ’s   combine   obligation   to 
+ carrier   shall   be   no   great   than   shipper ’s   obligation   to   carrier   prior   to   such   transfer . 
+ 16.3   collateral   assignment .   either   party   may   grant   a   lien   or   security   interest   in   this   agreement   to   any   person   as   security   in   connection   with 
+ arrange   financing   for   such   party   or   any   affiliate   of   such   party   ( and   each   party   agree   to   execute   all   consent ,   estoppel ,   waiver   and   other 
+ document   and   instrument   reasonable   request   by   any   such   person ) . 
+ article   xvii 
+ taxis 
+ shipper   shall   pay ,   or   cause   to   be   pay ,   all   production ,   severance ,   gross   receipt ,   ad   valorem ,   and   similar   taxis ,   and   all   surcharge ,   levy   or 
+ impose   on   it   by   any   governmental   authority   with   respect   to   shipper   product .   in   the   event   carrier   be   require   to   pay   or   remit   any   such   tax   or 
+ surcharge   owe   by   shipper ,   shipper   shall   reimburse   carrier   for   such   tax   or   surcharge   pursuant   to   carrier ’s   invoice   for   the   same .   shipper   hereby 
+ agree   to   indemnify ,   defend   and   hold   harmless   carrier   from   and   against   any   and   all   claim   and   loss   arise   out   of   or   relate   to   such   taxis   or 
+ surcharge .   this   indemnity   and   defense   obligation   shall   survive   the   expiration   or   termination   of   this   agreement .   carrier   shall   be   responsible   for   all 
+ taxis   or   surcharge   levy   or   impose   on   it   by   any   governmental   authority   with   respect   to   the   system   and   carrier ’s   other   facility ,   include 
+ without   limitation ,   carrier ’s   gas   processing   plant . 
+ article   xviii 
+ notice   and   statement 
+ 18.1   notice .   any   notice ,   statement ,   payment ,   claim   or   other   communication   require   or   permit   hereunder   shall   be   in   writing   and   shall   be 
+ send   by :   ( i )   facsimile   transmission;   ( ii )   deliver   by   hand;   ( iii )   send   by   united   state   mail   with   all   postage   fully   prepaid;   or   ( iv )   by   courier   with 
+ charge   pay   in   accordance   with   the   customary   arrangement   establish   by   such   courier ,   in   each   of   the   forego   case   address   to   the   party   at 
+ the   follow   address : 
+
+ carrier 
+ notice   and   correspondence : 
+ penntex   north   louisiana   operating ,   llc 
+ attn :   general   counsel 
+ 11931   wickchester ,   suite   300 
+ houston ,   texas   77043 
+ fax :   ( 832 )   456 - 4050 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ accounting   matter : 
+ penntex   north   louisiana   operating ,   llc 
+ attn :   vice   president ,   accounting 
+ 11931   wickchester ,   suite   300 
+ houston ,   texas   77043 
+ fax :   ( 832 )   456 - 4050 
+ shipper 
+ notice   and   correspondence : 
+ mrd   operating   llc 
+ c / o   memorial   resource   development   corp . 
+ 500   dallas   street ,   suite   1800 
+ houston ,   tx   77002 
+ attn :   general   counsel 
+ e - mail :   kroanememorialrd.com 
+
+ with   a   copy   to : 
+
+ attn :   director ,   marketing   &   midstream 
+ e - mail :   jeremy.bolandermemorialrd.com 
+ such   notice ,   statement ,   payment ,   claim   or   other   communication   shall   be   deem   receive   as   follow :   ( i )   if   deliver   personally ,   upon 
+ delivery;   ( ii )   if   send   by   united   state   mail ,   whether   by   express   mail ,   register   mail ,   certify   mail   or   regular   mail ,   the   day   receipt   be   refuse   or   be 
+ confirm   orally   or   in   writing   by   the   receive   party;   ( iii )   if   send   by   a   courier   service ,   upon   delivery;   or   ( iv )   if   send   by   facsimile ,   upon   completion   of 
+ the   transmission   thereof ,   except   that   if   such   transmission   be   on   any   day   other   than   a   business   day ,   or   on   or   after   4:00   p.m. ,   central   clock   time ,   such 
+ notice   shall   be   deem   to   be   receive   on   the   next   business   day . 
+ 18.2   change   of   address .   notice   of   change   of   address   of   either   of   the   party   shall   be   give   in   writing   to   the   other   party   in   the   manner 
+ aforesaid   and   shall   be   observe   in   the   giving   of   all   future   notice ,   statement ,   payment ,   claims   or   other   communication   require   or   permit   to 
+ be   give   hereunder . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ article   xix 
+ miscellaneous 
+ 19.1   entire   agreement;   amendment .   this   agreement   and   the   exhibit   and   schedule   hereto   constitute   the   entire   agreement   and 
+ understanding   between   the   party   with   respect   to   the   subject   matter   hereof   and   thereof ,   supersede   all   prior   agreement   and   understanding   with 
+ respect   thereto ,   and   may   be   amend ,   restate   or   supplement   only   by   write   agreement   of   the   party .   notwithstanding   the   foregoing ,   the   tariff 
+ be   subject   to   amendment   by   carrier   from   time   to   time   subject   to   applicable   law   and   section   15.1   hereof . 
+ 19.2   govern   law .   this   agreement   shall   be   govern   and   construe   in   accordance   with   the   law   of   the   state   of   texas   without   give   effect 
+ to   the   conflict   of   law   rule   thereof . 
+ 19.3   no   draft   presumption .   no   presumption   will   operate   in   favor   of   or   against   any   party   as   a   result   of   any   responsibility   that   any   party 
+ may   have   have   for   draft   this   agreement .   shipper   and   carrier   acknowledge   and   mutually   agree   that   this   agreement   and   all   content   herein   be 
+ jointly   prepare   by   the   party . 
+ 19.4   waiver .   no   waiver   of   any   term ,   provision   or   condition   of   this   agreement   shall   be   effective   unless   in   writing   sign   by   the   party ,   and   no 
+ such   waiver   shall   be   deem   to   be   or   construe   as   a   far   or   continue   waiver   of   any   such   term ,   provision   or   condition   or   as   a   waiver   of   any 
+ other   term ,   provision   or   condition   of   the   agreement ,   unless   specifically   so   state   in   such   write   waiver . 
+ 19.5   no   third   party   beneficiary .   except   for   person   indemnify   hereunder ,   this   agreement   be   not   for   the   benefit   of   any   third   party   and 
+ nothing   herein ,   express   or   imply ,   confer   any   right   or   remedy   upon   any   person   not   a   party   hereto . 
+ 19.6   no   partnership .   it   be   not   the   intention   of   the   party   to   create ,   nor   be   there   create   hereby ,   a   partnership ,   trust ,   joint   venture   or 
+ association .   the   status   of   each   party   hereunder   be   solely   that   of   an   independent   contractor . 
+ 19.7   survival .   notwithstanding   the   termination   of   this   agreement   for   any   reason ,   ( a )   article   vi ,   article   viii ,   article   ix ,   article   x , 
+ article   xii ,   article   xiv ,   article   xvii ,   article   xviii   and   article   xix   shall   survive   the   termination   of   this   agreement ,   and   ( b )   each   party 
+ to   this   agreement   will   be   liable   for   all   of   its   accrue   obligation   hereunder   up   to   and   include   the   date   on   which   the   termination   become   effective . 
+ 19.8   heading .   the   heading   and   caption   in   this   agreement   have   be   insert   for   convenience   of   reference   only   and   shall   not   define   or 
+ limit   any   of   the   term   and   provision   hereof . 
+ 19.9   rule   of   construction .   in   construe   this   agreement ,   the   follow   principle   shall   be   follow : 
+ ( a )   example   shall   not   be   construe   to   limit ,   expressly   or   by   implication ,   the   matter   they   illustrate; 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ( b )   the   word   " include "   and   its   syntactical   variant   mean   " include ,   but   be   not   limit   to "   and   correspond   syntactical   variant 
+ expressions; 
+ ( c )   the   plural   shall   be   deem   to   include   the   singular   and   vice   versa ,   as   applicable; 
+ ( d )   all   reference   in   this   agreement   to   an   " article , "   " section , "   " subsection , "   or   " exhibit "   shall   be   to   an   article ,   section , 
+ subsection ,   or   exhibit   of   this   agreement ,   unless   the   context   require   otherwise; 
+ ( e )   unless   the   context   otherwise   require ,   the   word   " this   agreement , "   " hereof , "   " hereunder , "   " herein , "   " hereby , "   or   word   of 
+ similar   import   shall   refer   to   this   agreement   as   a   whole   and   not   to   a   particular   article ,   section ,   subsection ,   clause   or   other   subdivision   hereof;   and 
+ ( f )   each   exhibit   and   schedule   to   this   agreement   be   attach   hereto   and   incorporate   herein   as   a   part   of   this   agreement ,   but   if 
+ there   be   any   conflict   or   inconsistency   between   the   main   body   of   this   agreement   and   any   exhibit   or   schedule ,   the   provision   of   the   main   body   of 
+ this   agreement   shall   prevail ,   except   as   to   any   conflict   with   the   tariff . 
+ 19.10   severability .   if   any   provision   of   this   agreement   shall   be   hold   to   be   invalid ,   illegal   or   unenforceable ,   ( i )   the   validity ,   legality   and/or 
+ enforceability   of   the   remain   provision   shall   not ,   in   any   way ,   be   affect   or   impair   thereby   and   ( ii )   in   lieu   of   such   invalid ,   illegal   or 
+ unenforceable   provision ,   there   shall   be   automatically   add   to   this   agreement   a   provision   as   similar   to   such   invalid ,   illegal   or   unenforceable 
+ provision   as   may   be   possible   and   be   legal ,   valid   and   enforceable . 
+ 19.11   further   assurance .   each   party   shall   take   such   act   and   execute   and   deliver   such   document   as   may   be   reasonably   require   to 
+ effectuate   the   purpose   of   this   agreement . 
+ 19.12   no   inducement .   no   director ,   employee ,   or   agent   of   any   party   shall   give   or   receive   any   commission ,   fee ,   rebate ,   gift ,   or   entertainment   of 
+ significant   cost   or   value   in   connection   with   this   agreement . 
+ 19.13   counterpart   execution .   this   agreement   may   be   execute   in   any   number   of   counterpart ,   each   of   which   shall   be   consider   an   original , 
+ and   all   of   which   shall   be   consider   one   and   the   same   instrument .   neither   party   shall   be   bind   until   both   party   have   execute   a   counterpart . 
+ facsimile   or   other   electronic   copy   of   signature   shall   constitute   original   signature   for   all   purpose   of   this   agreement   and   any   enforcement 
+ hereof . 
+ 19.14   confidentiality . 
+ ( a )   each   party   agree   that   it   shall   maintain   all   term   and   condition   of   this   agreement   in   confidence ,   and   that   it   shall   not   cause   or   permit 
+ disclosure   thereof   without   the   express   write 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ consent   of   the   other   party .   the   standard   of   care   to   be   employ   by   each   party   with   respect   to   the   other   party ’s   confidential   information   shall   be   the 
+ standard   of   care   employ   by   a   reasonable   person   in   protect   confidential   information . 
+ ( b )   permit   disclosure .   notwithstanding   section   19.14(a )   of   this   agreement ,   disclosure   of   any   term   and   provision   of   this   agreement 
+ otherwise   prohibit   may   be   make   by   a   party   ( i )   to   the   extent   necessary   for   such   party   to   enforce   its   right   hereunder   against   the   other   party;   ( ii )   to 
+ the   extent   to   which   a   party   be   require   to   disclose   all   or   part   of   this   agreement   by   a   statute   or   by   the   order   or   rule   of   a   court ,   agency ,   or   other 
+ governmental   body   exercise   jurisdiction   over   the   subject   matter   hereof ,   by   order ,   by   regulation ,   or   by   other   compulsory   process   ( include ,   but 
+ not   limit   to ,   deposition ,   subpoena ,   interrogatory ,   or   request   for   production   of   documents);   ( iii )   to   the   extent   require   by   the   applicable   regulation 
+ of   a   security   or   commodity   exchange;   ( iv )   to   a   third   person   in   connection   with   a   propose   sale   or   other   transfer   of   a   party ’s   interest   in   this 
+ agreement ,   provide   such   third   person   agree   in   writing   to   be   bind   by   confidentiality   term   no   less   restrictive   than   those   set   forth   in   this   section 
+ 19.14;   ( v )   to   its   own   director ,   officer ,   employee ,   agent   and   representatives;   ( vi )   to   an   affiliate;   ( vii )   to   a   co - working   interest   owner   or   royalty 
+ owner   of   shipper   product   deliver   hereunder ,   provide   such   co - working   interest   owner   or   royalty   owner   agree   in   writing   to   be   bind   by   the 
+ term   of   this   section   19.14;   ( viii )   to   the   extent   any   such   term   or   provision   become   public   information   through   no   fault   of   any   party;   or   ( ix )   to   a 
+ bank   or   other   financial   institution ,   and   their   agent   and   representative ,   in   connection   with   a   party   arrange   for   funding . 
+ ( c )   notification .   if   a   party   be   or   become   aware   of   a   fact ,   obligation ,   or   circumstance   that   have   result   or   may   result   in   a   disclosure   of   any   of 
+ the   term   and   condition   of   this   agreement   authorize   by   section   19.14(b )   ( ii ) ,   ( iii )   or   ( iv )   above ,   it   shall   so   notify   in   write   the   other   party   promptly 
+ and   shall   provide   documentation   or   an   explanation   of   such   disclosure   as   soon   as   it   be   available . 
+ ( d )   party   responsibility .   each   party   shall   be   deem   solely   responsible   and   liable   for   the   action   of   its   director ,   officer ,   employee ,   agent , 
+ representative   and   affiliate   for   maintain   the   confidentiality   commitment   of   this   section   19.14 . 
+ ( e )   public   announcement .   the   party   agree   that   prior   to   make   any   public   announcement   or   statement   with   respect   to   this   agreement   or 
+ the   transaction   represent   herein ,   the   party   desiring   to   make   such   public   announcement   or   statement   shall   provide   the   other   party   with   a   copy   of 
+ the   propose   announcement   or   statement   prior   to   the   intend   release   date   of   such   announcement .   the   other   party   shall   thereafter   consult   with 
+ the   party   desiring   to   make   the   release ,   and   the   party   shall   exercise   their   reasonable   good   effort   to   ( i )   agree   upon   the   text   of   a   joint   public 
+ announcement   or   statement   to   be   make   by   both   such   party   or   ( ii )   in   the   case   of   a   statement   to   be   make   solely   by   one   party ,   obtain   approval   of   the 
+ other   party   to   the   text   of   a   public   announcement   or   statement .   nothing   contain   in   this   section   19.14   shall   be   construe   to   require   any   party   to 
+ obtain   approval   of   any   other   party   to   disclose   information   with   respect   to   this   agreement   or   the   transaction   represent   herein   to   any 
+ governmental   authority   to   the   extent   require   by   applicable   law   or   necessary   to   comply   with   disclosure   requirement   of   the   security   and 
+ exchange   commission ,   new   york   stock   exchange ,   nasdaq   stock   market ,   or   any   other   regulate   stock   exchange . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ [ signature   page   follow ] 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ in   witness   whereof ,   the   party   have   execute   this   agreement   to   be   effective   as   of   the   effective   date . 
+
+ carrier : 
+ penntex   north   louisiana   operating ,   llc 
+ by : 
+ /s/   robert   o.   bond 
+ name : robert   o.   bond 
+ title : 
+ chief   operate   officer 
+ shipper : 
+ mrd   operating   llc 
+ by :   memorial   resource   development   corp . ,   its   sole 
+ member 
+ by : 
+ /s/   kyle   roane 
+ name : kyle   n.   roane 
+ title : 
+ senior   vice   president 
+
+ signature   page   to   the   transportation   service   agreement 
+ ( mrd   operating   llc ) 
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ exhibit   a 
+ tariff 
+ ( see   attach ) 
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+ [ penntex   north   louisiana   operating ,   llc ] 
+ local   tariff 
+ contain   rate ,   rule ,   and   regulation 
+ govern   the   transportation 
+ of 
+ natural   gas   liquid 
+ by   pipeline 
+
+ the   provision   publish   herein   will ,   if   effective ,   not   result   in   an   effect   on   the   quality   of   human   environment . 
+ file   in   compliance   with   18   c.f.r .   §   342.2(a )   ( establish   initial   rate ) .   
+ request   for   special   permission 
+ issue   on   [   (   ) ]   day ’s   notice   under   authority   of   18   c.f.r .   §   341.14 .   this   tariff   publication   be   subject   to   refund   pende   a   30 - day   review   period . ] 
+
+ issue   date :   [   ] ,   2015 
+ effective   date :   [   ] ,   2015 
+
+ issue   and   compile   by : 
+ [ contact   name ] 
+ [ penntex   north   louisiana   llc ] 
+ 11931   wickchester   lane ,   suite   300 
+ houston ,   tx   77043 
+ [ phone ] 
+ [ facsimile ] 
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ table   of   content 
+
+ section   I   table   of   rate 
+
+ section   ii   rule   and   regulation 
+
+ 1 . 
+ definition 
+
+ 2 . 
+ commodity 
+
+ 3 . 
+ product   specification 
+
+ 4 . 
+ identity   of   product 
+
+ 5 . 
+ nomination   and   scheduling 
+
+ 6 . 
+ nomination   in   excess   of   capacity 
+
+ 7 . 
+ minimum   tender 
+
+ 8 . 
+ measurement   and   evidence   of   receipt   and   delivery 
+
+ 9 . 
+ origination   facility 
+
+ 10 . 
+ storage   of   product   in   transit 
+
+ 11 . 
+ destination   facility 
+
+ 12 . 
+ notice   of   arrival ,   delivery   at   destination 
+
+ 13 . 
+ title 
+
+ 14 . 
+ rate   applicable 
+
+ 15 . 
+ rate   applicable   from   intermediate   point 
+
+ 16 . 
+ payment   of   transportation   charge 
+
+ 17 . 
+ liability   of   carrier 
+
+ 18 . 
+ claim ,   suit ,   and   time   for   filing 
+
+ 19 . 
+ connection   policy 
+
+ 20 . 
+ common   stream   –   connect   carrier 
+
+ 21 . 
+ dedicate   rate 
+
+ 22 . 
+ incentive   rate 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+
+ f.e.r.c .   no .   1.0.0 
+
+ section   I 
+ table   of   rate 
+ uncommitted   rate 
+
+ from 
+ [ note   1 ] 
+
+ to 
+ [ note   2 ] 
+
+ uncommitted 
+ rate   in 
+ dollar   per 
+ barrel   of 
+ 42   u.s . 
+ gallon 
+
+ lincoln   parish ,   louisiana 
+
+ interconnection 
+ near 
+ ada ,   bienville 
+ parish , 
+ louisiana 
+
+ 1.85  
+ dedicate   rate   [ note   3 ]  
+
+ from 
+ [ note   1 ] 
+
+ to 
+ [ note   2 ] 
+
+ dedicate 
+ rate   in 
+ dollar   per 
+ barrel   of 
+ 42   u.s . 
+ gallon 
+
+ lincoln   parish ,   louisiana 
+
+ interconnection 
+ near 
+ ada ,   bienville 
+ parish , 
+ louisiana 
+
+ 1.68  
+ incentive   rate   [ note   4 ]  
+
+ from 
+ [ note   1 ] 
+
+ to 
+ [ note   2 ] 
+
+ monthly   volume 
+ in   barrel   per 
+ day 
+
+ incentive 
+ rate   in 
+ dollar   per 
+ barrel   of 
+ 42   u.s . 
+ gallon 
+
+ lincoln   parish ,   louisiana 
+
+ interconnection 
+ near 
+ ada ,   bienville 
+ parish , 
+ louisiana 
+
+ 0   –   2,500 
+ 2,501   or   great  
+
+ 1.68 
+ 1.47  
+ note   1 :   the   receipt   point   be   the   penntex   processing   plant   in   lincoln   parish ,   louisiana . 
+ note   2 :   the   delivery   point   be   the   interconnection   with   black   lake   pipeline   company   near   ada ,   bienville   parish ,   louisiana . 
+ note   3 :   dedicate   rate   be   applicable   to   a   dedicate   shipper   as   provide   for   in   item   21   of   this   tariff . 
+ note   4 :   incentive   rate   be   applicable   to   an   incentive   shipper   as   provide   for   in   item   22   of   this   tariff . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ section   ii 
+ rule   and   regulation 
+
+ 1 . 
+ definition : 
+ " barrel "   mean   a   barrel   of   forty - two   ( 42 )   gallon ,   united   state   measurement   at   sixty   ( 60 )   degree   fahrenheit   and   zero   ( 0 )   pound   per   square 
+ inch   gauge   pressure . 
+ " business   day "   mean   monday   through   friday   of   each   week ,   exclude   banking   holiday . 
+ " carrier "   mean   [ penntex   north   louisiana   operating ,   llc ] ,   a   delaware   limit   liability   company . 
+ " commit   volume "   mean   the   volume   of   product   that   an   incentive   shipper   have   commit   to   be   transport   on   the   system ,   or   make   a 
+ deficiency   payment   in   connection   therewith ,   for   a   number   of   year   as   mutually   agree   upon   in   the   incentive   shipper ’s   tsa . 
+ " common   stream(s ) "   mean   product   move   through   the   system   that   be   commingle   or   intermix   with   other   product   in   the   system . 
+ " consignee "   mean   the   party   to   whom   a   shipper   have   order   the   delivery   of   product . 
+ " dedicate   product "   mean   product   that   a   dedicate   shipper   have   dedicate   to   be   transport   on   the   system   but   as   to   which   shipper   have   no 
+ obligation   to   make   a   deficiency   payment ,   as   mutually   agree   upon   in   the   dedicate   shipper ’s   tsa . 
+ " dedicate   rate "   mean   the   rate   set   out   in   section   I   of   this   tariff   pay   by   a   dedicate   shipper   pursuant   to   a   tsa   that   have   dedicate 
+ product . 
+ " dedicate   shipper "   have   the   meaning   set   out   in   item   no .   21   of   this   tariff . 
+ " delivery   point "   mean   point   on   the   system   where   product   be   deliver   to   shipper   or   its   consignee ,   as   such   point   be   specify   by   carrier 
+ from   time   to   time   in   this   tariff . 
+ " incentive   rate "   mean   the   rate   set   out   in   section   I   of   this   tariff   pay   by   an   incentive   shipper   pursuant   to   a   tsa   that   have   a   commit 
+ volume . 
+ " incentive   shipper "   have   the   meaning   set   out   in   item   no .   21   of   this   tariff . 
+ " nomination "   or   " nominate "   mean   a   write   offer   ( in   form   and   context   specify   by   carrier )   make   by   a   shipper   or   its   designee   to   carrier   of   a 
+ state   quantity   of   product   for   transportation   from   a   specify   receipt   point   to   a   specify   delivery   point   in   accordance   with   this   tariff . 
+ " product(s ) "   mean   a   demethanize   mixture   of   natural   gas   liquid   comprise   primarily   of   ethane ,   propane ,   iso - butane ,   normal   butane ,   iso- 
+ pentane ,   normal   pentane ,   hexane   and   heavy   hydrocarbon ,   incidental   volume   of   methane ,   as   well   as   other   non - hydrocarbon   compound . 
+ " receipt   point "   mean   point   where   product   be   receive   into   the   system ,   as   such   point   be   specify   by   carrier   from   time   to   time   in   this 
+ tariff . 
+ " shipper "   mean   the   party   that   contract   with   carrier   for   transportation   of   product   on   the   system   in   accordance   with   this   tariff . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ " system "   mean   carrier ’s   pipeline   system   and   all   relate   facility   necessary   for   carrier   to   provide   transportation   service   from   the   receipt 
+ point   to   the   delivery   point . 
+ " tariff "   mean   carrier ’s   f.e.r.c .   tariff   no .   1.0.0   or   subsequent   reissue   thereof . 
+ " tender "   or   " tender "   mean   an   offer   of   delivery   by   a   shipper   to   carrier   of   a   state   quantity   of   product   for   transportation   from   a   specify 
+ receipt   point   to   a   specify   delivery   point   in   accordance   with   this   tariff . 
+ " tsa "   mean   a   transportation   service   agreement   execute   by   carrier   and   a   shipper   for   transportation   on   the   system . 
+ " uncommitted   rate "   mean   the   rate   set   out   in   section   I   of   this   tariff   pay   by   a   shipper   that   be   not   an   incentive   shipper   or   a   dedicate 
+ shipper . 
+
+ 2 . 
+ commodity : 
+ carrier   be   engage   in   the   transportation   of   product   as   define   herein   and   therefore   will   not   accept   any   other   commodity   for   transportation 
+ under   this   tariff . 
+
+ 3 . 
+ product   specification : 
+ subject   to   any   provision   to   the   contrary   in   a   tsa   between   carrier   and   shipper : 
+
+ a. 
+ shipper   shall   not   tender   product   for   transportation   on   the   system   unless   the   product   will   be   readily   susceptible   to   transportation 
+ through   the   system ,   such   product   will   not   adversely   damage   the   common   stream   or   the   system ,   and   such   product   otherwise   conform 
+ to   the   specification   set   forth   in   this   item   no .   3 . 
+
+ b. 
+ as   a   prerequisite   to   transportation   on   the   system ,   shipper ’s   product   must   also   conform   to   the   quality   specification   of   the   connect 
+ carrier   or   facility   at   the   nominate   delivery   point . 
+
+ c. 
+ shipper   shall   perform   applicable   test   to   ensure   that   the   product   it   tender   to   carrier   for   delivery   on   the   system   conform   to   the 
+ specification   set   forth   in   this   item   no .   3 .   should   spot   sample ,   analyse ,   or   any   other   test   ( include   test   perform   by   carrier ) 
+ indicate   that   the   product   tender   or   to   be   tender   do   not   meet   the   specification   require   by   carrier ,   shipper   agree   to   stop 
+ delivery   of   such   off - specification   product   to   carrier   until   such   time   as   it   be   determine   by   additional   testing   that   the   product   meet   the 
+ definition   of   product   issue   by   carrier . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+
+ f.e.r.c .   no .   1.0.0 
+
+ d. 
+ the   specification   set   forth   in   this   item   no .   3   shall   apply   to   each   barrel   of   shipper ’s   tender   and   shall   not   be   limit   to   the   composite 
+ sample   of   the   tender . 
+
+ product   specification 
+
+ maximum 
+
+ test   method 
+ 1 .    composition : 
+
+   predominantly   ethane ,   propane , 
+
+   butane   &   natural   gasoline 
+
+ astm   d-2163 
+   ( c5   plus ) 
+
+   methane 
+   1.5   of   ethane1 
+
+ astm   d-2163 
+   total   olefin 
+   none 
+
+ astm   d-2163 
+   total   fluoride 
+   none 
+
+ uop   619 
+ 2 .    vapor   pressure : 
+
+   at   100 ° f .   psig 
+
+ astm   d-1267 
+ 3 .    corrosiveness : 
+
+   copper   strip   at   100 ° f 
+   1 - b 
+
+ astm   d-1838 
+ 4 .    total   sulfur : 
+
+   ppm   by   weight   in   liquid 
+
+ astm   d-3246 
+ 5 .    carbon   dioxide : 
+
+   ppm   by   weight 
+
+ gpa   2177 
+ 6 .    distillation : 
+
+   end   point ,   ° f 
+
+ astm   d-216 
+ 7 .    dryness : 
+
+   free   water 
+   none 
+
+ visual 
+ 8 .    color : 
+
+   saybolt   number 
+   plus   25   ( minimum ) 
+
+ astm   d-156 
+
+ e. 
+ carrier   reserve   the   right   to   reject   all   tender   or   any   part   thereof   and   refuse   transportation   for   such   tender ,   if   carrier   determine ,   in   its 
+ discretion ,   reasonably   exercise ,   that   shipper   have   deliver   product   that   ( i )   do   not   conform   to   the   quality   specification   set   forth   in 
+ this   item   no .   3 ,   ( ii )   be   not   merchantable ,   ( iii )   be   not   readily   acceptable   for   transportation   through   the   system ,   ( iv )   would   otherwise 
+ adversely   affect   the   system   or   other   product   on   the   system ,   and/or   ( v )   would ,   in   carrier ’s   sole   judgment ,   expose   employee   of   carrier 
+ or   the   system   to   an   undue   risk   of   harm   or   property   damage . 
+
+ f. 
+ in   the   event   shipper   deliver   product   to   the   system   that   do   not   meet ,   individually   and   collectively ,   the   quality   specification   set   forth 
+ in   this   item   no .   3 ,   carrier   may   exclude   such   shipper   from   further   entry   into   applicable   segment   of   the   system   until   such   time   as   the 
+ shipper   return   the   quality   of   its   product   to   a   level   satisfactory   to   carrier . 
+
+ 1    methane   in   excess   of   limit   state   herein ,   as   measure   on   each   shipper ’s   individual   plant   stream ,   shall   be   consider   as   contaminant   and 
+ product   so   contaminate   will   not   be   receive   by   carrier .   however ,   it   be   recognize   that   product   so   contaminate   may   be   receive   by   carrier 
+ without   carrier ’s   knowledge .   during   any   period   in   which   shipper ’s   product   exceed   the   specification ,   at   carrier ’s   option ,   carrier   shall   have   the 
+ right   to   deduct   the   methane   content   in   excess   of   the   specification   from   shipper ’s   desire   volume ,   but   shipper   will   nevertheless   be   require   to 
+ pay   the   tariff   rate   on   total   volume   of   methane   ship . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ g. 
+ carrier   be   not   responsible   for   monitor   receipt   or   delivery   for   contaminant .   far ,   carrier   reserve   the   right   to   dispose   of   any 
+ contaminate   product   on   the   system .   disposal   thereof   may   be   make   in   any   reasonable   manner   include   but   not   limit   to   commercial 
+ sale .   any   liability   associate   with   the   contamination   or   disposal   of   any   product   shall   be   bear   by   shipper   introduce   the 
+ contaminate   product   into   the   system .   shipper   liability   include ,   but   be   not   limit   to ,   claim   from   other   shipper ,   carrier ,   or   user   of 
+ the   contaminate   product   and   the   cost   of   any   regulatory   or   judicial   proceeding . 
+
+ h. 
+ if   product   receive   by   carrier   do   not   meet   the   quality   specification   set   forth   in   this   item   no .   3 ,   carrier   reserve   the   right   to   charge   the 
+ shipper   the   great   of   ( i )   the   actual   cost   and   expense   incur   by   carrier   to   treat ,   handle ,   or   otherwise   dispose   of   all   such 
+ contaminate   product ,   or   ( ii )   a   one - hundred   ( 100 )   cent   per   barrel   charge   for   the   volume   of   contaminate   product   transport   by 
+ shipper   ( " off - spec   penalty " ) .   if   a   composite   sample ,   spot   sample ,   or   the   result   of   any   other   test   demonstrate   that   a   shipper ’s   product 
+ deliver   to   carrier   fail   to   meet   the   quality   specification   set   forth   in   this   item   no .   3 ,   the   total   penalty   will   be   assess   by   multiply 
+ the   off - spec   penalty   by   the   total   volume   of   shipper ’s   product   ( in   barrel )   receive   by   carrier   during   the   ticket   period   when   carrier 
+ receive   the   contaminate   product . 
+
+ 4 . 
+ identity   of   product : 
+ subject   to   any   provision   to   the   contrary   in   a   tsa   between   carrier   and   shipper : 
+
+ a. 
+ carrier   shall   not   be   liable   to   shipper   for   change   in   gravity   or   quality   of   shipper ’s   product   that   may   occur   from   commingle   or 
+ intermix   shipper ’s   product   with   other   product   in   the   same   common   stream   while   in   transit .   carrier   be   not   obligate   to   deliver   to 
+ shipper   the   identical   product   nominate   by   shipper;   carrier   will   deliver   the   product   it   be   regularly   transporting   as   a   common   stream . 
+
+ b. 
+ carrier   shall   have   no   responsibility   in ,   or   for ,   any   revaluation   or   settlement   that   may   be   deem   appropriate   by   shipper   and/or 
+ consignee   because   of   mix   or   commingling   of   product   between   the   receipt   and   delivery   of   such   shipment   by   carrier   within   the 
+ same   common   stream . 
+
+ c. 
+ carrier   shall   not   be   require   to   transport   product   except   with   reasonable   diligence ,   consider   the   quality   of   the   product ,   the   distance 
+ of   transportation   and   other   material   element .   carrier   can not   commit   to   deliver   product   to   a   particular   destination ,   at   a   particular   time . 
+
+ 5 . 
+ nomination   and   scheduling : 
+
+ a. 
+ product   for   shipment   through   the   system   will   be   receive   only   on   a   properly   execute   nomination   from   shipper   or   its   designee   show 
+ the   receipt   point   at   which   the   product   be   to   be   receive ,   the   delivery   point   of   the   shipment ,   consignee   ( if   any ) ,   and   the   amount   of 
+ product   to   be   transport .   carrier   may   refuse   to   accept   product   for   transportation   unless   satisfactory   evidence   be   furnish   that   shipper 
+ or   consignee   have   make   provision   for   prompt   receipt   thereof   at   the   delivery   point .   carrier   shall   not   be   obligate   to   accept   product   for 
+ transportation   during   any   calendar   month ,   unless   shipper   or   its   designee   make   such   nomination   to   carrier   in   writing   on   or   before   9:00 
+ a.m. ,   prevail   central   time   of   the   tenth   ( 10th )   business   day   immediately   precede   the   first   day   of   the   month   during   which   the 
+ transportation   under   the   nomination   be   to   begin . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ b. 
+ carrier   may   refuse   to   accept   product   for   transportation   where   shipper   or   consignee   be   not   in   compliance   with   other   provision   of   this 
+ tariff   or   where   shipper   or   consignee   have   fail   to   comply   with   all   applicable   law ,   rule   and   regulation   make   by   any   governmental 
+ authority   regulate   shipment   of   product . 
+
+ c. 
+ unless   shipper   and   carrier   have   agree   otherwise   in   a   tsa ,   carrier   reserve   the   right   to   control   in   its   discretion   the   component 
+ distribution   in   the   product   tender   by   shipper   or   its   designee ,   in   order   to   achieve   maximum   operate   efficiency   of   carrier ’s   facility 
+ and   optimum   utilization   of   total   transportation   capacity .   carrier   shall   use   reasonable   judgment   in   exercise   that   discretion . 
+
+ d. 
+ the   rate   at   which   product   be   deliver   to   carrier   and   redelivere   from   carrier   will   be   determine   by   carrier ’s   transportation   and 
+ redelivery   obligation   to   its   shipper   and   by   the   necessity   of   economical   use   and   efficient   operation   of   carrier ’s   facility ,   which   shall   be 
+ determine   by   carrier   in   the   exercise   of   its   reasonable   judgment .   carrier   will   assume   no   liability   for   its   inability   to   maintain   schedule   or 
+ comply   with   shipper ’s   redelivery   request   when   cause   by   operational   or   scheduling   problem ,   excess   demand ,   delay   and   other 
+ problem   encounter   in   pipeline   operation . 
+
+ 6 . 
+ nomination   in   excess   of   capacity : 
+ when   there   be   offer   to   carrier   quantity   of   product   great   than   can   be   transport   on   the   system ,   carrier   shall   allocate   the   available 
+ transportation   capacity   on   the   system   ( " available   capacity " ) .   allocation   will   be   give   as   a   daily   or   monthly   volume ,   at   carrier ’s   discretion , 
+ and   will   be   calculate   for   the   calendar   month . 
+ new   shipper   will   have   access   to   a   minimum   of   ten   percent   ( 10 )   of   the   available   capacity   and   historical   shipper   will   have   access   to   a 
+ maximum   of   ninety   percent   ( 90 )   of   the   available   capacity . 
+ carrier   shall   allocate   up   to   ninety   percent   ( 90 )   of   the   available   capacity   on   a   non - discriminatory   historical   basis   to   all   historical   shipper . 
+ each   individual   historical   shipper ’s   entitlement   will   be   base   on   ( i )   the   average   monthly   volume   of   the   historical   shipper ’s   representative 
+ period ,   base   on   the   great   of   the   volume   transport   or   pay   for   during   each   month   of   the   representative   period   or   ( ii )   for   an   incentive 
+ shipper ,   base   on   the   incentive   shipper ’s   commit   volume   on   a   yearly   basis . 
+ the   remain   ten   percent   ( 10 )   of   the   available   capacity   shall   be   allocate   on   a   prorata   basis   to   new   shipper .   carrier   be   not   require   to 
+ allocate   more   than   two   percent   ( 2 )   of   the   available   capacity   to   any   individual   new   shipper . 
+ the   carrier   will   repeat   this   allocation   process   until   all   of   the   available   capacity   have   be   allocate . 
+ allocation   will   not   be   transfer .   with   agreement   of   the   shipper   concern ,   historical   volume   will   be   transfer   under   the   follow 
+ condition : 
+
+ • 
+   no   commercial   transaction   occur   between   the   participate   shipper   with   regard   to   historical   volume . 
+
+ • 
+   the   transfer   be   irrevocable . 
+
+ • 
+   the   request   to   transfer   must   be   the   result   of   an   unusual   situation   as   may   be   reasonably   determine   by   carrier . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ for   the   purpose   of   this   item   no .   6 : 
+
+ • 
+   " new   shipper "   mean   a   shipper   that   be   not   a   historical   shipper . 
+
+ • 
+   " historical   shipper "   mean   a   shipper   that   have   ship ,   or   pay   for   the   shipment   of ,   product   on   the   system   during   the 
+ representative   period . 
+
+ • 
+   " representative   period "   mean   a   consecutive   twelve   ( 12 )   month   period ,   begin   thirteen   ( 13 )   month   prior   to   the   month   be 
+ allocate   and   exclude   the   month   precede   the   month   of   allocation . 
+
+ 7 . 
+ minimum   tender : 
+ product   of   the   require   specification   shall   be   tender   for   transportation   in   quantity   of   not   less   than   2,500   barrel   of   the   same 
+ specification ,   except   that   carrier   may ,   in   its   sole   discretion ,   accept   any   quantity   of   product   if   such   quantity   can   be   consolidated   with   other 
+ product   such   that   carrier   can   make   a   single   delivery   of   not   less   than   2,500   barrel .   the   term   " single   delivery "   as   use   herein   mean   a   delivery 
+ of   product   in   one   continuous   operation   to   one   or   more   consignee   into   a   single   facility ,   furnish   by   such   consignee   or   consignee ,   to 
+ which   carrier   be   connect . 
+
+ 8 . 
+ measurement   and   evidence   of   receipt   and   delivery : 
+
+ a. 
+ carrier   or   its   representative   will   measure   and   test   all   product   tender   for   transportation   prior   to   its   receipt   and   may   measure   and   test 
+ such   product   at   any   time   thereafter .   shipper   or   consignee   may   be   present   or   represent   at   the   gauging   and   testing .   quantity   shall   be 
+ determine   in   accordance   with   applicable   a.p.i .   manual   of   petroleum   measurement   standard   and   applicable   gas   processor 
+ association   procedure . 
+
+ b. 
+ any   overage   or   shortage   not   due   to   the   negligence   of   carrier ,   include   loss   result   from   shrinkage ,   evaporation ,   other   physical 
+ product   loss   and   interface   mixture   in   any   calendar   month ,   will   be   allocate   on   a   monthly   accrual   basis   among   shipper   in   the   proportion 
+ that   the   total   number   of   barrel   deliver   from   the   entire   system   for   each   shipper   bear   to   the   total   number   of   barrel   deliver   from   the 
+ entire   system   for   all   shipper . 
+
+ c. 
+ carrier   may   require   shipper   to   furnish   a   certificate   set   forth   in   detail   the   specification   of   each   shipment   of   product   offer   for 
+ transportation   hereunder ,   and   shipper   shall   be   liable   for   any   contamination   or   damage   to   other   product   in   carrier ’s   custody   or   to   the 
+ system   or   other   carrier   facility   cause   by   failure   of   the   product   tender   to   meet   the   specification   state   in   shipper ’s   certification . 
+ carrier   may ,   but   shall   not   be   require   to ,   sample   and/or   test   any   shipment   prior   to   acceptance   or   during   receipt   of   shipment ,   and ,   in   the 
+ event   of   variance   between   the   specification   contain   in   say   certificate   and   the   specification   indicate   by   carrier ’s   test ,   carrier ’s   test 
+ result   shall   prevail   and   be   use   to   determine   whether   the   shipment   meet   carrier ’s   specification .   shipper   or   consignee   may   be   present 
+ or   represent   at   such   measure   and   testing . 
+
+ d. 
+ a   representative   of   carrier   shall   have   the   right   to   enter   upon   the   premise   where   shipper ’s   product   be   receive   or   deliver   and   have 
+ access   to   any   and   all   storage   receptacle   or   meter   for   the   purpose   of   measure   and   testing   and   to   make   any   examination ,   inspection , 
+ measurement   or   test   require . 
+
+ e. 
+ all   measurement   and   test   perform   by   carrier   shall   be   deem   final   and   determinative   unless   shipper   present   appropriate 
+ documentation   to   contest   such   measurement   and/or   test   within   forty - five   ( 45 )   day   of   receipt . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ 9 . 
+ origination   facility : 
+ with   respect   to   the   receipt   point ,   and   any   additional   receipt   point   ( if   carrier   determine   that   it   will   offer   connection   beyond   those 
+ contemplate   in   this   tariff ):   ( 1 )   product   will   be   receive   only   from   pipeline   or   plant   facility   that   be   provide   by   shipper   or   shipper ’s 
+ designee ,   or   a   connect   carrier;   ( 2 )   carrier   will   determine   and   advise   shipper   of   the   size   and   capacity   of   pipeline   and   tank   to   be   provide 
+ at   the   receipt   point   to   meet   the   operate   condition   of   carrier ’s   facility   at   such   point;   ( 3 )   carrier   will   not   accept   product   for   transportation 
+ unless   such   facility   have   be   provide   and   conform   to   the   operating   requirement   of   carrier   in   carrier ’s   sole   discretion;   and   ( 4 )   the   cost   of 
+ such   facility   shall   be   provide   at   the   sole   cost   of   shipper   seek   access   to   the   system . 
+
+ 10 . 
+ storage   of   product   in   transit : 
+ carrier   be   under   no   obligation   to   provide   storage . 
+
+ 11 . 
+ destination   facility : 
+ carrier   will   accept   product   for   transportation   only   when   shipper   or   consignee   have   provide   the   necessary   facility   for   take   delivery   of   the 
+ shipment   as   it   arrive   at   the   delivery   point .   carrier   will   not   accept   product   for   transportation   unless   such   facility   have   be   provide   and 
+ conform   to   the   operating   requirement   of   carrier   in   carrier ’s   sole   discretion .   unless   otherwise   agree   in   a   tsa   between   carrier   and   shipper , 
+ the   cost   of   such   facility   shall   be   provide   at   the   sole   cost   of   shipper   seek   access   to   the   system . 
+
+ 12 . 
+ notice   of   arrival ,   delivery   at   destination : 
+ after   a   shipment   have   have   time   to   arrive   at   destination ,   carrier   may   begin   delivery   of   such   shipment   from   its   common   stock   to   shipper   or 
+ consignee   at   carrier ’s   current   rate   of   pumping .   shipper   shall   timely   remove   product ,   or   cause   product   to   be   remove ,   from   the   system 
+ follow   transportation   to   a   nominate   delivery   point .   if   shipper   or   consignee   be   unable   or   refuse   to   receive   say   shipment ,   a   demurrage 
+ charge   of   one   dollar   ( 1.00 )   per   barrel   per   twenty - four   ( 24 )   hour   shall   accrue   from   the   time   say   notice   expire   on   that   part   of   such   shipment 
+ which   be   not   receive   by   shipper   or   consignee .   in   addition   to   such   demurrage   charge ,   carrier   shall   have   the   right   to   make   such   disposition   of 
+ unremove   product   as   be   necessary   for   the   efficient   operation   of   the   system ,   and   shipper   shall   pay   carrier   all   charge   associate   with   such 
+ disposition   the   same   as   if   shipper   have   authorize   such ,   together   with   any   associate   additional   cost   and   damage   bear   or   incur   by 
+ carrier .   shipper   shall   indemnify   carrier   for   all   loss   associate   with   unremove   product   and   carrier ’s   disposition   of   unremove   product . 
+ carrier   shall   have   no   liability   to   shipper   associate   with   shipper ’s   unremove   product   or   carrier ’s   disposition   of   unremove   product . 
+
+ 13 . 
+ title : 
+ carrier   may   require   of   shipper   satisfactory   evidence   of   its   perfect   and   unencumbered   title   of   any   product   tender   for   shipment   on   the 
+ system .   carrier   shall   have   the   right   to   reject   any   product ,   when   tender   for   transportation ,   that   may   be   involve   in   litigation ,   the   title   of 
+ which   may   be   in   dispute ,   or   which   may   be   encumber   by   a   lien   or   charge   of   any   kind   ( other   than   the   lien   create   hereunder   in   favor   of 
+ carrier   and   any   lien   permit   under   a   tsa   between   carrier   and   shipper ) . 
+ at   the   time   of   nomination ,   shipper   shall   inform   carrier   if   any   product   nominate   and/or   to   be   tender   to   carrier   for   transportation   ( i )   may   be 
+ involve   in   litigation ,   ( ii )   may   be   subject   to   a   title   dispute ,   or   ( iii )   may   be   encumber   by   a   lien   or   charge   of   any   kind   ( other   than   the   lien 
+ create   hereunder   in   favor   of   carrier   and   any   lien   permit   under   a   tsa   between 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ carrier   and   shipper )   ( " encumbered   product " ) .   in   the   event   carrier   receive   such   shipper   notice   of   encumbered   product   or   otherwise   learn 
+ that   shipper   have   or   will   nominate   or   tender   encumbered   product ,   carrier   may   require   shipper   to   provide   a   satisfactory   indemnity   bond ,   pre- 
+ payment   of   transportation   charge ,   or   a   subordination   agreement   from   the   applicable   lienholder ,   all   to   be   determine   in   carrier ’s   sole 
+ discretion .   shipper   agree   to   hold   carrier   harmless   for   any   and   all   loss ,   cost ,   liability ,   damage   and/or   expense   result   from   failure   of   title 
+ thereto;   provide   that   acceptance   for   transportation   shall   not   be   deem   a   representation   by   carrier   as   to   title . 
+
+ 14 . 
+ rate   applicable : 
+ product   accept   for   transportation   shall   be   subject   to   the   rate   in   effect   on   the   date   of   receipt   by   carrier ,   irrespective   of   the   date   of   the 
+ nomination . 
+
+ 15 . 
+ rate   applicable   from   intermediate   point : 
+ for   shipment   accept   for   transportation   from   any   point   not   name   in   this   tariff   make   reference   hereto   which   be   intermediate   to   a   point 
+ from   which   rate   be   publish   in   say   tariff ,   through   such   unnamed   point ,   the   rate   publish   therein   from   the   next   more   distant   receipt 
+ point   specify   in   the   tariff   will   apply   from   such   unnamed   point .   for   shipment   accept   for   transportation   to   any   point   not   name   in   tariff 
+ make   reference   hereto   which   be   intermediate   to   a   point   to   which   rate   be   publish   in   say   tariff ,   through   such   unnamed   point ,   the   rate 
+ publish   therein   to   the   next   more   distant   delivery   point   specify   in   the   tariff   will   apply .   continuous   use   of   intermediate   point   rate 
+ application   for   more   than   thirty   ( 30 )   day   require   establishment   of   a   rate   for   the   transportation   service . 
+
+ 16 . 
+ payment   of   transportation   charge : 
+ subject   to   any   provision   to   the   contrary   in   a   tsa   between   carrier   and   shipper : 
+
+ a. 
+ shipper   or   consignee   shall   pay ,   as   provide   below ,   all   applicable   transportation   and   other   charge   ( include   any   deficiency   payment 
+ set   out   in   a   tsa )   accrue   on   product   handle   by   carrier . 
+
+ b. 
+ all   payment   be   due   on   the   later   of :   ( 1 )   within   fifteen   ( 15 )   day   of   receipt   of   the   invoice;   ( 2 )   the   twenty - seventh   ( 27th )   of   the   month 
+ follow   receipt   of   the   invoice ,   or;   ( 3 )   if   the   twenty - seventh   ( 27th )   of   the   month   follow   receipt   of   the   invoice   be   not   a   business   day , 
+ on   the   next   business   day   thereafter . 
+
+ c. 
+ unless   provide   otherwise   in   a   tsa   between   carrier   and   shipper ,   if   any   charge   remain   unpaid   after   the   due   date ,   then   such   amount 
+ due   may   bear   interest   from   the   day   after   the   due   date   until   pay ,   calculate   at   an   annual   rate   equivalent   to   the   great   of   ( 1 )   one   percent 
+ ( 1 )   or   ( 2 )   the   maximum   rate   allow   by   law .   in   addition ,   shipper   shall   pay   all   document   cost   incur   by   carrier   to   collect   any 
+ unpaid   amount ,   include   reasonable   attorney   fee   and   cost   incur   by   carrier . 
+
+ d. 
+ in   the   event   shipper   fail   to   pay   any   such   charge   when   due ,   carrier   shall   not   be   obligate   to   provide   shipper   access   to   the   system   or 
+ provide   service   pursuant   to   this   tariff   until   such   time   as   payment   be   receive   by   carrier   and   shipper   meet   the   requirement   of   the 
+ follow   paragraph .   in   addition ,   in   the   event   shipper   fail   to   pay   any   such   charge   when   due ,   carrier   shall   have   the   right   to   set   off 
+ such   amount   owe   and   future   amounts   owe   against   any   amount   carrier   owe   shipper . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ e. 
+ all   prospective   shipper   shall ,   twenty - five   ( 25 )   day   prior   to   make   their   first   nomination ,   provide   information   to   carrier   that   will   allow 
+ carrier   to   determine   the   prospective   shipper ’s   capacity   to   perform   any   financial   obligation   that   could   arise   from   the   transportation   of 
+ that   prospective   shipper ’s   product   under   the   term   of   this   tariff ,   include   the   payment   of   transportation   charge ,   equalization 
+ obligation ,   the   value   of   any   loss   allowance ,   and   any   negative   balance   position .   at   any   time ,   upon   the   request   of   carrier ,   shipper   shall , 
+ within   ten   ( 10 )   day   of   such   request ,   provide   information   to   carrier   that   will   allow   carrier   to   determine   shipper ’s   capacity   to   perform   any 
+ financial   obligation   that   could   arise   from   the   transportation   of   that   shipper ’s   product   under   the   term   of   this   tariff ,   include   the 
+ payment   of   transportation   charge ,   equalization   obligation ,   the   value   of   any   loss   allowance ,   and   any   negative   shipper   balance 
+ position .   carrier   shall   not   be   obligate   to   accept   product   for   transportation   from   any   shipper   or   prospective   shipper   if   such   shipper   or 
+ prospective   shipper   fail   to   provide   the   request   information   to   carrier   within   the   time   period   set   forth   herein ,   or   if   carrier ’s   review   of 
+ the   request   information   reveal   that   such   shipper   or   prospective   shipper   do   not   have   the   capacity   to   perform   any   financial 
+ obligation   that   could   arise   from   the   transportation   of   its   product   under   the   term   of   this   tariff ,   include   the   payment   of   transportation 
+ charge ,   equalization   obligation ,   the   reasonably   determine   value   of   any   loss   allowance ,   and   any   negative   balance   position . 
+
+ f. 
+ subject   to   the   provision   of   item   no .   16(g ) ,   carrier   upon   notice   to   shipper   or   prospective   shipper ,   may   require   one   or   more   of   the 
+ follow   financial   assurance   for   the   payment   of   all   charge   and   cost   as   provide   for   in   this   tariff ,   or   otherwise   lawfully   due   to   carrier 
+ to   be   provide   at   the   expense   of   such   shipper   or   prospective   shipper : 
+
+ i. 
+ payment   security   by   wire   transfer   in   an   amount   equal   to   two   and   a   half   month   of   transportation   charge   base   on   shipper ’s   or 
+ prospective   shipper ’s   likely   actual   shipment   for   the   production   month   for   each   applicable   line   segment .   for   purpose   of   this 
+ rule ,   a   prospective   shipper ’s   likely   actual   shipment   will   be   base   on   the   anticipate   shipment   list   in   such   prospective 
+ shipper ’s   shipper   application;   or 
+
+ ii . 
+ a   letter   of   credit   in   favor   of   carrier   in   an   amount   sufficient   to   ensure   payment   of   all   cost   and   charge   that   could   reasonably 
+ accrue   due   to   carrier   in   a   form   and   from   an   institution   acceptable   to   carrier;   or 
+
+ iii . 
+ a   guaranty   from   a   guarantor   acceptable   to   carrier . 
+
+ g. 
+ in   the   event   that   carrier   reasonably   determine   that :   ( i )   any   shipper ’s   financial   condition   be   or   have   become   impaired   or   unsatisfactory; 
+ ( ii )   any   financial   assurance   previously   provide   by   shipper   no   long   provide   adequate   security   for   the   performance   of   such   shipper ’s 
+ obligation   that   could   arise   from   the   transportation   of   its   product   under   the   term   of   this   tariff;   or   ( iii )   carrier   otherwise   determine   that 
+ it   be   necessary   to   obtain   financial   assurance   from   any   shipper   or   prospective   shipper ,   then   such   shipper   or   prospective   shipper   shall 
+ provide   financial   assurance   for   the   payment   of   the   charge   and   cost   as   provide   for   in   this   tariff   or   otherwise   lawfully   due   to   carrier 
+ relate   to   the   transportation   of   such   shipper ’s   or   prospective   shipper ’s   product   by   carrier .   for   the   purpose   of   this   tariff ,   and   without 
+ limit   the   generality   of   the   charge   and   cost   lawfully   due   to   carrier   relate   to   the   transportation   of   shipper ’s   product ,   those   charge 
+ and   cost   shall   include   transportation   charge ,   equalization   obligation ,   any   negative   shipper   balance   position ,   and   any   loss 
+ allowance . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ h. 
+ any   financial   assurance   receive   by   carrier   in   accordance   with   item   no .   16(f)(i )   shall   be   retain   by   carrier   in   a   non - interest - bear 
+ escrow   account   until   such   time   as   carrier   determine   that   the   shipper   or   prospective   shipper   that   provide   such   financial   assurance   be 
+ capable   of   perform   its   financial   obligation   to   carrier .   within   ten   ( 10 )   business   day   of   such   a   determination   by   carrier ,   the   financial 
+ assurance   provide   in   accordance   with   item   no .   16(f)(i )   shall   be   return   to   such   shipper   or   prospective   shipper . 
+
+ i. 
+ carrier   shall   have   a   self - execute   lien   on   all   product   deliver   to   carrier   to   secure   the   payment   of   any   and   all   charge   that   be   owe   to 
+ carrier .   such   lien   shall   survive   delivery   of   product   to   shipper .   such   lien   shall   extend   to   all   product   in   carrier ’s   possession   begin 
+ with   shipper ’s   first   receipt   of   transportation   or   other   service   from   carrier .   the   lien   provide   herein   shall   be   in   addition   to   any   lien   or 
+ security   interest   provide   by   this   tariff ,   statute   or   applicable   law .   carrier   may   withhold   delivery   to   shipper   of   any   of   shipper ’s   product 
+ in   its   possession   and   exercise   any   other   right   and   remedy   grant   under   the   applicable   tariff   or   exist   under   applicable   law   until   all 
+ such   charge   have   be   pay   as   provide   above . 
+
+ j. 
+ if   shipper   fail   to   pay   an   invoice   by   the   due   date ,   carrier   will   notify   shipper   of   the   failure ,   and   if   shipper   have   not   remedie   the   failure 
+ within   thirty   ( 30 )   day   follow   receipt   of   notice   from   carrier ,   in   addition   to   any   other   remedy   under   this   tariff   or   under   applicable   law , 
+ carrier   shall   have   the   right ,   either   directly   or   through   an   agent ,   to   sell   any   product   of   such   shipper   in   carrier ’s   custody   at   public 
+ auction ,   on   any   day   not   a   legal   holiday ,   not   less   than   forty - eight   ( 48 )   hour   after   publication   of   notice   of   such   sale   in   a   daily   newspaper 
+ of   general   circulation   publish   in   the   town ,   city ,   or   general   area   where   the   sale   be   to   be   hold ,   state   the   time   and   place   of   sale   and   the 
+ quantity   and   location   of   the   product   to   be   sell .   at   say   sale ,   carrier   shall   have   the   right   to   bid ,   and ,   if   it   be   the   high   bidder ,   to 
+ become   the   purchaser .   the   proceed   of   any   sale   shall   be   apply   in   the   follow   order :   ( 1 )   to   the   reasonable   expense   of   holding , 
+ prepare   for   sale ,   selling ,   and   to   the   extent   allow   by   law ,   reasonable   attorney ’s   fee   and   legal   expense   incur   by   carrier;   and   ( 2 )   to 
+ the   satisfaction   of   shipper ’s   indebtedness   include   interest   herein   provide   from   the   date   payment   be   due .   the   balance   of   the   proceed 
+ of   the   sale   remain ,   if   any ,   shall   be   pay   to   shipper   or ,   if   there   be   a   dispute   or   claim   as   to   entitlement ,   hold   for   whoever   may   be   lawfully 
+ entitle   thereto .   carrier   will   have   a   claim   for   and   against   shipper   with   respect   to   any   deficiency   arise   from   the   debt   due   to   carrier   from 
+ shipper   and   the   proceed   of   any   sale   after   reduction   as   set   forth   above . 
+
+ 17 . 
+ liability   of   carrier : 
+ carrier   shall   not   be   liable   for ,   and   shipper   hereby   waif   any   claim   against   carrier   for ,   any   loss   or   damage   to   product   prior   to   the   delivery   of 
+ product   at   the   receipt   point(s )   and   after   delivery   of   product   at   the   delivery   point(s ) . 
+
+ 18 . 
+ claim ,   suit ,   and   time   for   filing : 
+ as   a   condition   precedent   to   recovery   by   shipper   for   loss ,   damage ,   or   delay   in   receipt   or   delivery   of   shipper ’s   product   for   which   carrier   may 
+ be   responsible ,   shipper ’s   claim   must   be   file   in   writing   with   carrier   within   nine   ( 9 )   month   after   delivery   of   the   affected   product ,   or ,   in   case   of 
+ carrier ’s   failure   to   make   delivery   of   shipper ’s   product ,   then   within   nine   ( 9 )   month   after   a   reasonable   time   for   delivery   have   elapsed;   and   suit 
+ shall   be   institute   against   carrier   only   within   two   ( 2 )   year   and   one   ( 1 )   day   from   the   day   when   notice   in   writing   be   give   by   carrier   to   shipper 
+ that   carrier   have   disallow   the   claim   or   any   part   or   part   thereof   specify   in   the   notice .   where   claim   be   not   file   or   suit   be   not   institute 
+ by   shipper   on   such   claim   in   accordance   with   the   forego   provision ,   such   claim   will   not   be   pay   and   carrier   will   not   be   liable . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ ferc   ica   oil   tariff 
+ f.e.r.c .   no .   1.0.0 
+
+ 19 . 
+ connection   policy : 
+ if   carrier   determine   that   it   will   offer   connection   service ,   this   item   no .   19   shall   apply .   in   that   event ,   ( 1 )   carrier   will   only   consider   connection 
+ to   the   system   that   be   make   by   formal   write   application   to   carrier ,   in   accordance   with   carrier ’s   connection   policy;   ( 2 )   all   connection   will   be 
+ subject   to   design   requirement   necessary   to   protect   the   safety ,   security ,   integrity   and   efficient   operation   of   the   system   in   accordance   with 
+ generally   accept   industry   standards;   and   ( 3 )   acceptance   of   any   request   for   connection   will   be   within   the   sole   discretion   of   carrier   and   will 
+ be   subject   to   compliance   with   governmental   regulation . 
+
+ 20 . 
+ common   stream   –   connect   carrier : 
+
+ a. 
+ when   receipt   from   and/or   delivery   to   a   connect   carrier   of   substantially   the   same   grade   of   product   be   schedule   at   the   same 
+ interconnection   or   at   interconnection   along   the   same   pipeline   system ,   carrier   reserve   the   right ,   with   cooperation   of   the   connect 
+ carrier ,   to   offset   like   volume   of   such   common   stream   product   in   order   to   avoid   capacity   constraint   or   the   unnecessary   use   of   energy 
+ which   would   be   require   to   physically   pump   the   offset   volume .   when   this   right   be   exercise ,   carrier   will   make   the   further   delivery 
+ for   shipper   involve   from   its   common   stream   product . 
+
+ b. 
+ sediment ,   water   and   quality   limitation   of   a   connect   carrier   may   be   impose   upon   carrier .   when   such   limitation   of   the   connect 
+ carrier   vary   from   that   of   carrier ,   the   limitation   of   the   connect   carrier   will   be   enforce . 
+
+ 21 . 
+ dedicate   rate 
+ a   shipper   who   have   execute   a   tsa   that   have   dedicate   product   shall   be   refer   to   herein   as   a   " dedicate   shipper . "   as   provide   in   its   tsa ,   a 
+ dedicate   shipper   shall   be   entitle   to   the   applicable   dedicate   rate   set   out   in   section   I   of   this   tariff .   a   shipper   that   be   not   an   incentive 
+ shipper   or   dedicate   shipper   shall   pay   the   applicable   uncommitted   rate   set   out   in   section   I   of   this   tariff . 
+
+ 22 . 
+ incentive   rate 
+ a   shipper   who   have   execute   a   tsa   that   have   a   commit   volume   shall   be   refer   to   herein   as   an   " incentive   shipper . "   as   provide   in   its   tsa , 
+ an   incentive   shipper   shall   be   entitle   to   the   applicable   incentive   rate   set   out   in   section   I   of   this   tariff .   a   shipper   that   be   not   an   incentive 
+ shipper   or   dedicate   shipper   shall   pay   the   applicable   uncommitted   rate   set   out   in   section   I   of   this   tariff . 
+
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ exhibit   b 
+ commencement   date   facility 
+ pipeline   facility 
+
+ • 
+   27   mile   of   10 "   pipeline   between   the   lincoln   parish   plant   and   the   delivery   point 
+ delivery   point 
+
+ • 
+   dcp   black   lake   pipeline 
+ receipt   point 
+
+ • 
+   lincoln   parish   plant   ( own   by   carrier   or   its   affiliate ) 
+
+ • 
+   mount   olive   plant   ( own   by   carrier   or   its   affiliate ) 
+ miscellaneous   appurtenant   facility   ( launcher / receiver ,   etc . ) 
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015 
+ schedule   a 
+ receipt   point ,   delivery   point ,   and   rate 
+
+ receipt   point 
+
+ delivery   point 
+
+ dedicate 
+ rate 
+
+ lincoln   parish   plant 
+ mount   olive   plant 
+
+ dcp   black   lake   ada ,   la 
+
+ 1.68  
+ source : range resources - louisiana , inc . , 8 - k , 4/17/2015

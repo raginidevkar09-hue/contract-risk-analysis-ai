@@ -1,0 +1,928 @@
+exhibit 10.1
+[] text omitted for confidential treatment. the redacted information has been excluded because it is both (i) not material and (ii) would be
+competitively harmful if publicly disclosed.
+global master supply agreement
+this global master supply agreement ("agreement" or "contract") is between exxonmobil chemical company, a division of exxon mobil
+corporation ("seller"),on behalf of itself and in the interest of the exxonmobil affiliates listed on attachment b (each an "exxonmobil selling
+affiliate" or "emcc/a" or collectively, "exxonmobil selling affiliates"), and west pharmaceutical services, inc. ("buyer"), on behalf of itself and
+the buyer affiliates listed on attachment c (each a "buyer affiliate" or “west/a" or collectively, "buyer affiliates").
+products, quantity, price
+in accordance with the provisions of this agreement, exxonmobil selling affiliates agree to sell to buyer affiliates, and buyer affiliates agree to
+purchase from exxonmobil selling affiliates, the following product(s) (collectively, "product"):
+products
+quantity [metric tons / year]
+container
+package
+year
+
+[]
+[]
+minimum
+maximum
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+leased metal crates
+[]
+[]
+[]
+[]
+[]
+[]
+leased metal crates
+[]
+not defined
+leased metal crates
+subject to this agreement's terms and conditions, buyer affiliates shall purchase and exxonmobil selling affiliates shall sell the yearly minimum
+amount of product amounts (in the aggregate) listed above. buyer or buyer affiliates may request to purchase amounts over the product maximum
+amounts per year, however, it shall be solely within seller or any exxonmobil selling affiliate’s discretion whether and under which conditions to
+accommodate buyer's request.
+buyer affiliates shall issue a purchase order(s), or call off order(s) when purchasing product from exxonmobil selling affiliates in writing pursuant
+to this contract ("purchase order"). such purchase order(s) shall specify (a) the quantity of product, and (b) general date of delivery. all purchase
+orders agreed to be filled by an exxonmobil selling affiliate shall be deemed to be a separate agreement between the relevant exxonmobil selling
+affiliate and the relevant buyer affiliate, incorporating the terms of this contract. notwithstanding anything to the contrary in the attachments
+exxonmobil and the exxonmobil selling affiliates shall not unreasonably reject any purchase order that otherwise complies with the terms of this
+agreement.
+purchase order(s), order acknowledgements and similar form documents evidencing the purchase or sale of products, including any terms and
+conditions contained or referenced therein, shall not supersede, add to or amend in any way this contract. in the event of any conflict between the
+terms of this contract and the terms of any purchase order, order acknowledgement or similar document the terms of this contract shall prevail.
+[]
+pricing
+for calendar years 2019, 2020, 2021, 2022 and 2023, the price of products sold by seller/exxonmobil selling affiliates to buyer/buyer affiliates will
+comprise the base price, the crude adjustment and the freight cost depending on incoterms.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+base price
+requested delivery date
+1.1.2019 - 28.2.2019:
+all [] grades except []: [] /t
+[]: [] /t
+[]: [] /t
+1.3.2019 - 31.12.2019:
+all [] grades except []: [] /t
+[]: [] /t
+[]: [] /t
+1.1.2020 - 31.12.2020:
+all [] grades except []: [] /t
+[]: [] /t
+[]: [] /t
+1.1.2021 - 31.12.2021:
+all [] grades except []: [] /t
+[]: [] /t
+[]: [] /t
+1.1.2022 - 31.12.2022:
+all [] grades except []: [] /t
+[]: [] /t
+[]: [] /t
+1.1.2023 - 31.12.2023:
+all [] grades except []: [] /t
+[]: [] /t
+[]: [] /t
+[]
+base prices listed above are non-delivered pricing (i.e., ex-works designated exxon affiliate location (see attachment b) - incoterms 2010
+(“exw”) and does not include freight or insurance.
+seller and buyer shall meet on or before december 31, [] to assess the requirements for a price and/or volume adjustment in good faith on the
+price for products sold by seller/exxonmobil selling affiliates to buyer/buyer affiliates for years [] and [].
+notwithstanding anything to the contrary in attachments a, g and h to this agreement, the parties agree that any permitted adjustments to the
+price, freight or payment terms for products sold hereunder will be governed by the terms of the pricing and payment terms sections of this
+agreement.
+buyer affiliates shall pay exxonmobil's selling affiliates invoice(s) not later than the days set forth in attachment e hereto. all invoices shall be
+paid in full by wire transfer in accordance with the invoice's instructions.
+crude trigger clause
+product price(s) shall be subject to the average brent crude oil price evolution (as further detailed below) in order to reflect the cost of energy.
+should the average brent crude oil price at any moment during the term of this agreement move to a different average brent crude oil price bracket
+as mentioned below, seller may increase or decrease the product price by [] for every [] change in the average brent crude oil price.
+in no event shall the product price’s increase or decrease exceed [] for every [] change in the average brent crude oil price brackets.
+each average brent crude oil bracket is calculated on a 5 range basis (e.g., 30-35, 40-45, 50-55, etc.).
+the average brent crude oil price evolution shall be expressed as the three-month average spot price per barrel of the brent crude
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+oil (as published in the wall street journal). this average shall be calculated as the average of the prices for the immediate preceding three
+consecutive calendar months, with each month's price calculated as the average of the daily prices.
+any conversion between united states dollars and euros will be carried out by using the average of the european central bank’s daily foreign
+exchange rate as published in reuter's screen ecb 37 for the period in question.
+any product price adjustment shall take effect the month immediately following seller’s notification of an increase or decrease in product price.
+title and risk of loss - exxonmobil chemical company and exxonmobil chemical services americas inc.
+title to the product(s) to be sold and delivered hereunder will transfer simultaneously with the risks upon delivery as per the applicable lncoterm
+(lncoterms 2010) in attachment e with the exception of the following:
+for product sold and/or sourced by exxonmobil chemical company or exxonmobil chemical services americas inc. that is shipped overseas to a
+non-u.s. location, title and risk of loss of product shall transfer from exxonmobil chemical company or exxonmobil chemical services americas
+inc. to buyer affiliates at the first point upon which the delivering marine vessel crosses the outer boundary of the united states exclusive
+economic zone (eez). the eez extends 200 nautical miles beyond the coastal baseline defined in the united nations convention on the law of the
+sea.
+for product sold by exxonmobil chemical company that is transported by land to mexico, title and risk of loss of product shall transfer from
+exxonmobil chemical company to buyer affiliates at the frontier between laredo, texas, u.s.a. and mexico (not unloaded), but prior to the
+customs border of mexico.
+locations of supply
+buyer/buyer affiliates that may purchase product from exxonmobil selling affiliates are listed in attachment c. other products and locations may
+be added upon mutual agreement in writing.
+any and all sales of product between exxonmobil chemical company and/or exxonmobil chemical services americas, inc. and buyer affiliates in
+the u.s., mexico and brazil shall be subject to the terms and conditions set forth in attachment a hereto.
+any and all sales of product between exxonmobil petroleum & chemical and buyer affiliates in france, germany, denmark, serbia, ireland and the
+united kingdom shall be subject to the terms and conditions set forth in attachment h hereto.
+any and all sales of product between exxonmobil chemical asia pacific and buyer affiliates in singapore, china and india shall be subject to the
+terms and conditions set forth in attachment g hereto.
+buyer/buyer affiliates are responsible for the product and returnable crates in their custody at the sales value of the product and the replacement
+value of the metal crates, respectively. the terms relating to the use and return of metal crates are set out in attachment f.
+affiliates
+exxonmobil selling affiliates participating in this agreement are listed in attachment b. buyer affiliates participating in this agreement are listed
+in attachment c. seller and buyer each represent and warrant that each will cause its respective affiliates, so listed, to become bound to the terms
+of this agreement.
+quality
+product shall conform to exxonmobil selling affiliates' standard sales specifications as of the date of shipment.
+sellers agrees to support the creation of purchasing specifications for products by buyer and agrees to supply products in accordance to those
+purchasing specifications. seller has the right to review each purchasing specification and needs to accept in writing before such purchasing
+specifications become effective. seller has the right to take exceptions to terms and provisions in these purchasing specifications if in contradiction
+with seller’s sales specifications, general terms and condition of sales or other seller’s procedures and policies.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+buyer and seller agree to enter into negotiations on an extended quality assurance agreement. provided that these negotiations will be
+successful, such agreement shall then be incorporated into this contract as an amendment to it.
+agreement period
+effective date: january 1, 2019
+termination date: december 31, 2023
+payment terms
+buyer/buyer affiliates shall pay for product by electronic funds transfer (eft) through the automated clearing house (ach) using the
+corporate trade exchange (ctx) format, according to the payment terms described in attachment e.
+technical support
+emcc/a will provide technical expertise in the use of products and will use its technical centers to enhance technical communications with west
+pharmaceutical services affiliates technical centers. west/a will share its needs with emcc/a and how they relate to west/a activities to help
+guide exxonmobil chemical affiliates technical efforts.
+the parties have created and continue to entertain a research and development governance structure with a steering team, program management
+team and working team. the charter, roles and meeting frequencies are described in mutually agreed documents and will be reviewed periodically as
+deemed appropriate by the parties.
+safety, health & environment
+safety, health and environment (she) professional representatives from both parties shall endeavor to meet once a year (face to face or via
+teleconference) to exchange and benchmark on best practices.
+the parties agree to notify each other on she related issues that may arise from the use of products.
+the parties agree to explore the reuse/recycling of articles, manufacturing trim and scrap buyer produces from products purchased from seller.
+audit
+on request of buyer, buyer is allowed to carry out on-site manufacturing and quality audits in manufacturing units where products are produced.
+the frequency of such audits shall not exceed one audit per site within three years
+supply security
+buyer is seeking for an increased level of supply security and additional risk mitigation strategies and actions in case of short and long term supply
+disruptions of products.
+seller agrees to enter into discussions and negotiations with buyer and to take reasonable efforts to enhance such risk mitigation and business
+continuity strategies.
+collaboration planning and supply assurance, forecast
+buyer and seller agree to convene once every calendar year to discuss annual product quantities. buyer has provided seller with an annual non-
+binding forecast for the respective contract year.
+as requested by the seller, the buyer will provide a quarterly forecast for the subsequent contract years. seller will provide buyer a quarterly
+overview of the planned production run of each butyl grade purchased for buyer.
+seller shall acknowledge in writing the requested delivery and timing of products and volumes.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+change control
+changes to the manufacturing process are carefully controlled and are subject to review and formal approval by emcc/a or other affiliates of
+exxon mobil corporation prior to implementation. buyer will be informed at least six months in advance of any change determined by emcc/a to
+result in a significant change to the chemical composition or performance of the product.
+[]
+credit
+if seller/exxonmobil selling affiliates' has reasonable grounds for insecurity with respect to the financial responsibility of buyer/buyer affiliates,
+seller/exxonmobil selling affiliates may require advance cash payment or satisfactory security and may withhold product shipments until receipt of
+such payment or security. such action by seller/exxonmobil selling affiliates shall not constitute a change of payment terms hereunder. if amounts
+due hereunder are placed with an outside agency for collection, or if suit is brought for collection, or if collected through probate, bankruptcy or
+other judicial proceedings, then buyer/buyer affiliates shall pay all costs of collection, including attorneys' fees, in addition to all other amounts
+due.
+set-off and recovery
+with respect to any monetary amounts and/or product-exchange delivery imbalances due from buyer/buyer affiliates to seller/exxonmobil selling
+affiliates, seller/exxonmobil selling affiliates may (i) set-off such monetary amounts and/or product-exchange delivery imbalances against any
+monetary amounts and/or product-exchange delivery imbalances owing to buyer/buyer affiliates; and/or (ii) recoup such monetary amounts
+and/or product-exchange delivery imbalances from any amounts paid and/or deliveries made to buyer/buyer affiliates by seller/exxonmobil
+selling affiliates. for purposes hereof, any and all written agreements between buyer and seller shall be deemed to be part of an integrated
+agreement set forth herein.
+economic conditions and trends clause
+it is understood and agreed that the basis for this agreement is an extraordinary level of mutual trust and confidence between the parties, not only
+in matters of price, quality, and service relating to the quantities of product purchased and sold hereunder, but also with respect to the
+accommodation of changes that may develop in the business environment or the pursuit of such mutual undertakings as may benefit either or both
+of the parties to this agreement. moreover, the terms relating to quantity and price presume the continuation of economic conditions and trends
+now prevailing, including but not limited to levels of industrial production, tire demand, labor rates, energy costs, and foreign exchange
+relationships. in the event that, in the view of either party, a significant change of any kind does occur which materially and significantly alters the
+value received by either party in this transaction, that party may, upon written notice of its election and reasons therefor, request that this
+agreement be renegotiated and the other party will be obligated to enter into the renegotiation unless the request is formally withdrawn. neither
+party shall unreasonably request such renegotiation
+failure in performance
+notwithstanding anything to the contrary in attachments a, g or h, no liability shall result to either party from delay in performance or non-
+performance of an obligation hereunder (including an obligation to make payment) in whole or in part caused by circumstances reasonably beyond
+the control of the party affected, including but not limited to, acts of god, terrorist activity, transportation failure, breakdowns, equipment failure,
+criminal enterprise, sabotage, diminishment, or failure of power, telecommunications, data systems or networks, shortage or inability to obtain
+product or raw material for product, or good-faith compliance with any governmental order or request (whether valid or invalid). notwithstanding
+any other notice requirement in this agreement, actual notice (e.g., phone, email, letter) to a counterparty of a delay or failure described in this
+provision will constitute effective notice for purposes of this provision. regardless, however, of the occurrence or nonoccurrence of any such
+circumstances, if, supplies of product or distribution logistics for, or feedstock for making product, from any of seller's/exxonmobil selling
+affiliates’ existing sources are curtailed or are inadequate to meet seller's/exxonmobil selling affiliates' own requirements and/or its obligations to
+its customers, seller’s/exxonmobil selling affiliates' obligation to deliver product during such period shall be reduced to the extent necessary, in
+seller's/exxonmobil selling affiliates’ reasonable judgment, to apportion fairly among seller's/exxonmobil selling affiliates’ own requirements and
+its customers such product as received and as may be available in the ordinary and usual course of seller's/exxonmobil selling affiliates' business
+from any existing sources of supply at the location(s) from which deliveries like those covered hereby are normally shipped. seller/exxonmobil
+selling
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+affiliates shall not be obligated to purchase or obtain product, or feedstock to make product, to replace deliveries omitted or curtailed under this
+paragraph.
+change in circumstances
+notwithstanding anything to the contrary in attachments a, g or h, in connection with any change in circumstances (as defined below), and
+without limiting seller's/exxonmobil selling affiliate's other rights under this agreement or applicable law, seller/exxonmobil selling affiliates shall
+have the right: (i) only if required to enable seller/exxonmobil selling affiliate to comply with applicable laws and regulations, to terminate this
+agreement and accelerate all amounts due from buyer hereunder, making them immediately payable (ii) to modify the payment terms hereunder;
+and/or (iii) to require that buyer/buyer affiliates pay in advance for shipments hereunder.
+promptly after any public announcement regarding any proposed transaction that would result in a change in circumstances, buyer/buyer
+affiliates shall notify seller/exxonmobil selling affiliates, in writing, of the nature of such transaction, the parties thereto and the proposed date of
+consummation. if seller/exxonmobil selling affiliates elects to exercise any of its rights under the preceding paragraph, seller/exxonmobil selling
+affiliates shall so notify buyer/buyer affiliates, in writing, within forty-five (45) days after receipt of buyer's/buyer affiliates' notice.
+as used above, “change in circumstances” means any of the following: (i) any transaction, or series of transactions, that would result in the
+transfer of at least twenty-five percent (25) of the equity interest in buyer/buyer affiliates (or of at least twenty-five percent (25) of the equity
+interest in any business entity that owns or controls, directly or indirectly, at least fifty percent (50) of the equity interest in buyer/buyer
+affiliates (“buyer’s parent”)) to a single transferee or multiple transferees under common control; (ii) any transaction that would result in buyer’s
+/buyer affiliates’ (or buyer’s parent’s) merging with one or more other entities; or (iii) any transaction not in the ordinary course of buyer’s/buyer
+affiliates (or buyer’s parent’s) business that calls for the sale, purchase or other transfer of one or more significant assets, including (without
+limitation) manufacturing facilities and ownership interests in other business entities.
+warranty dispute resolution
+notwithstanding anything to the contrary in attachments a, g or h, if buyer/buyer affiliates and seller/exxonmobil selling affiliates are unable to
+agree on the quality or quantity of product delivered and received following their internal investigations and good faith efforts to resolve the
+dispute, the parties shall cooperate to have the products in dispute analyzed by a mutually selected independent testing laboratory. the results of
+such laboratory testing shall be final and binding on the parties on the issue of conformance of the products. if the products are determined to be
+conforming, then buyer/buyer affiliates shall bear the cost of such laboratory testing. if the products are determined not to be conforming, then
+seller/exxonmobil selling affiliates shall bear the cost of such laboratory testing.
+us law and regulation
+the parties represent, warrant and undertake to each other on a continuous basis that they shall comply with all applicable anti-bribery and anti-
+money laundering laws, rules, and regulations of any government, including the u.s. foreign corrupt practices act, and the applicable country
+legislation implementing the oecd convention on combating bribery of foreign public officials in international business transactions as such
+laws and regulations may be amended or updated from time to time.
+ivacy
+seller informs buyer that any information relating to an identified or identifiable natural person (“individual”), in particular business contact details
+of buyer’s personnel and contractors, which is communicated by or on behalf of buyer to seller (“personal data”), will be subject to data
+processing by seller. to learn more about the processing of personal data and about individual’s rights in relation to the processing, read the seller
+data privacy notice at http://www.exxonmobil.be/en-be/company/locations/belgium/legal-information-belgium-only buyer shall inform its personnel
+and contractors and other relevant individuals of the seller data privacy notice.
+nowledgement
+in accordance with section 8 of attachment a, the “warranties” section of attachment g and section 14 of attachment h, seller hereby expressly
+acknowledges that buyer has provided notice so seller that product(s) purchased hereunder will be used by buyer in connection with only the
+following medical applications:
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+•
+elastomeric components for pharmaceutical packaging and containment solutions, including stoppers, seals, plungers, and syringe
+components.
+termination
+notwithstanding anything to the contrary in attachments a, g or h, neither party can suspend its further performance, terminate this agreement or
+require specific performance of the other party of this agreement in whole or in part as a result of the other party’s material breach of the terms and
+conditions of this agreement without first providing notice to such party in writing and thirty (30) days’ opportunity to cure the material breach
+(and then only if such party fails to cure such breach).
+terms and conditions
+the following attachments are made part of this agreement:
+attachment a - exxonmobil chemical company and exxonmobil chemical services americas inc.
+general terms and conditions of sale
+attachment b - list of exxonmobil affiliates/divisions
+attachment c - list of west pharmaceutical services affiliates
+attachment d - notices
+attachment e - payment terms
+attachment f - returnable metal crates
+attachment g - exxonmobil chemical asia pacific - terms and conditions of sale
+attachment h - exxonmobil chemical petroleum & chemical bvba - terms and conditions of sale
+governing law
+this agreement shall be governed and construed in accordance with the law set forth in the exxonmobil selling affiliate's general terms and
+conditions, as applicable.
+binding effect
+seller shall not be obligated by this agreement unless buyer executes and returns this agreement to seller no later than thirty (30) days from the
+date seller signs below.
+entire agreement
+this agreement and its attachments constitute the complete and exclusive statement of the terms of agreement between seller and buyer and
+supersede any and all agreements, representations and understandings, oral and written made prior to signing and relating to the subject matter of
+this agreement. in no event shall either party be responsible for any special, punitive, or consequential damages whatsoever.
+no modification of this agreement shall be of any force or effect unless such modification is in writing, expressly designated as an amendment
+hereto and signed by the parties' duly authorized representatives; and no modification shall be effected by the acknowledgment or acceptance of
+purchase order forms containing terms or conditions at variance with those set forth herein.
+none of the parties shall be legally bound by anything contained in this instrument, or any negotiations pursuant thereto, unless and until the
+companies have agreed to all terms and this instrument has been signed by authorized representatives of each company.
+order of precedence
+in the event of conflict between this agreement (including the failure in performance and change in circumstances clauses herein) and the
+attachments hereto, this agreement shall prevail, except with respect to the governing law specified in attachments a, g and h, respectively, and
+as applicable to the appropriate exxonmobil selling affiliate.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+buyer
+seller
+accepted and agreed to by buyer
+exxonmobil chemical company, a division of
+date of:
+exxon mobil corporation
+january 10, 2020
+date: december 11, 2018
+/s/ eric m. green
+/s/ kurt aerts
+by: eric m. green
+by: kurt aerts
+title: president and ceo
+title: vice president, seri
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+attachment a
+west pharmaceutical services and exxonmobil chemical company
+2019-2023 global master supply agreement
+exxonmobil chemical company (emcc) &
+exxonmobil chemical services americas inc. (emcsa)
+standard terms and conditions of sales and acceptance of order
+1. price and quantity; price adjustments
+except as otherwise provided in this agreement, and without regard to any course of dealing between the parties: (1) seller shall not be obligated to
+sell or deliver any quantity of product(s) covered hereby ("product") beyond the amount, if any, which in seller's sole judgment, is available for
+such purpose as of the proposed date of shipment to buyer; (2) the price of product shall be seller's price therefor as of the date of shipment; (3)
+seller reserves the right to set minimums and/or premiums or to reject orders for unusual configurations, sizes and folds; (4) an overrun or underrun
+of up to ten percent (10) shall constitute due performance of any order; (5) any freight allowances shall be those specified by seller as of the date
+of shipment; and (6) buyer shall allow seller a reasonable period for delivery of shipments of product. seller may change any price, freight or
+payment term hereof upon no less than thirty (30) days' prior written notice; provided, however, that seller may at any time institute or remove a
+temporary voluntary allowance of other similar competitive allowance without prior notice.
+2. payment
+unless otherwise specified in attachment e of the agreement, payment for product shall be made in u.s. dollars and shall be due, in good funds in
+seller's account, no later than thirty (30) days after the date of shipment. with respect to any monetary obligations of buyer or buyer's affiliates
+owed to seller, seller may (i) set-off such obligations against any sums owing to buyer or buyer's affiliates; and/or (ii) recoup such obligation from
+any amounts paid to buyer or buyer's affiliates by seller.
+3. taxes
+any tax (except income taxes), excise or other governmental charge that now or in the future may be imposed, increased or levied upon the
+production, value added, sale, transportation, storage, handling, delivery, use or disposal of product sold hereunder which seller may be required to
+pay, shall be paid by buyer to seller in addition to the purchase price. buyer shall provide seller, on request, with properly completed exemption
+certificates for any tax from which buyer claims exemption.
+4. credit
+if seller has reasonable grounds for insecurity with respect to the financial responsibility of buyer, seller may require advance cash payment or
+satisfactory security and may withhold product shipments until receipt of such payment or security. such action by seller shall not constitute a
+change of payment terms hereunder. if amounts due hereunder are placed with an outside agency for collection, or if suit is brought for collection,
+or if collected through probate, bankruptcy or other judicial proceedings, then buyer shall pay all costs of collection, including attorneys' fees, in
+addition to other amounts due.
+5. set-off and recovery
+with respect to any monetary amounts and/or product-exchange delivery imbalances due from buyer/buyer affiliates to seller/exxonmobil selling
+affiliates, seller/exxonmobil selling affiliates may (i) set-off such monetary amounts and/or product-exchange delivery imbalances against any
+monetary amounts and/or product-exchange delivery imbalances owing to buyer/buyer affiliates; and/or (ii) recoup such monetary amounts
+and/or product-exchange delivery imbalances from any amounts paid and/or deliveries made to buyer/buyer affiliates by seller/exxonmobil selling
+affiliates. for purposes hereof, any and all agreements between buyer and seller, whether written or oral, shall be deemed to be part of an
+integrated agreement set forth herein.
+6. change in circumstances
+in connection with any change in circumstances (as defined below), and without limiting seller’s other rights under this agreement or applicable
+law, seller shall have the right: (i) to terminate this agreement and accelerate all amounts due from buyer hereunder, making them immediately
+payable; (ii) to modify the payment terms hereunder; and/or (iii) to require buyer to pay in advance for shipments hereunder.
+promptly after any public announcement regarding any proposed transaction that would result in a change in circumstances, buyer shall notify
+seller, in writing, of the nature of such transaction, the parties thereto and the proposed date of consummation. if seller elects to exercise any of its
+rights under the preceding paragraph, seller shall so notify buyer, in writing, within forty-five (45) days after receipt of buyer’s notice. as used
+above, “change in circumstances” means any of the following: (i) any transaction, or series of transactions, that would result in the transfer of at
+least twenty-five percent (25) of the equity interest
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+in buyer (or of at least twenty-five percent 25) of the equity interest in any business entity that owns or controls, directly or indirectly, at least
+fifty percent (50) of the equity interest in buyer (“buyer’s parent”) to a single transferee or multiple transferees under common control; (ii) any
+transaction that would result in buyer’s (or buyer’s parent’s) merging with one or more other entities; or (iii) any transaction not in the ordinary
+course of buyer’s (or buyer’s parent’s) business that calls for the sale, purchase or other transfer of one or more significant assets, including
+(without limitation) manufacturing facilities and ownership interests in other business entities.
+7. title; risk of loss
+title to product and risk of loss shall pass to buyer at seller's facilities upon delivery to a carrier or into buyer's transport unless otherwise specified
+in the agreement.
+8. limited warranty and medical applications
+there are no warranties which extend beyond the product description herein, and seller makes no warranty,
+express or implied, of fitness for particular use, merchantability or otherwise with respect to product,
+whether used singly or in combination with other substances or in any process, except that product sold
+hereunder shall conform to seller's standard sales specifications as of the date of shipment. without limiting the
+foregoing, seller does not recommend nor endorse the use of product(s) in any medical application and specifically disclaims any representation or
+warranty, express or implied, of suitability or fitness for use, or otherwise, with respect to product(s)’ use in any medical application. buyer
+represents and warrants that no product(s) purchased hereunder will be used in or resold into any commercial or developmental manner in
+connection with medical applications without seller’s prior express written acknowledgement. further, buyer agrees that it will make no
+representations, express or implied, to any person to the effect that seller recommends or endorses the use of product(s) purchased hereunder in
+any medical application.
+9. inspection and limitation of liability
+buyer shall inspect and test product delivered hereunder for damage, defect or shortage immediately upon receipt at buyer's plant or such other
+location as determined by buyer and provide seller notice of any such damage, defect or shortage within ten (10) days of receipt. any claims for
+shortages must be supported by certified railroad scale tickets (or similar documents if shipments were not by rail) and seller shall have an
+opportunity to have an independent weighing. all claims for any cause whatsoever, whether based in contract, negligence or other tort, strict
+liability, breach of warranty or otherwise, shall be deemed waived unconditionally and absolutely unless seller receives written notice of such claim
+not later than one hundred fifty (150) days after buyer's receipt of product as to which such claim is made. defective or nonconforming product
+shall be replaced by seller without additional charge, or in lieu thereof, at seller's option, seller may refund the purchase price upon return of such
+product at seller's expense and such refund or replacement shall constitute buyer’s sole and exclusive remedy. notwithstanding the above
+and regardless of the circumstances, seller's total liability to buyer for any and all claims, losses or
+damages arising out of any cause whatsoever, whether based in contract, negligence or other tort, strict
+liability, breach of warranty or otherwise, shall in no event exceed the purchase price of product in respect to
+which such cause arose. in no event shall seller be liable for special, incidental, consequential or exemplary
+damages. any cause of action that buyer may have against seller and which may arise in connection with the transaction(s) specified herein
+must be commenced within two (2) years after the cause of action has accrued.
+10. safety, health and indemnity
+seller shall furnish to buyer material safety data sheets, including warnings and safety and health information concerning products and/or the
+containers therefor. buyer agrees to disseminate such information so as to give warning of possible hazards to persons who buyer can reasonably
+foresee may be exposed to such hazards, including but not limited to buyer's employees, agents, contractors or customers. buyer shall instruct its
+employees, agents, contractors and customers on the safe handling, use, selling, storing, transportation and disposal practices for the product. if
+buyer fails to disseminate such warnings and information, buyer agrees to defend and indemnify seller against
+any and all liability arising out of or in any way connected with such failure, including but not limited to
+liability for injury, sickness, death and property damage; provided, however, that if seller in this instance has
+contributed to such liability, buyer's indemnity to seller shall be reduced by the proportion in which seller
+contributed to such liability. seller will provide buyer with reasonable notice and opportunity to defend in the event any claim or demand
+is made on seller as to which such indemnity relates.
+11. cars, trucks and barges
+buyer shall unload railroad cars, trucks and barges furnished by seller within the free time specified by tariffs or time periods on file with applicable
+regulatory bodies, or promptly after receipt if no such tariffs or time periods are on file, and pay any charges
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+resulting from its failure to do so directly to the common carrier upon receipt of invoice therefor. buyer shall pay seller's daily charges for trip-leased
+tank cars for tank cars held longer than seven (7) days from constructive placement. buyer assumes full responsibility for use and
+condition of cars, trucks and barges while in buyer's possession and agrees to (1) compensate seller for loss or
+damage to seller's property and (2) indemnify and save seller harmless from any loss or damage to property
+other than seller's and from any injuries to persons relating in any way to the use of such car(s), truck(s) and
+barge(s) while such are in buyer's possession. buyer shall report to seller promptly any damage that may be sustained by the car(s),
+truck(s) or barge(s) in buyer's possession.
+12. leased tracks
+seller may elect to provide rail cars of product to buyer on leased tracks. if seller does so, buyer shall contact seller to receive shipments of
+product from the leased tracks and not request such shipment directly from the railroad.
+13. failure in performance
+no liability shall result to either party from delay in performance or non-performance in whole or in part caused by circumstances reasonably
+beyond the control of the party affected, including but not limited to acts of god, terrorist activity, transportation failure, breakdowns, equipment
+failure, criminal enterprise, sabotage, diminishment, or failure of power, telecommunications, data systems or networks, shortage or inability to
+obtain product or raw material for product, or good-faith compliance with any governmental order or request (whether valid or invalid).
+notwithstanding any other notice requirement in this agreement, actual notice (e.g., phone, email, letter) to a counterparty of a delay or failure
+described in this provision will constitute effective notice for purposes of this provision. regardless, however, of the occurrence or nonoccurrence
+of any such circumstances, if for any reason supplies of or distribution logistics for product, or feedstock for making product, from any of seller's
+existing sources are curtailed or are inadequate to meet seller's own requirements and/or its obligations to its customers, seller's obligation to
+deliver product during such period shall be reduced to the extent necessary, in seller's sole judgment, to apportion fairly among seller's own
+requirements and its customers (whether under contract or not) such product as received and as may be available in the ordinary and usual course
+of seller's business from any existing sources of supply at the location(s) from which deliveries like those covered hereby are normally shipped.
+seller shall not be obligated to purchase or obtain product, or feedstock to make product, to replace deliveries omitted or curtailed under this
+paragraph.
+14. intentionally omitted
+15. export compliance
+the transaction(s) specified herein, unless otherwise indicated, constitute domestic sales within the united states. for domestic u.s. sales, where
+buyer chooses to subsequently export the product, buyer shall comply with all applicable laws relating to export controls and economic sanctions,
+including, but not limited to, those maintained by the us department of the treasury (office of foreign assets controls) and the us department of
+commerce (bureau of industry and security). for u.s. domestic sales, if buyer elects to export product, buyer shall constitute the u.s. principal
+party in interest or exporter for all purposes under applicable law.
+16. non-us buyers
+if buyer is a natural or legal person of any jurisdiction other than the united states and/or a state thereof, any dispute arising with respect to the
+transaction(s) specified herein shall be referred to three (3) arbitrators in accordance with the rules of arbitration of the international chamber of
+commerce as in effect on the date of such referral. the arbitration shall take place in houston, texas, u.s.a. the proceedings shall be in the english
+language. the american arbitration association shall act as appointing authority in the event required. monetary awards shall be expressed in
+u.s. dollars and all awards shall be final and binding on the parties. judgment upon any award may be entered in any court having jurisdiction.
+17. amendment; cancellation
+no modification of this agreement shall be of any force or effect unless such modification is in writing, expressly designated as an amendment
+hereto and signed by the parties' duly authorized representatives; and no modification shall be effected by the acknowledgment or acceptance of
+purchase order forms containing terms or conditions at variance with those set forth herein. except as explicitly set forth in this agreement, this
+agreement and the transaction(s) specified herein can be cancelled only with both parties’ written consent.
+18. governing law and dispute resolution
+the parties' rights and obligations hereunder shall be construed and enforced under the laws of the state of texas, u.s.a., without regard to
+conflict of laws principles. incoterms 2010 (or any subsequent revision thereof) ("incoterms") shall also apply; provided, however, that incoterms
+shall apply only to the extent specified in the agreement hereof, and provided, further, that in the event of a conflict between incoterms and the laws
+of the state of texas, u.s.a., the latter shall govern. the parties specifically exclude
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+application of the u.n. convention on contracts for the international sale of goods. for any dispute regarding this agreement, the parties agree to
+exclusive jurisdiction and venue in the district courts of harris county, texas, or the united states district court for the southern district of texas
+(houston division).
+19. miscellaneous
+no waiver by either party of a right, default or breach of any of the terms and conditions herein shall be effective unless in writing. no such waiver
+shall be deemed a waiver of any subsequent right, default or breach (whether similar or dissimilar) except as expressly stated therein.
+20. assignment
+this agreement shall not be assigned in whole or in part by buyer or seller without the written consent of the other party and any attempted
+assignment without such consent shall be void and of no effect, except that seller may assign all of its rights and obligations hereunder to any
+entity of which exxon mobil corporation owns, directly or indirectly, at least fifty percent (50) of the shares or other indicia of equity having the
+right to elect such entity's board of directors or other governing body.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+attachment b
+west pharmaceutical services and exxonmobil chemical company
+2019-2023 global master supply agreement
+list of exxonmobil affiliates / divisions
+at its sole discretion and with prior written notice to buyer, seller may designate a different selling entity from the ones listed in this attachment.
+for product purchases made by buyer affiliates in: u.s.a., brazil, mexico
+exxonmobil chemical company, a division of exxon mobil corporation (“emcc”) and/or exxonmobil chemical services americas, inc.
+22777 springwoods village pkwy
+spring, tx 77389
+for product purchases made by buyer affiliates i n: denmark, france, germany, united kingdom, serbia and ireland
+exxonmobil petroleum & chemical bvba (empc)
+polderdijkweg
+b - 2030 antwerpen, belgium
+for product purchases made by buyer affiliates i n: singapore, china, india
+exxonmobil affiliate: exxonmobil chemical asia pacific, a division of exxonmobil asia pacific pte ltd (emcap)
+1 harbour front place 06-00harbourfront tower one singapore 098633
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+attachment c
+west pharmaceutical services and exxonmobil chemical company
+2019-2023 global master supply agreement
+list of west pharmaceutical affiliates
+buyer may update this list from time to time with written notice to seller.
+brazil
+west pharmaceutical services brasil ltda
+av nossa senhora das gracas, 115
+diadema, sao paulo, brazil 09980-000
+china
+west pharmaceutical packaging (china) co., ltd
+no. 111 tianchen road
+qingpu, shanghai 201707 china
+denmark
+west pharmaceutical services denmark a/s
+fuglevangsvej 51
+horsens, denmark
+france
+west pharmaceutical services
+france,s.a. 38, rue robert degon
+le nouvion en thierache 02170
+germany
+west pharmaceutical services deutschland gmbh & co. kg
+stalberger str. 21-41
+eschweiler 52249
+ireland
+west pharmaceutical products ireland, ltd.
+carrickpherish road
+waterford, x91 r9v6
+india
+west pharmaceutical packaging india pvt. ltd.
+900 peepul boulevard-sector 36-sri city-satyavedu (p.o)
+chittoor district - a.p. - india - 517 546
+mexico
+west pharmaceutical services mexico, s.a. de c.v.
+calle 40 sur no. 706,
+esq. 36 este civac,
+jiutepec morelos -
+méxicoc. p. 62500
+serbia
+west pharmaceutical services beograd d.o.o. kovin
+crvenka 76
+kovin 26220, serbia
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+singapore
+west pharmaceutical services singapore pte. ltd.
+15 joo koon circle
+jurong, singapore 629046
+u.s.a
+west pharmaceutical services, inc.
+530 herman o. west drive
+exton, pa 19341-1147
+west pharmaceutical services, inc.
+1028 innovation way
+kinston, nc 28504-7616
+west pharmaceutical services, inc.
+923 west railroad street
+kearney, ne 68845-5128
+west pharmaceutical services of florida, inc.
+5111 park street north
+st. petersburg, fl 33709-1109
+west pharmaceutical services, inc.
+347 oliver street
+jersey shore, pa 17740-1923
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+attachment d
+west pharmaceutical services and exxonmobil chemical company 2019-2023 global supply master agreement
+notices
+for all notices, communications, or questions regarding this contract, the following addresses listed below shall be used; provided, however, that
+seller and buyer can each change any of its address information by providing written notice to the other party.
+exxonmobil chemical company
+west pharmaceutical services, inc.
+22777 springwoods village pkwy
+530 w. herman o. drive
+spring, tx 77389
+exton, pa 19341-1147
+attn: gerd merhof
+attn: oliver steven
+exxonmobil chemical central europe
+west pharmaceutical services deutschland gmbh & co. kg
+im mediapark 2
+kiefernweg 5
+50670 köln
+52249 eschweiler
+germany
+germany
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+attachment e
+west pharmaceutical services and exxonmobil chemical company
+2019-2023 global supply master agreement
+payment terms
+buyer affiliates shall pay exxonmobil selling affiliates' invoice(s) in full within the days set forth below:
+location
+payment terms
+delivery terms - lncoterms
+
+brazil
+[]
+[]
+china
+[]
+[]
+denmark
+[]
+[]
+france
+[]
+[]
+germany
+[]
+[]
+india
+[]
+[]
+mexico
+[]
+[]
+serbia
+[]
+[]
+singapore
+[]
+[]
+u.s.a.
+[]
+[]
+ireland
+[]
+[]
+ for product sold and/or sourced from the us that is shipped overseas to a non-us location, title and risk of loss of product shall transfer from
+exxonmobil chemical company or any other exxonmobil seller to buyer at the first point upon which the delivering marine vessel crosses the outer
+boundary of the united states exclusive economic zone (eez). the eez extends 200 nautical miles beyond the coastal baseline defined in the
+united nations convention on the law of the sea.
+for u.s. sales to brazil or mexico, seller shall constitute the u.s. principal party in interest or exporter for all purposes under applicable law.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+attachment f
+west pharmaceutical services and exxonmobil chemical company
+2019-2023 global supply master agreement
+returnable metal crates
+attachment f documents buyer's/buyer affiliates' responsibility for returnable metal crates ("metal crates") used in the supply of butyl products
+from seller/exxonmobil selling affiliates ("exxonmobil"). buyer/buyer affiliates wishes to receive butyl in metal crates and exxonmobil is willing
+to supply butyl in metal crates, subject to the following agreement.
+agreement
+buyer/buyer affiliates is responsible for the metal crates in their custody at the replacement value of the metal crates. buyer's /buyer affiliates'
+custody begins when metal crates are loaded onto the delivering carrier at the exxonmobil or third party warehouse and ends when metal crates
+are loaded onto the carrier for return to global pallet services limited (gps) usa, inc.
+buyer/buyer affiliates must implement a system to ensure metal crates are not lost or damaged, and are returned in undamaged condition (normal
+wear and tear excepted). buyer/buyer affiliates will supply to exxonmobil upon request copies of any bills of lading needed to verify return
+shipments of metal crates.
+for each metal crate not received back at global pallet services limited (gps) and where a physical inventory determines that such metal crate is
+not in the custody of buyer/buyer affiliates, buyer/affiliates will have 30 days from end of the calendar year to reimburse exxonmobil as stated
+below.
+for the purposes of this agreement, a metal crate is considered to be in undamaged condition if the base and all four sides are in working
+condition. buyer/buyer affiliates agrees to pay for all repairs for damage to any metal crate, or to pay the replacement charge of [] per
+metal crate for any metal crate that is either permanently lost or damaged beyond repair while in the custody of buyer/buyer affiliates, and a
+replacement charge ([] per door) for any removable door missing from metal crates collected at buyer's /buyer affiliates' location. a metal
+crate shall be deemed to have been damaged beyond repair if the documented repair costs to restore the damaged metal crate to fit-for-fill
+condition would exceed []. in addition, if any of the charges imposed by global pallet services limited (gps) under the agreement between
+the exxonmobil and global pallet service limited (gps) for damage to or loss of metal crates, are revised, the aforesaid amount reimbursable by
+buyer/buyer affiliates shall automatically be revised in similar manner.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+attachment g
+the west pharmaceutical services and exxonmobil chemical company/affiliates
+2019-2023 global master supply agreement
+emcap standard terms and conditions of sale and acceptance of order
+acceptance
+the acceptance of buyer's order by seller is expressly made conditional upon buyer's assent to these standard terms and conditions of sale.
+terms as specified in seller’s order confirmation (if any) and these standard terms and conditions shall constitute the only binding contract terms
+and conditions between the parties (the “agreement”) in the absence of a written agreement as described in the clause on written agreement.
+written agreement
+if there is an executed written sales contract or agreement in effect between buyer and seller covering buyer’s order, the terms and conditions of
+that contract or agreement shall prevail over any conflicting term in seller’s order confirmation and/or these standard terms and conditions and/or
+buyer’s purchase order.
+price adjustment
+[] buyer's failure to deliver to seller written objection to any such change at least ten (10) days before its effective date shall constitute
+acceptance.
+if buyer does deliver such objections within the deadline, no delivery shall be made until parties agree on the new price, freight and/or payment
+terms.
+[]
+quantity
+quantity of all shipments shall be determined by seller and shall have a shipping allowance of plus or minus five percent (+/-5) of the quantity
+indicated in seller’s order confirmation or separate sales contract, or such other percentage as determined by seller. to allow for standard
+tolerances of scales, seller will not consider any claims for shortages of less than one half of one percent (0.5) of the gross weight of any
+shipment of packaged product or less than one half of one percent (0.5) of the net weight of bulk shipment. seller shall have the right at all times
+to appoint an independent surveyor.
+taxes
+all prices are exclusive of taxes, duties, or other governmental charges levied on or in respect of the product or delivery thereof. buyer shall pay or
+reimburse seller for such taxes, duties or charges.
+risk and title transfer
+risk of loss of and damage to product shall pass to buyer in accordance with the incoterm specified in seller’s order confirmation or separate sales
+contract. without negating seller’s warranty obligations hereunder, buyer assumes all risk and liability for loss, damage, or injury to the person or
+property of buyer or other parties arising out of the use or possession of any product sold hereunder. unless stated otherwise in seller’s order
+confirmation or separate sales contract, title in product shall pass to buyer simultaneously with risk of loss of and damage to product. however, if
+the product is shipped by seller from the us, such title and risk shall pass to buyer at the first point at which the delivering vessel crosses the outer
+boundary of the us exclusive economic zone (eez). the eez extends 200 nautical miles beyond the coastal baseline defined in the united nations
+convention on the law of the sea or as such term is used in the said convention.
+warranties
+there are no warranties which extend beyond the description on the face hereof, and seller makes no warranty, expressed or implied, of satisfactory
+quality, merchantability, fitness for any particular use or otherwise, except that the products sold hereunder shall meet seller's applicable standard
+specifications or such other specifications as may be notified by seller to buyer from time to time. buyer assumes all risk whatsoever as a result of
+the use of the products purchased, whether used singly or in combination with other substances or in any process.
+without limiting the foregoing, seller does not recommend nor endorse the use of product in any medical application and specifically disclaims any
+representation or warranty, express or implied, of suitability or fitness for use, or otherwise with respect to product’s use in any medical application.
+buyer represents and warrants that no product purchased hereunder will be
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+used or resold for use in any commercial or developmental manner in connection with medical applications without seller’s prior express written
+acknowledgment. further, buyer agrees that it will make no representations, express or implied, to any person to the effect that seller recommends
+or endorses the use of product purchased hereunder in any medical application.
+limitation of claims
+seller's total liability for all claims arising hereunder or connected with the products sold hereunder, whether based in contract, tort or otherwise,
+shall be no greater than an amount equal to the purchase price of the products to which any such claims relate, or at the seller's option, and only in
+the case of claims regarding defective or non-conforming product, to replacement of such products, provided that in all cases buyer shall be under
+an obligation to mitigate any loss as far as possible. seller shall not in any event be liable for any special, incidental, exemplary or consequential
+damages.
+subject to the clauses on quantity, transfer of risk and title transfer, buyer shall inspect and test product delivered hereunder for damage, defect
+or shortage immediately upon receipt and provide seller notice of any such damage, defect or shortage within ten (10) days of receipt. any claim
+must be accompanied by documents as required by seller, including but not limited to a certified weigh scale ticket or an independent surveyor
+report, and seller shall have an opportunity to an independent assessment. all claims for any cause whatsoever, whether based in contract,
+negligence or other tort, strict liability, breach of warranty or otherwise, shall be deemed waived unconditionally and absolutely unless seller
+receives complete written details of such claim not later than [] after buyer's receipt of product as to which such claim is made. receipt will be
+deemed to have taken place for purposes of this subparagraph when the product has been loaded onto buyer’s transport, or offloaded from the
+vessel or other means of transport on which delivery has been made when delivery is arranged by seller.
+laytime and demurrage
+buyer shall unload tank containers, cars, trucks and barges furnished by seller and clear products from port, or at delivery destination, within the
+free time specified by tariffs or time periods on file with applicable bodies, or promptly after receipt if no such tariffs or time periods are on file.
+buyer shall pay charges resulting from its failure to do to seller or directly to the common carrier upon receipt of invoice.
+for bulk marine shipment, demurrage charge at load port is for account of seller and at discharge port for buyer’s account. for sales other than
+fob sales, laytime allowed, demurrage rate and applicable charter party terms shall be as specified in seller’s vessel nomination to buyer failing
+which, the terms in seller’s contract of affreightment with the vessel owner shall apply and buyer shall pay seller or the carrier the demurrage
+incurred at the discharge port by seller’s stipulated deadline. subject to the foregoing, for the first discharge terminal, laytime shall commence six
+(6) hours after the vessel’s notice of readiness is tendered to buyer (or its agent) or upon the vessel being all fast to the discharge terminal,
+whichever occurs first, and for subsequent discharge terminal(s), laytime shall commence immediately when the vessel’s notice of readiness is
+tendered to buyer (or its agent). laytime shall cease upon disconnection of all cargo hoses upon completion of discharge. for fob sales, vessels
+nominated by buyer are subject to seller’s screening, inspection and acceptance process and seller’s agreement to loading-date range duration /
+loading-date range narrowing profile / loading-date range communication leadtime and other shipping logistics, and any claim for demurrage by
+buyer shall be waived unless notice in writing of such claim is received by seller with full supporting documentation (including the invoice and time
+sheet issued by the vessel) by seller’s stipulated deadline.
+failure in performance
+failure by seller to deliver on a specific date shall not entitle buyer to repudiate this agreement. buyer shall not be relieved of any obligations to
+accept or pay for products by reason of any delay in delivery or dispatch. furthermore, no liability shall result to either party for delay in
+performance or non-performance of an obligation hereunder (except an obligation to make payment) in whole or in part caused by circumstances
+reasonably beyond the control of the party affected, including but not limited to acts of god, terrorist activity, transportation failure, breakdowns,
+equipment failure, shortage or inability to obtain product or raw material for product, or good-faith compliance with any governmental order or
+request (whether valid or invalid) . regardless, however, of the occurrence or nonoccurrence of any such circumstances, if for any reason supplies
+of product or feedstock for making product, from any of seller's existing sources are curtailed or are inadequate to meet seller's own requirement
+and/or its obligation to its customers, seller's obligation to deliver product during such period shall be reduced to the extent necessary, in seller's
+sole judgment, to apportion fairly among seller's own requirements and its customers (whether under contract or not) such products as received
+and as may be available in the ordinary and usual course of seller's business from any existing sources of supply at the location(s) from which
+deliveries like those covered hereby are normally shipped. seller shall not be obligated to purchase or obtain product, or feedstock to make product,
+to replace deliveries omitted or curtailed under this paragraph.
+modification and amendments
+there are no oral understandings, representations or warranties between the parties that conflict with these standard terms and
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+conditions or the details of price, payment, shipment or delivery schedule as communicated by seller. no modification of any standard terms and
+conditions shall be of any force or effect unless such modification is in writing and signed by the party to be bound thereby, and no modification
+of the same shall be effected by the acknowledgement of buyer’s purchase orders or equivalent forms containing terms and conditions at variance
+with those set forth herein and all such terms or conditions in buyer’s purchase orders or equivalent forms shall be considered null and void.
+governing law
+this agreement shall be governed by singapore law, without regard to its conflict of laws principles. parties agree to exclude the application of the
+united nations convention on contracts for the international sale of goods. a party that is not a party to this agreement shall have no rights
+under the contracts (rights of third parties) act (cap 53b) to enforce any of the terms in this agreement.
+assignment
+this agreement shall not be assigned, in whole or in part, by either party without the prior consent of the other party, but shall be binding upon
+and shall inure to the benefit of the legal successors of the respective parties hereto; except that seller may assign this agreement, in whole or in
+part, to any affiliate. for purposes of this clause, an "affiliate" of seller means the ultimate holding company of seller or any corporation of which
+fifty percent (50) or more of the outstanding stock is held directly or indirectly by such ultimate holding company.
+definition
+to the extent not inconsistent with the terms hereof, incoterms 2010 (“incoterms”) shall apply hereto.
+no waiver
+no waiver by either party of any breach of these standard terms and conditions shall be construed as a waiver of any succeeding breach of the
+same.
+credit clause
+if buyer fails to make payment when due or if seller reasonably believes the financial status of buyer is impaired due to any reason, seller shall
+have the right, without prejudice to its other rights in contract or at law, upon notice to buyer, to withhold further deliveries of product, modify or
+change any terms of payment or credit, suspend performance under this agreement, accelerate payment obligations such that all amounts owed
+under prior deliveries and not paid shall become immediately due and payable, require buyer to furnish security as deemed appropriate by seller
+and/or exercise rights against any collateral and apply the proceeds against amounts due and owing. seller shall in any event have the right to set-
+off any claim that seller (or its affiliate) may have against buyer (or its affiliate), against any sum which seller may owe to buyer (or its affiliate).
+in the event seller requires a documentary letter of credit or a standby letter of credit, such letter of credit shall be issued by an international bank in
+form and substance acceptable to seller. a clean letter of credit is to be received by seller prior to the estimated shipment date or by such date as
+seller shall agree. seller shall have no obligation to deliver product if the letter of credit is not so received by seller.
+without prejudice to seller's other rights in law and contract, it is agreed that buyer shall indemnify and hold harmless the seller from and against
+any dead-freight, vessel and/or port charges and payments, demurrage and/or any damages, losses or expenses incurred as a result of any delay in
+loading or non-delivery of any product under this agreement arising from buyer's failure or delay in providing the letter of credit in accordance
+with the terms of this agreement.
+business practices
+(a)
+business standards. each party to this agreement shall establish precautions to prevent its employees or subcontractors from making,
+receiving, providing or offering any substantial gifts, extravagant entertainment, payments, loans, or other considerations to the
+employees of the other party and/or their families and/or third parties in connection with this agreement.
+(b)
+compliance with law. each party agrees and will secure agreement by its subcontractors to comply with all applicable laws, regulations,
+decrees and judicial orders. notwithstanding anything in this agreement to the contrary, no provision shall be interpreted or applied so as
+to require any party to do, or refrain from doing, anything which would constitute a violation of, or result in a loss of economic benefit
+under, united states anti-boycott and other export laws and regulations. each party represents to the other party that it shall not make any
+improper payments of money or anything of value to a government official (whether appointed, elected, honorary, or a career government
+employee) in connection with this agreement, nor shall it make improper payments to a third party knowing or suspecting that the third
+party will give the payment, or a portion of it, to a government official.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+(c)
+notice of non-compliance. each party ("the relevant party") agrees to notify the other party promptly upon discovery of any instance
+where the relevant party fails to comply with this clause. if either party discovers or is advised of any errors or exceptions related to its
+invoicing under this agreement, both parties will together review the nature of the errors or exceptions, and will, if appropriate, promptly
+take corrective action that is necessary on its part and adjust the relevant invoice or refund overpayments.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+attachment h
+the west pharmaceutical services and exxonmobil chemical company/affiliates
+2019-2023 global master supply agreement
+empc standard terms and conditions of sale
+(hereafter referred to as “em”)
+1. agreement(s) as used herein shall mean any order confirmation issued by em or any other contractual arrangement between em and buyer.
+these general terms and conditions shall apply to and form part of all agreements. the agreement constitutes the complete and entire
+understanding and agreement between em and buyer. no other general terms and conditions will have an effect on the agreement. deviations
+from the agreement, including these general terms and conditions, shall be valid only if
+expressly agreed in writing by the parties.
+2. title to the product shall transfer from em to buyer simultaneously with the transfer of risks as per incoterms. all references to incoterms shall
+mean icc incoterms 2010.
+3. em will use reasonable efforts to meet the planned delivery date which shall be deemed to be only approximate.
+4. if buyer is responsible for the transport of products, buyer shall ensure that the means of transport is clean and dry, suitable for loading and
+carrying the products, and complies with the safety standards of em and with the legal standards for such means of transport. in case of non- or
+incomplete compliance with the above requirements, em will be entitled not to load or cause to load this means of transportation, without any
+obligation to compensation.
+5. if delivery takes place on reusable pallets (regardless of whether they are property of em), buyer will maintain these pallets in good condition
+and make them available on request for collection by or on behalf of em.
+6. em’s determination of quantity and quality shall be binding for both parties. without prejudice to the foregoing, buyer has the right to have a
+representative present at said determination, at his own cost.
+7. products shall be supplied by em at the price valid on the planned delivery date.
+8. prices are exclusive of taxes (such as vat), duties or other governmental charges. in addition to the price of the product, em shall have the right
+to charge any taxes, duties or other governmental charges that now or in the future may be levied, in connection with the manufacture, sale,
+transportation, storage, handling, delivery, use, possession of or disposal of the product or raw materials used in it. vat and excise tax exemptions
+granted on request of buyer in accordance with legislation or administrative regulations
+imposed by any lawful authority, shall be the exclusive responsibility of buyer who shall indemnify em in respect of any vat or excise tax liabilities
+arising therefrom.
+9. em will invoice buyer and buyer will pay the invoice in the currency stated on the invoice, without any discount, deduction or set off, so that
+em’s designated bank account is credited with the full invoiced amount within 30 days from the invoice date.
+10. failure by buyer to pay on the due date shall make all sums owing by buyer to em on any account whatsoever immediately and automatically
+due and payable, without prejudice to em's right to charge automatically and without giving any notice the statutory late payment interest rate as
+defined in applicable legislation on combating late payment in commercial transactions.
+11. em and any of its affiliates (as herein defined) may at any time without giving notice to or making demand upon buyer, set off and apply any
+and all sums at any time owing by em and/or by any of its affiliates to buyer or any of buyer’s affiliates, against any and all sums owing by buyer
+or any of buyer’s affiliates to em and/or to any of its affiliates. an affiliate is (1) for em: exxon mobil corporation or any company in which
+exxon mobil corporation owns or controls, directly or indirectly, 50 or more of the voting stock and (2) for the buyer: any company in which its
+ultimate holding company owns or controls, directly or indirectly, 50 or more of the voting stock.
+12. if one party has objective reasons to conclude that the financial status of the other party becomes impaired or unsatisfactory, or in case of late
+payment, it may require the other party to provide adequate securities, including cash in advance, for the timely payment of future deliveries,
+absent which it may suspend its supply obligations.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+13. health and safety information relating to handling and use of products are in the safety data sheets (sds) that em has sent or will send to
+buyer. buyer shall notify em if buyer has not received such information by the delivery date. em will assume that buyer has received the
+necessary information absent notification from buyer. buyer shall provide such health and safety information to anyone including without
+limitation its employees, contractors, agents or customers who may be exposed to the
+product. buyer warrants that it possesses the necessary expertise for handling products of the type being supplied hereunder and that it will take
+the steps necessary to review and understand that information contained on the sds for each product it purchases. such data and statements are
+offered only for buyer's and its users' and customers' considerations, investigation and verification.
+14. em gives no guarantees or warranties, express or implied, as to the quality, merchantability, fitness for purpose or suitability of the products
+except that the product sold pursuant to the terms of this agreement shall meet the relevant em standard specification in force at the time of
+loading or such other specification or requirement which may be explicitly agreed in writing between the parties. without limiting the foregoing, em
+does not recommend nor endorse the use of product(s) in any medical application and specifically disclaims any representation or warranty, express
+or implied, of suitability or fitness for use, or otherwise with respect to product(s)’ use in any medical application. buyer represents and warrants
+that no product(s) purchased hereunder will be used in or resold into any commercial or developmental manner in connection with medical
+applications without em’s prior express written acknowledgement. further, buyer agrees that it will make no representations, express or implied, to
+any person to the effect that em recommends or endorses the use of product(s) purchased hereunder in any medical application. em's maximum
+liability for all claims for any reason is the sales price of the product involved and em shall not be liable for indirect or consequential damage.
+claims by buyer are waived unless made in writing within 150 days from date of (non-) delivery. buyer shall indemnity and hold em harmless in
+respect of all claims for which buyer is liable.
+15. em makes no representation or warranty of any kind, express or implied, that the products sold hereunder, or the use of such products, or
+articles made therefrom, either alone or in conjunction with other materials, will not infringe any patent or trademark rights. buyer agrees that it will
+promptly notify em of any claim or suit involving buyer in which patent or trademark infringement is alleged with respect to the products sold
+hereunder, and that buyer will permit em, at its option and expense, to control completely the defence or settlement of any such allegation of
+infringement.
+16. neither party shall be liable for any delay in performance or non-performance in whole or in part caused by circumstances beyond the
+reasonable control of the party affected including but not limited to, acts of god, fire, flood, war, terrorist activity, or the threat of one of these
+events, criminal acts or sabotage, diminishment or failure of power, telecommunications, data systems or networks, accident, explosion, equipment
+breakdowns, labour disputes, shortage or inability to obtain energy, utilities, equipment, transportation, the product, or the feedstock from which
+the product is directly or indirectly derived; or good faith compliance with any regulation, direction r request (whether ultimately determined to be
+valid or invalid) made by governmental authority or any person or persons purporting to act for such an authority.
+regardless of the occurrence or non-occurrence of any of the circumstances set forth above, if for any reason, supplies of or distribution logistics
+of the product deliverable under this agreement or of the feedstock from which the product is directly or indirectly derived from any of em's then
+existing sources of supply are curtailed or cut off, or otherwise inadequate to meet em’s own requirements and its obligations to its customers, em
+shall have the option during such period of curtailment, or cessation to apportion fairly among its customers including em’s affiliates and whether
+under contract or not, such product as may be received in the ordinary course of business or manufactured at em then existing sources.
+em shall not be obliged to purchase or otherwise obtain alternative supplies of product deliverable under this agreement, or the feedstock from
+which product directly or indirectly is derived. nor shall em be obliged to settle labour disputes, run down inventories below normal levels, adapt
+or vary its manufacturing plan except at its own sole discretion, or to take any steps other than in accordance with good business practice to make
+up inadequate supplies or to replace the supplies so curtailed or cut off.
+em shall not be obliged to make up deliveries omitted or curtailed under this agreement. any such deficiencies in deliveries shall be cancelled with
+no liability to either party, it being agreed, however, that a force majeure situation hereunder shall not entitle either party to cancel this agreement.
+17. in case of any material breach of the terms and conditions contained in the agreement by one of the parties, the other party may, without giving
+prior written notice in the event the material breach is not cured within such notice period or without undertaking any recourse to legal
+proceedings, suspend its further performance, terminate the agreement or require specific performance by the other party of the agreement in
+whole or in part, without prejudice to its right to damages for any losses incurred subject to article 14.
+18. neither party may assign this agreement without the written consent of the other party save in the case where such assignment is to an em
+affiliate and prior written notice has been given to the buyer.
+source: west pharmaceutical services inc, 8-k, 1/16/2020
+19. em informs buyer that any information relating to an identified or identifiable natural person (“individual”), in particular business contact
+details of buyer’s personnel and contractors, which is communicated by or on behalf of buyer to em (“personal data”), will be subject to data
+processing by em. to learn more about the processing of personal data and about individual’s rights in relation to the processing, read the em
+data privacy notice at http://www.exxonmobil.be/enbe/company/locations/belgium/legal-information-belgium-only buyer shall inform its personnel
+and contractors and other relevant individuals of the em data privacy notice.
+20. notwithstanding any other provision in this agreement or any other document, neither this agreement nor any other document shall constitute
+an agreement by em to take any action or refrain from taking any action that is in conflict with, penalized under or compliance with which is
+prohibited by the laws or regulations of the united states, the european union (eu), any eu member state, the united kingdom and/or norway, as
+applicable. the parties furthermore represent, warrant and undertake to each other on a continuous basis that they shall comply with all applicable
+anti-bribery and anti-money laundering laws, rules and regulations of any government relevant to the transaction, including the us foreign corrupt
+practices act and the applicable country legislation implementing oecd convention on combating bribery of foreign public officials in
+international business transactions as such laws and regulations may be updated or amended from time to time.
+21. to the extent permitted by law, in the event that a party becomes aware that it will or may undergo a change of control (“affected party”) within
+the following three (3) months, the affected party will notify the other party without delay after it becomes so aware. together with such
+notification, the affected party will supply the other party with sufficient information to allow that other party to reasonably assess the impact that
+such change of control may have on it and/or its affiliates, on the affected party’s creditworthiness, and on the affected party’s ability to perform
+its obligations under this agreement. in the event that the other party concludes in its sole discretion that such change of control, if it is
+implemented:
+a) may result in it and/or its affiliates being subjected to any fact, matter, event, circumstance, condition or change which materially and adversely
+affects, or could reasonably be expected to materially and adversely affect, individually or in aggregate, the business, operations, assets, liabilities,
+condition (whether financial, trading or otherwise), prospects or operating results of it and/or its affiliates;
+b) that the affected party’s creditworthiness may be reduced; and/or
+c) that the affected party’s ability to perform its obligations under the agreement may be negatively affected;
+then the other party may (but is not obliged to) terminate this agreement forthwith upon notice to the affected party. such termination is without
+prejudice to the rights and obligations of the parties that have accrued up to and including the date of termination.
+as used above, "change of control" means any of the following:
+i) any transaction, or series of transactions, that would result in the transfer of at least fifty percent (50) of the equity interest in a party (or of at
+least fifty percent (50) of the equity interest in any business entity that owns or controls, directly or indirectly, at least fifty percent (50) of the
+equity interest in a party ("party’s parent")) to a single transferee or multiple transferees under common control;
+ii) any transaction that would result in a party’s (or party’s parent's) merging with one or more other entities.
+22. this agreement between em and buyer shall be governed by the laws of belgium (excluding its rules on conflict of laws). neither the uniform
+law on the international sale of goods ('ulis'), nor the united nations convention on contracts for the international sale of goods 1980 ('cisg')
+shall apply.
+i) if buyer's registered office is located within the territory of the european economic area ('eea'), any disputes between em and buyer arising out of
+or in relation to this agreement shall be of the exclusive jurisdiction of the courts of antwerp.
+ii) if buyer's registered office is located outside the territory of the eea, any disputes arising out of or in relation to this agreement shall be finally
+settled under the cepani rules of arbitration by three (3) arbitrators appointed in accordance with said rules. the seat of the arbitration shall be
+brussels. the arbitration shall be conducted in the english language.
+________________________________
+ further information on exxonmobil petroleum & chemical bvba is available on:
+http://www.exxonmobil.be/en-be/company/locations/belgium/legal-information-belgium-only
+source: west pharmaceutical services inc, 8-k, 1/16/2020

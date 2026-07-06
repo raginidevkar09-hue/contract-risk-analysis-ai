@@ -1,0 +1,1642 @@
+exhibit   10.19 
+
+ strategic   alliance   agreement 
+ among 
+
+ sumitomo   mitsui   banking   corporation , 
+ smbc   nikko   security   inc . 
+
+ and 
+
+ moeli   &   company   holding   lp , 
+ moeli   &   company   holding   gp   llc 
+
+ date   december   27 ,   2011 
+
+ table   of   content 
+
+ article   i. 
+
+ certain   definitions;   interpretation . 
+
+ 1.1 
+
+ certain   definition 
+
+ 1.2 
+
+ interpretation 
+
+ article   ii . 
+
+ strategic   alliance . 
+
+ 2.1 
+
+ strategic   alliance 
+
+ 2.2 
+
+ obligation   of   the   party 
+
+ article   iii . 
+
+ scope . 
+
+ 3.1 
+
+ scope 
+
+ 3.2 
+
+ cover   business 
+
+ 3.3 
+
+ cover   region 
+
+ 3.4 
+
+ japanese   company 
+
+ 3.5 
+
+ client 
+
+ 3.6 
+
+ corporate   lending   business 
+
+ article   iv . 
+
+ fee   allocation . 
+
+ 4.1 
+
+ general   allocation 
+
+ 4.2 
+
+ certain   moeli   holding   sell - side   assignment 
+
+ 4.3 
+
+ target   transaction 
+
+ 4.4 
+
+ discretionary   fee   sharing 
+
+ 4.5 
+
+ primary   fee   allocation   criterion 
+
+ article   v. 
+
+ non - circumvention / non - solicitation . 
+
+ 5.1 
+
+ non - circumvention 
+
+ 5.2 
+
+ non - solicitation 
+
+ 5.3 
+
+ japan   office 
+
+ I 
+
+ article   vi . 
+
+ senior   sponsorship;   alliance   review   committee . 
+
+ 6.1 
+
+ alliance   review   committee 
+
+ article   vii . 
+
+ training   and   development . 
+
+ 7.1 
+
+ training   and   development 
+
+ 7.2 
+
+ secondment   program 
+
+ article   viii . 
+
+ engagement . 
+
+ 8.1 
+
+ engagement   letter   and   other   agreement 
+
+ 8.2 
+
+ expense 
+
+ 8.3 
+
+ conflict   clearance 
+
+ 8.4 
+
+ compliance   with   law 
+
+ article   ix . 
+
+ joint   marketing . 
+
+ 9.1 
+
+ joint   marketing 
+
+ article   x. 
+
+ confidentiality . 
+
+ 10.1 
+
+ confidentiality 
+
+ article   xi . 
+
+ term 
+
+ 11.1 
+
+ term 
+
+ 11.2 
+
+ termination 
+
+ 11.3 
+
+ effect   of   termination 
+
+ article   xii . 
+
+ certain   right   of   smbc / nikko . 
+
+ 12.1 
+
+ advisory   board 
+
+ 12.2 
+
+ right   of   first   refusal 
+
+ ii 
+
+ 12.3 
+
+ moeli   general   partner ’s   consent   to   certain   transfer 
+
+ 12.4 
+
+ certain   transfer   matter 
+
+ 12.5 
+
+ amendment   to   the   moelis   holding   agreement 
+
+ 12.6 
+
+ percentage   interest   limit 
+
+ article   xiii . 
+
+ registration   right . 
+
+ 13.1 
+
+ registration 
+
+ 13.2 
+
+ piggyback   registration 
+
+ 13.3 
+
+ reduction   of   size   of   underwritten   offering 
+
+ 13.4 
+
+ registration   procedure 
+
+ 13.5 
+
+ condition   to   offering 
+
+ 13.6 
+
+ suspension   period 
+
+ 13.7 
+
+ market   stand - off   agreement 
+
+ 13.8 
+
+ registration   expense 
+
+ 13.9 
+
+ indemnification;   contribution 
+
+ 13.10 
+
+ rule   144 
+
+ 13.11 
+
+ transfer   of   registration   right 
+
+ 13.12 
+
+ termination   of   registration   right 
+
+ article   xiv . 
+
+ representation   and   warranties;   conduct   of   business 
+
+ 14.1 
+
+ representation   and   warranty   of   moeli 
+
+ 14.2 
+
+ representation   and   warranty   of   smbc / nikko 
+
+ 14.3 
+
+ survival   of   covenant ,   representation   and   warranty 
+
+ article   xv . 
+
+ miscellaneous 
+
+ 15.1 
+
+ expenses;   no   partnership   or   joint   venture 
+
+ 15.2 
+
+ notice 
+
+ 15.3 
+
+ entire   agreement;   amendment;   waivers;   counterpart 
+
+ 15.4 
+
+ no   assignment 
+
+ 15.5 
+
+ obligation   and   responsibility   of   smbc / nikko 
+
+ 15.6 
+
+ separability 
+
+ 15.7 
+
+ compliance   with   law 
+
+ 15.8 
+
+ govern   laws;   jurisdiction 
+
+ 15.9 
+
+ effect   on   prior   agreement 
+
+ 15.10 
+
+ good   faith   discussion;   far   assurance 
+
+ iii 
+
+ strategic   alliance   agreement 
+
+ this   strategic   alliance   agreement   be   enter   into   as   of   december   27 ,   2011   by   and   among   sumitomo   mitsui   banking   corporation 
+ ( " smbc " ) ,   a   japanese   corporation   with   its   head   office   at   1 - 2 ,   marunouchi   1 - chome ,   chiyoda - ku ,   tokyo   100 - 0006 ,   japan   and   its   subsidiary   smbc 
+ nikko   security   inc .   ( " nikko "   and   together   with   smbc ,   " smbc / nikko " ) ,   a   japanese   corporation   with   its   head   office   at   3 - 1 ,   marunouchi   3 - chome , 
+ chiyoda - ku ,   tokyo   100 - 8325 ,   japan ,   on   the   one   hand ,   and   moelis   &   company   holding   lp   ( " moeli   holding " ) ,   a   delaware   limit   partnership 
+ with   office   at   399   park   avenue ,   new   york ,   ny   10022 ,   united   state ,   and   moelis   &   company   holding   gp   llc ,   a   delaware   limit   liability   company 
+ with   office   at   399   park   avenue ,   new   york ,   ny   10022 ,   united   state   ( " moeli   general   partner " ,   and   together   with   moeli   holding ,   the   " moeli 
+ entity " ) ,   on   the   other   hand .   smbc ,   nikko ,   moeli   holding   and   moeli   general   partner   be   each   refer   to   herein   as   a   " party "   and   collectively 
+ refer   to   as   the   " party " . 
+
+ w   I   t   n   e   s   s   e   t   h : 
+
+ whereas ,   on   march   1 ,   2011 ,   smbc / nikko   and   moeli   holding   enter   into   that   certain   strategic   alliance   agreement   ( phase   i )   with 
+ respect   to   certain   investment   banking   business   in   certain   region   involve   japanese   company   ( the   " prior   agreement”); 
+
+ whereas ,   on   the   date   hereof ,   smbc   enter   into   an   investment   and   subscription   agreement   ( as   modify   or   amend ,   the 
+ " subscription   agreement " )   with   moeli   holding   and   moeli   general   partner ,   pursuant   to   which   smbc   have   agree   to   acquire   57,364   newly   issue 
+ partnership   interests; 
+
+ whereas ,   the   party   wish   to   amend   and   restate   the   prior   agreement   to   far   set   forth   the   understanding   of   the   party   with   respect   to 
+ certain   investment   banking   business   in   certain   region   involve   japanese   company   and   to   set   forth   certain   agreement   with   respect   to   certain 
+ transfer   and   registration   right   relate   to   the   partnership   interest   as   of   the   effective   date;   and 
+
+ whereas ,   the   execution   and   delivery   of   this   agreement   be   a   condition   to   the   closing   of   the   transaction   contemplate   by   the 
+ subscription   agreement . 
+
+ now ,   therefore ,   in   consideration   of   the   foregoing   and   the   respective   promise   contain   herein   and   for   other   good   and   valuable 
+ consideration ,   the   receipt   and   sufficiency   of   which   be   hereby   acknowledge : 
+
+ article   i. 
+
+ certain   definitions;   interpretation . 
+
+ 1.1   certain   definition . 
+
+ " agreement "   mean   this   strategic   alliance   agreement ,   as   amend   or   modify   from   time   to   time   in   accordance   with   section   15.3 , 
+ include   all   schedule   and   exhibit   hereto . 
+
+ " alliance   review   committee "   have   the   meaning   give   in   section   6.1 . 
+
+ " client "   have   the   meaning   give   in   section   3.5 . 
+
+ " close "   mean   the   closing   as   define   in   the   side   letter . 
+
+ " confidential   information "   have   the   meaning   give   in   section   10.1 . 
+
+ " control "   shall   mean   possession ,   directly   or   indirectly ,   of   the   power   to   direct   or   cause   the   direction   of   the   management   and   policy   of   an 
+ entity   whether   through   ownership   of   vote   security ,   by   contract   or   otherwise ,   include   the   ability   to   elect   the   majority   of   the   director   or   the 
+ member   of   a   similar   govern   body   of   such   entity . 
+
+ " cover   business "   have   the   meaning   give   in   section   3.2 . 
+
+ " cover   region "   have   the   meaning   give   in   section   3.3 . 
+
+ " demand   notice "   have   the   meaning   set   forth   in   section   13.1(a)(i ) . 
+
+ " demand   registration "   have   the   meaning   set   forth   in   section   13.1(a)(i ) . 
+
+ " effective   date "   have   the   meaning   set   forth   section   11.1 . 
+
+ " indemnify   party "   have   the   meaning   set   forth   in   section   13.9(c ) . 
+
+ " indemnify   person "   have   the   meaning   set   forth   in   section   13.9(a ) . 
+
+ " indemnify   party "   have   the   meaning   set   forth   in   section   13.9(c ) . 
+
+ " introduce "   and   " introduce "   mean   that   a   party   arrange   or   arrange   an   initial   substantive   meeting   ( in   person   or   by   phone )   between   a 
+ senior   decision   maker   at   the   client   and   the   other   party . 
+
+ " ipo "   mean   an   initial   underwritten   public   offering   and   sale   of   partnership   interest   ( or   any   security   of   moelis   holding   or   any 
+ successor   entity   into   which   partnership   interest   be   convert ,   exchange   or   redesignate )   for   cash   pursuant   to   an   effective   registration 
+ statement   ( other   than   on   form   s-4   or   s-8   or   a   comparable   form ) . 
+
+ " issuer   fwp "   have   the   meaning   assign   to   " issuer   free   writing   prospectus "   in   rule   433   under   the   security   act . 
+
+ " japanese   company "   have   the   meaning   give   in   section   3.4 . 
+
+ " japanese   competitor "   mean   any   japanese   financial   institution   that   engage   in   an   investment   banking   business   or   any   other   cover 
+ business   in   japan   or   outside   japan . 
+
+ " km "   mean   mr .   ken   moeli   and   any   entity   or   person   control   by   or   affiliate   with   mr .   moelis ,   include   moeli   manager ,   any   family 
+ trust   or   otherwise ,   through   which   mr .   ken   moeli   hold   his   partnership   interest . 
+
+ " loss "   have   the   meaning   set   forth   in   section   13.9(a ) . 
+
+ " main - advisor   party "   have   the   meaning   set   forth   in   section   8.4 . 
+
+ " major   japanese   competitor "   mean   the   follow   entity   together   with   any   ultimate   parent   control   such   entity :   mitsubishi   ufj 
+ financial   group ,   inc . ,   mizuho   financial   group ,   inc . ,   nomura   holding ,   inc . ,   daiwa   security   group   inc . ,   sumitomo   mitsui   trust   holding ,   inc . , 
+ resona   holding ,   inc . ,   shinsei   bank ,   limited . ,   orix   corporation ,   any   of   their   respective   subsidiary   as   of   the   date   of   this   agreement   that 
+ substantially   engage   in   an   investment   banking   business   or   any   other   cover   business   in   japan ,   and   any   respective   successor   of   any   of   the 
+ entity   set   forth   herein . 
+
+ " minimum   aggregate   fee "   have   the   meaning   give   in   section   4.3 . 
+
+ " moelis   competitor "   mean   any   business   enterprise   that   be   engage   in ,   or   own   or   control   a   significant   interest   in   any   entity   that ,   in 
+ either   case ,   be   engage ,   primarily   or   in   any   substantial   manner   in ,   investment   banking   activity   or   any   other   business   activity   that   moeli 
+ holding   and/or   its   affiliate   be   engage   in   primarily   or   in   any   substantial   manner;   provide ,   however ,   that   no   private   equity   fund ,   sovereign 
+ wealth   fund   or   merchant   bank   shall   be   deem   a   " moeli   competitor " . 
+
+ " moelis   entity "   have   the   meaning   set   forth   in   the   preamble   to   this   agreement . 
+
+ " moelis   general   partner "   have   the   meaning   set   forth   in   the   preamble   to   this   agreement . 
+
+ " moelis   holding "   have   the   meaning   set   forth   in   the   preamble   to   this   agreement . 
+
+ " moelis   holding   agreement "   mean   that   certain   limited   partnership   agreement   of   moelis   holding ,   date   as   of   july   1 ,   2011   ( as 
+ amend ) . 
+
+ " moelis   manager "   mean   moeli   &   company   manager   llc ,   a   delaware   limit   liability   company . 
+
+ " nikko "   have   the   meaning   set   forth   in   the   preamble   to   this   agreement . 
+
+ " nikko   affiliate "   have   the   meaning   set   forth   in   section   10.1 . 
+
+ " non - japanese   competitor "   mean   the   follow   entity   together   with   any   ultimate   parent   control   such   entity :   evercore   partner 
+ inc . ,   hawkpoint   partner   limited ,   perella   weinberg   partner   lp ,   sagent   advisor   inc . ,   dc   advisory   partner   limit   and   stifel   financial   corp . 
+ ( which ,   for   the   avoidance   of   doubt ,   include   stifel   nicolaus   weisel   ( f / k / a   thomas   weisel ) ) . 
+
+ " partnership   interest "   mean   limit   partnership   interest   and   any   security   of   moelis   holding   or   any   successor   entity   into   which 
+ partnership   interest   be   convert ,   exchange   or   redesignate ,   include   in   connection   with   any   recapitalization   of   moelis   holding   for   the 
+ purpose   of   conduct   the   ipo . 
+
+ " party "   or   " party "   have   the   meaning   set   forth   in   the   preamble   to   this   agreement . 
+
+ " piggyback   registration "   have   the   meaning   set   forth   in   section   13.2 . 
+
+ " prior   agreement "   have   the   meaning   set   forth   in   the   recital   to   this   agreement . 
+
+ " prospectus "   mean   the   prospectus   ( include   any   preliminary   prospectus   and   any   final   prospectus )   include   in   any   registration 
+ statement ,   as   amend   or   supplement   by   any   free   writing   prospectus ,   whether   or   not   require   to   be   file   with   the   sec ,   prospectus   supplement 
+ with   respect   to   the   term   of   the   offering   of   any   portion   of   the   registrable   security   cover   by   the   registration   statement   and   by   all   other 
+ amendment   and   supplement   to   the   prospectus ,   and   all   material   incorporate   by   reference   in   such   prospectus . 
+
+ " registrable   security "   mean   all   smbc   unit   beneficially   own   by   the   smbc   unit - holder   at   any   time ,   and   any   security   of   moelis 
+ holding   or   any   successor   entity   into   which   the   smbc   unit   be   convert ,   exchange   or   redesignate ,   include   in   connection   with   any 
+ recapitalization   of   moelis   holding   for   the   purpose   of   conduct   the   ipo;   provide ,   however ,   that   an   smbc   unit   shall   cease   to   be   a   registrable 
+ security   when   ( i )   it   have   be   effectively   register   under   the   security   act   and   dispose   of   in   accordance   with   the   registration   statement   cover 
+ it ,   or   ( ii )   it   be   distribute   to   the   public   pursuant   to   rule   144 . 
+
+ " registration   statement "   mean   any   registration   statement   of   moelis   holding   that   cover   registrable   security   pursuant   to   the 
+ provision   of   this   agreement ,   include   the   prospectus ,   amendment   and   supplement   to   such   registration   statement ,   include   pre-   and   post- 
+ effective   amendment ,   and   all   exhibit   and   all   material   incorporate   by   reference   in   such   registration   statement . 
+
+ " representative "   mean ,   with   respect   to   any   person ,   such   person ’s ,   or   such   person ’s   subsidiary ' ,   director ,   officer ,   employee , 
+ accountant ,   investment   banker ,   commercial   bank   lender ,   attorney   and   other   advisor   or   representative   ( include   the   employee   or   attorney 
+ of   such   accountant ,   investment   banker   or   attorney ) . 
+
+ " rule   144 "   mean   rule   144   promulgate   under   the   security   act   or   any   similar   rule   or   regulation   hereafter   adopt   by   the   security   and 
+ exchange   commission   have   substantially   the   same   effect   as   such   rule . 
+
+ " side   letter "   mean   the   letter   from   moeli   general   partner   and   moeli   holding   to   smbc ,   re   investment   in   moeli   &   company   holding 
+ lp ,   date   the   date   hereof . 
+
+ " smbc "   have   the   meaning   set   forth   in   the   preamble   to   this   agreement . 
+
+ " smbc   affiliate "   have   the   meaning   set   forth   in   section   10.1 . 
+
+ " smbc   competitor "   mean   ( i )   any   of   the   japanese   competitor ,   ( ii )   each   of   the   non - japanese   competitor ,   ( iii )   any   entity   that   be 
+ control   by   any   japanese   competitor   or   any   non - japanese   competitor   and   that   engage   in   an   investment   banking   business   or   any   other 
+ cover   business   and   ( iv )   any   entity   that   be   under   common   control   with   or   control   any   major   japanese   competitor   and   that   engage   in   an 
+ investment   banking   business   or   any   other   cover   business . 
+
+ " smbc   unit "   mean   all   partnership   interest ,   include   common   unit ,   hold   by   an   smbc   unit - holder ,   which   shall   include   all   partnership 
+ interest   acquire   pursuant   to   the   subscription   agreement   or   thereafter . 
+
+ " smbc   unit - holder "   have   the   meaning   set   forth   in   section   13.1(a)(i ) . 
+
+ " security   act "   mean   the   security   act   of   1933 ,   as   amend . 
+
+ " smb   c / nikko "   have   the   meaning   set   forth   in   the   preamble   to   this   agreement . 
+
+ " strategic   alliance "   mean   the   right   and   obligation   of   the   party   set   forth   in   article   ii   to   xii   of   this   agreement . 
+
+ " sub - advisor   party "   have   the   meaning   set   forth   in   section   8.4 . 
+
+ " subscription   agreement "   have   the   meaning   set   forth   in   the   recital   to   this   agreement . 
+
+ " suspension   period "   have   the   meaning   set   forth   in   section   13.6 . 
+
+ " underwritten   offering "   mean   a   public   offering   of   security   register   under   the   security   act   in   which   an   underwriter ,   placement   agent 
+ or   other   intermediary   participate   in   the   distribution   of   such   security . 
+
+ 1.2   interpretation . 
+
+ ( a )   capitalize   term   use   without   definition   herein   shall   have   the   respective   meaning   give   to   such   term   in   the   moelis 
+ holding   agreement . 
+
+ article   ii . 
+
+ strategic   alliance . 
+
+ 2.1   strategic   alliance .   smbc / nikko   and   moeli   holding   wish   to   continue   their   strategic   alliance   with   respect   to   certain   investment 
+ banking   business   in   certain   region   involve   japanese   company   as   set   forth   herein ,   and   will   continue   to   offer   the   other   the   same   quality   or   level 
+ of   service   that   be   offer   under   the   prior   agreement .   smbc / nikko   and   moeli   holding   will   help   the   other   continue   the   growth   of   the   other 
+ party ’s   investment   banking   business . 
+
+ 2.2   obligation   of   the   party .   each   of   the   party   acknowledge   and   agree   that   each   other   party   may ,   and   at   the   reasonable   request   from 
+ another   party ,   shall ,   cause   one   or   more   of   such   party ’s   affiliate   to   act   on   behalf   of   such   party   in   the   performance   of   its   duty   or   exercise   of   its 
+ right   under   this   agreement . 
+
+ article   iii . 
+
+ scope . 
+
+ 3.1   scope .   subject   to   the   term   and   condition   set   forth   in   this   agreement   and   to   the   extent   permit   by   pre - exist   arrangement   of 
+ either   party ,   smbc / nikko ,   on   the   one   hand ,   and   moeli   holding ,   on   the   other   hand ,   shall   use   their   commercially   reasonable   good   effort   to   work 
+ together   on   cover   business   involve   japanese   company   where   all   principal   party   involve   be   locate   within   cover   region .   the 
+ strategic   alliance   shall   continue   to   be   non - exclusive . 
+
+ 3.2   cover   business .   " cover   business "   shall   mean   m&a   advisory ,   restructure   advisory   ( such   as   advise   on   recapitalization 
+ and   restructure   transaction ) ,   capital   market   advisory   ( include   agency   private   placement ) ,   risk   advisory   ( such   as   advise   on   investing , 
+ structuring ,   manage ,   restructuring   and   divest   risk   exposure   and   complex   asset   class )   and   merchant   banking   business   ( such   as   principal 
+ investment )   to   the   extent   the   applicable   target   transaction   requirement   set   forth   in   section   4.3   of   this   agreement   be   satisfied ,   but   specifically 
+ exclude   ( unless   the   party   mutually   agree   to   include   a   specific   transaction )   ( i )   underwritten   offering   and   bank   or   similar   committed   financing ,   ( ii ) 
+ purely   domestic   japanese   transaction   such   as   transaction   solely   between / among   company   organize   or   headquarter   in   japan   ( include   any 
+ transaction   of   or   by   subsidiary   or   affiliate   of   such   company   locate   throughout   the   world   conduct   as   part   of   any   such   transaction ) ,   ( iii )   any 
+ transaction   introduce   to   a   party   by   a   person   or   entity   ( other   than   a   principal   party   to   the   transaction )   not   affiliate   with   such   party   and   ( iv ) 
+ transaction   where   a   party ,   its   subsidiary   or   control   affiliate   be   a   principal   party . 
+
+ 3.3   cover   region .   " cover   region "   shall   mean   japan ,   north   america ,   europe ,   the   middle   east   and   north   africa ,   australia ,   hong 
+ kong   and   china .   for   the   avoidance   of   doubt ,   the   definition   of   cover   region   do   not   prohibit   the   party   from 
+
+ discuss   or   work   together   on   cover   business   in   region   outside   the   cover   region ,   such   as   non - japan / hong   kong / china   asia . 
+
+ 3.4   japanese   company .   " japanese   company "   shall   mean   ( i )   company   organize   or   headquarter   in   japan   and   their   subsidiary   and 
+ control   affiliate   outside   japan ,   ( ii )   subsidiary   and   control   affiliate   organize   or   headquarter   in   japan   of   parent   company   in   the   cover 
+ region   other   than   japan   and   ( iii )   japanese   governmental   and   quasi - governmental   entity   and   affiliate . 
+
+ 3.5   client .   a   " client "   be   ( i )   with   respect   to   smbc / nikko ,   a   japanese   company   or   any   other   person   or   entity   within   cover   region   that 
+ smbc / nikko   introduce   to   moeli   holding   pursuant   to   this   agreement   and   ( ii )   with   respect   to   moeli   holding ,   a   japanese   company   or   any 
+ other   person   or   entity   within   cover   region   that   moeli   holding   introduce   to   smbc / nikko   pursuant   to   this   agreement . 
+
+ 3.6   corporate   lending   business .   smbc / nikko   and   moeli   holding   will   continue   to   work   together   in   good   faith   to   seek   way   to   expand 
+ the   strategic   alliance   to   cover   corporate   lending   opportunity   where   moeli   holding   source   corporate   lending   opportunity   for   smbc / nikko   to 
+ moeli   holding '   client   and   work   with   smbc / nikko   to   provide   smbc / nikko   client   and   relationship   access   to   moeli   holding   capability   in 
+ cover   business .   the   party   may   enter   into   additional   agreement   and/or   addenda   to   this   agreement   design   to   elaborate   upon   and   clarify 
+ the   arrangement   contemplate   by   this   section   3.6 . 
+
+ article   iv . 
+
+ fee   allocation . 
+
+ 4.1   general   allocation .   the   party   agree   to   share   fee   50/50   on   assignment   within   the   scope   of   this   agreement   set   forth   in   section   3.1 
+ where   smbc   or   nikko ,   on   the   one   hand ,   and   moeli   holding ,   on   the   other   hand ,   be   jointly   retain   as   co - advisor   by   a   client   for   such 
+ assignment ,   except   as   otherwise   mutually   agree   with   respect   to   a   specific   matter   by   the   party .   the   party   agree   that   the   party   will   generally 
+ seek   to   be   jointly   retain   as   co - advisor   by   a   client   on   assignment   within   the   scope   of   this   agreement . 
+
+ 4.2   certain   moeli   holding   sell - side   assignment .   in   the   case   of   m&a   sell - side   assignment   originate   by   moelis   holding   within   the 
+ scope   of   this   agreement   set   forth   in   section   3.1   for   which   smbc   or   nikko   do   not   serve   ( together   with   moeli   holding )   as   a   co - advisor   to   the 
+ seller ,   if   smbc   or   nikko   introduce   the   actual   buyer ,   and   neither   smbc   nor   nikko   obtain   a   mandate   to   serve   as   an   advisor   to   such   buyer   in 
+ connection   with   such   acquisition ,   moeli   holding   will   pay   smbc / nikko   an   introduction   fee   equal   to   15   of   the   sale   transaction   fee   pay   to 
+ moeli   holding .   there   will   be   no   other   sharing   of   fee   receive   from   the   seller   between   moelis   holding   and   smb   c / nikko   on   any   such 
+ assignment . 
+
+ 4.3   target   transaction .   the   strategic   alliance   will   target   transaction   on   which   both   party   work   together   as   co - advisor   to   a   client   on 
+ the   term   and   condition   set   forth   in   section   3.1   with   minimum   aggregate   fee   ( the   " minimum   aggregate   fee " )   of :   ( 1 )   m&a   advisory ,   3   million , 
+ ( 2 )   restructuring   advisory ,   2   million   and   ( 3 )   capital   market   advisory   and   risk   advisory ,   1   million . 
+
+ 4.4   discretionary   fee   sharing .   one   or   more   senior   representative   of   moeli   holding   or   smbc / nikko ,   as   the   case   may   be ,   will   consider   on 
+ a   case   by   case   basis   if   request   by   a   senior   representative   of   the   other   party ,   discretionary   fee   sharing   when   moeli   holding   or   smbc / nikko ,   as 
+ the   case   may   be ,   provide   demonstrable   value . 
+
+ 4.5   primary   fee   allocation   criterion .   the   party   may   mutually   agree   on   a   fee   allocation   different   from   the   forego   allocation   in   good   faith 
+ base   on ,   among   other   thing ,   the   follow   criterion : 
+
+ ( a )   whether   one   or   both   party   have   an   important   relationship   that   be   crucial   to   secure   an   assignment 
+
+ ( b )   resource   contribution 
+
+ ( c )   product   expertise 
+
+ ( d )   industry   expertise 
+
+ ( e )   transaction   size 
+
+ ( f )   resource   constraint 
+
+ article   v. 
+
+ non - circumvention / non - solicitation . 
+
+ 5.1   non - circumvention .   subject   to   pre - exist   arrangement   of   either   party ,   each   party   agree   not   to   circumvent   this   agreement   and   to 
+ act   in   good   faith   in   the   spirit   of   the   strategic   alliance .   each   party   shall   ensure   that   its   control   affiliate   comply   with   the   term   and   condition   of 
+ this   agreement . 
+
+ 5.2   non - solicitation .   each   of   smbc / nikko   and   moeli   holding   agree   not   to   solicit   or   hire   any   employee   of   the   other   party   during   the 
+ term   of   this   agreement   and   for   a   period   of   12   month   thereafter;   provide ,   however ,   that   the   forego   restriction   shall   not   apply   to   general 
+ solicitation   to   the   public   that   be   not   specifically   direct   to   employee   of   other   party   ( or   employment   of   applicant   to   such   solicitation ) .   each   of 
+ smbc / nikko   and   moeli   holding   agree ,   during   the   term   of   this   agreement   ( except   pursuant   to   this   agreement )   and   for   a   period   of   12   month 
+ thereafter ,   not   to   solicit   any   client   introduce   by   the   other   party   in   connection   with   an   assignment   on   cover 
+
+ business   involve   japanese   company   where   all   principal   party   involve   be   locate   within   cover   region . 
+
+ notwithstanding   the   foregoing ,   this   provision   shall   not   prevent   any   party   from   solicit   or   otherwise   contact   any   client   ( i ) 
+ for   any   purpose   other   than   work   on   or   obtain   an   assignment   on   cover   business   involve   japanese   company   in   cover   region 
+ where   all   principal   party   involve   be   locate   within   cover   region   or   ( ii )   with   whom   such   party   ( or   its   employee   or   consultant )   have   have   a 
+ pre - exist   relationship ,   include ,   but   not   limit   to ,   a   pre - exist   contractual   or   business   relationship ,   prior   to   the   introduction   of   such   client   in 
+ connection   with   an   assignment   cover   by   this   agreement . 
+
+ 5.3   japan   office .   moeli   holding   agree   not   to   open   an   office   in   japan   conduct   cover   business   during   the   term   of   this 
+ agreement . 
+
+ article   vi . 
+
+ senior   sponsorship;   alliance   review   committee . 
+
+ 6.1   alliance   review   committee .   as   soon   as   reasonably   practicable   follow   the   effective   date ,   smbc / nikko   and   moeli   holding   shall 
+ form   a   six   person   committee   comprise   of   two   senior   executive   from   each   of   smbc ,   nikko   and   moeli   holding   to   review   and   discuss   the 
+ progress   of   the   strategic   alliance   ( the   " alliance   review   committee " ) .   each   party   shall   notify   the   other   party   if   it   replace   either   of   its   designee   to 
+ the   alliance   review   committee .   the   alliance   review   committee   will   meet   annually   and   will   have   the   authority   to   recommend   change   to   the 
+ strategic   alliance   or   this   agreement   if   deem   appropriate .   for   the   avoidance   of   doubt ,   the   recommendation   of   the   alliance   review   committee 
+ will   not   be   bind   upon   any   party   unless   and   until   this   agreement   be   amend   or   modify   pursuant   to   section   15.3 . 
+
+ article   vii . 
+
+ training   and   development . 
+
+ 7.1   training   and   development .   during   the   term   of   this   agreement ,   moeli   holding   shall   offer   certain   full - time   analyst   and   associate   of 
+ smbc / nikko ,   or   employee   with   similar   responsibility ,   the   opportunity   to   participate   annually   in   moeli   holding '   training   program   for   newly 
+ hire   full - time   analyst   and   associate ,   to   the   extent   that   moeli   holding '   hold   such   a   program .   smbc / nikko   shall   reimburse   moeli   holding   for 
+ all   out - of - pocket   and   allocate   expense   incur   by   moelis   holding   in   connection   with   smbc / nikko   employee '   attend   the   moelis   holding 
+ training   program . 
+
+ 7.2   secondment   program . 
+
+ ( a )   during   the   term   of   this   agreement ,   smbc / nikko   shall   second   3   or   4   banker   to   moeli   holding '   new   york   office   and   second 
+ 2   or   3   banker   to   moeli   holding '   london   office   as   local   staff   of   moelis   holding .   moeli   holding   shall   use   its   commercially   reasonable   good 
+ effort   to   second   a   banker   to   smbc / nikko ’s   tokyo   office   as   local   staff   of   smbc / nikko .   all   secondee   shall   be   investment   banker   that   serve   in   a 
+ position   with   responsibility   typically   associate   with   an   associate   or   a   vice   president   at   a   major   international   investment   bank ,   except   as 
+ otherwise   agree   between   smb   c / nikko   and   moeli   holding . 
+
+ ( b )   each   party   shall   be   responsible   for   all   out - of - pocket   and   allocate   expense   incur   by   its   employee   who   be   seconded .   a 
+ party ’s   secondee(s )   must   be   reasonably   acceptable   to   the   other   party   and   shall   agree   to   be   subject   to   any   policy   and   procedure ,   include 
+ without   limitation ,   relate   to   confidential   and   proprietary   information   and   security   and   other   trading   activity   limitation ,   that   the   party   accept 
+ such   secondee   may   determine   be   necessary   and/or   appropriate . 
+
+ ( c )   smbc / nikko   and   moeli   holding   will   from   time   to   time   during   the   term   of   this   agreement ,   review   and   discuss   the 
+ secondment   program   and   such   addition   and   change   the   party   consider   appropriate   to   far   the   strategic   alliance . 
+
+ article   viii . 
+
+ engagement . 
+
+ 8.1   engagement   letter   and   other   agreement . 
+
+ ( a )   party .   where   the   party   be   execute   an   assignment   together   pursuant   to   this   agreement ,   it   be   anticipate   that   generally 
+ both   party   ( or   one   of   their   respective   affiliate )   will   sign   the   engagement   letter   ( and ,   where   necessary ,   other   relevant   agreement )   with   the   relevant 
+ client   in   connection   with   the   assignment .   in   certain   limited   circumstance   mutually   agree   upon   by   the   party ,   one   party   may   sign   the   engagement 
+ letter   with   the   client   and   then   such   party   would   also   sign   an   agreement   with   the   other   party   or   party   for   such   party   or   party   to   provide   service 
+ to   the   client   and   receive   compensation ,   indemnification   and   other   protection   after   receive   the   write   consent   of   such   client . 
+
+ ( b )   right   and   obligation .   the   engagement   letter   will   ( unless   otherwise   agree )   include   a   provision   to   the   effect   that :   " the 
+ right   and   obligation   of   smbc ,   nikko   and   moeli   holding   be   the   several   right   and   obligation   of   smbc ,   nikko   and   moeli   holding   and   that 
+ each   of   smbc ,   nikko   or   moeli   holding   shall   not   be   liable   or   responsible   for   the   action   or   omission   of   the   other . " 
+
+ ( c )   payment .   the   engagement   letter   will   ( unless   otherwise   agree )   provide   that   payment   would   be   make   to   either   smbc / nikko 
+ or   moeli   holding   and   smbc / nikko   and   moeli   holding   will   split   the   fee   pursuant   to   this   agreement . 
+
+ 8.2   expense .   if   only   one   party   be   engage   for   an   assignment ,   such   party   will   submit   expense   of   the   other   party   for   reimbursement   by   the 
+ client .   if   there   be   an   expense   cap   or   any   other   expense   reimbursement   reduction ,   the   party   will   ( unless   otherwise   agree )   bear   the   cost   of   such 
+ unreimbursed   expense   in   the   same   proportion   as   the   party   agree   to   split   the   fee   from   such   assignment . 
+
+ 8.3   conflict   clearance .   each   party   shall   have   its   own   separate   conflict   identification ,   business   selection   and   client   vetting   procedure .   the 
+ party   will   cooperate   to   identify   and   resolve   potential   conflict   issue . 
+
+ 8.4   compliance   with   law .   in   the   case   where   one   party   execute   an   engagement   letter   with   a   client   ( the   " main - advisor   party " )   and   the 
+ main - advisor   party   appoint   and   retain   the   other   party   or   party   as   a   sub - advisor   ( the   " sub - advisor   party " ) ,   each   of   the   main - advisor   party 
+ and   the   sub - advisor   party   shall   comply   in   all   material   respect   with   all   applicable   law   or   regulation ,   include   the   uk   bribery   act   2010 ,   the   we 
+ foreign   corrupt   practice   act   of   1977   and   any   other   similar   anti - bribery   act   in   its   execution   and   performance   of   its   service   for   the   cover 
+ business   for   such   client .   if   either   of   the   main - advisor   party   or   sub - advisor   party   breach   its   obligation   set   forth   in   this   section   8.4 ,   the   non- 
+ breach   party   shall   have   the   right   to   immediately   terminate   its   sub - advisor   agreement   or   any   other   similar   agreement   enter   into   with   respect   to 
+ the   cover   business   for   such   client   by   provide   a   write   notice   to   the   breach   party   that   specifically   identifie   how   the   breach   party   have 
+ breach   this   section   8.4 . 
+
+ article   ix . 
+
+ joint   marketing . 
+
+ 9.1   joint   marketing .   the   party   shall   establish   a   joint   marketing   effort   for   the   strategic   alliance .   among   other   thing ,   the   party   shall 
+ agree   upon   a   joint   press   release   and   communication   strategy   for   announce   the   strategic   alliance   and   certain   joint   marketing   material   which 
+ either   party   may   use   in   marketing   to   client . 
+
+ article   x. 
+
+ confidentiality . 
+
+ 10.1   confidentiality .   the   party   each   agree   to   keep   confidential   all   non - public   information   disclose   by   another   party   or   a   client   or 
+ prospective   client   or   a   representative   thereof   in   connection   with   the   strategic   alliance   ( include   this   agreement )   ( " confidential   information " ) ,   ( i ) 
+ except   to   subsidiary ,   affiliate   or   their   professional   advisor   ( and   provide   that   the   party   shall   cause   the   recipient   to   assume   and   perform   the 
+ confidentiality   obligation   equivalent   to   those   impose   on   such   party   under   this   agreement   and   shall   be   responsible   for   breach   of   such 
+ obligation   by   such   recipient )   and   ( ii )   except   as   require   by   judicial   process   or   such   party ’s   regulatory   authority ,   and 
+
+ to   use   such   information   only   for   purpose   of   the   strategic   alliance   ( include   this   agreement);   provide ,   however ,   that   confidential   information 
+ shall   not   include   ( i )   information   that   be   already   in   the   receive   party ’s   possession   when   it   be   receive   and   not   subject   to   a   confidentiality   agreement 
+ or   other   obligation   of   confidentiality   to   the   disclose   party ,   ( ii )   information   separately   obtain   by   the   receive   party   from   a   third   party   that   be   not 
+ know   or   should   not   reasonably   be   know   to   the   person   receive   such   information   to   be   bind   by   a   confidentiality   agreement   or   other   obligation 
+ of   confidentiality   to   the   disclose   party   and   ( iii )   information   independently   develop   by   the   receive   party   without   any   use   of   confidential 
+ information .   in   the   event   that   any   disclosure   of   confidential   information   be   require   by   judicial   process   or   such   party ’s   regulatory   authority ,   the 
+ party   require   to   make   such   disclosure   shall ,   to   the   extent   commercially   practicable   and   legally   permissible ,   consult   with   the   party   that   provide 
+ such   confidential   information   prior   to   make   any   such   disclosure .   nothing   in   this   section   shall   restrict   the   receive   party ’s   ability   to   make   any 
+ legally   required   disclosure   of   confidential   information   to   bank   examiner   or   other   supervisory   authority   have   jurisdiction   over   the   receive 
+ party .   each   of   moelis   holding   and   smbc / nikko   shall   also   ask   the   other   if   it   have   internally   clear   the   receipt   of   non - public   information   regard   a 
+ client   or   prospective   client   before   the   party   provide   such   information   deliver   any   such   information   to   the   receive   party .   due   to   japanese 
+ firewall   restriction ,   ( i )   smbc   will   not   disclose   confidential   information   relate   to   its   client   to   nikko   ( ii )   nikko   will   not   disclose   confidential 
+ information   relate   to   its   client   to   smbc   and   ( iii )   moeli   holding   shall   not   disclose   confidential   information   relate   to   a   client   receive   from 
+ smbc   or   any   of   its   affiliate   ( exclude   nikko   and   any   person   that   would   be   an   affiliate   of   nikko   if   nikko   be   not   an   affiliate   of   smbc )   ( an   " smbc 
+ affiliate " )   to   nikko   or   its   affiliate   ( exclude   smbc   and   any   person   that   would   be   an   affiliate   of   smbc   if   nikko   be   not   an   affiliate   of   smbc )   ( a 
+ " nikko   affiliate " )   or   confidential   information   relate   to   a   client   receive   from   nikko   or   any   nikko   affiliate   to   smbc   or   any   smbc   affiliate , 
+ without   first   obtain   such   client ’s   consent   to   such   disclosure .   this   section   10.1   shall   terminate   with   respect   to   confidential   information   relate 
+ to   a   ( prospective )   client ,   two   year   follow   receipt   of   such   information ,   and   with   respect   to   any   other   confidential   information ,   two   year 
+ follow   the   termination   of   this   agreement . 
+
+ article   xi . 
+
+ term 
+
+ 11.1   term .   this   agreement   shall   be   effective   as   of   january   1 ,   2012   ( the   " effective   date " ) ,   provide ,   however ,   that ,   article   xii   and 
+ article   xiii   shall   not   be   effective   until   after   the   closing .   the   initial   term   of   this   agreement   shall   begin   on   the   effective   date   and   continue   for 
+ three   ( 3 )   year ,   subject   to   the   prior   termination   right   provide   below .   at   the   end   of   such   initial   term ,   and   any   renew   term ,   as   applicable ,   this 
+ agreement   shall   automatically   renew   for   an   additional   one   ( 1 )   year   term ,   unless   a   party   provide   write   notice   to   the   other   party   at   least   six   ( 6 ) 
+ month   prior   to   the   end   of   the 
+
+ initial   term .   at   any   time   during   a   renew   term ,   this   agreement   may   be   terminate   by   any   party   on   six   ( 6 )   month   prior   notice   that   it   wish   to 
+ terminate   the   agreement . 
+
+ 11.2   termination .   this   agreement   may   be   terminate   as   follow : 
+
+ ( a )   effective   immediately   upon   mutual   agreement   of   each   of   the   parties; 
+
+ ( b )   immediately   by   a   non - breaching   party ,   if   either   smbc   or   nikko ,   on   the   one   hand ,   or   moeli   holding ,   on   the   other   hand ,   shall 
+ materially   breach   the   term   and   condition   of   this   agreement ,   and   such   breach   be   continue   after   write   notice   have   be   give   by   the   non- 
+ breach   party   to   the   breach   party   that   specifically   identifie   how   the   breach   party   have   breach   this   agreement ,   and   a   reasonable   period   of 
+ time   have   elapse   in   which   to   cure   such   breach ,   which   period   shall   not   be   less   than   ninety   ( 90 )   calendar   day   from   the   date   that   such   breach 
+ party   receive   such   notice; 
+
+ ( c )   immediately   upon   the   bankruptcy ,   insolvency ,   or   make   of   the   assignment   for   the   benefit   of   creditor   by   a   party;   unless   such 
+ termination   be   waive   by   the   party   in   writing   not   subject   to   any   of   the   forego   proceedings; 
+
+ ( d )   by   any   party   if   the   smbc   unit - holder   cease   to   hold   any   partnership   interest   as   a   result   of   sale   or   transfer   pursuant   to 
+ section   12.4   of   this   agreement   or   section   8.4   of   the   moelis   holding   agreement ,   such   termination   to   be   effective   six   ( 6 )   month   follow   the   date 
+ on   which   the   other   party   receive   write   notice   of   such   party ’s   election   to   terminate   this   agreement;   and 
+
+ ( e )   immediately   by   moelis   holding   if   the   closing   have   not   occur   by   march   1 ,   2012   or   such   later   date   if   the   closing   be   delay 
+ pursuant   to   the   term   of   the   subscription   agreement . 
+
+ 11.3   effect   of   termination .   in   the   event   of   the   termination   of   this   agreement ,   no   party   shall   have   any   liability   to   any   other   party   in   respect 
+ of   this   agreement   except   for   any   liability   relate   to   any   breach   or   any   payment   obligation   hereunder   and   arise   prior   to   such   termination; 
+ provide ,   that ,   section   5.2   ( non - solicitation )   and   8.2   ( expense )   and   article   x   ( confidentiality ) ,   xii   ( certain   transfer   right   of   smbc / nikko ) 
+ ( other   than   section   12.6 ,   after   the   smbc   unit - holder   no   long   hold   any   partnership   interest ) ,   xiii   ( registration   right )   and   xv   ( miscellaneous ) 
+ shall   survive   any   expiration   or   termination   of   this   agreement;   provide ,   however ,   if   moeli   holding   terminate   this   agreement   pursuant   to   section 
+ 11.2(b )   due   to   a   material   breach   by   either   smbc   or   nikko ,   or   if   this   agreement   be   terminate   pursuant   to   section   11.2(c )   due   to   the   bankruptcy , 
+ insolvency   or   make   of   the   assignment   for   the   benefit   of   creditor   by   either   smbc   or   nikko ,   article   xii   ( certain   transfer   right   of 
+ smbc / nikko )   and   xiii   ( registration   right )   shall   not   survive   such   termination;   provide ,   far ,   that ,   if   this   agreement   be   terminate   prior   to   the 
+ closing ,   xii   ( certain   transfer   right   of   smb   c / nikko ) ,   xiii   ( registration   right )   shall   not   survive   such   termination . 
+
+ article   xii . 
+
+ certain   right   of   smbc / nikko . 
+
+ 12.1   advisory   board .   during   the   term   of   the   strategic   alliance ,   smbc / nikko   shall   have   the   right   to   appoint   one   person   to   serve   as   a 
+ member   of   the   advisory   board   of   moelis   holding . 
+
+ 12.2   right   of   first   refusal . 
+
+ ( a )   prior   to   the   ipo   and   during   the   term   of   the   strategic   alliance ,   smbc   shall   have   the   right   of   first   refusal   to   purchase   all   ( but   not 
+ less   than   all )   additional   unit   that   moeli   holding   propose   to   issue   to   an   smbc   competitor ,   include   ( x )   in   a   propose   issuance   that   be 
+ except   from   section   3.4.2   of   the   moelis   holding   agreement   as   an   issuance   to   a   strategic   investor ,   and   ( y )   in   a   propose   issuance   that   be   subject 
+ to   section   3.4.2   of   the   moelis   holding   agreement ,   to   the   extent   that   the   partner   do   not   exercise   in   full   their   right   of   first   refusal   thereunder .   the 
+ above   right   be   in   addition   to   the   pro   rata   right   of   first   refusal   grant   to   all   partner   with   respect   to   issuance   of   additional   unit   in   section   3.4.2 
+ of   the   moelis   holding   agreement . 
+
+ ( b )   in   the   event   moeli   holding   propose   to   undertake   an   issuance   of   additional   unit   to   which   clause   ( x )   of   section   12.2(a ) 
+ apply ,   it   shall   give   smbc   write   notice   of   its   intention   describe   the   price   and   term   upon   which   moeli   holding   propose   to   issue   the   same . 
+ smbc   shall   have   ten   ( 10 )   day   from   the   date   of   delivery   of   any   such   notice   to   agree   to   purchase   all ,   but   not   less   than   all ,   of   such   additional   unit , 
+ for   the   price   and   upon   the   term   specify   in   the   notice ,   by   deliver   write   notice   to   moeli   holding .   follow   the   expiration   of   such   10 - day 
+ period ,   moeli   holding   shall   have   one   hundred   and   eighty-   ( 180- )   day   to   sell   or   enter   into   an   agreement   to   sell   the   additional   unit   with   respect 
+ to   which   smbc ’s   right   of   first   refusal   be   not   exercise ,   at   a   price   and   upon   term   no   more   favorable   to   the   purchaser   of   such   security   than 
+ specify   in   moeli   holding '   notice .   in   the   event   moeli   holding   have   not   sell   the   additional   unit   or   enter   into   an   agreement   to   sell   the 
+ additional   unit   within   such   one   hundred   and   eighty-   ( 180- )   day   period ,   moeli   holding   shall   not   thereafter   issue   or   sell   any   additional   unit 
+ without   first   comply   again   with   this   section   12.2 . 
+
+ ( c )   in   the   event   moeli   holding   propose   to   undertake   any   issuance   of   additional   unit   to   which   clause   ( y )   of   section   12.2(a ) 
+ apply ,   smbc   shall   specify   in   its   notice   deliver   to   moeli   holding   pursuant   to   section   3.4.2(b )   of   the   moelis   holding   agreement ,   in   addition 
+ to   whether   or   not   it   elect   to   purchase   its   pro   rata   portion   of   such   additional   unit ,   whether   or   not   it   shall   exercise   its   right   of   first   refusal   to 
+ purchase   all   ( but   not   less   than   all )   of   the   additional   unit   that   other   partner   do   not   purchase   pursuant   to   their   right   of   first   refusal   under   section 
+ 3.4.2   of   the   moelis   holding   agreement . 
+
+ ( d )   the   right   of   first   refusal   grant   hereunder   may   not   be   assign   or   transfer ,   except   that   such   right   be   assignable   by   smbc 
+ to   any   of   its   respective   wholly - own   subsidiary . 
+
+ 12.3   moeli   general   partner ’s   consent   to   certain   transfer . 
+
+ ( a )   prior   to   the   ipo   and   during   the   term   of   the   strategic   alliance ,   moeli   general   partner   shall   not   consent   to   a   sale   or   transfer   by   a 
+ partner   of   its   partnership   interest   to   an   smbc   competitor   unless   the   moelis   general   partner   cause   the   partner   proposing   to   sell   or   transfer   its 
+ partnership   interest   to   provide   smbc   with   a   right   to   purchase ,   on   the   same   term   and   condition ,   include   price ,   all   ( but   not   less   than   all )   of   the 
+ partnership   interest   that   such   partner   propose   to   sell   or   transfer   to   an   smbc   competitor . 
+
+ ( b )   in   the   event   a   partner   propose   to   undertake   a   sale   or   transfer   of   partnership   interest   to   which   the   foregoing   right   apply , 
+ and   moeli   general   partner   must   consent   to   the   sale   or   transfer ,   moeli   general   partner   shall   require   that   partner   to   give   smbc   write   notice   of   its 
+ intention   to   sell   or   transfer   partnership   interest   to   an   smbc   competitor   describe   the   price   and   term   upon   which   such   partner   propose   to   sell 
+ or   transfer   its   partnership   interest .   smbc   shall   have   ten   ( 10 )   day   from   the   date   of   delivery   of   any   such   notice   to   agree   to   purchase   all ,   but   not 
+ less   than   all ,   of   such   partnership   interest ,   for   the   price   and   upon   the   term   specify   in   the   notice ,   by   deliver   write   notice   to   such   partner   and 
+ moeli   holding . 
+
+ ( c )   follow   the   expiration   of   such   10 - day   period ,   the   partner   proposing   to   sell   or   transfer   partnership   interest   shall   have   one 
+ hundred   and   eighty-   ( 180- )   day   to   sell   or   transfer ,   or   enter   into   an   agreement   to   sell   or   transfer   the   partnership   interest   with   respect   to   which 
+ smbc   ‘s   right   under   section   12.3(a )   be   not   exercise ,   at   a   price   and   upon   term   no   more   favorable   to   the   purchaser   of   such   security   than 
+ specify   in   the   partner ’s   notice .   in   the   event   the   partner   have   not   sell   or   transfer   the   partnership   interest ,   or   enter   into   an   agreement   to   sell   or 
+ transfer   the   partnership   interest ,   within   such   one   hundred   and   eighty-   ( 180- )   day   period ,   moeli   general   partner   shall   not   consent   to   the   partner ’s 
+ selling   or   transfer   its   partnership   interest   to   an   smbc   competitor   thereafter   without   first   require   the   partner   to   comply   again   with   this 
+ section   12.3 . 
+
+ ( d )   the   right   grant   under   this   section   12.3   may   not   be   assign   or   transfer ,   except   that   such   right   be   assignable   by   smbc 
+ to   any   of   its   respective   wholly - own   subsidiary . 
+
+ ( e )   nothing   in   this   section   12.3   shall   affect   the   power   of   moeli   general   partner   to   withhold   consent   to   any   transfer   of   partnership 
+ interest   in   its   sole   discretion   to   the   extent   authorize   under   section   8.1   of   the   moelis   holding   agreement . 
+
+ 12.4   certain   transfer   matter . 
+
+ ( a )   during   the   term   of   the   strategic   alliance ,   if   km   sell   all   or   a   portion   of   km ’s   partnership   interest ,   the   smbc   unit - holder 
+ may   sell   a   pro   rata   portion   of   the   smbc   unit   without   regard   to   any   timing   or   transfer   restriction   impose   by   this   agreement   or   the   moelis 
+ holding   agreement ,   except   that   such   sale   or   transfer   may   not   be   to   a   moelis   competitor .   in   the   event   km   propose   to   undertake   a   sale   or 
+
+ transfer   of   km ’s   partnership   interest   to   which   the   foregoing   right   apply ,   km   shall   give   write   notice   to   smbc   and   moeli   general   partner   at 
+ least   ten   ( 10 )   day   in   advance   of   such   sale   or   transfer ,   describe   the   percent   of   km ’s   partnership   interest   be   sell   or   transfer .   km   shall   give 
+ write   notice   to   smbc   and   moeli   general   partner   within   five   ( 5 )   day   of   any   cancellation   or   postponement   of   such   sale .   when   an   smbc   unit- 
+ holder   elect   to   sell   or   transfer   the   smbc   unit   pursuant   to   its   right   grant   under   this   section   12.4(a ) ,   the   smbc   unit - holder   shall   provide 
+ moeli   general   partner   with   a   notice   state   its   intent   to   sell   or   transfer   the   smbc   unit   pursuant   to   this   section   12.4(a ) .   within   ten   ( 10 )   day   of 
+ receive   such   notice   from   an   smbc   unit - holder ,   moeli   general   partner   shall   deliver   to   such   smbc   unit - holder   its   consent   for   the   propose   sale 
+ or   transfer ,   unless   the   propose   sale   or   transfer   be   to   a   moelis   competitor .   for   the   avoidance   of   doubt ,   if   the   transaction   be   subject   to   ( i )   a   drag- 
+ along   right   or   a   tag - along   right ,   and   such   right   be   exercise ,   the   smbc   unit - holder   shall   be   deem   to   have   sell   its   pro   rata   portion   of   its 
+ partnership   interest   with   respect   to   such   transaction   and   shall   not   have   any   additional   right   under   this   section   12.4(a )   or   ( ii )   section   13.2   of   this 
+ agreement ,   and   an   smbc   unit - holder   exercise   its   right   thereunder ,   such   smbc   unit - holder   shall   be   deem   to   have   sell   its   pro   rata   portion   of 
+ its   partnership   interest   with   respect   to   such   transaction   and   shall   not   have   any   additional   right   under   this   section   12.4(a ) .   the   above   right   shall 
+ be   in   addition   to   the   drag - along   right   and   the   tag - along   right   with   respect   to   transfer   by   moeli   general   partner   set   forth   in   section   8.4.1   and 
+ 8.4.2 ,   respectively ,   of   the   moelis   holding   agreement . 
+
+ ( b )   during   the   term   of   the   strategic   alliance ,   and   after   the   first   anniversary   of   moelis   holding '   commence   a   public   register 
+ share   sale   program   for   manage   director   and   other   employee   of   moeli   holding   or   its   affiliate ,   the   smbc   unit - holder   may   sell   or   transfer 
+ partnership   interest   pursuant   to   such   public   register   share   sale   program   for   any   give   period   in   an   amount   equal   to   ( i )   the   number   of   partnership 
+ interest   that   can   be   sell   pursuant   to   the   program   in   such   period   multiply   by   ( ii )   a   fraction   whose   numerator   be   the   number   of   partnership 
+ interest   the   smbc   unit - holder   have   elect   to   sell   in   such   program   during   such   period   and   whose   denominator   be   the   total   number   of 
+ partnership   interest   the   smbc   unit - holder   have   elect   to   sell   plus   the   number   of   partnership   interest   all   other   person   have   elect   to   sell   in 
+ such   program   during   such   period   ( whether   such   partnership   interest   be   hold   as   outstanding   common   stock   of   a   successor   or   parent   company   of 
+ moeli   holding   or   as   interest   in   an   affiliate   of   such   public   company )   ( for   example ,   if   50   partnership   interest   can   be   sell   during   the   period ,   the 
+ smbc   unit - holder   have   elect   to   sell   400   partnership   interest   and   all   person   other   than   the   smbc   unit - holder   have   elect   to   sell   1,600 
+ partnership   interest ,   then   the   smbc   unit - holder   may   sell   10   partnership   interest   and   the   other   person   may   sell   40   partnership   interests); 
+ provide ,   that ,   ( 1 )   the   smbc   unit - holder   shall   be   subject   to   the   same   condition   and   term   as   the   other   participant   in   the   program;   ( 2 )   such   right 
+ under   this   section   12.4(b )   shall   not   apply   to   sale   moeli   holding   may   permit   certain   of   its   manage   director   and   other   employee   to   make   under 
+ rule   144   or   otherwise;   and   ( 3 )   if   both   section   12.4(a )   and   section   12.4(b )   apply   to   a   sale   or   transfer   of   partnership   interest ,   an   smbc   unit - holder 
+ may   sell   the   high   of   the   amount   under   section   12.4(a )   or   section   12.4(b ) .   if   such   public   register   share   sale   program   as   set   forth   in   this   section 
+ 12.4(b )   be   establish ,   moeli   holding   will   provide   the   smbc   unit - holder   with   a   monthly   report   which   provide   the   number   of   partnership 
+ interest   be 
+
+ sell   in   such   share   sale   program   during   the   relevant   month   and   the   outstanding   number   of   partnership   interest   that   be   leave   in   the   public   sale 
+ register   sale   program   as   of   the   end   of   the   relevant   month . 
+
+ ( c )   after   the   termination   of   the   strategic   alliance : 
+
+ ( i )   prior   to   the   ipo ,   moeli   general   partner   shall   not   unreasonably   withhold   its   consent   to   an   smbc   unit - holder ’s 
+ transferring   all   or   a   portion   of   the   smbc   unit   to   any   other   person   who   be   not   a   moeli   competitor;   and 
+
+ ( ii )   follow   the   ipo ,   the   smbc   unit - holder   may   freely   transfer   the   smbc   unit ,   subject   to   applicable   security 
+ law . 
+
+ ( d )   follow   the   third   anniversary   of   the   closing ,   whether   or   not   during   the   term   of   the   strategic   alliance ,   the   smbc   unit- 
+ holder   may   sell   up   to   9,231   smbc   unit   ( i )   prior   to   the   ipo ,   with   the   consent   of   moeli   general   partner   ( which   consent   may   not   be   unreasonably 
+ withhold ) ,   provide   such   sale   be   not   to   a   moeli   competitor ,   or   ( ii )   follow   the   ipo ,   without   restriction ,   subject   only   to   applicable   security   law . 
+
+ ( e )   during   the   term   of   the   strategic   alliance   and   prior   to   the   ipo ,   moeli   holding   shall   notify   smbc   in   advance   of   publicly 
+ announce   the   sale   or   issuance   of   any   interest   in   moeli   holding   ( other   than   management   unit )   to   a   strategic   investor ,   provide ,   that   moeli 
+ holding   shall   notify   smbc   in   advance   only   to   the   extent   and   in   such   manner   as   it   be   permissible   under   any   confidentiality   agreement   enter   into 
+ in   connection   with   such   sale   or   issuance . 
+
+ 12.5   amendment   to   the   moelis   holding   agreement .   without   the   prior   write   consent   of   smbc   ( which   consent   shall   not   be 
+ unreasonably   withhold ,   delay   or   condition ) ,   moeli   general   partner   shall   not   enter   into   any   side   letter   or   agreement   ( other   than   the   vest 
+ agreement   of   any   management   partner )   with   any   limit   partner   in   respect   of   the   issuance   or   hold   of   any   class   or   type   of   interest   in   the 
+ partnership   that   ( i )   modify   the   limit   liability   of   the   smbc   unit - holder ,   ( ii )   materially   and   adversely   affect   in   a   disproportionate   manner   the 
+ interest   of   the   smbc   unit - holder   in   net   income ,   net   loss   or   available   asset ,   ( iii )   increase   the   capital   contribution   require   to   be   make   by   the 
+ smbc   unit - holder ,   ( iv )   modify   the   smbc   unit - holder '   drag - along   right   or   tag - along   right   under   the   moelis   holding   agreement ,   or   ( v ) 
+ materially   and   adversely   affect   in   a   disproportionate   manner   the   interest   of   the   smbc   unit - holder   in   the   distribution ,   regardless   of   whether 
+ such   side   letter   or   agreement   be   enter   into   by   such   limit   partner   in   its   capacity   as   such ,   and   regardless   of   whether   smbc   be   entitle   to 
+ participate   or   do   participate   in   such   issuance   of   or   otherwise   hold   any   such   interests;   provide ,   however ,   the   forego   consent   of   smbc   shall 
+ not   be   require   if   the   side   letter   or   agreement   affect   management   unit   in   a   substantially   similar   manner . 
+
+ 12.6   percentage   interest   limit .   notwithstanding   anything   to   the   contrary   in   this   agreement   or   the   moelis   holding   agreement ,   none   of 
+ smbc ,   moeli   holding   or   any   of   their   control   affiliate   shall   take   any   action ,   include   with   respect   to   the   acquisition   of   any   partnership 
+ interest   pursuant   to   the   exercise   of   any   right   under   this   agreement   or   the   moelis   holding   agreement ,   that   would   reasonably   be   expect   to   ( i ) 
+ cause   smbc ,   or   any   of   its   affiliate ,   to   require   approval   of   the   board   of   governor   of   the   federal   reserve   system   under   section   4   of   the   u.s .   bank 
+ hold   company   act   of   1956 ,   as   amend   ( include   regulation   y   promulgate   thereunder ) ,   or   otherwise ,   to   acquire   or   retain   any   interest   in 
+ moeli   holding   or   ( ii )   cause   moeli   holding   to   be   deem   to   be   or   presume   to   be   " control "   by   smbc ,   or   any   of   its   affiliate ,   for   purpose   of 
+ the   u.s .   bank   hold   company   act   of   1956 ,   as   amend   ( include   regulation   y   promulgate   thereunder ) .   smbc   and   moeli   holding   shall 
+ cooperate   with   each   other   and   use   their   reasonable   good   effort   to   avoid   any   of   the   event   in   the   precede   sentence   by   take   any   and   all   action 
+ necessary ,   include ,   without   limitation ,   in   connection   with   any   restructuring   to   facilitate   the   ipo ,   which   shall   include ,   among   other   thing ,   issue 
+ a   new   class   or   series   of   partnership   interest   or   alternative   economic   interest   to   smbc ,   or   its   affiliate ,   as   applicable .   notwithstanding   anything   to 
+ the   contrary   in   this   section   12.6 ,   nothing   shall   prevent   smbc ,   or   its   affiliate ,   from   seek   a   noncontrol   determination   from   the   staff   of   the   board 
+ of   governor   of   the   federal   reserve   system   with   respect   to   any   action   that   would   otherwise   be   prohibit   by   this   section   12.6 ,   and ,   after   receive 
+ a   noncontrol   determination ,   take   such   action ,   include   acquire   additional   partnership   interest . 
+
+ article   xiii . 
+
+ registration   right . 
+
+ 13.1   registration . 
+
+ ( a ) 
+
+ ( i )   follow   the   ipo   and   the   termination   of   the   strategic   alliance ,   smbc   shall   have   the   right   to   demand   that   moeli 
+ holding   register   the   sale   of   all ,   but   not   less   than   all ,   of   the   registrable   security   hold   by   smbc   and   its   affiliate   ( together   the 
+ " smbc   unit - holder " )   under   the   security   act   ( the   " demand   notice " ) ,   provide ,   however ,   smbc   shall   not   be   permit   to 
+ deliver   the   demand   notice   within   ( i )   180   day   of   the   ipo   or   ( ii )   60   day   of   any   public   offering   and   sale   of   partnership   interest 
+ ( and/or   any   security   of   moelis   holding   or   any   successor   entity   into   which   partnership   interest   be   convert ,   exchange   or 
+ redesignate )   for   cash   pursuant   to   an   effective   registration   statement   ( other   than   on   form   s-4   or   s-8   or   a   comparable   form ) ,   and 
+ subject   to   the   term   of   any   agreement   enter   into   by   moelis   holding ,   smbc   or   nikko   pursuant   to   section   13.7 .   within   60   day 
+ after   moeli   holding   receive   a   write   notice   to   register   the   registrable   security ,   moeli   holding   will 
+
+ file   a   registration   statement ,   on   an   appropriate   form ,   to   register   the   sale   of   the   registrable   security ,   which   registration 
+ statement   will   ( if   specify   in   the   smbc   unit - holder '   notice )   contemplate   the   ability   of   the   smbc   unit - holder   to   effect   an 
+ underwritten   offering   ( the   " demand   registration " ) .   the   demand   notice   shall   specify   the   intend   method   of   distribution   of   the 
+ registrable   security .   subject   to   section   13.2 ,   moeli   holding   may   include   in   any   registration   effect   pursuant   to   this   section 
+ 13.1   any   security   for   its   own   account   or   for   the   account   of   holder   ( other   than   the   smbc   unit - holder )   of   partnership   interests; 
+ provide ,   that ,   moeli   holding   shall   pay   a   portion   of   all   expense   of   moeli   holding   ( include   those   set   forth   in   section   13.8 ) 
+ in   connection   with   any   such   registration ,   in   proportion   to   the   aggregate   sell   price   of   all   security   so   include   in   any   such 
+ registration . 
+
+ ( ii )   moeli   holding   will   use   its   commercially   reasonable   effort   ( i )   to   cause   any   registration   statement   to   be   declare 
+ effective   ( unless   it   become   effective   automatically   upon   filing )   as   promptly   as   practicable   after   the   filing   thereof   with   the   sec 
+ and   ( ii )   to   keep   such   registration   statement   current   and   effective   for   a   period   of   90   day ,   or   such   short   time   necessary   for   the 
+ completion   of   the   sale   of   registrable   security   register   thereon .   moelis   holding   far   agree   to   use   its   commercially 
+ reasonable   effort   to   supplement   or   make   amendment   to   such   registration   statement   as   may   be   necessary   to   keep   such 
+ registration   statement   effective   for   the   period   refer   to   in   clause   ( ii )   above ,   include   ( a )   to   respond   to   the   comment   of   the 
+ sec ,   if   any ,   ( b )   as   may   be   require   by   the   registration   form   utilize   by   moelis   holding   for   such   registration   statement   or   by   the 
+ instruction   to   such   registration   form ,   ( c )   as   may   be   require   by   the   security   act ,   or   ( d )   as   may   reasonably   be   request   in 
+ writing   by   the   smbc   unit - holder   or   any   underwriter   and   acceptable   to   moeli   holding .   moeli   holding   agree   to   furnish   to 
+ the   smbc   unit - holder   copy   of   any   such   supplement   or   amendment   no   later   than   the   time   it   be   first   use   or   file   with   the   sec . 
+
+ ( b )   if   the   demand   notice   specifie   that   the   registrable   security   will   be   sell   in   an   underwritten   offering ,   the   party   shall 
+ mutually   agree   on   the   lead   underwriter   and   any   additional   underwriter . 
+
+ ( c )   any   registration   initiate   pursuant   to   section   13.1(a )   shall   not   count   as   a   demand   registration   ( i )   unless   and   until   the 
+ registration   statement   with   respect   to   the   registrable   security   have   become   effective   and   remain   effective   for   a   period   of   90   day   or ,   if   a   short 
+ time ,   until   all   of   the   registrable   security   have   be   sell ,   or   ( ii )   if   the   condition   to   closing   specify   in   the   underwriting   agreement ,   if   any ,   enter 
+ into   in   connection   with   such   registration   be   not   satisfied   or   waive ,   other   than   by   reason   of   a   failure   on   the   part   of   the   smbc   unit - holder . 
+
+ 13.2   piggyback   registration .   if   moeli   holding   propose   to   file   a   registration   statement   under   the   security   act   ( other   than   non- 
+ participate ,   non - convertible   debt   or 
+
+ equity   security   or   security   to   be   issue   pursuant   to   a   registration   statement   on   form   s-4   or   s-8   or   any   comparable   form )   for   its   own   account   or 
+ for   the   account   of   a   holder   ( other   than   the   smbc   unit - holder )   of   partnership   interest ,   include   in   connection   with   the   ipo   and   where   smb 
+ c / nikko   ( include   an   smbc   unit - holder )   have   the   right   to   sell   any   or   all   smbc   unit   under   this   agreement ,   then   moeli   holding   shall   give 
+ write   notice   of   such   propose   filing   to   the   smbc   unit - holder   as   soon   as   commercially   practicable   but   in   no   event   less   than   ( i )   20   day   before 
+ the   anticipate   filing   date   or   ( ii )   if   moeli   holding   determine   to   conduct   a   registration   less   than   20   day   before   the   anticipate   filing   date ,   then   on 
+ the   date   moeli   holding   determine   to   proceed   with   such   registration   ( a   " piggyback   registration " ) .   if   moeli   holding   propose   to   file   the 
+ registration   statement   before   the   termination   of   the   strategic   alliance ,   the   write   notice   to   the   smbc   unit - holder   shall   include   the   number   of 
+ partnership   interest   to   be   sell   by   km   and   the   percentage   of   the   total   partnership   interest   hold   by   km   represent   by   that   number .   within   10 
+ day   after   delivery   of   any   such   notice   by   moelis   holding ,   or   such   short   period   as   moeli   holding   specifie   in   such   notice   if   moeli   holding 
+ determine   to   conduct   a   registration   less   than   10   day   before   the   anticipate   filing   date ,   the   smbc   unit - holder   may   request   in   write   that   moeli 
+ holding   include   any   registrable   security   hold   by   the   smbc   unit - holder   in   the   propose   registration .   the   request   by   the   smbc   unit - holder 
+ shall   specify   the   number   of   registrable   security   propose   to   be   include   in   the   registration .   moeli   holding   will   then ,   subject   to   section   13.3 , 
+ include   such   request   registrable   security   in   the   propose   registration;   provide ,   however ,   that   if   moeli   holding   propose   to   file   the 
+ registration   statement   before   the   termination   of   the   strategic   alliance ,   the   percentage   of   all   registrable   security   that   may   be   include   in   the 
+ propose   registration   may   not   exceed   the   percentage   of   km ’s   total   partnership   interest   to   be   sell   in   the   propose   registration ,   as   state   in   the 
+ notice   by   moelis   holding .   the   smbc   unit - holder   may   not   withdraw   any   request   for   a   piggyback   registration   involve   an   underwritten 
+ offering   after   the   preliminary   prospectus   for   the   propose   offering   have   be   print ,   or   any   " road   show "   have   begin ,   or   moeli   holding   have 
+ make   any   public   announcement   with   the   consent   of   the   smbc   unit - holder   that   assume   the   participation   of   the   smbc   unit - holder   in   the 
+ propose   offering ,   or   in   any   event   less   than   24   hour   before   the   pricing   of   such   offering .   the   smbc   unit - holder   shall   have   no   right   to   select   the 
+ underwriter   in   an   underwritten   offering   in   connection   with   a   piggyback   registration .   notwithstanding   anything   to   the   contrary   in   this   section 
+ 13.2 ,   moeli   holding   may ,   at   any   time   at   its   sole   option ,   choose   not   to   proceed   with   the   propose   registration   that   give   rise   to   the   piggyback 
+ registration . 
+
+ 13.3   reduction   of   size   of   underwritten   offering .   notwithstanding   anything   to   the   contrary   contain   herein ,   if   the   lead   underwriter   or 
+ underwriter   in   an   underwritten   offer   pursuant   to   section   13.1   or   section   13.2   advise   moelis   holding   that ,   in   their   good   faith   judgment ,   the 
+ number   of   partnership   interest   ( include   any   registrable   security )   that   moeli   holding ,   the   smbc   unit - holder   and   any   other   person   intend 
+ to   include   in   any   registration   statement   exceed   the   number   that   can   be   sell   in   the   offering   in   light   of   marketing   factor   or   because   the   sale   of   a 
+ great   number   would   adversely   affect   the   price   of   the   partnership   interest   to   be   sell ,   then   the   number   of   partnership   interest   to   be   include   in 
+ the   registration   statement   for   the   account   of   moelis   holding ,   the   smbc   unit - holder   and   any   other   person   will   be   reduce   to   the 
+
+ extent   necessary   to   reduce   the   total   number   of   security   to   be   include   in   any   such   registration   statement   to   the   number   recommend   by   the   lead 
+ underwriter   or   underwriter ,   in   accordance   with   the   follow   priority : 
+
+ ( a )   in   the   case   of   a   demand   registration   pursuant   to   section   13.1 ,   priority   will   be   ( i )   first ,   all   registrable   security   include   in   the 
+ registration   statement ,   ( ii )   second ,   any   partnership   interest   propose   to   be   offer   by   moelis   holding   for   its   own   account   ( iii )   third ,   pro   rata 
+ among   any   other   holder   of   partnership   interest   request   to   be   register   pursuant   to   a   contractual   right ,   and   ( iv )   fourth ,   pro   rata   among   any 
+ other   holder   of   partnership   interest   request   to   be   registered; 
+
+ ( b )   in   the   case   of   a   registration   statement   initiate   by   moelis   holding   for   its   own   account   that   give   rise   to   a   piggyback 
+ registration   pursuant   to   section   13.2 ,   priority   will   be   ( i )   first ,   partnership   interest   propose   to   be   offer   by   moelis   holding   for   its   own   account , 
+ ( ii )   second ,   pro   rata   among   all   holder   of   partnership   interest   request   to   be   register   pursuant   to   a   contractual   right   and   ( iii )   third ,   pro   rata 
+ among   any   other   holder   of   partnership   interest   request   to   be   registered;   and 
+
+ ( c )   in   the   case   of   a   registration   statement   initiate   by   moelis   holding   for   the   account   of   holder   ( other   than   the   smbc   unit- 
+ holder )   of   partnership   interest ,   pursuant   to   registration   right   afford   to   such   holder   by   contract ,   that   give   rise   to   a   piggyback   registration 
+ pursuant   to   section   13.2 ,   priority   will   be   ( i )   first ,   pro   rata   among   the   holder   of   partnership   interest   for   whose   account   the   registration   statement 
+ be   initiate ,   ( ii )   second ,   partnership   interest   offer   by   moelis   holding   for   its   own   account ,   ( iii )   third ,   pro   rata   among   any   other   holder   of 
+ partnership   interest   request   to   be   register   pursuant   to   a   contractual   right   and   ( iv )   fourth ,   pro   rata   among   any   other   holder   of   partnership 
+ interest   request   to   be   register . 
+
+ 13.4   registration   procedure .   subject   to   the   provision   of   section   13.1   or   section   13.2 ,   in   connection   with   the   registration   of   the   sale   of 
+ registrable   security   pursuant   to   the   demand   registration   or   a   piggyback   registration   hereunder ,   moeli   holding   will : 
+
+ ( a )   furnish   to   the   smbc   unit - holder   without   charge ,   no   later   than   the   time   of   filing   of   a   registration   statement ,   copy   of   such 
+ registration   statement ,   and   thereafter   such   number   of   copy   of   such   registration   statement ,   each   amendment   and   supplement   thereto   ( in   each 
+ case   include   all   exhibit   thereto ,   include   each   preliminary   prospectus ) ,   copy   of   any   and   all   transmittal   letter   or   other   correspondence   with   the 
+ sec   relate   to   such   registration   statement   and   such   other   document   in   such   quantity   as   the   smbc   unit - holder   may   reasonably   request   from 
+ time   to   time ,   for   as   long   as   moeli   holding   be   require   to   cause   the   registration   statement   to   remain   current ,   in   order   to   facilitate   the   disposition   of 
+ the   registrable   securities; 
+
+ ( b )   provide   the   smbc   unit - holder   and   their   representative   with   the   opportunity   to   participate   in   the   preparation   of   the 
+ registration   statement   and   the   relate   prospectus; 
+
+ ( c )   use   its   commercially   reasonable   effort   to   register   or   qualify   the   partnership   interest   be   sell   under   such   other   security   or 
+ " blue   sky "   law   of   such   jurisdiction   as   the   smbc   unit - holder   reasonably   request   and   do   any   and   all   other   act   and   thing   as   may   be   reasonably 
+ necessary   or   advisable   to   enable   the   smbc   unit - holder   to   consummate   the   disposition   of   the   registrable   security   in   such   jurisdictions; 
+ provide ,   however ,   that   moeli   holding   shall   in   no   event   be   require   to   ( w )   qualify   generally   to   do   business   in   any   jurisdiction   where   it   be   not 
+ then   so   qualified ,   ( x )   subject   itself   to   taxation   in   any   jurisdiction   where   it   be   not   otherwise   then   so   subject ,   ( y )   take   any   action   that   would   subject   it 
+ to   service   of   process   in   suit   other   than   those   arise   out   of   the   offer   and   sale   of   the   security   cover   by   the   registration   statement   or   ( z )   consent 
+ to   general   service   of   process   in   any   jurisdiction   where   it   be   not   then   so   subject; 
+
+ ( d )   notify   the   smbc   unit - holder   and   the   lead   underwriter   or   underwriter ,   if   any ,   at   any   time   when   a   prospectus   relate   to 
+ registrable   security   be   require   to   be   deliver   under   the   security   act ,   of   the   occurrence   of   any   event   as   a   result   of   which   the   registration 
+ statement ,   the   prospectus   include   in   a   registration   statement   or   any   amendment   or   supplement   thereto   relate   to   registrable   security   contain 
+ an   untrue   statement   of   a   material   fact   or   omit   to   state   any   material   fact   require   to   be   state   therein   or   necessary   to   make   the   statement   therein ,   in 
+ the   light   of   the   circumstance   under   which   they   be   make ,   not   misleading ,   and   moeli   holding   will   use   its   commercially   reasonable   effort   to 
+ prepare   and   file   with   the   sec   a   supplement   or   amendment   to   such   prospectus   and   registration   statement   ( and   comply   fully   with   the   applicable 
+ provision   of   rule   424 ,   430a   and   430b   under   the   security   act   in   a   timely   manner )   so   that ,   as   thereafter   deliver   to   the   purchaser   of   the 
+ registrable   security ,   such   prospectus   and   registration   statement   will   not   contain   an   untrue   statement   of   a   material   fact   or   omit   to   state   any 
+ material   fact   require   to   be   state   therein   or   necessary   to   make   the   statement   therein ,   in   the   light   of   the   circumstance   under   which   they   be 
+ make ,   not   misleading; 
+
+ ( e )   advise   the   lead   underwriter   or   underwriter ,   if   any ,   and   the   smbc   unit - holder   promptly   and ,   if   request   by   such   person , 
+ confirm   such   advice   in   writing ,   of   the   issuance   by   the   sec   of   any   stop   order   suspend   the   effectiveness   of   the   registration   statement   under   the 
+ security   act   or   of   the   suspension   by   any   state   security   commission   of   the   qualification   of   the   registrable   security   for   offering   or   sale   in   any 
+ jurisdiction ,   or   the   initiation   of   any   proceeding   for   any   of   the   precede   purpose .   if   at   any   time   the   sec   issue   any   stop   order   suspend   the 
+ effectiveness   of   the   registration   statement ,   or   any   state   security   commission   or   other   regulatory   authority   issue   an   order   suspend   the 
+ qualification   or   exemption   from   qualification   of   the   registrable   security   under   state   security   or   " blue   sky "   law ,   moeli   holding   shall   use   its 
+ commercially   reasonable   effort   to   obtain   the   withdrawal   or   lifting   of   such   order   as   promptly   as   practicable; 
+
+ ( f )   use   its   commercially   reasonable   effort   to   cause   the   registrable   security   to   be   register   with   or   approve   by   such   other 
+ governmental   authority   as   may   be   necessary   by   virtue   of   the   business   and   operation   of   moeli   holding   to   enable   the   smbc   unit - holder   to 
+ consummate   the   disposition   of   the   registrable   securities;   provide ,   however ,   that   moeli   holding   shall   in   no   event   be   require   to   ( w )   qualify 
+
+ generally   to   do   business   in   any   jurisdiction   where   it   be   not   then   so   qualified ,   ( x )   subject   itself   to   taxation   in   any   jurisdiction   where   it   be   not   otherwise 
+ then   so   subject ,   ( y )   take   any   action   that   would   subject   it   to   service   of   process   in   suit   other   than   those   arise   out   of   the   offer   and   sale   of   the 
+ security   cover   by   the   registration   statement   or   ( z )   consent   to   general   service   of   process   in   any   jurisdiction   where   it   be   not   then   so   subject; 
+
+ ( g )   if   request   by   the   smbc   unit - holder   or   the   underwriter   or   underwriter ,   if   any ,   promptly   include   in   any   registration 
+ statement   or   prospectus ,   pursuant   to   a   supplement   or   post - effective   amendment   if   necessary ,   such   information   as   the   smbc   unit - holder   and   the 
+ underwriter   or   underwriter ,   if   any ,   may   reasonably   request   to   have   include   therein ,   include   information   relate   to   the   " plan   of   distribution "   of 
+ the   registrable   security ,   information   about   the   number   of   registrable   security   be   sell   to   the   underwriter   or   underwriter ,   the   purchase   price 
+ be   pay   therefor   and   any   other   term   of   the   offering   of   the   registrable   security   to   be   sell   in   such   offering ,   and   make   all   require   filing   of   such 
+ prospectus   supplement   or   post - effective   amendment   as   soon   as   practicable   after   moeli   holding   be   notify   of   the   matter   to   be   include   in   such 
+ prospectus   supplement   or   post - effective   amendment; 
+
+ ( h )   for   the   period   begin   a   reasonable   time   before   the   filing   of   the   registration   statement   and   for   as   long   as   moeli   holding   be 
+ require   to   cause   the   registration   statement   to   remain   current   under   section   13.1(a)(ii ) ,   and   except   to   the   extent   prohibit   by   applicable   law   and 
+ subject   to   enter   into   customary   confidentiality   agreement ,   after   reasonable   advance   notice ,   make   available   for   inspection   by   the   smbc   unit- 
+ holder ,   any   underwriter   participate   in   any   disposition   of   the   registrable   security ,   and   any   representative   for   the   smbc   unit - holder   or   such 
+ underwriter ,   during   business   hour   and   at   the   location   designate   by   moelis   holding ,   any   financial   and   other   record   and   corporate   document   of 
+ moeli   holding   as   will   be   reasonably   necessary   to   enable   they   to   conduct   reasonable   and   customary   due   diligence   with   respect   to   moeli 
+ holding   and   the   relate   registration   statement   and   prospectus ,   provide ,   however ,   that   record ,   document   and   information   obtain   hereunder 
+ will   be   use   by   such   inspect   person   only   to   conduct   such   due   diligence;   and 
+
+ ( i )   together   with   any   other   holder   of   partnership   interest   propose   to   include   security   in   any   underwritten   offering ,   enter   into 
+ a   reasonable   and   customary   write   agreement   with   the   underwriter   or   underwriter ,   if   any ,   in   such   form   and   contain   such   provision   as   be 
+ reasonable   and   customary   in   the   security   business   for   such   an   arrangement   between   underwriter   and   company   of   moeli   hold ’s   size   and 
+ investment   stature . 
+
+ 13.5   condition   to   offering .   the   obligation   of   moeli   holding   to   take   the   action   contemplate   by   section   13.1 ,   13.2   and   13.4   with 
+ respect   to   an   offering   of   registrable   security   will   be   subject   to   the   follow   condition : 
+
+ ( a )   moeli   holding   may   require   each   smbc   unit - holder   to   furnish   to   moeli   holding   such   information   regard   such   smbc 
+ unit - holder ,   the   registrable   security   or   the   distribution   of   such   registrable   security   as   moeli   holding   may   from   time   to   time   request ,   in   each 
+ case   to   the   extent   reasonably   require   by   the   security   act 
+
+ and   the   rule   and   regulation   promulgate   thereunder ,   or   under   state   security   or   " blue   sky "   laws;   and 
+
+ ( b )   if   an   offering   of   registrable   security   be   an   underwritten   offering ,   each   smbc   unit - holder   must :   ( a )   agree   to   sell   its 
+ registrable   security   on   the   basis   provide   in   any   underwriting   agreement   approve   by   moelis   holding   in   accordance   with   section   13.4(i ) ,   ( b ) 
+ complete   and   execute ,   as   applicable ,   all   customary   questionnaire ,   power   of   attorney ,   underwriting   agreement ,   lock - up   agreement   consistent 
+ with   section   13.7   and   other   document   customarily   require   under   the   term   of   such   underwriting   agreement   and   ( iii )   agree   to   make   customary 
+ representation   and   warranty   ( include   as   to   due   organization   and   good   standing ,   corporate   power   and   authority ,   due   approval ,   no   conflict   and 
+ ownership   and   transfer   of   registrable   security ,   and   as   to   accuracy   and   completeness   of   those   statement   make   in   the   applicable   registration 
+ statement ,   prospectus   or   other   document   in   reliance   upon   and   in   conformity   with   write   information   furnish   to   moeli   holding   or   the 
+ underwriter   or   underwriter   by   such   smbc   unit - holder )   and   covenant   in   such   underwriting   agreement . 
+
+ 13.6   suspension   period . 
+
+ ( a )   notwithstanding   anything   to   the   contrary   contain   in   this   agreement ,   moeli   holding   shall   be   entitle ,   by   provide   prior 
+ write   notice   to   the   smbc   unit - holder ,   to   postpone   the   filing   or   effectiveness   or   suspend   the   use   of   any   registration   statement   pursuant   to 
+ section   13.1   for   a   reasonable   period   of   time   not   to   exceed   60   day   in   succession   or   120   day   in   any   365 - day   period   ( or   a   long   period   of   time   with 
+ the   prior   write   consent   of   smbc ,   which   consent   shall   not   be   unreasonably   withhold )   ( a   " suspension   period " )   if   ( a )   moeli   holding   determine 
+ in   good   faith   that   effecting   the   registration   ( or   permit   sale   under   an   effective   registration )   would   reasonably   be   expect   to   adversely   affect   an 
+ offering   of   security   of   moelis   holding ,   ( b )   moeli   holding   be   in   possession   of   material   non - public   information   and   deem   it   advisable   not   to 
+ disclose   such   information   in   a   registration   statement ,   or   ( c )   due   to   a   pende   or   contemplate   financing ,   acquisition ,   disposition ,   corporate 
+ reorganization ,   merger ,   public   offering   of   security   or   other   similar   transaction   or   other   material   event   or   circumstance   involve   moeli   holding   or 
+ its   security .   moeli   holding   will   notify   the   smbc   unit - holder   promptly   upon   the   termination   of   the   suspension   period .   upon   notice   by   moelis 
+ holding   to   the   smbc   unit - holder   of   any   determination   to   commence   a   suspension   period ,   the   smbc   unit - holder   shall ,   except   as   require   by 
+ applicable   law ,   include   any   disclosure   obligation   under   section   13   of   the   exchange   act ,   keep   the   fact   of   any   such   suspension   period   strictly 
+ confidential ,   and   during   any   suspension   period ,   promptly   halt   any   offer ,   sale   ( include   sale   pursuant   to   rule   144 ) ,   trading   or   transfer   of   any 
+ partnership   interest   for   the   duration   of   the   suspension   period   until   moeli   holding   have   provide   notice   that   the   suspension   period   have   be 
+ terminate . 
+
+ ( b )   if   moeli   holding   suspend   the   use   of   a   registration   statement   pursuant   to   section   13.6(a ) ,   the   holder   of   registrable 
+ security   shall   receive   an   extension   of   the   registration   period   under   section   13.1(a)(ii )   and   13.1(c )   equal   to   the   number   of   day   of   the   suspension . 
+
+ ( c )   the   smbc   unit - holder   agree   that ,   upon   receipt   of   any   notice   from   moeli   holding   of   the   occurrence   of   any   event   of   the 
+ kind   describe   in   section   13.4(d )   or   section   13.4(e )   or   a   condition   describe   in   section   13.6(a ) ,   each   smbc   unit - holder   will   forthwith   discontinue 
+ disposition   of   registrable   security   pursuant   to   the   registration   statement   cover   the   sale   of   registrable   security   until   the   smbc   unit - holder 
+ receive   copy   of   the   supplement   or   amend   prospectus   contemplate   by   section   13.4(d )   or   section   13.6(d )   or   notice   from   moeli   holding   of 
+ the   termination   of   the   stop   order   or   suspension   period . 
+
+ ( d )   after   the   expiration   of   any   suspension   period   and   without   any   far   request   from   a   holder   of   partnership   interest ,   moeli 
+ holding   shall   use   its   commercially   reasonably   effort   to   prepare   a   registration   statement ,   or   post - effective   amendment   or   supplement   to   the 
+ registration   statement   or   prospectus   or   any   document   incorporate   therein   by   reference ,   or   file   any   other   require   document   so   that ,   as   thereafter 
+ deliver   to   purchaser   of   the   registrable   security   include   therein ,   the   prospectus   will   not   include   a   material   misstatement   or   omission   or   be   not 
+ effective   and   useable   for   the   sale   of   registrable   security . 
+
+ 13.7   market   stand - off   agreement . 
+
+ ( a )   in   connection   with   any   underwritten   offering   that   be   the   ipo ,   or   any   underwritten   offering   in   which   the   smbc   unit - holder 
+ be   sell   registrable   security   pursuant   to   section   13.1   or   13.2 ,   each   smbc   unit - holder   agree   that ,   during   the   period   of   duration   ( up   to   180 
+ day ,   subject   to   customary   extension   as   may   be   require   by   the   underwriter   or   underwriter   up   to   a   maximum   of   214   day )   specify   by   moelis 
+ holding   and   the   underwriter   or   underwriter   of   registrable   security ,   follow   the   date   of   the   final   prospectus   or   other   offer   document 
+ distribute   in   connection   with   the   underwritten   offering ,   it   shall   not ,   to   the   extent   request   by   moelis   holding   and   such   underwriter   or 
+ underwriter ,   directly   or   indirectly ,   sell ,   offer   to   sell ,   contract   to   sell   ( include   any   short   sale   or   other   hedging   transaction ) ,   grant   any   option   to 
+ purchase   or   otherwise   transfer   any   registrable   security   hold   by   it   at   any   time   during   such   period   except   for   such   registrable   security   as   shall   be 
+ include   in   such   registration .   notwithstanding   the   foregoing ,   the   obligation   describe   in   this   section   13.7(a )   shall   not   apply   ( i )   to   a   registration 
+ relate   solely   to   employee   benefit   plan   on   form   s-1   or   form   s-8 ,   ( ii )   to   a   registration   relate   solely   to   an   acquisition   or   similar   transaction   on   form 
+ s-4   or   ( iii )   unless   all   holder   then   hold   more   than   3   of   the   issue   and   outstanding   partnership   interest   ( and/or   any   security   of   moelis 
+ holding   or   any   successor   entity   into   which   the   partnership   interest   be   convert ,   exchange   or   redesignate )   with   a   contractual   obligation 
+ enforceable   by   moelis   holding   or   its   affiliate   to   do   so   and   all   of   the   then - current   executive   officer   and   director   ( if   applicable )   of   moeli 
+ holding   enter   into   similar   agreement . 
+
+ ( b )   in   order   to   enforce   the   forego   covenant ,   moeli   holding   may   impose   stop - transfer   instruction   with   respect   to   the 
+ registrable   security   of   each   smbc   unit - holder   until   the   end   of   such   period . 
+
+ 13.8   registration   expense .   all   fee   and   expense   incident   to   moeli   hold ’s   performance   of   or   compliance   with   the   obligation   of   this 
+ article   xiii ,   include   all   fee   and   expense   incur   in   comply   with   security   or   " blue   sky "   law ,   printing   expense ,   messenger   and   delivery 
+ expense   of   moelis   holding ,   any   registration   or   filing   fee   payable   under   any   federal   or   state   security   or   " blue   sky "   law ,   the   fee   and   expense 
+ incur   in   connection   with   any   listing   or   quote   of   the   security   to   be   register   on   any   national   security   exchange   or   automate   quotation 
+ system ,   fee   of   the   financial   industry   regulatory   authority ,   fee   and   disbursement   of   counsel   for   moeli   holding ,   its   independent   register 
+ certify   public   accounting   firm   and   any   other   public   accountant   who   be   require   to   deliver   comfort   letter   ( include   the   expense   require   by   or 
+ incident   to   such   performance ) ,   fee   of   transfer   agent   and   registrar ,   cost   of   insurance ,   and   the   fee   and   expense   of   other   person   retain   by 
+ moelis   holding ,   will   be   bear   by   moelis   holdings;   provide ,   however;   that   the   smbc   unit - holder   shall   pay   all   reasonable   out - of - pocket 
+ expense   of   moeli   holding   ( include ,   for   the   avoidance   of   doubt ,   all   the   fee   set   forth   above   in   this   section )   in   connection   with   the   demand 
+ registration   subject   to   moeli   holding '   obligation   set   forth   in   section   13.1(a)(i ) .   the   smbc   unit - holder   will   bear   and   pay   any   fee   and 
+ expense   of   smbc   or   its   affiliate   or   their   representative ,   include   their   counsel ,   and   any   underwriting   discount ,   fee   and   commission   and   any 
+ transfer   taxis   applicable   to   registrable   security   offer   for   its   account   pursuant   to   any   registration   statement . 
+
+ 13.9   indemnification;   contribution . 
+
+ ( a )   in   connection   with   any   registration   of   registrable   security ,   moeli   holding   will   indemnify ,   defend   and   hold   harmless   each 
+ smbc   unit - holder ,   its   affiliate ,   director ,   officer   and   smbc   unit - holder   and   each   person   who   control   smbc   unit - holder   within   the   meaning 
+ of   either   section   15   of   the   security   act   or   section   20   of   the   exchange   act   ( collectively ,   the   " indemnify   person " )   from   and   against   any   and   all 
+ direct   loss ,   claim ,   damage ,   liability ,   obligation ,   cost   and   expense   ( include ,   without   limitation ,   as   a   result   of   any   notice ,   action ,   suit , 
+ proceeding ,   claim ,   demand ,   assessment ,   judgment ,   award ,   cost ,   penalty ,   taxis   and   reasonable   expense ,   include   reasonable   attorney ' 
+ and   other   professional '   fee   and   disbursement ,   but   exclude   any   consequential   damage )   ( collectively   " loss " )   cause   by   ( i )   any   untrue   or 
+ allege   untrue   statement   of   material   fact   contain   in   any   part   of   any   registration   statement   or   any   prospectus ,   include   any   amendment   or 
+ supplement   thereto ,   use   in   connection   with   the   registrable   security   or   any   issuer   fwp   or   ( ii )   any   omission   or   allege   omission   to   state   therein   a 
+ material   fact   require   to   be   state   therein   or   necessary   to   make   the   statement   therein   ( in   the   case   of   a   prospectus ,   in   the   light   of   the   circumstance 
+ under   which   they   be   make )   not   misleading;   provide ,   however ,   that   moeli   holding   will   not   be   require   to   indemnify   any   indemnify   person 
+ for   any   loss   result   from   any   such   untrue   statement   or   omission   if   such   untrue   statement   or   omission   be   make   in   reliance   on   and   in 
+ conformity   with   information   with   respect   to   any   indemnify   person   furnish   to   moeli   holding   in   writing   by ,   or   on   behalf   of ,   any   of   the   smbc 
+ unit - holder   expressly   for   use   therein . 
+
+ ( b )   in   connection   with   any   registration   statement ,   prospectus   or   issuer   fwp ,   each   smbc   unit - holder ,   jointly   and   severally ,   will 
+ indemnify ,   defend   and 
+
+ hold   harmless   moeli   holding ,   its   director ,   its   officer   and   each   person ,   if   any ,   who   control   moeli   holding   ( within   the   meaning   of   either 
+ section   15   of   the   security   act   or   section   20   of   the   exchange   act )   to   the   same   extent   as   the   forego   indemnity   from   moeli   holding   to   each 
+ smbc   unit - holder ,   but   only   with   respect   to   information   furnish   to   moeli   holding   in   writing   by ,   or   on   behalf   of ,   any   smbc   unit - holder   or   any 
+ indemnify   person   expressly   for   use   in   such   registration   statement ,   prospectus   or   issuer   fwp;   and   provide ,   far ,   however ,   that   in   no   event 
+ shall   the   liability   for   indemnity   of   any   smbc   unit - holder   under   this   section   13.9(b )   exceed   the   dollar   amount   of   the   proceed   ( net   of   any 
+ underwriting   discount   or   commission   or   other   sell   expense )   receive   by   such   smbc   unit - holder   from   the   sale   of   the   registrable   security 
+ give   rise   to   such   indemnification . 
+
+ ( c )   in   case   any   claim ,   action   or   proceeding   ( include   any   governmental   investigation )   be   institute   involve   any   person   in 
+ respect   of   which   indemnity   may   be   seek   pursuant   to   section   13.9(a )   or   13.9(b ) ,   such   person   ( the   " indemnify   party " )   will   promptly ,   but   in   any 
+ event   within   10   business   day ,   notify   the   person   against   whom   such   indemnity   may   be   seek   ( the   " indemnify   party " )   in   writing ,   and   the 
+ indemnify   party   shall   have   the   right   to   participate   in ,   and   to   the   extent   the   indemnify   party   so   desire ,   to   assume   the   defense   thereof   with 
+ counsel   reasonably   satisfactory   to   the   indemnify   party;   provide ,   that   the   failure   of   any   indemnify   party   to   give   notice   within   the   time   limit 
+ provide   herein   shall   not   relieve   the   indemnify   party   of   its   obligation   under   section   13.9(a )   or   13.9(b ) ,   except   to   the   extent   that   the   indemnify 
+ party   be   actually   and   materially   prejudice   by   such   failure   to   give   notice .   in   any   such   claim ,   action   or   proceeding   where   the   indemnify   party   have 
+ assume   the   defense   thereof ,   the   indemnify   party   shall   have   the   right ,   but   not   the   obligation ,   to   participate   in   any   such   defense   and   to   retain   its 
+ own   counsel ,   but   the   fee   and   expense   of   such   counsel   will   be   at   the   expense   of   such   indemnify   party   unless   the   indemnify   party   and   the 
+ indemnify   party   have   be   advise   by   counsel   that   representation   of   both   party   by   the   same   counsel   would   be   inappropriate   due   to   actual   or 
+ potential   conflicting   interest   between   they .   it   be   understand   that   the   indemnify   party   will   not ,   in   connection   with   any   claim ,   action   or 
+ proceeding   or   relate   claim ,   action   or   proceeding   in   the   same   jurisdiction ,   be   liable   for   the   reasonable   fee   and   expense   of   more   than   one 
+ separate   firm   of   attorney   ( in   addition   to   any   local   counsel )   at   any   time   for   all   such   indemnify   party   and   that   all   such   reasonable   fee   and 
+ expense   will   be   reimburse   as   they   be   incur .   in   the   case   of   the   retention   of   any   such   separate   firm   for   the   indemnify   party ,   such   firm   will   be 
+ designate   in   writing   by   the   indemnify   party .   no   indemnify   party   will ,   without   the   prior   write   consent   of   the   indemnify   party ,   settle , 
+ compromise   or   offer   to   settle   or   compromise   any   pende   or   threaten   proceeding   in   respect   of   which   any   indemnify   party   be   seek   indemnity 
+ hereunder .   the   indemnify   party   will   not   be   liable   for   any   settlement   of   any   claim ,   action   or   proceeding   effect   without   its   write   consent ,   but   if 
+ such   claim ,   action   or   proceeding   be   settle   with   such   consent   or   if   there   have   be   a   final   judgment   for   the   plaintiff ,   the   indemnify   party   agree   to 
+ indemnify   the   indemnify   party   from   and   against   any   loss   by   reason   of   such   settlement   or   judgment .   no   indemnify   party   will ,   without   the   prior 
+ write   consent   of   the   indemnify   party ,   settle ,   compromise   or   offer   to   settle   or   compromise   any   pende   or   threaten   proceeding   in   respect   of 
+ which   any   indemnify   party   be   seek   indemnity   hereunder ,   unless   such   settlement   include   ( i )   an 
+
+ unconditional   release   of   such   indemnify   party   from   all   liability   in   connection   with   such   proceeding ,   ( ii )   no   finding   or   admission   of   any   violation   of 
+ law   or   any   violation   of   the   right   of   any   person   by   the   indemnify   party   or   any   of   its   affiliate   can   be   make   as   the   result   of   such   action ,   and   ( iii ) 
+ the   sole   relief   ( if   any )   provide   be   monetary   damage   that   be   reimburse   in   full   by   the   indemnify   party . 
+
+ ( d )   if   the   indemnification   provide   for   in   this   section   13.9   from   the   indemnify   party   be   unavailable   to   an   indemnify   party 
+ hereunder   or   be   insufficient   in   respect   of   any   loss   refer   to   in   this   section   13.9 ,   then   the   indemnify   party ,   in   lieu   of   indemnify   such 
+ indemnify   party ,   will   contribute   to   the   amount   pay   or   payable   by   such   indemnify   party   as   a   result   of   such   loss   ( i )   in   such   proportion   as   be 
+ appropriate   to   reflect   the   relative   fault   of   the   indemnify   party   and   indemnify   party   in   connection   with   the   action   that   result   in   such   loss , 
+ as   well   as   any   other   relevant   equitable   consideration ,   or   ( ii )   if   the   allocation   provide   by   clause   ( i )   be   not   permit   by   applicable   law ,   in   such 
+ proportion   as   be   appropriate   to   reflect   not   only   the   relative   fault   refer   to   in   clause   ( i )   but   also   the   relative   benefit   of   moelis   holding ,   on   the   one 
+ hand ,   and   each   smbc   unit - holder ,   on   the   other ,   in   connection   with   the   statement   or   omission   that   result   in   such   loss ,   as   well   as   any   other 
+ relevant   equitable   considerations;   provide ,   however ,   that   in   no   event   shall   a   smbc   unit - holder   be   require   by   this   section   13.9(d )   to   contribute 
+ an   aggregate   amount   in   excess   of   the   dollar   amount   of   proceed   ( net   of   underwriting   discount   and   commission   and   other   sell   expense ) 
+ receive   by   such   smbc   unit - holder   from   the   sale   of   registrable   security   give   rise   to   such   contribution .   the   relative   fault   of   such   indemnify 
+ party   and   indemnify   party   will   be   determine   by   reference   to ,   among   other   thing ,   whether   any   action   in   question ,   include   any   untrue   or   allege 
+ untrue   statement   of   a   material   fact   or   omission   or   allege   omission   to   state   a   material   fact ,   have   be   take   by ,   or   relate   to   information   supply   by , 
+ such   indemnify   party   or   indemnify   party ,   and   the   party '   relative   intent ,   knowledge ,   access   to   information   and   opportunity   to   correct   or 
+ prevent   such   action .   the   amount   pay   or   payable   by   a   party   as   a   result   of   the   loss   refer   to   above   will   be   deem   to   include ,   subject   to   the 
+ limitation   set   forth   in   section   13.9(c ) ,   any   reasonable   out   of   pocket   legal   or   other   out   of   pocket   fee   or   expense   reasonably   incur   by   such   party 
+ in   connection   with   any   investigation   or   proceed . 
+
+ ( e )   the   party   agree   that   it   would   not   be   just   and   equitable   if   contribution   pursuant   to   section   13.9(d )   be   determine   by   pro 
+ rata   allocation   or   by   any   other   method   of   allocation   that   do   not   take   into   account   the   equitable   consideration   refer   to   in   section   13.9(d ) .   no 
+ person   guilty   of   " fraudulent   misrepresentation "   ( within   the   meaning   of   section   11(f )   of   the   security   act )   will   be   entitle   to   contribution   from   any 
+ person   who   be   not   guilty   of   such   fraudulent   misrepresentation .   notwithstanding   the   provision   of   this   section   13.9(e ) ,   a   smbc   unit - holder   shall 
+ not   be   require   to   contribute ,   in   the   aggregate ,   any   amount   in   excess   of   the   amount   by   which   the   net   proceed   receive   by   such   smbc   unit - holder 
+ from   the   sale   of   the   registrable   security   exceed   the   amount   of   any   damage   which   such   smbc   unit - holder   have   otherwise   be   require   to   pay 
+ by   reason   of   such   untrue   or   allege   untrue   statement   or   omission   or   allege   omission . 
+
+ ( f )   if   indemnification   be   available   under   this   section   13.9 ,   the   indemnify   party   will   indemnify   each   indemnify   party   to   the 
+ full   extent   permissible   under   applicable   law   provide   in   section   13.9(a )   and   13.9(b )   without   regard   to   the   relative   fault   of   say   indemnify   party 
+ or   indemnify   party   or   any   other   equitable   consideration   provide   for   in   section   13.9(d )   or   13.9(e ) .   the   obligation   of   moeli   holding   under   this 
+ section   13.9   shall   be   in   addition   to   any   liability   that   moeli   holding   may   otherwise   have   to   any   indemnify   person . 
+
+ ( g )   notwithstanding   anything   to   the   contrary   in   this   agreement ,   each   of   the   indemnify   party   have   rely   on   this   section   13.9 ,   be 
+ an   express   third   party   beneficiary   of   this   section   13.9   and   be   entitle   to   enforce   the   obligation   of   the   applicable   indemnify   party   under   this 
+ section   13.9   directly   against   such   indemnify   party   to   the   full   extent   thereof . 
+
+ 13.10   rule   144 .   for   so   long   as   moeli   holding   be   subject   to   the   requirement   of   section   13 ,   14   or   15(d )   of   the   security   act ,   moeli 
+ holding   agree   that   it   will   use   its   reasonable   good   effort   to   ( i )   make   and   keep   public   information   available ,   as   those   term   be   understand   and 
+ define   in   rule   144   and   ( ii )   file   the   report   require   to   be   file   by   it   under   the   security   act   and   the   exchange   act . 
+
+ 13.11   transfer   of   registration   right .   the   right   to   cause   moeli   holding   to   register   security   grant   to   the   smbc   unit - holder   under 
+ this   article   xiii   may   be   assign   by   the   smbc   unit - holder   with   the   consent   of   moelis   holding ,   except   that   the   smbc   unit - holder   may 
+ assign   such   right   to   their   wholly - own   subsidiary   without   the   consent   of   moelis   holding . 
+
+ 13.12   termination   of   registration   right .   the   registration   right   contain   in   section   13.1   shall   automatically   terminate   when   the   smbc 
+ unit - holder   collectively   hold   registrable   security   in   an   amount   less   than   ( i )   1   of   the   issue   and   outstanding   partnership   interest   ( and/or   any 
+ security   of   moelis   holding   or   any   successor   entity   into   which   the   partnership   interest   be   convert ,   exchange   or   redesignate )   and   ( ii )   the 
+ average   weekly   report   volume   of   trading   in   partnership   interest   ( and/or   any   security   of   moelis   holding   or   any   successor   entity   into   which 
+ the   smbc   unit   be   convert ,   exchange   or   redesignate )   on   all   national   security   exchange   and/or   report   through   the   automate   quotation 
+ system   of   a   register   security   association   for   the   four   calendar   week   precede   the   date   on   which   such   determination   be   make . 
+
+ article   xiv . 
+ representation   and   warranties;   conduct   of   business 
+
+ 14.1   representation   and   warranty   of   moelis .   moeli   holding   and   moeli   general   partner   each   represent   and   warrant   to   smbc / nikko 
+ that : 
+
+ ( a )   organization .   moeli   general   partner   have   be   duly   form   and   be   validly   exist   as   a   limit   liability   company   under   the 
+ delaware   limit   liability 
+
+ company   act .   moeli   holding   have   be   duly   form   and   be   validly   exist   as   a   limit   partnership   under   the   delaware   revise   uniform   limit 
+ partnership   act . 
+
+ ( b )   power ,   authority ,   etc .   each   of   moelis   holding   and   moeli   general   partner   have   all   requisite   power   and   authority   to   enter   into 
+ this   agreement   and   to   consummate   the   transaction   contemplate   herein .   the   execution ,   delivery   and   performance   of   this   agreement   do   not 
+ require   any   further   consent   of   any   third   party   or   governmental   authority .   this   agreement   have   be   duly   authorize ,   execute   and   deliver   by 
+ moelis   holding   and   moeli   general   partner   and ,   when   duly   execute   and   deliver   by   the   other   party   hereto ,   will   be   the   valid   and   bind 
+ obligation   of   moelis   holding   and   moeli   general   partner ,   enforceable   in   accordance   with   its   term ,   except   ( a )   as   may   be   limit   by   or   subject   to 
+ any   bankruptcy ,   insolvency ,   reorganization ,   moratorium   or   other   similar   law   affect   creditor ’   right   generally   and   ( b )   that   the   remedy   of 
+ specific   performance ,   injunction   and   other   form   of   equitable   relief   may   not   be   available   because   they   be   subject   to   certain   test   of   equity 
+ jurisdiction ,   equitable   defense   and   the   discretion   of   the   court   before   which   any   proceeding   therefor   may   be   bring . 
+
+ ( c )   other .   each   of   the   representation   and   warranty   set   out   in   exhibit   a   of   this   agreement   be   true   and   correct   on   the   date 
+ hereof . 
+
+ 14.2   representation   and   warranty   of   smbc / nikko .   smbc   and   nikko   each   represent   and   warrant   to   moeli   holding   and   moeli 
+ general   partner   that : 
+
+ ( a )   organization .   smbc   and   nikko   have   be   duly   form   and   be   validly   exist   as   corporation   under   the   law   of   japan . 
+
+ ( b )   power ,   authority ,   etc .   smbc   and   nikko   have   all   requisite   power   and   authority   to   enter   into   this   agreement   and   to 
+ consummate   the   transaction   contemplate   herein .   the   execution ,   delivery   and   performance   of   this   agreement   by   smbc   and   nikko   do   not 
+ require   any   further   consent   of   any   third   party   or   governmental   authority .   this   agreement   have   be   duly   authorize ,   execute   and   deliver   by 
+ each   of   smbc   and   nikko   and ,   when   duly   execute   and   deliver   by   the   other   party   hereto ,   will   be   the   valid   and   bind   obligation   of   smbc   and 
+ nikko ,   enforceable   in   accordance   with   its   term ,   except   ( a )   as   may   be   limit   by   or   subject   to   any   bankruptcy ,   insolvency ,   reorganization , 
+ moratorium   or   other   similar   law   affect   creditor ’   right   generally   and   ( b )   that   the   remedy   of   specific   performance ,   injunction   and   other   form   of 
+ equitable   relief   may   not   be   available   because   they   be   subject   to   certain   test   of   equity   jurisdiction ,   equitable   defense   and   the   discretion   of   the 
+ court   before   which   any   proceeding   therefor   may   be   bring . 
+
+ 14.3   survival   of   covenant ,   representation   and   warranty .   each   of   the   covenant ,   representation   and   warranty   of   the   party   in   this 
+ agreement   and   the   subscription   agreement   shall   survive   the   closing   through   and   include   the   date   thirty   ( 30 )   day   follow   the   receipt   by 
+ smbc / nikko   of   the   audit   financial   statement   of   moeli   holding   as   of   and   for   the   year   end   december   31 ,   2012 . 
+
+ article   xv . 
+
+ miscellaneous 
+
+ 15.1   expenses;   no   partnership   or   joint   venture .   each   party   will   bear   its   own   legal ,   marketing ,   travel   and   other   expense   in   connection   with 
+ the   strategic   alliance .   no   party   be   the   partner ,   joint   venture   partner   or   agent   of   any   other   party   with   power   to   bind   any   other   party   contractually . 
+ this   agreement   and   the   strategic   alliance   represent   an   agreement   to   cooperate   and   not   a   partnership   or   joint   venture   agreement .   no   party   owe 
+ any   other   party   a   fiduciary   duty   by   virtue   of   this   agreement   or   the   operation   of   the   strategic   alliance . 
+
+ 15.2   notice .   notice   under   this   agreement   must   be   in   writing   and   may   be   deliver   by   mail ,   overnight   delivery   service   or   email   as   follow : 
+
+ if   to   smbc : 
+
+ 2 - 3 ,   otemachi   1 - chome 
+ chiyoda - ku ,   tokyo   100 - 0004 
+ attention :   toshihiro   horiuchi ,   senior   vice   president ,   security 
+ business   planning   dept . ,   planning   dept . ,   investment   banking   unit . 
+ email   address :   horiuchi_toshihirock.smbc.co.jp 
+
+ if   to   nikko : 
+
+ shin - marunouchi   building   18f , 
+ 5 - 1 ,   marunouchi   1 - chome , 
+ chiyoda - ku ,   tokyo   100 - 6518 
+ attention :   masami   hagiwara ,   head   of   merger   &   acquisition 
+ administration 
+ email   address :   hagiwara_masamismbcnikko.co.jp 
+
+ if   to   moeli   holding : 
+
+ moelis   &   company   holding   lp 
+ 399   park   avenue ,   5th   floor 
+ new   york ,   ny   10022 
+ attention :   kate   pilcher   ciafone ,   senior   vice   president 
+ email   address :   kate.ciafonemoelis.com ,   with   a   copy   to : 
+ attention :   osamu   watanabe ,   general   counsel 
+ email   address :   osamu.watanabemoelis.com 
+
+ 15.3   entire   agreement;   amendment;   waivers;   counterpart .   this   agreement   and   the   subscription   agreement   ( as   modify   by   any   letter 
+ agreement   between   the   party   enter   into   on   the   date   hereof ) ,   incorporate   the   entire   understanding   of   the   party   and   supersede   all   previous 
+ agreement   with   respect   to   the   subject   matter   hereof .   no 
+
+ amendment   or   modification   of   this   agreement   shall   be   effective   unless   it   be   make   in   writing   and   sign   by   each   of   the   party .   no   waiver ,   express 
+ or   imply ,   by   any   party   of   a   breach   by   another   party   of   this   agreement ,   or   of   any   term   and   provision   of   this   agreement ,   shall   constitute   a   waiver 
+ of   any   subsequent   such   breach   or   of   future   enforcement   of   any   such   term   or   provision .   this   agreement   may   be   execute   in   three   or   more 
+ counterpart ,   each   of   which   shall   be   deem   an   original ,   but   all   of   which   shall   constitute   one   and   the   same   agreement . 
+
+ 15.4   no   assignment .   this   agreement   may   not   be   assign   by   any   party   without   the   write   consent   of   the   other   party ,   except   to   a 
+ subsidiary   or   control   affiliate   of   such   party   which   succeed   such   party ’s   conduct   of   cover   business . 
+
+ 15.5   obligation   and   responsibility   of   smbc / nikko .   smbc   and   nikko   shall   be   severally   and   not   jointly   responsible   for   any   obligation   or 
+ responsibility   incur   or   assume   by   smb   c / nikko   hereunder . 
+
+ 15.6   separability .   in   case   one   or   more   of   the   provision   contain   in   this   agreement   be   for   any   reason   hold   to   be   invalid ,   illegal   or 
+ unenforceable   in   any   respect   under   any   such   law   or   regulation ,   the   invalidity ,   illegality ,   or   unenforceability   will   not   affect   any   other   provision   of 
+ this   agreement ,   which   will   be   construe   as   if   contain   in   this   agreement ,   and   each   illegal ,   invalid   or   unenforceable   provision   will   be   construe   as 
+ broadly   as   may   be   possible   so   that   the   original   intent   of   the   party   be   give   effect   to   the   great   extent   possible . 
+
+ 15.7   compliance   with   law .   each   of   the   party   shall   execute   and   perform   this   agreement   in   compliance   with   all   applicable   law   or 
+ regulation .   notwithstanding   the   foregoing ,   a   party   shall   not   be   obligate   to   take   any   action   that   violate ,   infringe   or   conflict   with   or   prohibit 
+ from   take   any   action   require   to   be   in   compliance   with   any   applicable   law   or   regulation . 
+
+ 15.8   govern   laws;   jurisdiction .   this   agreement   shall   be   govern   by ,   and   construe   in   accordance   with ,   the   law   of   the   state   of   new 
+ york   without   regard   to   principle   of   conflict   of   law .   the   party   irrevocably   and   unconditionally   submit   to   the   exclusive   jurisdiction   of   any   state   or 
+ federal   court   sit   in   manhattan ,   new   york   over   any   suit ,   action   or   proceed   arise   out   of   or   relate   to   this   agreement .   the   party   hereby 
+ agree   that   service   of   any   process ,   summon ,   notice   or   document   by   u.s .   register   mail   address   to   such   party   at   the   address   above   shall   be 
+ effective   service   of   process   for   any   action ,   suit   or   proceeding   bring   in   any   such   court .   the   party   irrevocably   and   unconditionally   waive   any 
+ objection   to   the   laying   of   venue   of   any   such   suit ,   action   or   proceeding   bring   in   any   such   court   and   any   claim   that   any   such   suit ,   action   or 
+ proceeding   bring   in   such   a   court   have   be   bring   in   an   inconvenient   forum .   each   party   waif   any   right   to   trial   by   jury   with   respect   to   any 
+ proceeding   arise   out   of   this   agreement .   notwithstanding   the   foregoing ,   any   matter   relate   to   the   smbc   unit - holder '   right   or   obligation   as 
+ limited   partner   of   moeli   holding   shall   be   subject   to   section   10.4   and   10.10   of   the   moelis   holding   agreement   and   not   to   this   section   15.8 . 
+
+ 15.9   effect   on   prior   agreement .   commencing   as   of   the   effective   date ,   the   right   and   obligation   of   the   party   shall   be   determine   pursuant 
+ to   this   agreement   and   the   prior   agreement   shall   be   of   no   far   effect;   provide ,   that ,   any   fee   and   expense   due   to   a   party   outstanding 
+ thereunder   shall   be   deem   to   be   outstanding   under   this   agreement . 
+
+ 15.10   good   faith   discussion;   further   assurance .   should   there   be   any   dispute   or   disagreement   with   respect   to   any   matter   not   set   forth   in 
+ this   agreement ,   the   party   will   discuss   in   good   faith   to   resolve   such   dispute   or   disagreement .   each   party   shall   use   its   reasonable   effort   to 
+ cooperate   with   the   other   party   if   necessary   for   compliance   with   law   and   regulation   applicable   to   such   other   party   in   relation   to   the   smbc   unit- 
+ holder '   holding   of   smbc   unit   or   transaction   or   matter   contemplate   under   the   subscription   agreement ,   the   side   letter ,   this   agreement   and 
+ the   moelis   holding   agreement . 
+
+ [ signature   page   follow ] 
+
+ in   witness   whereof ,   the   party   have   cause   this   agreement   to   be   execute   and   deliver   on   the   date   first   write   above . 
+
+ sumitomo   mitsui   banking   corporation 
+
+ by : 
+
+ name :   takeshi   kunibe 
+
+ title :   president 
+
+ smbc   nikko   security   inc . 
+
+ by : 
+
+ name :   eiji   watanabe 
+
+ title :   president   &   ceo 
+
+ moeli   &   company   holding   lp 
+
+ by :   moelis   &   company   holding   gp   llc 
+
+ its :   general   partner 
+
+ by : 
+
+ name :   kenneth   d.   moelis 
+
+ title :   chief   executive   officer 
+
+ moeli   &   company   holding   gp   llc 
+
+ by : 
+
+ name :   kenneth   d.   moelis 
+
+ title :   chief   executive   officer 
+
+ [ signature   page   to   the   strategic   alliance   agreement ] 
+
+ exhibit   a 
+
+ representation   and   warranty   of   the   moeli   entity 
+
+ in   addition   to   the   representation   and   warranty   set   forth   in   the   subscription   agreement ,   and   except   as   specifically   set   forth   in   the   disclosure 
+ schedule   deliver   to   smbc / nikko   simultaneously   with   the   execution   hereof   ( the   " moeli   disclosure   schedule " ) ,   moeli   holding   and   moeli 
+ general   partner   represent   and   warrant   to   smbc / nikko   that : 
+
+ ( a )   organization   and   authority .   each   of   the   moeli   entity   have   all   requisite   corporate   or   other   entity   power   and   authority   to   own 
+ or   lease   all   of   its   property   and   asset   and   to   carry   on   its   business   as   it   be   now   be   conduct   and   be   duly   license   or   qualify   to   do   business   in 
+ each   jurisdiction   in   which   the   nature   of   the   business   conduct   by   it   or   the   character   or   location   of   the   property   and   asset   own   or   lease   by   it 
+ make   such   licensing   or   qualification   necessary ,   other   than   any   failure   to   be   so   license   or   qualify   that   would   not   reasonably   be   expect   to   have 
+ a   material   adverse   effect   on   the   moeli   entity   and   their   control   affiliate ,   take   as   a   whole . 
+
+ ( b )   moeli   holding   agreement .   the   moelis   holding   agreement   have   be   duly   authorize ,   execute   and   deliver   by   moelis 
+ general   partner   and   be   a   valid   and   legally   bind   agreement   of   moeli   general   partner ,   enforceable   against   it   in   accordance   with   its   term ,   except   ( i ) 
+ as   the   enforceability   thereof   may   be   limit   by   bankruptcy ,   insolvency ,   reorganization   or   other   similar   applicable   law   affect   the   enforcement   of 
+ creditor ’   right   generally   and   ( ii )   that   the   remedy   of   specific   performance ,   injunction   and   other   form   of   equitable   relief   may   not   be   available 
+ because   they   be   subject   to   certain   test   of   equity   jurisdiction ,   equitable   defense   and   the   discretion   of   the   court   before   which   any   proceeding 
+ therefor   may   be   bring .   the   moelis   holding   agreement   attach   as   tab   5   of   the   subscription   agreement   be   a   true ,   correct   and   complete   copy   of 
+ the   moelis   holding   agreement   as   currently   in   effect . 
+
+ ( c )   affiliate .   each   control   affiliate   of   moelis   holding   be   duly   organize ,   validly   exist   and   in   good   standing   under   the   law 
+ of   the   jurisdiction   of   its   incorporation   or   formation   and   have   all   requisite   corporate   or   other   entity   power   and   authority   to   own   or   lease   all   of   its 
+ property   and   asset   and   to   carry   on   its   business   as   it   be   now   be   conduct   and   be   duly   license   or   qualify   to   do   business   in   each   jurisdiction 
+ in   which   the   nature   of   the   business   conduct   by   it   or   the   character   or   location   of   the   property   and   asset   own   or   lease   by   it   make   such 
+ licensing   or   qualification   necessary ,   other   than   any   failure   to   be   in   good   standing   or   to   be   so   license   or   qualify   that   would   not   reasonably   be 
+ expect   to   have   a   material   adverse   effect   on   the   moeli   entity   and   their   control   affiliate ,   take   as   a   whole .   all   the   issue   and   outstanding 
+ share   of   capital   stock   or   other   partnership ,   equity   or   ownership   interest   of   such   control   affiliate   have   be   duly   authorize   and   validly 
+ issue ,   be   fully   pay   and   nonassessable   with   no   personal   liability   attach   to   the   ownership   thereof   ( except   as   provide   for   in   the   governing 
+ document   of   such   control   affiliate ) ,   have   be   issue   in   compliance   with   all   applicable   security   law ,   and   be   not   issue   in   violation   of   any 
+ preemptive   right   or   other   right   to   subscribe   for   or   purchase   security .   except   as   set 
+
+ forth   in   the   moeli   disclosure   schedule ,   moeli   holding   own ,   directly   or   indirectly ,   all   of   the   issue   and   outstanding   equity   interest   of   each   of 
+ its   control   affiliate ,   free   and   clear   of   all   lien   or   encumbrance . 
+
+ ( d )   capitalization .   ( 1 )   the   moelis   disclosure   schedule   set   forth   a   true   and   complete   list   of   the   number ,   class   and   series   of   each 
+ issue   and   outstanding   class   and   series   of   partnership   interest   as   of   the   date   of   this   agreement .   ( 2 )   all   of   the   issue   and   outstanding   partnership 
+ interest   have   be   duly   authorize   and   validly   issue   and   be   fully   pay   and   nonassessable ,   and   have   be   issue   in   compliance   with   all 
+ applicable   security   law ,   and   be   not   issue   in   violation   of   any   preemptive   right   or   other   right   to   subscribe   for   or   purchase   security .   ( 3 ) 
+ except   with   respect   to   employee   of   moeli   holding   or   its   control   affiliate   and   except   as   set   forth   in   the   moelis   holding   agreement ,   none   of 
+ moeli   holding   or   any   of   its   control   affiliate   have   or   be   bind   by   any   outstanding   subscription ,   option ,   warrant ,   call ,   commitment   or 
+ agreement   of   any   character   call   for   the   purchase   or   issuance   of ,   or   security   or   option ,   warrant   or   right   convertible   or   exercisable   into   or 
+ exchangeable   for ,   any   partnership   interest   or   other   equity   or   synthetic   ownership   interest   of   moelis   holding   or   any   control   affiliate ,   or   any 
+ security   represent   or   contractual   right   grant   the   right   ( i )   to   purchase   or   otherwise   receive   any   equity   interest   in   moeli   holding   or   any 
+ control   affiliate   ( include   any   right   plan   or   agreement )   or   ( ii )   to   receive   any   periodic   or   other   distribution   on   net   income   or   net   loss   or   upon   the 
+ liquidation   and   winding   up   of   moelis   holding   or   any   control   affiliate .   ( 4 )   ( a )   except   as   set   forth   in   the   moeli   disclosure   schedule ,   as   of   the 
+ date   of   this   agreement ,   there   be   no ,   write   or   oral ,   side   letter ,   contract ,   memorandum   of   understanding   and   any   other   agreement   enter   into 
+ between   any   of   moeli   entity   on   one   hand   and   any   limit   partner   of   moelis   holding   on   the   other   hand   in   respect   to   of   the   issuance   or   hold 
+ of   any   class   or   type   of   interest   in   moeli   holding ,   regardless   of   whether   such   side   letter ,   write   contract ,   memorandum   of   understanding   and   any 
+ other   agreement   be   enter   into   by   such   limit   partner   in   its   capacity   as   such ,   except   for   any   vest   agreement ,   employment   agreement ,   offer 
+ letter   or   similar   agreement   enter   into   between   the   moeli   entity   and   employee   of   moeli   holding   or   its   control   affiliates;   and   ( b )   as   of   the 
+ date   of   this   agreement ,   no   preferential   voting   or   economic   right   grant   to   any   limit   partner   of   moelis   holding   pursuant   to   any   representation 
+ ( d )   transaction   agreement   ( as   define   in   the   moeli   disclosure   schedule )   would   reasonably   be   expect   to   significantly   and   adversely   affect   any 
+ voting   or   economic   right   of   the   smbc   unit - holder   under   the   moelis   holding   agreement ,   the   subscription   agreement ,   the   side   letter   or   this 
+ agreement   ( as   applicable ) ,   other   than   as   a   result   of   dilution   in   accordance   with   the   moelis   holding   agreement   from   the   issuance   of   additional 
+ management   unit   pursuant   to   such   representation   ( d )   transaction   agreement .   ( 5 )   the   moelis   disclosure   schedule   set   forth   a   schedule   of 
+ smbc ’s   pro   forma   ownership   of   moelis   holding ,   as   of   the   date   of   this   agreement ,   after   give   effect   to   the   transaction   contemplate   by   the 
+ subscription   agreement   and   the   methodology   for   calculate   such   pro   forma   ownership   as   describe   in   such   schedule . 
+
+ ( e )   partnership   interest .   the   issuance   of   partnership   interest   to   smbc   pursuant   to   the   subscription   agreement   have   be   duly 
+ authorize   by   all   necessary   action   on   the   part   of   moelis   holding .   when   issue ,   deliver   and   sell   against   receipt   of 
+
+ a-2 
+
+ the   consideration   therefor   as   provide   in   the   subscription   agreement ,   such   partnership   interest   will   be   validly   issue ,   fully   pay   and 
+ nonassessable   and   without   any   personal   liability   attach   to   the   ownership   thereof   ( except   as   provide   for   in   the   moelis   holding   agreement ) , 
+ will   not   be   issue   in   violation   of   or   subject   to   preemptive   right   of   any   other   unitholder   of   moelis   holding   and   will   not   result   in   the   violation   or 
+ trigger   of   any   price - base   antidilution   adjustment   under   any   agreement   to   which   moeli   holding   be   a   party .   the   issuance   of   partnership 
+ interest   to   smbc   qualifie   as   an   issuance   of   " additional   unit "   to   a   " strategic   investor "   under   section   3.4.1   of   the   moelis   holding   agreement 
+ for   which   exist   common   partner   will   not   have   the   right   of   first   refusal   as   provide   therein . 
+
+ ( f )   no   conflict .   neither   the   execution   and   delivery   by   the   moeli   entity   of   the   strategic   alliance   agreement   or   the 
+ subscription   agreement ,   nor   the   consummation   of   the   transaction   contemplate   thereby ,   nor   compliance   by   the   moeli   entity   with   any   of   the 
+ provision   thereof ,   will   violate   any   applicable   law   or   regulation   or   violate ,   conflict   with ,   or   result   in   a   breach   of   any   provision   of ,   or   constitute   a 
+ default   ( or   an   event   which ,   with   notice   or   lapse   of   time   or   both ,   would   constitute   a   default )   under ,   or   result   in   the   termination   of ,   or   result   in   the   loss 
+ of   any   benefit   or   creation   of   any   right   on   the   part   of   any   third   party   under ,   or   accelerate   the   performance   require   by ,   or   result   in   a   right   of 
+ termination   or   acceleration   of ,   or   result   in   the   creation   of   any   lien   or   encumbrance   upon   any   of   the   material   property   or   asset   of   any   of   the   moelis 
+ entity   or   any   of   their   control   affiliate   under   any   of   the   term ,   condition   or   provision   of   ( i )   their   respective   organizational   document   or   ( ii ) 
+ any   note ,   bond ,   mortgage ,   indenture ,   deed   of   trust ,   license ,   lease ,   agreement   or   other   instrument   or   obligation   to   which   any   of   the   moeli   entity   or 
+ any   of   their   control   affiliate   be   a   party   or   by   which   it   may   be   bind ,   or   to   which   any   of   the   moeli   entity   or   any   of   their   control   affiliate   or 
+ any   of   the   property   or   asset   of   any   of   the   moeli   entity   or   any   of   their   control   affiliate   may   be   subject ,   except   as   would   not   reasonably   be 
+ expect   to   have   a   material   adverse   effect   on   the   moeli   entity   and   their   control   affiliate ,   take   as   a   whole . 
+
+ ( g )   consent .   no   consent   or   approval   of   or   prior   filing   or   registration   with   any   governmental   authority   or   with   any   third 
+ party   be   necessary   in   connection   with   the   execution   and   delivery   by   the   moeli   entity   of   the   strategic   alliance   agreement ,   the   subscription 
+ agreement   or   the   side   letter ,   or   the   consummation   of   the   transaction   contemplate   thereby . 
+
+ ( h )   financial   statement .   the   moeli   entity   have   previously   make   available   to   smbc / nikko   true   and   correct   copy   of   ( i )   the 
+ consolidate   balance   sheet   of   moeli   holding   as   of   december   31   for   the   fiscal   year   2007   through   2010 ,   inclusive ,   and   the   relate   consolidated 
+ statement   of   income ,   change   in   total   capital   and   of   cash   flow   for   the   fiscal   year   then   end ,   in   each   case   accompany   by   the   audit   report   of 
+ deloitte   and   touche   llp ,   independent   public   accountant   with   respect   to   moeli   holding   and   ( ii )   the   september   30 ,   2011   unaudited   consolidated 
+ balance   sheet   of   moelis   holding   and   the   relate   unaudited   consolidated   statement   of   income ,   change   in   total   capital   and   of   cash   flow   for   the 
+ nine - month   period   then   end   ( include   the   relate   note ,   where   applicable )   ( each   of   the   above ,   the   " financial   statement " ) .   the   financial 
+ statement   have   be   prepare   from ,   be   in   accordance   with   and   accurately   reflect   in   all 
+
+ a-3 
+
+ material   respect ,   the   book   and   record   of   moelis   holding   and   its   control   affiliate ,   have   be   prepare   in   all   material   respect   in   accordance 
+ with   united   state   generally   accept   accounting   principle   apply   on   a   consistent   basis   during   the   period   involve   ( except   as   may   be   state   in 
+ the   note   thereto ) ,   be   true   and   complete   and   fairly   present   in   all   material   respect   the   consolidated   financial   position   and   the   consolidate   result 
+ of   operation   and   cash   flow   ( and   change   in   financial   position ,   if   any )   of   moelis   holding   and   its   control   affiliate   as   of   the   time   and   for   the 
+ period   refer   to   therein   ( subject ,   in   the   case   of   unaudited   statement ,   to   normally   recur   year - end   audit   adjustment   which   be   not   material 
+ either   individually   or   in   the   aggregate ) . 
+
+ ( i )   business   plan .   all   estimate   and   pro   forma   financial   information   contain   in   the   business   plan   include   in   the   moelis 
+ disclosure   schedule ,   as   of   the   date   of   the   business   plan   be   prepare   in   good   faith   by   the   moeli   entity . 
+
+ ( j )   property   and   lease .   moeli   holding   and   its   control   affiliate   have   good   and   marketable   title   to   all   material   property 
+ and   asset ,   real   and   personal ,   tangible   or   intangible ,   own   by   they ,   in   each   case   free   from   lien   or   encumbrance   that   would   materially   affect   the 
+ value   thereof   or   interfere   with   the   use   make   or   to   be   make   thereof   by   they   in   any   material   respect .   moeli   holding   and   its   control   affiliate   own 
+ or   lease   all   material   property   as   be   necessary   to   their   operation   as   now   conduct . 
+
+ ( k )   taxis .   the   moeli   entity   and   their   control   affiliate   have   file ,   or   join   in   the   filing   of ,   all   material   tax   return   require   to 
+ be   file   by   or   with   respect   to   they   prior   to   the   date   of   this   agreement ,   and   to   the   good   knowledge   of   the   moeli   entity   all   such   tax   return   be   true , 
+ accurate   and   complete   in   all   material   respect   and   all   material   amount   of   taxis   show   to   be   due   in   such   tax   return   have   be   pay ,   collect   or 
+ withhold ,   as   the   case   may   be .   with   respect   to   any   complete   taxable   period   for   which   such   tax   return   have   not   yet   be   file ,   or   for   which   taxis   be 
+ not   yet   due   or   owe ,   the   moeli   entity   and   their   control   affiliate   have   make   due   and   sufficient   current   accrual   for   any   such   taxis   on   their 
+ respective   balance   sheet   in   accordance   with   united   state   generally   accept   accounting   principle .   to   the   good   knowledge   of   the   moeli   entity , 
+ there   be   no   material   claim   or   assessment   pende   against   the   moeli   entity   or   their   control   affiliate   for   any   allege   deficiency   in   any   tax , 
+ and   the   moeli   entity   and   their   control   affiliate   have   not   be   notify   of   any   material   propose   tax   claim   or   assessment   against   the   moelis 
+ entity   or   their   control   affiliate . 
+
+ ( l )   no   undisclosed   liability .   as   of   the   date   of   this   agreement ,   neither   moeli   holding   nor   any   of   its   control   affiliate   have 
+ any   liability   or   obligation   of   any   nature   ( absolute ,   accrue ,   contingent   or   otherwise )   except   for   ( i )   liability   or   obligation   disclose   in   the 
+ financial   statement   and   current   liability   that   have   arise   since   the   date   thereof   in   the   ordinary   and   usual   course   of   business   and   consistent   with 
+ past   practice ,   ( ii )   liability   or   obligation   arise   under   contract   enter   into   by   moelis   holding   and/or   its   control   affiliate   prior   to   the   date 
+ hereof ,   or   ( iii )   liability   or   obligation   that   would   not   reasonably   be   expect   to   have   a   material   adverse   effect   on   moelis   holding   and   its 
+ control   affiliate ,   take   as   a   whole . 
+
+ a-4 
+
+ ( m )   employment   agreement .   each   manage   director   of   moelis   holding   or   any   of   its   control   affiliate ,   as   applicable ,   have 
+ enter   into   either   an   offer   letter ,   agreement   or   term   sheet   set   forth   the   term   of   such   manage   director ’s   employment   and   vest   of 
+ management   unit   grant   to   such   manage   director   in   connection   with   his   or   her   employment .   the   form   of   vest   agreement   for   the 
+ management   unit   provide   by   moelis   holding   to   smbc / nikko ,   take   as   a   whole ,   be   representative   of   the   vest   agreement   enter   into   by 
+ moelis   holding   or   each   control   affiliate ,   as   applicable ,   with   respect   to   the   grant   of   management   unit;   except   for   difference   that   would   not 
+ reasonably   be   expect   to   have   a   material   adverse   effect   on   the   moeli   entity   and   their   control   affiliate ,   take   as   a   whole ,   or   the   smbc   unit- 
+ holder '   partnership   interest . 
+
+ ( n )   litigation .   none   of   the   moeli   entity   or   any   of   their   control   affiliate   be   a   party   to   any ,   and   there   be   no   pende   or ,   to   the 
+ moelis   entity '   knowledge ,   threaten ,   material   legal ,   administrative ,   arbitral   or   other   proceeding ,   claim ,   action   or   governmental   or   regulatory 
+ investigation   ( i )   of   any   nature   against   the   moeli   entity   or   any   control   affiliate   except   as   would   not   reasonably   be   expect   to   have   a   material 
+ adverse   effect   on   the   moeli   entity   and   their   control   affiliate ,   take   as   a   whole ,   or   ( ii )   challenge   the   validity   or   propriety   of   the   transaction 
+ contemplate   by   the   subscription   agreement .   there   be   no   material   injunction ,   order ,   judgment ,   decree   or   regulatory   restriction   impose   upon   the 
+ moeli   entity ,   any   control   affiliate   or   any   of   their   asset ,   except   for   regulatory   restriction   of   general   application . 
+
+ ( o )   compliance   with   law .   each   of   the   moeli   entity   and   each   of   their   control   affiliate   have   all   permit ,   license ,   franchise , 
+ authorization ,   order   and   approval   of ,   and   have   make   all   filing ,   application   and   registration   with ,   all   governmental   authority   that   be   require 
+ in   order   to   permit   they   to   own   or   lease   their   property   and   asset   and   to   carry   on   their   business   as   they   be   now   be   conduct   other   than   any 
+ failure   that   would   not   reasonably   be   expect   to   have   a   material   adverse   effect   on   the   moeli   entity   and   their   control   affiliate ,   take   as   a 
+ whole .   except   as   would   not   be   reasonably   expect   to   have   a   material   adverse   effect   on   the   moeli   entity   and   their   control   affiliate ,   take   as   a 
+ whole ,   each   of   the   moeli   entity   and   their   control   affiliate   have   comply   with ,   and   be   not   in   default   or   violation   of ,   and   none   of   they   be   give 
+ notice   of   any   violation   or   threat   of   violation   of ,   to   the   knowledge   of   the   moeli   entity ,   under   investigation   with   respect   to   or ,   to   the   knowledge   of 
+ the   moeli   entity ,   have   be   threaten   to   be   charge   with ,   any   applicable   law ,   statute ,   ordinance ,   license ,   rule ,   regulation ,   policy   or   guideline , 
+ order ,   demand ,   writ ,   injunction ,   decree   or   judgment   of   any   governmental   authority .   except   as   would   not   be   reasonably   expect   to   have   a   material 
+ adverse   effect   on   the   moeli   entity   and   their   control   affiliate ,   take   as   a   whole ,   and   except   for   statutory   or   regulatory   restriction   of   general 
+ application ,   no   governmental   authority   have   place   any   restriction   on   the   business   or   property   of   the   moeli   entity   or   any   of   their   control 
+ affiliate . 
+
+ ( p )   risk   management .   the   moeli   entity   and   their   control   affiliate   have   in   place   risk   management   policy   and   procedure , 
+ of   the   type   and   in   the   form   that   the   moeli   entity   and   their   control   affiliate   believe ,   in   good   faith ,   be   sufficient   in   scope   and   operation   to 
+ protect   against   risk   of   the   type   and   in   the   form 
+
+ a-5 
+
+ expect   to   be   use   by   person   of   similar   size   and   in   similar   line   of   business   as   such   moeli   entity   or   control   affiliate . 
+
+ ( q )   insurance .   the   moeli   entity   and   their   control   affiliate   maintain   insurance   underwrite   by   insurer   of   recognize 
+ financial   responsibility ,   of   the   type   and   in   the   amount   that   the   moeli   entity   and   their   control   affiliate   believe ,   in   good   faith ,   be   adequate 
+ for   their   respective   business ,   all   of   which   insurance   be   in   full   force   and   effect . 
+
+ ( r )   permanent   disability .   to   the   knowledge   of   the   moeli   entity ,   ( i )   km   have   not   ( a )   suffer   and   be   not   currently   suffer   any 
+ physical   or   mental   incapacity   or   disability ,   total   or   partial ,   that   would   constitute   or   would   reasonably   be   expect   to   result   in   a   key   man   event   ( as 
+ such   term   be   define   in   the   moelis   holding   agreement )   or   ( b )   be   absent   from   work   for   three   or   more   consecutive   month   at   any   time   since   the 
+ inception   of   the   moeli   entity   and   ( ii )   no   other   circumstance   or   condition   exist   that   would   constitute   or   would   reasonably   be   expect   to   result   in 
+ a   key   man   event .   since   the   inception   of   the   moeli   entity ,   no   key   man   event   have   occur . 
+
+ ( s )   affiliate   party   transaction .   except   as   set   forth   in   the   moeli   disclosure   schedule   and   except   for   agreement   relate   to 
+ employment ,   ( i )   any   material   transaction   between   any   of   the   moeli   entity ,   on   the   one   hand   and   the   management   partner   of   any   of   the   moelis 
+ entity   or   any   of   their   affiliate   ( other   than   any   of   the   moeli   entity   and   any   control   affiliate ) ,   on   the   other   hand   be   on   term   and   condition   as 
+ favorable   to   each   of   the   moeli   entity   as   would   have   be   obtainable   by   it   in   a   comparable   arm’s - length   transaction   with   an   unrelated   third   party . 
+
+ ( t )   no   guarantee   of   performance .   none   of   the   moeli   entity   or   any   of   their   control   affiliate   have   guarantee   the   future 
+ performance   or   result   of ,   or   be   liable   in   connection   with ,   on   behalf   of ,   or   for ,   any   obligation   of   ( i )   any   pool   investment   vehicle ,   open - end 
+ investment   company ,   closed - end   investment   company ,   unit   investment   trust   or   business   development   company   or   other   private   or   public   fund 
+ ( except ,   general   partner   liability   to   the   extent   impose   by   applicable   law )   or   ( ii )   any   person   to   which   any   of   the   moeli   entity   or   any   of   their 
+ control   affiliate   provide   investment   management   or   investment   advisory   service ,   include   any   sub - advisory   service ,   pursuant   to   an 
+ investment   advisory   contract . 
+
+ ( u )   effect   of   agreement .   none   of   this   agreement ,   the   subscription   agreement   or   any   other   agreement   enter   into   in   connection 
+ therewith   be   subject   to   the   disclosure   right   under ,   or   grant   other   limited   partner   right   pursuant   to ,   section   10.19   of   the   moelis   holding 
+ agreement . 
+
+ a-6

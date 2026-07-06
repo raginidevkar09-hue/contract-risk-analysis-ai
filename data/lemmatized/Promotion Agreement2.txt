@@ -1,0 +1,1894 @@
+exhibit 10.1 
+ cologuard ® 
+ promotion agreement 
+ by and between 
+ exact science corporation 
+ and 
+ pfizer inc . 
+ august 21 , 2018 
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ table of content 
+ . 
+ definition 
+
+ 2 . 
+ governance 
+
+ 2.1 
+ joint steering committee 
+
+ 2.2 
+ joint operation committee 
+
+ 2.3 
+ joint review committee 
+
+ 2.4 
+ finance representative 
+
+ 2.5 
+ alliance manager 
+
+ 2.6 
+ compliance manager 
+
+ 3 . 
+ appointment; product ownership; marketing and sale 
+
+ 3.1 
+ appointment 
+
+ 3.2 
+ responsibility for product 
+
+ 3.3 
+ annual marketing plan 
+
+ 3.4 
+ sale promotion , detail effort and idn promotion 
+
+ 3.5 
+ pfizer investment and support 
+
+ 3.6 
+ exact investment and support 
+
+ 3.7 
+ change in share m&p expense 
+
+ 4 . 
+ accounting 
+
+ 4.1 
+ responsibility for share m&p expense 
+
+ 4.2 
+ promotion fee 
+
+ 4.3 
+ fee statement and payment 
+
+ 4.4 
+ taxis and withholding 
+
+ 4.5 
+ no partnership provision 
+
+ 4.6 
+ payments; currency 
+
+ 4.7 
+ maintenance of records; audit 
+
+ 5 . 
+ representation , warranty and covenant 
+
+ 5.1 
+ mutual representation and warranty 
+
+ 5.2 
+ representation and warranty of exact 
+
+ 5.3 
+ covenant 
+
+ 5.4 
+ compliance with law and ethical business practice 
+
+ 5.5 
+ notice of investigation 
+
+ 5.6 
+ representation by legal counsel 
+
+ 5.7 
+ no inconsistent agreement 
+
+ 5.8 
+ disclaimer 
+
+ 6 . 
+ indemnification; limitation of liability and insurance 
+
+ 6.1 
+ indemnification 
+
+ 6.2 
+ insurance requirement 
+
+ 6.3 
+ limitation of liability 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ 7 . 
+ confidentiality; publicity 
+
+ 7.1 
+ confidentiality 
+
+ 7.2 
+ authorize disclosure and use 
+
+ 7.3 
+ certain regulatory filing 
+
+ 7.4 
+ public announcement 
+
+ 7.5 
+ use of name 
+
+ 8 . 
+ term and termination 
+
+ 8.1 
+ term 
+
+ 8.2 
+ renewal 
+
+ 8.3 
+ termination for cause 
+
+ 8.4 
+ termination without cause 
+
+ 8.5 
+ mutual termination 
+
+ 8.6 
+ termination for change of control 
+
+ 8.7 
+ royalty upon expiration 
+
+ 8.8 
+ consequence of termination 
+
+ 8.9 
+ survival of certain obligation 
+
+ 9 . 
+ miscellaneous 
+
+ 9.1 
+ interpretation 
+
+ 9.2 
+ assignment 
+
+ 9.3 
+ further action 
+
+ 9.4 
+ force majeure 
+
+ 9.5 
+ notice 
+
+ 9.6 
+ amendment 
+
+ 9.7 
+ waiver 
+
+ 9.8 
+ severability 
+
+ 9.9 
+ descriptive heading 
+
+ 9.10 
+ governing law 
+
+ 9.11 
+ dispute resolution 
+
+ 9.12 
+ entire agreement of the party 
+
+ 9.13 
+ independent contractor 
+
+ 9.14 
+ no legal advice 
+
+ 9.15 
+ counterpart 
+
+ exhibit 
+ exhibit 1.24 
+ – 
+ cost of sale 
+ exhibit 1.39 
+ – 
+ exact trademark 
+ exhibit 2.2(c)(iv ) 
+ – 
+ calendar quarter performance metric 
+ exhibit 3.2(c)(i ) 
+ – 
+ sale deployment plan 
+ exhibit 3.3(b ) 
+ – 
+ annual marketing plan outline 
+ exhibit 3.4(a ) 
+ – 
+ promotion fee reduction 
+ exhibit 7.4 
+ – 
+ press release 
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ exhibit 8.8(b ) 
+ – 
+ tail period advertising service 
+ ii 
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ agreement 
+ this agreement ( the " agreement " ) be make and enter into as of august 21 , 2018 ( the " effective date " ) , by and between pfizer inc . 
+ ( " pfizer " ) , a delaware corporation , with a principal place of business at 235 east 42nd street , new york , new york 10017 and exact science 
+ corporation ( " exact " ) , a delaware corporation with a principal place of business at 441 charmany drive , madison , wisconsin 53719 . pfizer and 
+ exact may each be refer to herein individually as a " party " and collectively as the " party " . 
+ whereas , exact have marketing and proprietary right to the product ( as define below ) in the united states; 
+ whereas , pfizer have sale , marketing , analytical , and other core capability and competency to promote and market brand 
+ prescription products; and 
+ whereas , exact desire to work with pfizer to leverage pfizer ’s expertise in sale , marketing , analytical , and other core capability and 
+ competency for the product in the united states and pfizer desire to provide such expertise , include through its sale representative , and to 
+ invest in exact ’s promotion of the product in the united states . 
+ now therefore , in consideration of the mutual promise and covenant set forth below and other good and valuable consideration , 
+ the receipt and sufficiency of which be hereby acknowledge , the party hereby agree as follow : 
+ 1 . definition . 
+ 1.1 " advamed code " shall have the meaning set forth in section 3.2(c)(ii ) . 
+ 1.2 " advertising " shall mean the pay advertising , planning , purchasing and placement of advertising for a prescription medical device 
+ subject to pre - market approval in the territory through any mean , include television , print , radio / audio , in - office / placed- 
+ base , digital , web , search ( sem / seo ) , social medium , mobile and any and all new and emerge medium channel for consumer , 
+ healthcare institution and healthcare provider . 
+ 1.3 " affiliate(s ) " shall mean , with respect to any party , any other person which control , be control by or be under common control 
+ with such party . a person shall be regard as in control of another person if it own or control at least fifty percent ( 50 ) of 
+ the equity security of such other person entitle to vote in the election of director ( or , in the case of an entity that be not a 
+ corporation , for the election of the correspond managing authority); provide , however , that the term " affiliate " shall not 
+ include subsidiary or other entity in which a party or its affiliate own a majority of the ordinary voting power necessary to 
+ elect a majority of the board of director or other governing board , but be restrict from elect such majority by contract or 
+ otherwise , until such time as such restriction be no long in effect . 
+ 1.4 " agreement " shall have the meaning set forth in the preamble . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ 1.5 " alliance manager " shall have the meaning set forth in section 2.5 . 
+ 1.6 " annual marketing plan " shall mean the plan for the marketing and promotion of the product in the territory for each full or partial 
+ calendar year as describe in section 3.3 , as prepare and update from time to time pursuant to section 3.3 . 
+ 1.7 " annual supplemental promotion fee " shall have the meaning set forth in section 4.2(c)(i ) . 
+ 1.8 " applicable compliance / review policy " shall mean , with respect to pfizer , its write code of ethic and professional conduct and , 
+ with respect to exact , its write code of business conduct and ethic , and such policy and standard operating procedure 
+ that be adhere to by such party in connection with the product and any payment or service contemplate by this 
+ agreement , as the same may be amend from time to time . 
+ 1.9 " applicable law " shall mean any law , statute , rule , regulation , order , judgment , ordinance , administrative code , decree , directive , 
+ injunction or permit ( include regulatory approval ) of any court , arbitral body , agency , department , authority or other 
+ instrumentality of any national , state , county , city or other political subdivision applicable to a party ’s activity to be perform 
+ under this agreement . for the avoidance of doubt , any specific reference to any applicable law or any portion thereof , shall 
+ be deem to include all amendment , replacement or successor thereto . 
+ 1.10 " audit party " shall have the meaning set forth in section 4.7(b)(i ) . 
+ 1.11 " auditing party " shall have the meaning set forth in section 4.7(b)(i ) . 
+ 1.12 " baseline laboratory service revenue " shall mean , with respect to a particular calendar year during the term , the amount set 
+ forth in section 4.2(b ) . 
+ 1.13 " baseline m&p expense " shall have the meaning set forth in section 3.6 . 
+ 1.14 " business day " shall mean any day other than a saturday , sunday , or a bank or other public holiday in new york , new york , united 
+ state . 
+ 1.15 " calendar quarter " shall mean the respective period of three ( 3 ) consecutive calendar month end on march 31 , june 30 , 
+ september 30 or december 31 . 
+ 1.16 " calendar year " shall mean the respective period of twelve ( 12 ) calendar month , each such period end on december 31 of the 
+ applicable year for as long as this agreement be in effect . 
+ 1.17 " calendar year baseline laboratory service revenue " shall have the meaning set forth in section 4.2(b ) . 
+ 1.18 " change of control " shall mean , with respect to a party : ( a ) the sale of all or substantially all of such party ’s asset or business 
+ relate to the subject matter of this agreement; ( b ) a merger , reorganization , or consolidation involve such party in which the 
+ holder of vote security of such party outstanding immediately 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ prior thereto cease to hold at least fifty percent ( 50 ) of the combine voting power of the survive entity or acquire entity 
+ ( or its parent ) immediately after such merger , reorganization , or consolidation; or ( c ) the acquisition of more than fifty percent 
+ ( 50 ) of the voting equity security of such party as a result of a single transaction or a series of related transaction . 
+ 1.19 " cia " shall have the meaning set forth in section 5.4(j ) . 
+ 1.20 " claim " shall have the meaning set forth in section 6.1(a ) . 
+ 1.21 " compliance manager " shall have the meaning set forth in section 2.6 . 
+ 1.22 " confidential information " shall have the meaning set forth in section 7.1 . 
+ 1.23 " co - promote field " shall mean those physician and practice customarily consider primary care or gastroenterology provider 
+ and practice and , subject to section 3.1(c)(ii ) and 4.2(d ) , the ob / gyn field , in the territory . for clarity , if exact , either through 
+ its own sale representative or by agreement with a third party , launch the product in the ob / gyn field , the co - promote 
+ field shall not include the ob / gyn field . 
+ 1.24 " cost of sale " shall mean the direct and indirect cost attributable to sale of the product laboratory service , as calculate in 
+ accordance with exhibit 1.24 , and as consistently determine in accordance with gaap . 
+ 1.25 " debar / exclude " shall have the meaning set forth in section 5.1(g ) . 
+ 1.26 " detail " shall mean a customary face - to - face or non - face - to - face contact of a sale representative of a party with an eligible 
+ prescriber during which such sale representative make a presentation of certain of the product ’s attribute , such as 
+ describe the fda - approve indicate us , safety , effectiveness , or other relevant characteristic of the product , in a fair and 
+ balanced manner and in accordance with the requirement of this agreement and applicable law and in a manner that be 
+ customary for the purpose of promote a prescription medical device subject to pre - market approval , but exclude : ( a ) any 
+ activity perform by any representative other than a sale representative who be not conduct a face - to - face or non - face- 
+ to - face sale call , ( b ) presentation make at convention or ( c ) mere delivery of saving card , coupon or similar item without 
+ discussion with an eligible prescriber about the product; provide that , such measurement shall be on the same basis as the 
+ record party ’s measurement for its sale representative ' detail of its other medical device subject to pre - market 
+ approval or prescription pharmaceutical product ( as applicable ) , consistently apply throughout the term . for clarity , non- 
+ face - to - face contact shall mean e - detailing , video detail or other presentation of promotional material by a sale 
+ representative to an eligible prescriber via audio , video , internet , use webex or other similar live conference application , and 
+ in all instance that allow for real time , detailed and substantive communication between the sale representative and the 
+ eligible prescriber regard the product and would be consider a detail by pfizer for its own product under its own 
+ guideline , but shall exclude any such communication , such as telephone call , during which such detailed and visual 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ exchange of information do not occur . " detail , " when use as a verb , and " detail " shall have correlative meaning . 
+ 1.27 " disclose party " shall have the meaning set forth in section 7.1 . 
+ 1.28 " dispute joc matter " shall have the meaning set forth in section 2.2(d ) . 
+ 1.29 " dispute jrc matter " shall have the meaning set forth in section 2.3(d ) . 
+ 1.30 " dispute jsc matter " shall have the meaning set forth in section 2.1(e ) . 
+ 1.31 " effective date " shall have the meaning set forth in the preamble . 
+ 1.32 " eligible prescriber " shall mean ( a ) a health care provider who have the authority to prescribe the product under applicable law 
+ and ( b ) any other health care professional without prescribe authority but who ( i ) be reasonably believe to assist with patient 
+ care and reimbursement for healthcare service in the office of a health care provider who have authority to prescribe the product 
+ under applicable law , and ( ii ) be allow to receive promotion . 
+ 1.33 " exact " shall have the meaning set forth in the preamble . 
+ 1.34 " exact copyright " shall mean all statutory and common law copyright own by exact in and to the promotional material , 
+ advertising material or product label use in the territory . 
+ 1.35 " exact house mark " shall mean the exact trade name and logo , include all registration and application for registration of any 
+ of the foregoing in the territory . 
+ 1.36 " exact indemnitee " shall have the meaning set forth in section 6.1(b ) . 
+ 1.37 " exact jsc member " shall have the meaning set forth in section 2.1(a ) . 
+ 1.38 " exact patent right " shall mean the patent right own or control by exact as of the effective date . 
+ 1.39 " exact sponsorship and relate activity " shall have the meaning set forth in section 3.2(d)(i ) . 
+ 1.40 " exact trademark " shall mean ( a ) the trademark list on exhibit 1.39 and the registration thereof , ( b ) any pending or future 
+ trademark registration application own or control and use in connection with or intend for use in connection with the 
+ product in the territory , ( c ) any unregistered trademark right use in connection with the product as may exist through use in 
+ the territory , ( d ) any current or future modification or variant of any of the forego right , and ( e ) any future trademark 
+ adopt by exact or its affiliate for use in connection with the product in the territory . 
+ 1.41 " exclude channel " shall have the meaning set forth in section 4.2(d ) . 
+ 1.42 " ex - us commercial right " shall have the meaning set forth in section 3.1(c)(i ) . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ 1.43 " ex - us commercial right transfer notice " shall have the meaning set forth in section 3.1(c)(i ) . 
+ 1.44 " fda " shall mean the united states food and drug administration or any successor agency thereto . 
+ 1.45 " fd&c act " shall mean the united states federal food , drug , and cosmetic act , as amend , and the rule and regulation 
+ promulgate thereunder . 
+ 1.46 " finance representative " shall have the meaning set forth in section 2.4 . 
+ 1.47 " first promotion fee period " shall have the meaning set forth in section 4.2(c)(i ) . 
+ 1.48 " first supplemental promotion fee " shall have the meaning set forth in section 4.2(c)(i ) . 
+ 1.49 " gaap " shall mean united states generally accept accounting principle , consistently apply . 
+ 1.50 " governmental authority " to be broadly interpret and include : ( a ) any national , federal , state , local , regional , or foreign 
+ government , or level , branch , or subdivision thereof; ( b ) any multinational or public international organization or authority; ( c ) 
+ any ministry , department , bureau , division , authority , agency , commission , or body entitle to exercise any administrative , 
+ executive , judicial , legislative , police , regulatory , or tax authority or power; ( d ) any court , tribunal , or governmental arbitrator 
+ or arbitral body; ( e ) any government - own or control institution or entity; ( f ) any enterprise or instrumentality perform a 
+ governmental function; and ( g ) any political party . 
+ 1.51 " government official " to be broadly interpret , shall mean ( a ) any elected or appoint government official ( e.g. , a member of a 
+ ministry of health); ( b ) any employee or person act for or on behalf of a government , government - control entity or 
+ enterprise perform a governmental function; ( c ) any political party , candidate for public office , officer , employee , or person 
+ act for or on behalf of a political party or candidate for public office; ( d ) any employee or person act for or on behalf of a 
+ public international organization ( e.g. , the united nations); or ( e ) any individual who hold himself or herself out to be the 
+ authorize intermediary of any of the foregoing . for clarity , healthcare provider employ by government - own hospital 
+ shall be consider government official . 
+ 1.52 " gross margin " shall mean laboratory service revenue less cost of sale . 
+ 1.53 " gross margin percent " shall mean the percentage as determine by multiply ( a ) the fractional value of gross margin divide 
+ by laboratory service revenue by ( b ) one hundred percent ( 100 ) . 
+ 1.54 " idn " shall mean an integrated healthcare delivery network . 
+ 1.55 " incentive compensation " shall mean the compensation pay by or under the 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ authority of pfizer or any of its affiliate to a sale representative involve in the promotion of the product under this 
+ agreement base directly or indirectly on the sale of the product ( include the product ) be promote by such sale 
+ representative in the territory , include any target bonus , award or other incentive , but exclude ( i ) base salary and ( ii ) single 
+ product ad hoc award or other similar individual product incentive , such as " special incentive plan " that , in the aggregate , 
+ do not exceed 2,000 per calendar year . 
+ 1.56 " include revenue percentage " shall have the meaning set forth in section 4.2(d ) . 
+ 1.57 " incremental laboratory service revenue " shall have the meaning set forth in section 4.2(a ) . 
+ 1.58 " indemnify party " shall have the meaning set forth in section 6.1(c)(i ) . 
+ 1.59 " indemnify party " shall have the meaning set forth in section 6.1(c)(i ) . 
+ 1.60 " joc " shall have the meaning set forth in section 2.2(a ) 
+ 1.61 " joc co - chair " shall have the meaning set forth in section 2.2(a ) . 
+ 1.62 " jrc " shall have the meaning set forth in section 2.3(a ) . 
+ 1.63 " jsc " shall have the meaning set forth in section 2.1(a ) . 
+ 1.64 " jsc co - chair " shall have the meaning set forth in section 2.1(b ) . 
+ 1.65 " jsc member " shall have the meaning set forth in section 2.1(a ) . 
+ 1.66 " kam team " shall have the meaning set forth in section 3.4(c ) . 
+ 1.67 " laboratory service revenue " shall mean , with respect to a particular calendar quarter , as applicable , exact ’s revenue earn from 
+ perform the product laboratory service in the territory with regard to patient sample collect in the territory , subject to 
+ section 4.2(d ) , as calculate by exact in accordance with gaap consistently apply , less the follow deduction : ( i ) trade , 
+ quantity or cash discount , credit , adjustment or allowance , include without limitation those grant in connection with 
+ manage care network agreement and those grant on account of price adjustment , billing error , reject good , damage 
+ good or incomplete test or other services; ( ii ) rebate and chargeback allow , give or accrue ( include , but not limit 
+ to , cash , governmental and manage care rebate , hospital or other buying group chargeback , and governmental taxis in the 
+ nature of a rebate base on usage level or sale of the product laboratory service); and ( iii ) patient compliance incentive that 
+ be treat as a reduction in revenue in accordance with gaap , include without limitation gift card to patient . 
+ 1.68 " launch date " shall mean october 1 , 2018 . 
+ 1.69 " marketing " shall mean , with respect to a medical device subject to pre - market 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ approval , advertising , public relation , medical education activity , market research , creation , development , and distribution of 
+ advertising and promotional material , field literature , direct or indirect educational campaign , and exhibit at seminar and 
+ convention . when use as a verb , " market " mean to engage in marketing . 
+ 1.70 " ob / gyn commercial right " shall have the meaning set forth in section 3.1(c)(ii ) . 
+ 1.71 " ob / gyn commercial right transfer notice " shall have the meaning set forth in section 3.1(c)(ii ) . 
+ 1.72 " ob / gyn field " shall mean those healthcare professional and practice customarily consider ob / gyn provider and practice . 
+ 1.73 " occurrence " shall have the meaning set forth in section 2.6(c ) . 
+ 1.74 " party " or " party " shall have the meaning set forth in the preamble . 
+ 1.75 " patent right " shall mean any and all ( a ) issue patent , ( b ) pende patent application , include all provisional application , 
+ substitution , continuation , continuation - in - part , divisional , and renewal , and all patent grant thereon , ( c ) patent of 
+ addition , reissue , reexamination and extension or restoration by exist or future extension or restoration mechanism , 
+ include patent term adjustment , patent term extension , supplementary protection certificate or the equivalent thereof , ( d ) 
+ inventor ’s certificate , ( e ) other form of government issue right substantially similar to the foregoing and ( f ) united states 
+ and foreign counterpart of any of the foregoing . 
+ 1.76 " payer " shall mean a third party entity that pay a portion or all of the cost of the product laboratory service perform with 
+ respect to a give patient use the product . for clarity , a patient who pay for the cost of his or her own product laboratory 
+ service , in whole or in part , shall not be include in this definition of " payer " and a " payer " may include government entity or 
+ agency , manage care organization , and health or prescription insurance provider . 
+ 1.77 " person " shall mean an individual , sole proprietorship , partnership , limited partnership , limited liability partnership , corporation , 
+ limited liability company , business trust , joint stock company , trust , incorporate association , joint venture or similar entity or 
+ organization , include a government or political subdivision or department or agency of a government . 
+ 1.78 " pfizer " shall have the meaning set forth in the preamble . 
+ 1.79 " pfizer indemnitee " shall have the meaning set forth in section 6.1(a ) . 
+ 1.80 " pfizer jsc member " shall have the meaning set forth in section 2.1(a ) . 
+ 1.81 " pfizer trainer " shall have the meaning set forth in section 3.2(e)(i ) . 
+ 1.82 " phrma code " shall have the meaning set forth in section 3.2(c)(ii ) . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ 1.83 " pre - launch meeting " shall have the meaning set forth in section 3.2(e)(v ) . 
+ 1.84 " product " shall mean the medical device subject to pre - market approval currently commercialize under the brand name 
+ " cologuard " and indicate for the qualitative detection of colorectal neoplasia associate dna marker and for the 
+ presence of occult hemoglobin in human stool . 
+ 1.85 " product label " shall mean the label and label document approve on august 11 , 2014 by the fda under the premarket 
+ approval p130017 , , and any supplement , extension or change thereto . 
+ 1.86 " product laboratory service " shall mean the colorectal cancer screening test perform on a speciman provide by a patient use 
+ the product , include specimen collection , laboratory testing , datum handling and analysis , interpretation of result , patient 
+ compliance ( include call center activity ) and bill to be provide by exact or its affiliate accord to the " laboratory 
+ instruction for use " in the product label , wherein the laboratory instruction for use be far subject to any change as 
+ require by any pre - market approval supplement approve by the fda . 
+ 1.87 " product training " shall mean , with respect to the product , the product - specific training program conduct in accordance with the 
+ applicable annual marketing plan and applicable law , which may include training concern ( a ) the scientific basis for the 
+ product , ( b ) permissible communication regard safety and efficacy claim relate to the product , ( c ) permissible 
+ communication relate to the product in accordance with the product label , ( d ) use of promotional material by the sale 
+ representative , and ( e ) other appropriate topic relevant to the promotion of the product as determine by exact in 
+ consultation with pfizer . 
+ 1.88 " promotion " shall mean ( a ) those activity customarily undertake by a party ’s field sale representative in the territory to 
+ encourage the approve use of a particular prescription medical device ( or prescription pharmaceutical medicine as applicable ) 
+ subject to pre - market approval ( or other regulatory approval , as applicable ) , include detail , and ( b ) any other activity 
+ customarily undertake by a party aim at encourage the approve use of a particular prescription medical device subject to 
+ pre - market authorization approval , include without limitation , healthcare professional peer - to - peer communication , 
+ communication of product benefit to idns , the creation and use of promotional material , marketing , meeting and event 
+ ( include without limitation speaker bureau event ) , trade show , advocacy activity , include with respect to guideline 
+ organization , and sponsorship . the term " promote " , " promote " and " promotional " shall have corresponding meaning . 
+ 1.89 " promotion fee " shall have the meaning set forth in section 4.2(a ) . 
+ 1.90 " promotional material " shall mean , with respect to the product , all write , print , graphic , electronic , audio , video or other 
+ material ( such as a journal reprint ) other than the product label , provide by exact , with respect to currently 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ develop material , or develop by the party , in each case , for use by a party ’s sale representative during detail or 
+ other representative in the territory . 
+ 1.91 " qsr " shall mean the quality system regulation , 21 c.f.r . part 820 , as may be amend from time to time and any successor 
+ thereto . 
+ 1.92 " receive party " shall have the meaning set forth in section 7.1 . 
+ 1.93 " regulatory approval " shall mean , with respect to a prescription medical device subject to pre - market authorization approval in any 
+ jurisdiction in the territory for a give indication , all technical , medical and scientific license , registration , authorization and 
+ approval of pre - market approval application , supplement and amendment , and pre- and post- approval of the fda , 
+ sufficient for the manufacture , distribution , use and sale of such prescription medical device , include any service associate 
+ with such medical device , in such jurisdiction in the territory for such indication in accordance with applicable law , exclude 
+ any pricing and reimbursement approval . 
+ 1.94 " renewal term " shall have the meaning set forth in section 8.2 . 
+ 1.95 " representative " shall mean , with respect to a party , such party ’s employee , agent or independent contractor , and such party ’s 
+ affiliate and their respective employee , agent or independent contractor , include sale representative , in each case who 
+ be perform service under the annual marketing plan . 
+ 1.96 " sale deployment plan " shall have the meaning set forth in section 3.2(c)(i ) . 
+ 1.97 " sale representative " shall mean an internal or field sale representative employ by a party full - time who detail product or 
+ service for human use in the territory . for clarity , sale representative exclude sale manager such as district business 
+ manager and above . 
+ 1.98 " senior officer " shall mean , with respect to exact , the chief executive officer of exact and , with respect to pfizer , regional 
+ president , north america , internal medicine , pfizer innovative health . 
+ 1.99 " share m&p expense " shall mean the incremental investment in promotion expense above the baseline m&p expense agree to 
+ by the party , as set forth in section 3.5 and 3.6 . 
+ 1.100 " tail period " shall have the meaning set forth in section 8.7 . 
+ 1.101 " term " shall have the meaning set forth in section 8.1 . 
+ 1.102 " territory " shall mean the fifty ( 50 ) state of the united states and the district of columbia and include puerto rico . 
+ 1.103 " third party " shall mean any person other than exact , pfizer or their respective affiliate . 
+ 1.104 " trademark " shall mean any register word , name , symbol , color , designation or 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ device or any combination thereof , include any trademark , trade dress , brand mark , service mark , trade name , brand name , logo 
+ or business symbol . 
+ 1.105 " training material " shall mean , with respect to the product , the material ( which may include write or other record , 
+ videotaped or web - base training material or online training program ) to be use in product training for a party ’s sale 
+ representative regard the product . 
+ 1.106 " vat " shall have the meaning set forth in section 4.4 . 
+ 1.107 " violate party " shall have the meaning set forth in section 8.3(d ) . 
+ 2 . governance . 
+ 2.1 joint steering committee . 
+ ( a ) composition . promptly follow the effective date , the party will establish a joint steering committee ( " jsc " ) , comprise of 
+ three ( 3 ) representative of exact and three ( 3 ) representative of pfizer . the jsc representative for each of exact and 
+ pfizer will be refer to herein as the " exact jsc member " and the " pfizer jsc member " , respectively , and the exact 
+ jsc member and the pfizer jsc member will be refer to herein as the " jsc member " . each party may replace any 
+ of its jsc member at any time upon notice to the other party and the party may increase or decrease the number of its 
+ jsc member on the jsc; provide that at all time an equal number of jsc member from each party be appoint to 
+ the jsc . 
+ ( b ) committee chair . the jsc will be co - chair by a pfizer jsc member and an exact jsc member ( each , a " jsc co - chair " ) . 
+ each party may replace its jsc co - chair at any time upon notice to the other party . the role of secretary of the jsc shall 
+ rotate each meeting between the jsc co - chair ( or any jsc member who be appoint , by mutual agreement of both jsc 
+ co - chair , as secretary of the jsc ) . the secretary of the jsc shall : 
+ ( i ) notify each party at least fifteen ( 15 ) day ( or as much notice as be reasonably possible ) in advance of each jsc 
+ meeting; 
+ ( ii ) collect and organize agenda item from each party for each jsc meeting; 
+ ( iii ) prepare and circulate to jsc member each jsc meeting agenda no later than five ( 5 ) business day ( or as far in 
+ advance as be reasonably possible ) prior to the schedule date for each jsc meeting; and 
+ ( iv ) prepare the write minute of each jsc meeting and , within fifteen ( 15 ) day after such meeting , circulate such 
+ minute for review and approval by the party . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( c ) meeting . the jsc will meet no less than once each calendar quarter ( or less frequently upon mutual agreement of the party ) 
+ either in - person or by audio or video teleconference . meeting of the jsc will occur at such time and place in the 
+ territory as mutually agree to by the parties; provide , however , that no more than half of the meeting will be require 
+ to be hold in - person in any calendar year . meeting of the jsc will only occur if at least one jsc member of each party 
+ be present at the meeting or participate by teleconference or videoconference . each party will be solely responsible for , 
+ and will not be entitle to any reimbursement from the other party with respect to , any and all personnel cost or 
+ expense ( include travel expense ) incur by or on behalf of its representative in connection with participation in 
+ any jsc meeting or sub - committee or working group meeting , or any other travel require to be undertake by either 
+ party ’s personnel in connection with the performance of the agreement . the party will endeavor to schedule meeting 
+ of the jsc at least fifteen ( 15 ) day in advance . the party shall approve the minute of each meeting promptly , but in 
+ no event later than the next meeting of the jsc . 
+ ( d ) jsc responsibility . the jsc shall : 
+ ( i ) review , discuss , and approve each annual marketing plan for a calendar year , include the quarterly baseline budget 
+ amount contain therein , no later than the applicable date set forth in section 3.3(a); 
+ ( ii ) oversee the implementation of each annual marketing plan; 
+ ( iii ) review , discuss , and approve any modification to the annual marketing plan submit by the joc; 
+ ( iv ) oversee the joc and jrc and each committee ’s activities; 
+ ( v ) act as the first level escalation to resolve dispute between the party , any resolution of dispute bring before the 
+ jsc shall be by the unanimous consent of both jsc co - chairs; 
+ ( vi ) form and oversee any sub - committee or working group in furtherance of activity contemplate in the annual 
+ marketing plan; 
+ ( vii ) form and oversee any sub - committee or working group as determine by the jsc to be necessary to review and 
+ discuss specific matter relate to the subject matter of this agreement , but not enumerate as a specific 
+ responsibility of the jsc , joc , jrc , or any other properly form and constitute sub - committee; 
+ ( viii ) review , discuss and approve the allocation of baseline m&p expense and share m&p expense submit by the 
+ joc; 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( ix ) review all report , include sale performance datum and other key performance indicator , submit by the joc; and 
+ ( x ) escalate any dispute jsc matter , as define in section 2.1(e ) , to the alliance manager and senior officer . 
+ ( e ) decision making . regardless of the number of pfizer jsc member or exact jsc member , decision by the jsc will be make 
+ by unanimous agreement . the jsc will use good faith effort to reach agreement on any and all matter properly 
+ bring before it . if , despite such good faith effort , the jsc be unable to reach a decision on a particular matter within 
+ the jsc ’s responsibility ( each such matter , a " dispute jsc matter " ) , within five ( 5 ) business day after the jsc first 
+ meet to consider such matter , or such later date as may be mutually agree by the party in writing , then either party 
+ may refer such dispute jsc matter for resolution to the alliance manager . within three ( 3 ) business day after such 
+ dispute jsc matter be refer to the alliance manager , the alliance manager shall determine whether the dispute 
+ jsc matter require the involvement of the senior officer . should the alliance manager refer the dispute jsc matter 
+ to the senior officer , then the senior officer will promptly initiate good faith discussion to resolve such dispute 
+ jsc matter . if the senior officer be unable to resolve such dispute jsc matter within five ( 5 ) business day of it 
+ be refer to they , then , exact , after having consider , in good faith , the advice and input from pfizer , will have final 
+ decision - make authority with respect to such dispute jsc matter where the subject matter of the dispute jsc 
+ matter substantially relate to ( i ) product pricing , include any rebate or discounts; ( ii ) manufacturing; ( iii ) research 
+ and development , include any trials; and ( iv ) engagement with governmental authorities; provide , however , that 
+ exact will not have final decision make authority to require pfizer to conduct any activity that pfizer , in good faith , 
+ believe violate applicable law or pfizer ’s applicable compliance / review policy . for all dispute jsc matter that be 
+ not resolve by the senior officer and be not subject to exact ’s final decision - make authority , neither party will take 
+ any action on such dispute jsc matter until resolution can be reach in accordance with this section 2.1(e ) , and , 
+ except in the case of a potential violation of applicable law , pende such resolution the party shall continue to carry 
+ out activity under this agreement in accordance with the then - current annual marketing plan . 
+ ( f ) limit on jsc authority . notwithstanding any provision of this section 2.1 to the contrary , ( i ) each party will retain the right , 
+ power and discretion grant to it under this agreement consistent with section 3.2(a ) , and no such right , power , or 
+ discretion will be delegate to or vest in the jsc unless such delegation or vest of right be expressly provide for 
+ in this agreement or the party expressly so agree in writing , ( ii ) the jsc will not have the power to amend this 
+ agreement or terminate or otherwise modify or waive compliance with this agreement in any manner and ( iii ) neither 
+ party will require the other party to ( a ) breach any obligation or agreement that 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ such other party may have with or to a third party or ( b ) perform any activity that be materially different , great in 
+ scope or more costly than those provide for in the annual marketing plan then in effect . 
+ 2.2 joint operation committee . 
+ ( a ) composition . promptly follow the effective date , the party will establish a joint operation committee ( " joc " ) , 
+ comprise of marketing , sale , medical , finance , and such other representative of each party as necessary . the joc 
+ shall be co - chair by each party ’s marketing representative on the joc , as designate by the jsc co - chair of each 
+ party ( each , a " joc co - chair " ) . each joc co - chair shall ( i ) have knowledge and expertise in the commercialization of 
+ prescription product and service in the territory , ( ii ) have sufficient seniority within the applicable party to make 
+ decision arise within the scope of the joc ’s responsibility , and ( iii ) be authorize under such party ’s internal 
+ governance procedure to make decision or carry out the activity give to such party under this agreement . 
+ ( b ) meeting . the joc shall meet once each month ( or more or less frequently upon mutual agreement of the party ) either in- 
+ person or by audio or video teleconference . meeting of the joc will occur at such time and place in the territory as 
+ mutually agree to by the party . each party will be solely responsible for , and will not be entitle to any reimbursement 
+ from the other party with respect to , any and all personnel cost or expense ( include travel expense ) which be 
+ incur by or on behalf of its representative in connection with participation in any joc meeting or sub - committee or 
+ working group meeting , or any other travel require to be undertake by either party ’s personnel in connection with 
+ the performance of the agreement . 
+ ( c ) joc responsibility . the joc shall : 
+ ( i ) prepare the annual marketing plan for review and approval by jsc; 
+ ( ii ) prepare and review product marketing strategy and tactics; 
+ ( iii ) prepare allocation of baseline m&p expense and share m&p expense for jsc review and approval; 
+ ( iv ) prepare report , include sale performance datum and other key performance indicator for jsc review in accordance 
+ with exhibit 2.2(c)(iv); 
+ ( v ) execute and monitor the strategy and tactic in the annual marketing plan; 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( vi ) monitor product supply and product laboratory service capacity to ensure they be sufficient to meet the demand 
+ forecast in the annual marketing plan; 
+ ( vii ) establish key supply , capacity , inventory , and such other metric to inform the jsc; 
+ ( viii ) prepare any revision to the annual marketing plan as direct by the jsc or otherwise propose pursuant to 
+ section 3.3(a); 
+ ( ix ) provide consent to material for reconsideration by the jsc pursuant to section 2.3(d); and 
+ ( x ) with respect to the annual marketing plan , ensure that a consultation with the compliance manager be complete 
+ and appropriate compliance measure be incorporate into the annual marketing plan . 
+ ( d ) decision making . decision by the joc will be make by unanimous agreement . if a unanimous decision can not be reach , 
+ then any dispute matter within the joc ’s responsibility ( the " dispute joc matter " ) may be escalate by either 
+ party to the jsc for resolution in accordance with section 2.1(e ) . unless and until resolve by the jsc in accordance 
+ with section 2.1(e ) , neither party shall take any action with respect to such dispute joc matter and , except in the case 
+ of a potential violation of applicable law , pende such resolution the party shall continue to carry out the activity 
+ under this agreement in accordance with the then - current annual marketing plan . 
+ 2.3 joint review committee . 
+ ( a ) composition . promptly follow the effective date ( and in any event , within thirty ( 30 ) day of the effective date ) , under the 
+ supervision of the jsc , the party will establish a joint review committee ( " jrc " ) , comprise of marketing , medical , 
+ legal , and regulatory representative of the party . each party may appoint one medical , legal and regulatory 
+ representative member to the jrc . the marketing representative from the party shall coordinate administration and 
+ operation of the jrc meeting , include set agenda , recording decision regard material review , and 
+ coordinate review to ensure timely review and approval of promotional material . the representative from the 
+ party on the jrc shall coordinate operational support include scheduling of jrc meeting , timely distribution of 
+ material for review , recording and archiving of approve material , and other such activity to ensure operational 
+ efficiency of jrc meeting . it be the expectation of the party that the jrc will utilize exact ’s review and approval system 
+ to review and approve material , include promotional material that be subject to jrc review under section 2.3(c ) . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( b ) meeting . the jrc shall meet no less than once each month ( or more frequently upon mutual agreement of the member of the 
+ jrc ) either in - person or by audio or video teleconference . meeting of the jrc will occur at such time and place in the 
+ territory as mutually agree to by the party . each party will be solely responsible for , and will not be entitle to any 
+ reimbursement from the other party with respect to , any and all personnel cost or expense ( include travel expense ) 
+ which be incur by or on behalf of its representative in connection with participation in any jrc meeting , or any 
+ other travel require to be undertake by either party ’s personnel in connection with the performance of the agreement . 
+ ( c ) jrc responsibility . the jrc shall be responsible for review and approval of all product or related disease education 
+ material , promotional material and other communication to a third party , include pharmaco - economic datum , that may 
+ be use in promotion , medical to medical communication , patient education , press release or any other form of external 
+ communication intend for healthcare professional , healthcare organize customer ( such as idns and hospital ) , and 
+ payer organization , patient or other who be reasonably likely to influence the prescription , use , reimbursement , or 
+ purchase of the product . the jrc shall also ensure that all such material be in compliance with applicable law and 
+ each party ’s applicable compliance / review policy . any conflict between the party ' applicable compliance / review 
+ policy will be discuss by the jrc and the compliance manager to determine an appropriate resolution of such 
+ conflict . 
+ ( d ) decision making . decision by the jrc will be make by unanimous agreement . if a unanimous decision can not be reach , 
+ then the disputed matter ( the " dispute jrc matter " ) can be escalate by either party to the jsc for resolution in 
+ accordance with section 2.1(e ) . unless and until resolve by the jsc in accordance with section 2.1(e ) , neither party 
+ shall take any action with respect to such dispute jrc matter and , except in the case of a legal or ethical issue , the 
+ party shall continue to carry out the activity under this agreement in accordance with the then - current annual 
+ marketing plan . a dispute jrc matter that be substantially similar in subject matter of a prior dispute jrc matter 
+ shall not be resubmitte for jsc review and resolution under this section 2.3(d ) . 
+ 2.4 finance representative . each party shall appoint a finance contact to oversee all financial reporting and communication under this 
+ agreement during the term ( each , a " finance representative " ) . each party may change its designate finance representative at 
+ any time upon write notice to the other party . each finance representative will coordinate the effort of its respective party in 
+ conduct finance activity , include all financial reporting and financial communication between the party , under this 
+ agreement during the term . 
+ 2.5 alliance manager . each party shall appoint an employee of such party who shall oversee interaction between the party for all 
+ matter relate to this agreement , the 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ annual marketing plan and any related agreement between the party or their affiliate ( each an " alliance manager " ) . the 
+ alliance manager shall endeavor to ensure clear and responsive communication between the party and the effective exchange 
+ of information , and shall serve as a single point of contact for any matter arise under this agreement . the alliance manager 
+ shall have the right to attend all jsc and subcommittee meeting as non - voting participant and may bring to the attention of the 
+ jsc or subcommittee any matter or issue either of they reasonably believe should be discuss , and shall have such other 
+ responsibility as the party may mutually agree in writing . each party may designate different alliance manager by notice in 
+ writing to the other party . 
+ 2.6 compliance manager . within thirty ( 30 ) day after the effective date , pfizer and exact each agree to appoint a representative who 
+ ( a ) have receive compliance training by such party and ( b ) be routinely responsible for advise such party on compliance matter 
+ to act as its compliance manager ( each , a " compliance manager " ) . the compliance manager shall support the jsc . 
+ ( a ) responsibility . compliance manager shall resolve discrepancy between the party ’ respective applicable 
+ compliance / review policy , ensure that each party have a process to monitor the activity under this agreement for 
+ compliance with applicable law and applicable compliance / review police , serve as a key point of contact between 
+ the party for compliance - relate matter , and review the annual marketing plan for compliance with applicable 
+ compliance / review policy and shall promptly notify the jsc of any compliance issue in such annual marketing plan . 
+ the joc shall promptly notify the compliance manager of any material revision to the annual marketing plan . each 
+ compliance manager shall facilitate the resolution of any compliance issue with the compliance manager of the other 
+ party . 
+ ( b ) notification . subject to the term of this agreement , the compliance manager of a party shall promptly notify the other 
+ party ’s compliance manager in the event that it become aware of a potential violation by the other party of : ( i ) the 
+ other party ’s policy or procedures; ( ii ) any criminal , civil , or administrative law or regulation applicable to any federal 
+ health care program or for which penalty or exclusion may be authorized; or ( iii ) the requirement under the fd&c 
+ act , or relevant fda guidance document relate to the product , payment , or service under this agreement . 
+ ( c ) investigation . if a party find , follow an investigation , credible evidence of a significant violation of any applicable 
+ policy and procedure that be design to ensure compliance with : ( i ) any criminal , civil , or administrative law or 
+ regulation applicable to any federal health care program or for which penalty or exclusion may be authorized; or ( ii ) 
+ the requirement under the fd&c act , or relevant fda guidance document relate to the product , payment , or 
+ service under this agreement ( an " occurrence " ) , the party ’s compliance manager shall promptly inform the other 
+ party of the occurrence and step take by the party to remediate the occurrence , except 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ to the extent that the disclosing party ’s counsel reasonably believe that such disclosure to the other party could 
+ violate applicable law ( include privacy law ) or have a significant adverse impact on the disclosing party ’s legal 
+ position or defense ( include the loss of attorney - client privilege ) with respect to any such occurrence . in the event 
+ that either party determine that disclosure of relevant factual information regard an occurrence could violate 
+ applicable law ( include privacy law ) or have a significant adverse impact on its legal position or defense ( include 
+ the loss of attorney - client privilege ) , the determine party shall promptly notify the other party in write that the 
+ determine party be exercise its right not to disclose relevant factual information regard an occurrence . 
+ ( d ) each party shall follow its applicable compliance / review policy subject to specific exception explicitly determine by the 
+ compliance manager . 
+ 3 . appointment; product ownership; marketing and sale . 
+ 3.1 appointment . 
+ ( a ) exclusive arrangement . commence on the launch date , exact and its affiliate hereby grant to pfizer and its affiliate , on 
+ an exclusive basis for the co - promote field ( except as to exact and its affiliate ) , and pfizer accept , the right and 
+ obligation to promote and detail the product in the territory during the term jointly with exact , in accordance with the 
+ term and condition of this agreement , all applicable law and the applicable annual marketing plan . except as set 
+ forth in this agreement , such right shall be non - transferable and non - sublicensable . in implement its obligation 
+ under this agreement , pfizer , without charge or expense to exact ( other than as expressly set forth in section 3.6 and 
+ 4.2(c ) of this agreement ) , shall provide facility , personnel ( include management and sale representative ) and 
+ other resource as pfizer , in its reasonable discretion but not inconsistent with the express term of this agreement , 
+ believe necessary . the party specifically agree that exact shall not use the pfizer name , logo or any trademark of 
+ pfizer on any material , include promotional material , without the express write consent of pfizer . notwithstanding 
+ this section 3.1 to the contrary , exact retain the right to promote the product on its own behalf in the co - promote field 
+ and , subject to section 3.1(c ) , pfizer shall not promote or detail the product outside the territory or outside the co- 
+ promote field . 
+ ( b ) grant of license to pfizer . subject to the term of this agreement , exact on behalf of itself and its affiliate , hereby grant to 
+ pfizer a non - exclusive , royalty free license , with the right to sublicense to one or more of its affiliate , under the exact 
+ house mark , the exact trademark and the exact copyright , during the term , to the extent necessary or appropriate to 
+ allow pfizer and its affiliate to carry out activity under this agreement include to promote and detail the product in 
+ the co - promote field in the territory . such license shall be non - transferable and non - sublicensable 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( except as provide in this agreement ) and shall automatically terminate upon the expiration or early termination of this 
+ agreement . 
+ ( c ) right of first negotiation . 
+ ( i ) during the term , if exact ( i ) enter a formal process authorize or direct by its board of director or ceo to seek and 
+ enter into an arrangement or ( ii ) intend to agree to a term sheet or seek to sign a letter of intent or similar 
+ arrangement to grant an exclusive commercial license to a third party solely to promote or sell the product 
+ outside the territory ( " ex - us commercial right " ) , exact shall first notify pfizer of such intent ( a " ex - us 
+ commercial right transfer notice " ) and pfizer shall have thirty ( 30 ) day thereafter to notify exact of its 
+ desire to obtain the ex - us commercial right that be the subject of the ex - us commercial right transfer 
+ notice . promptly upon receipt of notice from pfizer , exact and pfizer shall engage in exclusive good faith 
+ negotiation to enter into a definitive write agreement for the ex - us commercial right . if pfizer and exact be 
+ unable to reach agreement on the term of such product right within forty - five ( 45 ) day of the commencement 
+ of negotiation , exact shall be free to enter into negotiation and consummate an agreement with any third 
+ party regard such ex - us commercial rights; provide that the economic term of such agreement shall be 
+ no more favorable to such third party than those last offer to pfizer . 
+ ( ii ) during the term , if exact desire to grant an exclusive commercial license to a third party solely to promote or sell the 
+ product in the ob / gyn field in the territory ( the " ob / gyn commercial right " ) , exact shall first notify pfizer 
+ of such intent ( a " ob / gyn commercial right transfer notice " ) and pfizer shall have thirty ( 30 ) day 
+ thereafter to notify exact of its desire to obtain the ob / gyn commercial right that be the subject of the 
+ ob / gyn commercial right transfer notice . promptly upon receipt of notice from pfizer , exact and pfizer shall 
+ engage in exclusive good faith negotiation to enter into a definitive write agreement for the ob / gyn 
+ commercial right . if pfizer and exact be unable to reach agreement on the term of such product right within 
+ forty - five ( 45 ) day of the commencement of negotiation , then exact shall be free to enter into negotiation 
+ and consummate an agreement with any third party regard such ob / gyn commercial rights; provide that 
+ the economic term of such agreement shall be no more favorable to such third party than those last offer to 
+ pfizer . 
+ ( iii ) notwithstanding the foregoing , this section 3.1(c ) shall not apply to ( i ) any transfer of right to the product in the 
+ ordinary course of business of exact , ( ii ) the sale of the product within and outside of the territory , of all or 
+ substantially all of the asset of exact , or sale 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ of capital stock of exact , whether in connection with a merger , acquisition or other similar transaction or ( iii ) any 
+ agreement with third party in territory for which exact have an exist distribution or other similar 
+ agreement . 
+ 3.2 responsibility for product . 
+ ( a ) retain rights; ownership of product . except as specifically set forth in this agreement , pfizer shall have no other right 
+ with respect to the product , and shall not promote , market or otherwise commercialize the product except as expressly 
+ authorize under this agreement . exact retain , and at all time during the term shall retain , all right in and relate to 
+ the product not expressly grant to pfizer under this agreement , include all proprietary and property interest in and 
+ to the product . in furtherance of the foregoing , exact retain all right of and responsibility for ( i ) product pricing , 
+ include any rebate or discounts; ( ii ) manufacturing; ( iii ) research and development , include any trials; ( iv ) 
+ intellectual property defense and enforcement relate to the product; ( v ) product liability claim and related litigation 
+ relate to the product; ( vi ) government investigation relate to the product; ( vii ) the day - to - day operation and 
+ management of exact ’s representatives; and ( viii ) engagement with governmental authority with respect to the 
+ product . pfizer will neither have , nor represent that it have , any control over or proprietary or property interest in the 
+ product . nothing contain in this agreement shall be deem to grant to pfizer or its affiliate any license , right , title 
+ or interest in or to any patent , trademark , copyright , trade secret or other similar property of exact , except as provide 
+ for in section 3.1(b ) , section 5.3(c ) or otherwise authorize in writing by exact for pfizer to perform its obligation under 
+ this agreement . likewise , nothing contain in this agreement shall be deem to grant to exact or its affiliate any 
+ license , right , title or interest in or to any patent , trademark , copyright , trade secret or other similar property of pfizer or 
+ its affiliate except as may be authorize in writing by pfizer for exact to perform its obligation under this agreement . 
+ ( b ) exact product responsibility . during the term , as between the party , exact shall remain solely responsible , at its expense , 
+ except as expressly otherwise provide in this agreement , for all activity and liability that the owner and regulatory 
+ approval holder of an fda approve medical device would normally have , include , in each case with respect to the 
+ territory , the follow : 
+ ( i ) manufacturing , in accordance with the qsr and applicable law ( include conduct all quality assurance testing ) 
+ sufficient quantity of product to meet market demand therefore; 
+ ( ii ) processing and have sufficient laboratory and manufacturing capacity to process product laboratory service to 
+ meet demand , include return receipt and laboratory processing of patient samples; 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( iii ) ensure all laboratory processing of patient sample be conduct in accordance with clia certificate of 
+ accreditation and patient result be provide to order healthcare provider in a timely manner; 
+ ( iv ) ensure that the product be not misbrande , as define in the fd&c act; 
+ ( v ) handle all customer service activity relate to the product , include respond in an appropriate and timely 
+ fashion to all medical and other inquiry and complaint regard the product in accordance with its 
+ applicable compliance / review policies; 
+ ( vi ) contracting with payer , include enter into contract for reimbursement of the product laboratory services; 
+ ( vii ) use commercially reasonable effort to maintain the exact trademark list on exhibit 1.39; 
+ ( viii ) set the price of the product laboratory service , include establish , process and pay for any rebate , 
+ discount , chargeback or other sale incentive associate with the sale of the product laboratory services; 
+ ( ix ) subject to section 6.1 , handle all product liability claim or other claim associate with or arise out of the 
+ manufacture , distribution , sale or use of the product , include manage any litigation associate therewith 
+ and pay any damage , fine or other compensation that may be award by any government authority or 
+ that be due as a result of any settlement of any such claim; 
+ ( x ) handling , in a timely and appropriate manner , all government inquiry relate to the product laboratory service and 
+ the manufacture , distribution , marketing , promotion , sale or use of the product; and 
+ ( xi ) prepare and submit in a timely manner and in a manner consistent with applicable law all report and 
+ information that be require to be submit to any government authority relate to the product and product 
+ laboratory service . 
+ ( c ) exact and pfizer product responsibility . during the term , without limit either party ’s other responsibility under this 
+ agreement , the party shall : 
+ ( i ) establish and maintain a sufficient number of sale representative promote the product to perform the obligation 
+ hereunder per the annual marketing plan and consistent with the sale deployment plan include in the 
+ annual marketing plan , which initial sale deployment plan for the six - month period begin on and 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ immediately follow the launch date , be attach hereto as exhibit 3.2(c)(i ) ( the " sale deployment plan”); 
+ ( ii ) market , promote and detail the product in the co - promote field in accordance with the annual marketing plan , 
+ applicable law , all regulatory and professional requirement include fda ’s regulation and guideline 
+ concern the advertising of prescription medical device subject to pre - market approval , and each party ’s 
+ applicable compliance / review policy and , with respect to exact , the advamed code of ethic on 
+ interaction with health care professional ( revise as of july 2009 and as far revise from time to time ) 
+ ( the " advamed code " ) and , with respect to pfizer , the pharmaceutical research and manufacturer of america 
+ code on interaction with healthcare professional ( the " phrma code”); provide that if there be any conflict 
+ between the advamed code and the phrma code in connection with the implementation of the annual 
+ marketing plan , the compliance manager shall review and use commercially reasonable effort to resolve 
+ such conflict; 
+ ( iii ) review customer target list for all sale representative in accordance with the annual marketing plan to ensure 
+ that their promotion be direct to those eligible prescriber who be likely to prescribe , recommend or purchase 
+ the product consistent with the approve product label and all applicable law and its applicable 
+ compliance / review policies; provide that each party have the sole discretion to select their target customer 
+ from the target list include in the annual marketing plan and the party ’s sale representative shall have 
+ authority to promote and detail to the eligible prescriber on the target list in their reasonable discretion , in 
+ accordance with each party ’s respective internal policy and practices; 
+ ( iv ) work collaboratively with the other party in develop , prepare and generate specific tactic and activity in the 
+ annual marketing plan , which shall include support the development of all promotional material , training 
+ material and other material generate pursuant to any annual marketing plan; and 
+ ( v ) provide investment and support consistent with section 3.5 , 3.6 and 4.1 , as applicable . 
+ ( d ) advertising . 
+ ( i ) subject to the provision of section 3.2(d)(ii ) with respect to the remainder of calendar year 2018 and for calendar 
+ year 2019 , exact and pfizer shall develop an annual advertising plan for the product as part of the annual 
+ marketing plan . the annual advertising plan shall include the target for such advertising , 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ which shall be update on an annual basis at the same time and in the same manner as the annual marketing 
+ plan . in accordance with each such approve advertising plan , pfizer shall develop and execute all medium 
+ planning and buying of advertising consistent with its practice for its own product portfolio . 
+ ( ii ) the provision of this section 3.2(d ) shall have no impact on exact ’s advertising plan for the product for 2018 . the 
+ advertising plan for calendar year 2019 shall be exact ’s advertising plan; provide , pfizer may review and 
+ make recommendation on such advertising plan for calendar year 2019 and exact shall consider such 
+ recommendation in good faith and use commercially reasonable effort to incorporate agree - upon pfizer 
+ recommendation . it be acknowledge by the party that as of the effective date pfizer have execute its 
+ television / video medium buying on its own behalf for broadcast year 2019 ( 4q2018 - 3q2019 ) . with respect to 
+ broadcast year 2019 , pfizer shall use commercially reasonable effort and in good faith execute the 
+ television / video buy plan in the calendar year 2019 advertising plan in the " scatter " market . exact 
+ acknowledge that pricing and inventory for buy placement in the scatter market may not have the pricing 
+ advantage or delivery guarantee . for medium buying of non - television / video in the calendar year 2019 
+ advertising plan , pfizer shall in good faith integrate the product into pfizer portfolio medium planning and 
+ buying for non - television / video . 
+ ( iii ) the cost of all medium buying of advertising for the product by or through pfizer shall be equal to the actual cost of 
+ such activity bill to pfizer ( include any third party service fee incur by pfizer ) and shall not include 
+ any markup , administrative fee or service charge . 
+ ( iv ) subject to compliance by pfizer with the term of this section 3.2(d ) , during the term , exact agree ( a ) not to enter 
+ into any new bind arrangement with any medium vendor for advertising of the product without the write 
+ consent of pfizer , which consent shall not be unreasonably withhold , ( b ) not to meet with any advertising 
+ agency or medium vendor to discuss any advertising proposal for content development and creative direction 
+ of the product , without provide pfizer with a reasonable opportunity for a representative of pfizer present 
+ and participate and ( c ) to promptly inform pfizer if it enter into any arrangement with any advertising agency 
+ with respect to the product . 
+ ( v ) exact agree that any bind commitment make by pfizer pursuant to this section 3.2(d ) for medium buying for the 
+ product shall also be bind to exact; provide that such commitment be consistent with the applicable 
+ annual marketing plan and the 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ budget include therein . 
+ ( vi ) after the effective date , the party will mutually agree to a process by which pfizer will interact with exact with 
+ respect to the activity undertake by pfizer pursuant to this section 3.2(d ) . 
+ ( vii ) notwithstanding the foregoing , exact may continue any bind commitment as of the effective date , include 
+ advertising purchasing and placement activity , relate to and in connection with the sponsorship of 
+ sporting event ( e.g. , golf tournament ) , celebrity sponsorship ( e.g. , harry connick serve as a product 
+ spokesperson ) and those other activity set forth in the annual marketing plan ( the " exact sponsorship 
+ and relate activities”); provide , that pfizer shall use commercially reasonable effort to take responsibility 
+ of television / video and medium buying relate to such exact sponsorship and relate activity follow the 
+ effective date . the exact sponsorship and relate activity may , as mutually agree by the party , be 
+ include in the applicable annual advertising plan . 
+ ( viii ) follow the term and during the tail period subject to section 8.7 and 8.8(b ) , at the request of exact , pfizer 
+ shall , base on an agree advertising plan , plan and execute the medium planning and buy plan in a 
+ substantially similar manner as it do during the term , as such plan be update on an annual basis during the 
+ tail period . pfizer shall provide exact with invoicing of advertising buying during the tail period consistent 
+ with its invoicing practice during the term . this invoice shall be provide within five ( 5 ) day of the end of 
+ each month during the tail period and shall set forth all advertising cost , include any pfizer ’s internal and 
+ overhead cost attributable to medium buying for the product , during month precede the month that the 
+ invoice be deliver . exact shall pay the invoice provide by pfizer within five ( 5 ) day of the date that it 
+ receive the invoice . 
+ ( ix ) within forty - five ( 45 ) calendar day after the end of each calendar quarter , pfizer will deliver to exact a report 
+ describing in reasonable detail the medium buying activity for the just complete calendar quarter and any 
+ material deviation from the approve advertising plan that occur during such calendar quarter . 
+ ( x ) except for calendar year 2018 and 2019 advertising plan , the party shall mutually agree to the advertising plan 
+ and any dispute with respect to such advertising plan or arise out of material deviation of medium buying by 
+ pfizer shall be consider a disputed joc matter and subject to escalation to the jsc under section 2.3(d ) . 
+ until such dispute joc matter be resolve , the party will continue to operate under the then - current 
+ advertising plan . without limit the foregoing , a deviation from the medium 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ buying obligation under an advertising plan by twenty percent ( 20 ) or more shall be deem to be 
+ material . 
+ ( e ) product training . 
+ ( i ) promptly ( and in any event within twenty ( 20 ) day ) follow the effective date , exact shall be responsible for 
+ provide product training and training material to pfizer sale trainer ( the " pfizer trainer " ) who shall 
+ then train pfizer ’s sale representative who shall promote the product use a training program relate solely 
+ to the product and the product laboratory service ( include training material ) . after the initial training , 
+ exact shall periodically provide additional product training and the party shall agree to the frequency , time 
+ and place such additional product training will be roll out to sale representative . 
+ ( ii ) exact shall bear all cost and expense of train its sale representative , its training facility and the cost of 
+ develop training material and the training of pfizer trainer with respect to the product and the product 
+ laboratory service . pfizer shall be responsible for all travel , lodging , meal and other expense and out - of- 
+ pocket expense incur by pfizer ’s sale representative in connection with such product training . 
+ ( iii ) upon termination or expiration of this agreement , at exact ’s election , pfizer either shall ( a ) return to exact or ( b ) 
+ destroy and certify to the exact such destruction , all training material in the possession of , or under the 
+ control of , pfizer . 
+ ( iv ) pfizer shall ensure that no pfizer representative shall promote the product or product laboratory service unless he 
+ or she demonstrate sufficient knowledge by meet the validation requirement of exact . pfizer shall maintain , 
+ and make available upon request by exact , record of all testing or certification result , include copy 
+ thereof . 
+ ( v ) the party shall cooperate in good faith to schedule , plan and conduct a pre - launch meeting for all sale 
+ representative detail the product ( the " pre - launch meeting " ) , which shall occur promptly follow 
+ training of the pfizer sale representative in accordance with this section 3.2(e ) . the party shall use 
+ commercially reasonable effort to conduct the pre - launch meeting as an in - person meeting by the first week 
+ of october 2018 . 
+ ( f ) promotional material . during the term , the party agree to develop promotional material together in accordance with the 
+ annual marketing plan for use in promote the product in the territory . each party shall : 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( i ) only use and distribute the promotional material for use in promote the product; provide , however , that exact 
+ may continue to utilize any remain promotional material for the product create prior to the effective date , 
+ but exact will not create any new promotional material other than the promotional materials; 
+ ( ii ) instruct its representative to use , and will use commercially reasonable effort to train and monitor its 
+ representative to ensure that such representative use , only promotional material approve by the jrc; 
+ ( iii ) not , and shall ensure that its affiliate and agent do not , change or alter any promotional material in any way prior 
+ to their distribution or use by such party or its sale representative without jrc approval; and 
+ ( iv ) ( a ) use commercially reasonable effort to train its representative with respect to , ( b ) instruct its representative 
+ to , and ( c ) establish appropriate internal system , policy and procedure for the monitoring of its 
+ representative with the goal of ensure that such representative will : 
+ ( a ) limit claim of efficacy and safety for the product to those that be ( 1 ) consistent with approve promotional 
+ claim in , and not add , delete or modify claim of efficacy and safety in the promotion of the product 
+ in any respect from those claim of efficacy and safety that be contain in , the then - effective annual 
+ marketing plan , ( 2 ) consistent with applicable law and ( 3 ) consistent with the product label; 
+ ( b ) not make any change or alteration to promotional materials; and 
+ ( c ) use promotional material only in a manner that be consistent with this agreement , applicable law and the 
+ product label . 
+ for clarity , the foregoing restriction shall not apply to exact science laboratory , llc or any representative of exact 
+ or any of its affiliate on the customer care team or market access team . 
+ ( g ) representative . each party shall be legally responsible and liable for the action , omission and conduct of their respective 
+ sale representative and other representative perform activity hereunder . each party shall ensure that all 
+ person for whom they have legal responsibility and liability in accordance with the forego sentence comply with all 
+ applicable law , the advamed code or the phrma code , as applicable , applicable compliance / review police , and 
+ all requirement of this agreement , and shall implement and maintain policy and procedure to ensure such 
+ compliance . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( h ) marketing authorization . exact shall have the sole right and responsibility between the party to take , and shall take , all 
+ action with respect to the product reasonably necessary in order to maintain the regulatory approval permit the 
+ marketing and sale of the product in the territory throughout the term . 
+ ( i ) withdrawal . exact shall have sole authority to determine whether to recall or withdraw any product in the territory; provide , 
+ however , exact shall notify pfizer of its decision , include the reason therefore , regard any such recall or withdrawal 
+ promptly after such decision be make . exact shall be solely responsible for and shall bear all cost associate , directly or 
+ indirectly , with any recall or withdrawal of the product . 
+ ( j ) customer service activities; safety reporting . exact shall have sole authority to handle all customer service activity 
+ regard the product in accordance with section 3.2(b)(v ) . promptly upon receipt ( and in any event within one 
+ business day ) , pfizer shall refer all customer service inquiry regard the product , include all medical and other 
+ inquiry and complaint , to exact for resolution . follow the effective date but before the launch date , the party 
+ shall discuss and agree to a procedure by which product inquiry to , or by , pfizer will be send to exact to comply with 
+ applicable safety reporting requirement and obligation for the product . 
+ 3.3 annual marketing plan . 
+ ( a ) general . promptly follow the effective date , exact and pfizer shall develop an annual marketing plan for the product . 
+ unless otherwise agree by the party , the joc shall prepare each annual marketing plan and submit it for review and 
+ approval by the jsc by no later than october 1 of the then - current calendar year so that the jsc shall have a 
+ reasonable opportunity to review , revise and approve such annual marketing plan by no later than october 31 of the 
+ calendar year precede the calendar year to which such annual marketing plan relates; provide that the annual 
+ marketing plan for the 2019 calendar year shall be finalize by the joc and submit to the jsc promptly follow the 
+ effective date , and in any event no later than december 1 , 2018 . it be the intent of the party that the annual marketing 
+ plan for the remainder of 2018 will be approve by the jsc no later than october 1 , 2018 . if either party desire to revise 
+ or update an approve annual marketing plan prior to the end of a calendar year , it shall notify the joc of such desire 
+ revision , and the joc shall review any such propose revision and determine whether to submit such revision to the 
+ jsc for review and approval . 
+ ( b ) plan content . the annual marketing plan for each calendar year begin with the 2019 calendar year shall contain at a 
+ minimum the category set forth in exhibit 3.3(b ) and such other information that the joc or jsc believe be necessary . 
+ the 2018 annual marketing plan shall contain 
+
+ st 
+ st 
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ a high - level summary of the sale deployment plan and use of share m&p expense for the remainder of 2018 . 
+ 3.4 sale promotion , detail effort and idn promotion . 
+ ( a ) sale promotion . commence on the launch date , each of exact and pfizer shall implement the sale detail plan set forth 
+ in the applicable annual marketing plan and the sale deployment plan . in the case of pfizer , pfizer shall ensure that ( i ) 
+ the number of detail in a calendar year by pfizer sale representative be not less than six hundred twenty - five 
+ thousand ( 625,000 ) detail ( for the remainder of 2018 calendar year follow the launch date , pfizer shall deliver one 
+ hundred forty thousand ( 140,000 ) detail ) and ( ii ) if the product be promote by pfizer sale representative ( a ) in 
+ position 2 or high , the incentive compensation weighting directly tie to the product shall not be less than thirty 
+ percent ( 30 ) of incentive compensation available to be earn by such sale representative in the applicable 
+ calendar quarter and ( b ) in position 3 or low , the incentive compensation weighting directly tie to the product shall 
+ not be less than twenty - five percent ( 25 ) of incentive compensation available to be earn by such sale 
+ representative in the applicable calendar quarter . if pfizer deliver less than five hundred sixty - two thousand five 
+ hundred ( 562,500 ) detail in a calendar year , then the promotion fee due pfizer for such calendar year shall be reduce 
+ by the applicable percentage set forth in the table on exhibit 3.4(a ) , with such reduction to be deduct from remittance 
+ of the promotion fee for the last calendar quarter of such calendar year; provide that if such deduction exceed the 
+ amount payable for such calendar quarter then exact shall apply any such remain deduction to the promotion fee 
+ for the next calendar quarter or calendar quarter , as necessary until the total deduction have be apply . if pfizer 
+ deliver less than four hundred fifty thousand ( 450,000 ) detail in a calendar year , in addition to percentage reduction 
+ of the promotion fee set forth in the table on exhibit 3.4(a ) , exact shall have the right to terminate this agreement 
+ under section 8.3(b ) , which termination shall not be subject to the right of pfizer to cure such breach . in no event shall 
+ pfizer owe any monie to exact for detail shortfall under this agreement other than to refund the promotion fee owe 
+ to exact due to detail shortfall in accordance with this section 3.4(a ) . 
+ each party shall be responsible for its own sale representative cost attributable to the product , include base salary 
+ and incentive compensation , normal travel and entertainment expense , cost of fleet vehicle and other expense 
+ normally associate with promotion of product and service similar to the product . 
+ ( b ) detail effort and cost . each party shall have sole and exclusive control of all detail effort and activity by its sale 
+ representative and representative , and shall be solely responsible for the cost thereof . notwithstanding anything to 
+ the contrary in this agreement or the 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ annual marketing plan , any detail cost incur by a party or its affiliate in deliver the detail assign to 
+ such party shall be the sole responsibility of such party or affiliate and shall not be a baseline m&p expense or share 
+ m&p expense or otherwise a share cost pursuant to this agreement . 
+ ( c ) idn promotion . as part of this agreement , pfizer agree to deploy its idn key account manager ( or successor team with 
+ similar responsibility , the " kam team " ) to support understanding and uptake of the product by idn customer in 
+ accordance with the annual marketing plan . in furtherance , prior to the beginning of each calendar year , pfizer shall 
+ discuss and agree with exact on the define goal and key performance indicator for the kam team . pfizer and exact 
+ shall agree to execution goal and deliverable of resource , subject to review and approval of the jrc , to be use by 
+ the kam team with idn customer , and the tracking of such execution goal and deliverable use a scorecard . 
+ ( d ) reporting . within fifteen ( 15 ) business day after the end of each month during the term , each party shall provide to the 
+ other party a write report set forth ( i ) the number of detail complete during such month and ( ii ) any change to 
+ incentive compensation or sell position of the product by sale representative during such month . exact shall 
+ provide to pfizer a weekly report detail , on an eligible prescriber - by - eligible prescriber basis , the product laboratory 
+ service activity , include but not limit to , the number of order receive , number of shipment send to patient , and 
+ number of result send back to prescriber . 
+ 3.5 pfizer investment and support . pfizer shall make financial investment in marketing and promote the product in accordance with and 
+ in all case subject to the budget in the applicable annual marketing plan ( as the same may be adjust as provide in section 
+ 3.3 ) and shall be equal to fifty percent ( 50 ) of share m&p expense , in the amount set forth in the chart below . pfizer , at its own 
+ expense , shall use commercially reasonable effort to carry out pfizer ’s responsibility under the annual marketing plan , which 
+ commercially reasonable effort shall include commit the appropriate resource to assist in the implementation of the annual 
+ marketing plan and to carry out the activity pfizer be responsible for thereunder and hereunder . pfizer will make investment as 
+ set forth in the chart below . notwithstanding the above , pfizer agree to invest its portion of share m&p expense each calendar 
+ year subject to , ( a ) exact spending at least twelve million dollar ( 12,000,000 ) in baseline m&p expense each calendar quarter 
+ ( provide , that notwithstanding exact ’s quarterly spend for baseline m&p expense , exact shall spend a total of eighty million 
+ dollar ( 80,000,000 ) in baseline m&p expense each calendar year measure as of the end of each calendar year ) , ( b ) an amount 
+ equal to the total share m&p expense contribute by both party be use for marketing and promotion and ( c ) a total sum of 
+ not less than eighty million dollar ( 80,000,000 ) of baseline m&p expense be use for marketing and promotional activity , 
+ include the cost of exact sponsorship and relate activities; provide , however , the party may agree to reallocate share 
+ m&p expense by 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ mutual write consent . pfizer agree to match dollar for dollar exact ’s share m&p expense for a calendar year to up to the 
+ amount specify in the chart below . 
+ calendar year 
+ pfizer ’s share m&p expense 
+
+ 24 million 
+
+ 22 million 
+
+ 21 million 
+
+ 20 million 
+ for any investment period less than a full calendar year ( other than 2018 ) , pfizer ’s share m&p expense investment shall be 
+ adjust pro rata base on the number of month remain until the end of the calendar year . for calendar year 2018 , pfizer ’s 
+ share m&p expense shall be adjust to equal the number of month remain from the launch date to december 31 , 2018 
+ divide by twelve ( 12 ) multiply by twenty - four million dollar ( 24,000,000); provide the requirement of this section 3.5 be 
+ satisfied . pfizer shall have no obligation to incur share m&p expense in excess of the amount in the above chart for the give 
+ calendar year , unless the party mutually agree to increase their portion of the share m&p expense . 
+ 3.6 exact investment and support . exact shall commit , at its sole cost and expense and not subject to reimbursement by pfizer , to 
+ maintain its originally plan out - of - pocket marketing and promotional spend of eighty million dollar ( 80,000,000 ) in each 
+ of the 2018 , 2019 , 2020 , and 2021 calendar year , include the exact sponsorship and relate activity ( the " baseline m&p 
+ expense " ) . in addition to baseline m&p expense , exact shall invest share m&p expense in amount to be match by pfizer 
+ pursuant to section 3.5 above . exact , at its own expense , shall use its commercially reasonable effort to carry out exact ’s 
+ responsibility under the annual marketing plan , which commercially reasonable effort shall include commit the appropriate 
+ resource to assist in the implementation of the annual marketing plan and to carry out the activity exact be responsible for 
+ thereunder . in addition , except as provide for in section 3.2(d ) , exact shall be responsible for contract with agency and 
+ vendor who be or will be provide service ( include the development of promotional material and training material ) 
+ associate with the execution of the annual marketing plan , shall timely pay all amount due to such agency and vendor for 
+ such service and shall authorize pfizer to interact directly with and instruct such agency and vendor in connection with such 
+ service as necessary and appropriate under this agreement . 
+ calendar 
+ year 
+ exact ’s baseline m&p 
+ expense 
+ exact ’s share m&p 
+ expense 
+
+ 80 million 
+ 24 million 
+
+ 80 million 
+ 22 million 
+
+ 80 million 
+ 21 million 
+
+ 80 million 
+ 20 million 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ for any investment period less than a full calendar year ( other than 2018 ) , exact ’s baseline m&p expense and share m&p 
+ expense investment shall be adjust pro rata base on the number of month remain until the end of the calendar year . for 
+ calendar year 2018 , exact ’s baseline m&p expense and share m&p expense shall be adjust to equal the number of month 
+ remain from the launch date to december 31 , 2018 divide by twelve ( 12 ) multiply by eighty million dollar ( 80,000,000 ) or 
+ twenty - four million dollar ( 24,000,000 ) , as applicable; provide that the requirement of this section 3.6 be satisfied . exact 
+ shall have no obligation to incur share m&p expense in excess of the amount in the above chart for the give calendar year , 
+ unless the party each agree to increase their portion of the share m&p expense . 
+ 3.7 change in share m&p expense . in the event the party agree to not implement or to discontinue implementation of a strategy or 
+ tactic include in any annual marketing plan , the applicable share m&p expense investment set forth above shall be either ( a ) 
+ adjust if , during good faith discussion at the jsc , the party agree on the implementation of a substitute strategy or tactic in 
+ place of the strategy or tactic that be not implement or be discontinue , which adjustment will reflect any difference in cost 
+ of such substitute strategy or tactic or ( b ) reduce by the amount(s ) allocate in the applicable budget for such strategy or tactic 
+ under the applicable annual marketing plan , if the party , during good faith discussion at the jsc , agree not to implement a 
+ substitute strategy or tactic in place of the strategy or tactic that be not implement or which be discontinue . any amount 
+ save as result of this section 3.7 shall be re - deploy to other expense associate with the marketing of the product , unless 
+ otherwise determine by the jsc . 
+ 4 . account . 
+ 4.1 responsibility for share m&p expense . 
+ ( a ) general . share m&p expense contribute by exact and pfizer pursuant to section 3.5 and 3.6 shall be use solely to fund 
+ activity pursuant to the annual marketing plan . the party shall agree to calendar quarter phasing of baseline m&p 
+ expense and share m&p expense for budgeting purpose . the party will spend amount contribute to baseline 
+ m&p expense and share m&p expense simultaneously throughout each calendar year , in a manner consistent with 
+ the approved budget set forth in the annual marketing plan . any baseline m&p expense and share m&p expense 
+ budget but not spend in calendar quarter may be roll over into the next calendar quarter . for the avoidance of 
+ doubt , pfizer will match dollar for dollar exact ’s share m&p expense for a calendar year to up to the amount set forth 
+ in section 3.5 . 
+ ( b ) remainder of 2018 . promptly after the effective date , exact shall discuss with pfizer its plan marketing and promotional 
+ spend associate with the product for the period begin on the effective date and end on december 31 , 2018 , so 
+ that pfizer may understand and recommend 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ reallocation of all or any portion of such plan marketing and promotional spend associate with the product . budget 
+ phasing of 2018 pro - rat baseline m&p expense and pro - rat share m&p expense shall be do on the calendar 
+ quarter basis . exact agree it shall spend at least eighty million dollar ( 80,000,000 ) toward marketing and promotion 
+ ( include any amount spend between january 1 , 2018 and the effective date ) and the pro - rat share m&p expense 
+ for 2018 . 
+ ( c ) reporting . within fifteen ( 15 ) business day after the end of each month during the term begin with october , 2018 , exact 
+ shall provide to pfizer a write report set forth the amount of baseline m&p expense and share m&p expense 
+ incur and pay for by exact during such month , which report shall also provide sufficient itemization and detail relate 
+ to such expense in order for pfizer to confirm that such baseline m&p expense and share m&p expense be 
+ incur pursuant to the annual marketing plan . pfizer , within fifteen ( 15 ) business day after the end of each month 
+ during the term , begin with october , 2018 , shall prepare and provide to exact a write report set forth the 
+ aggregate amount of share m&p expense incur and pay for by pfizer during such month , along with sufficient 
+ itemization and detail relate to such expense in order for exact to confirm that such share m&p expense be 
+ incur pursuant to the annual marketing plan . 
+ 4.2 promotion fee . 
+ ( a ) calculation of promotion fee . from the launch date and end on the last day of the next calendar quarter and each 
+ subsequent calendar quarter during the term , exact shall owe pfizer a service fee equal to fifty percent ( 50 ) of the 
+ product of : laboratory service revenue minus baseline laboratory service revenue ( " incremental laboratory service 
+ revenue " ) for the calendar quarter multiply by gross margin percent for the calendar quarter ( such product , the 
+ " promotion fee " ) . in no event shall the gross margin percent use in the calculation of the promotion fee be less than 
+ sixty - eight percent ( 68 ) or more than seventy - four percent ( 74 ) . the calculation of the promotion fee pursuant to 
+ this section 4.2(a ) be subject to section 4.2(c ) below . promotion fee(s ) and all compensation pay by exact to pfizer under 
+ this agreement , even where calculate as a percentage of sale , be intend to compensate pfizer a fair market value for 
+ the entirety of service that pfizer be provide to exact hereunder . 
+ the formula for the calculation of the promotion fee be as follow : 
+ a = laboratory service revenue 
+ b = baseline laboratory service revenue 
+ c = gross margin percent 
+ promotion fee = 0.5 ( a - b ) c 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( b ) baseline laboratory service revenue . the chart below set forth the baseline laboratory service revenue for the product 
+ for each calendar year during the term ( the " calendar year baseline laboratory service revenue " ) . in the annual 
+ marketing plan the appropriate calendar year baseline laboratory service revenue shall be allocate among each 
+ calendar quarter during such calendar year , take into consideration seasonality or other sale demand variable . for 
+ 2018 , the first calendar quarter shall be from the launch date to december 31 , 2018 and the calendar year baseline 
+ laboratory service revenue allocate to that calendar quarter shall be 130 million . 
+ calendar year 
+ baseline laboratory service 
+ revenue 
+
+ 441 million 
+
+ 622 million 
+
+ 861 million 
+
+ 1.191 billion 
+ ( c ) supplemental promotion fee . 
+ ( i ) subject to pfizer ’s compliance with section 3.4(a)(i ) and 3.4(a)(ii ) , ( a ) exact shall pay pfizer the amount , if any , by 
+ which the aggregate amount of the promotion fee incur by exact to pfizer during the remainder of 2018 
+ calendar year and 2019 calendar year ( the " first promotion fee period " ) be less than 37.5 million ( the " first 
+ supplemental promotion fee " ) , and ( b ) exact shall pay pfizer the amount , if any , by which the aggregate 
+ promotion fee incur by exact to pfizer during each of calendar year 2020 and 2021 be less than 30 million 
+ ( " annual supplemental promotion fee " ) , in each case to compensate pfizer for the sale , marketing and other 
+ performance provide by pfizer under this agreement . 
+ ( ii ) as of june 30 of each calendar year during the term , exact shall calculate a partial - period amount to be pay toward 
+ the potential first supplemental promotion fee or the potential annual supplemental promotion fee , as the 
+ case may be . with regard to the first supplemental promotion fee , the partial - period payment shall be equal to 
+ the amount by which the promotion fee for 2018 , and the first six ( 6 ) month of calendar year 2019 , be less than 
+ 22.5 million , and with regard to each annual supplemental promotion fee , the partial - period payment shall be 
+ equal to the amount by which the promotion fee for the six - month ( 6 - month ) period through june 30 be less 
+ than 15 million . 
+ ( iii ) as of december 31 of each calendar year during the term , exact shall calculate the first supplemental promotion fee 
+ or the annual supplemental promotion fee , as the case may be , if any , for the entirety of the applicable period . 
+ exact shall pay pfizer the first 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ supplemental promotion fee or the annual supplemental promotion fee , as the case may be , if any , less any 
+ partial - period payment make by exact during the applicable period pursuant to section 4.2(c)(ii ) . 
+ ( iv ) to the extent the amount of the promotion fee for the first promotion fee period exceed the first supplemental 
+ promotion fee , exact shall be entitle to a credit of such excess amount up to the amount of any partial - period 
+ payment make by exact during such first promotion fee period pursuant to section 4.2(c)(ii ) , and exact shall 
+ apply such credit toward the promotion fee payment due pfizer for the fourth calendar quarter of 2019 ( or due 
+ for subsequent calendar quarter until such credit be fully exhaust ) . to the extent the amount of the 
+ promotion fee for any calendar year after 2019 exceed the annual supplemental promotion fee for such 
+ calendar year , exact shall be entitle to a credit of such excess amount up to the amount of any partial - period 
+ payment make by exact during such calendar year pursuant to section 4.2(c)(ii ) , and exact shall apply such 
+ credit toward the promotion fee payment due pfizer for the fourth calendar quarter of such calendar year ( or 
+ due for subsequent calendar quarter until such credit be fully exhausted ) . 
+ ( v ) any amount due under section 4.2(c)(i ) and ( ii ) shall be payable within thirty ( 30 ) day after each of june 30 , and 
+ december 31 of each calendar year , begin with june 30 , 2019 , as applicable . 
+ ( d ) ob / gyn sale . if exact ( i ) grant ob / gyn commercial right to a third party in accordance with section 3.1(c ) or ( ii ) launch 
+ its own sale channel in the ob / gyn field ( as applicable , the " exclude channel " ) , then the laboratory service 
+ revenue use to perform the calculation set forth in section 4.2(a ) and to determine royalty payment pursuant to 
+ section 8.7 shall exclude all laboratory service revenue attributable to the exclude channel except a mutually agree 
+ percentage of laboratory service revenue during the applicable period attributable to such exclude channel ( the 
+ " include revenue percentage”); provide , that ( a ) such include revenue percentage will reflect the anticipated 
+ relative contribution of the party with regard to the exclude channel after such launch , and ( b ) the include revenue 
+ percentage shall not be less than the revenue percentage attributable to the ob / gyn field as of the date of such launch , 
+ calculate on the same basis that revenue from the ob / gyn field be calculate by exact on the effective date . 
+ 4.3 fee statement and payment . 
+ ( a ) monthly and quarterly financial deliverable . exact shall on a monthly basis , not later than fifteen ( 15 ) business day after 
+ the end of the month , deliver to pfizer a full suite of performance datum , include product laboratory service complete , 
+ average selling price per unit , laboratory service revenue , rebate , net revenue and a detailed cost of sale schedule 
+
+ th 
+ st 
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( consist of collection kit distribute to patient , royalty pay , shipping cost , lab operating expense and reagent 
+ cost ) . not later than fifteen ( 15 ) business day after the end of the calendar quarter , exact shall deliver to pfizer a 
+ rolling sale forecast and an estimate , for the remain calendar quarter in the calendar year , of the promotion fee as 
+ set forth in section 4.2 . 
+ ( b ) payment of promotion fee . exact , within thirty ( 30 ) day after the end of each calendar quarter of the term , shall deliver to 
+ pfizer a consolidated report in the form of and contain the information necessary to confirm the calculation of the 
+ promotion fee for such calendar quarter , together with the underlie spreadsheet with respect to such calendar 
+ quarter . the promotion fee due with respect to such calendar quarter and reflect on the consolidated report shall be 
+ remit at the time such report be make . 
+ 4.4 taxis and withholding . it be understand and agree between the party that any payment make under this agreement be exclusive 
+ of any value add or similar tax ( " vat " ) , and that no such vat shall apply to the payment make under this agreement . in the 
+ event any payment make pursuant to this agreement become subject to withholding taxis under the law or regulation of any 
+ jurisdiction , the party make such payment shall deduct and withhold the amount of such taxis for the account of the payee to 
+ the extent require by applicable law and such amount payable to the payee shall be reduce by the amount of taxis deduct 
+ and withhold . any such withholding taxis require under applicable law to be pay or withhold shall be an expense of , and 
+ bear solely by , the payee . to the extent that the party make a payment be require to deduct and withhold taxis on any 
+ payment under this agreement , the party make such payment shall pay the amount of such taxis to the proper governmental 
+ authority in a timely manner and promptly transmit to the payee an official tax certificate or other evidence of such withholding 
+ sufficient to enable the payee to claim such payment of taxis . the payee shall provide any tax form to the party make such 
+ payment that may be reasonably necessary in order for such party not to withhold tax or to withhold tax at a reduce rate under 
+ an applicable bilateral income tax treaty . the payee shall use commercially reasonable effort to provide any such tax form to the 
+ party make the payment at least thirty ( 30 ) day prior to the due date for any payment for which the payee desire that the 
+ party make the payment apply a reduce withholding rate . each party shall provide the other with reasonable assistance to 
+ enable the recovery , as permit by law , of withholding taxis , vat , or similar obligation result from payment make under 
+ this agreement , such recovery to be for the benefit of the party bear such withholding tax or vat . notwithstanding anything 
+ in this agreement to the contrary , ( a ) if an action ( include any assignment or sublicense of its right or obligation under this 
+ agreement , or any failure to comply with applicable law or filing or record retention requirement ) by a party lead to the 
+ imposition of withholding tax liability or vat on the other party that would not have be impose in the absence of such action 
+ or in an increase in such liability above the liability that would have be impose in the absence of such action , then the sum 
+ payable by that party ( in respect of which such deduction or withholding be require to be make ) shall be increase to the extent 
+ necessary to ensure that the other party 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ receive a sum equal to the sum which it would have receive have no such action occur , ( b ) otherwise , the sum payable by 
+ that party ( in respect of which such deduction or withholding be require to be make ) shall be make to the other party after 
+ deduction of the amount require to be so deduct or withhold , which deduct or withhold amount shall be remit in 
+ accordance with applicable law . 
+ 4.5 no partnership provision . it be expressly agree that pfizer and exact shall be independent contractor and that the relationship 
+ between pfizer and exact shall not constitute a partnership , joint venture or agency . the party agree that the right and 
+ obligation under this agreement be not intend to constitute a partnership or similar arrangement that will require separate 
+ reporting for tax purpose consistent with the intent reflect in the forego sentence and agree that they shall not file any 
+ report , document or other item relate to taxis or state or acknowledge to any tax authority that such relationship be a 
+ partnership or similar arrangement unless require by applicable law . 
+ 4.6 payments; currency . all payment due by one party to the other party hereunder shall be pay by wire transfer in immediately 
+ available fund from the account or account of a party and/or its affiliate to an account or account of the receive party 
+ and/or its affiliate designate in writing by the receive party . all amount payable and calculation hereunder shall be in 
+ united states dollar . 
+ 4.7 maintenance of records; audit . 
+ ( a ) record keeping . each party shall keep and shall cause its affiliate to keep accurate book and account of record in 
+ connection with ( i ) its marketing and promotion of the product , ( ii ) ( with respect to exact ) performance of product 
+ laboratory service , and ( iii ) its activity under this agreement and any annual marketing plan , in sufficient detail to 
+ permit accurate determination of all figure necessary for verification of ( a ) amount to be pay hereunder and ( b ) 
+ compliance with the term of this agreement . each party shall , and shall cause its affiliate to , maintain such record for 
+ a period of at least three ( 3 ) year after the end of the calendar year to which they pertain . 
+ ( b ) financial audit . 
+ ( i ) audit right . upon thirty ( 30 ) day prior write notice from a party ( the " auditing party " ) , the other party ( the 
+ " audit party " ) shall permit an independent certify public accounting firm of nationally recognize standing 
+ select by the auditing party and reasonably acceptable to the audit party , to examine , at the auditing 
+ party ’s sole expense , the relevant book and record of the audit party and its affiliate as may be 
+ reasonably necessary to verify the accuracy of the report submit by the audit party in accordance with 
+ section 3.4(d ) , 4.1(c ) and 4.3(a ) and the payment of promotion fee hereunder . an examination by the 
+ auditing party under this section 4.6(b ) shall occur not more than once in any calendar year and shall 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ be limit to the pertinent book and record for any calendar year during the term end not more than 
+ twenty - four ( 24 ) month before the date of the request . the accounting firm shall be provide access to such 
+ book and record at the audit party ’s facility(ie ) in the territory where such book and record be 
+ normally keep and such examination shall be conduct during the audit party ’s normal business hour . the 
+ audit party may require the accounting firm to sign a standard non - disclosure agreement before provide 
+ the accounting firm access to the audit party ’s facility or record . upon completion of the audit , the 
+ accounting firm shall provide both pfizer and exact a write report disclose whether the report submit by 
+ the audit party be correct or incorrect , whether the promotion fee pay during the audit period or 
+ baseline m&p expense or share m&p expense incur during the audit period be correct or incorrect , 
+ and , in each case , the specific detail concern any discrepancy . no other information shall be provide to 
+ the auditing party . the decision of the accounting firm will be final and unappealable absent manif error . 
+ ( ii ) underpayment / overpayment . if such accounting firm conclude that additional promotion fee be due to pfizer , 
+ exact shall pay to pfizer an amount equal to the actual promotion fee due minus the promotion fee pay within 
+ thirty ( 30 ) day of the date exact receive such accountant ’s write report so conclude . if such accounting 
+ firm correctly conclude that promotion fee pay to pfizer be in excess of the amount properly due , pfizer 
+ shall pay or refund to exact an amount equal to the promotion fee pay minus the actual promotion fee due 
+ within thirty ( 30 ) day of the date exact receive such accountant ’s write report so conclude . 
+ ( c ) compliance audit . upon thirty ( 30 ) day prior write notice from an auditing party , the audit party shall permit the 
+ auditing party ’s external auditor access to any relevant book document , paper , and record of the party involve 
+ any report deliver pursuant to section 3.2(d ) , 3.4(d ) and 4.3(a ) of this agreement and the activity perform under 
+ this agreement , if the other party have credible evidence that the other party violate term of this agreement , include 
+ with respect to product training under section 3(e ) . an examination by a party under this section 4.6(c ) shall ( i ) occur 
+ not more than once in any calendar year , ( ii ) be limit to the pertinent book and record for any calendar year during 
+ the term end not more than twenty - four ( 24 ) month before the date of the request and ( iii ) be at the sole expense of 
+ the auditing party . the external auditor of the auditing party shall be provide access to such book and record at 
+ the audit party ’s facility(ie ) in the territory where such book and record be normally keep and such examination 
+ shall be conduct during the audit party ’s normal business hour . the audited party may require any external 
+ auditor to sign a standard non - disclosure agreement before provide the accounting firm access to the audit 
+ party ’s facility or record . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( d ) confidentiality . all financial and other confidential information of the audit party which be subject to review under this 
+ section 4.6 shall be deem to be the audit party ’s confidential information and , subject to the provision of article 6 
+ hereof , the auditing party shall not disclose such confidential information to any third party or use such confidential 
+ information for any purpose other than verify compliance with this agreement . 
+ 5 . representation , warranty and covenant . 
+ 5.1 mutual representation and warranty . each of exact and pfizer hereby represent and warrant to the other party as of the effective 
+ date that : 
+ ( a ) it be duly organize , validly exist and in good standing under the law of the jurisdiction of its organization; 
+ ( b ) the execution , delivery and performance of this agreement by such party have be duly authorize by all requisite action 
+ under the provision of its certificate of incorporation , bylaw and other organizational document , and do not require 
+ any action or approval by any of its shareholder or other holder of its voting security or voting interest that have not 
+ be taken; 
+ ( c ) it have the power and authority to execute and deliver this agreement and to perform its obligation hereunder; 
+ ( d ) this agreement have be duly execute by an appropriate representative of such party and be a legal , valid and enforceable 
+ against such party in accordance with its terms; 
+ ( e ) the execution , delivery and performance by such party of this agreement and its compliance with the term and provision 
+ hereof do not and will not conflict with or result in a breach of or default under ( i ) any oral or write agreement that 
+ bind such party ’s operation or property , include any assignment , license agreement , loan agreement , guaranty or 
+ financing agreement , ( ii ) the provision of such party ’s certificate of incorporation , bylaw or other organizational 
+ document , or ( iii ) any order , writ , injunction , decree or judgment of any court or governmental authority enter 
+ against such party or by which any of such party ’s operation or property be bound; 
+ ( f ) all material write information provide by each party in the virtual data room maintain for the purpose of the propose 
+ transaction under this agreement be complete , truthful and accurate in all material respects; and 
+ ( g ) neither it , nor any of its affiliate , nor , to such party ’s knowledge , any of their respective representative have be debar 
+ or suspend under 21 u.s.c . § 335(a ) or ( b ) , exclude from a federal health care program , debar from federal 
+ contracting , or convict of or plead nolo contendere to any felony , or to any federal or state legal violation ( include 
+ misdemeanor ) relate to medical device or fraud ( " debarred / exclude " ) . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ 5.2 representation and warranty of exact . exact hereby represent and warrant to pfizer as of the effective date that : 
+ ( a ) no consent be require from any third party for exact to enter into , or to exercise its right and perform its obligation under , 
+ this agreement; 
+ ( b ) in connection with the development , manufacturing and promotion of the product , except as would not reasonably be 
+ expect to have a material adverse effect on the promotion of the product in the territory , exact have comply and will 
+ continue to comply in all material respect with applicable law , include the fd&c act , the anti - kickback statute ( 42 
+ u.s.c . § 1320a-7b ) , civil monetary penalty statute ( 42 u.s.c . § 1320a-7a ) , the false claim act ( 31 u.s.c . § 3729 et seq . ) , 
+ comparable state statute , the regulation promulgate under all such statute , and the regulation issue by the fda; 
+ ( c ) with respect to the development , manufacturing and promotion of the product , exact have not take and will not take any 
+ action directly or indirectly to offer , promise or pay , or authorize the offer or payment of , any money or anything of value 
+ in order to improperly or corruptly seek to influence any government official in order to gain an improper advantage; 
+ ( d ) in connection with exact ’s manufacturing and promotion of product or exact ’s performance of the product laboratory service 
+ in the territory or directly relate to the transaction contemplate by this agreement , except as would not reasonably 
+ be expect to have a material adverse effect on the promotion of the product in the territory , ( i ) no write claim , 
+ demand , suit , investigation or other legal action of any nature , civil , criminal , regulatory or otherwise , have be file and 
+ receive by exact , and be pende in any court , arbitration or government agency proceeding nor , to the knowledge of 
+ exact , have any claim , demand , suit , investigation or other legal action of any nature , civil , criminal , regulatory or 
+ otherwise be threaten in writing , to be file against exact in any court , arbitration or government agency 
+ proceeding; and ( ii ) there be no judgment or settlement against or owe by exact; 
+ ( e ) exact have not receive write notice from any third party claim that the manufacture , use , sale or importation by or on 
+ behalf of exact of the product in the territory or the performance of any product laboratory service by or on behalf of 
+ exact ( i ) infringe any issue patent or intellectual property right of such third party in the territory or ( ii ) will infringe 
+ any claim of any publish patent application of such third party in the territory when and if such claim issues; 
+ ( f ) to exact ’s knowledge , the manufacture , use , sale or importation by or on behalf of exact of the product in the territory or the 
+ performance of any product laboratory service by or on behalf of exact ( i ) do not infringe any issue patent or 
+ intellectual property right of any third party in the territory 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ or ( ii ) will not infringe any claim of any publish patent application of any third party in the territory when and if such 
+ claim issues; and 
+ ( g ) exact be not presently engage in any discussion with any third party with respect to the grant to any third party of and 
+ do not currently have any agreement with any third party to grant any right or license to make , use , import , offer for 
+ sale or sell any product , in the territory , in each case , which would constitute a grant of ex - us commercial right or 
+ ob / gyn commercial right . 
+ 5.3 covenant . 
+ ( a ) each party hereby covenant to the other party that , during the term in the territory : 
+ ( i ) it will immediately remove any sale representative from have any responsibility relate to promotion of the 
+ product under this agreement if require by applicable law , include if such party determine that such 
+ sale representative be debar / excluded; 
+ ( ii ) it will promptly remove any sale representative from have any responsibility relate to the promotion of the 
+ product under this agreement if , follow an investigation , it be determined that there have be a significant 
+ violation of any applicable law , or the party ’s applicable compliance / review policy by such sale 
+ representative; and 
+ ( iii ) it will not knowingly make any untrue or misleading statement or comment about the product . 
+ ( b ) pfizer hereby covenant to exact that , during the term in the territory , it , its affiliate and its sale representative will not ( i ) 
+ promote the product outside of the territory or the co - promote field; or ( ii ) disparage or present in a negative light the 
+ product in the performance of its obligation hereunder; provide that nothing herein shall be interpret to preclude 
+ pfizer from ( a ) describe any risk of a product set forth in the product label or ( b ) make truthful statement about 
+ the product to the extent require by applicable law , in connection with any litigation or in response to any question , 
+ inquiry or request for information when require by legal process ( e.g. , a valid subpoena or other similar compulsion of 
+ law ) or as part of a government investigation . 
+ ( c ) exact hereby covenant that neither exact nor its affiliate shall sue pfizer and its affiliate under any exact patent right 
+ solely with respect to any activity carry out by pfizer or its affiliate under , and to the extent in compliance with , this 
+ agreement , include its and their activity to promote and detail the product in the co - promote field in the territory 
+ during the term of this agreement and in compliance with this agreement . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ 5.4 compliance with law and ethical business practice . in addition to the other representation , warranty and covenant make by 
+ each party under this agreement , each party hereby represent , warrant and covenant to the other party that , during the term 
+ in the territory : 
+ ( a ) it be , and will remain during the term , license , register and/or qualified under applicable law to do business , and have 
+ obtain such license , consent , authorization or complete such registration or make such notification as may be 
+ necessary or require by applicable law to perform its obligation under this agreement; 
+ ( b ) it will perform its obligation under this agreement in material compliance with this agreement and any applicable annual 
+ marketing plan , its applicable compliance / review policy and applicable law ( include the fd&c act , the anti- 
+ kickback statute ( 42 u.s.c . § 1320a-7b ) , civil monetary penalty statute ( 42 u.s.c . § 1320a-7a ) , the false claim act ( 31 
+ u.s.c . § 3729 et seq . ) , comparable state statute , the regulation promulgate under all such statute , and the 
+ regulation issue by the fda); 
+ ( c ) in connection with the activity contemplate by this agreement , to each party ’s knowledge , it have be , and during the term 
+ will be , in compliance with all applicable u.s . trade law , include those relate to , import control , export control , or 
+ economic sanctions; 
+ ( d ) it will ensure its own compliance with all applicable laws; 
+ ( e ) with respect to the product and any payment or service provide under this agreement , such party have not take , and 
+ during the term will not take , any action , directly or indirectly , to offer , promise or pay , or authorize the offer or payment 
+ of , any money or anything of value in order to improperly or corruptly seek to influence any government official in order 
+ to gain an improper advantage , and have not accept , and will not accept in the future such payment; 
+ ( f ) each party hereby certifie that it have implement and will maintain and enforce a compliance and ethic program design to 
+ prevent and detect violation of applicable law throughout its operation ( include affiliate ) and the operation of 
+ its representative that have responsibility for product , payment , or service provide under the agreement , include 
+ by implement policy and procedure set out rule govern interaction with healthcare professional and 
+ government officials; the engagement of third party , and where appropriate , due diligence; and the investigation , 
+ documentation , and remediation of any allegation , finding , or report relate to a potential violation of its applicable 
+ compliance / review policy . such compliance program shall include at a minimum , compliance officer , compliance 
+ committee(s ) , policy and procedure relate to ( i ) sale , medical , promotional and marketing activity for the product , 
+ ( ii ) regular auditing and monitoring , ( iii ) training 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ on sale , medical , promotional and marketing activity and the relevant legal requirement regard such activity , ( iv ) 
+ method to raise question or concern internally ( e.g. , via a hotline ) without fear of retribution or retaliation , ( v ) 
+ process for investigate and document any compliance concern or allegation raise , finding or report relate 
+ to a potential violation of applicable law , and ( vi ) take remedial , corrective action and/or disciplinary action , as 
+ appropriate; 
+ ( g ) have implement , and will maintain and enforce , a system of internal accounting control design to ensure the making and 
+ keeping of fair and accurate book , record , and account with respect to product , payment , or service provide 
+ under this agreement , and regularly monitor and audit its business activity to ensure compliance with its applicable 
+ compliance / review policy and the adequacy of internal control , and implement remediation in response to identify 
+ issues; 
+ ( h ) it will ( a ) maintain truthful and complete documentation support , in reasonable detail , the work perform and any 
+ expense incur in connection with this agreement and any product , payment , or service provide under this 
+ agreement and ( b ) maintain financial book and record that timely , fairly , accurately , and completely reflect all financial 
+ transaction , in accordance with all applicable law ( for example , invoice , report , statement , book , and other 
+ record ) , and shall maintain such book and record during the term of the agreement and for three year after final 
+ payment have be make under the agreement; 
+ ( i ) it provide , and during the term will provide , train to representative provide service in connection with this 
+ agreement; 
+ ( j ) every year of this agreement that coincide with the term of the corporate integrity agreement ( " cia " ) enter into on may 
+ 23 , 2018 between pfizer and the united states department of health and human service , office of inspector general , 
+ pfizer will send a letter to exact that : ( a ) summarize pfizer ’s obligation under the cia , ( b ) express pfizer ’s 
+ commitment to full compliance with all federal health care program requirement , ( c ) describe the pfizer compliance 
+ program and ( d ) include a copy of ( or include a link to ) pfizer ’s code of conduct ( refer to as the blue book ) . within 
+ thirty ( 30 ) day of receipt of this letter , exact shall respond in write to the contact information include in pfizer ’s letter 
+ that exact shall : ( 1 ) make pfizer ’s code of conduct and a description of the pfizer compliance program available to its 
+ employee engage in activity relate to the agreement or ( 2 ) represent to pfizer that it have and enforce a 
+ substantially comparable code of conduct and compliance program for its employee who have responsibility relate 
+ to the agreement; and 
+ ( k ) with respect to the product and any payment make or service provide under this agreement : 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( i ) in the event that such party receive a report of or otherwise become aware of a potential violation of its applicable 
+ compliance / review policy , the party will perform an investigation in accordance with its established policy 
+ and procedure and will take all necessary and appropriate responsive , and corrective action , include 
+ disciplinary action ( up to and include termination of any employee , contractor , agent , sub - contractor , 
+ customer , vendor or other person that the party believe be responsible); 
+ ( ii ) such party have implement , and will at all time during the term maintain , adequate policy and procedure 
+ describe the material and information that may be distribute or discuss by the party ’s sale 
+ representative relate to the product and the manner in which such person should handle unsolicited 
+ request for information relate to off - label us of the product , which policy and procedure shall be 
+ design to ensure compliance with applicable law and regulations; 
+ ( iii ) such party regularly review its applicable compliance / review policy as part of its internal process of 
+ improvement , and , from time to time , benchmark they against the standard of the industry; 
+ ( iv ) such party have implement , and will at all time during the term maintain , adequate system , policy , and 
+ procedure to screen before hire and annually thereafter all prospective and current representative 
+ conduct activity with respect to the product against ( a ) the list of exclude individual / entity compile 
+ by the office of the inspector general in the department of health and human service and ( b ) the general 
+ services administration ’s list of party exclude from federal program , which policy and procedure 
+ require each party ’s prospective and current representative conduct activity with respect to the product 
+ to disclose immediately to the party that such representative be or may become debarred / excluded; 
+ ( v ) neither party shall provide funding to the other party for charitable donation to independent charity that provide 
+ financial assistance to patient , include share cost associate with such donations; provide information 
+ to the other party concern its own such donations; or seek to obtain information about such donation from 
+ the other party . each party shall have appropriate policy and procedure to ensure that such donation 
+ comply with applicable law and current government guidance , include without limitation guidance issue 
+ by the u.s . department of health and human service , office of inspector general , and shall operate 
+ consistent with those policy and procedure . unless a party do not and will not make such donation 
+ during the term of the agreement , if a party do not have appropriate policy and procedure in place on 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ the effective date , the party must implement such policy and procedure within thirty ( 30 ) day of the 
+ effective date . either party may request copy of such policy and procedure of the other party in order to 
+ confirm compliance with the requirement of this section; 
+ ( vi ) certifie that in connection with this agreement , such party ’s compensation system for its representative that 
+ perform any marketing , promotion , or sale activity relate to the product be design to ensure that financial 
+ incentive do not inappropriately motivate such representative to engage in improper or illegal promotion , 
+ sale or marketing of the product ( include off - label promotion of the product ) , and exclude from incentive 
+ compensation sale that may be attributable to the off - label use of the product; and 
+ ( vii ) in connection with this agreement , each party ’s call planning system for its sale representative that call upon 
+ health care professional or health care institution for any promotional or sale activity relate to the 
+ product be design to ensure that such sale representative do not call upon health care professional or 
+ health care institution that be not likely to prescribe or use the product for an on - label use . 
+ 5.5 notice of investigation . each party shall promptly notify the other party in the event that it become subject to or aware of any fda 
+ or other governmental authority inspection , investigation , or other inquiry or a fda warning letter , untitled letter , or other 
+ material governmental notice or communication relate to the service or product cover by this agreement promptly after the 
+ party become aware of such inspection , investigation , inquiry , letter , notice , or communication , except to the extent that the 
+ disclose party ’s counsel reasonably believe that such disclosure to the other party could violate applicable law ( include 
+ privacy law ) or have a significant adverse impact on the disclosing party ’s legal position or defense ( include the loss of 
+ attorney - client privilege ) with respect to any such inspection , investigation or other inquiry . in the event that the party 
+ determine that disclosure could violate applicable law ( include privacy law ) or have a significant adverse impact on the 
+ disclose party ’s legal position or defense ( include the loss of attorney - client privilege ) , the party shall promptly notify the 
+ other party that it be exercise its right not to make such disclosure . 
+ 5.6 representation by legal counsel . each party hereto represent that it have be represent by legal counsel in connection with this 
+ agreement and acknowledge that it have participate in the drafting hereof . in interpret and apply the term and provision 
+ of this agreement , the party agree that no presumption shall exist or be imply against the party which draft such term and 
+ provision . 
+ 5.7 no inconsistent agreement . neither party shall enter into any oral or write agreement or arrangement that would be inconsistent 
+ with its obligation under this agreement . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ 5.8 disclaimer . the foregoing warranty of each party be in lieu of any other warranty , express or 
+ imply , include any imply warranty of noninfringement , any imply warranty of 
+ merchantability or any imply warranty of fitness for a particular purpose all of which be 
+ hereby specifically exclude and disclaim . 
+ 6 . indemnification; limitation of liability and insurance . 
+ 6.1 indemnification . 
+ ( a ) indemnification by exact . exact shall indemnify , defend and hold pfizer , its affiliate and their respective representative ( the 
+ " pfizer indemnitee " ) harmless from any claim , damage , action , liability , loss , cost and expense , include 
+ attorney ’ fee incur in defend against they , ( hereinafter " claim " ) of a third party arise out of ( a ) the 
+ manufacture , marketing , education , promotion , importation or use of the product or the performance of the product 
+ laboratory service by exact or its representatives; ( b ) any breach by exact of any of its representation , warranty or 
+ obligation under this agreement; or ( c ) any negligent or wrongful act or omission of exact; and ( d ) any alleged patent 
+ infringement , regardless of direct , contributory or inducement , by pfizer , its affiliate or their respective representative , 
+ as a result of the performance of pfizer ’s obligation under this agreement; except , in each case ( a ) – ( d ) , to the extent 
+ such claim arise out of any breach by any pfizer indemnitee of any of its obligation under this agreement , or any 
+ negligent or wrongful act or omission of any pfizer indemnitee . 
+ ( b ) indemnification by pfizer . pfizer shall indemnify , defend and hold exact , its affiliate and their respective representative ( the 
+ " exact indemnitee " ) , harmless from any claim of a third party , to the extent arise out of ( i ) any breach by pfizer of 
+ any of its representation , warranty , or obligation under this agreement or ( ii ) any negligent or wrongful act or 
+ omission of pfizer , except to the extent such claim arise out of any breach by any exact indemnitee of any of its 
+ obligation under this agreement , or any negligent or wrongful act or omission of any exact indemnitee; provide that 
+ in no event shall pfizer have any obligation to indemnify exact for any product liability claim arise out of bodily injury 
+ or death arise from the use of the product . 
+ ( c ) procedure . 
+ ( i ) a party believe that it be entitle to indemnification under section 6.1 ( an " indemnified party " ) shall give prompt 
+ write notification to the other party ( the " indemnifying party " ) of the commencement of any claim by a third 
+ party for which indemnification may be seek or , if early , upon the assertion of any such claim by a third 
+ party ( it be understand and agree , however , that the failure by an indemnified party to give notice of a 
+ third party claim as provide 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ in this section 6.1(c ) shall not relieve the indemnify party of its indemnification obligation under this 
+ agreement except and only to the extent that such indemnify party be actually materially prejudiced as a 
+ result of such failure to give notice ) . within thirty ( 30 ) day after delivery of such notification , the indemnifying 
+ party may , upon write notice thereof to the indemnified party , assume control of the defense of such claim 
+ with counsel reasonably satisfactory to the indemnified party . if a party believe that a claim present to it for 
+ indemnification be one as to which the party seek indemnification be not entitle to indemnification under 
+ section 6.1 , it shall so notify the party seek indemnification . 
+ ( ii ) if the indemnify party elect to assume the defense of such claim , the indemnified party may participate in such 
+ defense at its own expense; provide that if the indemnified party reasonably conclude , base on advice from 
+ counsel , that the indemnify party and the indemnified party have conflict interest with respect to such 
+ claim , the indemnify party shall be responsible for the reasonable fee and expense of counsel to the 
+ indemnify party solely in connection therewith . 
+ ( iii ) the indemnify party shall keep the indemnified party advise of the status of such claim and the defense thereof 
+ and shall consider recommendation make by the indemnified party with respect thereto . 
+ ( iv ) the indemnified party shall not agree to any settlement of such claim without the prior write consent of the 
+ indemnifying party , which shall not be unreasonably withhold . the indemnify party shall not agree to any 
+ settlement of such claim or consent to any judgment in respect thereof that do not include a complete and 
+ unconditional release of the indemnified party from all liability with respect thereto or that impose any liability 
+ or obligation on the indemnified party or adversely affect the indemnified party without the prior write 
+ consent of the indemnified party , which shall not be unreasonably withhold . 
+ 6.2 insurance requirement . each party agree to obtain and maintain , during the term and for five ( 5 ) year after the term , commercial 
+ general liability insurance , include product liability insurance , with minimum " a- " be well rat insurance carrier , in each 
+ case with limit of not less than five million dollar ( 5,000,000 ) per occurrence and in the aggregate . all deductible / retention 
+ will be the responsibility of the name insure . pfizer and its affiliate will be an additional insure on exact ’s commercial general 
+ liability and product liability policy , and be provide with a waiver of subrogation . to the extent of its culpability , all coverage 
+ of exact will be primary and non - contribute with any similar insurance carry by pfizer . notwithstanding any provision of this 
+ section 6.2 to the contrary , pfizer may meet its obligation under this section 6.2 through self - insurance . 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ neither party ’s insurance will be construe to create a limit of liability with respect to its indemnification obligation under this 
+ section 6 . 
+ 6.3 limitation of liability . notwithstanding anything to the contrary in this agreement , except for ( a ) 
+ indemnification obligation of a party under section 6.1 , ( b ) a breach of section 7 by a party or ( c ) 
+ the willful misconduct or gross negligence of a party , neither party nor any of its affiliate shall 
+ be liable to the other party or any of its affiliate for any special , punitive , indirect , incidental or 
+ consequential damage , include lost profit , lose revenue or penalty arise from or 
+ relate to any breach of this agreement , regardless of any notice of the possibility of such 
+ damage . 
+ 7 . confidentiality; publicity . 
+ 7.1 confidentiality . except to the extent expressly authorize by this agreement or otherwise agree in writing , the party agree that , for 
+ the term of this agreement and for five ( 5 ) year thereafter , each party ( the " receive party " ) , receive any confidential 
+ information of the other party ( the " disclose party " ) hereunder shall keep such confidential information confidential and shall 
+ not publish or otherwise disclose or use such confidential information for any purpose other than as provide for in this 
+ agreement . " confidential information " mean any technical , scientific , regulatory , commercial , business or other information 
+ provide by or on behalf of the disclosing party to the receive party pursuant to this agreement or otherwise relate to or 
+ disclose during any transaction contemplate hereby ( include information disclose prior to the effective date under a 
+ confidentiality agreement in contemplation of this agreement ) , include information relate to the term of this agreement or 
+ the product , and the scientific , regulatory or business affair or other activity of either party; provide that , confidential 
+ information shall not include any information that the receive party can establish : 
+ ( a ) be already know to the receive party ( other than under an obligation of confidentiality ) , at the time of disclosure by the 
+ disclose party and such receive party have documentary evidence to that effect; 
+ ( b ) be generally available to the public or otherwise part of the public domain at the time of its disclosure to the receive party; 
+ ( c ) become generally available to the public or otherwise part of the public domain after its disclosure or development , as the case 
+ may be , and other than through any act or omission of a party in breach of this confidentiality obligation; 
+ ( d ) be disclose to that party , other than under an obligation of confidentiality , by a third party who have no obligation , directly 
+ or indirectly , to the disclosing party , not to disclose such information to others; or 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( e ) be independently discover or develop by or on behalf of the receive party without the use of the confidential 
+ information belong to the other party and the receive party have documentary evidence to that effect . 
+ 7.2 authorize disclosure and use . 
+ ( a ) disclosure . notwithstanding the forego section 7.1 , each party may disclose to third party confidential information 
+ belong to the other party to the extent such disclosure be reasonably necessary to : 
+ ( i ) prosecute or defend litigation , 
+ ( ii ) exercise or enforce right hereunder; provide that such disclosure be cover by term of confidentiality no less 
+ stringent than those set forth herein , and 
+ ( iii ) comply with inquire by a governmental authority or subpoena issue by a governmental authority or a court of 
+ competent jurisdiction . 
+ in the event a party shall deem it necessary to disclose pursuant to this section 7.2 confidential information belong 
+ to the other party , the disclosing party shall to the extent possible give reasonable advance notice of such disclosure to 
+ the other party and take reasonable measure to ensure confidential treatment of such information . 
+ ( b ) use . notwithstanding the forego section 7.1 , during the term , each party shall have the right to use the other party ’s 
+ confidential information in carry out its respective responsibility under this agreement . 
+ 7.3 certain regulatory filing . either party may disclose the term of this agreement to the extent require , in the reasonable opinion of 
+ such party ’s legal counsel , to comply with applicable law , include the rule and regulation promulgate by the united 
+ state securities and exchange commission or by any stock exchange or regulatory body to which the party be subject . before 
+ disclose this agreement or any of the term hereof pursuant to this section 7.3 , the party will consult with one another 
+ regard the term in this agreement to be redact in make any such disclosure . if a party disclose this agreement or any of 
+ the term hereof in accordance with this section 7.3 , such party agree , at its own expense , to seek confidential treatment of 
+ portion of this agreement or such term , as may be reasonably request by the other party . 
+ 7.4 public announcement . the party shall agree upon a joint press release to announce the execution of this agreement , a copy of 
+ which be attach as exhibit 7.4.neither party shall issue any news release or other public announcement relate to this 
+ agreement except as set forth in exhibit 7.4 , include any of its term , or to the performance of either party hereunder , without 
+ the prior write approval of the other party; provide that nothing in this agreement shall prohibit exact from make require 
+ disclosure or filing require by applicable law or by the rule 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ and regulation of any security exchange . once the text or substance of any announcement have be so approve , it may be 
+ repeat without further approval . 
+ 7.5 use of name . except as describe in this agreement and as may be require by applicable law , neither party shall distribute or have 
+ distribute any publicity or information which bear the name of the other without the prior write approval of the other . 
+ 8 . term and termination . 
+ 8.1 term . this agreement shall be effective as of the effective date and shall continue in effect through december 31 , 2021 and any 
+ renewal term ( the " term " ) , unless terminate early as set forth herein . 
+ 8.2 renewal . this agreement may be renew for an additional one year term ( " renewal term " ) upon mutual write agreement of the 
+ party . ninety ( 90 ) day prior to the beginning of the renewal term , or as far in advance as practicable if the party agree to a 
+ renewal term less than ninety ( 90 ) day prior the commencement of such renewal term , the party shall agree to a baseline 
+ laboratory service revenue , baseline m&p expense and share m&p expense for the renewal term . all other term of this 
+ agreement shall remain the same through the renewal term . 
+ 8.3 termination for cause . this agreement may be terminate at any time by either party effective : 
+ ( a ) upon thirty ( 30 ) day prior write notice if the other party fail to make the require investment pursuant to section 3.5 or 
+ 3.6 , as applicable , or pay any amount properly due under this agreement; provide that neither party may terminate if 
+ the failure of the other party to meet the investment requirement under section 3.5 or 3.6 , as applicable , be de minimis 
+ or not material; provide , far , that any such termination shall only become effective if the allegedly breach party 
+ fail to remedy or cure such breach or default prior to the end of such thirty ( 30 ) day period . if , prior to the end of such 
+ thirty ( 30 ) day period , the allegedly breach party remedy or cure such breach or default to the reasonable 
+ satisfaction of the non - breaching party , this agreement shall remain in full force and effect; 
+ ( b ) upon sixty ( 60 ) day prior write notice if the other party materially breach its representation , warranty or obligation 
+ under this agreement; provide , however , that any such termination shall only become effective if the allegedly 
+ breach party fail to remedy or cure such breach or default prior to the end of such sixty ( 60 ) day period . if , prior to 
+ the end of such sixty ( 60 ) day period , the allegedly breach party remedy or cure such breach or default to the 
+ reasonable satisfaction of the non - breaching party , this agreement shall remain in full force and effect; 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ ( c ) immediately upon the filing or institution of bankruptcy , reorganization , liquidation or receivership proceeding , or upon an 
+ assignment of a substantial portion of the asset for the benefit of creditor by the other party; provide , however , that 
+ in the case of any involuntary bankruptcy proceed such right to terminate shall only become effective if the party 
+ consent to the involuntary bankruptcy; or 
+ ( d ) immediately upon notice to the other party , if such party ( the " violate party " ) be convict of violate any applicable law , 
+ include applicable anti - corruption law , bribery and corruption of public official as well as private person and 
+ entity , in connection with its activity under this agreement and such violation materially adversely affect the ability 
+ of either party to perform its obligation under this agreement . the violating party shall be liable for damage or 
+ remedy as provide by law . 
+ 8.4 termination without cause . after the date that be eighteen ( 18 ) month after the effective date , either party may terminate this 
+ agreement upon six ( 6 ) month prior write notice to the other party . 
+ 8.5 mutual termination . this agreement may be terminate at any time by mutual write consent of the party . 
+ 8.6 termination for change of control . this agreement may be terminate by either party upon six ( 6 ) month write notice follow a 
+ change of control of exact; provide that such notice be give within thirty ( 30 ) day of the consummation of such change of 
+ control . 
+ 8.7 royalty upon expiration . after the expiration of the term or termination pursuant to section 8.4 by either party or section 8.6 by exact , 
+ base on cumulative incremental laboratory service revenue achieve during the term or up to the termination date , exact 
+ agree to pay pfizer the applicable royalty payment set forth below for twelve ( 12 ) consecutive calendar quarter follow the 
+ expiration of the term ( the " tail period”); provide , however , the tail period shall be reduce to the number of full calendar 
+ quarter complete during the term if less than twelve ( 12 ) calendar quarter if either party terminate the agreement without 
+ cause pursuant to section 8.4 or exact terminate as a result of a change of control pursuant to section 8.6 . such royalty 
+ payment shall be payable to pfizer within thirty ( 30 ) day of the end of each calendar quarter . royalty payment shall be 
+ determine by multiply the laboratory service revenue and the applicable royalty rate from the chart below . 
+ cumulative incremental laboratory 
+ service revenue during the term 
+ applicable royalty rate 
+ if < 200 million 
+ 0 
+ if > 200 million and < 400 million 
+ 1 
+ if > 400 million and < 600 million 
+ 2 
+ if > 600 million 
+ 3 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ for example , if the cumulative incremental laboratory service revenue achieve during the term be 500 million , the applicable 
+ royalty rate be 2 . the royalty payable by exact to pfizer at the end of each calendar quarter after the term be 2 of laboratory 
+ service revenue for the applicable calendar quarter . 
+ 8.8 consequence of termination . 
+ ( a ) in the event of any termination under this agreement , ( i ) pfizer shall have no obligation to invest share m&p expense 
+ pursuant to section 3.5 as of the effective date of the termination ( except as set forth below ) , ( ii ) pfizer shall cease to 
+ make any commitment under section 3.2(d ) as of the date of notice of termination , unless exact notifie pfizer pursuant 
+ to section 8.8(b ) and ( iii ) neither party shall have any obligation to reimburse the other party for any expense for 
+ activity conduct after the effective date of such termination unless such expense be incur prior to termination . 
+ notwithstanding the above , exact agree to pay any financial commitment make by pfizer pursuant to section 3.2(d ) and 
+ exhibit 3.2(d ) to third party follow the effective date of termination; provide that such amount conform with the 
+ then - current annual marketing plan , include the budget . 
+ ( b ) exact shall use commercially reasonable effort to provide six ( 6 ) month notice prior to the expiry of the term , or in the case of 
+ termination by pfizer under section 8.4 , within the applicable notice period in advance of the effective date of such 
+ termination , that exact intend for pfizer to continue provide advertising service for the product pursuant to section 
+ 3.2(d ) . thereafter , the party will use good faith effort to agree to the advertising service that will be provide by 
+ pfizer during the tail period in accordance with section 3.2(d ) and exhibit 8.8(b ) . for clarity , pfizer ’s obligation to provide 
+ advertising service during the tail period be limit to the expiry of the term or termination by pfizer pursuant to 
+ section 8.4 , or termination by exact pursuant to section 8.3 . 
+ ( c ) in the event exact terminate this agreement for cause pursuant to section 8.3 or pfizer terminate this agreement without 
+ cause pursuant to section 8.4 , exact shall not be obligate to pay pfizer a supplemental promotion fee pursuant to 
+ section 4.2(c ) for the calendar year , or any portion of such calendar year in which such termination occur . 
+ 8.9 survival of certain obligation . expiration or termination of the agreement shall not relieve the party of any obligation accrue 
+ before such expiration or termination , and the provision of section 1 ( definition ) , 2.5 ( alliance manager ) , 3.2(d ) 
+ ( advertising ) , 3.2(e)(iii ) ( return of training material ) , 3.2(j ) ( customer service activities; safety reporting ) , 4.4 ( taxis and 
+ withholding); 4.7 ( maintenance of records; audit ) , 6 ( indemnification; limitation of liability; insurance ) , 7 ( confidentiality; 
+ publicity); 8 ( term and termination ) and 9 ( miscellaneous ) inclusive , shall survive the expiration of the agreement . any 
+ expiration or early termination of this agreement shall be without prejudice to the 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ right of either party against the other accrue or accruing under this agreement before termination . 
+ 9 . miscellaneous . 
+ 9.1 interpretation . except where the context expressly require otherwise , ( a ) the use of any gender herein will be deem to encompass 
+ reference to either or both gender , and the use of the singular will be deem to include the plural ( and vice versa ) , ( b ) the 
+ word " include " , " include " and " include " will be deem to be follow by the phrase " without limitation " , ( c ) the word " will " 
+ will be construe to have the same meaning and effect as the word " shall " , ( d ) any reference herein to any person will be 
+ construe to include the person ’s successor and assign , ( e ) the word " herein " , " hereof " and " hereunder " , and word of 
+ similar import , will be construe to refer to this agreement in its entirety and not to any particular provision hereof , ( f ) all 
+ reference herein to section or exhibit will be construe to refer to section or exhibit of this agreement , and reference to 
+ this agreement include all exhibit hereto , ( g ) the word " notice " mean notice in write ( whether or not specifically state ) and 
+ will include notice , consent , approval and other write communication contemplate under this agreement , ( h ) provision 
+ that require a party , the party or any committee hereunder to " agree , " " consent " or " approve " or the like will require that such 
+ agreement , consent or approval be specific and in writing , whether by write agreement , letter , approve minute or otherwise 
+ ( but exclude text and instant messaging ) , ( i ) reference to any specific law , rule or regulation , or article , section or other division 
+ thereof , will be deem to include any amendment thereto or any replacement or successor law , rule or regulation thereof , and ( j ) 
+ the term " or " will be interpret in the inclusive sense commonly associate with the term " and/or . " 
+ 9.2 assignment . this agreement may not be assign or otherwise transfer , nor may any right or obligation hereunder be assign or 
+ transfer , by either party without the prior write consent of the other party . notwithstanding the foregoing , either party may , 
+ without consent of the other party , assign this agreement and its right and obligation hereunder in whole or in part to an 
+ affiliate of such party , or in whole to its successor in interest in connection with the sale of all or substantially all of its stock or 
+ its asset to which this agreement relate , or in connection with a merger , acquisition or similar transaction . any attempt 
+ assignment not in accordance with the foregoing shall be null and void and of no legal effect . any permit assignee shall 
+ assume all assign obligation of its assignor under this agreement . the term and condition of this agreement shall be 
+ bind upon , and shall inure to the benefit of , the party and their respected successor and permit assign . 
+ 9.3 further action . each party agree to execute , acknowledge and deliver such further instrument , and to do all such other act , as may 
+ be necessary or appropriate in order to carry out the purpose and intent of the agreement . 
+ 9.4 force majeure . each party will be excuse from the performance of its obligation under this agreement to the extent that such 
+ performance be prevent by force 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ majeure ( define below ) and the nonperforme party promptly provide notice of the prevention to the other party . such excuse 
+ will be continue so long as the condition constitute force majeure continue and the nonperforme party take commercially 
+ reasonable effort to remove the condition; provide that if any delay in performance due to force majeure continue for a period 
+ of six ( 6 ) month or more , then the other party will have the right to terminate this agreement immediately upon write notice . 
+ for purpose of this agreement , " force majeure " will include condition beyond the control of the party , include an act of 
+ god , voluntary or involuntary compliance with any regulation , law or order of any government , war , act of terror , civil commotion , 
+ labor strike or lock - out , epidemic , failure or default of public utility or common carrier , destruction of production facility or 
+ material by fire , earthquake , storm or like catastrophe . 
+ 9.5 notice . all notice and other communication require or permit hereunder ( include any notice of force majeure , breach , 
+ termination , change of address , etc . ) shall be in writing and will be deem give ( a ) upon receipt if deliver personally or by 
+ facsimile transmission ( receipt verified ) , ( b ) five ( 5 ) day after be deposit in the mail if mail by registered or certify mail 
+ ( return receipt request ) postage prepay or ( c ) on the next business day if send by overnight delivery use a nationally 
+ recognize express courier service and specify next business day delivery ( receipt verified ) , and will be send to the party at 
+ the follow address or facsimile number , as applicable , ( or at such other address or facsimile number for a party as will be 
+ specify by like notice; provide , however , that notice of a change of address will be effective only upon receipt thereof ): 
+ all correspondence to pfizer shall be address as follow : 
+ pfizer inc . 
+ 235 east 42nd street 
+ new york , new york 10017 attn : general counsel 
+ fax : ( 212 ) 309 - 0874 
+ with a copy to : 
+ pfizer inc . 
+ 235 east 42 street 
+ new york , new york 10017 
+ attn : regional president , north america , internal medicine 
+ and 
+ pfizer inc . 
+ 235 east 42 street 
+ new york , new york 10017 
+ attn : chief counsel , internal medicine 
+ all correspondence to exact shall be address as follow : 
+
+ nd 
+ nd 
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ exact science corporation 
+ 441 charmany drive 
+ madison , wisconsin 53719 
+ attn : general counsel 
+ fax : ( 608 ) 284 - 5701 
+ with a copy to : 
+ exact science corporation 
+ 441 charmany drive 
+ madison , wisconsin 53719 
+ attn : ceo 
+ 9.6 amendment . no amendment , modification or supplement of any provision of this agreement shall be valid or effective unless make in 
+ a writing sign by a duly authorize officer of each party and deliver to each of the party . 
+ 9.7 waiver . no provision of the agreement shall be waive by any act , omission or knowledge of a party or its agent or employee except 
+ by an instrument in write expressly waive such provision and sign by a duly authorize officer of the waive party . the 
+ failure of either party to require the performance of any term of this agreement , or the waiver of either party of any breach of this 
+ agreement , shall not prevent a subsequent exercise or enforcement of such term or be deem a waiver of any subsequent 
+ breach of the same or any other term of this agreement . 
+ 9.8 severability . if any clause or portion thereof in this agreement be for any reason hold to be invalid , illegal or unenforceable , the same 
+ shall not affect any other portion of this agreement , as it be the intent of the party that this agreement shall be construe in 
+ such fashion as to maintain its existence , validity and enforceability to the great extent possible . in any such event , this 
+ agreement shall be construe as if such clause of portion thereof have never be contain in this agreement , and there shall be 
+ deem substitute therefor such provision as will most nearly carry out the intent of the party as express in this agreement 
+ to the full extent permit by applicable law . 
+ 9.9 descriptive heading . the descriptive heading of this agreement be for convenience and reference purpose only , and shall be of 
+ no force or effect in construe or interpret any of the provision of this agreement . 
+ 9.10 govern law . this agreement shall be govern by and interpret in accordance with the substantive law of the state of new 
+ york , without regard to conflict of law principle thereof . 
+ 9.11 dispute resolution . the party recognize that a bona fide dispute as to certain matter may from time to time arise during the term of 
+ this agreement that relate to any party ’s right or obligation hereunder . in the event of the occurrence of any dispute arise out 
+ of or relate to this agreement ( other than a dispute jsc 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ matter , which shall be resolve as provide in section 2.1 , a dispute joc matter , which shall be resolve as provide in section 
+ 2.2 and dispute jrc matter , which shall be resolve as provide in section 2.3 ) , include any question regard its existence , 
+ validity or termination ( a " dispute " ) , any party may , by write notice to the other , have such dispute refer to their respective 
+ senior officer or such senior officer ’s designee , for attempt resolution by good faith negotiation within thirty ( 30 ) day after 
+ such notice be receive . any negotiation regard a dispute be confidential and shall be treat as compromise and settlement 
+ negotiation for purpose of the u.s . federal rule of evidence and any similar rule of evidence . 
+ 9.12 entire agreement of the party . this agreement constitute and contain the complete , final and exclusive understanding and 
+ agreement of the party and cancel and supersede any and all prior negotiation , correspondence , understanding and 
+ agreement , whether oral or write , among the party respect the subject matter hereof and thereof . 
+ 9.13 independent contractor . both party be independent contractor under this agreement . nothing herein contain shall be deem 
+ to create an employment , agency , joint venture or partnership relationship between the party hereto or any of their agent or 
+ employee , or any other legal arrangement that would impose liability upon one party for the act or failure to act of the other 
+ party . neither party shall have any express or imply power to enter into any contract or commitment or to incur any liability 
+ in the name of , or on behalf of , the other party , or to bind the other party in any respect whatsoever . neither party shall have any 
+ responsibility for the hiring , termination , compensation or benefit of the other party ’s employee . 
+ 9.14 no legal advice . each party acknowledge and agree that the other party and the other party ’s attorney be not represent such 
+ party during the course of or in connection with any activity under this agreement and that , unless otherwise expressly agree 
+ in writing by the other party ’s attorney , any opinion express by the other party or the other party ’s attorney with respect to 
+ any marketing or promotional material or the activity of either party under this agreement shall not be consider to be legal 
+ advice regardless of whether or not relate to a legal or regulatory matter . 
+ 9.15 counterpart . this agreement may be execute in two ( 2 ) counterpart , each of which will be an original and both of which will 
+ constitute together the same document . counterpart may be sign and deliver by facsimile or digital file , each of which will 
+ be bind when receive by the applicable party . 
+ ( remainder of page intentionally leave blank ) 
+
+ source : exact sciences corp , 8 - k , 8/22/2018 
+ in witness whereof , duly authorize representative of the party have duly execute this agreement to be effective as of the 
+ effective date . 
+ pfizer inc . 
+ exact science corporation 
+ by /s/ michael gladstone 
+ by /s/ kevin conroy 
+ name : michael gladstone 
+ name : kevin conroy 
+ title : global president , internal medicine 
+ title : chairman & chief executive officer 
+ pfizer innovative health 
+ signature page 
+ source : exact sciences corp , 8 - k , 8/22/2018

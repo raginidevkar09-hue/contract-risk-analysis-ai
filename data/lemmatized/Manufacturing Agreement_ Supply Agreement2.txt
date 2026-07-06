@@ -1,0 +1,274 @@
+exhibit 10.36 
+ [ pursuant to item 601(b)(10 ) of regulation s - k , certain confidential portion of this exhibit have be omit by mean of mark such portion 
+ with asterisk as the identify confidential portion ( i ) be not material and ( ii ) would be competitively harmful if publicly disclose . ] 
+ manufacturing and supply agreement 
+ ( da-9801 license product ) 
+ between 
+ dong - a st co. , ltd . 
+ and 
+ neurobo pharmaceuticals , inc . 
+ date : september 28 , 2018 
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019 
+ manufacturing and supply agreement 
+ ( da-9801 license product ) 
+ this manufacturing and supply agreement ( this " agreement " ) be make and enter into as of september 28 , 2018 ( " effective 
+ date " ) by and between : 
+ dong - a st co. , ltd . , a corporation duly incorporate under the law of the republic of korea , have its principal place of business at 64 
+ cheonho - daero , dongdaemun - gu , seoul 02587 , republic of korea ( " dong - a " ) and 
+ neurobo pharmaceuticals , inc . , a corporation duly incorporate under the law of the state of delaware , have its principal place of 
+ business at 177 huntington avenue , suite 1700 , boston , ma 02115 , u.s.a . ( " neurobo " ) . 
+ recital 
+ whereas , dong - a and neurobo enter into the license agreement ( da-9801 ) date january 18 , 2018 , as amend by the amendment 
+ to license agreement ( da-9801 ) date april 18 , 2018 ( the " license agreement " ) whereby dong - a grant to neurobo an exclusive license under 
+ the licensed technology in the field and in the territory , to make , use , offer to sell , sell and import the licensed product ( as define by the 
+ license agreement); 
+ whereas , neurobo wish that dong - a manufacture and supply to neurobo the entire requirement of the licensed product and their 
+ matching placebo for the purpose of research and development of the licensed product , include the use in phase iii clinical trial to be 
+ conduct by neurobo for the purpose of obtain the nda in the territory , pursuant to the license agreement; 
+ whereas , neurobo wish that dong - a supply to neurobo the licensed product and their matching placebo already manufacture by 
+ dong - a as of the effective date in compliance with the korea good manufacturing practice promulgate by the governmental authority in the 
+ republic of korea ( the " kgmp " ) and the licensed product and/or their match placebo to be manufacture by dong - a after the effective date 
+ in compliance with the kgmp; and 
+ whereas , dong - a agree ( i ) to supply to neurobo the licensed product and their matching placebo already manufacture by dong - a 
+ as of the effective date in compliance with the kgmp , and ( ii ) to manufacture and supply to neurobo the licensed product and their matching 
+ placebo in compliance with the kgmp , and neurobo agree to purchase from dong - a , the licensed product and/or their match placebo for 
+ research and development , on the term and condition hereinafter set forth . 
+ now , therefore , in consideration of the foregoing premise and the mutual covenant contain herein and other good and valuable 
+ consideration , the receipt and sufficiency of which be hereby acknowledge , dong - a and neurobo mutually agree as follow : 
+ 1 . definition 
+ unless otherwise define in this agreement , the capitalize term utilize herein shall have 
+
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019 
+ the same meaning as define in the license agreement . 
+ 2 . manufacture and supply 
+ 2.1 subject to the provision hereof , dong - a shall ( i ) supply to neurobo the licensed product and their matching placebo already 
+ manufacture by dong - a as of the effective date in compliance with the kgmp , and ( ii ) manufacture in compliance with the kgmp and in 
+ conformity with the specification separately agree upon between the party and attach hereto as exhibit a ( the " product specification " ) 
+ and supply to neurobo the licensed product and/or their matching placebo , and neurobo shall purchase from dong - a the entire requirement of 
+ the licensed product and/or their match placebo for research and development of the licensed product under the license agreement . 
+ 2.2 neurobo shall manufacture , or have manufacture , and supply to dong - a the active pharmaceutical ingredient ( api ) , which be 
+ necessary to manufacture the licensed product , in the quantity and in conformity with the specification separately agree upon between the 
+ party and attach hereto as exhibit c ( the " api specification " ) as may be amend by the party ’s agreement in write from time to time . 
+ 2.3 neurobo shall , at its cost and expense , deliver the api to the place designate by dong - a no later than [ ] day prior to the 
+ request delivery date for the licensed product and/or their match placebo in accordance with the firm order . 
+ 2.4 within [ ] day after receipt of the api from neurobo , dong - a shall perform quality control test ( the " api test " ) in accordance with 
+ the method of the api test on such api for acceptance ( the " api test method " ) , which shall be separately agree in writing by and between the 
+ party and attach hereto as exhibit d " ) as may be amend by the party ’s agreement in write from time to time . neurobo shall provide 
+ dong - a with all available information and technical assistance necessary for dong - a to perform the api test expeditiously . if the api test 
+ indicate that the api be deficient in quantity or do not meet the api specification , dong - a shall notify neurobo thereof in write within the 
+ [ ] -day period together with result of the api test . if the quantity be deficient , neurobo shall , as soon as commercially reasonable , ship , or have 
+ ship , the sufficient amount of additional api to cover the deficiency . if the api do not meet the api specification , neurobo shall retrieve the 
+ api at its own expense and replace the api at no additional cost to dong - a. 
+ 2.5 upon [ ] day ' notice and at time mutually agree upon by the party during dong - a ’s normal business hour , but no more 
+ frequently than [ ] every year during the term of this agreement , neurobo may , at its cost and expense , inspect dong - a ’s manufacturing 
+ facility where the licensed product be manufacture . within [ ] day after the completion of the inspection , neurobo shall provide a write 
+ report detail the result of such audit to dong - a. in case of any inspection by any governmental authority of dong - a ’s manufacturing facility 
+ where the licensed product be manufacture , neurobo shall promptly provide dong - a with a notice of the inspection and all notice , 
+ correspondence and relate document receive from or send to the applicable governmental authority . dong - a shall permit such governmental 
+ authority to inspect the facility to the full extent permit by law and shall make its [ ] and cooperate with the governmental authority in 
+ conduct the inspection . neurobo shall provide 
+
+ such assistance as reasonably request by dong - a for the preparation of and during such inspection and furnish dong - a with copy of all 
+ report and notice receive as a result of any such inspection . neurobo agree that dong - a shall not be obligate to correct any deficiency 
+ document by the governmental authority as a result of any such inspection . neurobo far agree that it shall not hold dong - a responsible 
+ nor shall bring any claim or action against dong - a for any such deficiency and/or cost or damage neurobo may incur result therefrom . 
+ upon request of dong - a , the party may discuss in good faith a plan for neurobo to assist in correct such deficiency and the term and 
+ condition for implement the corrective action under such plan . 
+ 2.6 the party acknowledge and agree that prior to commercialization of the licensed product by neurobo , its affiliate and/or 
+ sublicensee , the party shall , in good faith , negotiate the term and condition for , include , without limitation , the supply price , and enter into a 
+ definitive non - exclusive supply agreement pursuant to which dong - a shall supply to neurobo the licensed product for the commercialization by 
+ neurobo , its affiliate and/or sublicensee of the licensed product in the field in the territory pursuant to the license agreement . 
+ 2.7 in case neurobo request dong - a to conduct any additional activity , include testing ( e.g. amv , pv ) , documentation ( e.g. cmc 
+ packaging ) , which neurobo require for obtain the nda for the licensed product in the territory , the party shall , in good faith , negotiate the 
+ term and condition , include , without limitation , the cost and expense for conduct such additional testing activity of the licensed 
+ product and/or their matching placebo . for any such activity , neurobo shall pay to dong - a [ ] ( [ ] ) of the fee as agree by the party 
+ within [ ] day prior to conduct such activity by dong - a , and shall pay the balance due within [ ] day after delivery by dong - a to 
+ neurobo of the deliverable as agree by the party . 
+ 3 . ordering and delivery 
+ 3.1 neurobo shall submit to dong - a an order for the licensed product and/or their matching placebo no later than [ ] day prior to the 
+ request delivery date thereof . for each order , neurobo shall be obligate to order the licensed product and/or their match placebo in [ ] 
+ tablet . neurobo acknowledge and agree that certain quantity of the licensed product and/or their match placebo from each batch order 
+ shall be retain by dong - a for use in the stability test and as retention sample , and neurobo shall order the licensed product and/or their 
+ matching placebo in consideration of such quantity to be retain by dong - a. each order shall specify at least ( i ) the quantity of the licensed 
+ product and/or their matching placebo , ( ii ) the specification of the licensed product and/or their matching placebo , include the specific of 
+ packaging , ( iii ) the expect delivery date for the api , ( iv ) the request delivery date for the licensed product and/or their matching placebo , ( v ) 
+ the shipment term for the licensed product and/or their match placebo and ( vi ) the supply price for the licensed product and/or their 
+ matching placebo . upon receipt of the order from neurobo , dong - a shall promptly acknowledge the receipt of such order . no order shall be 
+ bind upon the party until agree in writing by dong - a and neurobo; provide , however , that such agreement shall not be unreasonably 
+ withhold or delay . upon such agreement , the order shall be deem to be the " firm order " which shall be bind and may only be revise by 
+ agreement of the party in writing . dong - a shall deliver the licensed product and/or their match placebo to neurobo in accordance with the 
+ firm 
+
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019 
+ order on the shipment term of [ ] manufacturing facility of dong - a ( icc incoterm 2010 ) , include the delivery date and place set forth therein , 
+ within the later of ( i ) [ ] day after the date of the firm order and ( ii ) [ ] day after the date of acceptance by dong - a of the api . 
+ 3.2 dong - a shall supply neurobo with the licensed product and/or their match placebo together with a certificate of analysis , as 
+ describe in the product specification , for each batch of the licensed product and/or their matching placebo ship hereunder certify that 
+ such batch of the licensed product and/or their match placebo meet the product specification . 
+ 3.3 within [ ] day after receipt of the licensed product and/or their match placebo hereunder , neurobo may , in its discretion , 
+ perform a quality control test ( the " product test " ) in accordance with the method of the test on such licensed product and/or their matching 
+ placebo for acceptance ( the " product test method " ) , which shall be separately agree in writing by and between dong - a and neurobo and 
+ attach hereto as exhibit b , as may be amend by the party ’ agreement in write from time to time . dong - a shall provide neurobo with all 
+ available information and technical assistance necessary for neurobo to perform the product test expeditiously . if the product test indicate that 
+ the licensed product and/or their matching placebo be deficient in quantity or do not meet the product specification , neurobo shall notify 
+ dong - a thereof in write within the [ ] -day period together with result of the product test . if the quantity be deficient , dong - a shall 
+ immediately ship the sufficient amount of additional licensed product and/or their match placebo to cover the deficiency . if dong - a do not 
+ agree that the licensed product and/or their matching placebo do not meet the product specification , the party shall refer their disagreement 
+ for decision by an independent testing laboratory agree by the party . the decision by the independent testing laboratory shall be conclusive 
+ and bind on both party , and the lose party shall bear the cost of the independent testing laboratory . if dong - a agree that the licensed 
+ product and/or their matching placebo do not meet the product specification , or if the decision by the testing laboratory confirm that the 
+ license product and/or their matching placebo do not meet the product specification , ( i ) dong - a shall arrange for the return from neurobo of 
+ the licensed product and/or their match placebo at dong - a ’s expense , and ( ii ) without wait for the return , dong - a shall promptly replace 
+ the licensed product and/or their match placebo at no additional cost to neurobo . 
+ 4 . term and condition of sale 
+ 4.1 the term and condition of sale and purchase of the licensed product and/or their match placebo between dong - a and neurobo 
+ shall be set forth in each firm order . 
+ 4.2 the supply price for the licensed product and their matching placebo shall be specify in schedule 4.2 . 
+ 4.3 upon agreement by the party of the firm order , dong - a shall issue to neurobo an invoice in korean win for each shipment of the 
+ license product and/or their match placebo base on the firm order . unless otherwise agree in writing by dong - a , neurobo shall pay the 
+ invoice supply price ( i ) in korean won ( krw ) or ( ii ) in united states dollar ( usd ) which amount shall correspond the invoice amount 
+ convert from krw to usd at the exchange rate of the payment date , no later than [ ] day prior to the shipment date by way of wire transfer 
+
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019 
+ to dong - a. neurobo shall be responsible for and pay all wire transfer fee incur in the territory . if dong - a do not receive payment of any 
+ sum due to it on or before the due date , [ ] interest shall thereafter accrue on the sum due to until the date of payment at the [ ] rate of [ ] 
+ percent ( [ ] ) over the then - current prime rate quote by citibank in new york , new york or the maximum rate allowable by new york law , 
+ whichever be low . 
+ 4.4 dong - a shall not be responsible for any taxis levy on account of the payment under this agreement . in the event that any taxis be 
+ require to be pay on account of any payment hereunder , neurobo shall pay all such taxis . 
+ 4.5 in perform its obligation under this agreement , neurobo shall , and shall cause its affiliate and sublicensee to , comply with all 
+ applicable law , include any applicable anti - corruption or anti - bribery law or regulation , of any governmental authority with jurisdiction over the 
+ activity perform by neurobo or its affiliate or sublicensee in furtherance of such obligation . 
+ 5 . term and termination 
+ 5.1 this agreement shall commence on the effective date and , unless early terminate , shall continue in full force and effect for a period of 
+ [ ] year thereafter . 
+ 5.2 this agreement shall automatically terminate in case the license agreement be terminate for any reason specify therein . 
+ 5.3 a party may terminate this agreement by notice to the other party if the other party be in material breach of any provision of this 
+ agreement , and 
+ ( a ) the breach party have not cure the breach within [ ] day after receive notice from the terminate party; or 
+ ( b ) if the breach can not reasonably be cure within the [ ] -day period , the breach party have not start to remedy the breach 
+ within the [ ] -day period and diligently endeavor to cure the breach within a reasonable time thereafter . 
+ 5.4 either party may terminate this agreement immediately upon notice to the other party in the event that ( a ) the other party be the subject 
+ of a petition for bankruptcy , reorganization , or arrangement , whether voluntary or involuntary , and the same be not dismiss within thirty ( 30 ) day 
+ thereof , ( b ) a receiver or trustee be appoint for all or a substantial portion of the asset of the other party , or ( c ) the other party make an 
+ assignment for the benefit of its creditor . 
+ 5.6 the termination or expiration of this agreement , in whole or in part , shall be without prejudice to the right of either dong - a and neurobo 
+ to receive all payment accrue and unpaid at the effective date of such termination or expiration , without prejudice to the remedy of either dong - a 
+ and neurobo in respect to any previous breach of any of the representation , warranty , covenant or obligation herein contain and without 
+ prejudice to any other provision hereof which expressly or necessarily call for performance after such termination or expiration . 
+
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019 
+ 6 . govern law 
+ the law of the state of new york ( without give effect to its conflict of law principle ) govern all matter arise out of or relate to 
+ this agreement and all of the transaction it contemplate , include without limitation , its validity , interpretation , construction , performance , and 
+ enforcement . 
+ 7 . notice 
+ all notice , consent , and approval under this agreement must be deliver in writing by courier , electronic facsimile ( fax ) , or certify or 
+ register mail , ( postage prepay and return receipt request ) to the other party; and shall be effective upon receipt or three ( 3 ) business day 
+ after be deposit in the mail , whichever occur soon . notice to the party shall be send to the address set forth at the beginning of this 
+ agreement . notice of change of address shall be give in the same manner as other communication . 
+ 8 . incorporation by reference 
+ article or section 8.2 ( limitation of liability ) , 9 ( indemnification ) , 12.2 ( force majeure ) , 12.3 ( assignment ) , 12.4 ( severability ) , 12.6 ( remedy ) , 
+ 12.8 ( submission to jurisdiction / waiver of jury trial ) , 12.9 ( independent contractor / no agency ) , 12.10 ( entire agreement ) of the license 
+ agreement shall be deem to be incorporate herein by reference as it be set forth in this agreement 
+ < signature page follow . > 
+
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019 
+ in witness whereof , the party hereto have duly execute this agreement as of the effective date . 
+ dong - a st co. , ltd . 
+ by : 
+ /s/ daesik eom 
+ daesik eom , chairman and ceo 
+ neurobo pharmaceuticals , inc . 
+ by : 
+ /s/ john l. brooks , iii 
+ john l. brooks iii , president & ceo 
+
+ exhibit a 
+ product specification 
+ test 
+ analytical 
+ method 
+ specification requirement 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ schedule 1 - 1 
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019 
+ exhibit b 
+ product test method 
+ [ ] 
+ schedule 1 - 2 
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019 
+ exhibit c 
+ api specification 
+ test 
+ analytical 
+ method 
+ specification requirement 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ [ ] 
+ schedule 1 - 3 
+ exhibit d 
+ api test method 
+ [ ] 
+ schedule 1 - 4 
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019 
+ schedule 4.2 
+ supply price 
+ [ ] 
+ schedule 1 - 5 
+ source : neurobo pharmaceuticals , inc . , s-4 , 9/3/2019

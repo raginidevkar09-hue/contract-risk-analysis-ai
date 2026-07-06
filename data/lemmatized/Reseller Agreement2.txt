@@ -1,0 +1,312 @@
+walabot - home reseller agreement 
+ this walabot - home reseller agreement ( " agreement " ) be make and enter into as of this 31 day of july 2019 
+ ( " effective date " ) by and between vayyar imaging ltd . , have its principal place of business at 3 avraham giron st . , pob . 
+ 325 , yehud 5621717 , israel ( " supplier " ) , and inde living holding , inc . , have its principal place of business at 1462 
+ rudder lane , knoxville , tn 37919 ( " reseller " ) . vayyar and reseller shall be refer to individually as " party " and 
+ collectively as " party " . 
+ 1 . 
+ definition . the follow capitalize term shall have the following meaning : 
+ " customer " mean a third party who purchase the product from reseller within the territory , for its internal use 
+ only ( include for the personal use of its end user ) , such as nursing home . 
+ " end user " mean a third party who be a customer of customer or be otherwise relate to a customer of customer , and 
+ who purchase and/or use the product within the territory , for its personal use only . 
+ " end user agreement " mean supplier ’s standard license agreement , which be available at 
+ https://walabot.com/walabot-home , which govern each end user ’s right to use the product , as amend by supplier in 
+ its sole discretion from time to time . 
+ " moq " mean the minimum order quantity of product unit during the initial term , as set forth in schedule 1 . 
+ . 
+ " order " mean a write purchase order for product to be purchase by the reseller . 
+ " product " mean the product list in schedule 1 . 
+ " software " mean supplier ’s proprietary software component , include as part of the product , include all 
+ improvement , correction , update , upgrade and any related documentation and derivative thereof . 
+ " territory " mean the country and/or territory list in schedule 1 . 
+ appointment 
+ during the term ( define below ) and subject to the term and condition of this agreement ( include , but not limit 
+ to section 12.4 hereof ) , supplier hereby ( i ) appoint reseller , and reseller accept the appointment , as a non‐ 
+ exclusive reseller of the product in the territory . in connection with the forego appointment , supplier hereby 
+ grant reseller a non - transferable , revocable , limit right to resell , market , promote , stimulate interest in , and solicit 
+ order by customer and/or end user in the territory for the product and to provide service in connection with 
+ those activity . reseller shall be solely responsible for all of its cost and expense relate to the resale of the 
+ product . notwithstanding anything to the contrary , supplier reserve any and all right with respect to the product 
+ not expressly grant in this agreement . without limit the right of the reseller to receive any and all pay - for 
+ product ( include but not limit to under section 4.2 hereof ) , nothing in this agreement shall entitle the reseller to 
+ any priority of supply in relation to the product as against any other distributor or customer of the supplier . " paid‐ 
+ for product " mean product for which reseller submit an order , have that order accept by supplier , and for 
+ which reseller have remit payment in full to the supplier under this agreement . subject to the term of section 13 , 
+ below , it be hereby clarify that supplier may , in its sole discretion , sell the product to any other person 
+ or entity , whether within the territory or otherwise . 
+ . 
+ . 
+ . 
+ obligation of reseller 
+ by fulfil its obligation under this agreement , the reseller shall : ( i ) comply with all applicable law and regulations; 
+ ( ii ) use material and brand solely as determine by the supplier ( subject to the right of the reseller to make change 
+ to such material as be describe in section 2.4); ( iii ) attend training and sale meeting as require by the supplier , so 
+ as to be able to describe , demonstrate , and sell the product adequately; ( iv ) make sure that all the end user be 
+ sign the end user agreement , and in the event that any end user do not comply with these term , reseller shall 
+ bear all liability associate with said end user; and ( v ) make no representation or warranty with respect to the 
+ product other than those provide in the product ' documentation; 
+ supplier shall be fully responsible for ship the product to the reseller at the address of the reseller specify in 
+ each order ( or as otherwise communicate by reseller to supplier under this agreement ) and will obtain and provide 
+ for itself and/or on behalf of reseller , any and all registration , license , permit , certificate and all other 
+ documentation and information require for the exportation , importation , storage , marketing and otherwise resale of the 
+ product in the territory . for such process , supplier will allocate the additional cost on a pre - agree per product unit 
+ additional price basis , which will be subject to an increase ( subject to change in taxis ) . reseller agree to reimburse 
+ supplier for the reasonable out of pocket cost and expense incur by supplier in connection with the shipment and 
+ delivery of the product , and of obtain the foregoing registration , license , permit , certificate and other 
+ documentation , provide that supplier submit an invoice therefore in reasonable detail ( and unless and solely to the 
+ extent such reimbursement be prohibit by section 14.9 or prohibit under other applicable law ) . for the avoidance 
+ of doubt , in no way will supplier be subject to any tax ( i.e. , sale tax ) relate to the sale of the product to reseller ’s 
+ customer and/or end user . 
+ 1 . 
+ 1.1 . 
+ 1.2 . 
+ 1.3 . 
+ 1.4 . 
+ 1.5 . 
+ 1.6 . 
+ 1.7 . 
+ 1.8 . 
+ 1.9 . 
+ 2 . 
+ 2.1 . 
+ 2.2 . 
+ 2.3 . 
+ 2.4 . 
+ 3 . 
+ 3.1 . 
+ 3.2 . 
+ source : healthcare integrated technologies inc . , 8 - k , 8/12/2019 
+ diagnostic , telemetric datum and analytic . supplier will retain access to diagnostic , telemetric datum and analytic 
+ generate by the product . the datum shall be upload to supplier ’s firebase server in a timely manner . a server 
+ interface will be embed within the software package provide by the supplier . distributor will maintain supplier ’s 
+ interface to the server and access to such datum within the product; provide that the datum and analytic to be receive 
+ by the supplier shall , in all case , not be in violation of any applicable privacy or other law . 
+ order , payment and delivery 
+ . 
+ if reseller fail to submit order with an aggregate value equal to or great than the moq , then reseller shall pay 
+ supplier a sum equal to the shortfall , within 30 day after the end of the initial term . upon payment of such amount , 
+ seller shall deliver the product pay for to reseller in a commercially reasonable timeframe ( and in no event any later 
+ than 150 day from the date such payment be receive in full ) to be sell by reseller in accordance with this agreement 
+ as contemplate by the last sentence of section 12.4 . 
+ reseller shall place its order by email , at the email address set out in schedule 1 . each order shall detail the total 
+ order quantity of the product and the request date of delivery ( take into consideration up to 4 month lead time ) . 
+ within 5 business day follow the receipt of each order , supplier shall acknowledge receipt of such order . no order 
+ shall be bind upon supplier until such write acknowledgment be send by supplier to reseller; provide that 
+ supplier shall confirm or reject such order at its discretion . 
+ . 
+ packaging , sample and transportation 
+ immediately upon delivery of the product at the reseller ’s facility within the territory ( " arrival date " ) , reseller 
+ shall visually inspect the product and the appropriate document , and employ good receiving / deliver procedure , 
+ verification of the product to confirm origin , identity , quantity , label storage condition , integrity of the packaging as 
+ well as any other inspection , as may be require by applicable law or regulation . 
+ reseller shall ensure that the product be deliver with appropriate information and documentation , and shall not 
+ make any change to the product or to the packaging or labeling thereof , or to the legal document include in the 
+ product ' package , without supplier ’s prior write consent ( subject to the right of the reseller to make change to 
+ such material as be describe in section 2.4 ) . reseller shall ensure traceability of the deliver product . 
+ defective products; warranty; support 
+ . 
+ during the term supplier may extend an offer to reseller for a return discount program , whereby the supplier will 
+ rebate a percentage of the cost of good sell in lieu of accept end - user return . in the event no return discount 
+ program have be enter into by the party , supplier will not accept return product , except for case of defective 
+ product . 
+ . 
+ . 
+ intellectual property 
+ supplier shall retain all its right and title to and ownership of all intellectual property right in the product include , 
+ inter alia , all documentation , enhancement , improvement or other modification make thereof ( include those 
+ modification make in connection with section 3.1 above ) , and except as expressly provide in this agreement , reseller 
+ shall have no right , title , or interest in any intellectual property right in the product . nothing in this section shall 
+ limit the right of the reseller in or to any modification make to the software in accordance with section 2.3 . 
+ reseller shall : ( a ) not do or omit to do , nor authorize any third party to do or omit to do , any act or omission that 
+ would or might invalidate or be inconsistent with any of supplier ’s intellectual property rights; ( b ) promptly notify 
+ supplier of any actual , threaten , or suspect infringement of any of supplier ’s intellectual property right that 
+ come to reseller ’s notice; and ( c ) at supplier ’s request and expense , do all such thing as may be reasonably require 
+ to assist supplier in take or resist any proceeding in relation to any such infringement or claim . 
+ confidential information . each party agree that it will maintain the confidentiality of all electronic , oral , and write 
+ communication from the other party which should reasonably be regard in the normal commercial view , as 
+ constitute confidential information , trade secret or proprietary information ( " confidential information " ) and use 
+ such confidential information only as necessary to exercise a party ’s right or perform a party ’s obligation under this 
+ agreement . each party shall : ( i ) safeguard and keep secret all confidential information , and will not directly or 
+ indirectly disclose to any third party the confidential information without write permission of the other; and ( ii ) in 
+ perform its obligation hereunder , use at least the same degree of care as it do with respect to its own confidential 
+ information of like importance but , in any event , at least reasonable care . any information relate to the product shall 
+ be consider the supplier ’s confidential information . if either party becomes legally oblige to make disclosure of the 
+ other party ’s confidential information , that party shall immediately notify the first party and reasonably cooperate 
+ with the first party in any effort to limit or object to the disclosure . 
+ 3.3 . 
+ 4 . 
+ 4.1 . 
+ 4.2 . 
+ 4.3 . 
+ 4.4 . 
+ 5 . 
+ 5.1 . 
+ 5.2 . 
+ 6 . 
+ 6.1 . 
+ 6.2 . 
+ 6.3 . 
+ 6.4 . 
+ 7 . 
+ 7.1 . 
+ 7.2 . 
+ 8 . 
+ source : healthcare integrated technologies inc . , 8 - k , 8/12/2019 
+ disclaimer of warranty . unless specify otherwise herein ( include but not limit to 
+ the back to back warranty specify in section 6.5 ) and without limitation to any 
+ warranty which supplier may , in its sole discretion , make to any customer and/or 
+ end user , the product be provide on an " as be " and " as available " basis , and 
+ supplier do not make any warranty , express or imply , with respect to the 
+ product or its operation thereof , merchantability and fitness for a particular 
+ purpose . 
+ limitation of liability 
+ to the maximum extent permit by applicable law , in no event shall supplier be 
+ liable under , or otherwise in connection with , this agreement for : ( a ) any 
+ consequential , indirect , special , incidental , or punitive damages; ( b ) any loss of 
+ profit , loss of business , loss of revenue , or loss of anticipated savings; ( c ) any loss 
+ of , or damage to , datum , reputation , or goodwill; and/or ( d ) the cost of procure 
+ any substitute good or service . the aggregate liability of supplier under , or in 
+ connection with , this agreement shall be equal to the less of : ( i ) ; and ( ii ) . 
+ the foregoing exclusion and limitation shall apply : ( a ) even if supplier have be 
+ advise , or should have be aware , of the possibility of loss or damages; ( b ) even 
+ if any remedy in this agreement fail of its essential purpose; and ( c ) regardless of 
+ the theory or basis of liability ( include , without limitation , breach of contract , 
+ tort , negligence or strict liability ) . 
+ indemnification . reseller shall defend , indemnify and hold harmless supplier and its employee , officer , director , 
+ supplier , and successor from and against any third - party claim , suit , proceeding , damage , loss and/or liability 
+ arise from or relate to ( i ) reseller ’s breach of any provision of this agreement; and/or ( ii ) reseller ’s interaction 
+ and/or relationship with any customer and/or end user or other third party . 
+ term and termination 
+ this agreement shall become effective on the effective date and shall remain in effect for an initial period of 1 year 
+ ( " initial term " ) . thereafter , this agreement shall automatically be renew for successive 1 - year term ( each a 
+ " renewal term " , and together with the initial term , the " term " ) . follow the initial term , either party may 
+ terminate this agreement without cause upon write notice to the other party of at least 3 month . 
+ without derogate from any other remedy that any party may have under the term of this agreement or at law , each 
+ party shall have the right to terminate this agreement forthwith upon the occurrence of any of the follow : ( i ) the 
+ other party be in material breach of its obligation hereunder and fail to remedy such breach within 30 day after be 
+ request in writing to do so; or ( ii ) the other party ’s bankruptcy , insolvency , liquidation , whether voluntarily or 
+ otherwise , or if it make an assignment for the benefit of creditor . 
+ upon any termination of this agreement : ( i ) all right grant by supplier to reseller under the agreement revert to 
+ supplier; ( ii ) reseller shall transfer to supplier all datum , report and any other information generate by reseller in the 
+ course of performance of this agreement; and ( iii ) any payment obligation which have accrue or become payable prior 
+ to the date of termination ( include the payment obligation under section 4.2 ) shall survive termination of this 
+ agreement . 
+ upon termination of this agreement , the provision in section 1 , 6.5 , 7 , 8 , 9 , 10 , 11 , 12.3 , 12.4 , 13 ( but solely to the 
+ extent state in the last sentence of that section ) , and 14 shall remain in effect as necessary to carry out the purpose of 
+ those section after termination . in addition to the foregoing , if , at the time of termination of this agreement , reseller 
+ shall have additional product unit in its inventory and be able to sell they to customer and/or end user ( include , 
+ without limitation , any product unit for which reseller have or be obligate to pay the supplier the purchase price 
+ therefor but which have not yet be deliver to the reseller by supplier , which supplier hereby agree to either 
+ deliver as otherwise contemplate by this agreement as if it have not terminate or to refund the purchase price 
+ therefor ) , then the license and appointment describe in section 2 shall remain in effect with respect to such unsold 
+ product unit ( and such section 2 shall not terminate ) until the early of ( i ) the date on which the last product in 
+ reseller ’s inventory be sell to a customer and/or end user , or ( ii ) 1 year from the date of the termination of this 
+ agreement . 
+ . 
+ general 
+ supplier and/or reseller may assign or novate this agreement and the right and obligation under it to any of its 
+ affiliate or upon any merger or acquisition or the sale of all or substantially all of its asset relate to the agreement . 
+ any purport assignment of right in violation of this subsection be void . 
+ the relationship between the party be that of supplier and purchaser . reseller be an independent contractor and be not 
+ the legal representative , agent , joint venture , partner , or employee of supplier . reseller may describe itself as supplier ’s 
+ ' authorized distributor ' , but may not hold itself out as the supplier ’s agent . reseller have no authority to assume or 
+ create any obligation of any kind or to make any representation or warranty , whether express or imply , on behalf 
+ of the supplier , nor to bind the supplier in any respect . 
+ 9 . 
+ 10 . 
+ 10.1 . 
+ 10.2 . 
+ 11 . 
+ 12 . 
+ 12.1 . 
+ 12.2 . 
+ 12.3 . 
+ 12.4 . 
+ 13 . 
+ 14 . 
+ 14.1 . 
+ 14.2 . 
+ source : healthcare integrated technologies inc . , 8 - k , 8/12/2019 
+ except as to the timely payment by reseller for the product purchase under this agreement , no failure or omission 
+ to carry out or observe any provision of this agreement shall give rise to any claim by one party against the other , or 
+ be a breach of this agreement , if the same be cause by or arise out of circumstance beyond the reasonable control of 
+ the other party , include technical difficulty beyond such party ’s reasonable control that delay or prevent 
+ manufacture ( " force majeure " ) . however , the party shall endeavor to avoid , remove , or cure all such condition as 
+ soon as be reasonably feasible . if either party be prevent or hinder from carry out its obligation under this 
+ agreement due to a force majeure , this agreement shall be suspend as long as the force majeure persist . if such 
+ period exceed 1 month , either party may terminate this agreement on give write notice to the other . 
+ no failure or delay on the part of either party to exercise any right or remedy under this agreement shall be construe 
+ or operate as a waiver thereof , nor shall any single or partial exercise of any right or remedy preclude the further 
+ exercise of such right or remedy . 
+ if any provision or part of any provision of this agreement be find to be invalid or unenforceable for any reason , the 
+ other provision of this agreement shall remain in full force and effect as if the agreement have be execute without 
+ that provision or part . 
+ all notice or other communication hereunder shall be in writing and shall be give in person , by courier or by 
+ register mail ( provide that write confirmation of receipt be provide ) address as set forth in the heading of this 
+ agreement or such other address as any party may designate to the other in accordance with this procedure . all 
+ communication deliver in person or by courier service shall be deem to have be receive upon delivery , shall be 
+ deem to have be receive on the business day follow transmission with confirm answer back , and all notice 
+ and other communication send by register mail shall be deem to have be receive within 3 business day after 
+ post . 
+ this agreement shall be govern by the law of the state of new york and all dispute and controversy arise out 
+ of or in connection with the agreement shall be bring exclusively before the competent court in new york county , 
+ new york; provide however that judgment shall be enforceable in any country and that nothing in this section shall 
+ prevent or restrict either party from seek interim relief in any competent jurisdiction as it may deem fit . 
+ this agreement constitute the entire agreement between the supplier and the reseller . all previous or 
+ contemporaneous agreement , proposal , understanding , and communication between the supplier and the reseller 
+ be replace in their entirety by this agreement . in enter into this agreement , neither party have rely on any 
+ warranty , representation , or other matter other than as set out in this agreement . all condition , warranty , or 
+ other term imply by statute or common law be exclude to the full extent permit by law . this agreement may 
+ be amend only by a write instrument execute by authorize representative of the party . 
+ each of reseller and supplier will , respectively , ensure that it and its employee , agent or affiliate , or by any 
+ independent contractor on its behalf or for its benefit , shall comply with the united states ' foreign corrupt practice 
+ act of 1977 , as amend ( 15 u.s.c . § § 78dd-1 et seq . ) and any analogous anti - bribery and anti - corruption law , rule , 
+ regulation that may apply to any of the transaction contemplate under this agreement , include but not limit to in 
+ connection with the sale , resale , import , export , transportation , or shipment of the product . neither party to this 
+ agreement will make any payment , directly or indirectly , of money or other asset , include but not limit to 
+ compensation derive from this agreement or any order place under it , to government or political party official , 
+ official of international organization , candidate for public office , or representative of other business or person 
+ act on behalf of any of the foregoing , that would constitute a violation of any law , rule , or regulation . 
+ in witness whereof , the party have execute this agreement as of the effective date . 
+ vayyar imaging ltd . 
+ indelive holding , inc . 
+ by : /s/ raviv melame 
+ by : /s/ robert forrest 
+ chief executive officer 
+ chief executive officer 
+ 14.3 . 
+ 14.4 . 
+ 14.5 . 
+ 14.6 . 
+ 14.7 . 
+ 14.8 . 
+ 14.9 . 
+ source : healthcare integrated technologies inc . , 8 - k , 8/12/2019 
+ schedule 1 
+ territory , product , price , order address , notice 
+ territory 
+ usa 
+ product 
+ walabot home hardware device 
+ price 
+  per product unit + for shipment and tax ( subject 
+ to any tax change ) 
+ moq 
+  unit 
+ address to which order should be send 
+ supplier ’s order email address : logisticswalabot.com 
+ address for notice to the supplier 
+ vayyar ltd . 
+ 3 avraham giron st . , pob . 325 , 
+ yehud 5621717 , 
+ israel 
+ address for notice to reseller 
+ inde living holding , inc 
+ 1462 rudder lane 
+ knoxville , tn 37919 
+ vayyar wire transfer detail 
+
+ payment term 
+
+ source : healthcare integrated technologies inc . , 8 - k , 8/12/2019

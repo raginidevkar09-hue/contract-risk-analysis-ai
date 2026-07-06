@@ -1,0 +1,679 @@
+execution version 
+ certain identify information have be exclude from the exhibit because it be both ( i ) not material and ( ii ) would likely cause 
+ competitive harm to the company , if publicly disclose . double asterisk denote omission . 
+ development agreement 
+ this development agreement ( " this agreement " ) be enter into and effective as of september 30 , 2019 ( " effective 
+ date " ) by and between howmedica osteonics corp . , a new jersey corporation , also know as stryker orthopaedic 
+ ( " stryker " ) , and conformis , inc . , a delaware corporation have a principal place of business locate at 600 technology park 
+ drive , billerica , ma 01821 ( " conformis " ) . stryker and conformis be collectively refer to herein as the " party " and 
+ individually as a " party . " 
+ whereas , the party be concurrently enter into an asset purchase agreement for stryker ’s purchase of certain 
+ conformis asset concern patient - specific instrumentation ( " asset purchase agreement " ) , and a license agreement , a 
+ distribution agreement and a quality agreement , as define in and attach to the asset purchase agreement ( collectively , such 
+ agreement be refer to herein as the " other agreement " ) . 
+ whereas , stryker and its affiliate have develop and commercialize an off - the - shelf knee implant offer under 
+ the trademark triathlon . 
+ whereas , conformis currently offer patient - specific instrumentation for use with its patient - specific implant , 
+ include partial and total knee and hip arthroplasty . 
+ whereas , stryker desire that conformis develop , in accordance with the r&d program , certain patient - specific 
+ instrumentation to be use with the current version of the off - the - shelf knee implant offer under the trademark triathlon ( such 
+ patient - specific instrumentation as so develop , the " kib product " ) . 
+ therefore , in consideration of the mutual representation , warranty and covenant herein and in the other 
+ agreement constitute good and valuable consideration , the receipt and sufficiency of which be hereby acknowledge , the party 
+ hereby agree as follow : 
+ article I 
+ definition 
+ 1.1 definition . for purpose of this agreement , the follow term shall have the follow meaning , and to the extent 
+ not define in this section or otherwise in this agreement , a term shall have the meaning ascribe to it in any of the other 
+ agreement : 
+ source : conformis inc , 10 - q , 11/1/2019 
+ " acceptance " and " accept " have the meaning set forth in article 3.4 of this agreement . 
+ " acceptance criterion " have the meaning set forth in the r&d work plan . 
+ " acceptance notification period " have the meaning set forth in article 3.3 of this agreement . 
+ " affiliate " have the meaning set forth in the asset purchase agreement . 
+ " agent " mean third party who be act under the direction or control of a party . 
+ " applicable law " mean all applicable federal , state , local and foreign law , ordinance , rule , regulation , order , 
+ writ , injunction and decree of any kind . 
+ " asset purchase agreement " have the meaning set forth in the recital . 
+ " change of control " have the meaning set forth in the asset purchase agreement . 
+ " claim " have the meaning set forth in article 7.3(a ) of this agreement . 
+ " confidential information " have the meaning set forth in the asset purchase agreement . 
+ " conformis background ip " mean any invention , and all intellectual property right underlie such invention , that is , 
+ as of the effective date , own or licensable by conformis without cause a breach of , or incur any obligation to , a third 
+ party , in each case to the extent necessary or reasonably useful to design , develop , manufacture , sell or otherwise exploit the kib 
+ product , and for the avoidance of doubt , exclude the purchase asset , conformis foreground ip , stryker background ip , 
+ improve stryker background ip and improve conformis background ip . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ " conformis foreground ip " mean any invention first develop by conformis after the closing date other than in the 
+ performance of the r&d program , and all intellectual property right underlie such invention ( for the avoidance of doubt , 
+ exclude any intellectual property right subsist prior to the closing date or generate in the performance of the r&d 
+ program ) . for the avoidance of doubt , conformis foreground ip shall not include any invention use stryker confidential 
+ information ( which shall not include the purchase asset for the purpose of the definition of conformis foreground ip ) or 
+ stryker background ip . 
+ " conformis indemnify party " have the meaning set forth in article 7.3(b ) of this agreement . 
+ " conformis - prosecute joint ip right " have the meaning set forth in article 5.8 of this agreement . 
+ " court " have the meaning set forth in the asset purchase agreement . 
+ " deliverable " have the meaning set forth under the r&d work plan . 
+ " disclose party " have the meaning set forth in the asset purchase agreement . 
+ " distribution agreement " have the meaning set forth in the asset purchase agreement . 
+ " equipment " have the meaning set forth in article 5.6(a ) of this agreement . 
+ " failure notice " have the meaning set forth in article 3.4 of this agreement . 
+ " finally reject " have the meaning set forth in article 3.4 of this agreement . 
+ " force majeure event " have the meaning set forth in article 10.4(a ) of this agreement . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ " improve conformis background ip " mean any invention to the extent first arise in the performance of the r&d 
+ program , whether or not embody in the kib product , that constitute an improvement to conformis background ip , conformis 
+ confidential information ( which shall not include any confidential information own or commonly own by stryker ) or the 
+ purchase asset , and all intellectual property right underlie such invention ( but expressly exclude all transfer ip , 
+ conformis foreground ip , conformis background ip and stryker background ip , and , for the avoidance of doubt , exclude all 
+ intellectual property right subsist prior to the closing date ) . 
+ " improve stryker background ip " mean any invention to the extent first arise in the performance of the r&d 
+ program , whether or not embody in the kib product , that constitute an improvement to stryker background ip or any stryker 
+ confidential information ( which shall not include the purchase asset for the purpose of this definition ) , and all intellectual 
+ property right underlie such invention ( but expressly exclude all transfer ip , conformis foreground ip , conformis 
+ background ip and stryker background ip , and , for the avoidance of doubt , exclude all intellectual property right subsist 
+ prior to the closing date ) . 
+ " insolvency event " mean , with respect to any party , the occurrence of any one of the follow event : 
+ ( i ) an involuntary proceeding be commence against such party under any applicable united states bankruptcy , insolvency , 
+ reorganization or other similar united state or foreign law now or hereafter in effect , or a proceeding be commence seek 
+ appointment of a receiver , liquidator , assignee , custodian , trustee , sequestrator ( or other similar official ) for such party or for all or 
+ any substantial part of its property and such proceeding shall not be dismiss within [ ] or an order for relief by a court of 
+ competent jurisdiction shall be enter in any such proceeding; or 
+ ( ii ) such party shall commence a voluntary proceeding under any applicable united states or foreign bankruptcy , insolvency , 
+ reorganization or other similar law now or hereafter in effect , or shall consent to the entry of an order for relief in an involuntary 
+ case under any such law , or shall consent to the appointment of or take possession by a receiver , liquidator , 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ assignee , custodian , trustee , sequestrator ( or other similar official ) of such party or of all or any substantial part of its property , or 
+ shall make an assignment for the benefit of creditor . 
+ " intellectual property " have the meaning set forth in the asset purchase agreement . 
+ " invention " mean any idea , invention , discovery , know - how , datum , work of authorship , information , improvement , 
+ technology , process , concept or material , whether or not patentable , copyrightable or protectable as a trade secret , and whether 
+ or not reduce to practice or memorialize in writing . 
+ " joint ci " have the meaning set forth in the asset purchase agreement . 
+ " joint ip " have the meaning set forth in article 5.1(c ) of this agreement . 
+ " joint ip right " have the meaning set forth in article 5.8 of this agreement . 
+ " kib product " have the meaning set forth in the recital . 
+ " kib product ip " mean any invention first arise in the performance of the r&d program , whether or not embody in 
+ the kib product , and all intellectual property right underlie such invention ( but expressly exclude all transfer ip , 
+ conformis background ip , stryker background ip , improved conformis background ip and improve stryker background ip , 
+ and , for the avoidance of doubt , exclude all intellectual property right subsist prior to the closing date ) . 
+ " license agreement " have the meaning set forth in the asset purchase agreement . 
+ " off - the - shelf implant " have the meaning set forth in the asset purchase agreement . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ " off - the - shelf knee implant " have the meaning set forth in the asset purchase agreement . 
+ " other agreement " have the meaning set forth in the recital . 
+ " patent " have the meaning set forth in the asset purchase agreement . 
+ " patient - specific implant " have the meaning set forth in the asset purchase agreement . 
+ " patient - specific instrumentation " have the meaning set forth in the asset purchase agreement . 
+ " person " have the meaning set forth in the asset purchase agreement . 
+ " prior cda " have the meaning set forth in the asset purchase agreement . 
+ " purchase asset " have the meaning set forth in the asset purchase agreement . 
+ " receive party " have the meaning set forth in the asset purchase agreement . 
+ " redelivery period " have the meaning set forth in article 3.4 of this agreement . 
+ " r&d program " mean work perform in the development of the kib product under this agreement pursuant to the 
+ r&d work plan . 
+ " r&d work plan " mean the research and development plan set forth in exhibit 1 . 
+ " relevant indemnify party " mean ( a ) if stryker be the indemnified party , the stryker indemnify party and ( b ) if 
+ conformis be the indemnified party , the conformis indemnify party . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ " representative " have the meaning set forth in the asset purchase agreement . 
+ " stryker background ip " mean any invention , and all intellectual property right underlie such invention , that is , as 
+ of the effective date own or licensable by stryker without cause a breach of , or incur any obligation to , a third party , in 
+ each case to the extent each such invention be ( a ) necessary or reasonably useful to design , develop , manufacture , sell and 
+ otherwise exploit the kib product and ( b ) provide to conformis by or on behalf of stryker in connection with conformis ' 
+ activity under this agreement , and , for the avoidance of doubt , exclude the transfer ip , conformis background ip , 
+ improve conformis background ip and improve stryker background ip . 
+ " stryker indemnify party " have the meaning set forth in article 7.3(a ) of this agreement . 
+ " stryker - prosecute joint ip right " have the meaning set forth in article 5.8 of this agreement . 
+ " termination notice " mean a write notice deliver by one party to the other party of its election to terminate this 
+ agreement pursuant to article viii . 
+ " third party " have the meaning set forth in the asset purchase agreement . 
+ " trademark " have the meaning set forth in the asset purchase agreement . 
+ " transfer ip " have the meaning set forth in the asset purchase agreement . 
+ " triathlon " have the meaning set forth in the asset purchase agreement . 
+ " wire instruction " have the meaning set forth in the asset purchase agreement . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ article ii 
+ research and development program 
+ 2.1 r&d work plan . the party agree to conduct the r&d program pursuant to the r&d work plan and to perform 
+ their respective obligation therein . to the extent conformis ' performance under the r&d program be delay due to stryker ’s 
+ delay in perform any of its obligation in accordance with the timeline in the r&d work plan , the applicable timeline shall be 
+ deem extend by a period of time correspond to the length of such portion of the delay attributable to stryker , on a day - by- 
+ day basis . the r&d work plan may be amend by mutual write agreement of the party from time to time . 
+ 2.2 agent or third party . to the extent work with agent or other third party be permit under the r&d work 
+ plan , should a party wish to engage an agent or any other third party in connection with the r&d work plan or any other work 
+ under this agreement , such party must obtain in advance a write agreement by such agent or other third party ( i ) to assign to 
+ the party all invention conceive , create or generate by the agent or other third party , and ( ii ) to maintain all confidential 
+ information in confidence as set forth in section 5.2 . 
+ article iii 
+ deliverable and completion 
+ 3.1 deliverable . subject to the remedy set forth in section 3.4 , conformis shall furnish stryker with the deliverable 
+ as define in the r&d work plan , and stryker shall have the opportunity to analyze and test each deliverable for the purpose of 
+ determine acceptance as set forth in the r&d work plan . each deliverable shall be deem to be complete once such 
+ deliverable have be accept ( as define below ) . 
+ 3.2 free from infringement . without the consent of stryker , conformis shall not introduce any structure or 
+ methodology in the deliverable ( include a deliverable within a product or a stryker product ) that ( 1 ) raise a colorable 
+ argument of patent infringement in the manufacture , use , sale , offer for sale or importation of the deliverable as such deliverable 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ be intend to be exploit under the other agreement , ( 2 ) misappropriate any confidential information of any third party , or 
+ ( 3 ) otherwise violate any intellectual property right of any third party . for clarity , disclosure of a matter on the disclosure 
+ schedule to the asset purchase agreement shall not be deem consent by stryker under this section 3.2 . 
+ 3.3 completion . after a deliverable have be furnish to stryker , stryker ( or its agent designee ) will be entitle to 
+ analyze and test the deliverable to determine if it operate in accordance with and otherwise conform to the applicable 
+ acceptance criterion set forth in r&d work plan . conformis shall provide such assistance as stryker may reasonably request in 
+ such determination . stryker shall have [ ] ( " acceptance notification period " ) follow the date the deliverable be receive by 
+ stryker to accept or reject the deliverable as describe in section 3.4 . 
+ 3.4 acceptance or rejection . respect any deliverable for milestone 1 or milestone 2 , as set forth below , if 
+ stryker determine that a deliverable operate in accordance with and otherwise conform to the applicable acceptance criterion 
+ pursuant to the r&d work plan , then stryker will notify conformis in write that stryker accept such deliverable . if stryker 
+ reasonably determine that a deliverable do not operate in accordance with or otherwise conform to the applicable acceptance 
+ criterion , then stryker will provide conformis with a write notice of rejection within the acceptance notification period 
+ describe the defect in view of the relevant acceptance criterion and include sufficient detail with respect to such stryker testing 
+ and test result as conformis reasonably request ( " failure notice " ) . conformis shall have [ ] ( or such long period of time 
+ as may be agree between the party in good faith should the scope and complexity of the applicable deliverable warrant some 
+ long period of time ) ( " redelivery period " ) follow the date it receive the failure notice to correct and redeliver the 
+ deliverable . if conformis timely deliver a correct version of the deliverable within the redelivery period , then stryker will be 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ entitle to repeat its acceptance analysis and testing process for the purpose of determine acceptance as set forth in the r&d 
+ work plan until such deliverable operate in accordance with or otherwise conform to the applicable acceptance criteria; 
+ provide , however , that if stryker properly reject a particular deliverable three ( 3 ) or more time in accordance with this article 
+ iii , or if conformis fail to deliver a version or correct version , as the case may be , of the deliverable within any respective [ ] 
+ period , stryker may , terminate this agreement in accordance with section 8.2(c ) ( in the event of such three ( 3 ) rejection , stryker 
+ " finally reject " the deliverable ) . such termination , together with the provision of section 5.2 of the license agreement , 
+ constitute as stryker ’s sole remedy and conformis ' exclusive liability in the event of any such rejection or failure by conformis to 
+ deliver materially conform deliverable hereunder so long as such rejection or failure do not arise from conformis ' fraud , 
+ willful misconduct , gross negligence or bad faith . stryker shall be deem to have accept a deliverable timely furnish to it 
+ unless ( a ) the deliverable fail to operate in accordance with and otherwise conform the applicable acceptance criterion , and ( b ) 
+ stryker provide conformis a write failure notice within the acceptance notification period in accordance with this section 
+ 3.4 ( any acceptance or deem acceptance , describe in this section 3.4 , " acceptance " or " accept " ) . acceptance of a 
+ deliverable shall not constitute a waiver of any right stryker may have base on conformis ' warranty set forth in this 
+ agreement . 
+ 3.5 payment for milestone . stryker shall pay to conformis the follow milestone payment for the development 
+ work to be conduct hereunder if and when the following milestone be meet , as follow : 
+ ( a ) milestone 1 - within thirty ( 30 ) day follow the date on which stryker receive the first prototype of the patient- 
+ specific instrumentation deliver to it by conformis in accordance with the r&d work plan , stryker shall pay to conformis a 
+ total of two million u.s . dollar ( 2,000,000); and 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ ( b ) milestone 2 - within thirty ( 30 ) day follow the date on which there be a design freeze of the patient - specific 
+ instrumentation for the kib product in accordance with the r&d work plan , stryker shall pay to conformis a total of three 
+ million u.s dollar ( 3,000,000 ) . 
+ 3.6 payment . stryker shall make all payment to conformis require herein by wire transfer in accordance with the wire 
+ instruction . such payment be non - refundable and non - creditable except as set forth in the other agreement . 
+ article iv 
+ restrictive covenant 
+ 4.1 exclusivity . except as specifically provide in the distribution agreement , conformis shall be prohibit from 
+ develop or assist another in develop , or cause another to develop , patient - specific instrumentation for off - the - shelf 
+ knee implant for any third party in the field of orthopedic until january 1 , 2032 ( or early , to the extent set forth in section 
+ 2.3.3.4 or section 2.3.5 of the distribution agreement ) , with the exception that conformis ( include any entity involve in a 
+ change of control of conformis , any such entity an " acquirer " ) , may develop patient - specific instrumentation for any off - the- 
+ shelf implant of conformis , an acquirer or any of their affiliate . for purpose of clarity , the foregoing do not prevent 
+ conformis from grant any license , release , covenant not to sue or other immunity to any third party under any patent , include 
+ any such immunity that would authorize manufacture , use or sale of patient - specific instrumentation for off - the - shelf knee 
+ implant outside the buyer field . 
+ article v 
+ intellectual property 
+ 5.1 invention . 
+ ( a ) inventorship of all invention develop by either party , or both party , in the performance of the r&d program , shall 
+ be determine in accordance with the inventorship law of the united states , even to the extent such invention be not pursue in 
+ patent application . 
+ ( b ) all right , title and interest in and to the improved stryker background ip will vest solely in stryker . conformis agree 
+ to assign and hereby assign to stryker all right , title and interest in and to all improve stryker background ip in which ownership 
+ in same have vest in 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ conformis by operation of law or by assignment by its employee or consultants; and to facilitate such assignment to stryker , 
+ conformis agrees ( i ) to regularly ensure that its employee and consultant timely make any appropriate assignment to it of that 
+ which constitute improve stryker background ip , and ( ii ) at stryker ’s reasonable request , to execute and have its employee 
+ and consultant execute , as necessary , all assignment and any other documentation necessary to perfect title in stryker of such 
+ improve stryker background ip . 
+ ( c ) all right , title and interest in and to the improved conformis background ip and kib product ip ( " joint ip " ) shall be 
+ own jointly by the party . subject to the limitation set forth in this agreement , the joint ip may be use freely by either party or 
+ its affiliate and license to third party by conformis and its affiliate , on the one hand , outside of the buyer field or by stryker 
+ and its affiliate , on the other hand , within the buyer field , in each case , without the consent of , or duty to account to or notify , the 
+ other party , but , except with respect to external license of the improved conformis background ip by conformis or its affiliate 
+ to third party , any external third party license shall be govern in accordance with the last sentence of section 4.3(c ) of the 
+ apa . each party to whom ownership be to vest in joint ip by operation of law or by assignment by its employee or agent agree 
+ to assign and hereby assign to the other party an undivided one - half right , title and interest in and to all joint ip; and to facilitate 
+ such assignment , the party possess such ownership agree ( i ) to regularly ensure that its employee and consultant timely make 
+ any appropriate assignment to it; and ( ii ) at the other party ’s reasonable request , to execute and have its employee and 
+ consultant execute , as necessary , all assignment and any other documentation to perfect the undivided one - half right , title and 
+ interest in and to the other party of such joint ip . 
+ ( d ) notwithstanding anything to the contrary , the foregoing do not constitute either ( 1 ) the grant by conformis to stryker 
+ of any license or immunity of any kind with respect to the conformis background ip or conformis foreground ip , regardless of 
+ the extent to which the joint ip constitute improvement to the conformis background ip or conformis foreground ip , ( 2 ) the 
+ grant by stryker to conformis of any license or immunity of any kind with respect to the stryker background ip , or ( 3 ) the grant 
+ by either party of any license or immunity of any kind under any intellectual property right own by such party , regardless of 
+ whether the exploitation of the joint ip would infringe such intellectual property right . neither party shall assign a partial interest in 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ the joint ip or joint ip right to any affiliate or third party ( i.e. , neither party shall create any additional joint owner of the joint 
+ ip ) , but each party may assign all of its right , title and interest in and to the joint ip and joint ip right to an affiliate or third party 
+ pursuant to and in accordance with section 10.2 . 
+ ( e ) conformis shall promptly disclose to stryker all ( i ) improve stryker background ip , and ( ii ) joint ip . stryker shall 
+ promptly disclose to conformis all joint ip . 
+ ( f ) to the extent require and for the avoidance of doubt , stryker hereby grants conformis , and conformis hereby 
+ accept , a non - exclusive license to the stryker background ip and improve stryker background ip solely for purpose of 
+ perform any obligation under this agreement and the distribution agreement . 
+ 5.2 confidential information . the provision of section 4.3(a)-(i ) of article 4 of the apa be incorporate herein as if 
+ fully set forth herein . 
+ 5.3 maintenance of record . each party shall prepare and maintain complete and accurate record concern all 
+ invention for the purpose of document any possible intellectual property right arise under this agreement . 
+ 5.4 no other right . 
+ ( a ) conformis acknowledge and agree that , as between the party , stryker own all right , title and interest , include all 
+ intellectual property right , within the stryker background ip and stryker ’s confidential information , include any stryker 
+ confidential information underlie the joint ip , and that , under this agreement , except as expressly set forth herein , conformis 
+ shall acquire no right , title , or interest in or to any of the foregoing , or any other intellectual property right that be own or 
+ control by stryker , by implication , estoppel or otherwise . 
+ ( b ) stryker acknowledge and agree that , as between the party , conformis own all right , title and interest , include all 
+ intellectual property right , in and to conformis background ip and conformis ' confidential information , include any conformis 
+ confidential information underlie the joint ip , and that , under this agreement , stryker shall acquire no right , title , or interest in or 
+ to any of the foregoing or any other intellectual property right that be own or control by conformis , by implication , estoppel 
+ or otherwise . 
+ 5.5 employee and consultant . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ ( a ) conformis shall ensure that all its employee , consultant , agent or other third party who perform any portion of 
+ conformis ' r&d program obligation under this agreement have enter into write agreement with conformis whereby such 
+ employee , consultant , agent or other third party assign to conformis all ownership right in any invention make or develop 
+ by such employee , consultant , agent or third party in the course of such r&d program work under this agreement . 
+ ( b ) stryker shall ensure that all its affiliate and its or their employee , consultant , agent or other third party who perform any 
+ portion of stryker ’s r&d program obligation under this agreement have enter into write agreement with stryker whereby 
+ such employee , consultant , agent or third party assign to stryker all ownership right in any invention make or develop by 
+ such employee , consultant , agent or third party in the course of such r&d program work under this agreement . 
+ 5.6 tangible property . 
+ ( a ) all tooling , pattern , die , gauge , job , fixture , and all specification , drawing , sample , design , software , firmware , 
+ program , formulae , and other tangible item ( " equipment " ) furnish by stryker to conformis in connection with this 
+ agreement : ( i ) shall only be use in the performance of the r&d program; ( ii ) shall remain the property of stryker; and ( iii ) shall 
+ be dispose of or return in good repair , normal wear and tear except , by conformis to stryker at stryker ’s direction and 
+ expense upon stryker ’s request . conformis assume risk of loss and damage to say item while in its possession or under its 
+ control , subject to normal wear and tear . conformis shall notify stryker promptly whenever any item of stryker ’s tangible 
+ property be in need of repair or replacement . stryker shall endeavor to mark its property as property of stryker for 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ use only under this agreement . conformis waive any right it may have in law or equity to withhold stryker ’s property . 
+ ( b ) all equipment furnish by conformis to stryker in connection with this agreement : ( i ) shall only be use in the performance 
+ of the r&d program; ( ii ) shall remain the property of conformis; and ( iii ) shall be dispose of or return in good repair , normal 
+ wear and tear except , by stryker to conformis at conformis ' direction and expense upon conformis ' request . stryker assume 
+ risk of loss and damage to say item while in its possession or under its control , subject to normal wear and tear . stryker shall 
+ notify conformis promptly whenever any item of conformis ' tangible property be in need of repair or replacement . conformis 
+ shall endeavor to mark its property as property of conformis for use only under this agreement . stryker waif any right it may 
+ have in law or equity to withhold conformis ' property . 
+ 5.7 trademark . nothing in this agreement shall confer to any party any right , whether by way of ownership , license or 
+ right to use , in any of the trademark of any other party . conformis shall not use the trademark of stryker without stryker ’s 
+ prior write consent and stryker shall not use the trademark of conformis without conformis ' prior write consent . 
+ 5.8 prosecution of patent right . stryker shall be solely responsible , in its sole discretion , for prepare , filing , 
+ prosecute and maintain patent arise from all improve stryker background ip . stryker shall be solely responsible for cost 
+ and expense of prepare , filing , prosecute and maintain any such patent . stryker shall have the first right to prepare , file , 
+ prosecute and maintain patent or copyright arise from any joint ip that be not improve conformis background ip ( " stryker- 
+ prosecute joint ip right " ) . conformis shall have the first right to prepare , file , prosecute and maintain patent or copyright 
+ arise from any improve conformis background ip ( " conformis - prosecute joint ip right " , and together with the stryker- 
+ prosecute joint ip right , " joint ip right " ) . with respect to joint ip right , the non - prosecuting party will have the right , but 
+ not the obligation , to review and comment , and have the comment reasonably consider by the prosecute party , with regard to 
+ the filing , prosecution , 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ and maintenance of the joint ip right . in this regard , the prosecute party agree to provide reasonable time for the non- 
+ prosecute party to review and comment prior to any deadline associate with such patent . conformis and stryker shall be 
+ equally responsible for cost and expense of prepare , filing , prosecute and maintain any such joint ip right . 
+ notwithstanding the foregoing , in the event that the applicable party decide not to file at all or not to file a continue or other 
+ application to maintain the viability of the u.s part of a family of patent to which an application belong , or decide to abandon or 
+ discontinue the prosecution or maintenance of any of the joint ip right , such party shall notify the other party thereof , and such 
+ other party may elect to continue the prosecution ( include non - provisional application and pct entry ) or maintenance of such 
+ joint ip right at its sole expense and in the name(s ) of both stryker and conformis . the provision of section 5.1(c ) and 5.1(d ) 
+ and this section 5.8 shall run with the joint ip , and each party shall ensure that any assignee of its interest in the joint ip expressly 
+ assume in write such provision . any party pursue patent application in accordance with this section 5.8 may disclose 
+ confidential information in patent application to the extent necessary to provide requisite support for claim therein , provide 
+ however , the non - prosecuting party will have the right , but not the obligation , to review and comment on the scope and content of 
+ the propose disclosure , include the propose disclosure of confidential information , prior to submission of the first disclosure of 
+ same in any such patent application , and have the comment reasonably consider by the prosecute party . in this regard , the 
+ prosecute party agree to provide reasonable time for the non - prosecuting party to review and comment prior to any such 
+ submission associate with such patent . 
+ 5.9 infringement and defense . 
+ ( a ) each party may in its sole discretion enforce the patent or other intellectual property right it solely own pursuant to 
+ this agreement , as well as to defend against any assertion of invalidity , unenforceability or ownership of such patent . 
+ ( b ) the party shall confer and consult with respect to dispute with third party respect the infringement , validity , 
+ enforceability or ownership of any joint ip , include the settlement thereof . such consultation shall be for the purpose of 
+ determine the good approach within such action and neither party shall take any action to enforce or defend any joint ip without 
+ the other party ’s prior write consent . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ 5.10 publicity . neither party shall issue any press release or otherwise publicize this agreement or the development work 
+ to be conduct hereunder , except in accordance with section 4.2 of the apa . 
+ article vi 
+ representation and warranty 
+ 6.1 representation , warranty and covenant . each party hereby represent and warrant to , and covenant with , 
+ each other party that : 
+ ( a ) due organization . good standing and power . it be a corporation duly organize , validly exist and in good standing under 
+ the law of its jurisdiction of organization and have the power and authority to own , lease and operate its asset and to conduct the 
+ business now be conduct by it . it have all requisite corporate power and authority to enter into this agreement and to perform 
+ its obligation hereunder . 
+ ( b ) authorization and validity of agreement . the execution , delivery and performance by it of this agreement and the 
+ consummation by it of the transaction contemplate hereby have be duly authorize and approve by all necessary corporate 
+ or equivalent action on its part . this agreement have be duly execute and deliver by it and constitute its legal , valid and 
+ binding obligation , enforceable against it in accordance with its term , except as the same may be limit by applicable 
+ bankruptcy , insolvency , reorganization , moratorium or other applicable law relate to or affect creditor ’ right generally and 
+ by general equity principle . 
+ ( c ) absence of conflict . the execution , delivery and performance by it of this agreement and the consummation by it of the 
+ transaction contemplate hereby do not and will not : 
+ ( i ) violate any applicable law , regulation , order , writ , injunction or decree of any governmental , judicial , legislative , 
+ executive , administrative or regulatory 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ authority of the united states or any foreign country or of any state or local governmental authority; 
+ ( ii ) conflict with , or result in the breach of any provision of , its certificate or article of incorporation , bylaw or equivalent 
+ organizational documents; 
+ ( iii ) result in the creation of any lien or encumbrance of any nature upon any property be transfer or license by it 
+ pursuant to this agreement; or 
+ ( iv ) violate , conflict with , result in the breach or termination of or constitute a default under ( or event which with notice , lapse of 
+ time or both would constitute a default under ) , any permit , contract or agreement to which it be a party or by which any of its 
+ property or business be bind . 
+ ( d ) consent . no authorization , consent or approval of , or notice to or file with , any governmental authority be require for the 
+ execution , delivery and performance by it of this agreement , other than those associate with obtain require regulatory 
+ approval as contemplate hereby . 
+ ( e ) employee and consultant obligation . each of its employee , consultant and agent who will engage in activity on behalf of 
+ a party under the r&d work plan , or who will have access to confidential information , be contractually obligate , or will be 
+ contractually obligate prior to his / her participation or access , to ( i ) assign to the party all intellectual property right conceive , 
+ make or discover by such employee or agent , whether solely or in collaboration with other , in connection with such 
+ employee ’s , consultant ’s or agent ’s work for the party , and ( ii ) maintain the confidentiality of the confidential information . to the 
+ extent applicable , it be the intent of the party that ownership of all development under this agreement shall vest in the respective 
+ party by operation of law or by assignment prior to assignment to the other party pursuant to article v. 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ ( f ) debarment . no employee , consultant or agent who will engage in activity on behalf of such party under the r&d 
+ work plan , or who will have access to confidential information of the other party , have be the subject of a debarment proceeding 
+ under 21 u.s.c . § 335a , and have be exclude from participation in any federal or state or other government health care 
+ program . 
+ 6.2 except as expressly provide elsewhere in this agreement , include the 
+ requirement in the r&d work plan , conformis make no warranty with respect to the 
+ service or deliverable furnish hereunder , and no warranty of any kind , whether 
+ write , oral , imply or statutory , include warranty of merchantability , non- 
+ infringement or fitness for a particular purpose , shall apply . 
+ article vii 
+ limitation on liability and indemnification 
+ 7.1 responsibility and control . each party shall be solely responsible for the safety of its own employee , agent and 
+ subcontractor with respect to their activity relate to this agreement . 
+ 7.2 limitation of liability . except for [ ] , in no event will either party be liable to the 
+ other party for [ ] , even if such party be advise or aware of the possibility of such 
+ damage . conformis ' liability on a per occurrence basis under section 7.3(a)(iv ) shall not 
+ exceed the great of ( i ) [ ] and ( ii ) the amount of insurance coverage actually pay to 
+ conformis under then - current insurance policy of conformis in respect of such 
+ damage . for the purpose of this section 7.2 , " per occurrence " mean the occurrence of any claim or series of claim 
+ directly arise out of or result from the same act , omission or event . 
+ 7.3 mutual indemnification . 
+ ( a ) indemnification by conformis . conformis shall indemnify and hold harmless stryker , its director , officer , employee , agent 
+ and affiliate and 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ their respective successor , heir and assign ( collectively the " stryker indemnify party " ) against any and all claim , suit , 
+ action , and demand , wherever bring and however denominate , bring by a third party ( all of the foregoing be refer 
+ to herein as " claim " ) against the stryker indemnify party include all damage , collateral damage and settlement arise 
+ therefrom and reasonable outside attorney ’ fee and litigation expense relate thereto , to the extent arise from or relate to ( i ) 
+ any breach of conformis ' representation , warranty or obligation under this agreement , ( ii ) any allege violation of any 
+ applicable law by conformis , ( iii ) the negligence ( exclude any product liability claim ) , gross negligence or intentionally 
+ wrongful act or omission of conformis , its employee , consultant , agent and affiliate in their performance hereunder , and ( iv ) 
+ any portion of a claim allege personal injury on account of product liability attributable to a deliverable ( include a deliverable 
+ within a product or a stryker product ) . conformis shall have no obligation or liability with respect to any claim under section 
+ 7.3(a)(iii ) or section 7.3(a)(iv ) to the extent directly arise out of or relate to : ( 1 ) any use of the product in any manner not in 
+ accordance with applicable documentation ( e.g. , instruction for use , package insert , label , surgical guide and other material 
+ provide by or approve by conformis ) that be not a result of conformis ' conduct; ( 2 ) damage to the product occur after 
+ shipment that be not a result of conformis ' conduct; or ( 3 ) any modification to the product that be not contemplate by the 
+ instruction for use thereto by any person other than supplier and that be not a result of conformis ' conduct . notwithstanding 
+ anything to the contrary , stryker ’s sole remedy and conformis ' exclusive liability for breach of section 3.2 with respect to a 
+ product or a stryker product shall be as set forth in section 10.1(i ) of the distribution agreement . 
+ ( b ) indemnification by stryker . stryker shall indemnify and hold harmless conformis , its director , officer , employee , agent 
+ and 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ affiliate and their respective successor , heir and assign ( collectively the " conformis indemnify party " ) against any and 
+ all claim against the conformis indemnify party to the extent arise from or relate to ( i ) any breach of stryker ’s 
+ representation or warranty under this agreement , ( ii ) any allege violation of any applicable law by stryker , and ( iii ) the 
+ grossly negligent or intentionally wrongful act or omission of stryker , its employee , consultant , agent and affiliate in their 
+ performance hereunder . 
+ ( c ) joint liability . to the extent that stryker , on the one hand , and conformis , on the other hand , each have indemnification 
+ obligation to the other in connection with a single claim , they will contribute to the aggregate damage , liability , cost and 
+ expense arise from such claim in a proportion reflect the relative and comparative responsibility and determined liability of 
+ the party for such damage , liability , cost and expense , as well as any other relevant equitable consideration . the amount 
+ pay or payable by a party for purpose : of apportion the aggregate damage , liability , cost and expense shall be deem to 
+ include all reasonable legal fee and expense incur by such party in connection with investigate , prepare for or defend 
+ against such claim . 
+ ( d ) indemnification procedure . claim for indemnification under this agreement shall be govern by the indemnification 
+ procedure set forth in section 5.5 of the asset purchase agreement . 
+ ( e ) settlement . if the indemnify party assume the defense of a claim , no compromise or settlement of such claim may be 
+ effect by the indemnify party without the indemnified party consent unless : ( a ) there be no finding or admission of any violation 
+ of applicable requirement or any violation of the right of any person by the indemnified party and no effect on any other claim 
+ that may be make against the indemnified party , ( b ) the sole relief provide be 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ monetary damage that be pay in full by the indemnify party and ( c ) such settlement include as an unconditional release of 
+ liability by such third party claimant in respect of all indemnify person . 
+ article viii 
+ term and termination 
+ 8.1 term . the term of this agreement shall begin as of the effective date and continue until acceptance of all deliverable 
+ for milestone 1 and 2 pursuant to section 3.4 and completion of milestone 3 , unless early terminate under section 8.2 , as 
+ provide for under the other agreement , or as mutually agree by the party . 
+ 8.2 termination . 
+ ( a ) dissolution or insolvency event . either party may terminate this agreement effective immediately upon delivery of a 
+ termination notice if the other party be ( a ) dissolve or be seek to dissolve itself under applicable corporate law other than as 
+ part of a corporate restructuring under which its asset be first transfer to an assignee under this agreement in accordance 
+ with section 10.2; or ( b ) ( i ) become subject to an insolvency event , provide that , no termination right shall exist in respect of an 
+ insolvency event that be a chapter 11 case under the bankruptcy code if the party subject to such chapter 11 case ( x ) continue 
+ to perform all of its material obligation under this agreement , ( y ) do not seek to reject this agreement or take any action in 
+ such chapter 11 case to disavow or undermine the right of the other party under this agreement , and ( z ) assume this agreement 
+ on or before any deadline in such chapter 11 case for such assumption; notwithstanding the foregoing , nothing herein shall limit or 
+ prevent the party not subject to an insolvency event from object to assumption or assumption and assignment of this 
+ agreement or require cure payment or adequate assurance 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ of future performance as a condition of assumption or assumption and assignment . 
+ ( b ) default . if any party believe the other be in material breach of any of its material obligation under this agreement in a 
+ manner other than as set forth in article iii to which this section 8.2(b ) do not apply , it may give notice of such material breach 
+ to the allegedly breach party , which party shall have [ ] ( or such long period of time as may be reasonably commensurate 
+ with the effort reasonably require to remedy such default ) in which to remedy such default . if such allege material breach be not 
+ remedied in the time period set forth above , the party allege material breach shall refer the matter to the chief executive officer 
+ of each party , who shall meet and confer within [ ] after notice from the non - breaching party of its desire for such a meeting . if 
+ the party be unable to resolve any dispute in such meeting and no action have be bring in accordance with section 10.8 
+ with respect to such dispute , the non - breaching party may terminate this agreement immediately upon delivery to the defaulting 
+ party of a termination notice . the non - defaulting party ’s right to terminate this agreement in accordance with this section 8.2(b ) 
+ shall not be construe as an exclusive remedy . 
+ ( c ) if stryker finally reject any deliverable for milestone 1 or 2 in accordance with article iii , stryker may terminate 
+ this agreement , which termination shall be effective immediately upon delivery of a termination notice to conformis . 
+ 8.3 survive right / obligation . 
+ ( a ) the provision of article v , vi , vii and ix and section 8.3 , 8.4 , 10.1 , 10.2 , 10.5 - 10.13 and 10.15 , together with 
+ any provision require for the interpretation or enforcement of any of the foregoing , shall survive the termination or expiration of 
+ this agreement , provide , however that section 7.3(a)(iv ) shall survive the termination or expiration of this agreement for only 
+ [ ] thereafter . the termination of this agreement shall not relieve any party from obligation that be expressly indicate to survive 
+ termination of the agreement . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ 8.4 return or destruction of confidential information . solely with respect to confidential information in which a 
+ party have no ownership interest at all , own or co - own confidential information be exempt herefrom , upon termination of 
+ this agreement , unless independently authorize to retain such of the disclosing party ’s confidential information under an other 
+ agreement , each receive party shall , and shall direct its representative to , cease all use and make no further use of any 
+ confidential information of the disclosing party and shall , upon write request from the disclosing party , promptly return or 
+ destroy all confidential information of the disclosing party ( include copy thereof ) that be in tangible form ( provide , however , 
+ that , with respect to electronic imaging of the disclosing party 's confidential information , such material shall be delete and 
+ remove from access by an ordinary user from all computer hard drive , server and similar medium but shall not require any action 
+ to delete or erase such material from any disaster recovery tape or other back - up medium or any record retention or computer 
+ storage system so long as the receive party and its representative take such action as be reasonably likely to prevent access 
+ to such material by any person other than information technology and other administrative employee who be responsible for 
+ maintain those disaster recovery tape and other back - up medium ) and any document create by the receive party or any of 
+ its representative contain confidential information of the disclosing party . the receive party shall provide to the disclosing 
+ party write certification of destroy confidential information of the disclosing party promptly follow the destruction thereof . 
+ notwithstanding the foregoing , the receive party and its representative may retain one copy of any confidential information of 
+ the disclosing party in a secure location in the receive party 's legal department for the purpose of establish compliance with 
+ applicable law ( include professional standard ) and for defend or maintain any litigation ( include any administrative 
+ proceeding ) relate to this agreement , the other agreement , the prior cda or the confidential information , provide that all such 
+ information shall continue to be keep confidential pursuant to the term of this agreement . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ article ix 
+ record - keeping and audit 
+ 9.1 record retention . each of the party shall record in write or electronic form all material information with respect 
+ to the performance of its obligation relate to the r&d program in accordance with standard industry practice . 
+ article x 
+ miscellaneous 
+ 10.1 agency . neither this agreement nor any of the other agreement create any partnership , agency or other 
+ relationship among the party for any purpose , include for all tax purpose . no party be grant any right or authority to assume 
+ or to create any obligation or responsibility on behalf or in the name of the other party or to bind the other party in any manner 
+ whatsoever . 
+ 10.2 assignment and change of control . except as otherwise provide herein , a party shall not have the right to 
+ assign any of its right or obligation under this agreement ( whether through a merger , sale of stock , or otherwise ) without the 
+ prior write consent of the other party; except that , either party shall be permit , without any need for the other party ’s 
+ consent , to assign this agreement ( a ) in whole or in part to an affiliate ( provide , however , that once such person be no long an 
+ affiliate of the assign party , such former affiliate shall assign this agreement back to the assign party ) , provide that the 
+ assign party provide the other party notice of any such assignment provide far that failure to provide such notice of such 
+ assignment shall not render such assignment void; or ( b ) to a third party in connection with sale or transfer of all or substantially all 
+ of the assign party ’s business or asset relate to the subject matter of this agreement , whether by change of control , merger , 
+ sale of asset or otherwise; provide , however , that , with respect to clause ( b ) , ( i ) any assignment of this agreement shall be void 
+ and have no effect unless and until the assignee assume the 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ obligation of the assign party in a write instrument , a copy of which be provide to the other party; and ( ii ) any assignment of 
+ this agreement must be accompany by a simultaneous assignment of the other agreement to the same assignee , and the 
+ assign party ’s interest in the purchase asset to the same assignee unless otherwise agree by conformis in advance , which 
+ agreement shall not be unreasonably withhold . any assignment in whole or in part shall not relieve the assign party of its 
+ obligation hereunder . if and to the extent that a party assign any of its right and/or obligation hereunder in accordance with this 
+ section 10.2 , then this agreement shall be bind upon the assignee to the same extent as if it be a party hereto . any 
+ assignment not in accordance with this section 10.2 shall be void . 
+ 10.3 further action . each party agree , subsequent to the execution and delivery of this agreement and without any 
+ additional consideration , to execute , acknowledge and deliver such further document and instrument , and to do all such other 
+ act , as may be necessary or appropriate in order to carry out the purpose and intent of this agreement . 
+ 10.4 force majeure . 
+ ( a ) in the event that either party be unable to perform any of its obligation under this agreement , or to enjoy any of its 
+ benefit because of fire , natural disaster , action or decree of governmental entity or any other event not within such party ’s 
+ reasonable control ( a " force majeure event " ) , the party who have be so affected shall give write notice to the other party as 
+ soon as practicable and shall do everything reasonably possible to resume performance . upon receipt of such notice , all 
+ obligation under the agreement shall be immediately suspend . if the period of nonperformance exceed [ ] from the receipt 
+ of notice of the force majeure event , the party whose ability to perform have not be so affected may , by give write notice , 
+ terminate the agreement . any acceptance or warranty period affect by a force majeure event shall likewise be extend for a 
+ period equal to the duration of such force majeure event . as apply to this section 10.4 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ and to determine whether an event be reasonably beyond control of a party , material shortage , strike , slowdown , other labor 
+ relate delay or event result from a party ’s , its affiliate or their respective agent ' negligence , gross negligence , fraud or 
+ intentional misconduct be not force majeure event . 
+ ( b ) notwithstanding the provision set forth in section 10.4(a ) , above , a force majeure event shall not include any 
+ governmental action of an enforcement nature that arise from or relate to either party ’s failure to comply with any federal , 
+ national , state , provincial , international , or local law , statute , regulation or ordinance applicable to such party ’s performance 
+ hereunder . 
+ 10.5 notice . all notice , request , demand , waiver , instruction , consent and other communication to be give 
+ pursuant to the term of this agreement will be in writing and will be deem to have be duly give upon receipt if deliver by 
+ hand , send by a nationally recognize overnight mail service , or mail by registered or certify mail , return receipt request , 
+ postage prepay : 
+ if to stryker , address to : 
+ howmedica osteonics corp . 
+ c / o 
+ stryker corporation 
+ attn : legal department , [ ] 
+ 325 corporate drive 
+ mahwah , nj 07430 
+ if to conformis , address to : 
+ conformis , inc . 
+ attn : chief executive officer and 
+ general counsel 
+ 600 technology park drive 
+ billerica , ma 01821 
+ with a copy ( which shall not constitute notice ) to : 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ wilmerhale 
+ attn : jason kropp , esq . 
+ 60 state street 
+ boston , ma 02109 
+ any party may change its address , telephone number , or facsimile number by prior write notice to the other party . 
+ 10.6 amendment and waiver . this agreement may not be modify or amend except by an instrument or 
+ instrument in write sign by the party against whom enforcement of any such modification or amendment be seek . conformis 
+ may waive compliance by stryker or stryker may waive compliance by conformis with any term or provision of this agreement 
+ on the part of such party to be perform or comply with , but only by an instrument in writing . the waiver by any party of a 
+ breach of any term or provision of this agreement will not be construe as a waiver of any subsequent breach . 
+ 10.7 governing law . this agreement shall be govern and construe in accordance with the law of new york state 
+ ( without regard to the conflict of law provision thereof ) . 
+ 10.8 jurisdiction . subject to section 10.14 , the federal and state court of new york state shall have exclusive 
+ jurisdiction to hear and decide any suit , action or proceeding , and to settle any dispute , which may arise out of or in connection 
+ with this agreement; provide , however , that each party shall have the right to institute judicial proceeding in any court of 
+ competent jurisdiction against the other party or anyone act by , through or under the other party , in order to enforce an order 
+ enter by federal state court of new york . each party shall cause its applicable permit third party sublicensee and 
+ affiliate receive any right or benefit ( include the receipt of any confidential information ) under this agreement to be bind 
+ by this section 10.8 prior to their exercise of any such right or receipt of any such benefit . if such party fail to comply with the 
+ forego sentence 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ with respect to any such third party or affiliate , the other party shall have the right to seek relief in any court of competent 
+ jurisdiction in connection with any dispute involve such third party or affiliate . 
+ 10.9 severability . the provision of this agreement shall be deem severable and the invalidity or unenforceability of 
+ any provision shall not affect the validity or enforceability of the other provision hereof . if any term or other provision of this 
+ agreement , or the application thereof to any person or any circumstance , be invalid , illegal or unenforceable by a court of 
+ competent jurisdiction , ( a ) a suitable and equitable provision shall be substitute therefor in order to carry out , so far as may be 
+ valid and enforceable , the intent and purpose of such invalid or unenforceable provision and ( b ) the remainder of this agreement 
+ and the application of such provision to other person or circumstance shall not be affect by such invalidity , illegality or 
+ unenforceability , nor shall such invalidity , illegality or unenforceability affect the validity or enforceability of such provision , or the 
+ application thereof , in any other jurisdiction . 
+ 10.10 entire agreement and third - party beneficiary . this agreement ( include the other agreement ) contain 
+ the entire agreement by and among the party with respect to the subject matter hereof and there be no agreement , 
+ understanding , representation or warranty between the party other than those set forth or refer to herein . this agreement 
+ be not intend to confer upon any person not a party ( or their successor and assign permit by section 10.2 ) , and to the 
+ extent expressly provide , their affiliate , agent , employee and representative , any right or remedy hereunder , except that 
+ section 7.3(a ) and section 7.3(b ) hereof be intend to benefit , and to be enforceable by , any of the relevant indemnified 
+ party therein describe . 
+ 10.11 jointly prepare . this agreement have be prepare jointly and shall not be strictly construe against any party . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ 10.12 expense . except as otherwise set forth in this agreement and the other agreement , all legal and other cost and 
+ expense incur in connection with this agreement and the transaction contemplate hereby will be pay by the party incur 
+ such cost and expense . 
+ 10.13 counterpart and electronic transmission . this agreement may be execute in one or more counterpart , all 
+ of which will be consider one and the same agreement , and will become effective when one or more counterpart have be 
+ sign by each of the party and deliver to the other party . this agreement may be execute and deliver by facsimile or e- 
+ mail transmission with the same effect as if a manually sign original be personally deliver . 
+ 10.14 negotiation in event of dispute . in the event of any dispute or disagreement between any of the party as to 
+ the interpretation of any provision of this agreement or any agreement incorporate herein , the performance of obligation 
+ hereunder or thereunder , or any other dispute matter relate hereto or thereto , such matter , upon the write request of any 
+ party , will be refer to an executive of each party . such executive will promptly meet in good faith to resolve the dispute . if the 
+ executive do not agree upon a decision within thirty calendar day after the reference of the matter to they , any party will be free 
+ to exercise any remedy available to it . 
+ 10.15 rule of construction . as use in this agreement , the word " include " , " include " and " include " mean 
+ " include without limitation " , and no inference or conclusion of any sort shall be draw from the fact that in some instance in 
+ this agreement the word " include " , " include " and " include " be actually follow by the phrase " without limitation " or the 
+ equivalent while in other instance they be not . except where the context expressly require otherwise , the use of any gender 
+ herein will be deem to encompass reference to any gender , and the use of the singular will be deem to include the plural ( and 
+ vice versa ) . 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ [ signature page follow ] 
+
+ source : conformis inc , 10 - q , 11/1/2019 
+ in witness whereof , the party have cause this development agreement to be duly execute as of the respective 
+ date write below . 
+ howmedica osteonics corp . 
+ conformis , inc . 
+ by : 
+ /s/ spencer stile 
+ by : 
+ /s/ mark a. augusti 
+ name : 
+ spencer stile 
+ name : 
+ mark a. augusti 
+ title : 
+ president 
+ title : 
+ president and ceo 
+ date : 
+ september 26 , 2019 
+ date : 
+ 9 - 30 - 2019 
+ [ signature page to development agreement ] 
+ source : conformis inc , 10 - q , 11/1/2019 
+ execution version 
+ certain identify information have be exclude from the exhibit because it be both ( i ) not material and ( ii ) would likely cause 
+ competitive harm to the company , if publicly disclose . double asterisk denote omission . 
+ source : conformis inc , 10 - q , 11/1/2019

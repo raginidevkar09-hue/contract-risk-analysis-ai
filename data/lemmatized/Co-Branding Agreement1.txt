@@ -1,0 +1,686 @@
+exhibit 10.27 
+  medialinx file no . 952 
+  co - branding content agreement 
+  ----------------------------- 
+ this agreement make as of the 30th day of june 1999 
+ between : 
+  medialinx interactive , l.p . , 
+  represent herein by its general partner 
+  medialinx interactive inc . 
+  a corporation incorporate under the law 
+  of the province of ontario 
+  20 richmond street east 
+  suite 600 
+  toronto , ontario 
+  m5c 3b5 
+  ( hereinafter call " mlx " , or " party " ) 
+  - and - 
+  healthcentral.com inc . 
+  a corporation incorporate under the 
+  law of the state of california 
+  marketplace tower 
+  6001 shellmound street , suite 800 
+  emeryville , ca . 94608 
+  ( hereinafter call " hci " or " party " ) 
+  ( both mlx and hci to be collectively refer to as the " party " ) 
+ whereas mlx own , host , license , publishe and maintain an internet service 
+ in canada that include , but be not limit to the " sympatico " web site which 
+ include inter alia , the healthyway web site on the world wide web ( the " mlx 
+ internet services"); 
+ and whereas hci own , host , license , publishe and maintain a health service 
+ web site know as healthcentral.com on the world wide web ( the " hci site); 
+ now therefore in consideration of the mutual covenant herein contain and 
+ other good and valuable consideration , the receipt and sufficiency of which be 
+ hereby acknowledge , the party agree as follow : 
+ certain information on this exhibit have be omit and file separately 
+ with the commission . confidential treatment have be request with respect to 
+ the omit portion . 
+ 1 . service & development 
+ a ) mlx and hci have agree to provide certain service and content to each 
+  other in order to mutually develop and integrate content from the hci site 
+  into the sympatico health section , currently know as " healthyway " , of the 
+  sympatico web site ( the " co - brand site " ) . 
+ b ) the party have agree that they will mutually approve the design of the 
+  co - branded site and that the launch date of the co - branded site shall be 
+  september 1st , 1999 unless mutually extend by the party as agree to in 
+  writing . 
+ 2 . mlx 's obligation and responsibility 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+ during the term of this agreement mlx shall : 
+ a ) continue to technically host and moderate all of the healthyway discussion 
+  forum currently reside on the forum section of the sympatico web site . 
+  medialinx shall retain all right , title to and interest in the discussion 
+  forums; 
+ b ) promote the co - branded site as set out in schedule " 1 " attach hereto; 
+ c ) grant to hci , a non - exclusive and non - transferable right to use medialinx 
+  image and certain content contain in the healthyway web site ( the 
+  " sympatico content " ) for the sole purpose of satisfy the requirement of 
+  this agreement . medialinx shall retain all right , title to and interest in 
+  the sympatico content; 
+ d ) grant to hci , to the extent that hci require access to mlx logo and 
+  trademark ( collectively " mlx mark " ) the use of certain mlx mark as 
+  necessary for the purpose of fulfil its obligation under this 
+  agreement . hci assure that the mlx mark be use in accordance with mlx 's 
+  logo usage guideline as provide by mlx from time to time . without 
+  limit the generality of the foregoing , hci agree : 
+  ( i ) that mlx be the owner of the mlx mark and the goodwill and 
+  reputation associate therewith; 
+  ( ii ) not to contest the validity of the mlx mark or mlx 's title 
+  thereto; 
+  ( iii ) that hci acquire no right , title or interest in the mlx mark , and 
+  any and all goodwill associate with the mlx mark enure 
+  exclusively to the benefit of mlx; 
+  ( iv ) to notify mlx promptly of any attempt by any third party to use mlx 
+  mark , or any variation or imitation thereof of which hci become 
+  aware; 
+  ( v ) at mlx 's expense , to fully co - operate with mlx and execute such 
+  document and at the request of mlx to do such act and thing as 
+  may be reasonably necessary or desirable to restrain such use; 
+ e ) ensure that in the event that it enter into an electronic commerce 
+  agreement with a third party for the sale of good on the co - brand site 
+  that all agreement with the third party shall ensure that such third 
+  party shall be wholly responsible for all product and transaction that 
+  may occur on the co - brand site , that all such transaction shall comply 
+  with all applicable canadian and us law and regulation , include privacy 
+  law and include compliance with medialinx 's standard and guideline , 
+  and ensure that such third party 
+
+  provide a full indemnity to medialinx and hci in respect of any and all 
+  transaction and product that may be host on the co - brand site; 
+ f ) ensure that in the event that user traffic to the co - branded site fall 
+  below the level outline in schedule 2 , that medialinx will use all 
+  commercially reasonable effort to increase promotion to the co - brand 
+  site until usage to the site increase to level above the level outline 
+  in schedule 2; and 
+ g ) make a reasonable effort to explore the technical possibility of share 
+  with hci the traffic on the home page of the sympatico health section of 
+  the sympatico web site , subject to any legal and regulatory constraint . 
+ 3 . hci 's obligation and responsibility 
+ during the term of this agreement hci shall : 
+ a ) use reasonable commercial effort to provide industry accept standard of 
+  reliability of service and to make available the appropriate production 
+  resource to build and maintain the co - branded site; 
+ b ) integrate content contain in the hci site into the co - branded site of the 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+  sympatico web site subject to the prior approval of medialinx; 
+ c ) update the " look and feel " of the co - branded site upon launch , subject to 
+  the prior approval and consent of medialinx; 
+ d ) ensure that general term and condition on the co - branded site be subject 
+  to the prior approval of medialinx; 
+ e ) host , manage , update and maintain all aspect of the mutually approve co- 
+  brand site include technology , content , production , design , operation , 
+  and customer relation save and except forum . without limit the 
+  generality of the forego , hci shall use all reasonable commercial 
+  effort to : 1 ) ensure that the host service provide in connection with 
+  the co - branded site be provide at the same standard as the hosting of the 
+  sympatico web site , and 2 ) ensure that the co - branded site be available 7 
+  day per week and 24 hour per day; 
+ f ) ensure that the level of canadian content contain on the co - brand site 
+  be maintain at such level as be find on the healthyway section of the 
+  sympatico web site on the launch date , and ensure that the level of 
+  canadian content be maintain in accordance with the attach schedule 
+  " 3"; 
+ g ) design the co - branded site in such a manner so as to make prominent 
+  canadian content , canadian context and canadian activity , such as describe 
+  in schedule " 3"; 
+ h ) make all reasonable effort to suppress or remove all content from the hci 
+  site which be to be integrate into the co - branded site that be irrelevant 
+  and inappropriate for the canadian market and ensure that all content 
+  contain in the co - branded site continue to be relevant for the canadian 
+  market in accordance with schedule " 3"; 
+ i ) provide medialinx with daily usage statistic for the co - brand site in 
+  accordance with the following format attach hereto as schedule " 4"; 
+
+ j ) have the option to provide and manage some discussion forum host refer 
+  to in paragraph 2(a ) of this agreement; 
+ k ) ensure that it only utilize communication relate service and tool on 
+  the co - brand site which have be provide by medialinx 's canadian 
+  telecommunication partner , include but not limit to webmail , 
+  directory , address book , and ip telephony; 
+ l ) grant to mlx , to the extent that mlx require access to hci logo and 
+  trademark ( collectively " hci mark " ) the use of certain hci mark as 
+  necessary for the purpose of fulfil its obligation under this 
+  agreement . mlx assure that the hci mark be use in accordance with hci 's 
+  logo usage guideline as provide by hci from time to time . without 
+  limit the generality of the foregoing , mlx agree : 
+  ( i ) that hci be the owner of the hci mark and the goodwill and 
+  reputation associate therewith; 
+  ( ii ) not to contest the validity of the hci mark or hci 's title 
+  thereto; 
+  ( iii ) that mlx acquire no right , title or interest in the hci mark , and 
+  any and all goodwill associate with the hci mark enure 
+  exclusively to the benefit of hci; 
+  ( iv ) to notify hci promptly of any attempt by any third party to use the 
+  hci mark , or any variation or imitation thereof of which mlx 
+  become aware; 
+  ( v ) at hci 's expense , to fully co - operate with hci and execute such 
+  document and at the request of hci to do such act and thing as 
+  may be reasonably necessary or desirable to restrain such use; and 
+ m ) ensure that in the event that it enter into an electronic commerce 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+  agreement with a third party for the sale of good on the co - brand site 
+  that all agreement with the third party shall ensure that such third 
+  party shall be wholly responsible for all product and transaction that 
+  may occur on the co - brand site , that all such transaction shall comply 
+  with all applicable canadian and us law and regulation , include privacy 
+  law and include compliance with medialinx 's standard and guideline , 
+  and ensure that such third party provide a full indemnity to medialinx and 
+  hci in respect of any and all transaction and product that may be host 
+  on the co - brand site . 
+ 4 . advertising 
+ subject to paragraph 6 , medialinx shall be entitle to sell advertising and 
+ sponsorship on all page of the co - branded site to canadian advertiser ( for 
+ the purpose of this agreement " canadian advertiser " shall be advertiser with 
+ substantial place of business in canada ) and hci shall be entitle to sell 
+ advertising and sponsorship on all page of the co - branded site to we 
+ advertiser ( for the purpose of this agreement , us advertiser shall be 
+ advertiser with substantial place of business in the united states ) . all 
+ sponsorship and advertising package deal for the co - branded site will be 
+ mutually agree upon by the party and shall abide by medialinx 's and hci 's 
+ standard advertising agreement and canadian and u.s . advertising regulation and 
+ standard . any excess inventory that have not be sell be available to be sell 
+ by either party . neither party shall permit advertising on the co - brand site 
+ from an entity which be a competitor to the other party . for the purpose of 
+ this agreement , a " competitor " to medialinx shall be an internet portal web site 
+ and/or an internet service provider . for the purpose of this agreement , a 
+ " competitor " to hci shall be a consumer health base web site . the party shall 
+ define a plan in write prior to the launch set out how the party shall 
+ work together to jointly sell advertising , serve the advertising and track the 
+ advertising inventory on the co - brand site . 
+
+ 5 . e - commerce 
+ subject to paragraph 6 , medialinx and hci shall be entitle to negotiate e- 
+ commerce relationship which shall reside on the co - brand site . in addition to 
+ the term and condition detail in paragraph 2(e ) and 3(m ) , both party 
+ acknowledge and agree that any e - commerce offering must be able to offer pricing 
+ in canadian dollar and provide shipping across canada , unless otherwise 
+ mutually agree to in writing . in addition , all product offer through the co- 
+ brand site must abide by all canadian law and regulation . the cost of 
+ integrate any e - commerce relationship will be bear by the entity that bring 
+ the relationship . any and all marketing activity and design of an e - commerce 
+ system shall be approve by both party . 
+ 6 . financial 
+ ( a ) hci shall pay mlx a guarantee fix sum of [ ] we per annum during the 
+  initial term of this agreement to be pay out as a monthly payment of [ ] 
+  we ( the " monthly payment " ) . this monthly payment shall be due by the 10th 
+  day of each month; 
+ ( b ) hci shall be entitle to all net revenue generate from advertising and e- 
+  commerce transaction generate by canadian company that may take place 
+  on the co - branded site up to and include [ ] we in any give year . 
+  thereafter , any net revenue exceed [ ] we shall be share fifty - fifty 
+  between the party ( 50 medialinx--50 hci ) . hci shall be entitle to all 
+  proceed generate from us company on the co - brand site . " net revenue " 
+  be define as revenue less : 1 ) third party expense directly relate to the 
+  acquisition of the revenue; for example , advertising broker commission and 
+  advertising management service , and 2 ) internally pay commission for 
+  sell the advertisement and/or sponsorship; 
+ ( c ) both party shall keep true and accurate book and record of all revenue 
+  generate as a result of the co - brand site . either party shall have the 
+  right from time to time to audit and make extract of the book and record 
+  of the other , insofar as say book or record pertain to the term of this 
+  agreement . any such audit shall take place upon not less than seven ( 7 ) 
+  day advance write notice , during normal business hour of normal 
+  business day and at reasonable interval . any such audit shall be at the 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+  request party 's expense , unless the audit determine that the other 
+  party have underpay by 10 or more . in the event that the calculation of 
+  payment herein be determine by a computer - base system , then the " book 
+  and record " shall include , without limitation , the machine - sensible datum 
+  ( e.g. punch card , magnetic tape , discs; and 
+ ( d ) both party shall provide the other with quarterly accounting report as 
+  necessary . the quarterly reporting period end september 30th and 
+  december 31st , 1999 , march 31st , 2000 , and june 30th , 2000 . 
+  applicable remittance and accounting report will follow under separate 
+  cover within sixty ( 60 ) day of the end of each quarter . 
+ [ ] = certain information on this page have be omit and file separately 
+ with the commission . confidential treatment have be request with respect to 
+ the omit portion . 
+
+ 7 . customer information 
+ any and all customer datum that be collect from the co - branded site shall be 
+ collect and use in accordance with canadian federal and provincial law and 
+ u.s . federal and state law and both medialinx and hci privacy guideline and 
+ medialinx and hci shall each own an undivided interest in such datum . medialinx 
+ will not have access to the hci personal health record ( be the longitudinal 
+ repository of personal health information about user of the co - brand site ) 
+ during or after the term of this agreement . during the term of this agreement 
+ and for a period of six ( 6 ) month thereafter , medialinx shall not use or 
+ publicly disclose the datum collect from user of the co - branded site if such 
+ use be for the purpose of provide health information , advertisement , or 
+ product that compete with those that reside on the co - brand site . in other 
+ instance , medialinx shall be entitle to use or publicly disclose the datum 
+ collect subject to privacy guideline note above . 
+ in addition to the forego , hci shall ensure that the co - branded site be 
+ integrate into the sympatico site - wide registry in order for user to have a 
+ single login access for all sympatico.ca and sympatico co - branded web site . 
+ 8 . page view 
+ both medialinx and hci shall be entitle to count the page view on the co- 
+ brand site . in the event that it become necessary to have only one party 
+ count the number of page view on the co - brand site , due to third party 
+ reporting , regulatory and/or legal requirement , hci shall be entitle to count 
+ one hundred percent ( 100 ) of the content page view of the co - brand site and 
+ mlx shall be entitle to count one hundred percent ( 100 ) of the healthyway 
+ discussion forum page view and one hundred percent ( 100 ) of the page view on 
+ the sympatico health home page . 
+ 9 . exclusivity 
+ during the term of the agreement , and subject to the following requirement 
+ respect canadian content level as set out in paragraph 3(f ) , ( g ) and ( h ) , 
+ hci shall be the exclusive health content partner in the health section of the 
+ sympatico web site , provide however , that nothing contain herein shall 
+ prevent medialinx from enter into an agreement with other party for : i ) a 
+ health base web directory; or ii ) other health relate content whose content 
+ do not compete with the content contain on the co - brand site; which in no 
+ event shall receive no more than one fifth ( 1/5th ) of the promotion and which 
+ shall constitute no more than one fifth ( 1/5th ) of the total health relate 
+ content which reside on the home page of the sympatico health section . in the 
+ event that medialinx obtain a web guide from a third party , medialinx and hci 
+ shall discuss how to present both web guide to the user , and make good effort 
+ to agree to the kind of experience that the user shall have when utilize the 
+ new web guide . if , at any time during the term of this agreement , hci fail to 
+ meet the content requirement set out in paragraph 3(f ) , ( g ) and ( h ) , hci shall 
+ no long be entitle to be the exclusive health content partner in the health 
+ section of the sympatico web site . hci shall not either directly or indirectly 
+ license or deliver content to or carry on or be engage with any other canadian 
+ portal web site , be a web site which aggregate and market a variety of 
+ content direct to multiple community of interest and which offer product , 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+ tool and service to a broad base of canadian end user . 
+
+ 10 . branding & communication 
+ during the first six ( 6 ) month from the launch date , the primary branding for 
+ the co - branded site shall remain healthyway . in addition to the foregoing and 
+ subject to mutual design approval , a " power by healthcentral " or such other 
+ appropriate tag line shall appear on the co - brand site and shall be 
+ approximately 80 of the font size of the healthyway title and will be close to 
+ the healthyway brand . thereafter , the healthyway and health central trademark 
+ shall be co - brand in a mutually agree upon method . the url for the co - branded 
+ site shall remain healthyway.sympatico.ca . a separate redirect url may be set up 
+ for the co - brand site , e.g. healthcentral.sympatico.ca . 
+ all electronic communication to the user of the co - branded site shall be 
+ jointly develop , co - brand with each party 's respective mark and shall be 
+ mutually agree upon . 
+ 11 . term & termination 
+ 11.1 term 
+ the term of this agreement shall be for a period of two ( 2 ) year ( the " term " ) . 
+ the effective date of the start of the term will be from the launch date . 
+ 11.2 termination 
+ ( a ) either party may terminate this agreement upon 30 day prior write notice 
+  to the other party if 1 ) such other party breach any material term of 
+  this agreement , unless such breach be cure within 30 days; or 2 ) if any of 
+  the term of this agreement that require mutual approval be not mutually 
+  agree to; 
+ ( b ) this agreement may be terminate by a party immediately , without notice : 
+  ( i ) upon the institution by or against the other party of insolvency , 
+  receivership , or bankruptcy proceeding or any other proceeding 
+  for the settlement of the other party 's debt , if such proceeding 
+  be not dismiss within sixty ( 60 ) days; 
+  ( ii ) upon the other party make an assignment for the benefit of 
+  creditors; or 
+  ( iii ) upon the other party 's dissolution; 
+ ( c ) either party may terminate this agreement upon 30 day write notice if 
+  either party 's corporate structure have undergo a material ownership 
+  change such that its corporate interest be then in conflict with the 
+  corporate interest of the other party; and 
+ ( d ) upon termination or expiration of this agreement for any reason : 
+  ( i ) the party shall immediately cease use the mark of the other 
+  party; 
+  ( ii ) the party shall immediately return to each other all property of 
+  the other and cease use or distribute all advertising or 
+  promotional material , if any , contain reference to the other 
+  party or the other party 's product; 
+  ( iii ) the party shall remove all special link make pursuant to this 
+  agreement from their respective product of the other party; and 
+  ( iv ) each party shall pay to the other party all outstanding amount 
+  which have accrue and be properly owe , include without 
+  limitation , any new account customer commission payment or net 
+  advertising revenue owe outstanding together with any appropriate 
+  final report . 
+
+ source : healthcentral com , s-1 / a , 11/8/1999 
+ 11.3 the exercise of a right of termination or other right or remedy in 
+  connection with this agreement shall be without prejudice to any other 
+  right or remedy to which the terminate party may be entitle under this 
+  agreement or applicable law . 
+ 12 . representation & warranty 
+ ( a ) mlx 's representation and warranty . 
+ mlx represent and warrant that : 
+ ( i ) it have full right , power and authority to enter into and be bind by the 
+  term and condition of this agreement and to perform its obligation 
+  under this agreement , without the approval or consent of any other 
+  party; 
+ ( ii ) it have sufficient right , title and interest in and to the right grant 
+  to hci pursuant to this agreement to enter and perform this agreement 
+  and to enable hci to perform under this agreement; 
+ ( iii ) it own all intellectual property in and to the mlx mark and the 
+  sympatico content , include but not limit to any and all creative 
+  advertisement content , or have obtain all necessary license , 
+  clearance , assignment and waiver in respect of any and all 
+  intellectual property use in the sympatico content , include without 
+  limitation waiver of moral right necessary to publish , license and 
+  distribute world - wide; 
+ ( iv ) the use , reproduction , distribution or transmission of the sympatico 
+  content will not violate any law include criminal law , commercial 
+  law , or any right of any third party include , but not limit to 
+  such violation as infringement or misappropriation of copyright , 
+  patent , trademark , trade defamation , invasion of privacy or right of 
+  celebrity , violation of any anti - discrimination law or regulation , or 
+  any other right of any person or entity; 
+ ( v ) it have all necessary skill and material necessary to provide its 
+  contribution to the co - branded site as contemplate by this agreement . 
+  mlx shall perform the service describe herein in a timely fashion with 
+  all due skill , competence and diligence and the quality of the co- 
+  brand site shall meet both hci 's and mlx 's standard of high quality 
+  and excellence; 
+ ( vi ) that the information contain in the mlx mark and the mlx content be 
+  accurate , do not contain any material that be libelous , obscene , 
+  misleading or otherwise harmful . 
+ ( b ) hci 's representation and warranty . 
+ hci represent and warrant that : 
+ ( i ) it have full right , power and authority to enter into and be bind by the 
+  term and condition of this agreement and to perform its obligation 
+  under this agreement , without the approval or consent of any other 
+  party; 
+ ( ii ) it have sufficient right , title and interest in and to the right grant 
+  to mlx pursuant to this agreement to enter and perform this agreement 
+  and to enable mlx to perform under this agreement; 
+ ( iii ) it own all intellectual property in and to the hci mark and all 
+  content hci contribute to the co - branded site ( the " hci content " ) 
+  include but not limit to any and all creative 
+
+  advertisement content , or have obtain all necessary license , 
+  clearance , assignment and waiver in respect of any and all 
+  intellectual property use in the hci mark and the hci content , 
+  include without limitation waiver of moral right necessary to 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+  publish , license and distribute world - wide; 
+ ( iv ) the use , reproduction , distribution or transmission of the hci mark and 
+  hci content will not violate any law include criminal law , 
+  commercial law , or any right of any third party include , but not 
+  limit to such violation as infringement or misappropriation of 
+  copyright , patent , trademark , trade defamation , invasion of privacy or 
+  right of celebrity , violation of any anti - discrimination law or 
+  regulation , or any other right of any person or entity; 
+ ( v ) the co - branded site will function , operate and perform in all material 
+  respect in accordance with the requirement describe or incorporate 
+  in the agreement; 
+ ( vi ) it have all necessary skill and material necessary to provide its 
+  contribution to the co - branded site as contemplate by this agreement . 
+  hci shall perform the service describe herein in a timely fashion with 
+  all due skill , competence and diligence and the quality of the co- 
+  brand site shall meet both hci 's and mlx 's standard of high quality 
+  and excellence; 
+ ( vii ) that no advertisement submit to mlx hereunder shall make use of any 
+  subliminal technique and hold mlx and its affiliated and related 
+  company harmless against any loss or damage arise from the storage 
+  and/or use of any and all advertising . hci warrant that any and all 
+  advertising that it submit complie with advertising standard in 
+  canada , include those of mlx and that the use , reproduction , 
+  distribution , or transmission of such advertising will not violate any 
+  criminal law , commercial law or any right of any third party , 
+  include , but not limit to , such violation as infringement or 
+  misappropriation of copyright , patent , trademark , trade secret , music , 
+  image , video / full motion video or other proprietary or property right , 
+  false advertising , unfair competition , defamation , invasion of privacy 
+  or right of celebrity , property right , false advertising , unfair 
+  competition , defamation , invasion of privacy or right of celebrity , 
+  violation of any anti - discrimination law or regulation , or any other 
+  right of any person or entity; 
+ ( viii ) that the co - branded site will function , operate and perform in all 
+  material respect in accordance with the requirement describe in the 
+  agreement; and 
+ ( vix ) that the information contain in the hci mark and the hci content be 
+  accurate , do not contain any material that be libelous , obscene , 
+  misleading or otherwise harmful . 
+ 13 . no additional warranty 
+ a ) except as specifically provide herein or as agree to in writing by the 
+  party , the service provide under this agreement be not guarantee and 
+  be provide " as be " and mlx give no representation , warranty or 
+  condition of any kind , express or imply , include without limitation 
+  warranty as to insertion , display or loading of any advertisement , 
+  sponsorship or integrate brand search engine uninterrupted or error free 
+  operation of the sympatico web site , any advertisement , sponsorship , 
+  integrate brand search engine or link , merchantability , quality or 
+  fitness for a particular purpose and those arise by statute or otherwise , 
+  or from a course of dealing or usage of trade; and 
+
+ b ) except as specifically provide herein or as agree to in writing by the 
+  party : 1 ) the service provide under this agreement be not guarantee 
+  and be provide " as is"; and 2 ) hci give no representation , warranty 
+  or condition of any kind , express or imply , include without limitation 
+  warranty as to : insertion , display or loading of any advertisement , 
+  sponsorship or integrate brand search engine uninterrupted or error free 
+  operation of the co - brand web site , any advertisement , sponsorship , 
+  integrate brand search engine or link , merchantability , quality or 
+  fitness for a particular purpose and those arise by statute or otherwise , 
+  or from a course of dealing or usage of trade . 
+ 14 . indemnification 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+ ( a ) by mlx : mlx agree to indemnify and hold harmless hci and its employee , 
+  representative , agent and affiliate from any and all liability , loss , 
+  claim , damage or cause of action ( each a " claim " ) , include reasonable 
+  legal fee and expense that may be incur by , arise out of or relate 
+  to any claim that the mlx mark or sympatico content or any mlx develop 
+  advertising infringe in any manner any copyright , patent , trademark , trade 
+  secret or any other intellectual property right of any third party; 
+ ( b ) by hci : hci agree to indemnify and hold harmless mlx and its employee , 
+  representative , agent and affiliate from any claim include reasonable 
+  legal fee and expense that may be incur by , arise out of or relate 
+  to any third party claim that the hci mark or hci content or any hci 
+  develop advertising infringe in any manner any copyright , patent , 
+  trademark , trade secret or any other intellectual property right of any 
+  third party; and 
+ ( c ) procedure : all indemnification obligation under section 14 , shall be 
+  subject to the follow requirement : 
+  ( i ) the indemnified party shall provide the indemnify party with 
+  prompt write notice of any claim; 
+  ( ii ) the indemnified party shall permit the indemnify party to assume 
+  and control the defense of any action upon the indemnify party 's 
+  write acknowledgment of the obligation to indemnify; and 
+  ( iii ) the indemnified party shall not enter into any settlement or 
+  compromise of any claim without the indemnify party 's prior 
+  write consent , which shall not be unreasonably withhold . 
+  in addition , the indemnified party may , at its own expense , participate in 
+  its defense of any claim . in the event that the indemnify party assume 
+  the defense of any such claim , the indemnify party shall have no 
+  liability for legal fee and cost incur by the indemnified party . 
+ 15 . limitation of liability 
+ except with respect to the indemnity obligation in section 14 , the 
+ confidentiality obligation under section 16 , and the year 2000 compliance 
+ obligation under section 20 , notwithstanding anything to the contrary contain 
+ in this agreement , under no circumstance shall either party be liable to the 
+ other party with respect to the subject matter of this agreement under any 
+ contract , negligence , 
+
+ strict liability , tort or other legal or equitable theory for any indirect , 
+ incidental , consequential , special or exemplary damage ( include , without 
+ limitation , loss of revenue or goodwill or anticipated profit or lose 
+ business ) , even if such party have be advise of the possibility of such 
+ damage . 
+ 16 . confidentiality 
+ each party shall keep confidential any information , datum and report obtain in 
+ connection with this agreement , unless such information have be rightfully 
+ obtain from a third party or be generally available to the public , or as must 
+ be disclose by law . upon termination of this agreement , each of the party 
+ ( the " receive party " ) shall return to the other party ( the " disclose party " ) 
+ any record or copy thereof which it may have obtain from the disclosing 
+ party in connection with its review of the disclosing party 's business , other 
+ than information otherwise rightfully obtain by receive party , act in 
+ good faith , from someone other than the disclosing party or generally available 
+ to the public . each party shall hold the term and provision of this agreement 
+ confidential and shall not disclose its term to any person except to its 
+ management . notwithstanding the foregoing , this agreement and the loi be subject 
+ to the term and condition of the confidentiality and non - disclosure agreement 
+ sign between the party date may 3rd , 1999 . 
+ 17 . no public notice 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+ no public announcement of the propose transaction will be make by either party 
+ unless the timing and content have be agree upon in advance by both party , 
+ except as may otherwise be require by law . it be understand though that 
+ medialinx may discuss this arrangement with its sympatico internet service 
+ provider and affiliate to the extent necessary to meet the propose time 
+ line . 
+ 18 . cost 
+ unless agree to otherwise , each party will pay for its own cost and expense 
+ in connection with this agreement and the propose activity contemplate 
+ herein , without limitation , legal fee , broker , accountant and other 
+ professional advisor . 
+ 19 . independent contractor 
+ it be the intention of mlx and hci that mlx and hci be , and shall be deem to 
+ be , independent contractor with respect to the subject matter of this 
+ agreement , and nothing contain in this agreement shall be deem or construe 
+ in any manner whatsoever as create any partnership , joint venture , employment , 
+ agency , fiduciary or other similar relationship between mlx and hci . 
+
+ 20 . year 2000 compliance 
+ both mlx and hci represent and warrant that their contribution to the co- 
+ brand site be design to be use prior to , during , and after the calendar 
+ year 2000 ad and will operate during each such time period without error 
+ relate to date datum , specifically include any error relate to , or the 
+ product of , date datum which represent or reference different century or more 
+ than a century . without limit the generality of the foregoing , the co - brand 
+ site : ( i ) will not abnormally end or provide invalid or incorrect result as a 
+ result of date datum , specifically include date datum which represent or 
+ reference different century or more than one century; ( ii ) have be design 
+ to ensure year 2000 compatibility , include , but not limit to , date datum 
+ century recognition , calculation which accommodate same century and multi- 
+ century formula and date value , and date datum interface value that reflect 
+ the century; and ( iii ) include " year 2000 capability " . for the purpose of 
+ this agreement , " year 2000 capability " mean the co - branded site ( i ) will 
+ manage , calculate , sequence , compare and manipulate datum involve date , 
+ include single century formula and multi - century formula , include leap 
+ year and will not cause an abnormally end scenario within the application or 
+ generate incorrect value or invalid result involve such dates; ( ii ) provide 
+ that all date - relate user interface functionality and datum field include the 
+ indication of century; and ( iii ) provide that all date - relate data interface 
+ functionality include the indication of century . 
+ while hci assert that its code and script will execute properly , as describe 
+ above , and that hci use third party software that specify y2k compliance , we 
+ can not guarantee that all third party software will perform as specify by the 
+ manufacturer . should a third party product fail to meet its y2k compliance 
+ policy , we will work with the vendor to remedy the problem in a timely fashion . 
+ hci will ensure that it comply with any third party recommendation that be 
+ necessary for y2k compliance . 
+ 21 . govern law 
+ this agreement shall be govern by and interpret and enforce in accordance 
+ with the law of the province of ontario and the party agree to abide by the 
+ jurisdiction of the court of ontario . 
+ 22 . entire agreement 
+ this agreement , together with any and all attach exhibit and/or schedule , 
+ represent the entire agreement between mlx and hci with respect to the subject 
+ matter herein and shall supercede all prior agreement , communication and 
+ understanding of the party , oral and/or write . 
+ 23 . legal fee 
+ the prevail party in any legal action bring by one party against the other 
+ and arise out of this agreement shall be entitle , in addition to any other 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+ right and remedy it may have , to reimbursement for its expense , include 
+ court and arbitration cost , as well as reasonable legal fee . 
+
+ 24 . successor and assign 
+ except as provide in this section , neither party may assign its right or 
+ obligation under this agreement without the prior write consent of the other 
+ party , which shall not be unreasonably withhold . notwithstanding the foregoing , 
+ either party shall be permit to assign this agreement and any of its right 
+ and obligation hereunder to an affiliate or related company or to a purchaser 
+ of all or substantially all of its internet business , without obtain the 
+ prior write consent of the other party . 
+ 25 . force majeure 
+ neither party shall be liable for failure to perform or delay in perform any 
+ obligation under this agreement if such failure or delay be due to fire , flood , 
+ earthquake , strike , war ( declare or undeclared ) , embargo , blockade , legal 
+ prohibition , governmental action , riot , insurrection , damage , destruction or any 
+ other similar cause beyond the control of such party . 
+ 26 . notice 
+ all notice , request , consent and other communication which be require or 
+ permit hereunder shall be in writing and shall be deem give ( a ) when 
+ deliver in person at the time of such delivery or by telecopy with confirm 
+ receipt of transmission at the date and time indicate on such receipt or ( b ) 
+ when receive if give by an internationally recognize express courier service 
+ to the address specify below . notice of change of address shall be give in 
+ the same manner as other communication . 
+ if to hci : if to medialinx : 
+ - ---------- ---------------- 
+ healthcentral.com inc . medialinx interactive , l.p . 
+ 2600 tenth street 20 richmond street east , suite 600 
+ berkeley , ca toronto , ontario , m5c 3b5 
+ 94710 attn : director of content 
+  fax : ( 416 ) 350 - 1516 
+  with a copy to legal department : 
+  fax no . : ( 416 ) 350 - 5212 
+ 27 . counterpart 
+ this agreement may be execute in one or more counterpart , each of which shall 
+ be deem an original and all of which , take together , shall constitute one and 
+ the same instrument . 
+ 28 . heading 
+ the section and article heading contain in this agreement be include for 
+ convenience only , and shall not limit or otherwise affect the term of this 
+ agreement . 
+
+  schedule " 1 " 
+ mlx will run [ ] advertising banner , promote the co - branded site each 
+ month , which shall run throughout the sympatico.ca site . 
+ mlx will promote the co - branded site on the sympatico.ca homepage in a frequent 
+ and timely fashion . 
+ mlx will promote the sympatico health site through sympatico.ca house 
+ advertising , from time to time . 
+ mlx will provide contextual integration of health content into other area of 
+ source : healthcentral com , s-1 / a , 11/8/1999 
+ sympatico.ca , as appropriate . 
+ mlx will provide a persistent link , in fold , from the sympatico health site home 
+ page to the co - brand site . 
+ mlx will provide a link to the sympatico health site home page from the 
+ sympatico.ca home page . 
+ [ ] = certain information on this page have be omit and file separately 
+ with the commission . confidential treatment have be request with respect to 
+ the omit portion . 
+
+  schedule " 2 " 
+ mlx will use all commercially reasonable effort to maintain the user traffic at 
+ a monthly minimum of : 
+  . [ ] page view three ( 3 ) month after the launch of the co - brand site; 
+  . [ ] page view six ( 6 ) month after the launch of the co - branded site; and 
+  . [ ] page view twelve ( 12 ) month after the launch of the co - brand site . 
+ [ ] = certain information on this page have be omit and file separately 
+ with the commission . confidential treatment have be request with respect to 
+ the omit portion . 
+
+  schedule " 3 " 
+ hci shall ensure that canadian content and context be promote and maintain 
+ within the co - branded site in accordance with the following : 
+ ensure that canadian spelling be use throughout the site where possible . 
+ ensure that non - relevant or inappropriate information be either removed or put 
+ into context for a canadian user . 
+ ensure that canadian health information source from canadian content provider 
+ be add to the site , where possible . 
+ issue relate to access to service : 
+ canadian public health care system 
+ there be little notion of " manage care " in canada 
+ inclusion of canadian " self help " resource 
+ health relate law & policy : 
+ federal and provincial government funding of healthcare and the existence of a 
+ social safety net in canada 
+ allow distribution of drug 
+ different role relate to pharmaceutical advertising 
+ societal context of canada : 
+ canada 's multicultural make up ( e.g. less hispanic , more asian ) 
+ likelihood of different health risk factor for canadian 
+ different behaviour of the canadian population ( e.g. travel south for the 
+ winter , " snowbird " ) 
+ different health event e.g. " heart month " 
+ technicality : 
+ difference in drug name 
+ canadian currency 
+ metric system for measurement 
+ the canadian voice : 
+ important to highlight canadian health expert e.g. canadian health 
+ professional , researcher , company 
+ " local " event e.g. hospital closure , labour issue 
+
+ source : healthcentral com , s-1 / a , 11/8/1999 
+  schedule " 4 " 
+ hci will provide mlx with usage statistic in the follow 2 format : 
+ 1 ) access to real time online statistic through a web browser include a 
+ number of preprogrammed usage report , and 
+ 2 ) a format mutually agree to by hci and mlx 
+
+ source : healthcentral com , s-1 / a , 11/8/1999
