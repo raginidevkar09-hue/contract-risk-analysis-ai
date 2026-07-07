@@ -1,0 +1,526 @@
+[
+    {
+        "chunk_id": 1,
+        "text": "exhibit 99.1\n\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “” \nmobile virtual network enabler\nhosting agreement\nbetween\nt-mobile netherlands b.v.\n&\nelephant talk communication holding ag\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\ntable of content\n1.\ndefinitions\n2.\npurpose and scope of the agreement\n3.\nhostin"
+    },
+    {
+        "chunk_id": 2,
+        "text": "g services\n4.\nimplementation\n5.\nforecast & commitments\n6.\nservice level\n7.\ndata protection & privacy\n8.\nthe co-operation relationship\n9.\nprices, charging, billing & accounting\n10.\ncustomer care support\n11.\nconfidentiality\n12.\nlimitation of liability\n13.\nsuspension and termination of hosting services\n14.\nforce majeure\n15.\nintellectual property rights\n16.\nsim cards and calling credit\n17.\nduration of the agreement\n18.\ntermination of the agreement\n19.\nmodifications\n20.\nmiscellaneous\n21.\ngoverning la"
+    },
+    {
+        "chunk_id": 3,
+        "text": "w\n22.\ndispute resolution\n23.\ncounterpart\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\nmobile virtualnetwork enabler hosting agreement\nby and between elephant talk and t-mobile\n(t-mobile hosting elephant talk)\nthis agreement is made between\n“elephant talk communication holding ag”, a company incorporated under the laws of switzerland, having its regis"
+    },
+    {
+        "chunk_id": 4,
+        "text": "tered office at baarerstrasse\n135, ch-6301 zug, switzerland, legally and duly represented by its chief executive officer steven van der velden and its chief operations officer\nand chief technology officer martin zuurbier, hereinafter referred to as: \"elephant talk\"\nand\nt-mobile netherlands b.v., a company incorporated under the laws of the netherlands, having its registered office at the waldorpstraat 60, 2521\ncc den haag, the netherlands, legally and duly represented by its managing director ni"
+    },
+    {
+        "chunk_id": 5,
+        "text": "ek jan van damme and its marketing director, bart\nweijermars, hereinafter referred to as: “t-mobile”\neach individually referred to as \"party\" and together as \"parties\".\n\nwhereas:\n1.\nelephant talk wishes to become a full mobile virtual network enabler (hereinafter: “mvne”) providing mobile telecommunications\nservices to legal entities partnering with elephant talk to offer mobile services in an (enhanced) service provider model using the t-\nmobile network and the by t-mobile provided wholesale mo"
+    },
+    {
+        "chunk_id": 6,
+        "text": "bile network services;  \n\n2.\nt-mobile is a licensed dutch mobile telecommunications and services provider operating inter alia its own gsm and umts/hsdpa\nmobile network in the netherlands with related basic services and offering wholesale and retail mobile network services and associated\nservices on the dutch market;\n\n3.\n  and elephant talk have conducted preliminary discussions and negotiations leading to an initial understanding on the basic\nbusiness principles of an envisaged co-operation bet"
+    },
+    {
+        "chunk_id": 7,
+        "text": "ween  and elephant talk, which has been laid down in heads of agreement\nbetween  and elephant talk ;\n\n4.\n; \n\n5.\nin answer to the proposal of  and the additions to this proposal by t-mobile, elephant talk has confirmed by letter dated\nnovember 30, 2007 that it agrees to be directly implemented on the t-mobile network in order to  the t-mobile network; \n\n6.\nelephant talk therefore wishes to obtain from t-mobile wholesale mobile network services and associated services and t-mobile is\nwilling to of"
+    },
+    {
+        "chunk_id": 8,
+        "text": "fer elephant talk such services; \n\n7.\nfollowing the signing of the aforementioned heads of agreement between  and elephant talk, parties have continued their\ndiscussions and negotiations with regard to their envisaged co-operation and have reached agreement on the terms and conditions in that\nrespect, which are laid down in this agreement; \n\nnow, therefore, the parties have agreed as follows:\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions "
+    },
+    {
+        "chunk_id": 9,
+        "text": "hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n1. \ndefinitions\n\nfor the purpose of this agreement, the following words and phrases shall have the meanings set forth in their respective definitions, unless a\ndifferent meaning is called for in the context of another provision in this agreement:\n1.1 \n\n\"affiliated company\" of a party shall mean any other legal entity:\n·  directly or indirectly owning or controlling the party (mother company), or\n\n· under the"
+    },
+    {
+        "chunk_id": 10,
+        "text": " direct or indirect ownership or control of the same legal entity (mother company) directly or indirectly owning or controlling\nthe party, or\n\n· directly or indirectly owned or controlled by the party, for as long as such ownership or control lasts.\n\"ownership\" or \"control\" shall exist through the direct or indirect ownership of more than fifty (50) percent of the nominal value of the\nissued equity share capital or of more than fifty (50) percent of the shares entitling the holders to vote for t"
+    },
+    {
+        "chunk_id": 11,
+        "text": "he election of directors or\npersons performing similar functions.\n1.2\n\"agreement\" shall mean the mobile virtual network enabler(mvne) hosting agreement together with the appendices attached to this\nmvne hosting agreement.\n\n1.3\n“appendix\" and \"appendices\" shall mean the appendix or appendices attached to this agreement.\n1.4\n“business day” shall mean any day other than saturdays, sundays and dutch generally recognized public holidays.\n1.5\n\"calendar day\" shall mean any day including saturdays, sund"
+    },
+    {
+        "chunk_id": 12,
+        "text": "ays and dutch generally recognized public holidays.\n1.6\n“cdr” shall mean call detail record.\n1.7\n“commercial launch date” shall mean the date on which elephant talk commercially launches the hosting services and starts\nproviding the elephant talk services commercially to elephant talk customers in the dutch market (not being the soft launch).\nthe commercial launch date shall not be later than six (6) weeks after the ready for service date.\n1.8\n\"date of the agreement\" shall mean the date on which"
+    },
+    {
+        "chunk_id": 13,
+        "text": " both parties have signed the agreement by their duly authorized representatives\nor, if the parties sign this agreement on different dates, the later date being the date the agreement comes fully into effect.\n1.9\n“elephant talk customer” shall mean any company or legal entity partnering with elephant talk, which wishes to offer mobile\nservices in a mvno/esp/sp model using the t-mobile network and the by t-mobile provided hosting services under the terms and\nconditions as mentioned in this agreem"
+    },
+    {
+        "chunk_id": 14,
+        "text": "ent. elephant talk customers might include the mobile end-users of elephant talk\ncustomers, subject to the interpretation of the specific provision.\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n1.10\n“elephant talk infrastructure” shall mean the entire (current and future) servers and systems of elephant talk, including the\nphysical or logical link to"
+    },
+    {
+        "chunk_id": 15,
+        "text": " the nap, as described in appendix 11.\n1.11\n“elephant talk wholesale services” shall mean the mobile telecommunication services provided by elephant talk to the\nelephant talk customers, offering services in a mvno/esp/sp model, based on the hosting services via the t-mobile network and\nthe networks of the t-mobile roaming partners.\n1.12\n\"gsm association permanent reference documents\" shall mean the documents that are established, recognized and classified as binding\nby the gsm association plenar"
+    },
+    {
+        "chunk_id": 16,
+        "text": "y.\n1.13\n\"gsm association plenary\" shall mean the group of appointed representatives of the signatories of the gsm association.\n1.14\n\"gsm specifications\" shall mean etsi gsm technical specifications, as defined by the gsm association.\n1.15\n\"hosting service(s)\" shall mean the network hosting (and related) services - as listed in appendix 1 - provided by t-mobile to elephant\ntalk under the agreement, enabling elephant talk to provide elephant talk wholesale services to elephant talk\ncustomers in ac"
+    },
+    {
+        "chunk_id": 17,
+        "text": "cordance with its terms and conditions of the agreement.\n1.16\n\"implementation plan\" shall have the meaning as described to it in appendix 3.\n1.17\n“imsi” means the international mobile subscriber identity, \n1.18\n“initial term” means the initial duration of the agreement as agreed upon between the parties and defined in article 17.1\n1.19\n“in platform” (the intelligent network platform) shall mean the technical architecture and telecommunications systems of elephant\ntalk for routing calls and charg"
+    },
+    {
+        "chunk_id": 18,
+        "text": "ing real-time the outgoing calls of elephant talk customers.\n1.20\n\"location areas\" (las) shall mean the individual geographic areas into which the t-mobile network is divided at any time.\n1.21\n“msisdn” shall mean mobile station integrated services digital network number.\n1.22\n“nap” shall mean network access point, as described in appendix 11.\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between e"
+    },
+    {
+        "chunk_id": 19,
+        "text": "lephant talk and t-mobile, 18/9/2008\n\n1.23\n\"operational manual\" shall mean the working document in which parties agree upon (dynamic) activities and procedures as described in\nthe agreement in more detail for the duration of the agreement. the operational manual is a dynamic document. the latest valid and\nbinding version shall be the one agreed in writing between the parties in accordance with article 19.3.\n1.24\n“” means the company formerly known as . formed under the laws of the netherlands,  "
+    },
+    {
+        "chunk_id": 20,
+        "text": "in the hague, the netherlands.\n1.25\n“protocol of delivery” (also referred to as “pod”) shall mean the document, as attached in appendix 10, provided by t-mobile to\nelephant talk following the soft launch for the purpose of accepting the hosting services by elephant talk.\n1.26\n“quarter” and “quarterly” shall mean a quarter of a year, being three consecutive months starting every january, april, july and/or\noctober of every calendar year.\n1.27\n“ready for service date” shall mean the date, followin"
+    },
+    {
+        "chunk_id": 21,
+        "text": "g the soft launch, upon which the hosting services agreed between the parties - in\naccordance with article 3 - meet the agreed specification as evidenced by the signing of the protocol for delivery.\n1.28\n“ready for test date” shall mean the date on which the end-to-end test, to be performed internally by t-mobile solely, has been\ncompleted by t-mobile and pursuant to which elephant talk can commence the soft launch. \n1.29\n\"regulatory provisions\" shall mean all applicable laws, directives, consen"
+    },
+    {
+        "chunk_id": 22,
+        "text": "ts, specifications, regulations and/or stipulations set forth by\nthe relevant regulatory authority.\n1.30\n“sim card” shall mean a subscriber identity module (chip) card for the identification of -the mobile end-users of - an elephant talk\ncustomer on the t-mobile network and enables access to the elephant talk wholesale services.\n1.31\n“sla” means the service level agreement attached hereto in appendix 6.\n1.32\n\"soft launch\" shall mean the test to be performed under article 4 and as described in ap"
+    },
+    {
+        "chunk_id": 23,
+        "text": "pendix 3 and the period in which elephant\ntalk can gain experience with the functionalities of the hosting services prior to the commercial launch date.\n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\nsource: pareteum corp, 8-k, 10/1/2008\n\n1.33\n\"tap\" shall mean transferred account procedure as defined and described in gsm association permanent reference"
+    },
+    {
+        "chunk_id": 24,
+        "text": " documents. \n1.34\n“technical specification” shall mean the working document in which parties agree upon the technical specification of the hosting services\nas attached in appendix 11.\n\n1.35\n\"t-mobile network\" shall mean the t-mobile dcs 1800 and umts/hsdpa mobile telecommunications network, including all network\nelements, in the netherlands, as described in appendix 1.\n\n2. \npurpose and scope of the agreement\n2.1\nthe purpose of this agreement is to lay down the general terms and conditions betwee"
+    },
+    {
+        "chunk_id": 25,
+        "text": "n the parties under which t-mobile shall provide\nthe hosting services and elephant talk shall purchase the hosting services from t-mobile, whereby t-mobile shall enable\nelephant talk to market, sell and provide mobile telecommunication services to the elephant talk customers via the t-mobile\nnetwork. for the avoidance of doubt, elephant talk is not entitled to provide (retail) telecommunication services based on the\nhosting service to others than elephant talk customers, such as but not limited "
+    },
+    {
+        "chunk_id": 26,
+        "text": "to mobile end-users or business companies with\ntheir own end-users.\nin the event that  parties shall negotiate the terms and conditions under which t-mobile shall provide and elephant talk shall\npurchase the services from t-mobile. these terms and conditions shall be laid down in a separate document and shall therefore not be\npart of this agreement.\n2.2\nt-mobile is entitled without limitations, to  related services to any other party.\n2.3\nelephant talk will not enter into any discussions or agre"
+    },
+    {
+        "chunk_id": 27,
+        "text": "ement on the provisioning of (similar) hosting services as defined in\nappendix 1 with any  in the netherlands for the duration of the initial term of the agreement. in case elephant talk has provided\nto t-mobile the twelve month termination notice in accordance with article 17.2, elephant talk .\n2.4\nthe co-operation between parties shall regard . the hosting services are intended for . elephant talk is allowed to provide\nsim cards to elephant talk customers under the terms and conditions as ment"
+    },
+    {
+        "chunk_id": 28,
+        "text": "ioned in this agreement.\n\n2.5 \nfor the scope of this agreement, elephant talk (including its affiliated companies) shall not provide the hosting services to .\nexcluded from this provision is the situation wherein elephant talk provides  under the terms and conditions as set out in this\narticle. \nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\nelephant t"
+    },
+    {
+        "chunk_id": 29,
+        "text": "alk is not allowed, without the explicit written approval of t-mobile, to provide the elephant talk wholesale services:\ni.  \nto the below stated categories of companies, including companies that represent a company in one of these categories, affiliated\ncompanies and/or companies that can offer a brand from a company in one of the following categories:\n\na)\n\nb)\n\nc)\n.\n\nii.\nin the situation where t-mobile for good reason refuses a elephant talk customer access to the t-mobile network such as:\n\na)\na"
+    },
+    {
+        "chunk_id": 30,
+        "text": "ssociation with - proven- bad taste (companies or brands with a direct reference to subjects such as criminal or illegal behavior,\nviolence or drugs);\n\nb)\npossible harm of the good name of t-mobile;\n\nc)\nbreach of an intellectual property right of t-mobile; and/or\n\nd)\nconflict with key strategic issues for t-mobile and deutsche telekom affiliate companies (such as legal issues and court cases).\n\nthe elephant talk customers will not directly or indirectly provide the elephant talk wholesale servic"
+    },
+    {
+        "chunk_id": 31,
+        "text": "es to others, including an\naffiliated company, with the objective to resell wholesale telecommunication services based on the by t-mobile provided hosting\nservices to mobile telecommunication users.\n2.6  \nparties agree to implement an elephant talk , and therefore would not result in additional costs for elephant talk.\n\nin order to execute this assessment parties will discuss the detailed business requirements - provided by elephant talk for the\nimplementation of the elephant talk  - and will do"
+    },
+    {
+        "chunk_id": 32,
+        "text": " the utmost to agree on this set of business requirements before or on \nprovided that parties have agreed upon the final set of business requirements before or on , parties shall subsequently execute an\ninitial evaluation - based on the business requirements - of the impact of the implementation on the t-mobile infrastructure and network.\nparties agree to finalize this initial evaluation on . the outcome of the initial evaluation shall consist of an agreed high level project\nplan for the impleme"
+    },
+    {
+        "chunk_id": 33,
+        "text": "ntation of at least the implementation of the  solution. following the initial evaluation parties will further discuss\nand negotiate in good faith the elements of the project plan, including the alignment of  and available resources in order to implement\nthe .\nboth parties aim to implement the  before . however, the actual implementation date of the  solution is subject to the chosen\ntechnical and operational solution for the  solution. in any case t-mobile is obliged to implement the  before or"
+    },
+    {
+        "chunk_id": 34,
+        "text": " on .\n2.7\nelephant talk shall purchase the hosting services from t-mobile as an independent contractor. elephant talk shall sell and\nmarket the elephant talk wholesale services to elephant talk customers in its own name, for its own account and on its own\nrisk (subject to the terms of this agreement). elephant talk warrants t-mobile that elephant talk customers shall sell and\nmarket their mobile telecommunication services based on the elephant talk wholesale services in its own name, for its own"
+    },
+    {
+        "chunk_id": 35,
+        "text": " account\nand on its own risk. elephant talk and elephant talk customers shall not in any respect represent t-mobile or enter into any\nagreement or other commitment on t-mobile’s behalf.\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n2.8\nelephant talk shall ensure that the elephant talk infrastructure complies with the technical specifications, as set o"
+    },
+    {
+        "chunk_id": 36,
+        "text": "ut in\nappendix 11.\n2.9\nparties acknowledge that the dutch telecommunications market is regulated under both dutch and eu law, such as inter alia eu-directives,\nthe dutch telecommunications act, dutch competition act and the dutch data protection act. parties shall at all times fully comply with\nall relevant regulations, such as but not limited to, the obligation for elephant talk - as providers of public electronic communications\nservices in the netherlands- to notify opta according to article 2"
+    },
+    {
+        "chunk_id": 37,
+        "text": ".1 of the dutch telecommunication act.\nfurthermore, parties acknowledge that their arrangements are subject to said regulations, and that parties’ arrangements (including pricing\narrangements) may, from time to time, require adjustment(s) due to change of such regulations.\n2.10\nthe hosting services shall be provided in accordance with relevant gsm specifications and the gsm association permanent reference\ndocuments, including all the commercial aspects, as defined in the agreement. this foregoin"
+    },
+    {
+        "chunk_id": 38,
+        "text": "g is however subject to the additional\nrequirements and exceptions to the gsm specifications and gsm association permanent reference documents as may be agreed in\nwriting between parties. \n2.11\nthe parties recognize that it may be appropriate to modify this agreement, in circumstances in which they deem it important to do so, in\nthe light of experience and development in the gsm association, the gsm specifications, the gsm association permanent reference\ndocuments and mobile telecommunications s"
+    },
+    {
+        "chunk_id": 39,
+        "text": "ervices available at the market not offered by t-mobile under this agreement in such case\nparties shall agree upon a workable solution and act accordingly.\n2.12\nthe appendices shall form an integral part of the agreement and shall be fully binding on and enforceable by and against the parties as\napplicable in accordance with this agreement. in case that the agreement contains contradictory provisions, the documents constituting\nthe agreement shall have the following priority for the purpose of i"
+    },
+    {
+        "chunk_id": 40,
+        "text": "nterpretation:\na) \nthe agreement;\nb) \nthe appendices in order of their number;\n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008 \n\nsource: pareteum corp, 8-k, 10/1/2008\nappendix no.\nappendix name\nappendix 1\nservice description\nappendix 2\nfinancials\nappendix 3\nimplementation plan\nappendix 4\nforecasting\nappendix 5\nlawful intercept\nappendix 6\nservice level a"
+    },
+    {
+        "chunk_id": 41,
+        "text": "greement\nappendix 7\naccounting and billing\nappendix 8\nroaming\nappendix 9\nbank guarantee\nappendix10\nprotocol of delivery\nappendix 11\ntechnical specification\nappendix 12\n\nappendix 13\n\n3. \nhosting services\n3.1\nt-mobile shall provide the hosting services, as described in appendix 1, during the term of this agreement from the ready for service\ndate.\n3.2\nt-mobile shall ensure that all  from elephant talk customers and other telecommunication end users in the netherlands and in\nthe relevant roaming cou"
+    },
+    {
+        "chunk_id": 42,
+        "text": "ntries, as further specified in the agreement.\n3.3\nelephant talk is responsible and accountable for the installation, maintenance and availability of the leased line between elephant\ntalk’s pop and the t-mobile network, as described in appendix 1. \n3.4  \nt-mobile is open and\nwilling to discuss with elephant talk the provision to elephant talk of new services, meaning services out of the scope of\nthis agreement, in the dutch market.\n3.5\nparties agree that elephant talk, if applicable, makes a fea"
+    },
+    {
+        "chunk_id": 43,
+        "text": "ture available in the sim card to display the brand name of elephant\ntalk customers, when elephant talk customers are connected - via the elephant talk infrastructure - to the t-mobile\nnetwork. t-mobile is aware of the fact that out-dated devices might not support this feature available in the sim cards.\n3.6\nparties agree to implement the rules and procedures pursuant to dutch legislation for number portability prior to the ready for service\ndate, according to appendix 1. a elephant talk msisdn "
+    },
+    {
+        "chunk_id": 44,
+        "text": "that is out-ported from elephant talk’s customer base will be barred\nfrom accessing the elephant talk services in the t-mobile network. \n3.7\nparties shall use their best efforts to ensure   as set out in appendix 1. elephant talk is responsible and liable for , as\ndescribed in appendix 11. \nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n3.8\nt-mobile sh"
+    },
+    {
+        "chunk_id": 45,
+        "text": "all support elephant talk in fulfilling its legal obligations under dutch law with respect to lawful interception under the\nterms and conditions as set forth in detail in appendix 5. elephant talk agrees to inform in writing, before the ready for service date,\nthe relevant dutch authority (which is at the time of closing of this agreement the public prosecutor) that t-mobile will carry out the\nlawful intercept requests regarding elephant talk customers and that t-mobile will and is entitled to c"
+    },
+    {
+        "chunk_id": 46,
+        "text": "ollect the financial\ncompensation of the concerning authority for these legal intercept activities on behalf of elephant talk. elephant talk shall\nprovide t-mobile with a copy of the aforementioned letter to the relevant dutch authority before the ready for service date.\n\n4. \nimplementation\n4.1\nthe parties shall implement the hosting services according to the implementation plan, as described in appendix 3.\n4.2\nthe parties shall provide each other with information on preparations made and other "
+    },
+    {
+        "chunk_id": 47,
+        "text": "details relevant to the implementation of the\nhosting services.\n4.3\nif it becomes known to a party that either a delay shall occur or is likely to occur, such party shall immediately notify the other party\nthereof in writing. in such case, the reason for the delay shall be given as well as the moment when it is anticipated that the implementation\ncan take place.\n4.4  \n. t-mobile shall resolve every critical part of the hosting service as soon as reasonable possible and in any event before the da"
+    },
+    {
+        "chunk_id": 48,
+        "text": "te\nwhich is  after the agreed .\n\nonce the hosting service and every critical part, as  the pod, thereof has successfully passed the  pursuant to the procedures\ndescribed in the pod and appendix 3 the service shall be accepted by elephant talk and elephant talk shall sign the protocol\nof delivery acknowledging such acceptance.\n4.5\nsubject to article 4.4., elephant talk shall commence the soft launch on or after the . from the  elephant talk shall be\npermitted to (technically) test the hosting ser"
+    },
+    {
+        "chunk_id": 49,
+        "text": "vices for the duration of five (5) calendar weeks, with a limited number of users (). the\ntraffic generated during the soft launch shall be free of charge for up to  - based on the tariffs t-mobile will charge elephant talk\naccording to appendix 2. for all other users and costs above the ,- per user, elephant talk has to pay the fees for the hosting\nservices as defined in appendix 2. the soft launch is not part of the forecasts pursuant to appendix 4. elephant talk will finalize the\nsoft launch "
+    },
+    {
+        "chunk_id": 50,
+        "text": "by signing the protocol of delivery, according to appendix 3 and 11.\n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n4.6  \nif it would become applicable, elephant talk shall obtain any regulatory approvals, consents, or decisions which allow\nelephant talk to utilize the hosting services from t-mobile to provide the elephant talk services to elephant ta"
+    },
+    {
+        "chunk_id": 51,
+        "text": "lk\ncustomers as contemplated by this agreement. t-mobile agrees - but is not obliged - to reasonably assist elephant talk in obtaining\nsuch regulatory approvals, consents or decisions, especially by making available to elephant talk necessary documents, technical\nspecifications and other information required and by cooperating through common communication to any regulatory authorities. \n\n5. \nforecasts & commitments\n5.1\na trial period, covering the  calendar months from commercial launch date sha"
+    },
+    {
+        "chunk_id": 52,
+        "text": "ll apply for elephant talk in order to gain\nexperiences and knowledge for elephant talk on forecasting and call behavior of its elephant talk customers. .\n5.2\nelephant talk shall provide quarterly forecasts in writing expressed in volume for the use of the hosting services. details as parties\nhave agreed upon regarding the forecasts are stipulated in appendix 4.\n5.3\n.\n5.4\nelephant talk accepts that t-mobile will not be bound to the service level agreed between parties pursuant to article 6 of th"
+    },
+    {
+        "chunk_id": 53,
+        "text": "is\nagreement in relation to the relevant quarter, if the .\n5.5\nin case of (promotional) actions and events that will or might temporarily exceed the forecasted traffic volume, elephant talk shall\ninform t-mobile as soon as possible, after which t-mobile shall make reasonable efforts to take appropriate and business wise feasible\nmeasures to prevent network interruptions. \n\n6. \nservice level\n6.1  \nthe hosting services shall\nbe provided in accordance with the level of service and support as the pa"
+    },
+    {
+        "chunk_id": 54,
+        "text": "rties have agreed upon in appendix 6.\n6.2  \nat no point in time shall one of the parties carry out service or support on equipment, excluding sim cards ordered according to article\n16, that belongs to the other party or is provided or maintained by the other party, unless the other party has agreed in writing to such\nmeasures in advance.\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elepha"
+    },
+    {
+        "chunk_id": 55,
+        "text": "nt talk and t-mobile, 18/9/2008\n\n6.3  \nt-mobile shall give prior\nnotice to elephant talk about planned outages and planned work as agreed in appendix 6.\n\n7.  \ndata protection & privacy\n7.1\nall rights to the personal and traffic data related to elephant talk customers which elephant talk places at the disposal of t-\nmobile, as well as to the results of the t-mobile registering and processing of this data, shall rest in elephant talk. t-mobile shall\nhave at its disposal data covered by the agreeme"
+    },
+    {
+        "chunk_id": 56,
+        "text": "nt only to the extent and as long as necessary for t-mobile to fulfill its obligations\npursuant to this agreement.\n7.2\nboth parties confirm that they shall comply with the data privacy regulations and laws applicable in the netherlands and internationally,\nincluding the dutch data protection act (“wet bescherming persoonsgegevens”), as amended or varied from time to time. t-mobile\nundertakes to process personal data only for the purpose of this agreement.\n7.3\n. t-mobile will refrain from using a"
+    },
+    {
+        "chunk_id": 57,
+        "text": "ny elephant talk customer related data for any other purpose than providing the hosting\nservices to elephant talk, with the exception of:\n\n·\nlegal tapping requirements in accordance with a request from the relevant public body; and\n\n·\nnecessary use for the purposes of preventing, tracing and fighting fraud or irregularities; and\n\n·\nother activities required by law.\n8. \nthe co-operation relationship\n\n8.1\nthe authorized members of each party shall fully co-operate in the performance of the agreeme"
+    },
+    {
+        "chunk_id": 58,
+        "text": "nt. the account manager of each party\nshall act as the first point of contact in relation to any issues provided for in the agreement. each party may change its contact person at\nany time by informing the other party in writing.\n8.2\nthe parties shall promptly inform each other of a breakdown in their respective systems or mobile telecommunications network that has or\nmight have an effect on the hosting services and/or the agreement.\n\n8.3  \n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential trea"
+    },
+    {
+        "chunk_id": 59,
+        "text": "tment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n9. \nprices, charging, billing and accounting\n\n9.1 \ndevelopment costs & prices for hosting services\n9.1.1\nsubject to the terms of this agreement, elephant talk shall pay t-mobile the total amount of  -as specified in appendix 2, as a\ncontribution for upfront (network related) developments costs of the hosting services, including  services, as described in appen"
+    },
+    {
+        "chunk_id": 60,
+        "text": "dix\n1. payments shall be made in accordance with article 9.2.\n9.1.2\nthe prices to be paid by elephant talk to t-mobile for the hosting services rendered are stated in appendix 2. such prices may be\namended in accordance with the terms of this agreement and appendix 2 and shall be paid by elephant talk to t-mobile in\naccordance with article 9.2. \n9.1.3\nif the prices due to subsequent changes in dutch laws and regulations become invalid or unenforceable the prices shall be modified to the\nextent r"
+    },
+    {
+        "chunk_id": 61,
+        "text": "equired in order to be in conformity with such laws and regulations. in the event that such change of prices reasonably requires\nthat parties revise the applicable price structure of the hosting services in its entirety, parties shall enter into good faith negotiations to\nagree upon new prices.\n\n9.2  \ncharging\n\n9.2.1\nt-mobile has charged the first installment of  to elephant talk with regard to elephant talk’s contribution for upfront\n(network related) developments costs, as mentioned in article"
+    },
+    {
+        "chunk_id": 62,
+        "text": " 9.1.1, after signing of the heads of agreement between the parties dated\n. the second installment of  shall be charged to elephant talk right after signing of the agreement and shall be paid by\nelephant talk within fifteen (15) calendar days of the invoice date.\n9.2.2\nwhenever an elephant talk customer uses the elephant talk wholesale services, elephant talk shall be fully responsible\nfor timely payment of the appropriate price(s) established under article 9.1.2 for the hosting services used. e"
+    },
+    {
+        "chunk_id": 63,
+        "text": "lephant talk shall pay to\nt-mobile the charges for the hosting services as from the ready for service date, including the charges mentioned under article 4.5.\n9.2.3\nin addition to the invoice mentioned under article 9.2.1., t-mobile shall on a monthly arrear basis submit invoices to elephant talk\ndetailing the prices payable by elephant talk under article 9.2.2. t-mobile will send the following invoices for:\na) \nnetwork hosting services;\na) \ncosts of authorized lawful intercept (to the extent pr"
+    },
+    {
+        "chunk_id": 64,
+        "text": "ovided for under appendix 5);\nb) \ncosts for other services agreed upon.\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n9.2.4\nelephant talk shall pay all invoices no later than  after the invoice date. elephant talk , in the event that elephant\ntalk fails to meet   \n9.2.5\n\n9.2.6\ninvoices submitted to elephant talk by t-mobile shall be itemized in accorda"
+    },
+    {
+        "chunk_id": 65,
+        "text": "nce with dutch acknowledged principles of billing and\naccounting.\n9.2.7\nall charges under this agreement are exclusive of value-added tax (vat), duties or levies imposed by any authority, government or\ngovernmental agency and any other applicable taxes payable in relation to the hosting services supplied to elephant talk. any taxes\nshall be charged in accordance with the relevant regulations in force at the time of making the taxable supply to elephant talk and\nshall be paid by elephant talk.\nal"
+    },
+    {
+        "chunk_id": 66,
+        "text": "l amounts and any payment of charges under this agreement shall be made in euros and in full without any set-off, deductions or\nwithholding whatsoever.\n9.2.8\ninvoices not paid within the time limit set down in article 9.2.4 shall bear interest (“enkelvoudig”) on a daily basis at the rate of the legal\ncommercial interest rate (“wettelijke handelsrente”) plus 1  until full payment is received by t-mobile whether before or after judgment.\ninterest shall continue to accrue notwithstanding terminatio"
+    },
+    {
+        "chunk_id": 67,
+        "text": "n or expiry of this agreement for any cause whatsoever.\n9.2.9\nelephant talk may object to any invoice according to the procedure set out in article 4 of appendix 7, accounting and billing. in the\nevent of invoicing irregularities, parties shall use their best efforts to establish the reason for and to eliminate such irregularities as quickly\nas possible.\n\n9.2.10 \nelephant talk will be\naccountable for and shall\npay all generated traffic\nby elephant talk\ncustomers -including\ntraffic generated via\n"
+    },
+    {
+        "chunk_id": 68,
+        "text": "stolen or lost sim cards -\nto t-mobile . \n\n9.2.11\nelephant talk bears the risk of and shall indemnify t-mobile against high usage, fraud and bed debts/non-payment of its elephant\ntalk customers.\n\n9.3 \nbilling and accounting\n\n9.3.1\nprocedures for billing and accounting information are provided in appendix 7.\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008"
+    },
+    {
+        "chunk_id": 69,
+        "text": "\n\n9.3.2\nin order to exchange invoice information, tap files will be transferred by t-mobile to elephant talk, as stated in appendix 7.\n9.3.3\nfor verification purposes t-mobile will keep the cdrs in accordance with dutch legislation.\n\n9.4 \nfinancial security\n9.4.1.  \n\n:\na. elephant talk has been declared bankrupt or has applied for bankruptcy according to 18.1 sub g, or;\nb. elephant talk \n\n.\n9.4.2.\nt-mobile shall not require financial security as set out in 9.4.1as long as the ‘  \nt-mobile custom"
+    },
+    {
+        "chunk_id": 70,
+        "text": "ers using  will . for  elephant talk will issue an invoice to t-mobile. parties agree that as long as:\n\n·\n ; and\n\n·\nthe invoice for these  delivery of the hosting services by t-mobile according to this agreement,\narticle 9.4.1. shall not apply.\nin the event that elephant talk does not comply with the payment terms as set out in article 9.2.4., parties agree that t-mobile is\nentitled  elephant talk following the ‘ with the amounts which elephant talk ( or any of its affiliates) is due to t-mobile"
+    },
+    {
+        "chunk_id": 71,
+        "text": "\naccording to this agreement.\n9.4.3.\nas soon as article 9.4.2. does no longer apply - .\n\n10. \ncustomer care support\n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n10.1 \nelephant talk shall for its own account and at its own cost maintain a customer support organization for elephant talk\ncustomers. in addition, t-mobile shall provide second line custom"
+    },
+    {
+        "chunk_id": 72,
+        "text": "er care support to the back office of elephant talk’s customer\nsupport organization, according to appendix 1, 2 and 6.\n\n10.2\nfor the avoidance of doubt, it is stated that parties agree that t-mobile shall not provide customer support services to elephant talk\ncustomers (meaning end-users of elephant talk customers) directly.\n\n11. \nconfidentiality\n11.1 the parties agree that all aspects of the content of this agreement shall be treated as confidential and that no information in respect of the\ncon"
+    },
+    {
+        "chunk_id": 73,
+        "text": "tent and/or existence of this agreement shall be disclosed without the prior written consent of both parties. neither party shall make\nany public announcements, including but not limited to press releases, articles, brochures, advertisements and speeches, concerning this\nagreement without the prior written consent of the other party. however, elephant talk is entitled to communicate - as far as strictly\nnecessary for the proper conclusion of its agreements- to the elephant talk customer that its"
+    },
+    {
+        "chunk_id": 74,
+        "text": " services are provided by (the) t-mobile\n(network). elephant talk customers shall be entitled to communicate that the network coverage is provided by t-mobile, only in case\nthey are asked for it. under no circumstances, elephant talk customers shall make any public announcements, including but not\nlimited to press releases, commercial articles (not being technical or business articles), brochures, advertisements, public speeches and\nother promotional material, that its services to mobile end-use"
+    },
+    {
+        "chunk_id": 75,
+        "text": "rs are provided by the t-mobile network. parties are aware of the fact that it\nmight be impossible for technical reasons to make a reference to the elephant talk (customer) brand name on the display of devices\nand that the t-mobile brand name may appear. elephant talk shall do the utmost to ensure that the communication to mobile\ntelecommunication end-users- including the communication of elephant talk customers - shall be in accordance with this article.\n11.2 the parties hereby agree to treat a"
+    },
+    {
+        "chunk_id": 76,
+        "text": "ll information exchanged between them (hereinafter referred to as \"confidential information\") whether for the\npurposes of this agreement or not as confidential and agree not to disclose such confidential information in any manner whatsoever in\nwhole or in part except as provided for in the article 11.4. the parties may disclose confidential information only to employees, attorneys\nat law and accountants or other professional advisers who need to know such confidential information for the purpose"
+    },
+    {
+        "chunk_id": 77,
+        "text": "s of participation in\nthe discussions connected with this agreement between the parties and any transaction resulting there from and who are informed of and\nbound to the confidential nature of such confidential information. \n11.3 notwithstanding the above, in the event that the receiving party or (to the receiving party’s knowledge) anyone to whom the confidential\ninformation has been supplied to by the receiving party receives a request to disclose under the terms of a subpoena, order, civil\nin"
+    },
+    {
+        "chunk_id": 78,
+        "text": "vestigative demand or similar process issued by a court of competent jurisdiction or by a governmental body all or any part of the\nconfidential information, such receiving party agrees to:\n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\ni.\nnotify the disclosing party promptly in writing of the existence, terms, and circumstances surrounding such reques"
+    },
+    {
+        "chunk_id": 79,
+        "text": "t;\n\nii.\nconsult with the disclosing party on the advisability of taking legally available steps to resist or narrow such request;\n\niii.\ngive the disclosing party the opportunity to defend, limit or protect against such disclosure;\n\niv.\nif disclosure of such information is lawfully required, furnish only that portion of the confidential information which is legally\nnecessary or appropriate in the light of all the circumstances and seek to obtain confidential treatment for any information required"
+    },
+    {
+        "chunk_id": 80,
+        "text": "\nto be disclosed.\n11.4 for the purposes of this agreement, confidential information shall not be considered to be confidential if such confidential information is:\na) \nin or passed into the public domain other than by breach of this agreement; or\nb) \nknown to the receiving party\nprior to the disclosure by the disclosing party without any obligation of confidentiality; or\nc) \ndisclosed to a receiving party without restriction by a third party having the full right to disclose; or\nd) \nindependentl"
+    },
+    {
+        "chunk_id": 81,
+        "text": "y developed by a receiving party to whom no disclosure of confidential information relevant to the development of\nsuch confidential information has been made.\n11.5 this article 11 shall survive the termination of this agreement as provided for in articles 17 and 18 for a period of two (2) years but shall not in\nany way limit or restrict either party's use of its own confidential information.\n\n12. \nlimitation of liability\n12.1 without prejudice to the provisions expressly stated elsewhere in this"
+    },
+    {
+        "chunk_id": 82,
+        "text": " agreement, a party's liability for damage suffered by the other party,\nattributable to the first mentioned party or a person for whom it is liable by law, shall be limited to the following events, and the following\namounts:\n\na) \nfor direct damage to physical goods (property damage or “zaakschade”) or directly resulting from death or personal injury: up to\na maximum of  per event or series of connected events and up to a further maximum of  for all events (connected or not) in\nany period of 12 c"
+    },
+    {
+        "chunk_id": 83,
+        "text": "alendar months;\n\nb)  \nfor damage directly resulting from a material breach of this agreement: up to a maximum  or  as set out in appendix 2),\nwhatever amount is the highest, in any period of 12 calendar months.\n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n12.2\nin no event shall either party be liable for indirect or consequential loss or damage, inc"
+    },
+    {
+        "chunk_id": 84,
+        "text": "luding but not limited to, loss of profit, loss of sales\nor turnover, loss of or damage to reputation, loss of contract, loss of business, loss of anticipated savings and interest, increased\noperation costs, increase maintenance costs even if such loss or damage was reasonably foreseeable or if a party had been advised by the\nother party of the possibility of incurring such loss or damage.\n\n12.3\nin no event shall any employee of either party or of an affiliated company be liable to the other par"
+    },
+    {
+        "chunk_id": 85,
+        "text": "ty for any act of negligence or intent\nunder or in connection with this agreement. save for the limitations in articles 12.1 and 12.2 nothing in the foregoing shall in any way\nrestrict the liability of either party for the actions of its employees.\n12.4\nlimitation of liability as described in this article shall not apply:\n\na) in case the damage or loss is caused by a party's willful misconduct (including fraud) or gross negligence, or\n\nb) in case of a breach of a parties obligation under article"
+    },
+    {
+        "chunk_id": 86,
+        "text": " 11 (confidentiality) and article 15 (indemnification for breach of intellectual\nproperty rights).\n\n12.5\nany claim for damages must be notified to the other party within six (6) months as from the date on which the damage was caused, failing\nwhich such claim is deemed to be waived.\n\n12.6 \nelephant talk will be fully responsible for the settlement of, and shall indemnify (“vrijwaren”) t-mobile against any claims made\nby elephant talk customers or third parties with whom elephant talk has a (contr"
+    },
+    {
+        "chunk_id": 87,
+        "text": "actual) relationship and which claims are\nrelated to this (contractual) relationship\n\n13. \nsuspension and termination of hosting services\n13.1\nnotwithstanding anything stipulated in the agreement, t-mobile may without liability suspend or terminate whole or part of the hosting\nservices in relation to one or more elephant talk customers, in circumstances where t-mobile would suspend or terminate those\nservices to its own customers, in the following circumstances - or circumstances of similar seve"
+    },
+    {
+        "chunk_id": 88,
+        "text": "rity.\na) \n;  \nb) \n; or\nc) \nsuspected fraudulent or unauthorized use by the relevant ; or\n\nd)\nnecessary maintenance or enhancement of the t-mobile network.\nin the event of planned suspension or termination of all or any of the hosting services, t-mobile shall inform elephant talk\naccordingly by sending a written notification, as soon as reasonably and business wise possible.\n13.2\nfurthermore, t-mobile may without liability temporarily suspend all or any of its hosting services to elephant talk if"
+    },
+    {
+        "chunk_id": 89,
+        "text": " a (partial or\ntemporary) breakdown on the t-mobile network should occur. such temporarily suspension shall - to the extent possible - be limited to\nthe location areas where the temporarily breakdown occurs. immediately after the t-mobile network has been restored, t-mobile shall\ntake all appropriate measures in order to re-establish the hosting services with the shortest possible delay, in accordance with the\nprocedures as described in appendix 6.\n\nsource: pareteum corp, 8-k, 10/1/2008\nconfiden"
+    },
+    {
+        "chunk_id": 90,
+        "text": "tial treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008 \n\n13.3\nt-mobile may without liability limit at its own discretion the availability of all or any of the hosting services above the level of the traffic\nforecasts of hosting services as defined in article 5 and appendix 4, provided that the provision of these hosting services -above the\nlevel of the traffic forecasts - to elephant talk have a noticeable"
+    },
+    {
+        "chunk_id": 91,
+        "text": " negative impact on the quality of the t-mobile network and on the\nprovision of services to t-mobile customers.\n\n14. \nforce majeure\n14.1\nnon-performance by either party of its obligations pursuant to this agreement or delay in performing the same shall not constitute a\nbreach of the agreement if and for as long as it is due to a force majeure event, including, but not limited to, government action or\nrequirement of regulatory authority, lock-outs, strikes, shortage of transportation, war, terror"
+    },
+    {
+        "chunk_id": 92,
+        "text": "ist attacks, rebellion or other military action,\nfire, floods, natural catastrophes, that a party is not able to overcome with reasonable and proportional efforts, or a non-performance of\nobligations by a sub-contractor to a party - in circumstances where it is reasonably impossible for that party or an other sub-contractor to\nperform such obligation instead -, pursuant to any of the aforementioned reasons.\n14.2\nthe party prevented from fulfilling its obligations shall on becoming aware of such "
+    },
+    {
+        "chunk_id": 93,
+        "text": "event inform the other party in writing of such force\nmajeure event as soon as possible.\nif the affected party fails to inform the other party of the occurrence of a force majeure event as set out in article 14.1 above, then such\nparty thereafter shall not be entitled to refer such events to force majeure as a reason for non-fulfillment. this obligation does not apply if\nthe force majeure event is known by both parties or the affected party is unable to inform the other party due to the force ma"
+    },
+    {
+        "chunk_id": 94,
+        "text": "jeure event.\n14.3\nif the force majeure event continues for more than two (2) consecutive calendar weeks, then the parties shall promptly meet and discuss\nmethods to resolve the difficulties arising from the event of force majeure. if no agreement is reached by the parties within a period of\nfifteen(15) calendar days and the force majeure event continues to have a substantial effect on the performance of the agreement, either\nparty shall have the right to terminate this agreement in whole or in p"
+    },
+    {
+        "chunk_id": 95,
+        "text": "art with immediate effect by written notice without incurring any\nfinancial liability to the other party as a consequence of such termination. \n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n15. \nintellectual property rights\n\n15.1\nthis agreement does not imply any transfer of intellectual property right. neither party shall use the other party's name,"
+    },
+    {
+        "chunk_id": 96,
+        "text": " trademarks,\nservice marks or other intellectual property rights without the other party’s prior written consent. elephant talk shall guarantee that\nin any agreement it concludes with elephant talk customers the following provision will be included: ‘in no circumstances, [x] shall\nuse t-mobile’s name, trademarks, service marks or other intellectual property rights in public announcements, including but not limited\nto press releases, commercial articles (not being technical or business articles),"
+    },
+    {
+        "chunk_id": 97,
+        "text": " brochures, advertisements public speeches and other\npromotional material.’\n15.2\nelephant talk is allowed to market and sell its services to elephant talk customers under a brand name chosen by elephant\ntalk. however, elephant talk shall not use any logos, names or other material that bears, is similar or refers to any intellectual\nproperty right of t-mobile or t-mobile competitors (meaning mobile network operators, mobile virtual network operators and enhanced\nservice providers in the netherlan"
+    },
+    {
+        "chunk_id": 98,
+        "text": "ds) without prior written approval of t-mobile.\n15.3\nwhen marketing its elephant talk wholesale services in the netherlands, elephant talk shall refrain from using comparative\nadvertising, in any form of media, in relation to t-mobile’s, including its affiliate’s, products and/or services.\n15.4\nelephant talk will defend, indemnify and will hold t-mobile harmless from and against any claim and costs assessed against t-\nmobile by a third party alleging that the elephant talk wholesale services, co"
+    },
+    {
+        "chunk_id": 99,
+        "text": "nstitute an infringement of any third party's intellectual\nproperty rights in circumstances where the alleged infringement is attributable to elephant talk and in no way the fault of t-mobile or\nits affiliated company. if such a claim is valid, elephant talk shall make the modifications needed to cease the infringement at its own\nexpense as soon as possible. such modifications will not have any impact on the functionality and costs of the provided hosting services.\nelephant talk shall inform t-m"
+    },
+    {
+        "chunk_id": 100,
+        "text": "obile on any of such modifications as soon as possible.\n\n15.5\nt-mobile shall retain all right, title and interest in and to the hosting services, including all intellectual property rights therein and any\nmodifications or enhancements thereof.\n\n15.6 \nt-mobile hereby grants elephant talk a fully paid-up, non-exclusive licence to use the hosting services for the purpose of\nelephant talk in providing the elephant talk wholesale services during the term of this agreement without further\nconsideratio"
+    },
+    {
+        "chunk_id": 101,
+        "text": "n. this licence granted shall take effect on the date that the relevant hosting services is first used by or on behalf of\nelephant talk to provide the elephant talk wholesale services under this agreement.\n\n16. \nsim cards & calling credit\n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n16.1\nelephant talk shall order and purchase sim cards.\n16.2\nin princ"
+    },
+    {
+        "chunk_id": 102,
+        "text": "iple the  will be of  will remain the property of t-mobile at all times.\n16.3\nt-mobile shall retain at all times full ownership of its intellectual property rights vested in the software (including t-moible’s and its\nsupplier related software and codes, but excluding typical elephant talk’s and/or other party’s content) contained in the t-mobile\nimsi’s.\n\n16.4 \nparties agree that they will re-discuss the provisioning of a , the implementation and associated costs of the  shall be considered\npart "
+    },
+    {
+        "chunk_id": 103,
+        "text": "of the agreement and therefore shall not result in additional costs for elephant talk provided that no  are involved.\nelephant talk shall retain at all times full ownership of its intellectual property rights vested in the software contained in the . .\n16.5\nt-mobile has a strict policy with respect to the usage of  (also known as \" \") and any other devices that ”). these  are\nunder no circumstances allowed on the t-mobile network. elephant talk is aware of t-mobile’s position with respect to the"
+    },
+    {
+        "chunk_id": 104,
+        "text": "se \nand will refrain from using  or from doing business with any party (including elephant talk’s customers), who uses these  to\nthe t-mobile network. furthermore, duplicating the  or functionalities of the  without the explicit prior written approval of t-\nmobile is forbidden. elephant talk will (contractually) inform the elephant talk customers that they will refrain from using \nor . t-mobile herewith gives elephant talk approval to  once, only for the purpose of supplying  as commonly known i"
+    },
+    {
+        "chunk_id": 105,
+        "text": "n\nthe market at the moment of signing the agreement, to elephant talk customers, only to be used by end users of elephant talk\ncustomers for normal end user purposes. parties shall use their reasonable endeavors to co-operate in order to prevent and clarify any\nmisuse of  or use of . in the event that t-mobile discovers such improper use or forbidden acts of elephant talk\ncustomers, parties shall contact each other’s fraud manager immediately, in order to stipulate details and take appropriate m"
+    },
+    {
+        "chunk_id": 106,
+        "text": "easures. in\naddition, elephant talk shall do its best to stop these actions immediately on first request of t-mobile. should elephant\ntalk wilfully or negligently fail to comply with an t-mobile request, elephant talk shall bear full responsibility and indemnify t-\nmobile for all damages and losses t-mobile suffers resulting from actions as mentioned in this article by elephant talk’s customers.\n\n17. \nduration of the agreement\n\n17.1\nthis agreement shall come into force on the date of the agreeme"
+    },
+    {
+        "chunk_id": 107,
+        "text": "nt, and shall, subject to article 18, remain in full force and effect for an\ninitial period of  from the commercial launch date.\n17.2\nthe agreement may be terminated by both parties with a notification period of  before the end of the initial term of the agreement. if\nno termination notice is provided, the agreement will be automatically extended for consecutive  periods until such time as \ntermination notice is provided. at the end of  parties will negotiate in good faith regarding a possible e"
+    },
+    {
+        "chunk_id": 108,
+        "text": "xtension of the initial term.\n\nparties can mutually agree in writing to deviate from an automatic extension of  by extending this agreement for a longer period than\n.\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n18. \ntermination of agreement\n18.1\nin addition to the conditions of article 17, this agreement may be terminated as follows:\n\na.\nby mutual ag"
+    },
+    {
+        "chunk_id": 109,
+        "text": "reement of the parties; or\n\nb.\nby either party, with immediate effect, if the other party is in material breach of any provision of this agreement and does not or is not\ncapable of remedying such breach within a reasonable time and in any event within sixty (60) business days of receipt of a written\nnotice to such effect. a material breach will, for the purpose of this agreement, not include the event that elephant talk fails to\ncomply with its payments obligations under article 9.2.; or\n\nc.\nby "
+    },
+    {
+        "chunk_id": 110,
+        "text": "t-mobile, if elephant talk fails to comply with its obligations under article 16.5 upon written notification thereof by t-mobile,\nwithin a reasonable period of time following the respective notification date (but in no event later than forty-five (45) business days\nof receipt of a written notice to such effect); or,\n\nd.\nby t-mobile, subject to  . in the present situation ; or\n\ne.\nby t-mobile or its successors, .; or,\n\nf.\nby elephant talk, subject to  and this entity is at the time of signing of "
+    },
+    {
+        "chunk_id": 111,
+        "text": "; or\n\ng..\nby either party, with immediate effect, if the other party becomes bankrupt or insolvent  (or bankruptcy or insolvency is appropriately\nrequested for) or is liquidated or dissolved other than for the purpose of a bona fide reconstruction or amalgamation, or if that other\nparty enters into any composition or arrangements with its creditors; or,\n\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreeme"
+    },
+    {
+        "chunk_id": 112,
+        "text": "nt between elephant talk and t-mobile, 18/9/2008\n\n18.2 \nin case the number of frequencies or the use of the frequencies allocated to the t-mobile network is reduced pursuant to\nregulatory provisions the parties shall renegotiate in good faith the commercial conditions of this agreement in order to\ncomply with regulatory provisions.\n\n18.3\nin the event that t-mobile is in material breach and elephant talk terminates the agreement according to article 18.1.b, .\n18.4\nthis agreement will terminate im"
+    },
+    {
+        "chunk_id": 113,
+        "text": "mediately in the event that a final order made by the relevant governmental authority not granting,\nrevoking or denying renewal of t-mobile dcs 1800 or umts/hsdpa license or permission to operate the t-mobile network or any other\nlicense to operate the hosting services, takes effect, if such order will be beyond the reasonable control of t-mobile. \n\n19. \nmodifications\n19.1\nany modifications and/or additions to this agreement and/or the appendices shall be valid only if made in writing and signed"
+    },
+    {
+        "chunk_id": 114,
+        "text": " by duly\nauthorized representatives of both parties.\n19.2\nif a party requests a modification of this agreement because (a) a material change occurs in the laws and regulations governing\ntelecommunications in the netherlands, or (b) a material change (including enforcement action by any regulatory authority) occurs which\naffects or reasonably could affect the commercial and technical basis of this agreement, parties shall enter into good faith negotiations in\norder to determine if a modification "
+    },
+    {
+        "chunk_id": 115,
+        "text": "of the agreement is necessary and if so agree upon the way to implement the required changes in or\nmodifications to this agreement.\n19.3\nparties agree that the operational manual can only be modified by t-mobile’s account manager upon consultation with elephant\ntalk’s authorized account manager and with the subsequent written agreement of elephant talk and t-mobile.\n\n20. \nmiscellaneous\n\n20.1 \nsuccessors, assigns\n\nthis agreement and the rights and obligations specified herein shall be binding upo"
+    },
+    {
+        "chunk_id": 116,
+        "text": "n the parties and their respective legal successors and\nneither party shall sell, transfer or assign this agreement or any part, interest, right or obligation hereunder except that a party shall have\nthe right to transfer or assign this agreement in whole (but not in part) to an affiliated company provided that:\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9"
+    },
+    {
+        "chunk_id": 117,
+        "text": "/2008\n\na)\nsuch affiliated company expressly assumes, by written instrument, all of the obligations of the party under this agreement and\nthereby becomes a party to this agreement, and\n\nb)\nsuch affiliated company has adequate financial strength, resources and experience in the reasonable opinion of the other party\n(such opinion to be obtained in writing in advance of any assignment), to comply with its obligations under this agreement. such\nassignment shall not release the assigning party of its "
+    },
+    {
+        "chunk_id": 118,
+        "text": "obligations under article 11 of this agreement.\nno person other than a party to this agreement shall acquire any rights hereunder as a third-party beneficiary or otherwise by virtue of\nthis agreement.\nboth parties will remain independent and competing companies, will develop their own market strategy, and will address the market and the\nsubscribers directly and independently.\n\n20.2 \nno waiver\n\nfailure by any party at any time to require performance of any provisions of this agreement shall in no"
+    },
+    {
+        "chunk_id": 119,
+        "text": " manner affect its rights to enforce\nthe same, and the waiver by any party of any breach of any provision of this agreement shall not be construed to be a waiver by such\nparty of any succeeding breach of such provision or waiver by such party of any breach of any other provision hereof. \n\n20.3 \nseverability\n\nif any part of this agreement or any appendices hereto is held to be invalid or unenforceable according to regulatory provisions, this\nshall not invalidate any other provisions of this agree"
+    },
+    {
+        "chunk_id": 120,
+        "text": "ment or the appendices hereto. the parties shall attempt through negotiations in\ngood faith to replace any such provision of this agreement or the appendices so held to be invalid or unenforceable with a valid\nprovision which comes as close to the original economic understanding and intention of the parties as legally feasible.\nthe same applies insofar as this agreement and/or its appendices prove to have a gap. in this case, the parties shall endeavor to close\nthe gap through negotiations condu"
+    },
+    {
+        "chunk_id": 121,
+        "text": "cted in good faith.\n\n20.4 \nentire agreement\n\n20.4.1\nthis agreement and the documents referred to in it contain the whole agreement between the parties relating to the subject matter of this\nagreement and supersede all previous agreements and understandings whether written or oral between the parties.\n\n20.4.2\neach party acknowledges that in entering into this agreement it shall not rely on any representation, warranty or other assurance except\nas set out in this agreement.\n\nsource: pareteum corp,"
+    },
+    {
+        "chunk_id": 122,
+        "text": " 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n20.5 \nnon-solicitation\n\nwithout the prior written consent of the other party, a party shall not at any time while this agreement is in force and for a one-year period\nafter termination of this agreement either for itself or on behalf of any other company solicit, induce or cause any employee of the other\nparty or any affiliated"
+    },
+    {
+        "chunk_id": 123,
+        "text": " company of this other party who has been a representative of or employed by the other party in connection with\nthis agreement to leave such employment. in case of violation of this article, the party shall pay to the other party an equivalent of\neighteen (18) months gross salary of the respective employee. \n20.6 \nsurvival\n\nany provision of this agreement which by its nature or implication (including in respect of any accrued rights and liabilities) is required to\nsurvive termination or expiry o"
+    },
+    {
+        "chunk_id": 124,
+        "text": "f this agreement shall survive termination or expiry as aforesaid.\n\n20.7 \nnotices\n\nany notice or other formal communication to be given or made under or in connection with this agreement, if not stated otherwise\nexplicitly in this agreement and its appendices, shall be in writing, signed by or on behalf of the party giving it and sent by registered\nmail. all notice or other formal communication to be delivered under this agreement shall be addressed to: \n\nfor elephant talk: the cto;\n\nfor t-mobil"
+    },
+    {
+        "chunk_id": 125,
+        "text": "e: the director wholesale & interconnect.\n20.8 \nexpenses\n\neach party shall bear its own costs and expenses including the fees of its professional advisors in relation to the preparation, execution\nand carrying into effect of this agreement and all other documents related to it.\n20.9 \nrepresentation\n\nneither party may in any respect represent the other party or enter into any agreement or other commitment on behalf of the other\nparty except as provided for in this agreement or agreed by the parti"
+    },
+    {
+        "chunk_id": 126,
+        "text": "es in writing.\nthe agreement and conditions contained herein are only related to the dutch market and can not be referred to in discussions or deals\nwith other t-mobile companies and/or deutsche telecom and their respective affiliated companies. due to amongst others market and\ncountry difference, t-mobile expressly states and elephant talk agrees that this agreement cannot and will not create any precedent\nfor any existing or future discussions between elephant talk and t-mobile/deutsche teleco"
+    },
+    {
+        "chunk_id": 127,
+        "text": "m and their affiliated companies outside\nthe netherlands;\nsource: pareteum corp, 8-k, 10/1/2008\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreement between elephant talk and t-mobile, 18/9/2008\n\n21. \ngoverning law\n\nthis agreement shall be governed by and construed in all respects exclusively in accordance with the laws of the netherlands. \n\n22. \ndispute resolution\n\nany dispute, excluding invoice disputes as described in appendix 7, controve"
+    },
+    {
+        "chunk_id": 128,
+        "text": "rsy or claim arising out of or in connection with any aspect\nof this agreement, or the breach, termination or invalidity thereof, shall:\n\na.\nin first instance be referred to the authorized account manager of either party. the account managers shall try to solve the dispute\nwithin ten (10) business days. if the dispute is not resolved within the latter period the appropriate managers of both account\nmanagers will seek for a resolution within ten (10) business days; and\n\nb.\nthereafter, if the matt"
+    },
+    {
+        "chunk_id": 129,
+        "text": "er is not resolved, it shall be referred to the chief executive officers of the managing boards of the parties for\na further period of ten (10) business days for resolution; and\nthereafter, if the matter remains unresolved, it shall exclusively be referred and finally settled by the competent court in the hague within\nthe jurisdiction of the netherlands.\nsource: pareteum corp, 8-k, 10/1/2008\n\nconfidential treatment requested\nwith respect to certain portions hereof\ndenoted with “”\n\nhosting agreem"
+    },
+    {
+        "chunk_id": 130,
+        "text": "ent between elephant talk and t-mobile, 18/9/2008\n\n23. \ncounterpart\nthe agreement is written in the english language in two (2) copies, each party receiving one (1) duly signed copy. both copies are\nauthentic.\nsigned in september 17, 2008\n\nfor t-mobile netherlands b.v.\n/s/ niek jan van damme\nname: mr. niek jan van damme\ntitle: managing director\n\nfor elephant talk communication holding ag \n/s/ steven van der velden\nname: mr. steven van der velden\ntitle: ceo\n\nfor t-mobile netherlands b.v.\n/s/ hans"
+    },
+    {
+        "chunk_id": 131,
+        "text": " van leeuwen\nname: hans van leeuwen\ntitle: financieel directeur\n\nfor elephant talk communication holding ag \n/s/ martin zuurbier\nname: mr. martin zuurbier\ntitle: cto/coo\n____________________________ \nsource: pareteum corp, 8-k, 10/1/2008"
+    }
+]

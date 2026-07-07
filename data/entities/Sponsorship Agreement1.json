@@ -1,0 +1,956 @@
+[
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "jacksonville jaguars",
+        "label": "PERSON",
+        "start": 14,
+        "end": 34
+    },
+    {
+        "text": "november 27, 2017",
+        "label": "DATE",
+        "start": 126,
+        "end": 143
+    },
+    {
+        "text": "jacksonville jaguars",
+        "label": "PERSON",
+        "start": 182,
+        "end": 202
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 283,
+        "end": 290
+    },
+    {
+        "text": "dick’s",
+        "label": "PERSON",
+        "start": 326,
+        "end": 332
+    },
+    {
+        "text": "the national football league (",
+        "label": "ORG",
+        "start": 572,
+        "end": 602
+    },
+    {
+        "text": "the jacksonville jaguars",
+        "label": "ORG",
+        "start": 623,
+        "end": 647
+    },
+    {
+        "text": "jacksonville",
+        "label": "GPE",
+        "start": 850,
+        "end": 862
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 864,
+        "end": 871
+    },
+    {
+        "text": "b. sponsor",
+        "label": "PERSON",
+        "start": 921,
+        "end": 931
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1213,
+        "end": 1214
+    },
+    {
+        "text": "april 1, 2018",
+        "label": "DATE",
+        "start": 1376,
+        "end": 1389
+    },
+    {
+        "text": "2022/23",
+        "label": "CARDINAL",
+        "start": 1475,
+        "end": 1482
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 1502,
+        "end": 1514
+    },
+    {
+        "text": "february",
+        "label": "DATE",
+        "start": 1518,
+        "end": 1526
+    },
+    {
+        "text": "2023",
+        "label": "DATE",
+        "start": 1528,
+        "end": 1532
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1657,
+        "end": 1658
+    },
+    {
+        "text": "dick’s",
+        "label": "PERSON",
+        "start": 2106,
+        "end": 2112
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 3063,
+        "end": 3064
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 3066,
+        "end": 3072
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 3143,
+        "end": 3161
+    },
+    {
+        "text": "section 2(d",
+        "label": "LAW",
+        "start": 3240,
+        "end": 3251
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 3352,
+        "end": 3358
+    },
+    {
+        "text": "first contract year",
+        "label": "DATE",
+        "start": 3367,
+        "end": 3386
+    },
+    {
+        "text": "2018/19",
+        "label": "CARDINAL",
+        "start": 3388,
+        "end": 3395
+    },
+    {
+        "text": "200,000 \nsecond",
+        "label": "QUANTITY",
+        "start": 3399,
+        "end": 3414
+    },
+    {
+        "text": "2019/20",
+        "label": "CARDINAL",
+        "start": 3430,
+        "end": 3437
+    },
+    {
+        "text": "204,000 \nthird",
+        "label": "CARDINAL",
+        "start": 3441,
+        "end": 3455
+    },
+    {
+        "text": "2020/21",
+        "label": "CARDINAL",
+        "start": 3471,
+        "end": 3478
+    },
+    {
+        "text": "208,080",
+        "label": "CARDINAL",
+        "start": 3482,
+        "end": 3489
+    },
+    {
+        "text": "2021/22",
+        "label": "CARDINAL",
+        "start": 3513,
+        "end": 3520
+    },
+    {
+        "text": "212,240 \nfifth",
+        "label": "CARDINAL",
+        "start": 3524,
+        "end": 3538
+    },
+    {
+        "text": "2022/23",
+        "label": "CARDINAL",
+        "start": 3554,
+        "end": 3561
+    },
+    {
+        "text": "216,490",
+        "label": "CARDINAL",
+        "start": 3565,
+        "end": 3572
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 3602,
+        "end": 3608
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 3617,
+        "end": 3635
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 3657,
+        "end": 3660
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 3662,
+        "end": 3663
+    },
+    {
+        "text": "the 1st of each month",
+        "label": "DATE",
+        "start": 3709,
+        "end": 3730
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 3814,
+        "end": 3820
+    },
+    {
+        "text": "first contract year",
+        "label": "DATE",
+        "start": 4036,
+        "end": 4055
+    },
+    {
+        "text": "2018/19",
+        "label": "CARDINAL",
+        "start": 4057,
+        "end": 4064
+    },
+    {
+        "text": "35,000 \nsecond",
+        "label": "QUANTITY",
+        "start": 4068,
+        "end": 4082
+    },
+    {
+        "text": "2019/20",
+        "label": "CARDINAL",
+        "start": 4098,
+        "end": 4105
+    },
+    {
+        "text": "35,700",
+        "label": "CARDINAL",
+        "start": 4109,
+        "end": 4115
+    },
+    {
+        "text": "third contract year",
+        "label": "DATE",
+        "start": 4117,
+        "end": 4136
+    },
+    {
+        "text": "2020/21",
+        "label": "CARDINAL",
+        "start": 4138,
+        "end": 4145
+    },
+    {
+        "text": "36,410",
+        "label": "CARDINAL",
+        "start": 4149,
+        "end": 4155
+    },
+    {
+        "text": "fourth contract year",
+        "label": "DATE",
+        "start": 4157,
+        "end": 4177
+    },
+    {
+        "text": "2021/22",
+        "label": "CARDINAL",
+        "start": 4179,
+        "end": 4186
+    },
+    {
+        "text": "37,140",
+        "label": "CARDINAL",
+        "start": 4190,
+        "end": 4196
+    },
+    {
+        "text": "2022/23",
+        "label": "CARDINAL",
+        "start": 4219,
+        "end": 4226
+    },
+    {
+        "text": "37,890",
+        "label": "CARDINAL",
+        "start": 4230,
+        "end": 4236
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 4568,
+        "end": 4574
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 4721,
+        "end": 4727
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 4833,
+        "end": 4839
+    },
+    {
+        "text": "12) months",
+        "label": "DATE",
+        "start": 4841,
+        "end": 4851
+    },
+    {
+        "text": "arc group, inc.",
+        "label": "ORG",
+        "start": 5064,
+        "end": 5079
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 5081,
+        "end": 5084
+    },
+    {
+        "text": "12/11/2017",
+        "label": "DATE",
+        "start": 5086,
+        "end": 5096
+    },
+    {
+        "text": "post-season",
+        "label": "DATE",
+        "start": 5171,
+        "end": 5182
+    },
+    {
+        "text": "later than 30 days",
+        "label": "DATE",
+        "start": 6012,
+        "end": 6030
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 6275,
+        "end": 6276
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 6496,
+        "end": 6497
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 6780,
+        "end": 6781
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 6959,
+        "end": 6962
+    },
+    {
+        "text": "one business day",
+        "label": "DATE",
+        "start": 7025,
+        "end": 7041
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 7086,
+        "end": 7095
+    },
+    {
+        "text": "three business days",
+        "label": "DATE",
+        "start": 7108,
+        "end": 7127
+    },
+    {
+        "text": "jacksonville jaguars",
+        "label": "PERSON",
+        "start": 7385,
+        "end": 7405
+    },
+    {
+        "text": "6327-4",
+        "label": "DATE",
+        "start": 7412,
+        "end": 7418
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 7440,
+        "end": 7441
+    },
+    {
+        "text": "jacksonville",
+        "label": "GPE",
+        "start": 7464,
+        "end": 7476
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 7478,
+        "end": 7485
+    },
+    {
+        "text": "32244",
+        "label": "CARDINAL",
+        "start": 7486,
+        "end": 7491
+    },
+    {
+        "text": "jacksonville",
+        "label": "GPE",
+        "start": 7493,
+        "end": 7505
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 7507,
+        "end": 7514
+    },
+    {
+        "text": "32202",
+        "label": "DATE",
+        "start": 7515,
+        "end": 7520
+    },
+    {
+        "text": "rick akam",
+        "label": "PERSON",
+        "start": 7528,
+        "end": 7537
+    },
+    {
+        "text": "scott massey",
+        "label": "PERSON",
+        "start": 7545,
+        "end": 7557
+    },
+    {
+        "text": "masseysnfl.jaguars.com",
+        "label": "ORG",
+        "start": 7645,
+        "end": 7667
+    },
+    {
+        "text": "jacksonville jaguars",
+        "label": "PERSON",
+        "start": 7728,
+        "end": 7748
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 7782,
+        "end": 7783
+    },
+    {
+        "text": "jacksonville",
+        "label": "GPE",
+        "start": 7833,
+        "end": 7845
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 7847,
+        "end": 7854
+    },
+    {
+        "text": "32202",
+        "label": "DATE",
+        "start": 7855,
+        "end": 7860
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 8177,
+        "end": 8178
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 8724,
+        "end": 8725
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 8894,
+        "end": 8897
+    },
+    {
+        "text": "jacksonville",
+        "label": "GPE",
+        "start": 9126,
+        "end": 9138
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 9140,
+        "end": 9147
+    },
+    {
+        "text": "jacksonville jaguars",
+        "label": "PERSON",
+        "start": 9265,
+        "end": 9285
+    },
+    {
+        "text": "scott massey",
+        "label": "PERSON",
+        "start": 9321,
+        "end": 9333
+    },
+    {
+        "text": "richard w. akam",
+        "label": "PERSON",
+        "start": 9343,
+        "end": 9358
+    },
+    {
+        "text": "scott massey",
+        "label": "PERSON",
+        "start": 9360,
+        "end": 9372
+    },
+    {
+        "text": "rick akam",
+        "label": "PERSON",
+        "start": 9374,
+        "end": 9383
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 9423,
+        "end": 9424
+    },
+    {
+        "text": "arc group, inc.",
+        "label": "ORG",
+        "start": 9433,
+        "end": 9448
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 9450,
+        "end": 9453
+    },
+    {
+        "text": "12/11/2017",
+        "label": "DATE",
+        "start": 9455,
+        "end": 9465
+    },
+    {
+        "text": "section 5",
+        "label": "LAW",
+        "start": 9666,
+        "end": 9675
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 9706,
+        "end": 9707
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 9771,
+        "end": 9776
+    },
+    {
+        "text": "3) minutes",
+        "label": "TIME",
+        "start": 9778,
+        "end": 9788
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 9884,
+        "end": 9887
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 9889,
+        "end": 9890
+    },
+    {
+        "text": "each quarter",
+        "label": "DATE",
+        "start": 9958,
+        "end": 9970
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 10039,
+        "end": 10044
+    },
+    {
+        "text": "thirty\nseconds",
+        "label": "TIME",
+        "start": 10091,
+        "end": 10105
+    },
+    {
+        "text": "30",
+        "label": "DATE",
+        "start": 10108,
+        "end": 10110
+    },
+    {
+        "text": "thirty seconds",
+        "label": "TIME",
+        "start": 10385,
+        "end": 10399
+    },
+    {
+        "text": "30",
+        "label": "DATE",
+        "start": 10402,
+        "end": 10404
+    },
+    {
+        "text": "each quarter",
+        "label": "DATE",
+        "start": 10452,
+        "end": 10464
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 10674,
+        "end": 10678
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 10680,
+        "end": 10681
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 10914,
+        "end": 10915
+    },
+    {
+        "text": "i. jaguars",
+        "label": "PERSON",
+        "start": 11150,
+        "end": 11160
+    },
+    {
+        "text": "thursday",
+        "label": "DATE",
+        "start": 11161,
+        "end": 11169
+    },
+    {
+        "text": "twenty-three",
+        "label": "CARDINAL",
+        "start": 11182,
+        "end": 11194
+    },
+    {
+        "text": "23",
+        "label": "CARDINAL",
+        "start": 11196,
+        "end": 11198
+    },
+    {
+        "text": "thirty second",
+        "label": "TIME",
+        "start": 11200,
+        "end": 11213
+    },
+    {
+        "text": "30",
+        "label": "DATE",
+        "start": 11216,
+        "end": 11218
+    },
+    {
+        "text": "thursday",
+        "label": "DATE",
+        "start": 11329,
+        "end": 11337
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 11357,
+        "end": 11360
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 11362,
+        "end": 11363
+    },
+    {
+        "text": "thirty second",
+        "label": "TIME",
+        "start": 11365,
+        "end": 11378
+    },
+    {
+        "text": "30",
+        "label": "DATE",
+        "start": 11381,
+        "end": 11383
+    },
+    {
+        "text": "twenty",
+        "label": "CARDINAL",
+        "start": 11515,
+        "end": 11521
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 11523,
+        "end": 11525
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 11540,
+        "end": 11558
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 11574,
+        "end": 11577
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 11579,
+        "end": 11580
+    },
+    {
+        "text": "thirty second",
+        "label": "TIME",
+        "start": 11582,
+        "end": 11595
+    },
+    {
+        "text": "30",
+        "label": "DATE",
+        "start": 11598,
+        "end": 11600
+    },
+    {
+        "text": "twenty",
+        "label": "CARDINAL",
+        "start": 11773,
+        "end": 11779
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 11781,
+        "end": 11783
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 11798,
+        "end": 11816
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 11820,
+        "end": 11821
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 11853,
+        "end": 11871
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 11924,
+        "end": 11927
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 11929,
+        "end": 11930
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 12220,
+        "end": 12238
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 12284,
+        "end": 12285
+    },
+    {
+        "text": "c.",
+        "label": "CARDINAL",
+        "start": 12694,
+        "end": 12696
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 12726,
+        "end": 12744
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 13399,
+        "end": 13400
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 13494,
+        "end": 13495
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 13597,
+        "end": 13598
+    },
+    {
+        "text": "arc group, inc.",
+        "label": "ORG",
+        "start": 13607,
+        "end": 13622
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 13624,
+        "end": 13627
+    },
+    {
+        "text": "12/11/2017",
+        "label": "DATE",
+        "start": 13629,
+        "end": 13639
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 13641,
+        "end": 13642
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 13903,
+        "end": 13904
+    },
+    {
+        "text": "118",
+        "label": "CARDINAL",
+        "start": 14048,
+        "end": 14051
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 16594,
+        "end": 16595
+    },
+    {
+        "text": "arc group, inc.",
+        "label": "ORG",
+        "start": 16605,
+        "end": 16620
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 16622,
+        "end": 16625
+    },
+    {
+        "text": "12/11/2017",
+        "label": "DATE",
+        "start": 16627,
+        "end": 16637
+    }
+]

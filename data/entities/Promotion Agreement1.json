@@ -1,0 +1,6962 @@
+[
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "601(b)(10",
+        "label": "CARDINAL",
+        "start": 81,
+        "end": 90
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 492,
+        "end": 513
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 515,
+        "end": 518
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 520,
+        "end": 528
+    },
+    {
+        "text": "article 1",
+        "label": "LAW",
+        "start": 552,
+        "end": 561
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 583,
+        "end": 584
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 602,
+        "end": 605
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 625,
+        "end": 628
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 630,
+        "end": 633
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 654,
+        "end": 657
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 680,
+        "end": 683
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 701,
+        "end": 704
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 726,
+        "end": 729
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 742,
+        "end": 743
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 756,
+        "end": 759
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 786,
+        "end": 789
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 802,
+        "end": 805
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 835,
+        "end": 836
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 876,
+        "end": 879
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 908,
+        "end": 911
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 923,
+        "end": 926
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 947,
+        "end": 950
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 971,
+        "end": 974
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 1007,
+        "end": 1008
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 1035,
+        "end": 1038
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 1058,
+        "end": 1061
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 1079,
+        "end": 1082
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 1093,
+        "end": 1096
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 1116,
+        "end": 1119
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 1138,
+        "end": 1141
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 1175,
+        "end": 1176
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 1187,
+        "end": 1190
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 1206,
+        "end": 1209
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 1220,
+        "end": 1223
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 1234,
+        "end": 1237
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 1247,
+        "end": 1250
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 1259,
+        "end": 1262
+    },
+    {
+        "text": "6.7",
+        "label": "CARDINAL",
+        "start": 1300,
+        "end": 1303
+    },
+    {
+        "text": "6.8",
+        "label": "CARDINAL",
+        "start": 1324,
+        "end": 1327
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 1343,
+        "end": 1344
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 1368,
+        "end": 1371
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 1413,
+        "end": 1416
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 1452,
+        "end": 1455
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 1496,
+        "end": 1517
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 1519,
+        "end": 1522
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 1524,
+        "end": 1532
+    },
+    {
+        "text": "article 8 representations",
+        "label": "LAW",
+        "start": 1568,
+        "end": 1593
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 1621,
+        "end": 1624
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 1664,
+        "end": 1667
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 1730,
+        "end": 1733
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 1779,
+        "end": 1782
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 1784,
+        "end": 1787
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 1799,
+        "end": 1802
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 1851,
+        "end": 1852
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 1870,
+        "end": 1873
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 1899,
+        "end": 1902
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 1922,
+        "end": 1925
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 1927,
+        "end": 1930
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 1959,
+        "end": 1962
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 1974,
+        "end": 1977
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 2011,
+        "end": 2013
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 2031,
+        "end": 2035
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 2053,
+        "end": 2057
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 2081,
+        "end": 2085
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 2109,
+        "end": 2113
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 2145,
+        "end": 2149
+    },
+    {
+        "text": "10.6",
+        "label": "CARDINAL",
+        "start": 2184,
+        "end": 2188
+    },
+    {
+        "text": "10.7",
+        "label": "CARDINAL",
+        "start": 2225,
+        "end": 2229
+    },
+    {
+        "text": "10.8",
+        "label": "CARDINAL",
+        "start": 2248,
+        "end": 2252
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 2281,
+        "end": 2283
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 2306,
+        "end": 2310
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 2317,
+        "end": 2321
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 2345,
+        "end": 2349
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 2395,
+        "end": 2399
+    },
+    {
+        "text": "11.5",
+        "label": "CARDINAL",
+        "start": 2431,
+        "end": 2435
+    },
+    {
+        "text": "11.6",
+        "label": "CARDINAL",
+        "start": 2465,
+        "end": 2469
+    },
+    {
+        "text": "11.7",
+        "label": "CARDINAL",
+        "start": 2493,
+        "end": 2497
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 2516,
+        "end": 2518
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 2539,
+        "end": 2543
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 2574,
+        "end": 2578
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 2594,
+        "end": 2598
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 2613,
+        "end": 2617
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 2641,
+        "end": 2643
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 2659,
+        "end": 2663
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 2693,
+        "end": 2697
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 2726,
+        "end": 2747
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 2749,
+        "end": 2752
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 2754,
+        "end": 2762
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 2805,
+        "end": 2809
+    },
+    {
+        "text": "13.5",
+        "label": "CARDINAL",
+        "start": 2860,
+        "end": 2864
+    },
+    {
+        "text": "13.6",
+        "label": "CARDINAL",
+        "start": 2877,
+        "end": 2881
+    },
+    {
+        "text": "13.7",
+        "label": "CARDINAL",
+        "start": 2909,
+        "end": 2913
+    },
+    {
+        "text": "13.8",
+        "label": "CARDINAL",
+        "start": 2946,
+        "end": 2950
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 2965,
+        "end": 2969
+    },
+    {
+        "text": "13.10",
+        "label": "CARDINAL",
+        "start": 2981,
+        "end": 2986
+    },
+    {
+        "text": "13.11",
+        "label": "CARDINAL",
+        "start": 3016,
+        "end": 3021
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 3022,
+        "end": 3029
+    },
+    {
+        "text": "13.12",
+        "label": "CARDINAL",
+        "start": 3040,
+        "end": 3045
+    },
+    {
+        "text": "13.13",
+        "label": "CARDINAL",
+        "start": 3060,
+        "end": 3065
+    },
+    {
+        "text": "13.14",
+        "label": "CARDINAL",
+        "start": 3077,
+        "end": 3082
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3190,
+        "end": 3191
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3214,
+        "end": 3215
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 3241,
+        "end": 3242
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 3316,
+        "end": 3337
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 3339,
+        "end": 3342
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 3344,
+        "end": 3352
+    },
+    {
+        "text": "may 31, 2019",
+        "label": "DATE",
+        "start": 3439,
+        "end": 3451
+    },
+    {
+        "text": "technologies, inc.",
+        "label": "ORG",
+        "start": 3495,
+        "end": 3513
+    },
+    {
+        "text": "31",
+        "label": "CARDINAL",
+        "start": 3559,
+        "end": 3561
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 3580,
+        "end": 3588
+    },
+    {
+        "text": "10065",
+        "label": "DATE",
+        "start": 3593,
+        "end": 3598
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 3672,
+        "end": 3680
+    },
+    {
+        "text": "6350",
+        "label": "DATE",
+        "start": 3714,
+        "end": 3718
+    },
+    {
+        "text": "301, columbia",
+        "label": "PERCENT",
+        "start": 3746,
+        "end": 3759
+    },
+    {
+        "text": "md",
+        "label": "GPE",
+        "start": 3761,
+        "end": 3763
+    },
+    {
+        "text": "21046",
+        "label": "DATE",
+        "start": 3764,
+        "end": 3769
+    },
+    {
+        "text": "siga",
+        "label": "GPE",
+        "start": 3779,
+        "end": 3783
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 3788,
+        "end": 3791
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 3916,
+        "end": 3919
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 4018,
+        "end": 4021
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 4183,
+        "end": 4186
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 4245,
+        "end": 4248
+    },
+    {
+        "text": "article 1",
+        "label": "LAW",
+        "start": 4587,
+        "end": 4596
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 5065,
+        "end": 5087
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 5089,
+        "end": 5091
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 5619,
+        "end": 5636
+    },
+    {
+        "text": "1977",
+        "label": "DATE",
+        "start": 5670,
+        "end": 5674
+    },
+    {
+        "text": "the uk bribery act 2010",
+        "label": "ORG",
+        "start": 5703,
+        "end": 5726
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 5987,
+        "end": 6008
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 6010,
+        "end": 6013
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 6015,
+        "end": 6023
+    },
+    {
+        "text": "section 6.5",
+        "label": "LAW",
+        "start": 6068,
+        "end": 6079
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 6125,
+        "end": 6129
+    },
+    {
+        "text": "new york city",
+        "label": "GPE",
+        "start": 6569,
+        "end": 6582
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 6722,
+        "end": 6727
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 6729,
+        "end": 6730
+    },
+    {
+        "text": "the last day of march, june, september",
+        "label": "DATE",
+        "start": 6761,
+        "end": 6799
+    },
+    {
+        "text": "december",
+        "label": "DATE",
+        "start": 6804,
+        "end": 6812
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 6844,
+        "end": 6849
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 6859,
+        "end": 6866
+    },
+    {
+        "text": "june 30, 2019",
+        "label": "DATE",
+        "start": 6927,
+        "end": 6940
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 6984,
+        "end": 6996
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 7044,
+        "end": 7050
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 7052,
+        "end": 7054
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 7068,
+        "end": 7074
+    },
+    {
+        "text": "january 1",
+        "label": "DATE",
+        "start": 7088,
+        "end": 7097
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 7112,
+        "end": 7123
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 7141,
+        "end": 7146
+    },
+    {
+        "text": "december 31 of the year",
+        "label": "DATE",
+        "start": 7221,
+        "end": 7244
+    },
+    {
+        "text": "january 1 of the year",
+        "label": "DATE",
+        "start": 7337,
+        "end": 7358
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 7393,
+        "end": 7405
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 7518,
+        "end": 7529
+    },
+    {
+        "text": "section 8.2(x)(i",
+        "label": "LAW",
+        "start": 8423,
+        "end": 8439
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 8451,
+        "end": 8472
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 8474,
+        "end": 8477
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 8479,
+        "end": 8487
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9364,
+        "end": 9369
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9457,
+        "end": 9462
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 9516,
+        "end": 9519
+    },
+    {
+        "text": "section 4.2",
+        "label": "LAW",
+        "start": 10552,
+        "end": 10563
+    },
+    {
+        "text": "u.s. dollars",
+        "label": "EVENT",
+        "start": 10587,
+        "end": 10599
+    },
+    {
+        "text": "european",
+        "label": "NORP",
+        "start": 10617,
+        "end": 10625
+    },
+    {
+        "text": "the european union",
+        "label": "ORG",
+        "start": 10754,
+        "end": 10772
+    },
+    {
+        "text": "austria",
+        "label": "GPE",
+        "start": 10860,
+        "end": 10867
+    },
+    {
+        "text": "belgium",
+        "label": "GPE",
+        "start": 10869,
+        "end": 10876
+    },
+    {
+        "text": "bulgaria",
+        "label": "GPE",
+        "start": 10878,
+        "end": 10886
+    },
+    {
+        "text": "czech",
+        "label": "NORP",
+        "start": 10909,
+        "end": 10914
+    },
+    {
+        "text": "denmark",
+        "label": "GPE",
+        "start": 10925,
+        "end": 10932
+    },
+    {
+        "text": "estonia",
+        "label": "GPE",
+        "start": 10934,
+        "end": 10941
+    },
+    {
+        "text": "finland",
+        "label": "GPE",
+        "start": 10943,
+        "end": 10950
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 10952,
+        "end": 10958
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 10960,
+        "end": 10967
+    },
+    {
+        "text": "greece",
+        "label": "GPE",
+        "start": 10969,
+        "end": 10975
+    },
+    {
+        "text": "hungary",
+        "label": "GPE",
+        "start": 10977,
+        "end": 10984
+    },
+    {
+        "text": "ireland",
+        "label": "GPE",
+        "start": 10986,
+        "end": 10993
+    },
+    {
+        "text": "italy",
+        "label": "GPE",
+        "start": 10995,
+        "end": 11000
+    },
+    {
+        "text": "latvia",
+        "label": "GPE",
+        "start": 11002,
+        "end": 11008
+    },
+    {
+        "text": "lithuania",
+        "label": "GPE",
+        "start": 11010,
+        "end": 11019
+    },
+    {
+        "text": "luxembourg",
+        "label": "GPE",
+        "start": 11021,
+        "end": 11031
+    },
+    {
+        "text": "malta",
+        "label": "GPE",
+        "start": 11033,
+        "end": 11038
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 11044,
+        "end": 11055
+    },
+    {
+        "text": "poland",
+        "label": "GPE",
+        "start": 11057,
+        "end": 11063
+    },
+    {
+        "text": "portugal",
+        "label": "GPE",
+        "start": 11065,
+        "end": 11073
+    },
+    {
+        "text": "romania",
+        "label": "GPE",
+        "start": 11075,
+        "end": 11082
+    },
+    {
+        "text": "slovakia",
+        "label": "ORG",
+        "start": 11084,
+        "end": 11092
+    },
+    {
+        "text": "slovenia",
+        "label": "GPE",
+        "start": 11094,
+        "end": 11102
+    },
+    {
+        "text": "spain",
+        "label": "GPE",
+        "start": 11104,
+        "end": 11109
+    },
+    {
+        "text": "sweden",
+        "label": "GPE",
+        "start": 11111,
+        "end": 11117
+    },
+    {
+        "text": "the united kingdom",
+        "label": "GPE",
+        "start": 11123,
+        "end": 11141
+    },
+    {
+        "text": "eu",
+        "label": "PERSON",
+        "start": 11160,
+        "end": 11162
+    },
+    {
+        "text": "the united kingdom",
+        "label": "GPE",
+        "start": 11202,
+        "end": 11220
+    },
+    {
+        "text": "united kingdom",
+        "label": "GPE",
+        "start": 11241,
+        "end": 11255
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 11299,
+        "end": 11320
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 11322,
+        "end": 11325
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 11327,
+        "end": 11335
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 11485,
+        "end": 11489
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 11541,
+        "end": 11544
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 11556,
+        "end": 11560
+    },
+    {
+        "text": "section 6.5",
+        "label": "LAW",
+        "start": 11683,
+        "end": 11694
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 11757,
+        "end": 11762
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 11802,
+        "end": 11807
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11876,
+        "end": 11881
+    },
+    {
+        "text": "gcp",
+        "label": "ORG",
+        "start": 12047,
+        "end": 12050
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 12142,
+        "end": 12145
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 12317,
+        "end": 12320
+    },
+    {
+        "text": "ema",
+        "label": "ORG",
+        "start": 12418,
+        "end": 12421
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 12639,
+        "end": 12643
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 12683,
+        "end": 12687
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 12735,
+        "end": 12739
+    },
+    {
+        "text": "the u.s. department",
+        "label": "ORG",
+        "start": 12879,
+        "end": 12898
+    },
+    {
+        "text": "eu council",
+        "label": "ORG",
+        "start": 12949,
+        "end": 12959
+    },
+    {
+        "text": "eu",
+        "label": "GPE",
+        "start": 13082,
+        "end": 13084
+    },
+    {
+        "text": "eu member",
+        "label": "PERSON",
+        "start": 13115,
+        "end": 13124
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 13591,
+        "end": 13594
+    },
+    {
+        "text": "21 c. f. r.",
+        "label": "QUANTITY",
+        "start": 13609,
+        "end": 13620
+    },
+    {
+        "text": "58",
+        "label": "DATE",
+        "start": 13626,
+        "end": 13628
+    },
+    {
+        "text": "ema",
+        "label": "ORG",
+        "start": 13701,
+        "end": 13704
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 13864,
+        "end": 13885
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 13887,
+        "end": 13890
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 13892,
+        "end": 13900
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 14113,
+        "end": 14115
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 14116,
+        "end": 14120
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 14141,
+        "end": 14144
+    },
+    {
+        "text": "21 c. f. r.",
+        "label": "QUANTITY",
+        "start": 14160,
+        "end": 14171
+    },
+    {
+        "text": "210",
+        "label": "CARDINAL",
+        "start": 14178,
+        "end": 14181
+    },
+    {
+        "text": "211",
+        "label": "CARDINAL",
+        "start": 14186,
+        "end": 14189
+    },
+    {
+        "text": "the european community",
+        "label": "ORG",
+        "start": 14255,
+        "end": 14277
+    },
+    {
+        "text": "section 9.3",
+        "label": "LAW",
+        "start": 15257,
+        "end": 15268
+    },
+    {
+        "text": "section 9.3",
+        "label": "LAW",
+        "start": 15320,
+        "end": 15331
+    },
+    {
+        "text": "section 6.5",
+        "label": "LAW",
+        "start": 15384,
+        "end": 15395
+    },
+    {
+        "text": "section 11.1",
+        "label": "LAW",
+        "start": 15510,
+        "end": 15522
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 16468,
+        "end": 16489
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 16491,
+        "end": 16494
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 16496,
+        "end": 16504
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 17178,
+        "end": 17180
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 17232,
+        "end": 17234
+    },
+    {
+        "text": "§",
+        "label": "NORP",
+        "start": 17242,
+        "end": 17243
+    },
+    {
+        "text": "1320a-\n7b",
+        "label": "CARDINAL",
+        "start": 17244,
+        "end": 17253
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 17292,
+        "end": 17294
+    },
+    {
+        "text": "1320a-7a",
+        "label": "CARDINAL",
+        "start": 17304,
+        "end": 17312
+    },
+    {
+        "text": "31",
+        "label": "CARDINAL",
+        "start": 17337,
+        "end": 17339
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 17478,
+        "end": 17481
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 18041,
+        "end": 18052
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 18852,
+        "end": 18855
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 18898,
+        "end": 18909
+    },
+    {
+        "text": "mmt promotion",
+        "label": "ORG",
+        "start": 18912,
+        "end": 18925
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 18954,
+        "end": 18957
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18995,
+        "end": 19000
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 19074,
+        "end": 19077
+    },
+    {
+        "text": "section 4.2",
+        "label": "LAW",
+        "start": 19300,
+        "end": 19311
+    },
+    {
+        "text": "section 6.5",
+        "label": "LAW",
+        "start": 19367,
+        "end": 19378
+    },
+    {
+        "text": "section 12.1(a",
+        "label": "DATE",
+        "start": 19429,
+        "end": 19443
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 19455,
+        "end": 19476
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 19478,
+        "end": 19481
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 19483,
+        "end": 19491
+    },
+    {
+        "text": "pfizer inc.",
+        "label": "ORG",
+        "start": 20775,
+        "end": 20786
+    },
+    {
+        "text": "the national institute for health",
+        "label": "ORG",
+        "start": 21226,
+        "end": 21259
+    },
+    {
+        "text": "scottish",
+        "label": "NORP",
+        "start": 21288,
+        "end": 21296
+    },
+    {
+        "text": "the u.k.; the institute for quality",
+        "label": "ORG",
+        "start": 21321,
+        "end": 21356
+    },
+    {
+        "text": "italian",
+        "label": "NORP",
+        "start": 21488,
+        "end": 21495
+    },
+    {
+        "text": "the ministry of health",
+        "label": "ORG",
+        "start": 21617,
+        "end": 21639
+    },
+    {
+        "text": "the national union of health insurance",
+        "label": "ORG",
+        "start": 21650,
+        "end": 21688
+    },
+    {
+        "text": "health canada",
+        "label": "ORG",
+        "start": 21747,
+        "end": 21760
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 21764,
+        "end": 21770
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 21829,
+        "end": 21836
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 22149,
+        "end": 22152
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 22403,
+        "end": 22424
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 22426,
+        "end": 22429
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 22431,
+        "end": 22439
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 22664,
+        "end": 22667
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 22788,
+        "end": 22797
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 22907,
+        "end": 22916
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 22972,
+        "end": 22981
+    },
+    {
+        "text": "section 11.1",
+        "label": "LAW",
+        "start": 24240,
+        "end": 24252
+    },
+    {
+        "text": "crimean",
+        "label": "NORP",
+        "start": 24333,
+        "end": 24340
+    },
+    {
+        "text": "cuba",
+        "label": "GPE",
+        "start": 24352,
+        "end": 24356
+    },
+    {
+        "text": "iran",
+        "label": "GPE",
+        "start": 24358,
+        "end": 24362
+    },
+    {
+        "text": "north korea",
+        "label": "GPE",
+        "start": 24364,
+        "end": 24375
+    },
+    {
+        "text": "syria",
+        "label": "GPE",
+        "start": 24381,
+        "end": 24386
+    },
+    {
+        "text": "un;",
+        "label": "PERSON",
+        "start": 24587,
+        "end": 24590
+    },
+    {
+        "text": "the u.s. department",
+        "label": "ORG",
+        "start": 24699,
+        "end": 24718
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 24773,
+        "end": 24777
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 24803,
+        "end": 24807
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 24829,
+        "end": 24833
+    },
+    {
+        "text": "the u.s. department",
+        "label": "ORG",
+        "start": 24871,
+        "end": 24890
+    },
+    {
+        "text": "e.u. financial sanctions",
+        "label": "ORG",
+        "start": 25018,
+        "end": 25042
+    },
+    {
+        "text": "e.u.",
+        "label": "GPE",
+        "start": 25066,
+        "end": 25070
+    },
+    {
+        "text": "the u.s. health and human services - office of inspector",
+        "label": "ORG",
+        "start": 25166,
+        "end": 25222
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 25298,
+        "end": 25302
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 25420,
+        "end": 25424
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 25621,
+        "end": 25642
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 25644,
+        "end": 25647
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 25649,
+        "end": 25657
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 25822,
+        "end": 25825
+    },
+    {
+        "text": "section 10.4(d",
+        "label": "DATE",
+        "start": 25856,
+        "end": 25870
+    },
+    {
+        "text": "siga",
+        "label": "NORP",
+        "start": 26232,
+        "end": 26236
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 26904,
+        "end": 26905
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 27432,
+        "end": 27433
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 27527,
+        "end": 27548
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 27550,
+        "end": 27553
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 27555,
+        "end": 27563
+    },
+    {
+        "text": "siga",
+        "label": "NORP",
+        "start": 27565,
+        "end": 27569
+    },
+    {
+        "text": "section 6.5",
+        "label": "LAW",
+        "start": 27610,
+        "end": 27621
+    },
+    {
+        "text": "south korea",
+        "label": "GPE",
+        "start": 27624,
+        "end": 27635
+    },
+    {
+        "text": "south korea",
+        "label": "GPE",
+        "start": 27643,
+        "end": 27654
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 27834,
+        "end": 27837
+    },
+    {
+        "text": "section 11.1",
+        "label": "LAW",
+        "start": 27900,
+        "end": 27912
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 27994,
+        "end": 27998
+    },
+    {
+        "text": "south korea",
+        "label": "GPE",
+        "start": 28004,
+        "end": 28015
+    },
+    {
+        "text": "a)-(c",
+        "label": "ORG",
+        "start": 28098,
+        "end": 28103
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 28161,
+        "end": 28166
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 28210,
+        "end": 28213
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 28255,
+        "end": 28256
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 28283,
+        "end": 28284
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 28311,
+        "end": 28312
+    },
+    {
+        "text": "section 4.2",
+        "label": "LAW",
+        "start": 28376,
+        "end": 28387
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 28908,
+        "end": 28912
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 28920,
+        "end": 28948
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 29173,
+        "end": 29194
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 29196,
+        "end": 29199
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 29201,
+        "end": 29209
+    },
+    {
+        "text": "article 2",
+        "label": "LAW",
+        "start": 29210,
+        "end": 29219
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 29236,
+        "end": 29239
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 29259,
+        "end": 29262
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 29277,
+        "end": 29280
+    },
+    {
+        "text": "section 2.1(b",
+        "label": "LAW",
+        "start": 29450,
+        "end": 29463
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 29595,
+        "end": 29598
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 29767,
+        "end": 29770
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 29844,
+        "end": 29847
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 29913,
+        "end": 29916
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 30068,
+        "end": 30073
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 30253,
+        "end": 30258
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 30460,
+        "end": 30463
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 30654,
+        "end": 30663
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 31288,
+        "end": 31291
+    },
+    {
+        "text": "section 2.1",
+        "label": "LAW",
+        "start": 31493,
+        "end": 31504
+    },
+    {
+        "text": "section 2.4",
+        "label": "LAW",
+        "start": 31658,
+        "end": 31669
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 31671,
+        "end": 31674
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 31714,
+        "end": 31723
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 31963,
+        "end": 31966
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 32013,
+        "end": 32034
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 32036,
+        "end": 32039
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 32041,
+        "end": 32049
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 32050,
+        "end": 32053
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 32200,
+        "end": 32205
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 32429,
+        "end": 32434
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 32625,
+        "end": 32628
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 32689,
+        "end": 32692
+    },
+    {
+        "text": "mmt acknowledges",
+        "label": "ORG",
+        "start": 32936,
+        "end": 32952
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 33005,
+        "end": 33008
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 33062,
+        "end": 33065
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 33162,
+        "end": 33165
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 33251,
+        "end": 33254
+    },
+    {
+        "text": "article 3",
+        "label": "LAW",
+        "start": 33267,
+        "end": 33276
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 33288,
+        "end": 33291
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 33349,
+        "end": 33365
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 33737,
+        "end": 33740
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 34705,
+        "end": 34726
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 34728,
+        "end": 34731
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 34733,
+        "end": 34741
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 34742,
+        "end": 34745
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 35359,
+        "end": 35369
+    },
+    {
+        "text": "article 4",
+        "label": "LAW",
+        "start": 35371,
+        "end": 35380
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 35419,
+        "end": 35422
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 35659,
+        "end": 35662
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 35982,
+        "end": 35985
+    },
+    {
+        "text": "section 4.2",
+        "label": "LAW",
+        "start": 36403,
+        "end": 36414
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 36460,
+        "end": 36463
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 36480,
+        "end": 36483
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 36691,
+        "end": 36694
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 36779,
+        "end": 36782
+    },
+    {
+        "text": "mmt’s",
+        "label": "ORG",
+        "start": 36850,
+        "end": 36855
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 37022,
+        "end": 37043
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 37045,
+        "end": 37048
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 37050,
+        "end": 37058
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 37110,
+        "end": 37113
+    },
+    {
+        "text": "section 13.6",
+        "label": "LAW",
+        "start": 37317,
+        "end": 37329
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 37331,
+        "end": 37334
+    },
+    {
+        "text": "4.2 diligence",
+        "label": "QUANTITY",
+        "start": 37450,
+        "end": 37463
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 37514,
+        "end": 37517
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 37874,
+        "end": 37877
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 38020,
+        "end": 38026
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 38061,
+        "end": 38062
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 38091,
+        "end": 38097
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 38132,
+        "end": 38133
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 38165,
+        "end": 38171
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 38206,
+        "end": 38207
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 38407,
+        "end": 38410
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 38487,
+        "end": 38490
+    },
+    {
+        "text": "siga hereby",
+        "label": "PERSON",
+        "start": 38836,
+        "end": 38847
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 38877,
+        "end": 38880
+    },
+    {
+        "text": "siga",
+        "label": "NORP",
+        "start": 39252,
+        "end": 39256
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 39286,
+        "end": 39289
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 39766,
+        "end": 39769
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 39844,
+        "end": 39847
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 39915,
+        "end": 39924
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 39985,
+        "end": 40006
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 40008,
+        "end": 40011
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 40013,
+        "end": 40021
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 40022,
+        "end": 40025
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 40297,
+        "end": 40300
+    },
+    {
+        "text": "mmt’s",
+        "label": "ORG",
+        "start": 40543,
+        "end": 40548
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 40895,
+        "end": 40900
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 41182,
+        "end": 41185
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 41323,
+        "end": 41326
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 41500,
+        "end": 41503
+    },
+    {
+        "text": "section 4.2",
+        "label": "LAW",
+        "start": 41871,
+        "end": 41882
+    },
+    {
+        "text": "article 5",
+        "label": "LAW",
+        "start": 42090,
+        "end": 42099
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 42125,
+        "end": 42128
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 42164,
+        "end": 42167
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 42210,
+        "end": 42231
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 42233,
+        "end": 42236
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 42238,
+        "end": 42246
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 42247,
+        "end": 42250
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 42265,
+        "end": 42268
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 42292,
+        "end": 42295
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 42318,
+        "end": 42321
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 42347,
+        "end": 42350
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 42645,
+        "end": 42646
+    },
+    {
+        "text": "article 6",
+        "label": "LAW",
+        "start": 42959,
+        "end": 42968
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 42978,
+        "end": 42981
+    },
+    {
+        "text": "mmt hereunder",
+        "label": "ORG",
+        "start": 43047,
+        "end": 43060
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 43082,
+        "end": 43087
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 43616,
+        "end": 43619
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 43651,
+        "end": 43660
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 43701,
+        "end": 43710
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 43762,
+        "end": 43771
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 43978,
+        "end": 43987
+    },
+    {
+        "text": "year",
+        "label": "DATE",
+        "start": 44140,
+        "end": 44144
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 44282,
+        "end": 44291
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 44315,
+        "end": 44324
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 44424,
+        "end": 44427
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 44477,
+        "end": 44482
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 44493,
+        "end": 44502
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 44671,
+        "end": 44680
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 44765,
+        "end": 44786
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 44788,
+        "end": 44791
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 44793,
+        "end": 44801
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 44802,
+        "end": 44805
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 44927,
+        "end": 44932
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 45084,
+        "end": 45093
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 45173,
+        "end": 45176
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 45225,
+        "end": 45234
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 45243,
+        "end": 45252
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 45415,
+        "end": 45424
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 45583,
+        "end": 45592
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 45644,
+        "end": 45653
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 45723,
+        "end": 45732
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 45847,
+        "end": 45850
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 46009,
+        "end": 46018
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 46181,
+        "end": 46184
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 46272,
+        "end": 46275
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 46647,
+        "end": 46650
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 46702,
+        "end": 46705
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 46888,
+        "end": 46897
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 46992,
+        "end": 47001
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 47212,
+        "end": 47221
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 47302,
+        "end": 47305
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 47315,
+        "end": 47318
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 47451,
+        "end": 47455
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 47666,
+        "end": 47669
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 47974,
+        "end": 47977
+    },
+    {
+        "text": "section 6.5",
+        "label": "LAW",
+        "start": 48225,
+        "end": 48236
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 48247,
+        "end": 48268
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 48270,
+        "end": 48273
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 48275,
+        "end": 48283
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 48284,
+        "end": 48287
+    },
+    {
+        "text": "siga",
+        "label": "GPE",
+        "start": 48296,
+        "end": 48300
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 48329,
+        "end": 48333
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 48388,
+        "end": 48391
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 48431,
+        "end": 48452
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 48536,
+        "end": 48539
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 48807,
+        "end": 48816
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 48944,
+        "end": 48947
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 49159,
+        "end": 49162
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 49291,
+        "end": 49294
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 49484,
+        "end": 49494
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 49566,
+        "end": 49574
+    },
+    {
+        "text": "mmt’s",
+        "label": "ORG",
+        "start": 49585,
+        "end": 49590
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 49958,
+        "end": 49961
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 50070,
+        "end": 50073
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 50317,
+        "end": 50325
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 50374,
+        "end": 50377
+    },
+    {
+        "text": "siga",
+        "label": "GPE",
+        "start": 50379,
+        "end": 50383
+    },
+    {
+        "text": "siga",
+        "label": "NORP",
+        "start": 50388,
+        "end": 50392
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 50560,
+        "end": 50566
+    },
+    {
+        "text": "30) day period",
+        "label": "DATE",
+        "start": 50568,
+        "end": 50582
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 50619,
+        "end": 50622
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 50680,
+        "end": 50684
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 51144,
+        "end": 51151
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 51380,
+        "end": 51383
+    },
+    {
+        "text": "siga",
+        "label": "GPE",
+        "start": 51385,
+        "end": 51389
+    },
+    {
+        "text": "siga",
+        "label": "NORP",
+        "start": 51394,
+        "end": 51398
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 51556,
+        "end": 51559
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 51561,
+        "end": 51564
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 51635,
+        "end": 51638
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 51719,
+        "end": 51725
+    },
+    {
+        "text": "siga",
+        "label": "ORG",
+        "start": 51817,
+        "end": 51821
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 52180,
+        "end": 52183
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 52377,
+        "end": 52398
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 52400,
+        "end": 52403
+    },
+    {
+        "text": "6/3/2019",
+        "label": "CARDINAL",
+        "start": 52405,
+        "end": 52413
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 52414,
+        "end": 52417
+    },
+    {
+        "text": "6.7",
+        "label": "CARDINAL",
+        "start": 53588,
+        "end": 53591
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 53798,
+        "end": 53801
+    },
+    {
+        "text": "section 9.1",
+        "label": "DATE",
+        "start": 53863,
+        "end": 53874
+    },
+    {
+        "text": "mmt’s",
+        "label": "ORG",
+        "start": 53879,
+        "end": 53884
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 53911,
+        "end": 53914
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 53924,
+        "end": 53933
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 54061,
+        "end": 54071
+    },
+    {
+        "text": "6.7",
+        "label": "CARDINAL",
+        "start": 54116,
+        "end": 54119
+    },
+    {
+        "text": "6.8",
+        "label": "CARDINAL",
+        "start": 54121,
+        "end": 54124
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 54564,
+        "end": 54567
+    },
+    {
+        "text": "mmt",
+        "label": "PERSON",
+        "start": 54821,
+        "end": 54824
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 54977,
+        "end": 54980
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 55118,
+        "end": 55121
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 55242,
+        "end": 55251
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 55451,
+        "end": 55454
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 55925,
+        "end": 55946
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 55948,
+        "end": 55951
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 55953,
+        "end": 55961
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 56273,
+        "end": 56276
+    },
+    {
+        "text": "siga",
+        "label": "GPE",
+        "start": 56735,
+        "end": 56739
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 56744,
+        "end": 56747
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 57245,
+        "end": 57248
+    },
+    {
+        "text": "article 7",
+        "label": "LAW",
+        "start": 57377,
+        "end": 57386
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 57409,
+        "end": 57412
+    },
+    {
+        "text": "mmt under section 2.1",
+        "label": "ORG",
+        "start": 57488,
+        "end": 57509
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 57672,
+        "end": 57675
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 58009,
+        "end": 58020
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 58022,
+        "end": 58025
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 58167,
+        "end": 58168
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 58245,
+        "end": 58246
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 58682,
+        "end": 58685
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 58876,
+        "end": 58879
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 58992,
+        "end": 58995
+    },
+    {
+        "text": "section 2.1",
+        "label": "LAW",
+        "start": 59009,
+        "end": 59020
+    },
+    {
+        "text": "siga",
+        "label": "NORP",
+        "start": 59022,
+        "end": 59026
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 59077,
+        "end": 59082
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 59363,
+        "end": 59384
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 59386,
+        "end": 59389
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 59391,
+        "end": 59399
+    },
+    {
+        "text": "article 8",
+        "label": "LAW",
+        "start": 59400,
+        "end": 59409
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 59452,
+        "end": 59455
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 61552,
+        "end": 61573
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 61575,
+        "end": 61578
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 61580,
+        "end": 61588
+    },
+    {
+        "text": "fd&c",
+        "label": "ORG",
+        "start": 62133,
+        "end": 62137
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 62315,
+        "end": 62317
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 62318,
+        "end": 62322
+    },
+    {
+        "text": "1320a-7(b)(l)-(3",
+        "label": "CARDINAL",
+        "start": 62341,
+        "end": 62357
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 62641,
+        "end": 62645
+    },
+    {
+        "text": "non-u.s.",
+        "label": "NORP",
+        "start": 62649,
+        "end": 62657
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 62754,
+        "end": 62756
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 62757,
+        "end": 62761
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 63145,
+        "end": 63148
+    },
+    {
+        "text": "siga represents",
+        "label": "ORG",
+        "start": 63211,
+        "end": 63226
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 63243,
+        "end": 63246
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 63290,
+        "end": 63293
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 63358,
+        "end": 63359
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 64061,
+        "end": 64064
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64131,
+        "end": 64136
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64401,
+        "end": 64406
+    },
+    {
+        "text": "siga",
+        "label": "NORP",
+        "start": 64419,
+        "end": 64423
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64588,
+        "end": 64593
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64738,
+        "end": 64743
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 64777,
+        "end": 64780
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64848,
+        "end": 64853
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 64899,
+        "end": 64920
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 64922,
+        "end": 64925
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 64927,
+        "end": 64935
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64960,
+        "end": 64965
+    },
+    {
+        "text": "siga",
+        "label": "NORP",
+        "start": 64983,
+        "end": 64987
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65194,
+        "end": 65199
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65257,
+        "end": 65262
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65291,
+        "end": 65296
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65309,
+        "end": 65314
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 66499,
+        "end": 66504
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 66888,
+        "end": 66891
+    },
+    {
+        "text": "siga",
+        "label": "PERSON",
+        "start": 67257,
+        "end": 67261
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 67641,
+        "end": 67662
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 67664,
+        "end": 67667
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 67669,
+        "end": 67677
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 67685,
+        "end": 67690
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 67722,
+        "end": 67727
+    },
+    {
+        "text": "siga",
+        "label": "PERSON",
+        "start": 68571,
+        "end": 68575
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 68902,
+        "end": 68903
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 69063,
+        "end": 69068
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 69333,
+        "end": 69334
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 69473,
+        "end": 69478
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 69550,
+        "end": 69561
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 70095,
+        "end": 70098
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 70684,
+        "end": 70705
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 70707,
+        "end": 70710
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 70712,
+        "end": 70720
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 71296,
+        "end": 71301
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 71396,
+        "end": 71401
+    },
+    {
+        "text": "siga",
+        "label": "PERSON",
+        "start": 71883,
+        "end": 71887
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 72124,
+        "end": 72127
+    },
+    {
+        "text": "united states",
+        "label": "ORG",
+        "start": 72342,
+        "end": 72355
+    },
+    {
+        "text": "glp",
+        "label": "ORG",
+        "start": 72356,
+        "end": 72359
+    },
+    {
+        "text": "gcp",
+        "label": "ORG",
+        "start": 72361,
+        "end": 72364
+    },
+    {
+        "text": "glp",
+        "label": "ORG",
+        "start": 72520,
+        "end": 72523
+    },
+    {
+        "text": "gcp",
+        "label": "ORG",
+        "start": 72525,
+        "end": 72528
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 72540,
+        "end": 72557
+    },
+    {
+        "text": "required;",
+        "label": "PERSON",
+        "start": 72681,
+        "end": 72690
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 72778,
+        "end": 72781
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 74141,
+        "end": 74162
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 74164,
+        "end": 74167
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 74169,
+        "end": 74177
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 74261,
+        "end": 74264
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 74316,
+        "end": 74320
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 74440,
+        "end": 74444
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 74623,
+        "end": 74626
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 75392,
+        "end": 75395
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 75441,
+        "end": 75444
+    },
+    {
+        "text": "mmt",
+        "label": "PERSON",
+        "start": 75446,
+        "end": 75449
+    },
+    {
+        "text": "mmt promotes",
+        "label": "ORG",
+        "start": 75618,
+        "end": 75630
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 75669,
+        "end": 75672
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 75951,
+        "end": 75954
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 76251,
+        "end": 76254
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 76390,
+        "end": 76393
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 76530,
+        "end": 76533
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 76607,
+        "end": 76628
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 76630,
+        "end": 76633
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 76635,
+        "end": 76643
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 76644,
+        "end": 76647
+    },
+    {
+        "text": "fd&c",
+        "label": "ORG",
+        "start": 76945,
+        "end": 76949
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 77140,
+        "end": 77142
+    },
+    {
+        "text": "1320a-7(b)(l)-(3",
+        "label": "CARDINAL",
+        "start": 77165,
+        "end": 77181
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 77562,
+        "end": 77566
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 77575,
+        "end": 77579
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 77680,
+        "end": 77682
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 77683,
+        "end": 77687
+    },
+    {
+        "text": "later than five",
+        "label": "CARDINAL",
+        "start": 78341,
+        "end": 78356
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 79412,
+        "end": 79415
+    },
+    {
+        "text": "ema",
+        "label": "ORG",
+        "start": 79421,
+        "end": 79424
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 79543,
+        "end": 79564
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 79566,
+        "end": 79569
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 79571,
+        "end": 79579
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 80564,
+        "end": 80570
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 81204,
+        "end": 81208
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 81269,
+        "end": 81273
+    },
+    {
+        "text": "e.u.",
+        "label": "GPE",
+        "start": 81351,
+        "end": 81355
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 81972,
+        "end": 81977
+    },
+    {
+        "text": "siga",
+        "label": "PERSON",
+        "start": 82001,
+        "end": 82005
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 82129,
+        "end": 82134
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 82554,
+        "end": 82575
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 82577,
+        "end": 82580
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 82582,
+        "end": 82590
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 82874,
+        "end": 82879
+    },
+    {
+        "text": "article 9",
+        "label": "LAW",
+        "start": 83088,
+        "end": 83097
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 83114,
+        "end": 83117
+    },
+    {
+        "text": "siga",
+        "label": "PERSON",
+        "start": 83143,
+        "end": 83147
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 83644,
+        "end": 83649
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 83863,
+        "end": 83868
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 84352,
+        "end": 84355
+    },
+    {
+        "text": "siga",
+        "label": "NORP",
+        "start": 84849,
+        "end": 84853
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 85000,
+        "end": 85003
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 85257,
+        "end": 85260
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 85347,
+        "end": 85350
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 85383,
+        "end": 85386
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 85505,
+        "end": 85508
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 85565,
+        "end": 85568
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 85891,
+        "end": 85912
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 85914,
+        "end": 85917
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 85919,
+        "end": 85927
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 85928,
+        "end": 85931
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 85951,
+        "end": 85954
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 85956,
+        "end": 85959
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 86335,
+        "end": 86338
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 86385,
+        "end": 86388
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 86499,
+        "end": 86502
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 86542,
+        "end": 86545
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 86711,
+        "end": 86714
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 86800,
+        "end": 86803
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 86872,
+        "end": 86875
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 86879,
+        "end": 86882
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 86912,
+        "end": 86915
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 87527,
+        "end": 87530
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 87543,
+        "end": 87554
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 87670,
+        "end": 87673
+    },
+    {
+        "text": "article 9",
+        "label": "LAW",
+        "start": 87742,
+        "end": 87751
+    },
+    {
+        "text": "article 9",
+        "label": "LAW",
+        "start": 89836,
+        "end": 89845
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 90203,
+        "end": 90224
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 90226,
+        "end": 90229
+    },
+    {
+        "text": "6/3/2019",
+        "label": "CARDINAL",
+        "start": 90231,
+        "end": 90239
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 90240,
+        "end": 90243
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 90255,
+        "end": 90258
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 90424,
+        "end": 90430
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 90506,
+        "end": 90512
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 90579,
+        "end": 90582
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 90750,
+        "end": 90753
+    },
+    {
+        "text": "article 7",
+        "label": "LAW",
+        "start": 90875,
+        "end": 90884
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 90912,
+        "end": 90922
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 91010,
+        "end": 91015
+    },
+    {
+        "text": "article 9",
+        "label": "LAW",
+        "start": 91095,
+        "end": 91104
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 91635,
+        "end": 91645
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 91662,
+        "end": 91666
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 92768,
+        "end": 92789
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 92791,
+        "end": 92794
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 92796,
+        "end": 92804
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 93456,
+        "end": 93461
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 93856,
+        "end": 93860
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 93929,
+        "end": 93941
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 95373,
+        "end": 95376
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 95400,
+        "end": 95421
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 95423,
+        "end": 95426
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 95428,
+        "end": 95436
+    },
+    {
+        "text": "10.2(d",
+        "label": "DATE",
+        "start": 95816,
+        "end": 95822
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 96157,
+        "end": 96161
+    },
+    {
+        "text": "mmt publications",
+        "label": "ORG",
+        "start": 96220,
+        "end": 96236
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 96447,
+        "end": 96452
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 96531,
+        "end": 96535
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 96763,
+        "end": 96767
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 97392,
+        "end": 97396
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 98125,
+        "end": 98128
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 98130,
+        "end": 98131
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 98431,
+        "end": 98435
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 98437,
+        "end": 98438
+    },
+    {
+        "text": "fewer business days",
+        "label": "DATE",
+        "start": 98443,
+        "end": 98462
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 99159,
+        "end": 99180
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 99182,
+        "end": 99185
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 99187,
+        "end": 99195
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 99322,
+        "end": 99326
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 99364,
+        "end": 99367
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 99724,
+        "end": 99727
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 100194,
+        "end": 100198
+    },
+    {
+        "text": "10.6",
+        "label": "CARDINAL",
+        "start": 100935,
+        "end": 100939
+    },
+    {
+        "text": "10.7",
+        "label": "CARDINAL",
+        "start": 101489,
+        "end": 101493
+    },
+    {
+        "text": "10.8",
+        "label": "CARDINAL",
+        "start": 101735,
+        "end": 101739
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 102083,
+        "end": 102104
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 102106,
+        "end": 102109
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 102111,
+        "end": 102119
+    },
+    {
+        "text": "article 11",
+        "label": "LAW",
+        "start": 102120,
+        "end": 102130
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 102152,
+        "end": 102156
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 102306,
+        "end": 102310
+    },
+    {
+        "text": "year anniversary",
+        "label": "DATE",
+        "start": 102315,
+        "end": 102331
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 102437,
+        "end": 102442
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 102444,
+        "end": 102445
+    },
+    {
+        "text": "no later than ninety (",
+        "label": "DATE",
+        "start": 102629,
+        "end": 102651
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 102651,
+        "end": 102659
+    },
+    {
+        "text": "article 11",
+        "label": "LAW",
+        "start": 102761,
+        "end": 102771
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 102773,
+        "end": 102777
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 102911,
+        "end": 102915
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 104649,
+        "end": 104654
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 104656,
+        "end": 104664
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 104877,
+        "end": 104880
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 104985,
+        "end": 104988
+    },
+    {
+        "text": "section 8.4(c)(ii",
+        "label": "LAW",
+        "start": 105010,
+        "end": 105027
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 105112,
+        "end": 105115
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 105292,
+        "end": 105313
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 105315,
+        "end": 105318
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 105320,
+        "end": 105328
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 105329,
+        "end": 105333
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 105383,
+        "end": 105387
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 105488,
+        "end": 105491
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 105495,
+        "end": 105498
+    },
+    {
+        "text": "11.5",
+        "label": "CARDINAL",
+        "start": 105586,
+        "end": 105590
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 105675,
+        "end": 105678
+    },
+    {
+        "text": "11.6",
+        "label": "CARDINAL",
+        "start": 105815,
+        "end": 105819
+    },
+    {
+        "text": "article 11",
+        "label": "LAW",
+        "start": 105895,
+        "end": 105905
+    },
+    {
+        "text": "mmt shall",
+        "label": "ORG",
+        "start": 105966,
+        "end": 105975
+    },
+    {
+        "text": "11.6",
+        "label": "CARDINAL",
+        "start": 106506,
+        "end": 106510
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 106625,
+        "end": 106628
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 106837,
+        "end": 106841
+    },
+    {
+        "text": "11.7",
+        "label": "CARDINAL",
+        "start": 106912,
+        "end": 106916
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 107203,
+        "end": 107204
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 107382,
+        "end": 107385
+    },
+    {
+        "text": "article 1",
+        "label": "LAW",
+        "start": 107429,
+        "end": 107438
+    },
+    {
+        "text": "article 6",
+        "label": "LAW",
+        "start": 107454,
+        "end": 107463
+    },
+    {
+        "text": "article 9",
+        "label": "LAW",
+        "start": 107591,
+        "end": 107600
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 107620,
+        "end": 107630
+    },
+    {
+        "text": "article 11",
+        "label": "LAW",
+        "start": 107650,
+        "end": 107660
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 107685,
+        "end": 107695
+    },
+    {
+        "text": "article 13",
+        "label": "LAW",
+        "start": 107721,
+        "end": 107731
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 107749,
+        "end": 107759
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 107779,
+        "end": 107783
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 108240,
+        "end": 108261
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 108263,
+        "end": 108266
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 108268,
+        "end": 108276
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 108288,
+        "end": 108294
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 108296,
+        "end": 108304
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 108538,
+        "end": 108544
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 108546,
+        "end": 108554
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 108579,
+        "end": 108584
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 108586,
+        "end": 108594
+    },
+    {
+        "text": "section 12.1(b",
+        "label": "DATE",
+        "start": 108723,
+        "end": 108737
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 108764,
+        "end": 108769
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 108771,
+        "end": 108779
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 109311,
+        "end": 109315
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 109489,
+        "end": 109497
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 109622,
+        "end": 109626
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 109767,
+        "end": 109775
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 109779,
+        "end": 109796
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 109841,
+        "end": 109849
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 110367,
+        "end": 110370
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 110952,
+        "end": 110956
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 111366,
+        "end": 111387
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 111389,
+        "end": 111392
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 111394,
+        "end": 111402
+    },
+    {
+        "text": "article 13",
+        "label": "LAW",
+        "start": 111403,
+        "end": 111413
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 111428,
+        "end": 111432
+    },
+    {
+        "text": "section 10.5",
+        "label": "LAW",
+        "start": 111582,
+        "end": 111594
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 112517,
+        "end": 112521
+    },
+    {
+        "text": "more than sixty",
+        "label": "CARDINAL",
+        "start": 113468,
+        "end": 113483
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 113485,
+        "end": 113493
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 113658,
+        "end": 113662
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 114174,
+        "end": 114178
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 114180,
+        "end": 114181
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 114225,
+        "end": 114230
+    },
+    {
+        "text": "siga technologies, inc.",
+        "label": "ORG",
+        "start": 114325,
+        "end": 114348
+    },
+    {
+        "text": "31",
+        "label": "CARDINAL",
+        "start": 114349,
+        "end": 114351
+    },
+    {
+        "text": "5th",
+        "label": "ORDINAL",
+        "start": 114370,
+        "end": 114373
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 114380,
+        "end": 114388
+    },
+    {
+        "text": "10065",
+        "label": "DATE",
+        "start": 114393,
+        "end": 114398
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 114430,
+        "end": 114451
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 114453,
+        "end": 114456
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 114458,
+        "end": 114466
+    },
+    {
+        "text": "esq",
+        "label": "GPE",
+        "start": 114530,
+        "end": 114533
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 114546,
+        "end": 114547
+    },
+    {
+        "text": "250",
+        "label": "CARDINAL",
+        "start": 114567,
+        "end": 114570
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 114588,
+        "end": 114596
+    },
+    {
+        "text": "10007",
+        "label": "DATE",
+        "start": 114601,
+        "end": 114606
+    },
+    {
+        "text": "6350",
+        "label": "DATE",
+        "start": 114686,
+        "end": 114690
+    },
+    {
+        "text": "301\ncolumbia",
+        "label": "PERCENT",
+        "start": 114718,
+        "end": 114730
+    },
+    {
+        "text": "maryland",
+        "label": "GPE",
+        "start": 114732,
+        "end": 114740
+    },
+    {
+        "text": "21046",
+        "label": "CARDINAL",
+        "start": 114741,
+        "end": 114746
+    },
+    {
+        "text": "kaye scholer",
+        "label": "PERSON",
+        "start": 114869,
+        "end": 114881
+    },
+    {
+        "text": "250",
+        "label": "CARDINAL",
+        "start": 114886,
+        "end": 114889
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 114907,
+        "end": 114915
+    },
+    {
+        "text": "10019-9710",
+        "label": "DATE",
+        "start": 114920,
+        "end": 114930
+    },
+    {
+        "text": "eric rothman",
+        "label": "PERSON",
+        "start": 114958,
+        "end": 114970
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 115045,
+        "end": 115049
+    },
+    {
+        "text": "u.s. dollars",
+        "label": "ORG",
+        "start": 117780,
+        "end": 117792
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 118383,
+        "end": 118404
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 118406,
+        "end": 118409
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 118411,
+        "end": 118419
+    },
+    {
+        "text": "13.5",
+        "label": "CARDINAL",
+        "start": 118420,
+        "end": 118424
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 118690,
+        "end": 118695
+    },
+    {
+        "text": "transferee",
+        "label": "CARDINAL",
+        "start": 118719,
+        "end": 118729
+    },
+    {
+        "text": "13.5",
+        "label": "CARDINAL",
+        "start": 119209,
+        "end": 119213
+    },
+    {
+        "text": "13.6",
+        "label": "CARDINAL",
+        "start": 119252,
+        "end": 119256
+    },
+    {
+        "text": "affiliates",
+        "label": "ORG",
+        "start": 119272,
+        "end": 119282
+    },
+    {
+        "text": "section 2.1(b",
+        "label": "LAW",
+        "start": 119295,
+        "end": 119308
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 119847,
+        "end": 119852
+    },
+    {
+        "text": "13.7",
+        "label": "CARDINAL",
+        "start": 119893,
+        "end": 119897
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 120792,
+        "end": 120813
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 120815,
+        "end": 120818
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 120820,
+        "end": 120828
+    },
+    {
+        "text": "13.8",
+        "label": "CARDINAL",
+        "start": 120829,
+        "end": 120833
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 121045,
+        "end": 121048
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 121786,
+        "end": 121790
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 122780,
+        "end": 122783
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 123058,
+        "end": 123061
+    },
+    {
+        "text": "13.10",
+        "label": "CARDINAL",
+        "start": 123586,
+        "end": 123591
+    },
+    {
+        "text": "mmt",
+        "label": "GPE",
+        "start": 124176,
+        "end": 124179
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 124736,
+        "end": 124740
+    },
+    {
+        "text": "mmt",
+        "label": "PERSON",
+        "start": 124838,
+        "end": 124841
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 125038,
+        "end": 125059
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 125061,
+        "end": 125064
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 125066,
+        "end": 125074
+    },
+    {
+        "text": "13.11",
+        "label": "CARDINAL",
+        "start": 125075,
+        "end": 125080
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 125081,
+        "end": 125088
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 125134,
+        "end": 125141
+    },
+    {
+        "text": "13.12",
+        "label": "CARDINAL",
+        "start": 125254,
+        "end": 125259
+    },
+    {
+        "text": "13.13",
+        "label": "CARDINAL",
+        "start": 125777,
+        "end": 125782
+    },
+    {
+        "text": "13.14",
+        "label": "CARDINAL",
+        "start": 126309,
+        "end": 126314
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 126641,
+        "end": 126662
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 126664,
+        "end": 126667
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 126669,
+        "end": 126677
+    },
+    {
+        "text": "siga technologies, inc.",
+        "label": "ORG",
+        "start": 126819,
+        "end": 126842
+    },
+    {
+        "text": "phillip l. gomez",
+        "label": "PERSON",
+        "start": 126887,
+        "end": 126903
+    },
+    {
+        "text": "thomas handel\nname",
+        "label": "PERSON",
+        "start": 126917,
+        "end": 126935
+    },
+    {
+        "text": "phillip l. gomez",
+        "label": "PERSON",
+        "start": 126936,
+        "end": 126952
+    },
+    {
+        "text": "thomas handel\ntitle",
+        "label": "PERSON",
+        "start": 126963,
+        "end": 126982
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 127071,
+        "end": 127092
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 127094,
+        "end": 127097
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 127099,
+        "end": 127107
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 127157,
+        "end": 127178
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 127180,
+        "end": 127183
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 127185,
+        "end": 127193
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 127229,
+        "end": 127250
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 127252,
+        "end": 127255
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 127257,
+        "end": 127265
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 127317,
+        "end": 127338
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 127340,
+        "end": 127343
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 127345,
+        "end": 127353
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 127363,
+        "end": 127364
+    },
+    {
+        "text": "184201",
+        "label": "DATE",
+        "start": 127466,
+        "end": 127472
+    },
+    {
+        "text": "june 22, 2015",
+        "label": "DATE",
+        "start": 127611,
+        "end": 127624
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 127625,
+        "end": 127639
+    },
+    {
+        "text": "2578606",
+        "label": "DATE",
+        "start": 127643,
+        "end": 127650
+    },
+    {
+        "text": "russia",
+        "label": "GPE",
+        "start": 127651,
+        "end": 127657
+    },
+    {
+        "text": "march 27, 2016",
+        "label": "DATE",
+        "start": 127768,
+        "end": 127782
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 127783,
+        "end": 127797
+    },
+    {
+        "text": "16109",
+        "label": "DATE",
+        "start": 127801,
+        "end": 127806
+    },
+    {
+        "text": "october 31, 2013",
+        "label": "DATE",
+        "start": 127929,
+        "end": 127945
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 127946,
+        "end": 127960
+    },
+    {
+        "text": "602578",
+        "label": "DATE",
+        "start": 127964,
+        "end": 127970
+    },
+    {
+        "text": "new zealand",
+        "label": "GPE",
+        "start": 127971,
+        "end": 127982
+    },
+    {
+        "text": "december 2, 2014",
+        "label": "DATE",
+        "start": 128093,
+        "end": 128109
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 128110,
+        "end": 128124
+    },
+    {
+        "text": "326231",
+        "label": "CARDINAL",
+        "start": 128128,
+        "end": 128134
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 128192,
+        "end": 128195
+    },
+    {
+        "text": "december 11, 2014",
+        "label": "DATE",
+        "start": 128267,
+        "end": 128284
+    },
+    {
+        "text": "april 23, 2027",
+        "label": "DATE",
+        "start": 128285,
+        "end": 128299
+    },
+    {
+        "text": "348481",
+        "label": "DATE",
+        "start": 128303,
+        "end": 128309
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 128310,
+        "end": 128316
+    },
+    {
+        "text": "june 15, 2017",
+        "label": "DATE",
+        "start": 128434,
+        "end": 128447
+    },
+    {
+        "text": "april 23, 2027",
+        "label": "DATE",
+        "start": 128448,
+        "end": 128462
+    },
+    {
+        "text": "361428",
+        "label": "DATE",
+        "start": 128466,
+        "end": 128472
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 128473,
+        "end": 128479
+    },
+    {
+        "text": "december 6, 2018",
+        "label": "DATE",
+        "start": 128535,
+        "end": 128551
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 128552,
+        "end": 128566
+    },
+    {
+        "text": "363189",
+        "label": "DATE",
+        "start": 128570,
+        "end": 128576
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 128577,
+        "end": 128583
+    },
+    {
+        "text": "march 14, 2019\n",
+        "label": "DATE",
+        "start": 128701,
+        "end": 128716
+    },
+    {
+        "text": "april 23, 2027",
+        "label": "DATE",
+        "start": 128716,
+        "end": 128730
+    },
+    {
+        "text": "4884216",
+        "label": "DATE",
+        "start": 128734,
+        "end": 128741
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 128742,
+        "end": 128747
+    },
+    {
+        "text": "246",
+        "label": "CARDINAL",
+        "start": 128860,
+        "end": 128863
+    },
+    {
+        "text": "december 16, 2011\njune 18, 2024",
+        "label": "DATE",
+        "start": 128908,
+        "end": 128939
+    },
+    {
+        "text": "5657489",
+        "label": "DATE",
+        "start": 128943,
+        "end": 128950
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 128951,
+        "end": 128956
+    },
+    {
+        "text": "december 5, 2014\n",
+        "label": "DATE",
+        "start": 128988,
+        "end": 129005
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 129005,
+        "end": 129018
+    },
+    {
+        "text": "6018041",
+        "label": "CARDINAL",
+        "start": 129022,
+        "end": 129029
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 129030,
+        "end": 129035
+    },
+    {
+        "text": "october 7, 2016",
+        "label": "DATE",
+        "start": 129164,
+        "end": 129179
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 129180,
+        "end": 129194
+    },
+    {
+        "text": "6188802",
+        "label": "DATE",
+        "start": 129198,
+        "end": 129205
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 129206,
+        "end": 129211
+    },
+    {
+        "text": "august 10, 2017",
+        "label": "DATE",
+        "start": 129245,
+        "end": 129260
+    },
+    {
+        "text": "august 14, 2033",
+        "label": "DATE",
+        "start": 129261,
+        "end": 129276
+    },
+    {
+        "text": "6444460",
+        "label": "CARDINAL",
+        "start": 129280,
+        "end": 129287
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 129288,
+        "end": 129293
+    },
+    {
+        "text": "december 7, 2018",
+        "label": "DATE",
+        "start": 129327,
+        "end": 129343
+    },
+    {
+        "text": "august 14, 2033",
+        "label": "DATE",
+        "start": 129344,
+        "end": 129359
+    },
+    {
+        "text": "2011800245893",
+        "label": "DATE",
+        "start": 129363,
+        "end": 129376
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 129377,
+        "end": 129382
+    },
+    {
+        "text": "august 26, 2015",
+        "label": "DATE",
+        "start": 129511,
+        "end": 129526
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 129527,
+        "end": 129541
+    },
+    {
+        "text": "2013800429237",
+        "label": "CARDINAL",
+        "start": 129545,
+        "end": 129558
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 129559,
+        "end": 129564
+    },
+    {
+        "text": "june 20, 2017",
+        "label": "DATE",
+        "start": 129598,
+        "end": 129611
+    },
+    {
+        "text": "august 14, 2033",
+        "label": "DATE",
+        "start": 129612,
+        "end": 129627
+    },
+    {
+        "text": "2529761",
+        "label": "DATE",
+        "start": 129631,
+        "end": 129638
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 129639,
+        "end": 129645
+    },
+    {
+        "text": "august 13, 2013\n",
+        "label": "DATE",
+        "start": 129790,
+        "end": 129806
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 129806,
+        "end": 129819
+    },
+    {
+        "text": "2685153",
+        "label": "DATE",
+        "start": 129823,
+        "end": 129830
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 129831,
+        "end": 129837
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 129888,
+        "end": 129891
+    },
+    {
+        "text": "december 16, 2014",
+        "label": "DATE",
+        "start": 129963,
+        "end": 129980
+    },
+    {
+        "text": "april 23, 2027",
+        "label": "DATE",
+        "start": 129981,
+        "end": 129995
+    },
+    {
+        "text": "2793533",
+        "label": "DATE",
+        "start": 129999,
+        "end": 130006
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 130007,
+        "end": 130013
+    },
+    {
+        "text": "february 26, 2019",
+        "label": "DATE",
+        "start": 130142,
+        "end": 130159
+    },
+    {
+        "text": "march 23.",
+        "label": "DATE",
+        "start": 130160,
+        "end": 130169
+    },
+    {
+        "text": "2031",
+        "label": "DATE",
+        "start": 130170,
+        "end": 130174
+    },
+    {
+        "text": "2866037",
+        "label": "DATE",
+        "start": 130178,
+        "end": 130185
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 130186,
+        "end": 130192
+    },
+    {
+        "text": "may 16, 2017",
+        "label": "DATE",
+        "start": 130310,
+        "end": 130322
+    },
+    {
+        "text": "april 23, 2027",
+        "label": "DATE",
+        "start": 130323,
+        "end": 130337
+    },
+    {
+        "text": "2004249250",
+        "label": "DATE",
+        "start": 130341,
+        "end": 130351
+    },
+    {
+        "text": "australia",
+        "label": "GPE",
+        "start": 130352,
+        "end": 130361
+    },
+    {
+        "text": "march 29, 2012\njune 18, 2024",
+        "label": "DATE",
+        "start": 130501,
+        "end": 130529
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 130538,
+        "end": 130559
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 130561,
+        "end": 130564
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 130566,
+        "end": 130574
+    },
+    {
+        "text": "2007351866",
+        "label": "DATE",
+        "start": 130648,
+        "end": 130658
+    },
+    {
+        "text": "australia",
+        "label": "GPE",
+        "start": 130659,
+        "end": 130668
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 130719,
+        "end": 130722
+    },
+    {
+        "text": "january 10, 2013\n",
+        "label": "DATE",
+        "start": 130794,
+        "end": 130811
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 130811,
+        "end": 130824
+    },
+    {
+        "text": "2011232551",
+        "label": "CARDINAL",
+        "start": 130828,
+        "end": 130838
+    },
+    {
+        "text": "australia",
+        "label": "GPE",
+        "start": 130839,
+        "end": 130848
+    },
+    {
+        "text": "february 26, 2015",
+        "label": "DATE",
+        "start": 130959,
+        "end": 130976
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 130977,
+        "end": 130991
+    },
+    {
+        "text": "2013302764",
+        "label": "DATE",
+        "start": 130995,
+        "end": 131005
+    },
+    {
+        "text": "australia",
+        "label": "GPE",
+        "start": 131006,
+        "end": 131015
+    },
+    {
+        "text": "april 5, 2018",
+        "label": "DATE",
+        "start": 131049,
+        "end": 131062
+    },
+    {
+        "text": "august 14, 2033",
+        "label": "DATE",
+        "start": 131063,
+        "end": 131078
+    },
+    {
+        "text": "2012268859",
+        "label": "DATE",
+        "start": 131082,
+        "end": 131092
+    },
+    {
+        "text": "australia",
+        "label": "GPE",
+        "start": 131093,
+        "end": 131102
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 131153,
+        "end": 131156
+    },
+    {
+        "text": "august 18, 2016\njune 18, 2024",
+        "label": "DATE",
+        "start": 131228,
+        "end": 131257
+    },
+    {
+        "text": "3221",
+        "label": "DATE",
+        "start": 131261,
+        "end": 131265
+    },
+    {
+        "text": "april 3, 2015",
+        "label": "DATE",
+        "start": 131389,
+        "end": 131402
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 131403,
+        "end": 131417
+    },
+    {
+        "text": "2012/07141",
+        "label": "DATE",
+        "start": 131421,
+        "end": 131431
+    },
+    {
+        "text": "south africa",
+        "label": "GPE",
+        "start": 131432,
+        "end": 131444
+    },
+    {
+        "text": "june 29, 2016",
+        "label": "DATE",
+        "start": 131573,
+        "end": 131586
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 131587,
+        "end": 131601
+    },
+    {
+        "text": "201736",
+        "label": "CARDINAL",
+        "start": 131605,
+        "end": 131611
+    },
+    {
+        "text": "israel",
+        "label": "GPE",
+        "start": 131612,
+        "end": 131618
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 131669,
+        "end": 131672
+    },
+    {
+        "text": "october 1, 2016",
+        "label": "DATE",
+        "start": 131744,
+        "end": 131759
+    },
+    {
+        "text": "april 23, 2027",
+        "label": "DATE",
+        "start": 131760,
+        "end": 131774
+    },
+    {
+        "text": "236944",
+        "label": "DATE",
+        "start": 131778,
+        "end": 131784
+    },
+    {
+        "text": "israel",
+        "label": "GPE",
+        "start": 131785,
+        "end": 131791
+    },
+    {
+        "text": "february 1, 2017",
+        "label": "DATE",
+        "start": 131825,
+        "end": 131841
+    },
+    {
+        "text": "august 14, 2033",
+        "label": "DATE",
+        "start": 131842,
+        "end": 131857
+    },
+    {
+        "text": "242666",
+        "label": "DATE",
+        "start": 131861,
+        "end": 131867
+    },
+    {
+        "text": "israel",
+        "label": "GPE",
+        "start": 131868,
+        "end": 131874
+    },
+    {
+        "text": "december 1, 2018",
+        "label": "DATE",
+        "start": 131992,
+        "end": 132008
+    },
+    {
+        "text": "april 23, 2027",
+        "label": "DATE",
+        "start": 132009,
+        "end": 132023
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 132027,
+        "end": 132034
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 132160,
+        "end": 132175
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 132175,
+        "end": 132188
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 132192,
+        "end": 132199
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 132325,
+        "end": 132340
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 132340,
+        "end": 132353
+    },
+    {
+        "text": "2549871",
+        "label": "DATE",
+        "start": 132357,
+        "end": 132364
+    },
+    {
+        "text": "belgium",
+        "label": "GPE",
+        "start": 132365,
+        "end": 132372
+    },
+    {
+        "text": "august 22, 2018",
+        "label": "DATE",
+        "start": 132401,
+        "end": 132416
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 132417,
+        "end": 132431
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 132435,
+        "end": 132442
+    },
+    {
+        "text": "switzerland",
+        "label": "GPE",
+        "start": 132443,
+        "end": 132454
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 132572,
+        "end": 132587
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 132587,
+        "end": 132600
+    },
+    {
+        "text": "2549871",
+        "label": "DATE",
+        "start": 132604,
+        "end": 132611
+    },
+    {
+        "text": "switzerland",
+        "label": "GPE",
+        "start": 132612,
+        "end": 132623
+    },
+    {
+        "text": "august 22, 2018",
+        "label": "DATE",
+        "start": 132652,
+        "end": 132667
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 132668,
+        "end": 132682
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 132686,
+        "end": 132693
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 132694,
+        "end": 132701
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 132819,
+        "end": 132834
+    },
+    {
+        "text": "june 18, 2024\nde 2549871",
+        "label": "DATE",
+        "start": 132834,
+        "end": 132858
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 132859,
+        "end": 132866
+    },
+    {
+        "text": "august 22, 2018",
+        "label": "DATE",
+        "start": 132895,
+        "end": 132910
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 132911,
+        "end": 132925
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 132937,
+        "end": 132944
+    },
+    {
+        "text": "january 10, 2018",
+        "label": "DATE",
+        "start": 132978,
+        "end": 132994
+    },
+    {
+        "text": "august 14, 2033",
+        "label": "DATE",
+        "start": 132995,
+        "end": 133010
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 133014,
+        "end": 133021
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 133147,
+        "end": 133162
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 133162,
+        "end": 133175
+    },
+    {
+        "text": "2549871",
+        "label": "CARDINAL",
+        "start": 133179,
+        "end": 133186
+    },
+    {
+        "text": "august 22, 2018",
+        "label": "DATE",
+        "start": 133223,
+        "end": 133238
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 133239,
+        "end": 133253
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 133257,
+        "end": 133264
+    },
+    {
+        "text": "spain",
+        "label": "GPE",
+        "start": 133265,
+        "end": 133270
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 133388,
+        "end": 133403
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 133403,
+        "end": 133416
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 133420,
+        "end": 133427
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 133553,
+        "end": 133568
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 133568,
+        "end": 133581
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 133590,
+        "end": 133611
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 133613,
+        "end": 133616
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 133618,
+        "end": 133626
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 133700,
+        "end": 133707
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 133708,
+        "end": 133714
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 133832,
+        "end": 133847
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 133847,
+        "end": 133860
+    },
+    {
+        "text": "2887938",
+        "label": "DATE",
+        "start": 133864,
+        "end": 133871
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 133872,
+        "end": 133878
+    },
+    {
+        "text": "january 10, 2018",
+        "label": "DATE",
+        "start": 133912,
+        "end": 133928
+    },
+    {
+        "text": "august 14, 2033",
+        "label": "DATE",
+        "start": 133929,
+        "end": 133944
+    },
+    {
+        "text": "2549871",
+        "label": "DATE",
+        "start": 133948,
+        "end": 133955
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 133956,
+        "end": 133962
+    },
+    {
+        "text": "august 22, 2018",
+        "label": "DATE",
+        "start": 133991,
+        "end": 134006
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 134007,
+        "end": 134021
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 134025,
+        "end": 134032
+    },
+    {
+        "text": "united kingdom",
+        "label": "GPE",
+        "start": 134033,
+        "end": 134047
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 134165,
+        "end": 134180
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 134180,
+        "end": 134193
+    },
+    {
+        "text": "2887938",
+        "label": "CARDINAL",
+        "start": 134197,
+        "end": 134204
+    },
+    {
+        "text": "united kingdom",
+        "label": "GPE",
+        "start": 134205,
+        "end": 134219
+    },
+    {
+        "text": "january 10, 2018",
+        "label": "DATE",
+        "start": 134253,
+        "end": 134269
+    },
+    {
+        "text": "august 14, 2033",
+        "label": "DATE",
+        "start": 134270,
+        "end": 134285
+    },
+    {
+        "text": "2549871",
+        "label": "CARDINAL",
+        "start": 134289,
+        "end": 134296
+    },
+    {
+        "text": "united kingdom",
+        "label": "GPE",
+        "start": 134297,
+        "end": 134311
+    },
+    {
+        "text": "august 22, 2018",
+        "label": "DATE",
+        "start": 134340,
+        "end": 134355
+    },
+    {
+        "text": "march 23, 2031",
+        "label": "DATE",
+        "start": 134356,
+        "end": 134370
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 134374,
+        "end": 134381
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 134507,
+        "end": 134522
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 134522,
+        "end": 134535
+    },
+    {
+        "text": "502017000078377",
+        "label": "DATE",
+        "start": 134539,
+        "end": 134554
+    },
+    {
+        "text": "italy",
+        "label": "GPE",
+        "start": 134555,
+        "end": 134560
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 134678,
+        "end": 134693
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 134693,
+        "end": 134706
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 134710,
+        "end": 134717
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 134718,
+        "end": 134729
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 134847,
+        "end": 134862
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 134862,
+        "end": 134875
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 134879,
+        "end": 134886
+    },
+    {
+        "text": "poland",
+        "label": "GPE",
+        "start": 134887,
+        "end": 134893
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 135011,
+        "end": 135026
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 135026,
+        "end": 135039
+    },
+    {
+        "text": "1638938",
+        "label": "DATE",
+        "start": 135043,
+        "end": 135050
+    },
+    {
+        "text": "april 12, 2017\n",
+        "label": "DATE",
+        "start": 135175,
+        "end": 135190
+    },
+    {
+        "text": "june 18, 2024",
+        "label": "DATE",
+        "start": 135190,
+        "end": 135203
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 135212,
+        "end": 135233
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 135235,
+        "end": 135238
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 135240,
+        "end": 135248
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 135280,
+        "end": 135301
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 135303,
+        "end": 135306
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 135308,
+        "end": 135316
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 135326,
+        "end": 135327
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 135355,
+        "end": 135376
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 135378,
+        "end": 135381
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 135383,
+        "end": 135391
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 135401,
+        "end": 135402
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 135479,
+        "end": 135480
+    },
+    {
+        "text": "aes",
+        "label": "ORG",
+        "start": 135849,
+        "end": 135852
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 135917,
+        "end": 135920
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 136033,
+        "end": 136036
+    },
+    {
+        "text": "mmt shall exchange",
+        "label": "ORG",
+        "start": 136056,
+        "end": 136074
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 136130,
+        "end": 136133
+    },
+    {
+        "text": "mmt",
+        "label": "ORG",
+        "start": 136239,
+        "end": 136242
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 136581,
+        "end": 136582
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 136597,
+        "end": 136600
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 136892,
+        "end": 136913
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 136915,
+        "end": 136918
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 136920,
+        "end": 136928
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 137238,
+        "end": 137241
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 137665,
+        "end": 137668
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 137803,
+        "end": 137806
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 138072,
+        "end": 138073
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 138102,
+        "end": 138105
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 138391,
+        "end": 138394
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 138657,
+        "end": 138660
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 139084,
+        "end": 139105
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 139107,
+        "end": 139110
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 139112,
+        "end": 139120
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 139121,
+        "end": 139124
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 139315,
+        "end": 139316
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 139334,
+        "end": 139339
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 139341,
+        "end": 139342
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 139531,
+        "end": 139532
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 139553,
+        "end": 139556
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 139637,
+        "end": 139640
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 139642,
+        "end": 139643
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 139662,
+        "end": 139666
+    },
+    {
+        "text": "541",
+        "label": "CARDINAL",
+        "start": 139863,
+        "end": 139866
+    },
+    {
+        "text": "541",
+        "label": "CARDINAL",
+        "start": 139881,
+        "end": 139884
+    },
+    {
+        "text": "siga technologies, inc.",
+        "label": "ORG",
+        "start": 139910,
+        "end": 139933
+    },
+    {
+        "text": "4575",
+        "label": "DATE",
+        "start": 139934,
+        "end": 139938
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 139959,
+        "end": 139962
+    },
+    {
+        "text": "97333",
+        "label": "DATE",
+        "start": 139978,
+        "end": 139983
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 139984,
+        "end": 139987
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 140120,
+        "end": 140121
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 140314,
+        "end": 140317
+    },
+    {
+        "text": "ten (10) years",
+        "label": "DATE",
+        "start": 140791,
+        "end": 140805
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 141215,
+        "end": 141236
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 141238,
+        "end": 141241
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 141243,
+        "end": 141251
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 141252,
+        "end": 141253
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 142524,
+        "end": 142525
+    },
+    {
+        "text": "regular business hours",
+        "label": "TIME",
+        "start": 142649,
+        "end": 142671
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 143216,
+        "end": 143237
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 143239,
+        "end": 143242
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 143244,
+        "end": 143252
+    },
+    {
+        "text": "september 2, 2016",
+        "label": "DATE",
+        "start": 143367,
+        "end": 143384
+    },
+    {
+        "text": "siga technologies inc",
+        "label": "ORG",
+        "start": 143394,
+        "end": 143415
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 143417,
+        "end": 143420
+    },
+    {
+        "text": "6/3/2019",
+        "label": "DATE",
+        "start": 143422,
+        "end": 143430
+    }
+]

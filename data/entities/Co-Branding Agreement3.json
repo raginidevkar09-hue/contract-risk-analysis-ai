@@ -1,0 +1,848 @@
+[
+    {
+        "text": "10.10",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "june 8, 1999",
+        "label": "DATE",
+        "start": 272,
+        "end": 284
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 335,
+        "end": 345
+    },
+    {
+        "text": "111",
+        "label": "CARDINAL",
+        "start": 400,
+        "end": 403
+    },
+    {
+        "text": "st.",
+        "label": "GPE",
+        "start": 413,
+        "end": 416
+    },
+    {
+        "text": "san francisco",
+        "label": "GPE",
+        "start": 418,
+        "end": 431
+    },
+    {
+        "text": "94107",
+        "label": "DATE",
+        "start": 436,
+        "end": 441
+    },
+    {
+        "text": "united airlines, inc.",
+        "label": "ORG",
+        "start": 457,
+        "end": 478
+    },
+    {
+        "text": "1200",
+        "label": "CARDINAL",
+        "start": 545,
+        "end": 549
+    },
+    {
+        "text": "elk grove township",
+        "label": "PERSON",
+        "start": 569,
+        "end": 587
+    },
+    {
+        "text": "60007",
+        "label": "DATE",
+        "start": 592,
+        "end": 597
+    },
+    {
+        "text": "section 1",
+        "label": "LAW",
+        "start": 1036,
+        "end": 1045
+    },
+    {
+        "text": "exhibit a.\n \"",
+        "label": "PERSON",
+        "start": 2027,
+        "end": 2040
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 2225,
+        "end": 2229
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 2606,
+        "end": 2609
+    },
+    {
+        "text": "embark com inc",
+        "label": "ORG",
+        "start": 3091,
+        "end": 3105
+    },
+    {
+        "text": "10/8/1999\n ",
+        "label": "CARDINAL",
+        "start": 3114,
+        "end": 3125
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 3488,
+        "end": 3492
+    },
+    {
+        "text": "section 4.1",
+        "label": "LAW",
+        "start": 4124,
+        "end": 4135
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 4767,
+        "end": 4773
+    },
+    {
+        "text": "section 2",
+        "label": "LAW",
+        "start": 5065,
+        "end": 5074
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 5111,
+        "end": 5114
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 5414,
+        "end": 5417
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 5777,
+        "end": 5780
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 6523,
+        "end": 6526
+    },
+    {
+        "text": "2.3.1",
+        "label": "CARDINAL",
+        "start": 6538,
+        "end": 6543
+    },
+    {
+        "text": "section 2.4",
+        "label": "LAW",
+        "start": 6555,
+        "end": 6566
+    },
+    {
+        "text": "embark com inc",
+        "label": "ORG",
+        "start": 7009,
+        "end": 7023
+    },
+    {
+        "text": "10/8/1999",
+        "label": "DATE",
+        "start": 7032,
+        "end": 7041
+    },
+    {
+        "text": "2.3.2",
+        "label": "CARDINAL",
+        "start": 7204,
+        "end": 7209
+    },
+    {
+        "text": "section 2.4",
+        "label": "LAW",
+        "start": 7221,
+        "end": 7232
+    },
+    {
+        "text": "section 2.l",
+        "label": "LAW",
+        "start": 7521,
+        "end": 7532
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 7925,
+        "end": 7928
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 8431,
+        "end": 8434
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 8804,
+        "end": 8807
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 8872,
+        "end": 8877
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 9249,
+        "end": 9252
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 9715,
+        "end": 9718
+    },
+    {
+        "text": "section 3",
+        "label": "LAW",
+        "start": 10568,
+        "end": 10577
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 10607,
+        "end": 10610
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 10885,
+        "end": 10888
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 10889,
+        "end": 10898
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 10939,
+        "end": 10948
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 10995,
+        "end": 10998
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 11259,
+        "end": 11268
+    },
+    {
+        "text": "embark com inc",
+        "label": "ORG",
+        "start": 11299,
+        "end": 11313
+    },
+    {
+        "text": "10/8/1999",
+        "label": "DATE",
+        "start": 11322,
+        "end": 11331
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 11371,
+        "end": 11380
+    },
+    {
+        "text": "section 4",
+        "label": "LAW",
+        "start": 11477,
+        "end": 11486
+    },
+    {
+        "text": "december 31, 2000",
+        "label": "DATE",
+        "start": 11652,
+        "end": 11669
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 11672,
+        "end": 11675
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 11751,
+        "end": 11759
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 12113,
+        "end": 12116
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 12359,
+        "end": 12360
+    },
+    {
+        "text": "6",
+        "label": "DATE",
+        "start": 12362,
+        "end": 12363
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 12365,
+        "end": 12366
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 12371,
+        "end": 12372
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 12495,
+        "end": 12498
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 12612,
+        "end": 12615
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 12625,
+        "end": 12630
+    },
+    {
+        "text": "at least forty-five",
+        "label": "CARDINAL",
+        "start": 12806,
+        "end": 12825
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 12831,
+        "end": 12835
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 13287,
+        "end": 13290
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 13343,
+        "end": 13351
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 13470,
+        "end": 13475
+    },
+    {
+        "text": "section 5",
+        "label": "LAW",
+        "start": 13483,
+        "end": 13492
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 13537,
+        "end": 13540
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14031,
+        "end": 14036
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 14045,
+        "end": 14048
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14632,
+        "end": 14637
+    },
+    {
+        "text": "section 6",
+        "label": "LAW",
+        "start": 14645,
+        "end": 14654
+    },
+    {
+        "text": "embark com inc",
+        "label": "ORG",
+        "start": 14689,
+        "end": 14703
+    },
+    {
+        "text": "10/8/1999",
+        "label": "DATE",
+        "start": 14712,
+        "end": 14721
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 14723,
+        "end": 14726
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 16031,
+        "end": 16034
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 16770,
+        "end": 16773
+    },
+    {
+        "text": "section 7",
+        "label": "LAW",
+        "start": 17272,
+        "end": 17281
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 17294,
+        "end": 17297
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 17568,
+        "end": 17571
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 18179,
+        "end": 18182
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 18548,
+        "end": 18551
+    },
+    {
+        "text": "embark com inc",
+        "label": "ORG",
+        "start": 18929,
+        "end": 18943
+    },
+    {
+        "text": "10/8/1999\n ",
+        "label": "CARDINAL",
+        "start": 18952,
+        "end": 18963
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 19108,
+        "end": 19111
+    },
+    {
+        "text": "section 8",
+        "label": "LAW",
+        "start": 19113,
+        "end": 19122
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 19144,
+        "end": 19147
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 19202,
+        "end": 19206
+    },
+    {
+        "text": "years",
+        "label": "DATE",
+        "start": 19211,
+        "end": 19216
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 20475,
+        "end": 20480
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 21049,
+        "end": 21052
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 21382,
+        "end": 21385
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 22119,
+        "end": 22122
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 22251,
+        "end": 22261
+    },
+    {
+        "text": "san\nfrancisco",
+        "label": "GPE",
+        "start": 22422,
+        "end": 22435
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 22437,
+        "end": 22447
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 22553,
+        "end": 22556
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 23052,
+        "end": 23055
+    },
+    {
+        "text": "8.6",
+        "label": "CARDINAL",
+        "start": 23058,
+        "end": 23061
+    },
+    {
+        "text": "embark com inc",
+        "label": "ORG",
+        "start": 23360,
+        "end": 23374
+    },
+    {
+        "text": "10/8/1999",
+        "label": "DATE",
+        "start": 23383,
+        "end": 23392
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 23799,
+        "end": 23804
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 23811,
+        "end": 23815
+    },
+    {
+        "text": "8.8",
+        "label": "CARDINAL",
+        "start": 24283,
+        "end": 24286
+    },
+    {
+        "text": "united airlines, inc.",
+        "label": "ORG",
+        "start": 25053,
+        "end": 25074
+    },
+    {
+        "text": "howard berman",
+        "label": "PERSON",
+        "start": 25083,
+        "end": 25096
+    },
+    {
+        "text": "howard berman",
+        "label": "PERSON",
+        "start": 25189,
+        "end": 25202
+    },
+    {
+        "text": "june 8, 1999",
+        "label": "DATE",
+        "start": 25429,
+        "end": 25441
+    },
+    {
+        "text": "june 8, 1999\n ",
+        "label": "DATE",
+        "start": 25448,
+        "end": 25462
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 25720,
+        "end": 25723
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 25763,
+        "end": 25764
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 25824,
+        "end": 25825
+    },
+    {
+        "text": "section 3.1",
+        "label": "LAW",
+        "start": 25862,
+        "end": 25873
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 25887,
+        "end": 25888
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 25945,
+        "end": 25954
+    },
+    {
+        "text": "june 30, 1999",
+        "label": "DATE",
+        "start": 25998,
+        "end": 26011
+    },
+    {
+        "text": "september 30, 1999",
+        "label": "DATE",
+        "start": 26016,
+        "end": 26034
+    },
+    {
+        "text": "december 31, 1999",
+        "label": "DATE",
+        "start": 26039,
+        "end": 26056
+    },
+    {
+        "text": "march 31, 2000",
+        "label": "DATE",
+        "start": 26061,
+        "end": 26075
+    },
+    {
+        "text": "june 30, 2000",
+        "label": "DATE",
+        "start": 26080,
+        "end": 26093
+    },
+    {
+        "text": "september 30, 2000",
+        "label": "DATE",
+        "start": 26098,
+        "end": 26116
+    },
+    {
+        "text": "december 31, 2000",
+        "label": "DATE",
+        "start": 26121,
+        "end": 26138
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 26330,
+        "end": 26333
+    },
+    {
+        "text": "embark com inc",
+        "label": "ORG",
+        "start": 26343,
+        "end": 26357
+    },
+    {
+        "text": "10/8/1999\n ",
+        "label": "QUANTITY",
+        "start": 26366,
+        "end": 26377
+    },
+    {
+        "text": "a later date",
+        "label": "DATE",
+        "start": 26489,
+        "end": 26501
+    },
+    {
+        "text": "the united student\ntravel center",
+        "label": "ORG",
+        "start": 26532,
+        "end": 26564
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 26980,
+        "end": 26983
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 27932,
+        "end": 27939
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 28303,
+        "end": 28309
+    },
+    {
+        "text": "at least\n one",
+        "label": "CARDINAL",
+        "start": 29164,
+        "end": 29177
+    },
+    {
+        "text": "embark com inc",
+        "label": "ORG",
+        "start": 29257,
+        "end": 29271
+    },
+    {
+        "text": "10/8/1999\n ",
+        "label": "CARDINAL",
+        "start": 29280,
+        "end": 29291
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 29291,
+        "end": 29296
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 29652,
+        "end": 29655
+    },
+    {
+        "text": "years 1999",
+        "label": "DATE",
+        "start": 30340,
+        "end": 30350
+    },
+    {
+        "text": "2000",
+        "label": "DATE",
+        "start": 30355,
+        "end": 30359
+    },
+    {
+        "text": "1999",
+        "label": "DATE",
+        "start": 31303,
+        "end": 31307
+    },
+    {
+        "text": "2000",
+        "label": "DATE",
+        "start": 31327,
+        "end": 31331
+    },
+    {
+        "text": "406",
+        "label": "CARDINAL",
+        "start": 32008,
+        "end": 32011
+    },
+    {
+        "text": "embark com inc",
+        "label": "ORG",
+        "start": 32021,
+        "end": 32035
+    },
+    {
+        "text": "10/8/1999",
+        "label": "DATE",
+        "start": 32044,
+        "end": 32053
+    }
+]

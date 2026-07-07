@@ -1,0 +1,1526 @@
+[
+    {
+        "text": "10.27",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 59,
+        "end": 64
+    },
+    {
+        "text": "may 8, 2014",
+        "label": "DATE",
+        "start": 130,
+        "end": 141
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 151,
+        "end": 173
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 175,
+        "end": 177
+    },
+    {
+        "text": "5/20/2014",
+        "label": "CARDINAL",
+        "start": 181,
+        "end": 190
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 191,
+        "end": 192
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 194,
+        "end": 195
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 197,
+        "end": 200
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 201,
+        "end": 204
+    },
+    {
+        "text": "this 8th day",
+        "label": "DATE",
+        "start": 274,
+        "end": 286
+    },
+    {
+        "text": "2014",
+        "label": "DATE",
+        "start": 294,
+        "end": 298
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 386,
+        "end": 390
+    },
+    {
+        "text": "9100",
+        "label": "CARDINAL",
+        "start": 447,
+        "end": 451
+    },
+    {
+        "text": "15/16",
+        "label": "CARDINAL",
+        "start": 483,
+        "end": 488
+    },
+    {
+        "text": "thomas",
+        "label": "PERSON",
+        "start": 494,
+        "end": 500
+    },
+    {
+        "text": "holdings\ninc.",
+        "label": "ORG",
+        "start": 557,
+        "end": 570
+    },
+    {
+        "text": "and/or assigns",
+        "label": "PERSON",
+        "start": 571,
+        "end": 585
+    },
+    {
+        "text": "nevada",
+        "label": "GPE",
+        "start": 630,
+        "end": 636
+    },
+    {
+        "text": "228",
+        "label": "CARDINAL",
+        "start": 681,
+        "end": 684
+    },
+    {
+        "text": "56101",
+        "label": "DATE",
+        "start": 700,
+        "end": 705
+    },
+    {
+        "text": "december 31, 2012",
+        "label": "DATE",
+        "start": 907,
+        "end": 924
+    },
+    {
+        "text": "1) year",
+        "label": "DATE",
+        "start": 1616,
+        "end": 1623
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 1739,
+        "end": 1741
+    },
+    {
+        "text": "ma\nacknowledge",
+        "label": "PERSON",
+        "start": 1773,
+        "end": 1787
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 1916,
+        "end": 1920
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2566,
+        "end": 2571
+    },
+    {
+        "text": "schedule a.\nthird",
+        "label": "PERSON",
+        "start": 2779,
+        "end": 2796
+    },
+    {
+        "text": "ma acknowledge",
+        "label": "PERSON",
+        "start": 2823,
+        "end": 2837
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2886,
+        "end": 2891
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2990,
+        "end": 2995
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 3014,
+        "end": 3036
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 3038,
+        "end": 3040
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 3054,
+        "end": 3055
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 3057,
+        "end": 3060
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 3061,
+        "end": 3064
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 3065,
+        "end": 3068
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 3069,
+        "end": 3072
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 3073,
+        "end": 3076
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 3077,
+        "end": 3080
+    },
+    {
+        "text": "ma.",
+        "label": "PERSON",
+        "start": 3091,
+        "end": 3094
+    },
+    {
+        "text": "ma agrees",
+        "label": "PERSON",
+        "start": 3109,
+        "end": 3118
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 3989,
+        "end": 3993
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 4532,
+        "end": 4534
+    },
+    {
+        "text": "ma shall",
+        "label": "PERSON",
+        "start": 4676,
+        "end": 4684
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 5144,
+        "end": 5146
+    },
+    {
+        "text": "ma’s",
+        "label": "PERSON",
+        "start": 5532,
+        "end": 5536
+    },
+    {
+        "text": "ma agrees",
+        "label": "PERSON",
+        "start": 5583,
+        "end": 5592
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 5761,
+        "end": 5783
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 5785,
+        "end": 5787
+    },
+    {
+        "text": "5/20/2014",
+        "label": "CARDINAL",
+        "start": 5791,
+        "end": 5800
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 5801,
+        "end": 5804
+    },
+    {
+        "text": "3.8",
+        "label": "CARDINAL",
+        "start": 5805,
+        "end": 5808
+    },
+    {
+        "text": "3.9",
+        "label": "CARDINAL",
+        "start": 5809,
+        "end": 5812
+    },
+    {
+        "text": "3.10",
+        "label": "CARDINAL",
+        "start": 5829,
+        "end": 5833
+    },
+    {
+        "text": "3.11",
+        "label": "CARDINAL",
+        "start": 5834,
+        "end": 5838
+    },
+    {
+        "text": "3.12",
+        "label": "CARDINAL",
+        "start": 5839,
+        "end": 5843
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 6062,
+        "end": 6065
+    },
+    {
+        "text": "ma shall",
+        "label": "PERSON",
+        "start": 6148,
+        "end": 6156
+    },
+    {
+        "text": "ma",
+        "label": "ORG",
+        "start": 6428,
+        "end": 6430
+    },
+    {
+        "text": "ma shall",
+        "label": "PERSON",
+        "start": 6571,
+        "end": 6579
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 6785,
+        "end": 6788
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 6935,
+        "end": 6941
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 7066,
+        "end": 7072
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 7091,
+        "end": 7097
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 7152,
+        "end": 7158
+    },
+    {
+        "text": "ma and",
+        "label": "PERSON",
+        "start": 7201,
+        "end": 7207
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 7506,
+        "end": 7508
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 8388,
+        "end": 8390
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 8589,
+        "end": 8611
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 8613,
+        "end": 8615
+    },
+    {
+        "text": "5/20/2014",
+        "label": "CARDINAL",
+        "start": 8619,
+        "end": 8628
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 8629,
+        "end": 8630
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 8632,
+        "end": 8635
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 8636,
+        "end": 8639
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 8660,
+        "end": 8663
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 8664,
+        "end": 8667
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 8668,
+        "end": 8671
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 8672,
+        "end": 8673
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 9129,
+        "end": 9131
+    },
+    {
+        "text": "schedule a.\nmake",
+        "label": "PERSON",
+        "start": 9313,
+        "end": 9329
+    },
+    {
+        "text": "schedule a.\nmake available",
+        "label": "PERSON",
+        "start": 9407,
+        "end": 9433
+    },
+    {
+        "text": "schedule a.\nmake",
+        "label": "PERSON",
+        "start": 9501,
+        "end": 9517
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 9731,
+        "end": 9733
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 9975,
+        "end": 9977
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 10318,
+        "end": 10324
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 10336,
+        "end": 10342
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 10457,
+        "end": 10463
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 10567,
+        "end": 10589
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 10591,
+        "end": 10593
+    },
+    {
+        "text": "5/20/2014",
+        "label": "CARDINAL",
+        "start": 10597,
+        "end": 10606
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 10607,
+        "end": 10608
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 10610,
+        "end": 10611
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 10613,
+        "end": 10616
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 10617,
+        "end": 10620
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 10621,
+        "end": 10624
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 10625,
+        "end": 10628
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 10629,
+        "end": 10632
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 10633,
+        "end": 10636
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 10637,
+        "end": 10638
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 10640,
+        "end": 10643
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 10644,
+        "end": 10647
+    },
+    {
+        "text": "schedule a.\ncurrency",
+        "label": "PERSON",
+        "start": 11166,
+        "end": 11186
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 11541,
+        "end": 11544
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 11546,
+        "end": 11547
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 11787,
+        "end": 11789
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 11828,
+        "end": 11835
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 11951,
+        "end": 11954
+    },
+    {
+        "text": "one-half",
+        "label": "CARDINAL",
+        "start": 11959,
+        "end": 11967
+    },
+    {
+        "text": "1 ½",
+        "label": "TIME",
+        "start": 11977,
+        "end": 11980
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 12967,
+        "end": 12989
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 12991,
+        "end": 12993
+    },
+    {
+        "text": "5/20/2014",
+        "label": "CARDINAL",
+        "start": 12997,
+        "end": 13006
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 13007,
+        "end": 13010
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 13011,
+        "end": 13014
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 13015,
+        "end": 13016
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 13018,
+        "end": 13020
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 13116,
+        "end": 13124
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 13254,
+        "end": 13256
+    },
+    {
+        "text": "one year",
+        "label": "DATE",
+        "start": 13870,
+        "end": 13878
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15281,
+        "end": 15286
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 15369,
+        "end": 15373
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 15760,
+        "end": 15762
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 15856,
+        "end": 15858
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 15943,
+        "end": 15945
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 16117,
+        "end": 16139
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 16141,
+        "end": 16143
+    },
+    {
+        "text": "5/20/2014\n11",
+        "label": "CARDINAL",
+        "start": 16147,
+        "end": 16159
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 16161,
+        "end": 16163
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 16165,
+        "end": 16169
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 16170,
+        "end": 16174
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 16175,
+        "end": 16179
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 16180,
+        "end": 16182
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 16184,
+        "end": 16186
+    },
+    {
+        "text": "ma.\n",
+        "label": "PERSON",
+        "start": 16204,
+        "end": 16208
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 16744,
+        "end": 16746
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 17919,
+        "end": 17927
+    },
+    {
+        "text": "ma.",
+        "label": "PERSON",
+        "start": 18045,
+        "end": 18048
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 19033,
+        "end": 19055
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 19057,
+        "end": 19059
+    },
+    {
+        "text": "5/20/2014",
+        "label": "CARDINAL",
+        "start": 19063,
+        "end": 19072
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 19073,
+        "end": 19075
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 19077,
+        "end": 19079
+    },
+    {
+        "text": "16.1",
+        "label": "CARDINAL",
+        "start": 19081,
+        "end": 19085
+    },
+    {
+        "text": "16.2",
+        "label": "CARDINAL",
+        "start": 19086,
+        "end": 19090
+    },
+    {
+        "text": "16.3",
+        "label": "CARDINAL",
+        "start": 19091,
+        "end": 19095
+    },
+    {
+        "text": "16.4",
+        "label": "CARDINAL",
+        "start": 19096,
+        "end": 19100
+    },
+    {
+        "text": "16.5",
+        "label": "CARDINAL",
+        "start": 19101,
+        "end": 19105
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 19360,
+        "end": 19362
+    },
+    {
+        "text": "(90) days",
+        "label": "DATE",
+        "start": 20267,
+        "end": 20276
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 20365,
+        "end": 20370
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 21114,
+        "end": 21136
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 21138,
+        "end": 21140
+    },
+    {
+        "text": "5/20/2014",
+        "label": "CARDINAL",
+        "start": 21144,
+        "end": 21153
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 21154,
+        "end": 21156
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 21158,
+        "end": 21160
+    },
+    {
+        "text": "18.1",
+        "label": "CARDINAL",
+        "start": 21162,
+        "end": 21166
+    },
+    {
+        "text": "18.2",
+        "label": "CARDINAL",
+        "start": 21167,
+        "end": 21171
+    },
+    {
+        "text": "18.3",
+        "label": "CARDINAL",
+        "start": 21188,
+        "end": 21192
+    },
+    {
+        "text": "ma.\n",
+        "label": "PERSON",
+        "start": 21215,
+        "end": 21219
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 21294,
+        "end": 21296
+    },
+    {
+        "text": "ma\nacknowledges",
+        "label": "PERSON",
+        "start": 21298,
+        "end": 21313
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 21330,
+        "end": 21332
+    },
+    {
+        "text": "ma hereby",
+        "label": "PERSON",
+        "start": 21423,
+        "end": 21432
+    },
+    {
+        "text": "ma’s",
+        "label": "PERSON",
+        "start": 21532,
+        "end": 21536
+    },
+    {
+        "text": "ma’s",
+        "label": "PERSON",
+        "start": 21567,
+        "end": 21571
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 21606,
+        "end": 21608
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 21949,
+        "end": 21955
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 21957,
+        "end": 21965
+    },
+    {
+        "text": "ma’s",
+        "label": "PERSON",
+        "start": 22070,
+        "end": 22074
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 22198,
+        "end": 22199
+    },
+    {
+        "text": "ma’s",
+        "label": "PERSON",
+        "start": 22298,
+        "end": 22302
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 22666,
+        "end": 22679
+    },
+    {
+        "text": "ma’s",
+        "label": "PERSON",
+        "start": 23385,
+        "end": 23389
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 23440,
+        "end": 23453
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 23529,
+        "end": 23551
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 23553,
+        "end": 23555
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 23589,
+        "end": 23591
+    },
+    {
+        "text": "19.1",
+        "label": "CARDINAL",
+        "start": 23593,
+        "end": 23597
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 23752,
+        "end": 23757
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 24057,
+        "end": 24063
+    },
+    {
+        "text": "ma.",
+        "label": "PERSON",
+        "start": 24568,
+        "end": 24571
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 25372,
+        "end": 25377
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 25615,
+        "end": 25637
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 25639,
+        "end": 25641
+    },
+    {
+        "text": "5/20/2014",
+        "label": "CARDINAL",
+        "start": 25645,
+        "end": 25654
+    },
+    {
+        "text": "19.2",
+        "label": "CARDINAL",
+        "start": 25655,
+        "end": 25659
+    },
+    {
+        "text": "19.3\n20",
+        "label": "CARDINAL",
+        "start": 25660,
+        "end": 25667
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 25669,
+        "end": 25671
+    },
+    {
+        "text": "22",
+        "label": "CARDINAL",
+        "start": 25673,
+        "end": 25675
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 25697,
+        "end": 25699
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 25859,
+        "end": 25861
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 25912,
+        "end": 25917
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 26346,
+        "end": 26348
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 26736,
+        "end": 26738
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 27029,
+        "end": 27031
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 27991,
+        "end": 28013
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 28015,
+        "end": 28017
+    },
+    {
+        "text": "5/20/2014\n23",
+        "label": "CARDINAL",
+        "start": 28021,
+        "end": 28033
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 28035,
+        "end": 28037
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 28039,
+        "end": 28041
+    },
+    {
+        "text": "26",
+        "label": "CARDINAL",
+        "start": 28043,
+        "end": 28045
+    },
+    {
+        "text": "nevada",
+        "label": "GPE",
+        "start": 28470,
+        "end": 28476
+    },
+    {
+        "text": "ma hereby",
+        "label": "PERSON",
+        "start": 28634,
+        "end": 28643
+    },
+    {
+        "text": "nevada",
+        "label": "GPE",
+        "start": 28737,
+        "end": 28743
+    },
+    {
+        "text": "ma hereby",
+        "label": "PERSON",
+        "start": 29472,
+        "end": 29481
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 30599,
+        "end": 30621
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 30623,
+        "end": 30625
+    },
+    {
+        "text": "first\ninvestments inc.",
+        "label": "ORG",
+        "start": 30653,
+        "end": 30675
+    },
+    {
+        "text": "us virgin",
+        "label": "GPE",
+        "start": 30678,
+        "end": 30687
+    },
+    {
+        "text": "pier s. bjorklund",
+        "label": "PERSON",
+        "start": 30716,
+        "end": 30733
+    },
+    {
+        "text": "pier s. bjorklund",
+        "label": "PERSON",
+        "start": 30734,
+        "end": 30751
+    },
+    {
+        "text": "ma\nmount knowledge",
+        "label": "PERSON",
+        "start": 30823,
+        "end": 30841
+    },
+    {
+        "text": "nevada",
+        "label": "GPE",
+        "start": 30858,
+        "end": 30864
+    },
+    {
+        "text": "james d. beatty",
+        "label": "PERSON",
+        "start": 30885,
+        "end": 30900
+    },
+    {
+        "text": "james d. beatty",
+        "label": "PERSON",
+        "start": 30902,
+        "end": 30917
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 30946,
+        "end": 30968
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 30970,
+        "end": 30972
+    },
+    {
+        "text": "5/20/2014",
+        "label": "CARDINAL",
+        "start": 30976,
+        "end": 30985
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 30986,
+        "end": 30987
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 30994,
+        "end": 30995
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 31002,
+        "end": 31003
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 31010,
+        "end": 31011
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 31018,
+        "end": 31019
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 31026,
+        "end": 31027
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 31034,
+        "end": 31035
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 31037,
+        "end": 31038
+    },
+    {
+        "text": "level1",
+        "label": "PERSON",
+        "start": 31153,
+        "end": 31159
+    },
+    {
+        "text": "1,000,001",
+        "label": "CARDINAL",
+        "start": 31215,
+        "end": 31224
+    },
+    {
+        "text": "100,001",
+        "label": "CARDINAL",
+        "start": 31241,
+        "end": 31248
+    },
+    {
+        "text": "1,000,000",
+        "label": "CARDINAL",
+        "start": 31252,
+        "end": 31261
+    },
+    {
+        "text": "100,000",
+        "label": "CARDINAL",
+        "start": 31273,
+        "end": 31280
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 31281,
+        "end": 31283
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 31347,
+        "end": 31353
+    },
+    {
+        "text": "the past twelve months",
+        "label": "DATE",
+        "start": 31389,
+        "end": 31411
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 31677,
+        "end": 31679
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 31910,
+        "end": 31913
+    },
+    {
+        "text": "the first six months",
+        "label": "DATE",
+        "start": 31961,
+        "end": 31981
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 32515,
+        "end": 32522
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 32562,
+        "end": 32584
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 32586,
+        "end": 32588
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 32606,
+        "end": 32607
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 32609,
+        "end": 32610
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 32612,
+        "end": 32613
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 32787,
+        "end": 32796
+    },
+    {
+        "text": "each quarter",
+        "label": "DATE",
+        "start": 32885,
+        "end": 32897
+    },
+    {
+        "text": "section 1",
+        "label": "LAW",
+        "start": 32945,
+        "end": 32954
+    },
+    {
+        "text": "each month",
+        "label": "DATE",
+        "start": 32972,
+        "end": 32982
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 32988,
+        "end": 32990
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 33042,
+        "end": 33047
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 33218,
+        "end": 33225
+    },
+    {
+        "text": "ma",
+        "label": "PERSON",
+        "start": 33274,
+        "end": 33276
+    },
+    {
+        "text": "cybergy holdings, inc.",
+        "label": "ORG",
+        "start": 33403,
+        "end": 33425
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 33427,
+        "end": 33429
+    }
+]

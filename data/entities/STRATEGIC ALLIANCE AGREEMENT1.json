@@ -1,0 +1,4898 @@
+[
+    {
+        "text": "10.19",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "mitsui",
+        "label": "PERSON",
+        "start": 60,
+        "end": 66
+    },
+    {
+        "text": "december 27",
+        "label": "DATE",
+        "start": 191,
+        "end": 202
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 204,
+        "end": 208
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 279,
+        "end": 282
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 305,
+        "end": 308
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 361,
+        "end": 364
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 386,
+        "end": 389
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 441,
+        "end": 444
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 453,
+        "end": 456
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 478,
+        "end": 481
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 500,
+        "end": 503
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 505,
+        "end": 513
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 525,
+        "end": 528
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 538,
+        "end": 541
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 601,
+        "end": 604
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 626,
+        "end": 629
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 639,
+        "end": 645
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 678,
+        "end": 681
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 704,
+        "end": 707
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 736,
+        "end": 739
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 823,
+        "end": 826
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 847,
+        "end": 850
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 870,
+        "end": 873
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 875,
+        "end": 880
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 953,
+        "end": 956
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 1026,
+        "end": 1029
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 1057,
+        "end": 1060
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 1111,
+        "end": 1114
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 1157,
+        "end": 1160
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 1172,
+        "end": 1175
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 1197,
+        "end": 1200
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 1255,
+        "end": 1258
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 1307,
+        "end": 1311
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 1349,
+        "end": 1353
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 1361,
+        "end": 1365
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 1380,
+        "end": 1384
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 1454,
+        "end": 1458
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 1476,
+        "end": 1480
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1491,
+        "end": 1496
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 1510,
+        "end": 1514
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 1571,
+        "end": 1575
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 1603,
+        "end": 1607
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 1654,
+        "end": 1658
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 1724,
+        "end": 1728
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 1744,
+        "end": 1748
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 1774,
+        "end": 1778
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 1824,
+        "end": 1828
+    },
+    {
+        "text": "13.5",
+        "label": "CARDINAL",
+        "start": 1855,
+        "end": 1859
+    },
+    {
+        "text": "13.6",
+        "label": "CARDINAL",
+        "start": 1886,
+        "end": 1890
+    },
+    {
+        "text": "13.7",
+        "label": "CARDINAL",
+        "start": 1911,
+        "end": 1915
+    },
+    {
+        "text": "13.8",
+        "label": "CARDINAL",
+        "start": 1945,
+        "end": 1949
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 1974,
+        "end": 1978
+    },
+    {
+        "text": "13.10",
+        "label": "CARDINAL",
+        "start": 2011,
+        "end": 2016
+    },
+    {
+        "text": "144",
+        "label": "CARDINAL",
+        "start": 2023,
+        "end": 2026
+    },
+    {
+        "text": "13.11",
+        "label": "CARDINAL",
+        "start": 2028,
+        "end": 2033
+    },
+    {
+        "text": "13.12",
+        "label": "CARDINAL",
+        "start": 2068,
+        "end": 2073
+    },
+    {
+        "text": "xiv",
+        "label": "PERSON",
+        "start": 2119,
+        "end": 2122
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 2178,
+        "end": 2182
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 2218,
+        "end": 2224
+    },
+    {
+        "text": "14.2",
+        "label": "CARDINAL",
+        "start": 2226,
+        "end": 2230
+    },
+    {
+        "text": "14.3",
+        "label": "CARDINAL",
+        "start": 2278,
+        "end": 2282
+    },
+    {
+        "text": "xv",
+        "label": "PERSON",
+        "start": 2347,
+        "end": 2349
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 2367,
+        "end": 2371
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 2416,
+        "end": 2420
+    },
+    {
+        "text": "15.3",
+        "label": "CARDINAL",
+        "start": 2430,
+        "end": 2434
+    },
+    {
+        "text": "15.4",
+        "label": "CARDINAL",
+        "start": 2488,
+        "end": 2492
+    },
+    {
+        "text": "15.5",
+        "label": "CARDINAL",
+        "start": 2509,
+        "end": 2513
+    },
+    {
+        "text": "15.6",
+        "label": "CARDINAL",
+        "start": 2562,
+        "end": 2566
+    },
+    {
+        "text": "15.7",
+        "label": "CARDINAL",
+        "start": 2582,
+        "end": 2586
+    },
+    {
+        "text": "15.8",
+        "label": "CARDINAL",
+        "start": 2610,
+        "end": 2614
+    },
+    {
+        "text": "15.9",
+        "label": "CARDINAL",
+        "start": 2646,
+        "end": 2650
+    },
+    {
+        "text": "15.10",
+        "label": "CARDINAL",
+        "start": 2679,
+        "end": 2684
+    },
+    {
+        "text": "december 27",
+        "label": "DATE",
+        "start": 2820,
+        "end": 2831
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 2833,
+        "end": 2837
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 2899,
+        "end": 2907
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 2960,
+        "end": 2961
+    },
+    {
+        "text": "chiyoda-ku",
+        "label": "PERSON",
+        "start": 2969,
+        "end": 2979
+    },
+    {
+        "text": "tokyo",
+        "label": "GPE",
+        "start": 2981,
+        "end": 2986
+    },
+    {
+        "text": "100-0006",
+        "label": "DATE",
+        "start": 2987,
+        "end": 2995
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 2997,
+        "end": 3002
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 3099,
+        "end": 3107
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 3144,
+        "end": 3145
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 3160,
+        "end": 3161
+    },
+    {
+        "text": "tokyo",
+        "label": "GPE",
+        "start": 3181,
+        "end": 3186
+    },
+    {
+        "text": "100-8325",
+        "label": "CARDINAL",
+        "start": 3187,
+        "end": 3195
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 3197,
+        "end": 3202
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 3211,
+        "end": 3214
+    },
+    {
+        "text": "moelis & ",
+        "label": "ORG",
+        "start": 3225,
+        "end": 3234
+    },
+    {
+        "text": "399",
+        "label": "CARDINAL",
+        "start": 3322,
+        "end": 3325
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 3339,
+        "end": 3347
+    },
+    {
+        "text": "10022",
+        "label": "DATE",
+        "start": 3352,
+        "end": 3357
+    },
+    {
+        "text": "moelis & ",
+        "label": "ORG",
+        "start": 3378,
+        "end": 3387
+    },
+    {
+        "text": "399",
+        "label": "CARDINAL",
+        "start": 3465,
+        "end": 3468
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 3482,
+        "end": 3490
+    },
+    {
+        "text": "10022",
+        "label": "DATE",
+        "start": 3495,
+        "end": 3500
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 3561,
+        "end": 3567
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 3621,
+        "end": 3625
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 3634,
+        "end": 3640
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 3654,
+        "end": 3660
+    },
+    {
+        "text": "s s ",
+        "label": "PERSON",
+        "start": 3776,
+        "end": 3780
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3806,
+        "end": 3807
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 3809,
+        "end": 3813
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 3830,
+        "end": 3836
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 3994,
+        "end": 4002
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 4187,
+        "end": 4193
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 4207,
+        "end": 4213
+    },
+    {
+        "text": "57,364",
+        "label": "CARDINAL",
+        "start": 4276,
+        "end": 4282
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 4524,
+        "end": 4532
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 5109,
+        "end": 5112
+    },
+    {
+        "text": "15.3",
+        "label": "CARDINAL",
+        "start": 5256,
+        "end": 5260
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 5369,
+        "end": 5372
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 5417,
+        "end": 5420
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 5543,
+        "end": 5547
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 5946,
+        "end": 5949
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 6003,
+        "end": 6006
+    },
+    {
+        "text": "13.1(a)(i",
+        "label": "CARDINAL",
+        "start": 6062,
+        "end": 6071
+    },
+    {
+        "text": "13.1(a)(i",
+        "label": "CARDINAL",
+        "start": 6134,
+        "end": 6143
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 6198,
+        "end": 6202
+    },
+    {
+        "text": "13.9(c",
+        "label": "DATE",
+        "start": 6262,
+        "end": 6268
+    },
+    {
+        "text": "13.9(a",
+        "label": "CARDINAL",
+        "start": 6331,
+        "end": 6337
+    },
+    {
+        "text": "13.9(c",
+        "label": "DATE",
+        "start": 6399,
+        "end": 6405
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 6710,
+        "end": 6716
+    },
+    {
+        "text": "433",
+        "label": "CARDINAL",
+        "start": 7019,
+        "end": 7022
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 7051,
+        "end": 7059
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 7104,
+        "end": 7107
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 7111,
+        "end": 7119
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 7143,
+        "end": 7151
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 7254,
+        "end": 7259
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 7271,
+        "end": 7276
+    },
+    {
+        "text": "ken",
+        "label": "PERSON",
+        "start": 7294,
+        "end": 7297
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 7298,
+        "end": 7304
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 7367,
+        "end": 7373
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 7385,
+        "end": 7391
+    },
+    {
+        "text": "ken",
+        "label": "PERSON",
+        "start": 7450,
+        "end": 7453
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 7454,
+        "end": 7460
+    },
+    {
+        "text": "13.9(a",
+        "label": "CARDINAL",
+        "start": 7541,
+        "end": 7547
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 7609,
+        "end": 7612
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 7622,
+        "end": 7630
+    },
+    {
+        "text": "mitsubishi",
+        "label": "ORG",
+        "start": 7735,
+        "end": 7745
+    },
+    {
+        "text": "mizuho",
+        "label": "PERSON",
+        "start": 7773,
+        "end": 7779
+    },
+    {
+        "text": "group inc.",
+        "label": "ORG",
+        "start": 7843,
+        "end": 7853
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 8122,
+        "end": 8127
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 8259,
+        "end": 8262
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 8537,
+        "end": 8543
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 9084,
+        "end": 9090
+    },
+    {
+        "text": "july 1",
+        "label": "DATE",
+        "start": 9113,
+        "end": 9119
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 9121,
+        "end": 9125
+    },
+    {
+        "text": "moelis & ",
+        "label": "ORG",
+        "start": 9164,
+        "end": 9173
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 9358,
+        "end": 9362
+    },
+    {
+        "text": "non-japanese",
+        "label": "NORP",
+        "start": 9366,
+        "end": 9378
+    },
+    {
+        "text": "weinberg",
+        "label": "PERSON",
+        "start": 9543,
+        "end": 9551
+    },
+    {
+        "text": "advisors inc.",
+        "label": "ORG",
+        "start": 9572,
+        "end": 9585
+    },
+    {
+        "text": "financial corp.",
+        "label": "ORG",
+        "start": 9627,
+        "end": 9642
+    },
+    {
+        "text": "nicolaus",
+        "label": "PERSON",
+        "start": 9695,
+        "end": 9703
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 9818,
+        "end": 9824
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 9986,
+        "end": 9992
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 10187,
+        "end": 10191
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 10516,
+        "end": 10519
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 10920,
+        "end": 10926
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 11081,
+        "end": 11087
+    },
+    {
+        "text": "144",
+        "label": "CARDINAL",
+        "start": 11415,
+        "end": 11418
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 11482,
+        "end": 11488
+    },
+    {
+        "text": "144",
+        "label": "CARDINAL",
+        "start": 12141,
+        "end": 12144
+    },
+    {
+        "text": "144",
+        "label": "CARDINAL",
+        "start": 12157,
+        "end": 12160
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 12380,
+        "end": 12386
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 12407,
+        "end": 12413
+    },
+    {
+        "text": "moelis & ",
+        "label": "ORG",
+        "start": 12449,
+        "end": 12458
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 12626,
+        "end": 12630
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 12672,
+        "end": 12680
+    },
+    {
+        "text": "non-japanese",
+        "label": "NORP",
+        "start": 12711,
+        "end": 12723
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 12780,
+        "end": 12788
+    },
+    {
+        "text": "non-japanese",
+        "label": "NORP",
+        "start": 12807,
+        "end": 12819
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 12988,
+        "end": 12996
+    },
+    {
+        "text": "smbc",
+        "label": "ORG",
+        "start": 13301,
+        "end": 13305
+    },
+    {
+        "text": "13.1(a)(i",
+        "label": "CARDINAL",
+        "start": 13357,
+        "end": 13366
+    },
+    {
+        "text": "1933",
+        "label": "DATE",
+        "start": 13415,
+        "end": 13419
+    },
+    {
+        "text": "article ii",
+        "label": "LAW",
+        "start": 13592,
+        "end": 13602
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 13687,
+        "end": 13690
+    },
+    {
+        "text": "13.6",
+        "label": "CARDINAL",
+        "start": 13837,
+        "end": 13841
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 14059,
+        "end": 14062
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 14258,
+        "end": 14261
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 14282,
+        "end": 14286
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 14297,
+        "end": 14303
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 14436,
+        "end": 14444
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 14596,
+        "end": 14600
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 14611,
+        "end": 14617
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 14718,
+        "end": 14721
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 14882,
+        "end": 14885
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 15056,
+        "end": 15059
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 15224,
+        "end": 15227
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 15238,
+        "end": 15244
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 15376,
+        "end": 15384
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 15528,
+        "end": 15531
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 16040,
+        "end": 16043
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 16262,
+        "end": 16270
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 16366,
+        "end": 16371
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 16774,
+        "end": 16777
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 16824,
+        "end": 16829
+    },
+    {
+        "text": "north america",
+        "label": "GPE",
+        "start": 16831,
+        "end": 16844
+    },
+    {
+        "text": "europe",
+        "label": "LOC",
+        "start": 16846,
+        "end": 16852
+    },
+    {
+        "text": "north africa",
+        "label": "GPE",
+        "start": 16874,
+        "end": 16886
+    },
+    {
+        "text": "australia",
+        "label": "GPE",
+        "start": 16888,
+        "end": 16897
+    },
+    {
+        "text": "hong\nkong",
+        "label": "GPE",
+        "start": 16899,
+        "end": 16908
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 16913,
+        "end": 16918
+    },
+    {
+        "text": "hong ",
+        "label": "GPE",
+        "start": 17129,
+        "end": 17134
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 17139,
+        "end": 17144
+    },
+    {
+        "text": "asia",
+        "label": "LOC",
+        "start": 17145,
+        "end": 17149
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 17152,
+        "end": 17155
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 17156,
+        "end": 17164
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 17177,
+        "end": 17185
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 17252,
+        "end": 17257
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 17315,
+        "end": 17320
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 17396,
+        "end": 17401
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 17456,
+        "end": 17461
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 17472,
+        "end": 17480
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 17543,
+        "end": 17546
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 17603,
+        "end": 17611
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 17703,
+        "end": 17709
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 17771,
+        "end": 17777
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 17790,
+        "end": 17798
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 17865,
+        "end": 17871
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 17935,
+        "end": 17938
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 17982,
+        "end": 17988
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 18136,
+        "end": 18142
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 18319,
+        "end": 18325
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 18538,
+        "end": 18541
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 18574,
+        "end": 18577
+    },
+    {
+        "text": "50/50",
+        "label": "CARDINAL",
+        "start": 18630,
+        "end": 18635
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 18707,
+        "end": 18710
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 18739,
+        "end": 18742
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 18753,
+        "end": 18759
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 19102,
+        "end": 19105
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 19208,
+        "end": 19214
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 19280,
+        "end": 19283
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 19338,
+        "end": 19344
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 19551,
+        "end": 19557
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 19616,
+        "end": 19618
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 19802,
+        "end": 19805
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 19987,
+        "end": 19990
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 20055,
+        "end": 20056
+    },
+    {
+        "text": "3 million",
+        "label": "CARDINAL",
+        "start": 20072,
+        "end": 20081
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 20084,
+        "end": 20085
+    },
+    {
+        "text": "2 million",
+        "label": "QUANTITY",
+        "start": 20111,
+        "end": 20120
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 20126,
+        "end": 20127
+    },
+    {
+        "text": "1 million",
+        "label": "CARDINAL",
+        "start": 20173,
+        "end": 20182
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 20185,
+        "end": 20188
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 20216,
+        "end": 20219
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 20254,
+        "end": 20260
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 20434,
+        "end": 20440
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 20515,
+        "end": 20518
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 20725,
+        "end": 20728
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 20990,
+        "end": 20993
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 21296,
+        "end": 21299
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 21341,
+        "end": 21347
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 21473,
+        "end": 21482
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 21739,
+        "end": 21745
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 21853,
+        "end": 21862
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 21997,
+        "end": 22005
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 22316,
+        "end": 22324
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 22712,
+        "end": 22715
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 22716,
+        "end": 22721
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 22730,
+        "end": 22736
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 22778,
+        "end": 22783
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 22911,
+        "end": 22914
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 23021,
+        "end": 23027
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 23050,
+        "end": 23053
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 23084,
+        "end": 23087
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 23135,
+        "end": 23141
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 23402,
+        "end": 23410
+    },
+    {
+        "text": "15.3",
+        "label": "CARDINAL",
+        "start": 23718,
+        "end": 23722
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 23766,
+        "end": 23769
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 23831,
+        "end": 23837
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 23991,
+        "end": 23999
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 24003,
+        "end": 24009
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 24107,
+        "end": 24113
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 24146,
+        "end": 24150
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 24173,
+        "end": 24179
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 24246,
+        "end": 24252
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 24352,
+        "end": 24355
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 24433,
+        "end": 24439
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 24445,
+        "end": 24446
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 24458,
+        "end": 24464
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 24495,
+        "end": 24501
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 24502,
+        "end": 24503
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 24507,
+        "end": 24508
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 24520,
+        "end": 24526
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 24537,
+        "end": 24543
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 24569,
+        "end": 24575
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 24586,
+        "end": 24592
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 24656,
+        "end": 24662
+    },
+    {
+        "text": "tokyo",
+        "label": "GPE",
+        "start": 24688,
+        "end": 24693
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 24972,
+        "end": 24978
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 25495,
+        "end": 25501
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 25740,
+        "end": 25743
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 25932,
+        "end": 25935
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 26180,
+        "end": 26183
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 26664,
+        "end": 26670
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 26738,
+        "end": 26744
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 26786,
+        "end": 26792
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 27010,
+        "end": 27016
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 27045,
+        "end": 27051
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 27110,
+        "end": 27113
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 27132,
+        "end": 27135
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 27504,
+        "end": 27507
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 27721,
+        "end": 27724
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 27765,
+        "end": 27768
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 28130,
+        "end": 28134
+    },
+    {
+        "text": "1977",
+        "label": "DATE",
+        "start": 28176,
+        "end": 28180
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 28421,
+        "end": 28424
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 28754,
+        "end": 28757
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 28791,
+        "end": 28794
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 29150,
+        "end": 29154
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 30270,
+        "end": 30275
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 31189,
+        "end": 31195
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 31458,
+        "end": 31466
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 31671,
+        "end": 31677
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 32212,
+        "end": 32217
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 32283,
+        "end": 32287
+    },
+    {
+        "text": "two years",
+        "label": "DATE",
+        "start": 32381,
+        "end": 32390
+    },
+    {
+        "text": "two years",
+        "label": "DATE",
+        "start": 32486,
+        "end": 32495
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 32561,
+        "end": 32565
+    },
+    {
+        "text": "january 1",
+        "label": "DATE",
+        "start": 32612,
+        "end": 32621
+    },
+    {
+        "text": "2012",
+        "label": "DATE",
+        "start": 32623,
+        "end": 32627
+    },
+    {
+        "text": "xiii",
+        "label": "PERSON",
+        "start": 32701,
+        "end": 32705
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 32840,
+        "end": 32845
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 32847,
+        "end": 32848
+    },
+    {
+        "text": "years",
+        "label": "DATE",
+        "start": 32850,
+        "end": 32855
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 33047,
+        "end": 33048
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 33130,
+        "end": 33133
+    },
+    {
+        "text": "6)\nmonths",
+        "label": "DATE",
+        "start": 33135,
+        "end": 33144
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 33273,
+        "end": 33274
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 33276,
+        "end": 33282
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 33340,
+        "end": 33344
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 33551,
+        "end": 33554
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 33564,
+        "end": 33570
+    },
+    {
+        "text": "90",
+        "label": "CARDINAL",
+        "start": 33985,
+        "end": 33987
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 34429,
+        "end": 34433
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 34463,
+        "end": 34466
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 34534,
+        "end": 34537
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 34539,
+        "end": 34540
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 34542,
+        "end": 34548
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 34696,
+        "end": 34702
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 34753,
+        "end": 34754
+    },
+    {
+        "text": "2012",
+        "label": "DATE",
+        "start": 34756,
+        "end": 34760
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 34860,
+        "end": 34864
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 35171,
+        "end": 35174
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 35198,
+        "end": 35201
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 35310,
+        "end": 35314
+    },
+    {
+        "text": "xiii",
+        "label": "PERSON",
+        "start": 35387,
+        "end": 35391
+    },
+    {
+        "text": "xv",
+        "label": "PERSON",
+        "start": 35418,
+        "end": 35420
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 35522,
+        "end": 35528
+    },
+    {
+        "text": "11.2(b",
+        "label": "DATE",
+        "start": 35584,
+        "end": 35590
+    },
+    {
+        "text": "11.2(c",
+        "label": "DATE",
+        "start": 35697,
+        "end": 35703
+    },
+    {
+        "text": "xiii",
+        "label": "PERSON",
+        "start": 35877,
+        "end": 35881
+    },
+    {
+        "text": "xiii",
+        "label": "PERSON",
+        "start": 36065,
+        "end": 36069
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 36174,
+        "end": 36178
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 36281,
+        "end": 36284
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 36338,
+        "end": 36344
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 36356,
+        "end": 36360
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 36370,
+        "end": 36375
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 36454,
+        "end": 36458
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 36483,
+        "end": 36488
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 36559,
+        "end": 36565
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 36931,
+        "end": 36936
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 37015,
+        "end": 37020
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 37168,
+        "end": 37174
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 37379,
+        "end": 37385
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 37444,
+        "end": 37446
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 37663,
+        "end": 37669
+    },
+    {
+        "text": "10-day",
+        "label": "DATE",
+        "start": 37713,
+        "end": 37719
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 37728,
+        "end": 37734
+    },
+    {
+        "text": "one hundred",
+        "label": "CARDINAL",
+        "start": 37755,
+        "end": 37766
+    },
+    {
+        "text": "smbc",
+        "label": "ORG",
+        "start": 37877,
+        "end": 37881
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 37893,
+        "end": 37898
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 38025,
+        "end": 38031
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 38063,
+        "end": 38069
+    },
+    {
+        "text": "one hundred",
+        "label": "CARDINAL",
+        "start": 38183,
+        "end": 38194
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 38226,
+        "end": 38232
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 38306,
+        "end": 38311
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 38346,
+        "end": 38350
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 38370,
+        "end": 38376
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 38489,
+        "end": 38493
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 38535,
+        "end": 38541
+    },
+    {
+        "text": "3.4.2(b",
+        "label": "DATE",
+        "start": 38571,
+        "end": 38578
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 38759,
+        "end": 38764
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 38900,
+        "end": 38905
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 38986,
+        "end": 38991
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 39152,
+        "end": 39156
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 39157,
+        "end": 39163
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 39281,
+        "end": 39287
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 39873,
+        "end": 39879
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 39934,
+        "end": 39940
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 40204,
+        "end": 40208
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 40225,
+        "end": 40227
+    },
+    {
+        "text": "10-day",
+        "label": "DATE",
+        "start": 40521,
+        "end": 40527
+    },
+    {
+        "text": "one\nhundred",
+        "label": "CARDINAL",
+        "start": 40611,
+        "end": 40622
+    },
+    {
+        "text": "12.3(a",
+        "label": "DATE",
+        "start": 40791,
+        "end": 40797
+    },
+    {
+        "text": "one hundred",
+        "label": "CARDINAL",
+        "start": 41107,
+        "end": 41118
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 41150,
+        "end": 41156
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 41299,
+        "end": 41304
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 41361,
+        "end": 41365
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 41410,
+        "end": 41414
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 41577,
+        "end": 41581
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 41608,
+        "end": 41614
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 41754,
+        "end": 41757
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 41793,
+        "end": 41797
+    },
+    {
+        "text": "km’s",
+        "label": "PERSON",
+        "start": 41904,
+        "end": 41908
+    },
+    {
+        "text": "km’s",
+        "label": "PERSON",
+        "start": 42244,
+        "end": 42248
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 42350,
+        "end": 42356
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 42387,
+        "end": 42389
+    },
+    {
+        "text": "km’s",
+        "label": "PERSON",
+        "start": 42459,
+        "end": 42463
+    },
+    {
+        "text": "km",
+        "label": "PERSON",
+        "start": 42512,
+        "end": 42514
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 42553,
+        "end": 42559
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 42589,
+        "end": 42590
+    },
+    {
+        "text": "12.4(a",
+        "label": "DATE",
+        "start": 42765,
+        "end": 42771
+    },
+    {
+        "text": "12.4(a",
+        "label": "DATE",
+        "start": 42925,
+        "end": 42931
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 42946,
+        "end": 42948
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 43006,
+        "end": 43012
+    },
+    {
+        "text": "12.4(a",
+        "label": "DATE",
+        "start": 43510,
+        "end": 43516
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 43534,
+        "end": 43538
+    },
+    {
+        "text": "12.4(a",
+        "label": "DATE",
+        "start": 43808,
+        "end": 43814
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 43931,
+        "end": 43937
+    },
+    {
+        "text": "8.4.1",
+        "label": "MONEY",
+        "start": 43976,
+        "end": 43981
+    },
+    {
+        "text": "8.4.2",
+        "label": "CARDINAL",
+        "start": 43986,
+        "end": 43991
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 44103,
+        "end": 44108
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 44124,
+        "end": 44130
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 44237,
+        "end": 44243
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 45116,
+        "end": 45118
+    },
+    {
+        "text": "400",
+        "label": "CARDINAL",
+        "start": 45214,
+        "end": 45217
+    },
+    {
+        "text": "1,600",
+        "label": "CARDINAL",
+        "start": 45310,
+        "end": 45315
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 45375,
+        "end": 45377
+    },
+    {
+        "text": "40",
+        "label": "CARDINAL",
+        "start": 45431,
+        "end": 45433
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 45475,
+        "end": 45476
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 45593,
+        "end": 45594
+    },
+    {
+        "text": "12.4(b",
+        "label": "DATE",
+        "start": 45626,
+        "end": 45632
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 45659,
+        "end": 45665
+    },
+    {
+        "text": "144",
+        "label": "CARDINAL",
+        "start": 45759,
+        "end": 45762
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 45782,
+        "end": 45783
+    },
+    {
+        "text": "12.4(a",
+        "label": "DATE",
+        "start": 45801,
+        "end": 45807
+    },
+    {
+        "text": "12.4(b",
+        "label": "DATE",
+        "start": 45821,
+        "end": 45827
+    },
+    {
+        "text": "12.4(a",
+        "label": "DATE",
+        "start": 45951,
+        "end": 45957
+    },
+    {
+        "text": "12.4(b",
+        "label": "DATE",
+        "start": 45970,
+        "end": 45976
+    },
+    {
+        "text": "12.4(b",
+        "label": "DATE",
+        "start": 46053,
+        "end": 46059
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 46077,
+        "end": 46083
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 46134,
+        "end": 46141
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 46488,
+        "end": 46494
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 46825,
+        "end": 46830
+    },
+    {
+        "text": "9,231",
+        "label": "CARDINAL",
+        "start": 46955,
+        "end": 46960
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 47014,
+        "end": 47020
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 47298,
+        "end": 47304
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 47407,
+        "end": 47413
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 47689,
+        "end": 47693
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 47776,
+        "end": 47780
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 47857,
+        "end": 47863
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 48795,
+        "end": 48799
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 49070,
+        "end": 49074
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 49209,
+        "end": 49215
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 49628,
+        "end": 49632
+    },
+    {
+        "text": "1956",
+        "label": "DATE",
+        "start": 49661,
+        "end": 49665
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 49808,
+        "end": 49814
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 49929,
+        "end": 49933
+    },
+    {
+        "text": "1956",
+        "label": "DATE",
+        "start": 49962,
+        "end": 49966
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 50028,
+        "end": 50032
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 50037,
+        "end": 50043
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 50538,
+        "end": 50542
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 50780,
+        "end": 50784
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 50947,
+        "end": 50951
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 51041,
+        "end": 51045
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 51311,
+        "end": 51315
+    },
+    {
+        "text": "180 days",
+        "label": "DATE",
+        "start": 51379,
+        "end": 51387
+    },
+    {
+        "text": "60 days",
+        "label": "DATE",
+        "start": 51407,
+        "end": 51414
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 51498,
+        "end": 51504
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 51782,
+        "end": 51788
+    },
+    {
+        "text": "13.7",
+        "label": "CARDINAL",
+        "start": 51833,
+        "end": 51837
+    },
+    {
+        "text": "60 days",
+        "label": "DATE",
+        "start": 51846,
+        "end": 51853
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 51860,
+        "end": 51866
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 51942,
+        "end": 51948
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 52384,
+        "end": 52388
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 52390,
+        "end": 52396
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 52472,
+        "end": 52476
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 52619,
+        "end": 52625
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 52674,
+        "end": 52680
+    },
+    {
+        "text": "13.8",
+        "label": "CARDINAL",
+        "start": 52728,
+        "end": 52732
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 52883,
+        "end": 52889
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 53126,
+        "end": 53129
+    },
+    {
+        "text": "90 days",
+        "label": "DATE",
+        "start": 53213,
+        "end": 53220
+    },
+    {
+        "text": "thereon",
+        "label": "GPE",
+        "start": 53321,
+        "end": 53328
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 53330,
+        "end": 53336
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 53631,
+        "end": 53634
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 53704,
+        "end": 53710
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 53959,
+        "end": 53965
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 53976,
+        "end": 53982
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 54107,
+        "end": 54112
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 54136,
+        "end": 54139
+    },
+    {
+        "text": "90 days",
+        "label": "DATE",
+        "start": 54593,
+        "end": 54600
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 54918,
+        "end": 54922
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 54950,
+        "end": 54956
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 55489,
+        "end": 55495
+    },
+    {
+        "text": "20 days",
+        "label": "DATE",
+        "start": 55646,
+        "end": 55653
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 55700,
+        "end": 55706
+    },
+    {
+        "text": "20 days",
+        "label": "DATE",
+        "start": 55763,
+        "end": 55770
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 55824,
+        "end": 55830
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 55918,
+        "end": 55924
+    },
+    {
+        "text": "10\ndays",
+        "label": "DATE",
+        "start": 56239,
+        "end": 56246
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 56284,
+        "end": 56290
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 56327,
+        "end": 56333
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 56371,
+        "end": 56377
+    },
+    {
+        "text": "10 days",
+        "label": "DATE",
+        "start": 56434,
+        "end": 56441
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 56772,
+        "end": 56778
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 56818,
+        "end": 56822
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 56927,
+        "end": 56933
+    },
+    {
+        "text": "km’s",
+        "label": "PERSON",
+        "start": 57165,
+        "end": 57169
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 57266,
+        "end": 57272
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 57511,
+        "end": 57517
+    },
+    {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 57710,
+        "end": 57718
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 57955,
+        "end": 57959
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 57961,
+        "end": 57967
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 58115,
+        "end": 58119
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 58311,
+        "end": 58315
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 58327,
+        "end": 58331
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 58471,
+        "end": 58477
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 58881,
+        "end": 58887
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 59248,
+        "end": 59252
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 59275,
+        "end": 59280
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 59354,
+        "end": 59360
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 59414,
+        "end": 59420
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 59456,
+        "end": 59461
+    },
+    {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 59590,
+        "end": 59596
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 59742,
+        "end": 59748
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 59842,
+        "end": 59846
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 59869,
+        "end": 59874
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 59924,
+        "end": 59930
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 59966,
+        "end": 59972
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 60095,
+        "end": 60100
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 60250,
+        "end": 60256
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 60489,
+        "end": 60493
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 60516,
+        "end": 60521
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 60640,
+        "end": 60646
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 60681,
+        "end": 60687
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 60724,
+        "end": 60729
+    },
+    {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 60857,
+        "end": 60863
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 60952,
+        "end": 60956
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 61019,
+        "end": 61023
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 61035,
+        "end": 61039
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 61190,
+        "end": 61196
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 61635,
+        "end": 61638
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 61805,
+        "end": 61811
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 62574,
+        "end": 62580
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 63737,
+        "end": 63743
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 63827,
+        "end": 63830
+    },
+    {
+        "text": "424",
+        "label": "CARDINAL",
+        "start": 63961,
+        "end": 63964
+    },
+    {
+        "text": "430a",
+        "label": "PRODUCT",
+        "start": 63966,
+        "end": 63970
+    },
+    {
+        "text": "430b",
+        "label": "PRODUCT",
+        "start": 63975,
+        "end": 63979
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 64577,
+        "end": 64580
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 64922,
+        "end": 64925
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 65223,
+        "end": 65229
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 65581,
+        "end": 65587
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 65714,
+        "end": 65720
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 67025,
+        "end": 67031
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 67257,
+        "end": 67263
+    },
+    {
+        "text": "13.1(a)(ii",
+        "label": "CARDINAL",
+        "start": 67353,
+        "end": 67363
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 67783,
+        "end": 67789
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 67988,
+        "end": 67994
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 68606,
+        "end": 68612
+    },
+    {
+        "text": "13.5",
+        "label": "CARDINAL",
+        "start": 68653,
+        "end": 68657
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 68702,
+        "end": 68708
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 68763,
+        "end": 68767
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 68769,
+        "end": 68773
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 68778,
+        "end": 68782
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 68887,
+        "end": 68893
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 68951,
+        "end": 68957
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 69098,
+        "end": 69104
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 69531,
+        "end": 69537
+    },
+    {
+        "text": "13.4(i",
+        "label": "DATE",
+        "start": 69574,
+        "end": 69580
+    },
+    {
+        "text": "13.7",
+        "label": "CARDINAL",
+        "start": 69742,
+        "end": 69746
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 70270,
+        "end": 70276
+    },
+    {
+        "text": "13.6",
+        "label": "CARDINAL",
+        "start": 70394,
+        "end": 70398
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 70493,
+        "end": 70499
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 70697,
+        "end": 70701
+    },
+    {
+        "text": "60 days",
+        "label": "DATE",
+        "start": 70748,
+        "end": 70755
+    },
+    {
+        "text": "120 days",
+        "label": "DATE",
+        "start": 70773,
+        "end": 70781
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 70953,
+        "end": 70959
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 71158,
+        "end": 71164
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 71179,
+        "end": 71185
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 71552,
+        "end": 71558
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 71587,
+        "end": 71593
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 71708,
+        "end": 71714
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 71921,
+        "end": 71923
+    },
+    {
+        "text": "144",
+        "label": "CARDINAL",
+        "start": 72110,
+        "end": 72113
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 72213,
+        "end": 72219
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 72305,
+        "end": 72311
+    },
+    {
+        "text": "13.6(a",
+        "label": "CARDINAL",
+        "start": 72386,
+        "end": 72392
+    },
+    {
+        "text": "13.1(a)(ii",
+        "label": "CARDINAL",
+        "start": 72501,
+        "end": 72511
+    },
+    {
+        "text": "13.1(c",
+        "label": "CARDINAL",
+        "start": 72517,
+        "end": 72523
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 72644,
+        "end": 72650
+    },
+    {
+        "text": "13.4(d",
+        "label": "DATE",
+        "start": 72724,
+        "end": 72730
+    },
+    {
+        "text": "13.4(e",
+        "label": "DATE",
+        "start": 72743,
+        "end": 72749
+    },
+    {
+        "text": "13.6(a",
+        "label": "CARDINAL",
+        "start": 72787,
+        "end": 72793
+    },
+    {
+        "text": "13.4(d",
+        "label": "DATE",
+        "start": 73075,
+        "end": 73081
+    },
+    {
+        "text": "13.6(d",
+        "label": "DATE",
+        "start": 73094,
+        "end": 73100
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 73117,
+        "end": 73123
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 73315,
+        "end": 73321
+    },
+    {
+        "text": "13.7",
+        "label": "CARDINAL",
+        "start": 73823,
+        "end": 73827
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 74039,
+        "end": 74043
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 74047,
+        "end": 74051
+    },
+    {
+        "text": "180\ndays",
+        "label": "DATE",
+        "start": 74125,
+        "end": 74133
+    },
+    {
+        "text": "214 days",
+        "label": "DATE",
+        "start": 74240,
+        "end": 74248
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 74263,
+        "end": 74269
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 74511,
+        "end": 74517
+    },
+    {
+        "text": "13.7(a",
+        "label": "DATE",
+        "start": 74959,
+        "end": 74965
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 75295,
+        "end": 75301
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 75459,
+        "end": 75465
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 75582,
+        "end": 75588
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 75678,
+        "end": 75684
+    },
+    {
+        "text": "13.8",
+        "label": "CARDINAL",
+        "start": 75831,
+        "end": 75835
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 75893,
+        "end": 75899
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 76126,
+        "end": 76132
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 76507,
+        "end": 76513
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 76880,
+        "end": 76886
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 76994,
+        "end": 77000
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 77150,
+        "end": 77156
+    },
+    {
+        "text": "13.1(a)(i",
+        "label": "CARDINAL",
+        "start": 77200,
+        "end": 77209
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 77529,
+        "end": 77533
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 77633,
+        "end": 77639
+    },
+    {
+        "text": "smbc",
+        "label": "ORG",
+        "start": 77800,
+        "end": 77804
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 77854,
+        "end": 77856
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 77890,
+        "end": 77892
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 78931,
+        "end": 78937
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 79220,
+        "end": 79226
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 79490,
+        "end": 79496
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 79573,
+        "end": 79579
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 79627,
+        "end": 79629
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 79663,
+        "end": 79665
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 79738,
+        "end": 79744
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 79830,
+        "end": 79836
+    },
+    {
+        "text": "13.9(b",
+        "label": "DATE",
+        "start": 80128,
+        "end": 80134
+    },
+    {
+        "text": "13.9(a",
+        "label": "CARDINAL",
+        "start": 80554,
+        "end": 80560
+    },
+    {
+        "text": "13.9(b",
+        "label": "DATE",
+        "start": 80565,
+        "end": 80571
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 80651,
+        "end": 80653
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 81079,
+        "end": 81085
+    },
+    {
+        "text": "13.9(a",
+        "label": "CARDINAL",
+        "start": 81160,
+        "end": 81166
+    },
+    {
+        "text": "13.9(b",
+        "label": "DATE",
+        "start": 81171,
+        "end": 81177
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 82086,
+        "end": 82089
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 83841,
+        "end": 83845
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 83995,
+        "end": 83999
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 84633,
+        "end": 84639
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 84657,
+        "end": 84660
+    },
+    {
+        "text": "13.9(d",
+        "label": "DATE",
+        "start": 84930,
+        "end": 84936
+    },
+    {
+        "text": "13.9(c",
+        "label": "DATE",
+        "start": 85859,
+        "end": 85865
+    },
+    {
+        "text": "13.9(d",
+        "label": "DATE",
+        "start": 86128,
+        "end": 86134
+    },
+    {
+        "text": "13.9(d",
+        "label": "DATE",
+        "start": 86296,
+        "end": 86302
+    },
+    {
+        "text": "13.9(e",
+        "label": "DATE",
+        "start": 86569,
+        "end": 86575
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 87030,
+        "end": 87034
+    },
+    {
+        "text": "13.9(a",
+        "label": "CARDINAL",
+        "start": 87173,
+        "end": 87179
+    },
+    {
+        "text": "13.9(b",
+        "label": "DATE",
+        "start": 87185,
+        "end": 87191
+    },
+    {
+        "text": "13.9(d",
+        "label": "DATE",
+        "start": 87339,
+        "end": 87345
+    },
+    {
+        "text": "13.9(e",
+        "label": "DATE",
+        "start": 87350,
+        "end": 87356
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 87378,
+        "end": 87384
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 87413,
+        "end": 87417
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 87461,
+        "end": 87467
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 87647,
+        "end": 87651
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 87667,
+        "end": 87672
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 87707,
+        "end": 87711
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 87812,
+        "end": 87816
+    },
+    {
+        "text": "13.10",
+        "label": "CARDINAL",
+        "start": 87888,
+        "end": 87893
+    },
+    {
+        "text": "144",
+        "label": "CARDINAL",
+        "start": 87899,
+        "end": 87902
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 87919,
+        "end": 87925
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 87977,
+        "end": 87979
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 87981,
+        "end": 87983
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 88016,
+        "end": 88022
+    },
+    {
+        "text": "144",
+        "label": "CARDINAL",
+        "start": 88185,
+        "end": 88188
+    },
+    {
+        "text": "13.11",
+        "label": "CARDINAL",
+        "start": 88290,
+        "end": 88295
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 88349,
+        "end": 88355
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 88506,
+        "end": 88512
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 88638,
+        "end": 88644
+    },
+    {
+        "text": "13.12",
+        "label": "CARDINAL",
+        "start": 88656,
+        "end": 88661
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 88743,
+        "end": 88747
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 88873,
+        "end": 88874
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 88953,
+        "end": 88959
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 89093,
+        "end": 89099
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 89178,
+        "end": 89184
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 89425,
+        "end": 89429
+    },
+    {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 89439,
+        "end": 89444
+    },
+    {
+        "text": "xiv",
+        "label": "PERSON",
+        "start": 89510,
+        "end": 89513
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 89568,
+        "end": 89572
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 89607,
+        "end": 89613
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 89615,
+        "end": 89621
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 89635,
+        "end": 89641
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 89724,
+        "end": 89730
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 89874,
+        "end": 89880
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 90056,
+        "end": 90062
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 90076,
+        "end": 90082
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 90322,
+        "end": 90327
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 90448,
+        "end": 90454
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 90582,
+        "end": 90588
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 90602,
+        "end": 90608
+    },
+    {
+        "text": "14.2",
+        "label": "CARDINAL",
+        "start": 91254,
+        "end": 91258
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 91305,
+        "end": 91309
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 91350,
+        "end": 91356
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 91418,
+        "end": 91422
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 91514,
+        "end": 91519
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 91549,
+        "end": 91553
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 91808,
+        "end": 91813
+    },
+    {
+        "text": "14.3",
+        "label": "CARDINAL",
+        "start": 92557,
+        "end": 92561
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 92800,
+        "end": 92802
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 92884,
+        "end": 92890
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 92914,
+        "end": 92922
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 92929,
+        "end": 92940
+    },
+    {
+        "text": "2012",
+        "label": "DATE",
+        "start": 92942,
+        "end": 92946
+    },
+    {
+        "text": "xv",
+        "label": "PERSON",
+        "start": 92957,
+        "end": 92959
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 92977,
+        "end": 92981
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 93514,
+        "end": 93518
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 93604,
+        "end": 93613
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 93666,
+        "end": 93667
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 93680,
+        "end": 93681
+    },
+    {
+        "text": "tokyo",
+        "label": "GPE",
+        "start": 93700,
+        "end": 93705
+    },
+    {
+        "text": "100-0004",
+        "label": "DATE",
+        "start": 93706,
+        "end": 93714
+    },
+    {
+        "text": "toshihiro",
+        "label": "PERSON",
+        "start": 93726,
+        "end": 93735
+    },
+    {
+        "text": "18f",
+        "label": "DATE",
+        "start": 93933,
+        "end": 93936
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 93938,
+        "end": 93939
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 93954,
+        "end": 93955
+    },
+    {
+        "text": "tokyo",
+        "label": "GPE",
+        "start": 93975,
+        "end": 93980
+    },
+    {
+        "text": "100-6518",
+        "label": "CARDINAL",
+        "start": 93981,
+        "end": 93989
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 94117,
+        "end": 94123
+    },
+    {
+        "text": "399",
+        "label": "CARDINAL",
+        "start": 94164,
+        "end": 94167
+    },
+    {
+        "text": "avenue",
+        "label": "ORG",
+        "start": 94173,
+        "end": 94179
+    },
+    {
+        "text": "5th",
+        "label": "ORDINAL",
+        "start": 94181,
+        "end": 94184
+    },
+    {
+        "text": "10022",
+        "label": "DATE",
+        "start": 94204,
+        "end": 94209
+    },
+    {
+        "text": "15.3",
+        "label": "CARDINAL",
+        "start": 94404,
+        "end": 94408
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 95158,
+        "end": 95163
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 95263,
+        "end": 95266
+    },
+    {
+        "text": "15.4",
+        "label": "CARDINAL",
+        "start": 95292,
+        "end": 95296
+    },
+    {
+        "text": "15.5",
+        "label": "CARDINAL",
+        "start": 95531,
+        "end": 95535
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 95583,
+        "end": 95587
+    },
+    {
+        "text": "15.6",
+        "label": "CARDINAL",
+        "start": 95731,
+        "end": 95735
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 95758,
+        "end": 95761
+    },
+    {
+        "text": "15.7",
+        "label": "CARDINAL",
+        "start": 96286,
+        "end": 96290
+    },
+    {
+        "text": "15.8",
+        "label": "CARDINAL",
+        "start": 96661,
+        "end": 96665
+    },
+    {
+        "text": "manhattan",
+        "label": "GPE",
+        "start": 96973,
+        "end": 96982
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 96984,
+        "end": 96992
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 97160,
+        "end": 97164
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 97829,
+        "end": 97835
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 97874,
+        "end": 97878
+    },
+    {
+        "text": "10.10",
+        "label": "CARDINAL",
+        "start": 97883,
+        "end": 97888
+    },
+    {
+        "text": "15.8",
+        "label": "CARDINAL",
+        "start": 97946,
+        "end": 97950
+    },
+    {
+        "text": "15.9",
+        "label": "CARDINAL",
+        "start": 97953,
+        "end": 97957
+    },
+    {
+        "text": "15.10",
+        "label": "CARDINAL",
+        "start": 98299,
+        "end": 98304
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 99025,
+        "end": 99030
+    },
+    {
+        "text": "mitsui",
+        "label": "PERSON",
+        "start": 99056,
+        "end": 99062
+    },
+    {
+        "text": "moelis & company holdings",
+        "label": "ORG",
+        "start": 99207,
+        "end": 99232
+    },
+    {
+        "text": "moelis & company",
+        "label": "ORG",
+        "start": 99241,
+        "end": 99257
+    },
+    {
+        "text": "kenneth d.",
+        "label": "PERSON",
+        "start": 99308,
+        "end": 99318
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 99319,
+        "end": 99325
+    },
+    {
+        "text": "moelis & company holdings",
+        "label": "ORG",
+        "start": 99359,
+        "end": 99384
+    },
+    {
+        "text": "kenneth d.",
+        "label": "PERSON",
+        "start": 99404,
+        "end": 99414
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 99415,
+        "end": 99421
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 99831,
+        "end": 99837
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 100604,
+        "end": 100610
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 100713,
+        "end": 100719
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 100784,
+        "end": 100790
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 101557,
+        "end": 101563
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 102949,
+        "end": 102955
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 103151,
+        "end": 103152
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 103361,
+        "end": 103362
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 103691,
+        "end": 103692
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 103730,
+        "end": 103736
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 104229,
+        "end": 104235
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 104405,
+        "end": 104411
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 104612,
+        "end": 104618
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 104658,
+        "end": 104659
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 104889,
+        "end": 104895
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 104908,
+        "end": 104911
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 104944,
+        "end": 104950
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 105055,
+        "end": 105061
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 105401,
+        "end": 105407
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 105564,
+        "end": 105570
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 106116,
+        "end": 106117
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 106205,
+        "end": 106211
+    },
+    {
+        "text": "smbc",
+        "label": "PERSON",
+        "start": 106500,
+        "end": 106504
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 106608,
+        "end": 106614
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 107055,
+        "end": 107061
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 107195,
+        "end": 107201
+    },
+    {
+        "text": "3.4.1",
+        "label": "CARDINAL",
+        "start": 107356,
+        "end": 107361
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 107457,
+        "end": 107462
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 108120,
+        "end": 108125
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 108271,
+        "end": 108275
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 109205,
+        "end": 109210
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 109604,
+        "end": 109610
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 109626,
+        "end": 109637
+    },
+    {
+        "text": "the fiscal years 2007",
+        "label": "DATE",
+        "start": 109642,
+        "end": 109663
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 109672,
+        "end": 109676
+    },
+    {
+        "text": "the fiscal years",
+        "label": "DATE",
+        "start": 109787,
+        "end": 109803
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 109936,
+        "end": 109942
+    },
+    {
+        "text": "september",
+        "label": "DATE",
+        "start": 109965,
+        "end": 109974
+    },
+    {
+        "text": "30",
+        "label": "DATE",
+        "start": 109975,
+        "end": 109977
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 109979,
+        "end": 109983
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 110024,
+        "end": 110030
+    },
+    {
+        "text": "nine-month",
+        "label": "DATE",
+        "start": 110152,
+        "end": 110162
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 110431,
+        "end": 110437
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 110909,
+        "end": 110915
+    },
+    {
+        "text": "year-end",
+        "label": "DATE",
+        "start": 111080,
+        "end": 111088
+    },
+    {
+        "text": "pro forma",
+        "label": "PERSON",
+        "start": 111210,
+        "end": 111219
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 111433,
+        "end": 111439
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 111785,
+        "end": 111791
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 113223,
+        "end": 113229
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 113666,
+        "end": 113672
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 113852,
+        "end": 113858
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 113976,
+        "end": 113982
+    },
+    {
+        "text": "moelis",
+        "label": "PERSON",
+        "start": 114349,
+        "end": 114355
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 118481,
+        "end": 118486
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 118507,
+        "end": 118513
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 118990,
+        "end": 118993
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 119339,
+        "end": 119344
+    },
+    {
+        "text": "10.19",
+        "label": "CARDINAL",
+        "start": 120314,
+        "end": 120319
+    },
+    {
+        "text": "a-6",
+        "label": "PRODUCT",
+        "start": 120355,
+        "end": 120358
+    }
+]

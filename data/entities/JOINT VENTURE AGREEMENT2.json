@@ -1,0 +1,860 @@
+[
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "this 20th day of friday, march 2020",
+        "label": "DATE",
+        "start": 106,
+        "end": 141
+    },
+    {
+        "text": "borrowmoney.com, inc",
+        "label": "ORG",
+        "start": 175,
+        "end": 195
+    },
+    {
+        "text": "512",
+        "label": "CARDINAL",
+        "start": 199,
+        "end": 202
+    },
+    {
+        "text": "201",
+        "label": "CARDINAL",
+        "start": 222,
+        "end": 225
+    },
+    {
+        "text": "33304",
+        "label": "DATE",
+        "start": 245,
+        "end": 250
+    },
+    {
+        "text": "2go",
+        "label": "ORDINAL",
+        "start": 279,
+        "end": 282
+    },
+    {
+        "text": "4060",
+        "label": "DATE",
+        "start": 286,
+        "end": 290
+    },
+    {
+        "text": "johns creek",
+        "label": "ORG",
+        "start": 291,
+        "end": 302
+    },
+    {
+        "text": "30024",
+        "label": "DATE",
+        "start": 331,
+        "end": 336
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 848,
+        "end": 849
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 968,
+        "end": 975
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 1083,
+        "end": 1090
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1143,
+        "end": 1144
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 1200,
+        "end": 1202
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 1211,
+        "end": 1212
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 1364,
+        "end": 1365
+    },
+    {
+        "text": "march 1, 2020",
+        "label": "DATE",
+        "start": 1423,
+        "end": 1436
+    },
+    {
+        "text": "february 28, 2025",
+        "label": "DATE",
+        "start": 1481,
+        "end": 1498
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 1543,
+        "end": 1544
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 1632,
+        "end": 1633
+    },
+    {
+        "text": "512",
+        "label": "CARDINAL",
+        "start": 1706,
+        "end": 1709
+    },
+    {
+        "text": "201",
+        "label": "CARDINAL",
+        "start": 1731,
+        "end": 1734
+    },
+    {
+        "text": "fort lauderdale",
+        "label": "FAC",
+        "start": 1735,
+        "end": 1750
+    },
+    {
+        "text": "33304",
+        "label": "DATE",
+        "start": 1755,
+        "end": 1760
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 1849,
+        "end": 1850
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 1984,
+        "end": 1985
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 2137,
+        "end": 2138
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 2257,
+        "end": 2259
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2655,
+        "end": 2660
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 2737,
+        "end": 2739
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 2979,
+        "end": 2981
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 3000,
+        "end": 3002
+    },
+    {
+        "text": "the day to day",
+        "label": "DATE",
+        "start": 3163,
+        "end": 3177
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 3416,
+        "end": 3418
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3725,
+        "end": 3730
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 3764,
+        "end": 3766
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 3842,
+        "end": 3844
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 4113,
+        "end": 4118
+    },
+    {
+        "text": "borrowmoney.com",
+        "label": "ORG",
+        "start": 4138,
+        "end": 4153
+    },
+    {
+        "text": "2go",
+        "label": "ORDINAL",
+        "start": 4202,
+        "end": 4205
+    },
+    {
+        "text": "60,000.00",
+        "label": "CARDINAL",
+        "start": 4206,
+        "end": 4215
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 4225,
+        "end": 4232
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 4302,
+        "end": 4304
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 4400,
+        "end": 4402
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 4611,
+        "end": 4613
+    },
+    {
+        "text": "borrowmoney.com, inc\n1",
+        "label": "ORG",
+        "start": 4810,
+        "end": 4832
+    },
+    {
+        "text": "500 square feet",
+        "label": "QUANTITY",
+        "start": 4834,
+        "end": 4849
+    },
+    {
+        "text": "3,500,000.00",
+        "label": "CARDINAL",
+        "start": 4918,
+        "end": 4930
+    },
+    {
+        "text": "2go",
+        "label": "ORDINAL",
+        "start": 4958,
+        "end": 4961
+    },
+    {
+        "text": "60,000.00",
+        "label": "CARDINAL",
+        "start": 4962,
+        "end": 4971
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 4981,
+        "end": 4988
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 5058,
+        "end": 5060
+    },
+    {
+        "text": "3,500,000.00",
+        "label": "CARDINAL",
+        "start": 5134,
+        "end": 5146
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 5151,
+        "end": 5153
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 5245,
+        "end": 5247
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 5270,
+        "end": 5272
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 5430,
+        "end": 5432
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 5615,
+        "end": 5617
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 5941,
+        "end": 5943
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 6560,
+        "end": 6562
+    },
+    {
+        "text": "22",
+        "label": "CARDINAL",
+        "start": 6865,
+        "end": 6867
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 7105,
+        "end": 7107
+    },
+    {
+        "text": "23",
+        "label": "CARDINAL",
+        "start": 7125,
+        "end": 7127
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 7570,
+        "end": 7572
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 7832,
+        "end": 7834
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 7873,
+        "end": 7882
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 7884,
+        "end": 7891
+    },
+    {
+        "text": "26",
+        "label": "CARDINAL",
+        "start": 7936,
+        "end": 7938
+    },
+    {
+        "text": "27",
+        "label": "CARDINAL",
+        "start": 8301,
+        "end": 8303
+    },
+    {
+        "text": "28",
+        "label": "CARDINAL",
+        "start": 8446,
+        "end": 8448
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 8533,
+        "end": 8536
+    },
+    {
+        "text": "29",
+        "label": "CARDINAL",
+        "start": 8576,
+        "end": 8578
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 8681,
+        "end": 8683
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 9131,
+        "end": 9133
+    },
+    {
+        "text": "31",
+        "label": "CARDINAL",
+        "start": 9159,
+        "end": 9161
+    },
+    {
+        "text": "32",
+        "label": "CARDINAL",
+        "start": 9540,
+        "end": 9542
+    },
+    {
+        "text": "more than one",
+        "label": "CARDINAL",
+        "start": 9696,
+        "end": 9709
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 9791,
+        "end": 9793
+    },
+    {
+        "text": "34",
+        "label": "CARDINAL",
+        "start": 9996,
+        "end": 9998
+    },
+    {
+        "text": "35",
+        "label": "CARDINAL",
+        "start": 10225,
+        "end": 10227
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 10457,
+        "end": 10459
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 10691,
+        "end": 10693
+    },
+    {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 10789,
+        "end": 10797
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 10818,
+        "end": 10820
+    },
+    {
+        "text": "37",
+        "label": "CARDINAL",
+        "start": 10833,
+        "end": 10835
+    },
+    {
+        "text": "38",
+        "label": "CARDINAL",
+        "start": 10923,
+        "end": 10925
+    },
+    {
+        "text": "39",
+        "label": "CARDINAL",
+        "start": 11136,
+        "end": 11138
+    },
+    {
+        "text": "40",
+        "label": "CARDINAL",
+        "start": 11893,
+        "end": 11895
+    },
+    {
+        "text": "41",
+        "label": "CARDINAL",
+        "start": 12112,
+        "end": 12114
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 12546,
+        "end": 12551
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 12795,
+        "end": 12797
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 12816,
+        "end": 12818
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 12900,
+        "end": 12903
+    },
+    {
+        "text": "43",
+        "label": "CARDINAL",
+        "start": 12946,
+        "end": 12948
+    },
+    {
+        "text": "44",
+        "label": "CARDINAL",
+        "start": 13443,
+        "end": 13445
+    },
+    {
+        "text": "45",
+        "label": "CARDINAL",
+        "start": 14112,
+        "end": 14114
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14333,
+        "end": 14338
+    },
+    {
+        "text": "46",
+        "label": "DATE",
+        "start": 14463,
+        "end": 14465
+    },
+    {
+        "text": "one year",
+        "label": "DATE",
+        "start": 14497,
+        "end": 14505
+    },
+    {
+        "text": "47",
+        "label": "DATE",
+        "start": 14600,
+        "end": 14602
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 14641,
+        "end": 14648
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 14775,
+        "end": 14777
+    },
+    {
+        "text": "48",
+        "label": "CARDINAL",
+        "start": 14788,
+        "end": 14790
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 14916,
+        "end": 14918
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 15213,
+        "end": 15215
+    },
+    {
+        "text": "51",
+        "label": "CARDINAL",
+        "start": 15502,
+        "end": 15504
+    },
+    {
+        "text": "52",
+        "label": "CARDINAL",
+        "start": 15785,
+        "end": 15787
+    },
+    {
+        "text": "53",
+        "label": "CARDINAL",
+        "start": 15916,
+        "end": 15918
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 16208,
+        "end": 16211
+    },
+    {
+        "text": "54",
+        "label": "DATE",
+        "start": 16398,
+        "end": 16400
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 16471,
+        "end": 16478
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 16592,
+        "end": 16594
+    },
+    {
+        "text": "55",
+        "label": "CARDINAL",
+        "start": 16621,
+        "end": 16623
+    },
+    {
+        "text": "56",
+        "label": "CARDINAL",
+        "start": 16781,
+        "end": 16783
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 17161,
+        "end": 17168
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 17297,
+        "end": 17304
+    },
+    {
+        "text": "57",
+        "label": "CARDINAL",
+        "start": 17317,
+        "end": 17319
+    },
+    {
+        "text": "58",
+        "label": "DATE",
+        "start": 17583,
+        "end": 17585
+    },
+    {
+        "text": "59",
+        "label": "CARDINAL",
+        "start": 17756,
+        "end": 17758
+    },
+    {
+        "text": "one-half",
+        "label": "CARDINAL",
+        "start": 18070,
+        "end": 18078
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 18373,
+        "end": 18375
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 18390,
+        "end": 18392
+    },
+    {
+        "text": "61",
+        "label": "CARDINAL",
+        "start": 18835,
+        "end": 18837
+    },
+    {
+        "text": "62",
+        "label": "CARDINAL",
+        "start": 18881,
+        "end": 18883
+    },
+    {
+        "text": "63",
+        "label": "CARDINAL",
+        "start": 19012,
+        "end": 19014
+    },
+    {
+        "text": "64",
+        "label": "CARDINAL",
+        "start": 19377,
+        "end": 19379
+    },
+    {
+        "text": "65",
+        "label": "CARDINAL",
+        "start": 19827,
+        "end": 19829
+    },
+    {
+        "text": "66",
+        "label": "CARDINAL",
+        "start": 20285,
+        "end": 20287
+    },
+    {
+        "text": "67",
+        "label": "CARDINAL",
+        "start": 20488,
+        "end": 20490
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 20599,
+        "end": 20604
+    },
+    {
+        "text": "7) days",
+        "label": "DATE",
+        "start": 20606,
+        "end": 20613
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 20777,
+        "end": 20779
+    },
+    {
+        "text": "this 20th day of march 2020",
+        "label": "DATE",
+        "start": 21050,
+        "end": 21077
+    },
+    {
+        "text": "borrowmoney.com, inc",
+        "label": "ORG",
+        "start": 21079,
+        "end": 21099
+    },
+    {
+        "text": "aldo piscitello",
+        "label": "PERSON",
+        "start": 21118,
+        "end": 21133
+    },
+    {
+        "text": "aldo piscitello",
+        "label": "ORG",
+        "start": 21141,
+        "end": 21156
+    },
+    {
+        "text": "2go",
+        "label": "ORDINAL",
+        "start": 21190,
+        "end": 21193
+    },
+    {
+        "text": "jody stewart",
+        "label": "PERSON",
+        "start": 21212,
+        "end": 21224
+    },
+    {
+        "text": "jody stewart",
+        "label": "PERSON",
+        "start": 21225,
+        "end": 21237
+    },
+    {
+        "text": "mar 20, 2020",
+        "label": "DATE",
+        "start": 21239,
+        "end": 21251
+    },
+    {
+        "text": "jody stewart",
+        "label": "PERSON",
+        "start": 21260,
+        "end": 21272
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 21277,
+        "end": 21279
+    }
+]

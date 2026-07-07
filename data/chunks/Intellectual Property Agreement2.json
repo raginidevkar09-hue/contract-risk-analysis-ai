@@ -1,0 +1,598 @@
+[
+    {
+        "chunk_id": 1,
+        "text": "exhibit 10.4\nintellectual property agreement\nby and between\nnuance communications, inc.\nand\ncerence inc.\ndated as of september 30, 2019\nsource: cerence inc., 8-k, 10/2/2019\ntable of contents\npage\narticle i\ndefinitions\nsection 1.01.\ndefinitions\n\narticle ii\nrecordation of intellectual property rights assignment agreements\nsection 2.01.\nintellectual property assignment agreements\n\nsection 2.02.\nrecordation\n\nsection 2.03.\nsecurity interests"
+    },
+    {
+        "chunk_id": 2,
+        "text": "section 2.02.\nrecordation\n\nsection 2.03.\nsecurity interests\n\narticle iii\nlicenses and covenants from nuance to spinco\nsection 3.01.\nlicense grants\n\nsection 3.02.\nother covenants\n\narticle iv\nlicenses and covenants from spinco to nuance\nsection 4.01.\nlicense grants\n\nsection 4.02.\nother covenants\n\narticle v\nadditional intellectual property related matters\nsection 5.01.\nownership\n\nsection 5.02.\nassignments and licenses\n\nsection 5.03.\nno implied rights"
+    },
+    {
+        "chunk_id": 3,
+        "text": "section 5.02.\nassignments and licenses\n\nsection 5.03.\nno implied rights\n\nsection 5.04.\nno obligation to prosecute or maintain patents\n\nsection 5.05.\nno technical assistance\n\nsection 5.06.\ngroup members\n\narticle vi\nconfidential information\nsection 6.01.\nconfidentiality\n\nsection 6.02.\ndisclosure of confidential technical information\n\nsection 6.03.\ncompulsory disclosure of confidential technical information"
+    },
+    {
+        "chunk_id": 4,
+        "text": "section 6.03.\ncompulsory disclosure of confidential technical information\n\narticle vii\nlimitation of liability and warranty disclaimer\ni\nsource: cerence inc., 8-k, 10/2/2019\nsection 7.01.\nlimitation on liability\n\nsection 7.02.\ndisclaimer of representations and warranties\n\narticle viii\ntransferability and assignment\nsection 8.01.\nno assignment or transfer without consent\n\nsection 8.02.\ndivested businesses\n\narticle ix\ntermination\nsection 9.01.\ntermination by both parties"
+    },
+    {
+        "chunk_id": 5,
+        "text": "article ix\ntermination\nsection 9.01.\ntermination by both parties\n\nsection 9.02.\ntermination prior to the distribution\n\nsection 9.03.\neffect of termination; survival\n\narticle x\nfurther assurances\nsection 10.01.\nfurther assurances\n\narticle xi\nmiscellaneous\nsection 11.01.\ncounterparts; entire agreement; corporate power\n\nsection 11.02.\ndispute resolution\n\nsection 11.03.\ngoverning law; jurisdiction\n\nsection 11.04.\nwaiver of jury trial\n\nsection 11.05.\ncourt-ordered interim relief"
+    },
+    {
+        "chunk_id": 6,
+        "text": "section 11.04.\nwaiver of jury trial\n\nsection 11.05.\ncourt-ordered interim relief\n\nsection 11.06.\nspecific performance\n\nsection 11.07.\nthird-party beneficiaries\n\nsection 11.08.\nnotices\n\nsection 11.09.\nimport and export control\n\nsection 11.10.\nbankruptcy\n\nsection 11.11.\nseverability\n\nsection 11.12.\nexpenses\n\nsection 11.13.\nheadings\n\nsection 11.14.\nsurvival of covenants\n\nsection 11.15.\nwaivers of default\n\nsection 11.16.\namendments\n\nsection 11.17.\ninterpretation"
+    },
+    {
+        "chunk_id": 7,
+        "text": "schedule a\n–\nfields of use\nschedule b\n–\nnuance data\nschedule c\n–\nspinco data\nschedule d\n–\nspinco patents\nschedule e\n–\nspinco ids\nschedule f\n–\nspinco trademarks\nii\nsource: cerence inc., 8-k, 10/2/2019\nschedule g\n–\nspinco domain names\nschedule h\n–\ntechnology assets\nschedule i\n–\noem technology\nexhibit a1\n–\npatent assignment agreement\nexhibit a2\n–\ntrademark assignment agreement\nexhibit a3\n–\ndomain name assignment agreement\nexhibit a4\n–\ninvention disclosure assignment agreement\niii"
+    },
+    {
+        "chunk_id": 8,
+        "text": "–\ndomain name assignment agreement\nexhibit a4\n–\ninvention disclosure assignment agreement\niii\nsource: cerence inc., 8-k, 10/2/2019\nintellectual property agreement, dated as of september 30, 2019 (this “agreement”), by and between nuance communications,\ninc., a delaware corporation (“nuance”), and cerence inc., a delaware corporation (“spinco”).\nrecitals\nwhereas, in connection with the contemplated spin-off of spinco and concurrently with the execution of this agreement, nuance and spinco"
+    },
+    {
+        "chunk_id": 9,
+        "text": "are entering into a separation and distribution agreement (the “separation agreement”);\nwhereas, pursuant to the separation agreement and the other ancillary agreements, as of the distribution date, the nuance ip has been\nallocated to the nuance group and the spinco ip has been allocated to the spinco group;\nwhereas, the parties wish to record the transfers of any registrations or applications of nuance ip and spinco ip, as applicable, to the extent the"
+    },
+    {
+        "chunk_id": 10,
+        "text": "ownership thereof has transferred from a member of the nuance group to a member of the spinco group, or vice versa, pursuant to the separation\nagreement or any other ancillary agreement;\nwhereas, pursuant to the separation agreement and the other ancillary agreements, as of the distribution date, the nuance ip allocated to the\nnuance group includes the nuance patents, the nuance shared technology assets and the nuance data, and the spinco ip allocated to the spinco"
+    },
+    {
+        "chunk_id": 11,
+        "text": "group includes the spinco patents, the spinco shared technology assets and the spinco data;\nwhereas, it is the intent of the parties that nuance grant a license to spinco under the nuance patents and the nuance shared technology\nassets, and provide certain rights or services to the spinco group with respect to the nuance data, in each case for the spinco field of use, subject to\nthe terms and conditions set forth in this agreement; and"
+    },
+    {
+        "chunk_id": 12,
+        "text": "the terms and conditions set forth in this agreement; and\nwhereas, it is the intent of the parties that spinco grant a license to nuance under the spinco patents and the spinco shared technology\nassets, and provide certain rights or services to the nuance group with respect to certain of the spinco data, in each case for the nuance field of use,\nsubject to the terms and conditions set forth in this agreement."
+    },
+    {
+        "chunk_id": 13,
+        "text": "subject to the terms and conditions set forth in this agreement.\nnow, therefore, in consideration of the mutual agreements, provisions and covenants contained in this agreement, the parties, intending to be\nlegally bound, hereby agree as follows:\narticle i\ndefinitions\nsection 1.01. definitions. as used in this agreement, the following terms have the meanings set forth below and herein, and the terms defined in"
+    },
+    {
+        "chunk_id": 14,
+        "text": "schedules shall have the meanings set forth therein. capitalized terms used, but not defined in this agreement shall have the meanings ascribed to such\nterms in the separation agreement or any other ancillary agreement, as applicable.\nsource: cerence inc., 8-k, 10/2/2019\n“bankruptcy code” has the meaning set forth in section 11.10.\n“confidential technical information” means, with respect to each disclosing party, any confidential data, trade secrets or technology source code"
+    },
+    {
+        "chunk_id": 15,
+        "text": "within the nuance ip or spinco ip, as applicable, that is in the receiving party’s possession or that the receiving party obtains pursuant to the terms of\nthis agreement, together with any tangible or electronic expressions or embodiments thereof; provided, that “confidential technical information” shall\nnot include information that is or was (i) publicly known at the time of disclosure or thereafter without any breach of this agreement by the receiving"
+    },
+    {
+        "chunk_id": 16,
+        "text": "party or its group or (ii) subsequently made known to the receiving party or its group from a source unconnected with either party or its group.\n“copyrights” means copyrights, works of authorship (including all translations, adaptations, derivations and combinations thereof), mask works,\ndesigns and database rights, including, in each case, any registrations and applications therefor.\n“data” means all data, databases and collections and compilations of data, in any form or medium."
+    },
+    {
+        "chunk_id": 17,
+        "text": "“data” means all data, databases and collections and compilations of data, in any form or medium.\n“disclosing party” means each party in its capacity as the discloser of confidential technical information, as applicable.\n“divested entity” has the meaning set forth in section 8.02.\n“domain name assignment agreement” has the meaning set forth in section 2.01.\n“domain names” means internet domain names, including top level domain names and global top level domain names, urls, social media"
+    },
+    {
+        "chunk_id": 18,
+        "text": "identifiers, handles and tags.\n“intellectual property assignment agreements” has the meaning set forth in section 2.01.\n“intellectual property rights” or “ipr” means any and all intellectual property rights existing anywhere in the world associated with any and all (i)\npatents, (ii) trademarks, (iii) copyrights, (iv) domain names, (v) rights in technology, (vi) rights in trade secrets, (vii) rights in data, (viii) all tangible"
+    },
+    {
+        "chunk_id": 19,
+        "text": "embodiments of the foregoing in whatever form or medium and (ix) any other legal protections and rights related to any of the foregoing. “intellectual\nproperty rights” specifically excludes contractual rights (including license grants from third parties).\n“invention disclosure assignment agreement” has the meaning set forth in section 2.01.\n“nuance data” means any data that is (i) owned by a third party and licensed to the nuance group as of immediately prior to the distribution"
+    },
+    {
+        "chunk_id": 20,
+        "text": "pursuant to a nuance data agreement or (ii) owned by the nuance group as of immediately prior to the distribution but subject to a nuance data\nagreement, in each case (i) and (ii), which data is used in the spinco business as of immediately prior to the distribution."
+    },
+    {
+        "chunk_id": 21,
+        "text": "source: cerence inc., 8-k, 10/2/2019\n“nuance data agreement” means each contract identified in schedule b.\n“nuance field of use” has the meaning set forth in schedule a.\n“nuance ip” means all intellectual property rights owned by the nuance group or the spinco group as of immediately prior to the distribution,\nother than the spinco ip.\n“nuance patents” means all patents included within the nuance ip."
+    },
+    {
+        "chunk_id": 22,
+        "text": "other than the spinco ip.\n“nuance patents” means all patents included within the nuance ip.\n“nuance shared technology assets” means (i) the nuance technology assets identified on schedule h-2 and (ii) any other nuance technology\nassets not identified on schedule h-2 that are used in the spinco business as of immediately prior to the distribution; provided that the “nuance shared\ntechnology assets” exclude any oem technology."
+    },
+    {
+        "chunk_id": 23,
+        "text": "technology assets” exclude any oem technology.\n“nuance technology assets” means all of the technology owned by the nuance group or the spinco group as of immediately prior to the\ndistribution, excluding the spinco technology assets. for the avoidance of doubt, the “nuance technology assets” include the technology identified\non schedule h-1.\n“nuance trademarks” means the trademarks included in the nuance ip."
+    },
+    {
+        "chunk_id": 24,
+        "text": "on schedule h-1.\n“nuance trademarks” means the trademarks included in the nuance ip.\n“oem technology” means the technology identified on schedule i, each of which shall be subject to a separate agreement.\n“party” means either party hereto, and “parties” means both parties hereto.\n“patent assignment agreement” has the meaning set forth in section 2.01."
+    },
+    {
+        "chunk_id": 25,
+        "text": "“patent assignment agreement” has the meaning set forth in section 2.01.\n“patents” means patents (including all reissues, divisionals, continuations, continuations-in-part, reexaminations, supplemental examinations, inter\npartes review, post-grant oppositions, covered business methods reviews, substitutions and extensions thereof), patent registrations and applications,\nincluding provisional applications, statutory invention registrations, invention disclosures and inventions."
+    },
+    {
+        "chunk_id": 26,
+        "text": "“permitted recipients” has the meaning set forth in section 6.02.\n“receiving party” means each party in its capacity as the recipient of confidential technical information, as applicable.\n“software” means any and all (i) computer programs and applications, including any and all software implementations of algorithms, models and\nmethodologies, whether in source code, object code, human readable form or other form, including operating software, network software, firmware,"
+    },
+    {
+        "chunk_id": 27,
+        "text": "middleware, design software, design tools, asp, html, dhtml, shtml and xml files, cgi and other scripts, apis and web widgets, (ii) descriptions,\nflow charts and other work product used to design, plan, organize and develop any of the foregoing, screens, user interfaces, report formats, firmware,\ndevelopment tools, templates, menus, buttons and icons, (iii) all documentation including user manuals and other training documentation related to any"
+    },
+    {
+        "chunk_id": 28,
+        "text": "of the foregoing and (iv) all tangible embodiments of the foregoing in whatever"
+    },
+    {
+        "chunk_id": 29,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nform or medium now known or yet to be created, including all disks, diskettes and tapes; provided, that “software” does not include data.\n“spinco copyrights” means unregistered copyrights that are owned by the nuance group or the spinco group and exclusively related to the\nspinco business as of immediately prior to the distribution; provided, that the “spinco copyrights” do not include any technology or spinco data."
+    },
+    {
+        "chunk_id": 30,
+        "text": "“spinco data” means any data that is (i) owned by a third party and licensed to the nuance group or spinco group as of immediately prior to the\ndistribution pursuant to a spinco data agreement or (ii) owned by the nuance group or spinco group as of immediately prior to the distribution but\nsubject to a spinco data agreement and (iii) data owned by the nuance group or spinco group and exclusively related to the spinco business as of\nimmediately prior to the distribution."
+    },
+    {
+        "chunk_id": 31,
+        "text": "immediately prior to the distribution.\n“spinco data agreement” means each contract identified in schedule c.\n“spinco domain names” means the domain names identified on schedule g, in each case excluding any trademarks containing “nuance” or any\ntransliteration or translation thereof or any version of the “nuance and design” logo.\n“spinco field of use” has the meaning set forth in schedule a.\n“spinco ids” means the invention disclosures identified on schedule e."
+    },
+    {
+        "chunk_id": 32,
+        "text": "“spinco ids” means the invention disclosures identified on schedule e.\n“spinco ip” means (i) the spinco patents, (ii) the spinco copyrights, (iii) the spinco domain names, (iv) the spinco trade secrets, (v) the spinco\ntrademarks, (vi) the spinco ids, (vii) the spinco technology assets and (viii) the spinco data.\n“spinco patents” means the patents identified on schedule d."
+    },
+    {
+        "chunk_id": 33,
+        "text": "“spinco patents” means the patents identified on schedule d.\n“spinco shared technology assets” means the spinco technology assets identified on schedule h-4. for the avoidance of doubt, the “spinco\nshared technology assets” exclude any oem technology.\n“spinco technology assets” means the technology identified on schedule h-3.\n“spinco trade secrets” means the trade secrets known to the parties that are owned by the nuance group or spinco group and exclusively"
+    },
+    {
+        "chunk_id": 34,
+        "text": "related to the spinco business as of immediately prior to the distribution; provided, that the “spinco trade secrets” do not include any technology or\nspinco data.\n“spinco trademarks” means the trademarks identified on schedule f.\n“technology” means software, technical documentation, specifications, schematics, designs, user interfaces, test reports, bills of material, build"
+    },
+    {
+        "chunk_id": 35,
+        "text": "instructions, lab notebooks, prototypes, samples, programs, routines, subroutines, tools, materials, apparatus, and all recordings, graphs, drawings,\nreports, analyses, other writings, disks, diskettes and tapes,"
+    },
+    {
+        "chunk_id": 36,
+        "text": "source: cerence inc., 8-k, 10/2/2019\ntogether with all intellectual property rights (other than patents and trademarks) in the foregoing.\n“third party” means any person (including any governmental authority) who is not a member of the nuance group or the spinco group.\n“trade secrets” means all information, in any form or medium, to the extent that the owner thereof has taken reasonable measures to keep such"
+    },
+    {
+        "chunk_id": 37,
+        "text": "information secret and the information derives independent economic value, actual or potential, from not being generally known to, and not being readily\nascertainable through proper means by, the public.\n“trademark assignment agreement” has the meaning set forth in section 2.01.\n“trademarks” means trademarks, service marks, trade names, logos, slogans, trade dress or other source identifiers, including any registration or"
+    },
+    {
+        "chunk_id": 38,
+        "text": "any application for registration therefor, together with all goodwill associated therewith.\narticle ii\nrecordation of intellectual property rights assignment agreements\nsection 2.01. intellectual property assignment agreements. in order to carry out the intent of the parties with respect to the recordation of the\ntransfers of any registrations or applications of nuance ip or spinco ip, as applicable, to the extent the ownership thereof has transferred from a member"
+    },
+    {
+        "chunk_id": 39,
+        "text": "of the nuance group to a member of the spinco group, or vice versa, pursuant to the separation agreement or any other ancillary agreement, the\nparties shall execute intellectual property assignments in a form substantially similar to that attached as exhibit a1 (the “patent assignment agreement”),\nexhibit a2 (the “trademark assignment agreement”), exhibit a3 (the “domain name assignment agreement”) and exhibit a4 (the “invention"
+    },
+    {
+        "chunk_id": 40,
+        "text": "disclosure assignment agreement”) as well as such additional case specific assignments as deemed appropriate or necessary under applicable laws\n(collectively, the “intellectual property assignment agreements”) for recordation with the appropriate governmental authority.\nsection 2.02. recordation. the relevant assignee party shall have the sole responsibility, at its sole cost and expense, to file the intellectual"
+    },
+    {
+        "chunk_id": 41,
+        "text": "property assignment agreements and any other forms or documents with the appropriate governmental authorities as required to record the transfer of\nany registrations or applications of nuance ip or spinco ip that is allocated under the separation agreement, as applicable, and the relevant assignor\nparty hereby consents to such recordation.\nsection 2.03. security interests. prior to, on and after the distribution date, each party shall cooperate with the other party, without any further"
+    },
+    {
+        "chunk_id": 42,
+        "text": "consideration and at no expense to the other party, to obtain, cause to be obtained or properly record the release of any outstanding security interest\nattached to any nuance ip or spinco ip that is subject to assignment from one party or its group to the other party or its group hereunder, as applicable,\nand to take, or cause to be taken, all actions as the other party may reasonably be requested to take in order to obtain, cause to be obtained or properly\nrecord such release."
+    },
+    {
+        "chunk_id": 43,
+        "text": "source: cerence inc., 8-k, 10/2/2019\narticle iii\nlicenses and covenants from nuance to spinco\nsection 3.01. license grants.\n(a) patents. subject to the terms and conditions of this agreement, as of the distribution date, nuance hereby grants to spinco and the\nmembers of the spinco group a worldwide, non-exclusive, fully paid-up, perpetual and irrevocable, transferable (subject to article viii), sublicensable"
+    },
+    {
+        "chunk_id": 44,
+        "text": "(subject to section 3.01(g)) license under the nuance patents, solely to the extent that claims of the nuance patents cover products or services of the\nspinco business in the spinco field of use, together with natural extensions and evolutions thereof, in each case to make, have made, use, sell, offer for\nsale, import and otherwise exploit such products and services, together with natural extensions and evolutions thereof."
+    },
+    {
+        "chunk_id": 45,
+        "text": "(b) technology. subject to the terms and conditions of this agreement, as of the distribution date, nuance hereby grants to spinco and\nthe members of the spinco group a worldwide, non-exclusive, fully paid-up, perpetual and irrevocable, transferable (subject to article viii),\nsublicensable (subject to section 3.01(g)) license to install, access, use, reproduce, perform, display, modify (including the right to create improvements"
+    },
+    {
+        "chunk_id": 46,
+        "text": "and derivative works), further develop, sell, manufacture, distribute and market products and services based on, using or incorporating the nuance\nshared technology assets within the spinco field of use, together with natural extensions and evolutions thereof.\n(c) other nuance shared ip. subject to the terms and conditions of this agreement, as of the distribution date, nuance hereby grants to"
+    },
+    {
+        "chunk_id": 47,
+        "text": "spinco and the members of the spinco group a worldwide, non-exclusive, fully paid-up, perpetual and irrevocable, transferable (subject to article\nviii), sublicensable (subject to section 3.01(g)) license to continue to use any nuance ip (other than nuance patents, nuance technology assets,\nnuance trademarks and nuance data), in each case solely as and to the extent that it is used by the spinco group in connection with products and"
+    },
+    {
+        "chunk_id": 48,
+        "text": "services of the spinco business within the spinco field of use, together with natural extensions and evolutions thereof.\n(d) trademarks. the parties acknowledge and agree that no rights are granted to the spinco group in this agreement with respect to any\ntrademarks or domain names, provided that certain rights and obligations with respect to the use by the spinco group of certain nuance trademarks"
+    },
+    {
+        "chunk_id": 49,
+        "text": "and related domain names shall be set forth in the transitional trademark license agreement. to the extent there is a conflict between the terms of this\nagreement and the transitional trademark license agreement, the terms of the transitional trademark license agreement shall control.\n(e) nuance data. the parties acknowledge and agree that certain rights and obligations with respect to the use or benefit by the spinco\ngroup of certain nuance data shall be as provided in schedule b."
+    },
+    {
+        "chunk_id": 50,
+        "text": "group of certain nuance data shall be as provided in schedule b.\n(f) oem technology. notwithstanding the foregoing, the parties acknowledge and agree that this section 3.01 does not grant any rights or\nlicenses to any oem technology, which is subject to certain separate agreements between the parties, and to the"
+    },
+    {
+        "chunk_id": 51,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nextent there is a conflict between this agreement and such separate agreements, such separate agreements shall control.\n(g) sublicenses. the licenses granted in sections 3.01(a), (b) and (c) to the spinco group include the right to grant sublicenses within the\nscope of such licenses only to members of the spinco group and, without any further right to sublicense, to their respective (i) contractors, distributors,"
+    },
+    {
+        "chunk_id": 52,
+        "text": "manufacturers and resellers, in each case solely for the benefit of the spinco business, and (ii) end users and customers, in each case solely in\nconnection with the use of products and services of the spinco business. notwithstanding the forgoing, subject to section 3.02(b) and article vi,\nmembers of the spinco group may only sublicense the nuance shared technology assets pursuant to terms and conditions as protective as those"
+    },
+    {
+        "chunk_id": 53,
+        "text": "under which it licenses its own technology of a similar nature and value, and in any event terms and conditions that provide for commercially reasonable\nprotection for the source code, structure and other confidential and proprietary elements of the nuance shared technology assets. the spinco group\nshall remain liable for any breach or default of the applicable terms and conditions of this agreement by any of its sublicensees.\nsection 3.02. other covenants."
+    },
+    {
+        "chunk_id": 54,
+        "text": "section 3.02. other covenants.\n(a) spinco hereby acknowledges nuance’s right, title and interest in and to the nuance ip. spinco agrees that it will not (i) oppose,\nchallenge, petition to cancel, contest or threaten in any way, or assist another party in opposing, challenging, petitioning to cancel, contesting or\nthreatening in any way, any application or registration by nuance or its affiliates or their respective licensees for any nuance ip, (ii) engage in any act, or"
+    },
+    {
+        "chunk_id": 55,
+        "text": "purposefully omit to perform any act, that impairs or adversely affects the rights of nuance or any member of the nuance group in and to any nuance ip\nor (iii) apply for any registration (including federal, state and national registrations) with respect to the nuance ip.\n(b) with respect to the nuance shared technology assets, spinco agrees that it will not (i) engage in any act, or purposefully omit to"
+    },
+    {
+        "chunk_id": 56,
+        "text": "perform any act, that impairs or adversely affects the rights of nuance or any member of the nuance group in and to any nuance shared technology\nassets, (ii) use the nuance shared technology assets on a service bureau, time sharing or similar basis, or for the benefit of any other person, (iii)\nremove any proprietary markings in the nuance shared technology assets, (iv) incorporate or otherwise combine or integrate any open source software"
+    },
+    {
+        "chunk_id": 57,
+        "text": "with or into the nuance shared technology assets such that the nuance shared technology assets, or any part thereof, becomes subject to any “open\nsource,” “copyleft” or similar type of license terms (including, without limitation, any license that is or was recognized as an open source software license\nby the open source initiative), (v) reverse engineer, reverse assemble or decompile the nuance shared technology assets or any software component of"
+    },
+    {
+        "chunk_id": 58,
+        "text": "the nuance shared technology assets or (vi) disclose, distribute or otherwise provide or permit access to source code of any nuance shared"
+    },
+    {
+        "chunk_id": 59,
+        "text": "source: cerence inc., 8-k, 10/2/2019\ntechnology assets other than to commercial source code escrow providers who are only permitted to make such source code available to third parties\nthat have entered into an escrow agreement with a member of the spinco group and escrow provider.\narticle iv\nlicenses and covenants from spinco to nuance\nsection 4.01. license grants."
+    },
+    {
+        "chunk_id": 60,
+        "text": "article iv\nlicenses and covenants from spinco to nuance\nsection 4.01. license grants.\n(a) patents. subject to the terms and conditions of this agreement, as of the distribution date, spinco hereby grants to nuance and the\nmembers of the nuance group a worldwide, non-exclusive, fully paid-up, perpetual and irrevocable, transferable (subject to article viii), sublicensable"
+    },
+    {
+        "chunk_id": 61,
+        "text": "(subject to section 4.01(g)) license under the spinco patents, solely to the extent that claims of the spinco patents cover products or services of the\nnuance business in the nuance field of use, together with natural extensions and evolutions thereof, in each case to make, have made use, sell, offer for\nsale, import and otherwise exploit such products and services, together with natural extensions and evolutions thereof."
+    },
+    {
+        "chunk_id": 62,
+        "text": "(b) technology. subject to the terms and conditions of this agreement, as of the distribution date, spinco hereby grants to nuance and\nthe members of the nuance group a worldwide, non-exclusive, fully paid-up, perpetual and irrevocable, transferable (subject to article viii),\nsublicensable (subject to section 4.01(g)) license to install, access, use, reproduce, perform, display, modify (including the right to create improvements"
+    },
+    {
+        "chunk_id": 63,
+        "text": "and derivative works), further develop, sell, manufacture, distribute and market products and services based on, using or incorporating the spinco\nshared technology assets within the nuance field of use, together with natural extensions and evolutions thereof.\n(c) other spinco shared ip. subject to the terms and conditions of this agreement, as of the distribution date, spinco hereby grants to"
+    },
+    {
+        "chunk_id": 64,
+        "text": "nuance and the members of the nuance group a worldwide, non-exclusive, fully paid-up, perpetual and irrevocable, transferable (subject to article\nviii), sublicensable (subject to section 4.01(g)) license to continue to use any spinco ip (other than spinco patents, spinco technology assets, spinco\ntrademarks, spinco domain names and spinco data), in each case solely as and to the extent that it is used by the nuance group in connection with"
+    },
+    {
+        "chunk_id": 65,
+        "text": "products and services of the nuance business within the nuance field of use, together with natural extensions and evolutions thereof.\n(d) trademarks. the parties acknowledge and agree that no rights are granted to the nuance group in this agreement with respect to any\ntrademarks or domain names.\n(e) spinco data. the parties acknowledge and agree that certain rights and obligations with respect to the use or benefit of the nuance\ngroup of certain spinco data shall be as provided in schedule c."
+    },
+    {
+        "chunk_id": 66,
+        "text": "group of certain spinco data shall be as provided in schedule c.\n(f) oem technology. notwithstanding the foregoing, the parties acknowledge and agree that this section 4.01 does not grant any rights or\nlicenses to any oem technology, which is subject to certain separate agreements between the parties, and to the"
+    },
+    {
+        "chunk_id": 67,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nextent there is a conflict between this agreement and such separate agreements, such separate agreements shall control.\n(g) sublicenses. the licenses granted in sections 4.01(a), (b) and (c) to the nuance group include the right to grant sublicenses within the\nscope of such licenses only to members of the nuance group and, without any further right to sublicense, to their respective (i) contractors, distributors,"
+    },
+    {
+        "chunk_id": 68,
+        "text": "manufacturers and resellers, in each case solely for the benefit of the nuance business and (ii) end users and customers, in each case solely in\nconnection with the use of products and services of the nuance business. notwithstanding the forgoing, subject to section 4.02(b) and article vi,\nmembers of the nuance group may only sublicense the spinco shared technology assets pursuant to terms and conditions as protective as those"
+    },
+    {
+        "chunk_id": 69,
+        "text": "under which it licenses its own technology of a similar nature and value, and in any event terms and conditions that provide for commercially reasonable\nprotection for the source code, structure and other confidential and proprietary elements of the spinco shared technology assets. the nuance group\nshall remain liable for any breach or default of the applicable terms and conditions of this agreement by any of its sublicensees.\nsection 4.02. other covenants."
+    },
+    {
+        "chunk_id": 70,
+        "text": "section 4.02. other covenants.\n(a) nuance hereby acknowledges spinco’s right, title and interest in and to the spinco ip. nuance agrees that it will not (i) oppose,\nchallenge, petition to cancel, contest or threaten in any way, or assist another party in opposing, challenging, petitioning to cancel, contesting or\nthreatening in any way, any application or registration by spinco or its affiliates or their respective licensees for any spinco ip, (ii) engage in any act, or"
+    },
+    {
+        "chunk_id": 71,
+        "text": "purposefully omit to perform any act, that impairs or adversely affects the rights of spinco or any member of the spinco group in and to any spinco ip or\n(iii) apply for any registration (including federal, state and national registrations) with respect to the spinco ip.\n(b) with respect to the spinco shared technology assets, nuance agrees that it will not (i) engage in any act, or purposefully omit to"
+    },
+    {
+        "chunk_id": 72,
+        "text": "perform any act, that impairs or adversely affects the rights of spinco or any member of the spinco group in and to any spinco shared technology\nassets, (ii) use the spinco shared technology assets on a service bureau, time sharing or similar basis, or for the benefit of any other person, (iii)\nremove any proprietary markings in the spinco shared technology assets, (iv) incorporate or otherwise combine or integrate any open source software"
+    },
+    {
+        "chunk_id": 73,
+        "text": "with or into the spinco shared technology assets such that the spinco shared technology assets, or any part thereof, becomes subject to any “open\nsource,” “copyleft” or similar type of license terms (including, without limitation, any license that is or was recognized as an open source software license\nby the open source initiative), (v) reverse engineer, reverse assemble or decompile the spinco shared technology assets or any software component of"
+    },
+    {
+        "chunk_id": 74,
+        "text": "the spinco shared technology assets or (vi) disclose, distribute or otherwise provide or permit access to source code of any spinco shared"
+    },
+    {
+        "chunk_id": 75,
+        "text": "source: cerence inc., 8-k, 10/2/2019\ntechnology assets other than to commercial source code escrow providers who are only permitted to make such source code available to third parties\nthat have entered into an escrow agreement with a member of the nuance group and escrow provider.\narticle v\nadditional intellectual property related matters\nsection 5.01. ownership. the party receiving the license hereunder acknowledges and agrees that the party (or the applicable member of its group)"
+    },
+    {
+        "chunk_id": 76,
+        "text": "granting the license is the sole and exclusive owner of the intellectual property rights so licensed.\nsection 5.02. assignments and licenses. any assignment, other transfer or license by either party or any member of its group of any intellectual\nproperty rights licensed to the other party or any member of its group pursuant to article iii or article iv, respectively, shall be subject to the\napplicable licenses, covenants and restrictions set forth herein."
+    },
+    {
+        "chunk_id": 77,
+        "text": "applicable licenses, covenants and restrictions set forth herein.\nsection 5.03. no implied rights. nothing contained in this agreement shall be construed as conferring any rights (including the right to\nsublicense) by implication, estoppel or otherwise, under any intellectual property rights, other than as expressly granted in this agreement, and all other"
+    },
+    {
+        "chunk_id": 78,
+        "text": "rights under any intellectual property rights licensed to a party or the members of its group hereunder are expressly reserved by the party granting the\nlicense.\nsection 5.04. no obligation to prosecute or maintain patents. except as expressly set forth in this agreement, no party or any member of its group\nshall have any obligation to seek, perfect or maintain any protection for any of its intellectual property rights. without limiting the generality of the"
+    },
+    {
+        "chunk_id": 79,
+        "text": "foregoing, except as expressly set forth in this agreement, no party or any member of its group shall have any obligation to file any patent application, to\nprosecute any patent, or secure any patent rights or to maintain any patent in force.\nsection 5.05. no technical assistance. except as expressly set forth in this agreement, in the separation agreement or any other mutually executed"
+    },
+    {
+        "chunk_id": 80,
+        "text": "agreement between the parties or any of the members of their respective groups, no party or any member of its group shall be required to provide the\nother party with any technical assistance or to furnish any other party with, or obtain on their behalf, any intellectual property rights-related documents,\nmaterials or other information or technology.\nsection 5.06. group members. each party shall cause the members of its group to comply with all applicable provisions of this agreement.\narticle vi"
+    },
+    {
+        "chunk_id": 81,
+        "text": "article vi\nconfidential information\nsection 6.01. confidentiality. without limiting section 6.02, all confidential information of a party disclosed to the other party under this agreement\nshall be deemed confidential and proprietary information of the disclosing party, shall be subject to the provisions of section 7.09 of the separation\nagreement and may be used by the receiving party pursuant to this agreement for the sole and express purpose of effecting the licenses granted herein."
+    },
+    {
+        "chunk_id": 82,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nsection 6.02. disclosure of confidential technical information. except as expressly permitted by this agreement, including in section 3.02(b)(vi) or\nsection 4.02(b)(vi), the receiving party shall not, and shall not permit any other person to, disclose any confidential technical information to any person\nwithout prior written consent of the disclosing party, except that the receiving party may disclose the confidential technical information solely to those"
+    },
+    {
+        "chunk_id": 83,
+        "text": "employees and contractors of the receiving party who have a need to know the confidential technical information in connection with designing,\ndeveloping, distributing, marketing, testing and supporting any products or services of the receiving party within the nuance field of use or spinco\nfield of use, as applicable (collectively, the “permitted recipients”); provided, that prior to such disclosure the receiving party shall notify each such"
+    },
+    {
+        "chunk_id": 84,
+        "text": "permitted recipient in writing of the use and disclosure restrictions set forth in this agreement and ensure that such permitted recipient is bound by\nconfidentiality obligations with respect thereto. the receiving party shall take, at its sole expense, all reasonable measures to prevent any prohibited or\nunauthorized disclosure or use of any confidential technical information, including by its permitted recipients, and shall be liable for any breaches of"
+    },
+    {
+        "chunk_id": 85,
+        "text": "this agreement by any of its permitted recipients, in each case, as if committed by the receiving party.\nsection 6.03. compulsory disclosure of confidential technical information. if the receiving party receives a request to disclose any confidential\ntechnical information pursuant to a subpoena or other order of a governmental authority: (i) the receiving party shall promptly notify in writing the"
+    },
+    {
+        "chunk_id": 86,
+        "text": "disclosing party thereof and reasonably consult with and assist the disclosing party in seeking a protective order or other appropriate remedy to limit\nsuch disclosure, (ii) in the event that such protective order or remedy is not obtained, the receiving party shall disclose only that portion of the\nconfidential technical information which, in the written opinion of the receiving party’s legal counsel, is legally required to be disclosed, and the"
+    },
+    {
+        "chunk_id": 87,
+        "text": "receiving party shall use reasonable best efforts to ensure confidential treatment of any such disclosed confidential technical information and (iii) the\ndisclosing party shall be given an opportunity to review any such confidential technical information prior to disclosure thereof. the parties shall fully\ncooperate, to the extent permitted by law, in any actions the disclosing party may take in seeking to prevent or limit such disclosure. any confidential"
+    },
+    {
+        "chunk_id": 88,
+        "text": "technical information disclosed under this section 6.03 shall continue to be deemed confidential technical information for all purposes hereunder,\nnotwithstanding such disclosure.\narticle vii\nlimitation of liability and warranty disclaimer\nsection 7.01. limitation on liability. without limiting the terms set forth in section 6.09 of the separation agreement, none of nuance, spinco or"
+    },
+    {
+        "chunk_id": 89,
+        "text": "any other member of either group shall in any event have any liability to the other or to any other member of the other’s group under this agreement for\nany indirect, special, punitive or consequential damages, whether or not caused by or resulting from negligence or breach of obligations hereunder and\nwhether or not informed of the possibility of the existence of such damages."
+    },
+    {
+        "chunk_id": 90,
+        "text": "whether or not informed of the possibility of the existence of such damages.\nsection 7.02. disclaimer of representations and warranties. each of nuance (on behalf of itself and each other member of the nuance group) and\nspinco (on behalf of itself and each other member of the spinco group) understands and agrees that, except as expressly set forth in this agreement, no\nparty is representing or warranting in any way, including any"
+    },
+    {
+        "chunk_id": 91,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nimplied warranties of merchantability, fitness for a particular purpose, title, registerability, allowability, enforceability or non-infringement, as to any\nintellectual property rights licensed hereunder, as to the sufficiency of the intellectual property rights licensed hereunder for the conduct and\noperations of the spinco business or the nuance business, as applicable, as to the value or freedom from any security interests of, or any other matter"
+    },
+    {
+        "chunk_id": 92,
+        "text": "concerning, any intellectual property rights licensed hereunder, or as to the absence of any defenses or rights of setoff or freedom from counterclaim\nwith respect to any claim or other intellectual property rights of any such party, or as to the legal sufficiency of any assignment, document or instrument\ndelivered hereunder to convey title to any intellectual property rights or thing of value upon the execution, delivery and filing hereof or thereof. except"
+    },
+    {
+        "chunk_id": 93,
+        "text": "as may expressly be set forth herein, any such intellectual property rights are being licensed on an “as is,” “where is” basis and the respective licensees\nshall bear the economic and legal risks related to the use of the nuance ip in the spinco business or the spinco ip in the nuance business, as applicable.\narticle viii\ntransferability and assignment\nsection 8.01. no assignment or transfer without consent. except as expressly set forth in this agreement, neither this agreement nor any of the"
+    },
+    {
+        "chunk_id": 94,
+        "text": "rights, interests or obligations under this agreement, including the licenses granted pursuant to this agreement, shall be assigned, in whole or in part, by\noperation of law or otherwise by either party without the prior written consent of the other party. any purported assignment without such consent shall\nbe void. notwithstanding the foregoing, if any party to this agreement (or any of its successors or permitted assigns) (a) shall enter into a consolidation"
+    },
+    {
+        "chunk_id": 95,
+        "text": "or merger transaction in which such party is not the surviving entity and the surviving entity acquires or assumes all or substantially all of such party’s\nassets, (b) shall transfer all or substantially all of such party’s assets to any person or (c) shall assign this agreement to such party’s affiliates, then, in\neach such case, the assigning party (or its successors or permitted assigns, as applicable) shall ensure that the assignee or successor-in-interest"
+    },
+    {
+        "chunk_id": 96,
+        "text": "expressly assumes in writing all of the obligations of the assigning party under this agreement, and the assigning party shall not be required to seek\nconsent, but shall provide written notice and evidence of such assignment, assumption or succession to the non-assigning party. subject to the\npreceding sentences, this agreement will be binding upon, inure to the benefit of, and be enforceable by, the parties and their respective successors and"
+    },
+    {
+        "chunk_id": 97,
+        "text": "assigns. no assignment permitted by this section 8.01 shall release the assigning party from liability for the full performance of its obligations under this\nagreement. for the avoidance of doubt, in no event will the licenses granted in this agreement extend to products, services or other activities of the\nassignee existing on or before the date of the transaction described in clauses (a) or (b) of the preceding sentence, except to the extent that they were"
+    },
+    {
+        "chunk_id": 98,
+        "text": "licensed under the terms of this agreement prior to such transaction.\nsection 8.02. divested businesses. in the event a party divests a line of business or line of products or services by (a) spinning off a member of its\ngroup by its sale or other disposition to a third party, (b) reducing ownership or control in a member of its group so that it no longer qualifiers as a"
+    },
+    {
+        "chunk_id": 99,
+        "text": "member of its group under this agreement, (c) selling or otherwise transferring such line of business, products or services to a third party or (d) forming\na joint venture with a third party with respect to such line of business, products or services (each such divested entity or line of business, products or\nservices, a “divested entity”), the divested entity"
+    },
+    {
+        "chunk_id": 100,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nshall retain those licenses granted to it under this agreement, provided that the license shall be limited to the business, products or services (as\napplicable) of the divested entity as of the date of divestment and such natural development thereof within the nuance field of use (where nuance is the\ndivesting party) or spinco field of use (where spinco is the divesting party). the retention of any license grants are subject to the divested entity’s"
+    },
+    {
+        "chunk_id": 101,
+        "text": "and, in the event it is acquired by a third party, such third party’s execution and delivery to the non-transferring party, within 90 days of the effective\ndate of such divestment, of a duly authorized, written undertaking, agreeing to be bound by the applicable terms of this agreement. for the avoidance of\ndoubt, (i) in no event will the licenses retained by a divested entity extend to products, services or other activities of a third party acquirer existing on or"
+    },
+    {
+        "chunk_id": 102,
+        "text": "before the date of the divestment, except to the extent that they were licensed under the terms of this agreement prior to such divestment, and (ii) in the\nevent that a divested entity owns any intellectual property rights licensed to the other party under this agreement, such intellectual property rights\nmay be transferred or assignment with such divested entity subject to the terms and conditions this agreement.\narticle ix\ntermination"
+    },
+    {
+        "chunk_id": 103,
+        "text": "article ix\ntermination\nsection 9.01. termination by both parties. subject to section 9.02, this agreement may not be terminated except by an agreement in writing signed\nby a duly authorized officer of each of the parties.\nsection 9.02. termination prior to the distribution. this agreement may be terminated by nuance at any time, in its sole discretion, prior to the"
+    },
+    {
+        "chunk_id": 104,
+        "text": "distribution; provided, however, that this agreement shall automatically terminate upon the termination of the separation agreement in accordance with\nits terms.\nsection 9.03. effect of termination; survival. in the event of any termination of this agreement prior to the distribution, neither party (nor any\nmember of their group or any of their respective directors or officers) shall have any liability or further obligation to the other party or any member of its"
+    },
+    {
+        "chunk_id": 105,
+        "text": "group under this agreement. except with respect to termination of the agreement under section 9.02, notwithstanding anything in this agreement to the\ncontrary, article i, article vi, article vii, this section 9.03 and article xi shall survive any termination of this agreement.\narticle x\nfurther assurances\nsection 10.01. further assurances.\n(a) in addition to the actions specifically provided for elsewhere in this agreement, each of the parties shall use reasonable best efforts,"
+    },
+    {
+        "chunk_id": 106,
+        "text": "prior to, on and after the distribution date, to take, or cause to be taken, all actions, and to do, or cause to be done, all things, reasonably necessary,\nproper or advisable under applicable laws and agreements to consummate, and make effective, the transactions contemplated by this agreement.\n(b) without limiting the foregoing, prior to, on and after the distribution date, each party shall cooperate with the other party, without any\nfurther"
+    },
+    {
+        "chunk_id": 107,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nconsideration, but at the expense of the requesting party: (i) to execute and deliver, or use reasonable best efforts to execute and deliver, or cause to be\nexecuted and delivered, all instruments, including any instruments of conveyance, assignment and transfer as such party may reasonably be requested to\nexecute and deliver by the other party; (ii) to make, or cause to be made, all filings with, and to obtain, or cause to be obtained, all consents of any"
+    },
+    {
+        "chunk_id": 108,
+        "text": "governmental authority or any other person under any permit, license, contract, indenture or other instrument; and (iii) to take, or cause to be taken, all\nsuch other actions as such party may reasonably be requested to take by the other party from time to time, consistent with the terms of this agreement,\nin order to effectuate the provisions and purposes of this agreement and any transfers of intellectual property rights or assignments and assumptions"
+    },
+    {
+        "chunk_id": 109,
+        "text": "of liabilities related thereto as set forth in the separation agreement.\narticle xi\nmiscellaneous\nsection 11.01. counterparts; entire agreement; corporate power.\n(a) this agreement may be executed in one or more counterparts, all of which counterparts shall be considered one and the same\nagreement, and shall become effective when one or more counterparts have been signed by each party and delivered to the other party. this agreement"
+    },
+    {
+        "chunk_id": 110,
+        "text": "may be executed by facsimile or pdf signature and scanned and exchanged by electronic mail, and such facsimile or pdf signature or scanned and\nexchanged copies shall constitute an original for all purposes.\n(b) this agreement and the exhibits and schedules hereto contain the entire agreement between the parties with respect to the subject\nmatter hereof and supersede all previous agreements, negotiations, discussions, writings, understandings, commitments and conversations with respect"
+    },
+    {
+        "chunk_id": 111,
+        "text": "to such subject matter, and there are no agreements or understandings between the parties with respect to the subject matter hereof other than those set\nforth or referred to herein or therein. in the event of conflict or inconsistency between the provisions of this agreement or the separation agreement, the\nprovisions of this agreement shall prevail.\n(c) nuance represents on behalf of itself and each other member of the nuance group, and spinco represents on behalf of itself and each"
+    },
+    {
+        "chunk_id": 112,
+        "text": "other member of the spinco group, as follows:\n(i) each such person has the requisite corporate or other power and authority and has taken all corporate or other action necessary in\norder to execute, deliver and perform this agreement and to consummate the transactions contemplated hereby; and\n(ii) this agreement has been duly executed and delivered by it and constitutes, or will constitute, a valid and binding agreement of it\nenforceable in accordance with the terms thereof."
+    },
+    {
+        "chunk_id": 113,
+        "text": "enforceable in accordance with the terms thereof.\nsection 11.02. dispute resolution. in the event that either party, acting reasonably, forms the view that another party has caused a material breach\nof the terms of this agreement, then the party that forms such a view shall serve written notice of the alleged breach on the other parties and the parties\nshall work together in good faith to resolve any such alleged"
+    },
+    {
+        "chunk_id": 114,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nbreach within thirty (30) days of such notice (a “dispute”). if any such alleged breach is not so resolved, then a senior executive of each party shall, in\ngood faith, attempt to resolve any such alleged breach within the following thirty (30) days of the referral of the matter to the senior executives. if no"
+    },
+    {
+        "chunk_id": 115,
+        "text": "resolution is reached with respect to any such alleged breach in accordance with the procedures contained in this section 11.02, then the parties may seek\nto resolve such matter in accordance with section 11.03, section 11.04, section 11.05 and section 11.06\nsection 11.03. governing law; jurisdiction. any disputes relating to, arising out of or resulting from this agreement, including to its execution,"
+    },
+    {
+        "chunk_id": 116,
+        "text": "performance, or enforcement, shall be governed by, and construed in accordance with, the laws of the state of delaware, regardless of the laws that\nmight otherwise govern under applicable principles of conflicts of laws thereof. each party irrevocably consents to the exclusive jurisdiction, forum and\nvenue of the delaware court of chancery (and if the delaware court of chancery shall be unavailable, any delaware state court or the federal court"
+    },
+    {
+        "chunk_id": 117,
+        "text": "sitting in the state of delaware) over any and all claims, disputes, controversies or disagreements between the parties or any of their respective affiliates,\nsuccessors and assigns under or related to this agreement or any of the transactions contemplated hereby, including their execution, performance or\nenforcement, whether in contract, tort or otherwise. each of the parties hereby agrees that it shall not assert, and shall hereby waive, any claim or right or"
+    },
+    {
+        "chunk_id": 118,
+        "text": "defense that it is not subject to the jurisdiction of such courts, that the venue is improper, that the forum is inconvenient or any similar objection, claim or\nargument. each party agrees that a final judgment in any legal proceeding resolved in accordance with this section 11.03, section 11.04, section 11.05 and\nsection 11.06 shall be conclusive and may be enforced in other jurisdictions by suit on the judgment or in any other manner provided by applicable law."
+    },
+    {
+        "chunk_id": 119,
+        "text": "section 11.04. waiver of jury trial. each party hereby waives its rights to a jury trial of any claim or cause of action\nrelating to, arising out of or resulting from this agreement or the transactions contemplated hereby, including\ntheir execution, performance or enforcement, whether in contract, tort or otherwise. the scope of this waiver is\nintended to be all-encompassing of any and all disputes that may be filed in any court and that relate to the"
+    },
+    {
+        "chunk_id": 120,
+        "text": "subject matter of this transaction, including contract claims, tort claims (including negligence), breach of duty\nclaims and all other common law and statutory claims. this section has been fully discussed by each of the parties\nand these provisions will not be subject to any exceptions.\nsection 11.05. court-ordered interim relief. in accordance with section 11.03 and section 11.04, at any time after giving notice of a dispute, each"
+    },
+    {
+        "chunk_id": 121,
+        "text": "party shall be entitled to interim measures of protection duly granted by a court of competent jurisdiction: (1) to preserve the status quo pending\nresolution of the dispute; (2) to prevent the destruction or loss of documents and other information or things relating to the dispute; or (3) to prevent the\ntransfer, disposition or hiding of assets. any such interim measure (or a request therefor to a court of competent jurisdiction) shall not be deemed"
+    },
+    {
+        "chunk_id": 122,
+        "text": "incompatible with the provisions of section 11.02, section 11.03 and section 11.04. until such dispute is resolved in accordance with section 11.02 or final\njudgment is rendered in accordance with section 11.03 and section 11.04, each"
+    },
+    {
+        "chunk_id": 123,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nparty agrees that such party shall continue to perform its obligations under this agreement and that such obligations shall not be subject to any defense\nor setoff, counterclaim, recoupment or termination.\nsection 11.06. specific performance. subject to section 11.02 and section 11.05, in the event of any actual or threatened default in, or breach of, any"
+    },
+    {
+        "chunk_id": 124,
+        "text": "of the terms, conditions and provisions of this agreement, the affected party shall have the right to specific performance and injunctive or other equitable\nrelief of its rights under this agreement, in addition to any and all other rights and remedies at law or in equity, and all such rights and remedies shall be\ncumulative. the other party shall not oppose the granting of such relief on the basis that money damages are an adequate remedy. the parties agree that"
+    },
+    {
+        "chunk_id": 125,
+        "text": "the remedies at law for any breach or threatened breach hereof, including monetary damages, are inadequate compensation for any loss and that any\ndefense in any action for specific performance that a remedy at law would be adequate is waived. any requirements for the securing or posting of any\nbond or similar security with such remedy are waived.\nsection 11.07. third-party beneficiaries. except as otherwise expressly set forth herein or as otherwise may be provided in the separation"
+    },
+    {
+        "chunk_id": 126,
+        "text": "agreement with respect to the rights of any nuance indemnitee or spinco indemnitee, in his, her or its respective capacities as such, (a) the provisions of\nthis agreement are solely for the benefit of the parties hereto and are not intended to confer upon any person except the parties hereto any rights or\nremedies hereunder and (b) there are no third-party beneficiaries of this agreement and this agreement shall not provide any third person with any"
+    },
+    {
+        "chunk_id": 127,
+        "text": "remedy, claim, liability, reimbursement, cause of action or other right in excess of those existing without reference to this agreement.\nsection 11.08. notices. all notices or other communications under this agreement shall be in writing and shall be deemed to be duly given (a) when\ndelivered in person, (b) on the date received, if sent by a nationally recognized delivery or courier service, (c) upon written confirmation of receipt after"
+    },
+    {
+        "chunk_id": 128,
+        "text": "transmittal by electronic mail or (d) upon the earlier of confirmed receipt or the fifth (5th) business day following the date of mailing if sent by registered or\ncertified mail, return receipt requested, postage prepaid and addressed as follows:\nif to nuance, to:\nnuance communications, inc.\n1 wayside road, burlington, ma 01803\nattn: wendy cassity, evp and chief legal officer\nemail: wendy.cassitynuance.com\nwith a copy to: david garfinkel, svp corporate development"
+    },
+    {
+        "chunk_id": 129,
+        "text": "email: wendy.cassitynuance.com\nwith a copy to: david garfinkel, svp corporate development\nemail: david.garfinkelnuance.com\nand\npaul, weiss, rifkind, wharton & garrison llp\n1285 avenue of the americas\nnew york, ny 10019-6064\nattn: scott a. barshay\nsteven j. williams"
+    },
+    {
+        "chunk_id": 130,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nmichael e. vogel\nemail: sbarshaypaulweiss.com\nswilliamspaulweiss.com\nmvogelpaulweiss.com\nfacsimile: 212-492-0040\nif to spinco, to:\ncerence inc.\n15 wayside road, burlington, ma 01803\nattn: leanne fitzgerald, general counsel\nemail: leanne.fitzgeraldcerence.com\nwith a copy to: mark gallenberger, chief financial officer\nemail: mark.gallenbergercerence.com"
+    },
+    {
+        "chunk_id": 131,
+        "text": "with a copy to: mark gallenberger, chief financial officer\nemail: mark.gallenbergercerence.com\neither party may, by notice to the other party, change the address and identity of the person to which such notices and copies of such notices are to be\ngiven. each party agrees that nothing in this agreement shall affect the other party’s right to serve process in any other manner permitted by law\n(including pursuant to the rules for foreign service of process authorized by the hague convention)."
+    },
+    {
+        "chunk_id": 132,
+        "text": "section 11.09. import and export control. each party agrees that it shall comply with all applicable national and international laws and regulations\nrelating to import and/or export control in its country(ies), if any, involving any commodities, software, services or technology within the scope of this\nagreement.\nsection 11.10. bankruptcy. the parties acknowledge and agree that all rights and licenses granted by the other under or pursuant to this agreement"
+    },
+    {
+        "chunk_id": 133,
+        "text": "are, and shall otherwise be deemed to be, for purposes of section 365(n) of the united states bankruptcy code, as amended (the “bankruptcy code”),\nlicenses of rights to “intellectual property” as defined under section 101 of the bankruptcy code. the parties agree that, notwithstanding anything else\nin this agreement, nuance and the members of the nuance group and spinco and the members of the spinco group, as licensees of such intellectual"
+    },
+    {
+        "chunk_id": 134,
+        "text": "property rights under this agreement, shall retain and may fully exercise all of its rights and elections under the bankruptcy code (including nuance’s\nand the nuance group members’ and spinco’s and the spinco group members’ right"
+    },
+    {
+        "chunk_id": 135,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nto the continued enjoyment of the rights and licenses respectively granted by under this agreement).\nsection 11.11. severability. if any provision of this agreement or the application thereof to any person or circumstance is determined by a court of\ncompetent jurisdiction to be invalid, void or unenforceable, the remaining provisions hereof, or the application of such provision to persons or"
+    },
+    {
+        "chunk_id": 136,
+        "text": "circumstances, or in jurisdictions other than those as to which it has been held invalid or unenforceable, shall remain in full force and effect and shall in\nno way be affected, impaired or invalidated thereby, so long as the economic or legal substance of the transactions contemplated hereby is not affected in\nany manner materially adverse to either party. upon any such determination, any such provision, to the extent determined to be invalid, void or"
+    },
+    {
+        "chunk_id": 137,
+        "text": "unenforceable, shall be deemed replaced by a provision that such court determines is valid and enforceable and that comes closest to expressing the\nintention of the invalid, void or unenforceable provision.\nsection 11.12. expenses. except as set forth on schedule xxiv to the separation agreement, as otherwise expressly provided in this agreement or\nthe separation agreement, (i) all third-party fees, costs and expenses incurred by either the nuance group or the spinco group in connection with"
+    },
+    {
+        "chunk_id": 138,
+        "text": "effecting the spin-off prior to or on the distribution date, whether payable prior to, on or following the distribution date (but excluding, for the\navoidance of doubt, any financing fees or interest payable in respect of any indebtedness incurred by spinco in connection with the spin-off), will be\nborne and paid by nuance and (ii) all third-party fees, costs and expenses incurred by either the nuance group or the spinco group in connection with"
+    },
+    {
+        "chunk_id": 139,
+        "text": "effecting the spin-off following the distribution date, whether payable prior to, on or following the distribution date, will be borne and paid by the party\nincurring such fee, cost or expense. for the avoidance of doubt, this section 11.12 shall not affect each party’s responsibility to indemnify nuance\nliabilities or spinco liabilities, as applicable, arising from the transactions contemplated by the distribution."
+    },
+    {
+        "chunk_id": 140,
+        "text": "section 11.13. headings. the article, section and paragraph headings contained in this agreement, including in the table of contents of this\nagreement, are for reference purposes only and shall not affect in any way the meaning or interpretation of this agreement.\nsection 11.14. survival of covenants. except as expressly set forth in this agreement, the covenants in this agreement and the liabilities for the"
+    },
+    {
+        "chunk_id": 141,
+        "text": "breach of any obligations in this agreement shall survive the spin-off and shall remain in full force and effect.\nsection 11.15. waivers of default. no failure or delay of any party (or the applicable member of its group) in exercising any right or remedy under\nthis agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any such right or power, or any abandonment or"
+    },
+    {
+        "chunk_id": 142,
+        "text": "discontinuance of steps to enforce such right or power, or any course of conduct, preclude any other or further exercise thereof or the exercise of any\nother right or power. waiver by any party of any default by the other party of any provision of this agreement shall not be deemed a waiver by the\nwaiving party of any subsequent or other default.\nsection 11.16. amendments. no provisions of this agreement shall be deemed waived, amended, supplemented or modified by any party, unless"
+    },
+    {
+        "chunk_id": 143,
+        "text": "such waiver, amendment,"
+    },
+    {
+        "chunk_id": 144,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nsupplement or modification is in writing and signed by the authorized representative of each party.\nsection 11.17. interpretation. words in the singular shall be held to include the plural and vice versa and words of one gender shall be held to\ninclude the other gender as the context requires. the terms “hereof,” “herein,” “herewith” and words of similar import, unless otherwise stated, shall be"
+    },
+    {
+        "chunk_id": 145,
+        "text": "construed to refer to this agreement as a whole (including all of the schedules hereto) and not to any particular provision of this agreement. article,\nsection or schedule references are to the articles, sections and schedules of or to this agreement unless otherwise specified. any capitalized terms used\nin any schedule to this agreement but not otherwise defined therein shall have the meaning as defined in this agreement. any definition of or reference"
+    },
+    {
+        "chunk_id": 146,
+        "text": "to any agreement, instrument or other document herein (including any reference herein to this agreement) shall, unless otherwise stated, be construed as\nreferring to such agreement, instrument or other document as from time to time amended, supplemented or otherwise modified (subject to any restrictions\non such amendments, supplements or modifications set forth therein, including in section 11.16 above). the word “including” and words of similar import"
+    },
+    {
+        "chunk_id": 147,
+        "text": "when used in this agreement shall mean “including, without limitation,” unless the context otherwise requires or unless otherwise specified. the word\n“or” shall not be exclusive. the word “extent” in the phrase “to the extent” shall mean the degree to which a subject or other thing extends, and such\nphrase shall not mean simply “if.” all references to “” or dollar amounts are to the lawful currency of the united states of america. in the event that an"
+    },
+    {
+        "chunk_id": 148,
+        "text": "ambiguity or question of intent or interpretation arises, this agreement shall be construed as if drafted jointly by the parties, and no presumption or\nburden of proof shall arise favoring or disfavoring either party by virtue of the authorship of any provisions hereof.\n[signature pages follow]"
+    },
+    {
+        "chunk_id": 149,
+        "text": "source: cerence inc., 8-k, 10/2/2019\nin witness whereof, the parties have caused this intellectual property agreement to be executed by their duly authorized representatives.\nnuance communications, inc.\nby: /s/ wendy cassity\nname: wendy cassity\ntitle:\nexecutive vice president and chief legal officer\ncerence inc.\nby: /s/ leanne fitzgerald\nname: leanne fitzgerald\ntitle:\nvice president and secretary\n[signature page to the intellectual property agreement]\nsource: cerence inc., 8-k, 10/2/2019"
+    }
+]

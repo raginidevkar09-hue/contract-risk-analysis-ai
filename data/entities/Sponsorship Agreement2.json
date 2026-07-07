@@ -1,0 +1,272 @@
+[
+    {
+        "text": "this 1st day of april, 2018",
+        "label": "DATE",
+        "start": 73,
+        "end": 100
+    },
+    {
+        "text": "1135",
+        "label": "DATE",
+        "start": 217,
+        "end": 221
+    },
+    {
+        "text": "makawao avenue",
+        "label": "FAC",
+        "start": 222,
+        "end": 236
+    },
+    {
+        "text": "103",
+        "label": "CARDINAL",
+        "start": 244,
+        "end": 247
+    },
+    {
+        "text": "makawao",
+        "label": "GPE",
+        "start": 253,
+        "end": 260
+    },
+    {
+        "text": "hawaii",
+        "label": "GPE",
+        "start": 262,
+        "end": 268
+    },
+    {
+        "text": "96768",
+        "label": "DATE",
+        "start": 270,
+        "end": 275
+    },
+    {
+        "text": "250,000.00",
+        "label": "CARDINAL",
+        "start": 560,
+        "end": 570
+    },
+    {
+        "text": "4 10x10",
+        "label": "DATE",
+        "start": 779,
+        "end": 786
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 810,
+        "end": 812
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 834,
+        "end": 836
+    },
+    {
+        "text": "ga",
+        "label": "ORG",
+        "start": 837,
+        "end": 839
+    },
+    {
+        "text": "both days",
+        "label": "DATE",
+        "start": 852,
+        "end": 861
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 863,
+        "end": 864
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 951,
+        "end": 953
+    },
+    {
+        "text": "april 1, 2018",
+        "label": "DATE",
+        "start": 1454,
+        "end": 1467
+    },
+    {
+        "text": "april 30, 2018",
+        "label": "DATE",
+        "start": 1487,
+        "end": 1501
+    },
+    {
+        "text": "11:59pm",
+        "label": "DATE",
+        "start": 1505,
+        "end": 1512
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 1785,
+        "end": 1788
+    },
+    {
+        "text": "4/6/2018",
+        "label": "DATE",
+        "start": 1790,
+        "end": 1798
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 4173,
+        "end": 4178
+    },
+    {
+        "text": "one million dollars",
+        "label": "MONEY",
+        "start": 4788,
+        "end": 4807
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 5616,
+        "end": 5623
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 5985,
+        "end": 5988
+    },
+    {
+        "text": "4/6/2018",
+        "label": "DATE",
+        "start": 5990,
+        "end": 5998
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 6110,
+        "end": 6117
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 7075,
+        "end": 7084
+    },
+    {
+        "text": "16115",
+        "label": "DATE",
+        "start": 7190,
+        "end": 7195
+    },
+    {
+        "text": "117th",
+        "label": "ORDINAL",
+        "start": 7199,
+        "end": 7204
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 7216,
+        "end": 7218
+    },
+    {
+        "text": "miami",
+        "label": "GPE",
+        "start": 7221,
+        "end": 7226
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 7228,
+        "end": 7235
+    },
+    {
+        "text": "33177",
+        "label": "DATE",
+        "start": 7236,
+        "end": 7241
+    },
+    {
+        "text": "1135",
+        "label": "DATE",
+        "start": 7288,
+        "end": 7292
+    },
+    {
+        "text": "makawao avenue",
+        "label": "FAC",
+        "start": 7293,
+        "end": 7307
+    },
+    {
+        "text": "103",
+        "label": "CARDINAL",
+        "start": 7315,
+        "end": 7318
+    },
+    {
+        "text": "makawao",
+        "label": "GPE",
+        "start": 7323,
+        "end": 7330
+    },
+    {
+        "text": "hawaii 96768",
+        "label": "GPE",
+        "start": 7332,
+        "end": 7344
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 7682,
+        "end": 7687
+    },
+    {
+        "text": "jeffery taylor",
+        "label": "PERSON",
+        "start": 7752,
+        "end": 7766
+    },
+    {
+        "text": "jeffery taylor",
+        "label": "PERSON",
+        "start": 7773,
+        "end": 7787
+    },
+    {
+        "text": "4/01/2018",
+        "label": "DATE",
+        "start": 7805,
+        "end": 7814
+    },
+    {
+        "text": "4/01/2018",
+        "label": "DATE",
+        "start": 7935,
+        "end": 7944
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 7983,
+        "end": 7986
+    },
+    {
+        "text": "4/6/2018",
+        "label": "DATE",
+        "start": 7988,
+        "end": 7996
+    }
+]

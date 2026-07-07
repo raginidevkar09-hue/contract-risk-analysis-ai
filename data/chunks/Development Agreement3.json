@@ -1,0 +1,646 @@
+[
+    {
+        "chunk_id": 1,
+        "text": "execution version\ncertain identified information has been excluded from the exhibit because it is both (i) not material and (ii) would likely cause\ncompetitive harm to the company, if publicly disclosed. double asterisks denote omissions.\ndevelopment agreement\nthis development agreement (“this agreement”) is entered into and effective as of september 30, 2019 (“effective\ndate”) by and between howmedica osteonics corp., a new jersey corporation, also known as stryker orthopaedics"
+    },
+    {
+        "chunk_id": 2,
+        "text": "(“stryker”), and conformis, inc., a delaware corporation having a principal place of business located at 600 technology park\ndrive, billerica, ma 01821 (“conformis”). stryker and conformis are collectively referred to herein as the “parties” and\nindividually as a “party.”\nwhereas, the parties are concurrently entering into an asset purchase agreement for stryker’s purchase of certain"
+    },
+    {
+        "chunk_id": 3,
+        "text": "conformis assets concerning patient-specific instrumentation (“asset purchase agreement”), and a license agreement, a\ndistribution agreement and a quality agreement, as defined in and attached to the asset purchase agreement (collectively, such\nagreements are referred to herein as the “other agreements”).\nwhereas, stryker and its affiliates have developed and commercialized an off-the-shelf knee implant offered under\nthe trademark triathlon."
+    },
+    {
+        "chunk_id": 4,
+        "text": "the trademark triathlon.\nwhereas, conformis currently offers patient-specific instrumentation for use with its patient-specific implants,\nincluding partial and total knee and hip arthroplasty.\nwhereas, stryker desires that conformis develop, in accordance with the r&d program, certain patient-specific\ninstrumentation to be used with the current version of the off-the-shelf knee implant offered under the trademark triathlon (such"
+    },
+    {
+        "chunk_id": 5,
+        "text": "patient-specific instrumentation as so developed, the “kib product”).\ntherefore, in consideration of the mutual representations, warranties and covenants herein and in the other\nagreements constituting good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties\nhereby agree as follows:\narticle i\ndefinitions\n1.1 definitions. for purposes of this agreement, the following terms shall have the following meanings, and to the extent"
+    },
+    {
+        "chunk_id": 6,
+        "text": "not defined in this section or otherwise in this agreement, a term shall have the meaning ascribed to it in any of the other\nagreements:\nsource: conformis inc, 10-q, 11/1/2019\n“acceptance” and “accept” have the meaning set forth in article 3.4 of this agreement.\n“acceptance criteria” has the meaning set forth in the r&d work plan.\n“acceptance notification period” has the meaning set forth in article 3.3 of this agreement.\n\"affiliate\" has the meaning set forth in the asset purchase agreement."
+    },
+    {
+        "chunk_id": 7,
+        "text": "\"affiliate\" has the meaning set forth in the asset purchase agreement.\n\"agents\" means third parties who are acting under the direction or control of a party.\n\"applicable laws\" means all applicable federal, state, local and foreign laws, ordinances, rules, regulations, orders,\nwrits, injunctions and decrees of any kind.\n“asset purchase agreement” has the meaning set forth in the recitals.\n“change of control” has the meaning set forth in the asset purchase agreement."
+    },
+    {
+        "chunk_id": 8,
+        "text": "“change of control” has the meaning set forth in the asset purchase agreement.\n\"claims\" has the meaning set forth in article 7.3(a) of this agreement.\n\"confidential information\" has the meaning set forth in the asset purchase agreement.\n\"conformis background ip\" means any invention, and all intellectual property rights underlying such invention, that is,\nas of the effective date, owned or licensable by conformis without causing a breach of, or incurring any obligation to, a third"
+    },
+    {
+        "chunk_id": 9,
+        "text": "party, in each case to the extent necessary or reasonably useful to design, develop, manufacture, sell or otherwise exploit the kib\nproduct, and for the avoidance of doubt, excluding the purchased assets, conformis foreground ip, stryker background ip,\nimproved stryker background ip and improved conformis background ip."
+    },
+    {
+        "chunk_id": 10,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n“conformis foreground ip” means any invention first developed by conformis after the closing date other than in the\nperformance of the r&d program, and all intellectual property rights underlying such invention (for the avoidance of doubt,\nexcluding any intellectual property rights subsisting prior to the closing date or generated in the performance of the r&d"
+    },
+    {
+        "chunk_id": 11,
+        "text": "program). for the avoidance of doubt, conformis foreground ip shall not include any inventions using stryker confidential\ninformation (which shall not include the purchased assets for the purposes of the definition of conformis foreground ip) or\nstryker background ip.\n“conformis indemnified parties” has the meaning set forth in article 7.3(b) of this agreement.\n“conformis-prosecuted joint ip rights” has the meaning set forth in article 5.8 of this agreement."
+    },
+    {
+        "chunk_id": 12,
+        "text": "“conformis-prosecuted joint ip rights” has the meaning set forth in article 5.8 of this agreement.\n“court” has the meaning set forth in the asset purchase agreement.\n“deliverables” has the meaning set forth under the r&d work plan.\n“disclosing party” has the meaning set forth in the asset purchase agreement.\n“distribution agreement” has the meaning set forth in the asset purchase agreement.\n“equipment” has the meaning set forth in article 5.6(a) of this agreement."
+    },
+    {
+        "chunk_id": 13,
+        "text": "“equipment” has the meaning set forth in article 5.6(a) of this agreement.\n“failure notice” has the meaning set forth in article 3.4 of this agreement.\n“finally rejects” has the meaning set forth in article 3.4 of this agreement.\n“force majeure event” has the meaning set forth in article 10.4(a) of this agreement."
+    },
+    {
+        "chunk_id": 14,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n“improved conformis background ip” means any invention to the extent first arising in the performance of the r&d\nprogram, whether or not embodied in the kib product, that constitutes an improvement to conformis background ip, conformis\nconfidential information (which shall not include any confidential information owned or commonly owned by stryker) or the"
+    },
+    {
+        "chunk_id": 15,
+        "text": "purchased assets, and all intellectual property rights underlying such invention (but expressly excluding all transferred ip,\nconformis foreground ip, conformis background ip and stryker background ip, and, for the avoidance of doubt, excluding all\nintellectual property rights subsisting prior to the closing date).\n“improved stryker background ip” means any invention to the extent first arising in the performance of the r&d"
+    },
+    {
+        "chunk_id": 16,
+        "text": "program, whether or not embodied in the kib product, that constitutes an improvement to stryker background ip or any stryker\nconfidential information (which shall not include the purchased assets for the purposes of this definition), and all intellectual\nproperty rights underlying such invention (but expressly excluding all transferred ip, conformis foreground ip, conformis"
+    },
+    {
+        "chunk_id": 17,
+        "text": "background ip and stryker background ip, and, for the avoidance of doubt, excluding all intellectual property rights subsisting\nprior to the closing date).\n“insolvency event” means, with respect to any party, the occurrence of any one of the following events:\n(i) an involuntary proceeding is commenced against such party under any applicable united states bankruptcy, insolvency,"
+    },
+    {
+        "chunk_id": 18,
+        "text": "reorganization or other similar united states or foreign law now or hereafter in effect, or a proceeding is commenced seeking\nappointment of a receiver, liquidator, assignee, custodian, trustee, sequestrator (or other similar official) for such party or for all or\nany substantial part of its property and such proceeding shall not be dismissed within [] or an order for relief by a court of\ncompetent jurisdiction shall be entered in any such proceeding; or"
+    },
+    {
+        "chunk_id": 19,
+        "text": "competent jurisdiction shall be entered in any such proceeding; or\n(ii) such party shall commence a voluntary proceeding under any applicable united states or foreign bankruptcy, insolvency,\nreorganization or other similar law now or hereafter in effect, or shall consent to the entry of an order for relief in an involuntary\ncase under any such law, or shall consent to the appointment of or taking possession by a receiver, liquidator,"
+    },
+    {
+        "chunk_id": 20,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nassignee, custodian, trustee, sequestrator (or other similar official) of such party or of all or any substantial part of its property, or\nshall make an assignment for the benefit of creditors.\n\"intellectual property\" has the meaning set forth in the asset purchase agreement.\n\"invention\" means any idea, invention, discovery, know-how, data, work of authorship, information, improvement,"
+    },
+    {
+        "chunk_id": 21,
+        "text": "technology, process, concept or material, whether or not patentable, copyrightable or protectable as a trade secret, and whether\nor not reduced to practice or memorialized in writing.\n\"joint ci\" has the meaning set forth in the asset purchase agreement.\n“joint ip” has the meaning set forth in article 5.1(c) of this agreement.\n“joint ip rights” has the meaning set forth in article 5.8 of this agreement.\n“kib product” has the meaning set forth in the recitals."
+    },
+    {
+        "chunk_id": 22,
+        "text": "“kib product” has the meaning set forth in the recitals.\n“kib product ip” means any invention first arising in the performance of the r&d program, whether or not embodied in\nthe kib product, and all intellectual property rights underlying such invention (but expressly excluding all transferred ip,\nconformis background ip, stryker background ip, improved conformis background ip and improved stryker background ip,"
+    },
+    {
+        "chunk_id": 23,
+        "text": "and, for the avoidance of doubt, excluding all intellectual property rights subsisting prior to the closing date).\n“license agreement” has the meaning set forth in the asset purchase agreement.\n“off-the-shelf implant” has the meaning set forth in the asset purchase agreement."
+    },
+    {
+        "chunk_id": 24,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n“off-the-shelf knee implant” has the meaning set forth in the asset purchase agreement.\n“other agreements” has the meaning set forth in the recitals.\n“patents” has the meaning set forth in the asset purchase agreement.\n“patient-specific implants” has the meaning set forth in the asset purchase agreement.\n“patient-specific instrumentation” has the meaning set forth in the asset purchase agreement."
+    },
+    {
+        "chunk_id": 25,
+        "text": "“patient-specific instrumentation” has the meaning set forth in the asset purchase agreement.\n\"person\" has the meaning set forth in the asset purchase agreement.\n“prior cda” has the meaning set forth in the asset purchase agreement.\n“purchased assets” has the meaning set forth in the asset purchase agreement.\n“receiving party” has the meaning set forth in the asset purchase agreement.\n“redelivery period” has the meaning set forth in article 3.4 of this agreement."
+    },
+    {
+        "chunk_id": 26,
+        "text": "“redelivery period” has the meaning set forth in article 3.4 of this agreement.\n\"r&d program\" means work performed in the development of the kib product under this agreement pursuant to the\nr&d work plan.\n\"r&d work plan\" means the research and development plan set forth in exhibit 1.\n“relevant indemnified parties” means (a) if stryker is the indemnified party, the stryker indemnified parties and (b) if\nconformis is the indemnified party, the conformis indemnified parties."
+    },
+    {
+        "chunk_id": 27,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n“representatives” has the meaning set forth in the asset purchase agreement.\n\"stryker background ip\" means any invention, and all intellectual property rights underlying such invention, that is, as\nof the effective date owned or licensable by stryker without causing a breach of, or incurring any obligation to, a third party, in\neach case to the extent each such invention is (a) necessary or reasonably useful to design, develop, manufacture, sell and"
+    },
+    {
+        "chunk_id": 28,
+        "text": "otherwise exploit the kib product and (b) provided to conformis by or on behalf of stryker in connection with conformis’\nactivities under this agreement, and, for the avoidance of doubt, excluding the transferred ip, conformis background ip,\nimproved conformis background ip and improved stryker background ip.\n“stryker indemnified parties” has the meaning set forth in article 7.3(a) of this agreement."
+    },
+    {
+        "chunk_id": 29,
+        "text": "“stryker indemnified parties” has the meaning set forth in article 7.3(a) of this agreement.\n“stryker-prosecuted joint ip rights” has the meaning set forth in article 5.8 of this agreement.\n\"termination notice\" means a written notice delivered by one party to the other party of its election to terminate this\nagreement pursuant to article viii.\n\"third party\" has the meaning set forth in the asset purchase agreement.\n“trademarks” has the meaning set forth in the asset purchase agreement."
+    },
+    {
+        "chunk_id": 30,
+        "text": "“trademarks” has the meaning set forth in the asset purchase agreement.\n“transferred ip” has the meaning set forth in the asset purchase agreement.\n“triathlon” has the meaning set forth in the asset purchase agreement.\n\"wire instructions\" has the meaning set forth in the asset purchase agreement."
+    },
+    {
+        "chunk_id": 31,
+        "text": "source: conformis inc, 10-q, 11/1/2019\narticle ii\nresearch and development program\n2.1 r&d work plan. the parties agree to conduct the r&d program pursuant to the r&d work plan and to perform\ntheir respective obligations therein. to the extent conformis’ performance under the r&d program is delayed due to stryker’s\ndelay in performing any of its obligations in accordance with the timelines in the r&d work plan, the applicable timelines shall be"
+    },
+    {
+        "chunk_id": 32,
+        "text": "deemed extended by a period of time corresponding to the length of such portion of the delay attributable to stryker, on a day-by-\nday basis. the r&d work plan may be amended by mutual written agreement of the parties from time to time.\n2.2 agents or third parties. to the extent working with agents or other third parties is permitted under the r&d work\nplan, should a party wish to engage an agent or any other third party in connection with the r&d work plan or any other work"
+    },
+    {
+        "chunk_id": 33,
+        "text": "under this agreement, such party must obtain in advance a written agreement by such agent or other third party (i) to assign to\nthe party all inventions conceived, created or generated by the agent or other third party, and (ii) to maintain all confidential\ninformation in confidence as set forth in section 5.2.\narticle iii\ndeliverables and completion\n3.1 deliverables. subject to the remedies set forth in section 3.4, conformis shall furnish stryker with the deliverables"
+    },
+    {
+        "chunk_id": 34,
+        "text": "as defined in the r&d work plan, and stryker shall have the opportunity to analyze and test each deliverable for the purposes of\ndetermining acceptance as set forth in the r&d work plan. each deliverable shall be deemed to be completed once such\ndeliverable has been accepted (as defined below).\n3.2 free from infringement. without the consent of stryker, conformis shall not introduce any structure or"
+    },
+    {
+        "chunk_id": 35,
+        "text": "methodology in the deliverables (including a deliverable within a product or a stryker product) that (1) raise a colorable\nargument of patent infringement in the manufacture, use, sale, offer for sale or importation of the deliverable as such deliverable"
+    },
+    {
+        "chunk_id": 36,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nis intended to be exploited under the other agreements, (2) misappropriate any confidential information of any third party, or\n(3) otherwise violate any intellectual property rights of any third party. for clarity, disclosure of a matter on the disclosure\nschedules to the asset purchase agreement shall not be deemed consent by stryker under this section 3.2."
+    },
+    {
+        "chunk_id": 37,
+        "text": "3.3 completion. after a deliverable has been furnished to stryker, stryker (or its agent designee) will be entitled to\nanalyze and test the deliverable to determine if it operates in accordance with and otherwise conforms to the applicable\nacceptance criteria set forth in r&d work plan. conformis shall provide such assistance as stryker may reasonably request in\nsuch determination. stryker shall have [] (“acceptance notification period”) following the date the deliverable is received by"
+    },
+    {
+        "chunk_id": 38,
+        "text": "stryker to accept or reject the deliverable as described in section 3.4.\n3.4 acceptance or rejection. respecting any deliverable for milestone 1 or milestone 2, as set forth below, if\nstryker determines that a deliverable operates in accordance with and otherwise conforms to the applicable acceptance criteria\npursuant to the r&d work plan, then stryker will notify conformis in writing that stryker accepts such deliverable. if stryker"
+    },
+    {
+        "chunk_id": 39,
+        "text": "reasonably determines that a deliverable does not operate in accordance with or otherwise conform to the applicable acceptance\ncriteria, then stryker will provide conformis with a written notice of rejection within the acceptance notification period\ndescribing the defect in view of the relevant acceptance criteria and including sufficient detail with respect to such stryker testing"
+    },
+    {
+        "chunk_id": 40,
+        "text": "and testing results as conformis reasonably requests (“failure notice”). conformis shall have [] (or such longer period of time\nas may be agreed between the parties in good faith should the scope and complexity of the applicable deliverable warrant some\nlonger period of time) (“redelivery period”) following the date it receives the failure notice to correct and redeliver the"
+    },
+    {
+        "chunk_id": 41,
+        "text": "deliverable. if conformis timely delivers a corrected version of the deliverable within the redelivery period, then stryker will be"
+    },
+    {
+        "chunk_id": 42,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nentitled to repeat its acceptance analysis and testing process for the purposes of determining acceptance as set forth in the r&d\nwork plan until such deliverable operates in accordance with or otherwise conforms to the applicable acceptance criteria;\nprovided, however, that if stryker properly rejects a particular deliverable three (3) or more times in accordance with this article"
+    },
+    {
+        "chunk_id": 43,
+        "text": "iii, or if conformis fails to deliver a version or corrected version, as the case may be, of the deliverable within any respective []\nperiod, stryker may, terminate this agreement in accordance with section 8.2(c) (in the event of such three (3) rejections, stryker\n“finally rejects” the deliverable). such termination, together with the provisions of section 5.2 of the license agreement,"
+    },
+    {
+        "chunk_id": 44,
+        "text": "constitutes as stryker’s sole remedy and conformis’ exclusive liability in the event of any such rejection or failure by conformis to\ndeliver materially conforming deliverables hereunder so long as such rejection or failure does not arise from conformis’ fraud,\nwillful misconduct, gross negligence or bad faith. stryker shall be deemed to have accepted a deliverable timely furnished to it"
+    },
+    {
+        "chunk_id": 45,
+        "text": "unless (a) the deliverable fails to operate in accordance with and otherwise conform the applicable acceptance criteria, and (b)\nstryker provides conformis a written failure notice within the acceptance notification period in accordance with this section\n3.4 (any acceptance or deemed acceptance, described in this section 3.4, “acceptance” or “accept”). acceptance of a\ndeliverable shall not constitute a waiver of any rights stryker may have based on conformis’ warranties set forth in this"
+    },
+    {
+        "chunk_id": 46,
+        "text": "agreement.\n3.5 payment for milestones. stryker shall pay to conformis the following milestone payments for the development\nwork to be conducted hereunder if and when the following milestones are met, as follows:\n(a) milestone 1 - within thirty (30) days following the date on which stryker receives the first prototype of the patient-\nspecific instrumentation delivered to it by conformis in accordance with the r&d work plan, stryker shall pay to conformis a"
+    },
+    {
+        "chunk_id": 47,
+        "text": "total of two million u.s. dollars (2,000,000); and"
+    },
+    {
+        "chunk_id": 48,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n(b) milestone 2 - within thirty (30) days following the date on which there is a design freeze of the patient-specific\ninstrumentation for the kib product in accordance with the r&d work plan, stryker shall pay to conformis a total of three\nmillion u.s dollars (3,000,000).\n3.6 payment. stryker shall make all payments to conformis required herein by wire transfer in accordance with the wire"
+    },
+    {
+        "chunk_id": 49,
+        "text": "instructions. such payments are non-refundable and non-creditable except as set forth in the other agreements.\narticle iv\nrestrictive covenant\n4.1 exclusivity. except as specifically provided in the distribution agreement, conformis shall be prohibited from\ndeveloping or assisting another in developing, or causing another to develop, patient-specific instrumentation for off-the-shelf"
+    },
+    {
+        "chunk_id": 50,
+        "text": "knee implants for any third party in the field of orthopedics until january 1, 2032 (or earlier, to the extent set forth in section\n2.3.3.4 or section 2.3.5 of the distribution agreement), with the exception that conformis (including any entity involved in a\nchange of control of conformis, any such entity an “acquirer”), may develop patient-specific instrumentation for any off-the-"
+    },
+    {
+        "chunk_id": 51,
+        "text": "shelf implants of conformis, an acquirer or any of their affiliates. for purposes of clarity, the foregoing does not prevent\nconformis from granting any license, release, covenant not to sue or other immunity to any third party under any patents, including\nany such immunity that would authorize manufacture, use or sale of patient-specific instrumentation for off-the-shelf knee\nimplants outside the buyer field.\narticle v\nintellectual property\n5.1 inventions."
+    },
+    {
+        "chunk_id": 52,
+        "text": "implants outside the buyer field.\narticle v\nintellectual property\n5.1 inventions.\n(a) inventorship of all inventions developed by either party, or both parties, in the performance of the r&d program, shall\nbe determined in accordance with the inventorship laws of the united states, even to the extent such invention is not pursued in\npatent applications.\n(b) all right, title and interest in and to the improved stryker background ip will vest solely in stryker. conformis agrees"
+    },
+    {
+        "chunk_id": 53,
+        "text": "to assign and hereby assigns to stryker all right, title and interest in and to all improved stryker background ip in which ownership\nin same has vested in"
+    },
+    {
+        "chunk_id": 54,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nconformis by operation of law or by assignment by its employees or consultants; and to facilitate such assignment to stryker,\nconformis agrees (i) to regularly ensure that its employees and consultants timely make any appropriate assignments to it of that\nwhich constitutes improved stryker background ip, and (ii) at stryker’s reasonable request, to execute and have its employees"
+    },
+    {
+        "chunk_id": 55,
+        "text": "and consultants execute, as necessary, all assignments and any other documentation necessary to perfect title in stryker of such\nimproved stryker background ip.\n(c) all right, title and interest in and to the improved conformis background ip and kib product ip (“joint ip”) shall be\nowned jointly by the parties. subject to the limitations set forth in this agreement, the joint ip may be used freely by either party or"
+    },
+    {
+        "chunk_id": 56,
+        "text": "its affiliates and licensed to third parties by conformis and its affiliates, on the one hand, outside of the buyer field or by stryker\nand its affiliates, on the other hand, within the buyer field, in each case, without the consent of, or duty to account to or notify, the\nother party, but, except with respect to external licenses of the improved conformis background ip by conformis or its affiliates"
+    },
+    {
+        "chunk_id": 57,
+        "text": "to third parties, any external third party license shall be governed in accordance with the last sentence of section 4.3(c) of the\napa. each party to whom ownership is to vest in joint ip by operation of law or by assignment by its employees or agents agrees\nto assign and hereby assigns to the other party an undivided one-half right, title and interest in and to all joint ip; and to facilitate"
+    },
+    {
+        "chunk_id": 58,
+        "text": "such assignment, the party possessing such ownership agrees (i) to regularly ensure that its employees and consultants timely make\nany appropriate assignments to it; and (ii) at the other party’s reasonable request, to execute and have its employees and\nconsultants execute, as necessary, all assignments and any other documentation to perfect the undivided one-half right, title and\ninterest in and to the other party of such joint ip."
+    },
+    {
+        "chunk_id": 59,
+        "text": "interest in and to the other party of such joint ip.\n(d) notwithstanding anything to the contrary, the foregoing does not constitute either (1) the grant by conformis to stryker\nof any license or immunity of any kind with respect to the conformis background ip or conformis foreground ip, regardless of\nthe extent to which the joint ip constitutes improvements to the conformis background ip or conformis foreground ip, (2) the"
+    },
+    {
+        "chunk_id": 60,
+        "text": "grant by stryker to conformis of any license or immunity of any kind with respect to the stryker background ip, or (3) the grant\nby either party of any license or immunity of any kind under any intellectual property rights owned by such party, regardless of\nwhether the exploitation of the joint ip would infringe such intellectual property rights. neither party shall assign a partial interest in"
+    },
+    {
+        "chunk_id": 61,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nthe joint ip or joint ip rights to any affiliate or third party (i.e., neither party shall create any additional joint owners of the joint\nip), but each party may assign all of its right, title and interest in and to the joint ip and joint ip rights to an affiliate or third party\npursuant to and in accordance with section 10.2.\n(e) conformis shall promptly disclose to stryker all (i) improved stryker background ip, and (ii) joint ip. stryker shall"
+    },
+    {
+        "chunk_id": 62,
+        "text": "promptly disclose to conformis all joint ip.\n(f) to the extent required and for the avoidance of doubt, stryker hereby grants conformis, and conformis hereby\naccepts, a non-exclusive license to the stryker background ip and improved stryker background ip solely for purposes of\nperforming any obligations under this agreement and the distribution agreement.\n5.2 confidential information. the provisions of sections 4.3(a)-(i) of article 4 of the apa are incorporated herein as if"
+    },
+    {
+        "chunk_id": 63,
+        "text": "fully set forth herein.\n5.3 maintenance of records. each party shall prepare and maintain complete and accurate records concerning all\ninventions for the purpose of documenting any possible intellectual property rights arising under this agreement.\n5.4 no other rights.\n(a) conformis acknowledges and agrees that, as between the parties, stryker owns all right, title and interest, including all"
+    },
+    {
+        "chunk_id": 64,
+        "text": "intellectual property rights, within the stryker background ip and stryker’s confidential information, including any stryker\nconfidential information underlying the joint ip, and that, under this agreement, except as expressly set forth herein, conformis\nshall acquire no right, title, or interest in or to any of the foregoing, or any other intellectual property rights that are owned or\ncontrolled by stryker, by implication, estoppel or otherwise."
+    },
+    {
+        "chunk_id": 65,
+        "text": "controlled by stryker, by implication, estoppel or otherwise.\n(b) stryker acknowledges and agrees that, as between the parties, conformis owns all right, title and interest, including all\nintellectual property rights, in and to conformis background ip and conformis’ confidential information, including any conformis\nconfidential information underlying the joint ip, and that, under this agreement, stryker shall acquire no right, title, or interest in or"
+    },
+    {
+        "chunk_id": 66,
+        "text": "to any of the foregoing or any other intellectual property rights that are owned or controlled by conformis, by implication, estoppel\nor otherwise.\n5.5 employees and consultants."
+    },
+    {
+        "chunk_id": 67,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n(a) conformis shall ensure that all its employees, consultants, agents or other third parties who perform any portion of\nconformis’ r&d program obligations under this agreement have entered into written agreements with conformis whereby such\nemployee, consultant, agent or other third party assigns to conformis all ownership rights in any inventions made or developed"
+    },
+    {
+        "chunk_id": 68,
+        "text": "by such employee, consultant, agent or third party in the course of such r&d program work under this agreement.\n(b) stryker shall ensure that all its affiliates and its or their employees, consultants, agents or other third parties who perform any\nportion of stryker’s r&d program obligations under this agreement have entered into written agreements with stryker whereby\nsuch employee, consultant, agent or third party assigns to stryker all ownership rights in any inventions made or developed by"
+    },
+    {
+        "chunk_id": 69,
+        "text": "such employee, consultant, agent or third party in the course of such r&d program work under this agreement.\n5.6 tangible property.\n(a) all tooling, patterns, dies, gauges, jobs, fixtures, and all specifications, drawings, samples, designs, software, firmware,\nprograms, formulae, and other tangible items (“equipment”) furnished by stryker to conformis in connection with this"
+    },
+    {
+        "chunk_id": 70,
+        "text": "agreement: (i) shall only be used in the performance of the r&d program; (ii) shall remain the property of stryker; and (iii) shall\nbe disposed of or returned in good repair, normal wear and tear excepted, by conformis to stryker at stryker’s direction and\nexpense upon stryker’s request. conformis assumes risk of loss and damage to said items while in its possession or under its"
+    },
+    {
+        "chunk_id": 71,
+        "text": "control, subject to normal wear and tear. conformis shall notify stryker promptly whenever any items of stryker’s tangible\nproperty are in need of repair or replacement. stryker shall endeavor to mark its property as property of stryker for"
+    },
+    {
+        "chunk_id": 72,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nuse only under this agreement. conformis waives any right it may have in law or equity to withhold stryker’s property.\n(b) all equipment furnished by conformis to stryker in connection with this agreement: (i) shall only be used in the performance\nof the r&d program; (ii) shall remain the property of conformis; and (iii) shall be disposed of or returned in good repair, normal"
+    },
+    {
+        "chunk_id": 73,
+        "text": "wear and tear excepted, by stryker to conformis at conformis’ direction and expense upon conformis’ request. stryker assumes\nrisk of loss and damage to said items while in its possession or under its control, subject to normal wear and tear. stryker shall\nnotify conformis promptly whenever any items of conformis’ tangible property are in need of repair or replacement. conformis"
+    },
+    {
+        "chunk_id": 74,
+        "text": "shall endeavor to mark its property as property of conformis for use only under this agreement. stryker waives any right it may\nhave in law or equity to withhold conformis’ property.\n5.7 trademarks. nothing in this agreement shall confer to any party any rights, whether by way of ownership, license or\nright to use, in any of the trademarks of any other party. conformis shall not use the trademarks of stryker without stryker’s"
+    },
+    {
+        "chunk_id": 75,
+        "text": "prior written consent and stryker shall not use the trademarks of conformis without conformis’ prior written consent.\n5.8 prosecution of patent rights. stryker shall be solely responsible, in its sole discretion, for preparing, filing,\nprosecuting and maintaining patents arising from all improved stryker background ip. stryker shall be solely responsible for costs"
+    },
+    {
+        "chunk_id": 76,
+        "text": "and expenses of preparing, filing, prosecuting and maintaining any such patents. stryker shall have the first right to prepare, file,\nprosecute and maintain patents or copyrights arising from any joint ip that is not improved conformis background ip (“stryker-\nprosecuted joint ip rights”). conformis shall have the first right to prepare, file, prosecute and maintain patents or copyrights"
+    },
+    {
+        "chunk_id": 77,
+        "text": "arising from any improved conformis background ip (“conformis-prosecuted joint ip rights”, and together with the stryker-\nprosecuted joint ip rights, “joint ip rights”). with respect to joint ip rights, the non-prosecuting party will have the right, but\nnot the obligation, to review and comment, and have the comments reasonably considered by the prosecuting party, with regard to\nthe filing, prosecution,"
+    },
+    {
+        "chunk_id": 78,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nand maintenance of the joint ip rights. in this regard, the prosecuting party agrees to provide reasonable time for the non-\nprosecuting party to review and comment prior to any deadline associated with such patent. conformis and stryker shall be\nequally responsible for costs and expenses of preparing, filing, prosecuting and maintaining any such joint ip rights."
+    },
+    {
+        "chunk_id": 79,
+        "text": "notwithstanding the foregoing, in the event that the applicable party decides not to file at all or not to file a continuing or other\napplication to maintain the viability of the u.s part of a family of patents to which an application belongs, or decides to abandon or\ndiscontinue the prosecution or maintenance of any of the joint ip rights, such party shall notify the other party thereof, and such"
+    },
+    {
+        "chunk_id": 80,
+        "text": "other party may elect to continue the prosecution (including non-provisional application and pct entry) or maintenance of such\njoint ip rights at its sole expense and in the name(s) of both stryker and conformis. the provisions of sections 5.1(c) and 5.1(d)\nand this section 5.8 shall run with the joint ip, and each party shall ensure that any assignee of its interest in the joint ip expressly"
+    },
+    {
+        "chunk_id": 81,
+        "text": "assumes in writing such provisions. any party pursuing patent applications in accordance with this section 5.8 may disclose\nconfidential information in patent applications to the extent necessary to provide requisite support for claims therein, provided\nhowever, the non-prosecuting party will have the right, but not the obligation, to review and comment on the scope and content of"
+    },
+    {
+        "chunk_id": 82,
+        "text": "the proposed disclosure, including the proposed disclosure of confidential information, prior to submission of the first disclosure of\nsame in any such patent applications, and have the comments reasonably considered by the prosecuting party. in this regard, the\nprosecuting party agrees to provide reasonable time for the non-prosecuting party to review and comment prior to any such\nsubmission associated with such patent.\n5.9 infringement and defense."
+    },
+    {
+        "chunk_id": 83,
+        "text": "submission associated with such patent.\n5.9 infringement and defense.\n(a) each party may in its sole discretion enforce the patents or other intellectual property rights it solely owns pursuant to\nthis agreement, as well as to defend against any assertions of invalidity, unenforceability or ownership of such patents.\n(b) the parties shall confer and consult with respect to disputes with third parties respecting the infringement, validity,"
+    },
+    {
+        "chunk_id": 84,
+        "text": "enforceability or ownership of any joint ip, including the settlement thereof. such consultation shall be for the purpose of\ndetermining the best approach within such actions and neither party shall take any action to enforce or defend any joint ip without\nthe other party’s prior written consent."
+    },
+    {
+        "chunk_id": 85,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n5.10 publicity. neither party shall issue any press release or otherwise publicize this agreement or the development work\nto be conducted hereunder, except in accordance with section 4.2 of the apa.\narticle vi\nrepresentations and warranties\n6.1 representations, warranties and covenants. each party hereby represents and warrants to, and covenants with,\neach other party that:"
+    },
+    {
+        "chunk_id": 86,
+        "text": "each other party that:\n(a) due organization. good standing and power. it is a corporation duly organized, validly existing and in good standing under\nthe laws of its jurisdiction of organization and has the power and authority to own, lease and operate its assets and to conduct the\nbusiness now being conducted by it. it has all requisite corporate power and authority to enter into this agreement and to perform\nits obligations hereunder."
+    },
+    {
+        "chunk_id": 87,
+        "text": "its obligations hereunder.\n(b) authorization and validity of agreement. the execution, delivery and performance by it of this agreement and the\nconsummation by it of the transactions contemplated hereby have been duly authorized and approved by all necessary corporate\nor equivalent action on its part. this agreement has been duly executed and delivered by it and constitutes its legal, valid and"
+    },
+    {
+        "chunk_id": 88,
+        "text": "binding obligation, enforceable against it in accordance with its terms, except as the same may be limited by applicable\nbankruptcy, insolvency, reorganization, moratorium or other applicable laws relating to or affecting creditors’ rights generally and\nby general equity principles.\n(c) absence of conflicts. the execution, delivery and performance by it of this agreement and the consummation by it of the\ntransactions contemplated hereby do not and will not:"
+    },
+    {
+        "chunk_id": 89,
+        "text": "transactions contemplated hereby do not and will not:\n(i) violate any applicable laws, regulations, orders, writs, injunctions or decrees of any governmental, judicial, legislative,\nexecutive, administrative or regulatory"
+    },
+    {
+        "chunk_id": 90,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nauthority of the united states or any foreign country or of any state or local governmental authority;\n(ii) conflict with, or result in the breach of any provision of, its certificate or articles of incorporation, bylaws or equivalent\norganizational documents;\n(iii) result in the creation of any lien or encumbrance of any nature upon any property being transferred or licensed by it\npursuant to this agreement; or"
+    },
+    {
+        "chunk_id": 91,
+        "text": "pursuant to this agreement; or\n(iv) violate, conflict with, result in the breach or termination of or constitute a default under (or event which with notice, lapse of\ntime or both would constitute a default under), any permit, contract or agreement to which it is a party or by which any of its\nproperties or businesses are bound.\n(d) consents. no authorization, consent or approval of, or notice to or filing with, any governmental authority is required for the"
+    },
+    {
+        "chunk_id": 92,
+        "text": "execution, delivery and performance by it of this agreement, other than those associated with obtaining required regulatory\napprovals as contemplated hereby.\n(e) employee and consultant obligations. each of its employees, consultants and agents who will engage in activities on behalf of\na party under the r&d work plan, or who will have access to confidential information, is contractually obligated, or will be"
+    },
+    {
+        "chunk_id": 93,
+        "text": "contractually obligated prior to his/her participation or access, to (i) assign to the party all intellectual property rights conceived,\nmade or discovered by such employee or agent, whether solely or in collaboration with others, in connection with such\nemployee’s, consultant’s or agent’s work for the party, and (ii) maintain the confidentiality of the confidential information. to the"
+    },
+    {
+        "chunk_id": 94,
+        "text": "extent applicable, it is the intent of the parties that ownership of all developments under this agreement shall vest in the respective\nparty by operation of law or by assignment prior to assignment to the other party pursuant to article v."
+    },
+    {
+        "chunk_id": 95,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n(f) debarment. no employee, consultant or agent who will engage in activities on behalf of such party under the r&d\nwork plan, or who will have access to confidential information of the other party, has been the subject of a debarment proceeding\nunder 21 u.s.c. § 335a, and has been excluded from participation in any federal or state or other government health care\nprogram.\n6.2 except as expressly provided elsewhere in this agreement, including the"
+    },
+    {
+        "chunk_id": 96,
+        "text": "program.\n6.2 except as expressly provided elsewhere in this agreement, including the\nrequirements in the r&d work plan, conformis makes no warranty with respect to the\nservices or deliverables furnished hereunder, and no warranties of any kind, whether\nwritten, oral, implied or statutory, including warranties of merchantability, non-\ninfringement or fitness for a particular purpose, shall apply.\narticle vii\nlimitation on liability and indemnification"
+    },
+    {
+        "chunk_id": 97,
+        "text": "article vii\nlimitation on liability and indemnification\n7.1 responsibility and control. each party shall be solely responsible for the safety of its own employees, agents and\nsubcontractors with respect to their activities related to this agreement.\n7.2 limitation of liability. except for [], in no event will either party be liable to the\nother party for [], even if such party was advised or aware of the possibility of such"
+    },
+    {
+        "chunk_id": 98,
+        "text": "other party for [], even if such party was advised or aware of the possibility of such\ndamages. conformis’ liability on a per occurrence basis under section 7.3(a)(iv) shall not\nexceed the greater of (i) [] and (ii) the amount of insurance coverage actually paid to\nconformis under then-current insurance policies of conformis in respect of such\ndamages. for the purposes of this section 7.2, “per occurrence” means the occurrence of any claim or series of claims"
+    },
+    {
+        "chunk_id": 99,
+        "text": "directly arising out of or resulting from the same act, omission or event.\n7.3 mutual indemnification.\n(a) indemnification by conformis. conformis shall indemnify and hold harmless stryker, its directors, officers, employees, agents\nand affiliates and"
+    },
+    {
+        "chunk_id": 100,
+        "text": "source: conformis inc, 10-q, 11/1/2019\ntheir respective successors, heirs and assigns (collectively the “stryker indemnified parties”) against any and all claims, suits,\nactions, and demands, wherever brought and however denominated, brought by a third party (all of the foregoing being referred\nto herein as “claims”) against the stryker indemnified party including all damages, collateral damages and settlements arising"
+    },
+    {
+        "chunk_id": 101,
+        "text": "therefrom and reasonable outside attorneys’ fees and litigation expenses related thereto, to the extent arising from or related to (i)\nany breach of conformis’ representations, warranties or obligations under this agreement, (ii) any alleged violation of any\napplicable laws by conformis, (iii) the negligence (excluding any product liability claim), gross negligence or intentionally"
+    },
+    {
+        "chunk_id": 102,
+        "text": "wrongful acts or omissions of conformis, its employees, consultants, agents and affiliates in their performance hereunder, and (iv)\nany portion of a claim alleging personal injury on account of product liability attributable to a deliverable (including a deliverable\nwithin a product or a stryker product). conformis shall have no obligation or liability with respect to any claim under section"
+    },
+    {
+        "chunk_id": 103,
+        "text": "7.3(a)(iii) or section 7.3(a)(iv) to the extent directly arising out of or relating to: (1) any use of the products in any manner not in\naccordance with applicable documentation (e.g., instructions for use, package inserts, labels, surgical guides and other materials\nprovided by or approved by conformis) that is not a result of conformis’ conduct; (2) damage to the products occurring after"
+    },
+    {
+        "chunk_id": 104,
+        "text": "shipment that is not a result of conformis’ conduct; or (3) any modifications to the products that are not contemplated by the\ninstructions for use thereto by any person other than supplier and that is not a result of conformis’ conduct. notwithstanding\nanything to the contrary, stryker’s sole remedy and conformis’ exclusive liability for breach of section 3.2 with respect to a\nproduct or a stryker product shall be as set forth in section 10.1(i) of the distribution agreement."
+    },
+    {
+        "chunk_id": 105,
+        "text": "(b) indemnification by stryker. stryker shall indemnify and hold harmless conformis, its directors, officers, employees, agents\nand"
+    },
+    {
+        "chunk_id": 106,
+        "text": "source: conformis inc, 10-q, 11/1/2019\naffiliates and their respective successors, heirs and assigns (collectively the “conformis indemnified parties”) against any and\nall claims against the conformis indemnified parties to the extent arising from or related to (i) any breach of stryker’s\nrepresentations or warranties under this agreement, (ii) any alleged violation of any applicable laws by stryker, and (iii) the"
+    },
+    {
+        "chunk_id": 107,
+        "text": "grossly negligent or intentionally wrongful acts or omissions of stryker, its employees, consultants, agents and affiliates in their\nperformance hereunder.\n(c) joint liability. to the extent that stryker, on the one hand, and conformis, on the other hand, each has indemnification\nobligations to the other in connection with a single claim, they will contribute to the aggregate damages, liabilities, costs and"
+    },
+    {
+        "chunk_id": 108,
+        "text": "expenses arising from such claim in a proportion reflecting the relative and comparative responsibilities and determined liability of\nthe parties for such damages, liabilities, costs and expenses, as well as any other relevant equitable considerations. the amount\npaid or payable by a party for purposes: of apportioning the aggregate damages, liabilities, costs and expenses shall be deemed to"
+    },
+    {
+        "chunk_id": 109,
+        "text": "include all reasonable legal fees and expenses incurred by such party in connection with investigating, preparing for or defending\nagainst such claim.\n(d) indemnification procedures. claims for indemnification under this agreement shall be governed by the indemnification\nprocedures set forth in section 5.5 of the asset purchase agreement.\n(e) settlement. if the indemnifying party assumes the defense of a claim, no compromise or settlement of such claims may be"
+    },
+    {
+        "chunk_id": 110,
+        "text": "effected by the indemnifying party without the indemnified party consent unless: (a) there is no finding or admission of any violation\nof applicable requirements or any violation of the rights of any person by the indemnified party and no effect on any other claims\nthat may be made against the indemnified party, (b) the sole relief provided is"
+    },
+    {
+        "chunk_id": 111,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nmonetary damages that are paid in full by the indemnifying party and (c) such settlement includes as an unconditional release of\nliability by such third party claimant in respect of all indemnified persons.\narticle viii\nterm and termination\n8.1 term. the term of this agreement shall begin as of the effective date and continue until acceptance of all deliverables"
+    },
+    {
+        "chunk_id": 112,
+        "text": "for milestones 1 and 2 pursuant to section 3.4 and completion of milestone 3, unless earlier terminated under section 8.2, as\nprovided for under the other agreements, or as mutually agreed by the parties.\n8.2 termination.\n(a) dissolution or insolvency event. either party may terminate this agreement effective immediately upon delivery of a\ntermination notice if the other party is (a) dissolved or is seeking to dissolve itself under applicable corporate law other than as"
+    },
+    {
+        "chunk_id": 113,
+        "text": "part of a corporate restructuring under which its assets were first transferred to an assignee under this agreement in accordance\nwith section 10.2; or (b) (i) becomes subject to an insolvency event, provided that, no termination right shall exist in respect of an\ninsolvency event that is a chapter 11 case under the bankruptcy code if the party subject to such chapter 11 case (x) continues"
+    },
+    {
+        "chunk_id": 114,
+        "text": "to perform all of its material obligations under this agreement, (y) does not seek to reject this agreement or take any action in\nsuch chapter 11 case to disavow or undermine the rights of the other party under this agreement, and (z) assumes this agreement\non or before any deadline in such chapter 11 case for such assumption; notwithstanding the foregoing, nothing herein shall limit or"
+    },
+    {
+        "chunk_id": 115,
+        "text": "prevent the party not subject to an insolvency event from objecting to assumption or assumption and assignment of this\nagreement or requiring cure payments or adequate assurance"
+    },
+    {
+        "chunk_id": 116,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nof future performance as a condition of assumption or assumption and assignment.\n(b) default. if any party believes the other is in material breach of any of its material obligations under this agreement in a\nmanner other than as set forth in article iii to which this section 8.2(b) does not apply, it may give notice of such material breach"
+    },
+    {
+        "chunk_id": 117,
+        "text": "to the allegedly breaching party, which party shall have [] (or such longer period of time as may be reasonably commensurate\nwith the effort reasonably required to remedy such default) in which to remedy such default. if such alleged material breach is not\nremedied in the time period set forth above, the party alleging material breach shall refer the matter to the chief executive officers"
+    },
+    {
+        "chunk_id": 118,
+        "text": "of each party, who shall meet and confer within [] after notice from the non-breaching party of its desire for such a meeting. if\nthe parties are unable to resolve any dispute in such meeting and no action has been brought in accordance with section 10.8\nwith respect to such dispute, the non-breaching party may terminate this agreement immediately upon delivery to the defaulting"
+    },
+    {
+        "chunk_id": 119,
+        "text": "party of a termination notice. the non-defaulting party’s right to terminate this agreement in accordance with this section 8.2(b)\nshall not be construed as an exclusive remedy.\n(c) if stryker finally rejects any deliverable for milestone 1 or 2 in accordance with article iii, stryker may terminate\nthis agreement, which termination shall be effective immediately upon delivery of a termination notice to conformis.\n8.3 surviving rights/obligations."
+    },
+    {
+        "chunk_id": 120,
+        "text": "8.3 surviving rights/obligations.\n(a) the provisions of articles v, vi, vii and ix and sections 8.3, 8.4, 10.1, 10.2, 10.5 - 10.13 and 10.15, together with\nany provisions required for the interpretation or enforcement of any of the foregoing, shall survive the termination or expiration of\nthis agreement, provided, however that section 7.3(a)(iv) shall survive the termination or expiration of this agreement for only"
+    },
+    {
+        "chunk_id": 121,
+        "text": "[] thereafter. the termination of this agreement shall not relieve any party from obligations that are expressly indicated to survive\ntermination of the agreement."
+    },
+    {
+        "chunk_id": 122,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n8.4 return or destruction of confidential information. solely with respect to confidential information in which a\nparty has no ownership interest at all, owned or co-owned confidential information being exempt herefrom, upon termination of\nthis agreement, unless independently authorized to retain such of the disclosing party’s confidential information under an other"
+    },
+    {
+        "chunk_id": 123,
+        "text": "agreement, each receiving party shall, and shall direct its representatives to, cease all use and make no further use of any\nconfidential information of the disclosing party and shall, upon written request from the disclosing party, promptly return or\ndestroy all confidential information of the disclosing party (including copies thereof) that is in tangible form (provided, however,"
+    },
+    {
+        "chunk_id": 124,
+        "text": "that, with respect to electronic imaging of the disclosing party's confidential information, such materials shall be deleted and\nremoved from access by an ordinary user from all computer hard drives, servers and similar media but shall not require any action\nto delete or erase such materials from any disaster recovery tapes or other back-up media or any record retention or computer"
+    },
+    {
+        "chunk_id": 125,
+        "text": "storage system so long as the receiving party and its representatives take such actions as are reasonably likely to prevent access\nto such materials by any person other than information technology and other administrative employees who are responsible for\nmaintaining those disaster recovery tapes and other back-up media) and any documents created by the receiving party or any of"
+    },
+    {
+        "chunk_id": 126,
+        "text": "its representatives containing confidential information of the disclosing party. the receiving party shall provide to the disclosing\nparty written certification of destroyed confidential information of the disclosing party promptly following the destruction thereof.\nnotwithstanding the foregoing, the receiving party and its representatives may retain one copy of any confidential information of"
+    },
+    {
+        "chunk_id": 127,
+        "text": "the disclosing party in a secure location in the receiving party's legal department for the purpose of establishing compliance with\napplicable laws (including professional standards) and for defending or maintaining any litigation (including any administrative\nproceeding) relating to this agreement, the other agreement, the prior cda or the confidential information, provided that all such\ninformation shall continue to be kept confidential pursuant to the terms of this agreement."
+    },
+    {
+        "chunk_id": 128,
+        "text": "source: conformis inc, 10-q, 11/1/2019\narticle ix\nrecord-keeping and audits\n9.1 records retention. each of the parties shall record in written or electronic form all material information with respect\nto the performance of its obligations relating to the r&d program in accordance with standard industry practices.\narticle x\nmiscellaneous\n10.1 agency. neither this agreement nor any of the other agreements creates any partnership, agency or other"
+    },
+    {
+        "chunk_id": 129,
+        "text": "relationship among the parties for any purpose, including for all tax purposes. no party is granted any right or authority to assume\nor to create any obligation or responsibility on behalf or in the name of the other party or to bind the other party in any manner\nwhatsoever.\n10.2 assignment and change of control. except as otherwise provided herein, a party shall not have the right to"
+    },
+    {
+        "chunk_id": 130,
+        "text": "assign any of its rights or obligations under this agreement (whether through a merger, sale of stock, or otherwise) without the\nprior written consent of the other party; except that, either party shall be permitted, without any need for the other party’s\nconsent, to assign this agreement (a) in whole or in part to an affiliate (provided, however, that once such person is no longer an"
+    },
+    {
+        "chunk_id": 131,
+        "text": "affiliate of the assigning party, such former affiliate shall assign this agreement back to the assigning party), provided that the\nassigning party provides the other party notice of any such assignment provided further that failure to provide such notice of such\nassignment shall not render such assignment void; or (b) to a third party in connection with sale or transfer of all or substantially all"
+    },
+    {
+        "chunk_id": 132,
+        "text": "of the assigning party’s business or assets relating to the subject matter of this agreement, whether by change of control, merger,\nsale of assets or otherwise; provided, however, that, with respect to clause (b), (i) any assignment of this agreement shall be void\nand have no effect unless and until the assignee assumes the"
+    },
+    {
+        "chunk_id": 133,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nobligations of the assigning party in a written instrument, a copy of which is provided to the other party; and (ii) any assignment of\nthis agreement must be accompanied by a simultaneous assignment of the other agreements to the same assignee, and the\nassigning party’s interest in the purchased assets to the same assignee unless otherwise agreed by conformis in advance, which"
+    },
+    {
+        "chunk_id": 134,
+        "text": "agreement shall not be unreasonably withheld. any assignment in whole or in part shall not relieve the assigning party of its\nobligations hereunder. if and to the extent that a party assigns any of its rights and/or obligations hereunder in accordance with this\nsection 10.2, then this agreement shall be binding upon the assignee to the same extent as if it were a party hereto. any\nassignment not in accordance with this section 10.2 shall be void."
+    },
+    {
+        "chunk_id": 135,
+        "text": "assignment not in accordance with this section 10.2 shall be void.\n10.3 further actions. each party agrees, subsequent to the execution and delivery of this agreement and without any\nadditional consideration, to execute, acknowledge and deliver such further documents and instruments, and to do all such other\nacts, as may be necessary or appropriate in order to carry out the purposes and intent of this agreement.\n10.4 force majeure."
+    },
+    {
+        "chunk_id": 136,
+        "text": "10.4 force majeure.\n(a) in the event that either party is unable to perform any of its obligations under this agreement, or to enjoy any of its\nbenefits because of fire, natural disaster, action or decrees of governmental entities or any other event not within such party’s\nreasonable control (a “force majeure event”), the party who has been so affected shall give written notice to the other party as"
+    },
+    {
+        "chunk_id": 137,
+        "text": "soon as practicable and shall do everything reasonably possible to resume performance. upon receipt of such notice, all\nobligations under the agreement shall be immediately suspended. if the period of nonperformance exceeds [] from the receipt\nof notice of the force majeure event, the party whose ability to perform has not been so affected may, by giving written notice,\nterminate the agreement. any acceptance or warranty period affected by a force majeure event shall likewise be extended for a"
+    },
+    {
+        "chunk_id": 138,
+        "text": "period equal to the duration of such force majeure event. as applied to this section 10.4"
+    },
+    {
+        "chunk_id": 139,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nand to determine whether an event is reasonably beyond control of a party, materials shortages, strikes, slowdowns, other labor\nrelated delays or events resulting from a party’s, its affiliates or their respective agents' negligence, gross negligence, fraud or\nintentional misconduct are not force majeure events.\n(b) notwithstanding the provisions set forth in section 10.4(a), above, a force majeure event shall not include any"
+    },
+    {
+        "chunk_id": 140,
+        "text": "governmental action of an enforcement nature that arises from or relates to either party’s failure to comply with any federal,\nnational, state, provincial, international, or local law, statute, regulation or ordinance applicable to such party’s performance\nhereunder.\n10.5 notices. all notices, requests, demands, waivers, instructions, consents and other communications to be given"
+    },
+    {
+        "chunk_id": 141,
+        "text": "pursuant to the terms of this agreement will be in writing and will be deemed to have been duly given upon receipt if delivered by\nhand, sent by a nationally recognized overnight mail service, or mailed by registered or certified mail, return receipt requested,\npostage prepaid:\nif to stryker, addressed to:\nhowmedica osteonics corp.\nc/o\nstryker corporation\nattn: legal department, []\n325 corporate drive\nmahwah, nj 07430\nif to conformis, addressed to:\nconformis, inc."
+    },
+    {
+        "chunk_id": 142,
+        "text": "325 corporate drive\nmahwah, nj 07430\nif to conformis, addressed to:\nconformis, inc.\nattn: chief executive officer and\ngeneral counsel\n600 technology park drive\nbillerica, ma 01821\nwith a copy (which shall not constitute notice) to:"
+    },
+    {
+        "chunk_id": 143,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nwilmerhale\nattn: jason kropp, esq.\n60 state street\nboston, ma 02109\nany party may change its address, telephone number, or facsimile number by prior written notice to the other party.\n10.6 amendments and waivers. this agreement may not be modified or amended except by an instrument or\ninstruments in writing signed by the party against whom enforcement of any such modification or amendment is sought. conformis"
+    },
+    {
+        "chunk_id": 144,
+        "text": "may waive compliance by stryker or stryker may waive compliance by conformis with any term or provision of this agreement\non the part of such party to be performed or complied with, but only by an instrument in writing. the waiver by any party of a\nbreach of any term or provision of this agreement will not be construed as a waiver of any subsequent breach.\n10.7 governing law. this agreement shall be governed and construed in accordance with the laws of new york state"
+    },
+    {
+        "chunk_id": 145,
+        "text": "(without regard to the conflict of laws provisions thereof).\n10.8 jurisdiction. subject to section 10.14, the federal and state courts of new york state shall have exclusive\njurisdiction to hear and decide any suit, action or proceedings, and to settle any disputes, which may arise out of or in connection\nwith this agreement; provided, however, that each party shall have the right to institute judicial proceedings in any court of"
+    },
+    {
+        "chunk_id": 146,
+        "text": "competent jurisdiction against the other party or anyone acting by, through or under the other party, in order to enforce an order\nentered by federal state courts of new york. each party shall cause its applicable permitted third party sublicensees and\naffiliates receiving any rights or benefits (including the receipt of any confidential information) under this agreement to be bound"
+    },
+    {
+        "chunk_id": 147,
+        "text": "by this section 10.8 prior to their exercise of any such rights or receipt of any such benefits. if such party fails to comply with the\nforegoing sentence"
+    },
+    {
+        "chunk_id": 148,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nwith respect to any such third party or affiliate, the other party shall have the right to seek relief in any court of competent\njurisdiction in connection with any dispute involving such third party or affiliate.\n10.9 severability. the provisions of this agreement shall be deemed severable and the invalidity or unenforceability of"
+    },
+    {
+        "chunk_id": 149,
+        "text": "any provision shall not affect the validity or enforceability of the other provisions hereof. if any term or other provision of this\nagreement, or the application thereof to any person or any circumstance, is invalid, illegal or unenforceable by a court of\ncompetent jurisdiction, (a) a suitable and equitable provision shall be substituted therefor in order to carry out, so far as may be"
+    },
+    {
+        "chunk_id": 150,
+        "text": "valid and enforceable, the intent and purpose of such invalid or unenforceable provision and (b) the remainder of this agreement\nand the application of such provision to other persons or circumstances shall not be affected by such invalidity, illegality or\nunenforceability, nor shall such invalidity, illegality or unenforceability affect the validity or enforceability of such provision, or the\napplication thereof, in any other jurisdiction."
+    },
+    {
+        "chunk_id": 151,
+        "text": "application thereof, in any other jurisdiction.\n10.10 entire agreement and third-party beneficiaries. this agreement (including the other agreements) contains\nthe entire agreement by and among the parties with respect to the subject matter hereof and there are no agreements,\nunderstandings, representations or warranties between the parties other than those set forth or referred to herein. this agreement"
+    },
+    {
+        "chunk_id": 152,
+        "text": "is not intended to confer upon any person not a party (or their successors and assigns permitted by section 10.2), and to the\nextent expressly provided, their affiliates, agents, employees and representatives, any rights or remedies hereunder, except that\nsection 7.3(a) and section 7.3(b) hereof are intended to benefit, and to be enforceable by, any of the relevant indemnified\nparties therein described."
+    },
+    {
+        "chunk_id": 153,
+        "text": "parties therein described.\n10.11 jointly prepared. this agreement has been prepared jointly and shall not be strictly construed against any party."
+    },
+    {
+        "chunk_id": 154,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n10.12 expenses. except as otherwise set forth in this agreement and the other agreements, all legal and other costs and\nexpenses incurred in connection with this agreement and the transactions contemplated hereby will be paid by the party incurring\nsuch costs and expenses.\n10.13 counterparts and electronic transmission. this agreement may be executed in one or more counterparts, all"
+    },
+    {
+        "chunk_id": 155,
+        "text": "of which will be considered one and the same agreement, and will become effective when one or more counterparts have been\nsigned by each of the parties and delivered to the other party. this agreement may be executed and delivered by facsimile or e-\nmail transmission with the same effect as if a manually signed original was personally delivered.\n10.14 negotiation in event of dispute. in the event of any dispute or disagreement between any of the parties as to"
+    },
+    {
+        "chunk_id": 156,
+        "text": "the interpretation of any provision of this agreement or any agreement incorporated herein, the performance of obligations\nhereunder or thereunder, or any other disputed matter relating hereto or thereto, such matter, upon the written request of any\nparty, will be referred to an executive of each party. such executives will promptly meet in good faith to resolve the dispute. if the"
+    },
+    {
+        "chunk_id": 157,
+        "text": "executives do not agree upon a decision within thirty calendar days after the reference of the matter to them, any party will be free\nto exercise any remedies available to it.\n10.15 rules of construction. as used in this agreement, the words “include”, “includes” and “including” means\n“including without limitation”, and no inferences or conclusions of any sort shall be drawn from the fact that in some instances in"
+    },
+    {
+        "chunk_id": 158,
+        "text": "this agreement the words “include”, “includes” and “including” are actually followed by the phrase “without limitation” or the\nequivalent while in other instances they are not. except where the context expressly requires otherwise, the use of any gender\nherein will be deemed to encompass references to any gender, and the use of the singular will be deemed to include the plural (and\nvice versa)."
+    },
+    {
+        "chunk_id": 159,
+        "text": "source: conformis inc, 10-q, 11/1/2019\n[signature page follows]"
+    },
+    {
+        "chunk_id": 160,
+        "text": "source: conformis inc, 10-q, 11/1/2019\nin witness whereof, the parties have caused this development agreement to be duly executed as of the respective\ndates written below.\nhowmedica osteonics corp.\nconformis, inc.\nby:\n/s/ spencer stiles\nby:\n/s/ mark a. augusti\nname:\nspencer stiles\nname:\nmark a. augusti\ntitle:\npresident\ntitle:\npresident and ceo\ndate:\nseptember 26, 2019\ndate:\n9-30-2019\n[signature page to development agreement]\nsource: conformis inc, 10-q, 11/1/2019\nexecution version"
+    },
+    {
+        "chunk_id": 161,
+        "text": "[signature page to development agreement]\nsource: conformis inc, 10-q, 11/1/2019\nexecution version\ncertain identified information has been excluded from the exhibit because it is both (i) not material and (ii) would likely cause\ncompetitive harm to the company, if publicly disclosed. double asterisks denote omissions.\nsource: conformis inc, 10-q, 11/1/2019"
+    }
+]

@@ -1,0 +1,6386 @@
+[
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "august 21, 2018",
+        "label": "DATE",
+        "start": 102,
+        "end": 117
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 126,
+        "end": 145
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 147,
+        "end": 150
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 152,
+        "end": 161
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 195,
+        "end": 196
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 210,
+        "end": 213
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 240,
+        "end": 243
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 272,
+        "end": 275
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 300,
+        "end": 303
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 328,
+        "end": 331
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 351,
+        "end": 354
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 376,
+        "end": 377
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 432,
+        "end": 435
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 449,
+        "end": 452
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 481,
+        "end": 484
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 508,
+        "end": 511
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 566,
+        "end": 569
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 601,
+        "end": 604
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 635,
+        "end": 638
+    },
+    {
+        "text": "m&p",
+        "label": "GPE",
+        "start": 657,
+        "end": 660
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 671,
+        "end": 672
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 686,
+        "end": 689
+    },
+    {
+        "text": "m&p",
+        "label": "ORG",
+        "start": 716,
+        "end": 719
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 730,
+        "end": 733
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 749,
+        "end": 752
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 782,
+        "end": 785
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 809,
+        "end": 812
+    },
+    {
+        "text": "4.6",
+        "label": "CARDINAL",
+        "start": 839,
+        "end": 842
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 863,
+        "end": 866
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 899,
+        "end": 900
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 945,
+        "end": 948
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 988,
+        "end": 991
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 1033,
+        "end": 1036
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 1048,
+        "end": 1051
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 1104,
+        "end": 1107
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 1134,
+        "end": 1137
+    },
+    {
+        "text": "5.7",
+        "label": "CARDINAL",
+        "start": 1171,
+        "end": 1174
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 1203,
+        "end": 1206
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 1219,
+        "end": 1220
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 1278,
+        "end": 1281
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 1299,
+        "end": 1302
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 1327,
+        "end": 1330
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 1364,
+        "end": 1383
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 1385,
+        "end": 1388
+    },
+    {
+        "text": "8/22/2018",
+        "label": "GPE",
+        "start": 1390,
+        "end": 1399
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 1400,
+        "end": 1401
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 1431,
+        "end": 1434
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 1452,
+        "end": 1455
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 1487,
+        "end": 1490
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 1519,
+        "end": 1522
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 1545,
+        "end": 1548
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 1563,
+        "end": 1564
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 1588,
+        "end": 1591
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 1598,
+        "end": 1601
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 1611,
+        "end": 1614
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 1638,
+        "end": 1641
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 1669,
+        "end": 1672
+    },
+    {
+        "text": "8.6",
+        "label": "CARDINAL",
+        "start": 1693,
+        "end": 1696
+    },
+    {
+        "text": "8.7",
+        "label": "CARDINAL",
+        "start": 1732,
+        "end": 1735
+    },
+    {
+        "text": "8.8",
+        "label": "CARDINAL",
+        "start": 1761,
+        "end": 1764
+    },
+    {
+        "text": "8.9",
+        "label": "CARDINAL",
+        "start": 1794,
+        "end": 1797
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 1831,
+        "end": 1832
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 1849,
+        "end": 1852
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 1869,
+        "end": 1872
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 1885,
+        "end": 1888
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 1906,
+        "end": 1909
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 1925,
+        "end": 1928
+    },
+    {
+        "text": "9.6",
+        "label": "CARDINAL",
+        "start": 1938,
+        "end": 1941
+    },
+    {
+        "text": "9.7",
+        "label": "CARDINAL",
+        "start": 1953,
+        "end": 1956
+    },
+    {
+        "text": "9.8",
+        "label": "CARDINAL",
+        "start": 1965,
+        "end": 1968
+    },
+    {
+        "text": "9.9",
+        "label": "CARDINAL",
+        "start": 1983,
+        "end": 1986
+    },
+    {
+        "text": "9.10",
+        "label": "CARDINAL",
+        "start": 2009,
+        "end": 2013
+    },
+    {
+        "text": "9.11",
+        "label": "CARDINAL",
+        "start": 2029,
+        "end": 2033
+    },
+    {
+        "text": "9.12",
+        "label": "CARDINAL",
+        "start": 2054,
+        "end": 2058
+    },
+    {
+        "text": "9.13",
+        "label": "CARDINAL",
+        "start": 2092,
+        "end": 2096
+    },
+    {
+        "text": "9.14",
+        "label": "CARDINAL",
+        "start": 2122,
+        "end": 2126
+    },
+    {
+        "text": "9.15",
+        "label": "CARDINAL",
+        "start": 2144,
+        "end": 2148
+    },
+    {
+        "text": "1.24",
+        "label": "CARDINAL",
+        "start": 2180,
+        "end": 2184
+    },
+    {
+        "text": "1.39",
+        "label": "CARDINAL",
+        "start": 2209,
+        "end": 2213
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 2263,
+        "end": 2270
+    },
+    {
+        "text": "3.2(c)(i",
+        "label": "CARDINAL",
+        "start": 2299,
+        "end": 2307
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 2350,
+        "end": 2356
+    },
+    {
+        "text": "3.4(a",
+        "label": "MONEY",
+        "start": 2388,
+        "end": 2393
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 2429,
+        "end": 2432
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 2457,
+        "end": 2476
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 2478,
+        "end": 2481
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 2483,
+        "end": 2492
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 2554,
+        "end": 2573
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 2575,
+        "end": 2578
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 2580,
+        "end": 2589
+    },
+    {
+        "text": "august 21, 2018",
+        "label": "DATE",
+        "start": 2664,
+        "end": 2679
+    },
+    {
+        "text": "pfizer inc.",
+        "label": "ORG",
+        "start": 2719,
+        "end": 2730
+    },
+    {
+        "text": "235",
+        "label": "CARDINAL",
+        "start": 2805,
+        "end": 2808
+    },
+    {
+        "text": "42nd",
+        "label": "ORDINAL",
+        "start": 2814,
+        "end": 2818
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 2827,
+        "end": 2835
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 2837,
+        "end": 2845
+    },
+    {
+        "text": "10017",
+        "label": "DATE",
+        "start": 2846,
+        "end": 2851
+    },
+    {
+        "text": "441",
+        "label": "CARDINAL",
+        "start": 2955,
+        "end": 2958
+    },
+    {
+        "text": "madison",
+        "label": "GPE",
+        "start": 2975,
+        "end": 2982
+    },
+    {
+        "text": "wisconsin 53719",
+        "label": "DATE",
+        "start": 2984,
+        "end": 2999
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 3541,
+        "end": 3558
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 3703,
+        "end": 3720
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3948,
+        "end": 3949
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 3964,
+        "end": 3967
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 4039,
+        "end": 4042
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 4474,
+        "end": 4477
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 4708,
+        "end": 4730
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 4732,
+        "end": 4734
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 5334,
+        "end": 5337
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 5409,
+        "end": 5428
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 5430,
+        "end": 5433
+    },
+    {
+        "text": "8/22/2018",
+        "label": "ORG",
+        "start": 5435,
+        "end": 5444
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 5445,
+        "end": 5448
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 5512,
+        "end": 5515
+    },
+    {
+        "text": "1.6",
+        "label": "CARDINAL",
+        "start": 5517,
+        "end": 5520
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 5522,
+        "end": 5528
+    },
+    {
+        "text": "section 3.3",
+        "label": "LAW",
+        "start": 5684,
+        "end": 5695
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 5759,
+        "end": 5762
+    },
+    {
+        "text": "1.7",
+        "label": "CARDINAL",
+        "start": 5764,
+        "end": 5767
+    },
+    {
+        "text": "1.8",
+        "label": "CARDINAL",
+        "start": 5859,
+        "end": 5862
+    },
+    {
+        "text": "1.9",
+        "label": "CARDINAL",
+        "start": 6292,
+        "end": 6295
+    },
+    {
+        "text": "1.10",
+        "label": "CARDINAL",
+        "start": 6884,
+        "end": 6888
+    },
+    {
+        "text": "1.11",
+        "label": "CARDINAL",
+        "start": 6960,
+        "end": 6964
+    },
+    {
+        "text": "1.12 “baseline laboratory",
+        "label": "PERCENT",
+        "start": 7037,
+        "end": 7062
+    },
+    {
+        "text": "1.13 “baseline m&p",
+        "label": "QUANTITY",
+        "start": 7193,
+        "end": 7211
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 7265,
+        "end": 7268
+    },
+    {
+        "text": "1.14 “business day",
+        "label": "DATE",
+        "start": 7270,
+        "end": 7288
+    },
+    {
+        "text": "saturday, sunday",
+        "label": "DATE",
+        "start": 7322,
+        "end": 7338
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 7377,
+        "end": 7385
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 7387,
+        "end": 7395
+    },
+    {
+        "text": "1.15",
+        "label": "CARDINAL",
+        "start": 7412,
+        "end": 7416
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 7473,
+        "end": 7478
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 7480,
+        "end": 7481
+    },
+    {
+        "text": "months ending on march 31, june 30",
+        "label": "DATE",
+        "start": 7504,
+        "end": 7538
+    },
+    {
+        "text": "september 30 or december 31",
+        "label": "DATE",
+        "start": 7540,
+        "end": 7567
+    },
+    {
+        "text": "1.16 “",
+        "label": "PERCENT",
+        "start": 7569,
+        "end": 7575
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 7627,
+        "end": 7633
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 7635,
+        "end": 7637
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 7648,
+        "end": 7654
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 7683,
+        "end": 7694
+    },
+    {
+        "text": "1.17",
+        "label": "CARDINAL",
+        "start": 7762,
+        "end": 7766
+    },
+    {
+        "text": "1.18",
+        "label": "CARDINAL",
+        "start": 7871,
+        "end": 7875
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 8216,
+        "end": 8235
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 8237,
+        "end": 8240
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 8242,
+        "end": 8251
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 8280,
+        "end": 8302
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 8304,
+        "end": 8306
+    },
+    {
+        "text": "more than fifty percent",
+        "label": "PERCENT",
+        "start": 8488,
+        "end": 8511
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 8513,
+        "end": 8515
+    },
+    {
+        "text": "1.19",
+        "label": "CARDINAL",
+        "start": 8636,
+        "end": 8640
+    },
+    {
+        "text": "cia",
+        "label": "ORG",
+        "start": 8642,
+        "end": 8645
+    },
+    {
+        "text": "1.20",
+        "label": "CARDINAL",
+        "start": 8699,
+        "end": 8703
+    },
+    {
+        "text": "1.21",
+        "label": "CARDINAL",
+        "start": 8765,
+        "end": 8769
+    },
+    {
+        "text": "section 2.6",
+        "label": "LAW",
+        "start": 8827,
+        "end": 8838
+    },
+    {
+        "text": "1.22",
+        "label": "CARDINAL",
+        "start": 8840,
+        "end": 8844
+    },
+    {
+        "text": "section 7.1",
+        "label": "LAW",
+        "start": 8908,
+        "end": 8919
+    },
+    {
+        "text": "1.23",
+        "label": "CARDINAL",
+        "start": 8921,
+        "end": 8925
+    },
+    {
+        "text": "3.1(c)(ii",
+        "label": "CARDINAL",
+        "start": 9092,
+        "end": 9101
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9241,
+        "end": 9246
+    },
+    {
+        "text": "1.24",
+        "label": "CARDINAL",
+        "start": 9353,
+        "end": 9357
+    },
+    {
+        "text": "1.24",
+        "label": "CARDINAL",
+        "start": 9514,
+        "end": 9518
+    },
+    {
+        "text": "1.25",
+        "label": "CARDINAL",
+        "start": 9576,
+        "end": 9580
+    },
+    {
+        "text": "1.26",
+        "label": "CARDINAL",
+        "start": 9653,
+        "end": 9657
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 9919,
+        "end": 9922
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 11527,
+        "end": 11546
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 11548,
+        "end": 11551
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 11553,
+        "end": 11562
+    },
+    {
+        "text": "1.27",
+        "label": "CARDINAL",
+        "start": 11682,
+        "end": 11686
+    },
+    {
+        "text": "section 7.1",
+        "label": "LAW",
+        "start": 11742,
+        "end": 11753
+    },
+    {
+        "text": "1.28",
+        "label": "CARDINAL",
+        "start": 11755,
+        "end": 11759
+    },
+    {
+        "text": "1.29",
+        "label": "CARDINAL",
+        "start": 11834,
+        "end": 11838
+    },
+    {
+        "text": "1.30",
+        "label": "CARDINAL",
+        "start": 11913,
+        "end": 11917
+    },
+    {
+        "text": "1.31",
+        "label": "CARDINAL",
+        "start": 11992,
+        "end": 11996
+    },
+    {
+        "text": "1.32",
+        "label": "CARDINAL",
+        "start": 12064,
+        "end": 12068
+    },
+    {
+        "text": "1.33",
+        "label": "CARDINAL",
+        "start": 12521,
+        "end": 12525
+    },
+    {
+        "text": "1.34",
+        "label": "CARDINAL",
+        "start": 12584,
+        "end": 12588
+    },
+    {
+        "text": "1.35",
+        "label": "CARDINAL",
+        "start": 12773,
+        "end": 12777
+    },
+    {
+        "text": "1.36",
+        "label": "CARDINAL",
+        "start": 12944,
+        "end": 12948
+    },
+    {
+        "text": "1.37",
+        "label": "CARDINAL",
+        "start": 13020,
+        "end": 13024
+    },
+    {
+        "text": "1.38",
+        "label": "CARDINAL",
+        "start": 13097,
+        "end": 13101
+    },
+    {
+        "text": "1.39",
+        "label": "CARDINAL",
+        "start": 13208,
+        "end": 13212
+    },
+    {
+        "text": "1.40",
+        "label": "CARDINAL",
+        "start": 13312,
+        "end": 13316
+    },
+    {
+        "text": "1.39",
+        "label": "CARDINAL",
+        "start": 13384,
+        "end": 13388
+    },
+    {
+        "text": "1.41",
+        "label": "CARDINAL",
+        "start": 13922,
+        "end": 13926
+    },
+    {
+        "text": "1.42",
+        "label": "CARDINAL",
+        "start": 13998,
+        "end": 14002
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 14093,
+        "end": 14112
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 14114,
+        "end": 14117
+    },
+    {
+        "text": "8/22/2018",
+        "label": "GPE",
+        "start": 14119,
+        "end": 14128
+    },
+    {
+        "text": "1.43",
+        "label": "CARDINAL",
+        "start": 14129,
+        "end": 14133
+    },
+    {
+        "text": "1.44",
+        "label": "CARDINAL",
+        "start": 14231,
+        "end": 14235
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 14237,
+        "end": 14240
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 14253,
+        "end": 14270
+    },
+    {
+        "text": "1.45",
+        "label": "CARDINAL",
+        "start": 14333,
+        "end": 14337
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 14360,
+        "end": 14377
+    },
+    {
+        "text": "1.46",
+        "label": "CARDINAL",
+        "start": 14482,
+        "end": 14486
+    },
+    {
+        "text": "section 2.4",
+        "label": "LAW",
+        "start": 14548,
+        "end": 14559
+    },
+    {
+        "text": "1.47",
+        "label": "CARDINAL",
+        "start": 14561,
+        "end": 14565
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 14567,
+        "end": 14572
+    },
+    {
+        "text": "1.48",
+        "label": "CARDINAL",
+        "start": 14650,
+        "end": 14654
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 14656,
+        "end": 14661
+    },
+    {
+        "text": "1.49",
+        "label": "CARDINAL",
+        "start": 14745,
+        "end": 14749
+    },
+    {
+        "text": "united states",
+        "label": "GPE",
+        "start": 14768,
+        "end": 14781
+    },
+    {
+        "text": "1.50",
+        "label": "CARDINAL",
+        "start": 14846,
+        "end": 14850
+    },
+    {
+        "text": "ministry, department, bureau",
+        "label": "ORG",
+        "start": 15113,
+        "end": 15141
+    },
+    {
+        "text": "1.51",
+        "label": "CARDINAL",
+        "start": 15552,
+        "end": 15556
+    },
+    {
+        "text": "the united nations);",
+        "label": "ORG",
+        "start": 16112,
+        "end": 16132
+    },
+    {
+        "text": "1.52",
+        "label": "CARDINAL",
+        "start": 16362,
+        "end": 16366
+    },
+    {
+        "text": "1.53",
+        "label": "CARDINAL",
+        "start": 16441,
+        "end": 16445
+    },
+    {
+        "text": "one hundred percent",
+        "label": "PERCENT",
+        "start": 16610,
+        "end": 16629
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 16631,
+        "end": 16634
+    },
+    {
+        "text": "1.54",
+        "label": "CARDINAL",
+        "start": 16637,
+        "end": 16641
+    },
+    {
+        "text": "1.55",
+        "label": "CARDINAL",
+        "start": 16702,
+        "end": 16706
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 16790,
+        "end": 16809
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 16811,
+        "end": 16814
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 16816,
+        "end": 16825
+    },
+    {
+        "text": "2,000",
+        "label": "CARDINAL",
+        "start": 17345,
+        "end": 17350
+    },
+    {
+        "text": "1.56",
+        "label": "CARDINAL",
+        "start": 17370,
+        "end": 17374
+    },
+    {
+        "text": "1.57",
+        "label": "CARDINAL",
+        "start": 17457,
+        "end": 17461
+    },
+    {
+        "text": "1.58",
+        "label": "CARDINAL",
+        "start": 17555,
+        "end": 17559
+    },
+    {
+        "text": "1.59",
+        "label": "CARDINAL",
+        "start": 17635,
+        "end": 17639
+    },
+    {
+        "text": "1.60",
+        "label": "CARDINAL",
+        "start": 17716,
+        "end": 17720
+    },
+    {
+        "text": "1.61",
+        "label": "CARDINAL",
+        "start": 17778,
+        "end": 17782
+    },
+    {
+        "text": "1.62",
+        "label": "CARDINAL",
+        "start": 17850,
+        "end": 17854
+    },
+    {
+        "text": "1.63",
+        "label": "CARDINAL",
+        "start": 17913,
+        "end": 17917
+    },
+    {
+        "text": "1.64",
+        "label": "CARDINAL",
+        "start": 17976,
+        "end": 17980
+    },
+    {
+        "text": "1.65",
+        "label": "CARDINAL",
+        "start": 18048,
+        "end": 18052
+    },
+    {
+        "text": "1.66",
+        "label": "CARDINAL",
+        "start": 18119,
+        "end": 18123
+    },
+    {
+        "text": "1.67",
+        "label": "CARDINAL",
+        "start": 18187,
+        "end": 18191
+    },
+    {
+        "text": "section 4.2(d",
+        "label": "LAW",
+        "start": 18452,
+        "end": 18465
+    },
+    {
+        "text": "1.68 “launch date",
+        "label": "MONEY",
+        "start": 19326,
+        "end": 19343
+    },
+    {
+        "text": "october 1, 2018",
+        "label": "DATE",
+        "start": 19356,
+        "end": 19371
+    },
+    {
+        "text": "1.69",
+        "label": "CARDINAL",
+        "start": 19373,
+        "end": 19377
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 19466,
+        "end": 19485
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 19487,
+        "end": 19490
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 19492,
+        "end": 19501
+    },
+    {
+        "text": "1.70",
+        "label": "CARDINAL",
+        "start": 19834,
+        "end": 19838
+    },
+    {
+        "text": "1.71",
+        "label": "CARDINAL",
+        "start": 19922,
+        "end": 19926
+    },
+    {
+        "text": "1.72",
+        "label": "CARDINAL",
+        "start": 20026,
+        "end": 20030
+    },
+    {
+        "text": "1.73",
+        "label": "CARDINAL",
+        "start": 20157,
+        "end": 20161
+    },
+    {
+        "text": "section 2.6(c",
+        "label": "LAW",
+        "start": 20211,
+        "end": 20224
+    },
+    {
+        "text": "1.74",
+        "label": "CARDINAL",
+        "start": 20227,
+        "end": 20231
+    },
+    {
+        "text": "1.75",
+        "label": "CARDINAL",
+        "start": 20303,
+        "end": 20307
+    },
+    {
+        "text": "1.76",
+        "label": "CARDINAL",
+        "start": 21002,
+        "end": 21006
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 21028,
+        "end": 21033
+    },
+    {
+        "text": "1.77",
+        "label": "CARDINAL",
+        "start": 21480,
+        "end": 21484
+    },
+    {
+        "text": "1.78",
+        "label": "CARDINAL",
+        "start": 21854,
+        "end": 21858
+    },
+    {
+        "text": "1.79",
+        "label": "CARDINAL",
+        "start": 21918,
+        "end": 21922
+    },
+    {
+        "text": "1.80",
+        "label": "CARDINAL",
+        "start": 21995,
+        "end": 21999
+    },
+    {
+        "text": "1.81",
+        "label": "CARDINAL",
+        "start": 22073,
+        "end": 22077
+    },
+    {
+        "text": "1.82",
+        "label": "CARDINAL",
+        "start": 22151,
+        "end": 22155
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 22234,
+        "end": 22253
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 22255,
+        "end": 22258
+    },
+    {
+        "text": "8/22/2018",
+        "label": "GPE",
+        "start": 22260,
+        "end": 22269
+    },
+    {
+        "text": "1.83",
+        "label": "CARDINAL",
+        "start": 22270,
+        "end": 22274
+    },
+    {
+        "text": "1.84",
+        "label": "CARDINAL",
+        "start": 22351,
+        "end": 22355
+    },
+    {
+        "text": "neoplasia",
+        "label": "GPE",
+        "start": 22543,
+        "end": 22552
+    },
+    {
+        "text": "1.85",
+        "label": "CARDINAL",
+        "start": 22634,
+        "end": 22638
+    },
+    {
+        "text": "august 11, 2014",
+        "label": "DATE",
+        "start": 22712,
+        "end": 22727
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 22735,
+        "end": 22738
+    },
+    {
+        "text": "1.86",
+        "label": "CARDINAL",
+        "start": 22831,
+        "end": 22835
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 23408,
+        "end": 23411
+    },
+    {
+        "text": "1.87",
+        "label": "CARDINAL",
+        "start": 23413,
+        "end": 23417
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 23560,
+        "end": 23566
+    },
+    {
+        "text": "1.88",
+        "label": "CARDINAL",
+        "start": 24057,
+        "end": 24061
+    },
+    {
+        "text": "1.89",
+        "label": "CARDINAL",
+        "start": 25054,
+        "end": 25058
+    },
+    {
+        "text": "1.90",
+        "label": "CARDINAL",
+        "start": 25127,
+        "end": 25131
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 25384,
+        "end": 25403
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 25405,
+        "end": 25408
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 25410,
+        "end": 25419
+    },
+    {
+        "text": "1.91",
+        "label": "CARDINAL",
+        "start": 25585,
+        "end": 25589
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 25638,
+        "end": 25640
+    },
+    {
+        "text": "820",
+        "label": "CARDINAL",
+        "start": 25653,
+        "end": 25656
+    },
+    {
+        "text": "1.92",
+        "label": "CARDINAL",
+        "start": 25721,
+        "end": 25725
+    },
+    {
+        "text": "section 7.1",
+        "label": "LAW",
+        "start": 25780,
+        "end": 25791
+    },
+    {
+        "text": "1.93",
+        "label": "CARDINAL",
+        "start": 25793,
+        "end": 25797
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 26176,
+        "end": 26179
+    },
+    {
+        "text": "1.94",
+        "label": "CARDINAL",
+        "start": 26481,
+        "end": 26485
+    },
+    {
+        "text": "1.95",
+        "label": "CARDINAL",
+        "start": 26550,
+        "end": 26554
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 26848,
+        "end": 26854
+    },
+    {
+        "text": "1.96",
+        "label": "CARDINAL",
+        "start": 26871,
+        "end": 26875
+    },
+    {
+        "text": "1.97",
+        "label": "CARDINAL",
+        "start": 26955,
+        "end": 26959
+    },
+    {
+        "text": "1.98",
+        "label": "CARDINAL",
+        "start": 27235,
+        "end": 27239
+    },
+    {
+        "text": "north america",
+        "label": "LOC",
+        "start": 27379,
+        "end": 27392
+    },
+    {
+        "text": "1.99",
+        "label": "CARDINAL",
+        "start": 27439,
+        "end": 27443
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 27607,
+        "end": 27610
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 27615,
+        "end": 27618
+    },
+    {
+        "text": "1.100",
+        "label": "CARDINAL",
+        "start": 27620,
+        "end": 27625
+    },
+    {
+        "text": "8.7",
+        "label": "CARDINAL",
+        "start": 27684,
+        "end": 27687
+    },
+    {
+        "text": "1.101",
+        "label": "CARDINAL",
+        "start": 27689,
+        "end": 27694
+    },
+    {
+        "text": "section 8.1",
+        "label": "LAW",
+        "start": 27738,
+        "end": 27749
+    },
+    {
+        "text": "1.102",
+        "label": "CARDINAL",
+        "start": 27751,
+        "end": 27756
+    },
+    {
+        "text": "fifty",
+        "label": "CARDINAL",
+        "start": 27784,
+        "end": 27789
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 27805,
+        "end": 27822
+    },
+    {
+        "text": "the district of columbia",
+        "label": "GPE",
+        "start": 27827,
+        "end": 27851
+    },
+    {
+        "text": "rico",
+        "label": "LAW",
+        "start": 27872,
+        "end": 27876
+    },
+    {
+        "text": "1.103",
+        "label": "CARDINAL",
+        "start": 27878,
+        "end": 27883
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 27885,
+        "end": 27890
+    },
+    {
+        "text": "1.104",
+        "label": "CARDINAL",
+        "start": 27977,
+        "end": 27982
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 28072,
+        "end": 28091
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 28093,
+        "end": 28096
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 28098,
+        "end": 28107
+    },
+    {
+        "text": "1.105",
+        "label": "CARDINAL",
+        "start": 28256,
+        "end": 28261
+    },
+    {
+        "text": "1.106",
+        "label": "CARDINAL",
+        "start": 28546,
+        "end": 28551
+    },
+    {
+        "text": "section 4.4",
+        "label": "LAW",
+        "start": 28594,
+        "end": 28605
+    },
+    {
+        "text": "1.107",
+        "label": "CARDINAL",
+        "start": 28607,
+        "end": 28612
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 28683,
+        "end": 28684
+    },
+    {
+        "text": "governance",
+        "label": "PERSON",
+        "start": 28686,
+        "end": 28696
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 28698,
+        "end": 28701
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 28860,
+        "end": 28865
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 28867,
+        "end": 28868
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 28899,
+        "end": 28904
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 28906,
+        "end": 28907
+    },
+    {
+        "text": "at least fifteen",
+        "label": "CARDINAL",
+        "start": 29911,
+        "end": 29927
+    },
+    {
+        "text": "15) days",
+        "label": "DATE",
+        "start": 29929,
+        "end": 29937
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 30325,
+        "end": 30332
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 30365,
+        "end": 30372
+    },
+    {
+        "text": "15) days",
+        "label": "DATE",
+        "start": 30374,
+        "end": 30382
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 30475,
+        "end": 30494
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 30496,
+        "end": 30499
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 30501,
+        "end": 30510
+    },
+    {
+        "text": "no more than half",
+        "label": "CARDINAL",
+        "start": 30830,
+        "end": 30847
+    },
+    {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 30963,
+        "end": 30975
+    },
+    {
+        "text": "at least fifteen",
+        "label": "CARDINAL",
+        "start": 31607,
+        "end": 31623
+    },
+    {
+        "text": "15) days",
+        "label": "DATE",
+        "start": 31625,
+        "end": 31633
+    },
+    {
+        "text": "the minutes",
+        "label": "TIME",
+        "start": 31672,
+        "end": 31683
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 31845,
+        "end": 31851
+    },
+    {
+        "text": "a calendar year",
+        "label": "DATE",
+        "start": 31871,
+        "end": 31886
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 31902,
+        "end": 31911
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 32058,
+        "end": 32064
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 32141,
+        "end": 32147
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 32210,
+        "end": 32213
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 32262,
+        "end": 32267
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 32538,
+        "end": 32544
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 32813,
+        "end": 32816
+    },
+    {
+        "text": "m&p",
+        "label": "ORG",
+        "start": 32964,
+        "end": 32967
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 33008,
+        "end": 33027
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 33029,
+        "end": 33032
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 33718,
+        "end": 33722
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 33965,
+        "end": 33970
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 33972,
+        "end": 33973
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 34445,
+        "end": 34449
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 35631,
+        "end": 35637
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 36353,
+        "end": 36372
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 36374,
+        "end": 36377
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 36379,
+        "end": 36388
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 36428,
+        "end": 36433
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 36564,
+        "end": 36570
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 36602,
+        "end": 36605
+    },
+    {
+        "text": "each month",
+        "label": "DATE",
+        "start": 37489,
+        "end": 37499
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 38266,
+        "end": 38272
+    },
+    {
+        "text": "2.2(c)(iv);",
+        "label": "CARDINAL",
+        "start": 38622,
+        "end": 38633
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 38692,
+        "end": 38698
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 38724,
+        "end": 38743
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 38745,
+        "end": 38748
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 38893,
+        "end": 38899
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 39042,
+        "end": 39048
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 39258,
+        "end": 39264
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 39412,
+        "end": 39418
+    },
+    {
+        "text": "section 2.1(e",
+        "label": "LAW",
+        "start": 39722,
+        "end": 39735
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 40091,
+        "end": 40097
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 40114,
+        "end": 40117
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 40231,
+        "end": 40239
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 40469,
+        "end": 40472
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 40532,
+        "end": 40535
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 40637,
+        "end": 40640
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 40859,
+        "end": 40862
+    },
+    {
+        "text": "jrc",
+        "label": "ORG",
+        "start": 41152,
+        "end": 41155
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 41331,
+        "end": 41350
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 41352,
+        "end": 41355
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 41357,
+        "end": 41366
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 41385,
+        "end": 41388
+    },
+    {
+        "text": "each month",
+        "label": "DATE",
+        "start": 41418,
+        "end": 41428
+    },
+    {
+        "text": "jrc",
+        "label": "ORG",
+        "start": 41568,
+        "end": 41571
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 42127,
+        "end": 42130
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 42282,
+        "end": 42287
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 42724,
+        "end": 42727
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 42961,
+        "end": 42964
+    },
+    {
+        "text": "jrc",
+        "label": "ORG",
+        "start": 43088,
+        "end": 43091
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 43633,
+        "end": 43639
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 43839,
+        "end": 43842
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 44385,
+        "end": 44388
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 44566,
+        "end": 44585
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 44587,
+        "end": 44590
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 44592,
+        "end": 44601
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 44602,
+        "end": 44608
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 45390,
+        "end": 45393
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 45422,
+        "end": 45438
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 46170,
+        "end": 46176
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 46317,
+        "end": 46323
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 46427,
+        "end": 46433
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 47082,
+        "end": 47085
+    },
+    {
+        "text": "fd&c",
+        "label": "ORG",
+        "start": 47572,
+        "end": 47576
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 47594,
+        "end": 47597
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 47865,
+        "end": 47884
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 47886,
+        "end": 47889
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 47891,
+        "end": 47900
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 48874,
+        "end": 48875
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 48930,
+        "end": 48933
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 49395,
+        "end": 49401
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 49661,
+        "end": 49664
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 50615,
+        "end": 50618
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 51014,
+        "end": 51033
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 51035,
+        "end": 51038
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 51040,
+        "end": 51049
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 51198,
+        "end": 51203
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 51515,
+        "end": 51520
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 51628,
+        "end": 51633
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 51739,
+        "end": 51747
+    },
+    {
+        "text": "forty-five",
+        "label": "CARDINAL",
+        "start": 52179,
+        "end": 52189
+    },
+    {
+        "text": "45) days",
+        "label": "DATE",
+        "start": 52191,
+        "end": 52199
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 52321,
+        "end": 52326
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 52459,
+        "end": 52464
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 52591,
+        "end": 52596
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 52724,
+        "end": 52729
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 52836,
+        "end": 52844
+    },
+    {
+        "text": "forty-five",
+        "label": "CARDINAL",
+        "start": 53279,
+        "end": 53289
+    },
+    {
+        "text": "45) days",
+        "label": "DATE",
+        "start": 53291,
+        "end": 53299
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 53426,
+        "end": 53431
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 53565,
+        "end": 53570
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 53910,
+        "end": 53929
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 53931,
+        "end": 53934
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 53936,
+        "end": 53945
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 54080,
+        "end": 54085
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 54182,
+        "end": 54185
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 56436,
+        "end": 56439
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 56950,
+        "end": 56969
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 56971,
+        "end": 56974
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 59137,
+        "end": 59143
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 59221,
+        "end": 59227
+    },
+    {
+        "text": "six-month",
+        "label": "DATE",
+        "start": 59288,
+        "end": 59297
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 59331,
+        "end": 59350
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 59352,
+        "end": 59355
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 59357,
+        "end": 59366
+    },
+    {
+        "text": "3.2(c)(i",
+        "label": "CARDINAL",
+        "start": 59436,
+        "end": 59444
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 59568,
+        "end": 59574
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 59663,
+        "end": 59666
+    },
+    {
+        "text": "july 2009",
+        "label": "DATE",
+        "start": 59959,
+        "end": 59968
+    },
+    {
+        "text": "america",
+        "label": "GPE",
+        "start": 60110,
+        "end": 60117
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 60317,
+        "end": 60323
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 60531,
+        "end": 60537
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 60923,
+        "end": 60929
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 61308,
+        "end": 61314
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 61473,
+        "end": 61479
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 61560,
+        "end": 61563
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 61565,
+        "end": 61568
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 61573,
+        "end": 61576
+    },
+    {
+        "text": "calendar year 2018",
+        "label": "DATE",
+        "start": 61695,
+        "end": 61713
+    },
+    {
+        "text": "year 2019",
+        "label": "DATE",
+        "start": 61731,
+        "end": 61740
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 61831,
+        "end": 61837
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 61858,
+        "end": 61864
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 61939,
+        "end": 61958
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 61960,
+        "end": 61963
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 61965,
+        "end": 61974
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 62004,
+        "end": 62010
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 62064,
+        "end": 62070
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 62393,
+        "end": 62397
+    },
+    {
+        "text": "year 2019",
+        "label": "DATE",
+        "start": 62433,
+        "end": 62442
+    },
+    {
+        "text": "year 2019",
+        "label": "DATE",
+        "start": 62569,
+        "end": 62578
+    },
+    {
+        "text": "year 2019",
+        "label": "DATE",
+        "start": 62880,
+        "end": 62889
+    },
+    {
+        "text": "4q2018-3q2019",
+        "label": "DATE",
+        "start": 62891,
+        "end": 62904
+    },
+    {
+        "text": "year 2019",
+        "label": "DATE",
+        "start": 62933,
+        "end": 62942
+    },
+    {
+        "text": "the calendar year 2019",
+        "label": "DATE",
+        "start": 63052,
+        "end": 63074
+    },
+    {
+        "text": "the calendar year 2019",
+        "label": "DATE",
+        "start": 63306,
+        "end": 63328
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 63642,
+        "end": 63647
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 64673,
+        "end": 64679
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 64712,
+        "end": 64731
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 64733,
+        "end": 64736
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 64738,
+        "end": 64747
+    },
+    {
+        "text": "harry connick",
+        "label": "PERSON",
+        "start": 65265,
+        "end": 65278
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 65358,
+        "end": 65364
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 65759,
+        "end": 65765
+    },
+    {
+        "text": "8.7",
+        "label": "CARDINAL",
+        "start": 65857,
+        "end": 65860
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 66092,
+        "end": 66098
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 66310,
+        "end": 66314
+    },
+    {
+        "text": "each month",
+        "label": "DATE",
+        "start": 66338,
+        "end": 66348
+    },
+    {
+        "text": "month",
+        "label": "DATE",
+        "start": 66519,
+        "end": 66524
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 66535,
+        "end": 66544
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 66630,
+        "end": 66634
+    },
+    {
+        "text": "forty-five",
+        "label": "CARDINAL",
+        "start": 66698,
+        "end": 66708
+    },
+    {
+        "text": "45",
+        "label": "DATE",
+        "start": 66710,
+        "end": 66712
+    },
+    {
+        "text": "calendar year 2018",
+        "label": "DATE",
+        "start": 67028,
+        "end": 67046
+    },
+    {
+        "text": "2019",
+        "label": "DATE",
+        "start": 67051,
+        "end": 67055
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 67539,
+        "end": 67558
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 67560,
+        "end": 67563
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 67565,
+        "end": 67574
+    },
+    {
+        "text": "twenty percent",
+        "label": "PERCENT",
+        "start": 67623,
+        "end": 67637
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 67639,
+        "end": 67641
+    },
+    {
+        "text": "twenty",
+        "label": "CARDINAL",
+        "start": 67743,
+        "end": 67749
+    },
+    {
+        "text": "20) days",
+        "label": "DATE",
+        "start": 67751,
+        "end": 67759
+    },
+    {
+        "text": "the first week",
+        "label": "DATE",
+        "start": 69816,
+        "end": 69830
+    },
+    {
+        "text": "october 2018",
+        "label": "DATE",
+        "start": 69834,
+        "end": 69846
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 69975,
+        "end": 69981
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 70075,
+        "end": 70094
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 70096,
+        "end": 70099
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 70859,
+        "end": 70862
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 71252,
+        "end": 71253
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 71493,
+        "end": 71499
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 71517,
+        "end": 71518
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 71556,
+        "end": 71557
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 72590,
+        "end": 72609
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 72611,
+        "end": 72614
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 72616,
+        "end": 72625
+    },
+    {
+        "text": "section 3.2(b)(v",
+        "label": "LAW",
+        "start": 73552,
+        "end": 73568
+    },
+    {
+        "text": "one\nbusiness day",
+        "label": "DATE",
+        "start": 73618,
+        "end": 73634
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 74057,
+        "end": 74060
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 74061,
+        "end": 74067
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 74170,
+        "end": 74176
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 74276,
+        "end": 74282
+    },
+    {
+        "text": "no later than october 1",
+        "label": "DATE",
+        "start": 74350,
+        "end": 74373
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 74495,
+        "end": 74501
+    },
+    {
+        "text": "no later than october 31",
+        "label": "DATE",
+        "start": 74520,
+        "end": 74544
+    },
+    {
+        "text": "the calendar year",
+        "label": "DATE",
+        "start": 74576,
+        "end": 74593
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 74608,
+        "end": 74614
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 74657,
+        "end": 74663
+    },
+    {
+        "text": "2019",
+        "label": "DATE",
+        "start": 74687,
+        "end": 74691
+    },
+    {
+        "text": "no later than december 1, 2018",
+        "label": "DATE",
+        "start": 74817,
+        "end": 74847
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 74890,
+        "end": 74896
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 74933,
+        "end": 74937
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 74991,
+        "end": 74995
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 75053,
+        "end": 75059
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 75319,
+        "end": 75325
+    },
+    {
+        "text": "2019",
+        "label": "DATE",
+        "start": 75383,
+        "end": 75387
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 75546,
+        "end": 75550
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 75602,
+        "end": 75621
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 75623,
+        "end": 75626
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 75628,
+        "end": 75637
+    },
+    {
+        "text": "m&p",
+        "label": "PERSON",
+        "start": 75706,
+        "end": 75709
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 75740,
+        "end": 75744
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 75746,
+        "end": 75749
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 75950,
+        "end": 75956
+    },
+    {
+        "text": "a calendar year",
+        "label": "DATE",
+        "start": 76080,
+        "end": 76095
+    },
+    {
+        "text": "less than",
+        "label": "DATE",
+        "start": 76135,
+        "end": 76144
+    },
+    {
+        "text": "625,000",
+        "label": "CARDINAL",
+        "start": 76179,
+        "end": 76186
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 76218,
+        "end": 76222
+    },
+    {
+        "text": "one\nhundred",
+        "label": "CARDINAL",
+        "start": 76285,
+        "end": 76296
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 76415,
+        "end": 76416
+    },
+    {
+        "text": "less than",
+        "label": "CARDINAL",
+        "start": 76507,
+        "end": 76516
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 76533,
+        "end": 76535
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 76670,
+        "end": 76671
+    },
+    {
+        "text": "less than twenty",
+        "label": "CARDINAL",
+        "start": 76761,
+        "end": 76777
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 76792,
+        "end": 76794
+    },
+    {
+        "text": "less than",
+        "label": "CARDINAL",
+        "start": 76929,
+        "end": 76938
+    },
+    {
+        "text": "562,500",
+        "label": "CARDINAL",
+        "start": 76985,
+        "end": 76992
+    },
+    {
+        "text": "a calendar year",
+        "label": "DATE",
+        "start": 77005,
+        "end": 77020
+    },
+    {
+        "text": "3.4(a",
+        "label": "WORK_OF_ART",
+        "start": 77159,
+        "end": 77164
+    },
+    {
+        "text": "the last calendar quarter",
+        "label": "DATE",
+        "start": 77243,
+        "end": 77268
+    },
+    {
+        "text": "the next calendar quarter or calendar quarters",
+        "label": "DATE",
+        "start": 77454,
+        "end": 77500
+    },
+    {
+        "text": "less than",
+        "label": "CARDINAL",
+        "start": 77578,
+        "end": 77587
+    },
+    {
+        "text": "450,000",
+        "label": "CARDINAL",
+        "start": 77617,
+        "end": 77624
+    },
+    {
+        "text": "a calendar year",
+        "label": "DATE",
+        "start": 77637,
+        "end": 77652
+    },
+    {
+        "text": "3.4(a",
+        "label": "WORK_OF_ART",
+        "start": 77745,
+        "end": 77750
+    },
+    {
+        "text": "section 8.3(b",
+        "label": "LAW",
+        "start": 77814,
+        "end": 77827
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 78742,
+        "end": 78761
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 78763,
+        "end": 78766
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 78768,
+        "end": 78777
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 78778,
+        "end": 78784
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 79341,
+        "end": 79347
+    },
+    {
+        "text": "jrc",
+        "label": "GPE",
+        "start": 79655,
+        "end": 79658
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 79806,
+        "end": 79813
+    },
+    {
+        "text": "15) business days",
+        "label": "DATE",
+        "start": 79815,
+        "end": 79832
+    },
+    {
+        "text": "the end of each month",
+        "label": "DATE",
+        "start": 79839,
+        "end": 79860
+    },
+    {
+        "text": "such month",
+        "label": "DATE",
+        "start": 79996,
+        "end": 80006
+    },
+    {
+        "text": "such month",
+        "label": "DATE",
+        "start": 80121,
+        "end": 80131
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 80165,
+        "end": 80171
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 80434,
+        "end": 80437
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 80623,
+        "end": 80629
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 80697,
+        "end": 80700
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 80724,
+        "end": 80737
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 80739,
+        "end": 80741
+    },
+    {
+        "text": "m&p",
+        "label": "PERSON",
+        "start": 80753,
+        "end": 80756
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 80930,
+        "end": 80936
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 81081,
+        "end": 81087
+    },
+    {
+        "text": "pfizer",
+        "label": "PERSON",
+        "start": 81187,
+        "end": 81193
+    },
+    {
+        "text": "m&p",
+        "label": "PERSON",
+        "start": 81322,
+        "end": 81325
+    },
+    {
+        "text": "at least twelve million dollars",
+        "label": "CARDINAL",
+        "start": 81384,
+        "end": 81415
+    },
+    {
+        "text": "12,000,000",
+        "label": "CARDINAL",
+        "start": 81417,
+        "end": 81427
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 81515,
+        "end": 81524
+    },
+    {
+        "text": "eighty million\ndollars",
+        "label": "MONEY",
+        "start": 81586,
+        "end": 81608
+    },
+    {
+        "text": "80,000,000",
+        "label": "CARDINAL",
+        "start": 81610,
+        "end": 81620
+    },
+    {
+        "text": "less than eighty million dollars",
+        "label": "MONEY",
+        "start": 81855,
+        "end": 81887
+    },
+    {
+        "text": "80,000,000",
+        "label": "CARDINAL",
+        "start": 81889,
+        "end": 81899
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 82128,
+        "end": 82147
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 82149,
+        "end": 82152
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 82154,
+        "end": 82163
+    },
+    {
+        "text": "a calendar year",
+        "label": "DATE",
+        "start": 82260,
+        "end": 82275
+    },
+    {
+        "text": "m&p",
+        "label": "PERSON",
+        "start": 82357,
+        "end": 82360
+    },
+    {
+        "text": "24 million",
+        "label": "CARDINAL",
+        "start": 82370,
+        "end": 82380
+    },
+    {
+        "text": "22 million",
+        "label": "CARDINAL",
+        "start": 82382,
+        "end": 82392
+    },
+    {
+        "text": "21 million",
+        "label": "CARDINAL",
+        "start": 82394,
+        "end": 82404
+    },
+    {
+        "text": "20 million",
+        "label": "CARDINAL",
+        "start": 82406,
+        "end": 82416
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 82582,
+        "end": 82588
+    },
+    {
+        "text": "calendar year 2018",
+        "label": "DATE",
+        "start": 82639,
+        "end": 82657
+    },
+    {
+        "text": "m&p",
+        "label": "PERSON",
+        "start": 82675,
+        "end": 82678
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 82728,
+        "end": 82734
+    },
+    {
+        "text": "december 31, 2018",
+        "label": "DATE",
+        "start": 82769,
+        "end": 82786
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 82798,
+        "end": 82804
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 82806,
+        "end": 82808
+    },
+    {
+        "text": "twenty-four million dollars",
+        "label": "MONEY",
+        "start": 82824,
+        "end": 82851
+    },
+    {
+        "text": "24,000,000);",
+        "label": "CARDINAL",
+        "start": 82853,
+        "end": 82865
+    },
+    {
+        "text": "m&p",
+        "label": "ORG",
+        "start": 82975,
+        "end": 82978
+    },
+    {
+        "text": "m&p",
+        "label": "PERSON",
+        "start": 83134,
+        "end": 83137
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 83147,
+        "end": 83150
+    },
+    {
+        "text": "eighty million dollars",
+        "label": "MONEY",
+        "start": 83362,
+        "end": 83384
+    },
+    {
+        "text": "80,000,000",
+        "label": "CARDINAL",
+        "start": 83386,
+        "end": 83396
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 83413,
+        "end": 83417
+    },
+    {
+        "text": "2019",
+        "label": "DATE",
+        "start": 83419,
+        "end": 83423
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 83425,
+        "end": 83429
+    },
+    {
+        "text": "2021",
+        "label": "DATE",
+        "start": 83435,
+        "end": 83439
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 83804,
+        "end": 83810
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 83955,
+        "end": 83961
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 84321,
+        "end": 84327
+    },
+    {
+        "text": "year",
+        "label": "DATE",
+        "start": 84609,
+        "end": 84613
+    },
+    {
+        "text": "80 million",
+        "label": "CARDINAL",
+        "start": 84671,
+        "end": 84681
+    },
+    {
+        "text": "80 million",
+        "label": "CARDINAL",
+        "start": 84694,
+        "end": 84704
+    },
+    {
+        "text": "80 million",
+        "label": "CARDINAL",
+        "start": 84717,
+        "end": 84727
+    },
+    {
+        "text": "21 million",
+        "label": "CARDINAL",
+        "start": 84728,
+        "end": 84738
+    },
+    {
+        "text": "80 million",
+        "label": "CARDINAL",
+        "start": 84740,
+        "end": 84750
+    },
+    {
+        "text": "20 million",
+        "label": "CARDINAL",
+        "start": 84751,
+        "end": 84761
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 84771,
+        "end": 84790
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 84792,
+        "end": 84795
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 84797,
+        "end": 84806
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 84996,
+        "end": 85002
+    },
+    {
+        "text": "year 2018",
+        "label": "DATE",
+        "start": 85062,
+        "end": 85071
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 85166,
+        "end": 85172
+    },
+    {
+        "text": "december 31, 2018",
+        "label": "DATE",
+        "start": 85207,
+        "end": 85224
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 85236,
+        "end": 85242
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 85244,
+        "end": 85246
+    },
+    {
+        "text": "eighty million dollars",
+        "label": "MONEY",
+        "start": 85262,
+        "end": 85284
+    },
+    {
+        "text": "80,000,000",
+        "label": "CARDINAL",
+        "start": 85286,
+        "end": 85296
+    },
+    {
+        "text": "twenty-four million dollars",
+        "label": "MONEY",
+        "start": 85301,
+        "end": 85328
+    },
+    {
+        "text": "24,000,000",
+        "label": "CARDINAL",
+        "start": 85330,
+        "end": 85340
+    },
+    {
+        "text": "m&p",
+        "label": "ORG",
+        "start": 85471,
+        "end": 85474
+    },
+    {
+        "text": "m&p",
+        "label": "PERSON",
+        "start": 85626,
+        "end": 85629
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 85639,
+        "end": 85642
+    },
+    {
+        "text": "m&p",
+        "label": "ORG",
+        "start": 85661,
+        "end": 85664
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 85796,
+        "end": 85802
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 86318,
+        "end": 86324
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 86713,
+        "end": 86714
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 86728,
+        "end": 86731
+    },
+    {
+        "text": "m&p",
+        "label": "PERSON",
+        "start": 86758,
+        "end": 86761
+    },
+    {
+        "text": "m&p",
+        "label": "ORG",
+        "start": 86792,
+        "end": 86795
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 86858,
+        "end": 86861
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 86866,
+        "end": 86869
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 86926,
+        "end": 86932
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 86985,
+        "end": 86992
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 87277,
+        "end": 87283
+    },
+    {
+        "text": "the next calendar quarter",
+        "label": "DATE",
+        "start": 87417,
+        "end": 87442
+    },
+    {
+        "text": "a calendar year",
+        "label": "DATE",
+        "start": 87539,
+        "end": 87554
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 87597,
+        "end": 87600
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 87619,
+        "end": 87623
+    },
+    {
+        "text": "december 31, 2018",
+        "label": "DATE",
+        "start": 87825,
+        "end": 87842
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 87897,
+        "end": 87916
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 87918,
+        "end": 87921
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 87923,
+        "end": 87932
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 88063,
+        "end": 88067
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 88164,
+        "end": 88171
+    },
+    {
+        "text": "at least eighty million dollars",
+        "label": "MONEY",
+        "start": 88207,
+        "end": 88238
+    },
+    {
+        "text": "80,000,000",
+        "label": "CARDINAL",
+        "start": 88240,
+        "end": 88250
+    },
+    {
+        "text": "between january 1, 2018",
+        "label": "DATE",
+        "start": 88312,
+        "end": 88335
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 88401,
+        "end": 88405
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 88429,
+        "end": 88436
+    },
+    {
+        "text": "15) business days",
+        "label": "DATE",
+        "start": 88438,
+        "end": 88455
+    },
+    {
+        "text": "the end of each month",
+        "label": "DATE",
+        "start": 88462,
+        "end": 88483
+    },
+    {
+        "text": "october, 2018",
+        "label": "DATE",
+        "start": 88515,
+        "end": 88528
+    },
+    {
+        "text": "such month",
+        "label": "DATE",
+        "start": 88689,
+        "end": 88699
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 88909,
+        "end": 88915
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 88947,
+        "end": 88954
+    },
+    {
+        "text": "15) business days",
+        "label": "DATE",
+        "start": 88956,
+        "end": 88973
+    },
+    {
+        "text": "the end of each month",
+        "label": "DATE",
+        "start": 88980,
+        "end": 89001
+    },
+    {
+        "text": "october, 2018",
+        "label": "DATE",
+        "start": 89034,
+        "end": 89047
+    },
+    {
+        "text": "m&p",
+        "label": "ORG",
+        "start": 89146,
+        "end": 89149
+    },
+    {
+        "text": "such month",
+        "label": "DATE",
+        "start": 89198,
+        "end": 89208
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 89370,
+        "end": 89376
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 89393,
+        "end": 89396
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 89481,
+        "end": 89493
+    },
+    {
+        "text": "the next calendar quarter",
+        "label": "DATE",
+        "start": 89497,
+        "end": 89522
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 89552,
+        "end": 89559
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 89623,
+        "end": 89636
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 89638,
+        "end": 89640
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 89790,
+        "end": 89797
+    },
+    {
+        "text": "the calendar quarter",
+        "label": "DATE",
+        "start": 89837,
+        "end": 89857
+    },
+    {
+        "text": "sixty-eight percent",
+        "label": "PERCENT",
+        "start": 89996,
+        "end": 90015
+    },
+    {
+        "text": "68",
+        "label": "CARDINAL",
+        "start": 90017,
+        "end": 90019
+    },
+    {
+        "text": "more than seventy-four percent",
+        "label": "CARDINAL",
+        "start": 90024,
+        "end": 90054
+    },
+    {
+        "text": "74",
+        "label": "CARDINAL",
+        "start": 90056,
+        "end": 90058
+    },
+    {
+        "text": "0.5",
+        "label": "CARDINAL",
+        "start": 90605,
+        "end": 90608
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 90626,
+        "end": 90645
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 90647,
+        "end": 90650
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 90652,
+        "end": 90661
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 90891,
+        "end": 90897
+    },
+    {
+        "text": "year",
+        "label": "DATE",
+        "start": 90938,
+        "end": 90942
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 91128,
+        "end": 91132
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 91138,
+        "end": 91143
+    },
+    {
+        "text": "december 31, 2018",
+        "label": "DATE",
+        "start": 91194,
+        "end": 91211
+    },
+    {
+        "text": "130 million",
+        "label": "CARDINAL",
+        "start": 91314,
+        "end": 91325
+    },
+    {
+        "text": "441 million",
+        "label": "CARDINAL",
+        "start": 91378,
+        "end": 91389
+    },
+    {
+        "text": "622 million",
+        "label": "CARDINAL",
+        "start": 91391,
+        "end": 91402
+    },
+    {
+        "text": "861 million",
+        "label": "CARDINAL",
+        "start": 91404,
+        "end": 91415
+    },
+    {
+        "text": "1.191 billion",
+        "label": "MONEY",
+        "start": 91417,
+        "end": 91430
+    },
+    {
+        "text": "3.4(a)(i",
+        "label": "CARDINAL",
+        "start": 91512,
+        "end": 91520
+    },
+    {
+        "text": "3.4(a)(ii",
+        "label": "CARDINAL",
+        "start": 91526,
+        "end": 91535
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 91688,
+        "end": 91692
+    },
+    {
+        "text": "2019",
+        "label": "DATE",
+        "start": 91711,
+        "end": 91715
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 91736,
+        "end": 91741
+    },
+    {
+        "text": "less than 37.5 million",
+        "label": "MONEY",
+        "start": 91768,
+        "end": 91790
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 91797,
+        "end": 91802
+    },
+    {
+        "text": "each of calendar year 2020",
+        "label": "DATE",
+        "start": 91956,
+        "end": 91982
+    },
+    {
+        "text": "2021",
+        "label": "DATE",
+        "start": 91987,
+        "end": 91991
+    },
+    {
+        "text": "less than 30 million",
+        "label": "MONEY",
+        "start": 91995,
+        "end": 92015
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 92018,
+        "end": 92024
+    },
+    {
+        "text": "june 30",
+        "label": "DATE",
+        "start": 92188,
+        "end": 92195
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 92313,
+        "end": 92318
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 92437,
+        "end": 92442
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 92558,
+        "end": 92562
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 92572,
+        "end": 92577
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 92578,
+        "end": 92581
+    },
+    {
+        "text": "6) months of calendar year 2019",
+        "label": "DATE",
+        "start": 92583,
+        "end": 92614
+    },
+    {
+        "text": "22.5 million",
+        "label": "CARDINAL",
+        "start": 92629,
+        "end": 92641
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 92667,
+        "end": 92673
+    },
+    {
+        "text": "six-month",
+        "label": "DATE",
+        "start": 92793,
+        "end": 92802
+    },
+    {
+        "text": "6-month",
+        "label": "DATE",
+        "start": 92804,
+        "end": 92811
+    },
+    {
+        "text": "june 30",
+        "label": "DATE",
+        "start": 92828,
+        "end": 92835
+    },
+    {
+        "text": "less\nthan 15 million",
+        "label": "MONEY",
+        "start": 92839,
+        "end": 92859
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 92873,
+        "end": 92884
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 92950,
+        "end": 92955
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 92990,
+        "end": 92996
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 93123,
+        "end": 93128
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 93138,
+        "end": 93157
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 93159,
+        "end": 93162
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 93164,
+        "end": 93173
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 93208,
+        "end": 93214
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 93437,
+        "end": 93442
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 93476,
+        "end": 93481
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 93641,
+        "end": 93646
+    },
+    {
+        "text": "the fourth calendar quarter of 2019",
+        "label": "DATE",
+        "start": 93782,
+        "end": 93817
+    },
+    {
+        "text": "2019",
+        "label": "DATE",
+        "start": 93972,
+        "end": 93976
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 93989,
+        "end": 93995
+    },
+    {
+        "text": "the fourth calendar quarter",
+        "label": "DATE",
+        "start": 94306,
+        "end": 94333
+    },
+    {
+        "text": "4.2(c)(i",
+        "label": "CARDINAL",
+        "start": 94471,
+        "end": 94479
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 94522,
+        "end": 94530
+    },
+    {
+        "text": "june 30",
+        "label": "DATE",
+        "start": 94545,
+        "end": 94552
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 94559,
+        "end": 94570
+    },
+    {
+        "text": "june 30, 2019",
+        "label": "DATE",
+        "start": 94609,
+        "end": 94622
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 94707,
+        "end": 94712
+    },
+    {
+        "text": "percentage”);",
+        "label": "PRODUCT",
+        "start": 95245,
+        "end": 95258
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 95692,
+        "end": 95695
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 95729,
+        "end": 95736
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 95741,
+        "end": 95750
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 95792,
+        "end": 95799
+    },
+    {
+        "text": "15) business days",
+        "label": "DATE",
+        "start": 95831,
+        "end": 95848
+    },
+    {
+        "text": "the end of the month",
+        "label": "DATE",
+        "start": 95855,
+        "end": 95875
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 96112,
+        "end": 96131
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 96133,
+        "end": 96136
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 96138,
+        "end": 96147
+    },
+    {
+        "text": "15) business days",
+        "label": "DATE",
+        "start": 96303,
+        "end": 96320
+    },
+    {
+        "text": "the calendar year",
+        "label": "DATE",
+        "start": 96471,
+        "end": 96488
+    },
+    {
+        "text": "section 4.2",
+        "label": "LAW",
+        "start": 96527,
+        "end": 96538
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 96592,
+        "end": 96600
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 96632,
+        "end": 96639
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 97063,
+        "end": 97066
+    },
+    {
+        "text": "at least thirty",
+        "label": "CARDINAL",
+        "start": 98607,
+        "end": 98622
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 98624,
+        "end": 98632
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 99781,
+        "end": 99800
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 99802,
+        "end": 99805
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 99807,
+        "end": 99816
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 100217,
+        "end": 100220
+    },
+    {
+        "text": "4.6",
+        "label": "CARDINAL",
+        "start": 100926,
+        "end": 100929
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 100970,
+        "end": 100973
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 101332,
+        "end": 101335
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 101681,
+        "end": 101687
+    },
+    {
+        "text": "at least three",
+        "label": "CARDINAL",
+        "start": 101980,
+        "end": 101994
+    },
+    {
+        "text": "3) years",
+        "label": "DATE",
+        "start": 101996,
+        "end": 102004
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 102115,
+        "end": 102123
+    },
+    {
+        "text": "3.4(d",
+        "label": "CARDINAL",
+        "start": 102643,
+        "end": 102648
+    },
+    {
+        "text": "4.3(a",
+        "label": "EVENT",
+        "start": 102662,
+        "end": 102667
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 102848,
+        "end": 102867
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 102869,
+        "end": 102872
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 102874,
+        "end": 102883
+    },
+    {
+        "text": "twenty-four",
+        "label": "CARDINAL",
+        "start": 102989,
+        "end": 103000
+    },
+    {
+        "text": "24) months",
+        "label": "DATE",
+        "start": 103002,
+        "end": 103012
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 103284,
+        "end": 103305
+    },
+    {
+        "text": "m&p",
+        "label": "ORG",
+        "start": 103775,
+        "end": 103778
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 104307,
+        "end": 104315
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 104633,
+        "end": 104649
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 104760,
+        "end": 104768
+    },
+    {
+        "text": "more than twenty-four",
+        "label": "CARDINAL",
+        "start": 105472,
+        "end": 105493
+    },
+    {
+        "text": "24) months",
+        "label": "DATE",
+        "start": 105495,
+        "end": 105505
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 105856,
+        "end": 105877
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 106074,
+        "end": 106093
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 106095,
+        "end": 106098
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 106100,
+        "end": 106109
+    },
+    {
+        "text": "article 6",
+        "label": "LAW",
+        "start": 106352,
+        "end": 106361
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 106445,
+        "end": 106450
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 106563,
+        "end": 106564
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 106609,
+        "end": 106612
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 108915,
+        "end": 108934
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 108936,
+        "end": 108939
+    },
+    {
+        "text": "8/22/2018",
+        "label": "GPE",
+        "start": 108941,
+        "end": 108950
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 108951,
+        "end": 108954
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 109110,
+        "end": 109115
+    },
+    {
+        "text": "fd&c",
+        "label": "ORG",
+        "start": 109542,
+        "end": 109546
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 109579,
+        "end": 109581
+    },
+    {
+        "text": "1320a-7b",
+        "label": "DATE",
+        "start": 109591,
+        "end": 109599
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 109634,
+        "end": 109636
+    },
+    {
+        "text": "1320a-7a",
+        "label": "CARDINAL",
+        "start": 109646,
+        "end": 109654
+    },
+    {
+        "text": "31",
+        "label": "CARDINAL",
+        "start": 109679,
+        "end": 109681
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 111162,
+        "end": 111167
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 111436,
+        "end": 111441
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 111541,
+        "end": 111546
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 111882,
+        "end": 111887
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 111920,
+        "end": 111939
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 111941,
+        "end": 111944
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 111946,
+        "end": 111955
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 112035,
+        "end": 112040
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 112162,
+        "end": 112167
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 112207,
+        "end": 112212
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 112273,
+        "end": 112278
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 112492,
+        "end": 112495
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 114572,
+        "end": 114591
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 114593,
+        "end": 114596
+    },
+    {
+        "text": "8/22/2018",
+        "label": "GPE",
+        "start": 114598,
+        "end": 114607
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 114608,
+        "end": 114611
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 115336,
+        "end": 115342
+    },
+    {
+        "text": "fd&c",
+        "label": "ORG",
+        "start": 115436,
+        "end": 115440
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 115474,
+        "end": 115476
+    },
+    {
+        "text": "1320a-7b",
+        "label": "DATE",
+        "start": 115486,
+        "end": 115494
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 115529,
+        "end": 115531
+    },
+    {
+        "text": "1320a-7a",
+        "label": "CARDINAL",
+        "start": 115541,
+        "end": 115549
+    },
+    {
+        "text": "31",
+        "label": "CARDINAL",
+        "start": 115574,
+        "end": 115576
+    },
+    {
+        "text": "the fda);\n(c",
+        "label": "ORG",
+        "start": 115711,
+        "end": 115723
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 115894,
+        "end": 115898
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 117057,
+        "end": 117062
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 117553,
+        "end": 117572
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 117574,
+        "end": 117577
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 117579,
+        "end": 117588
+    },
+    {
+        "text": "three years",
+        "label": "DATE",
+        "start": 119142,
+        "end": 119153
+    },
+    {
+        "text": "cia",
+        "label": "ORG",
+        "start": 119443,
+        "end": 119446
+    },
+    {
+        "text": "23, 2018",
+        "label": "DATE",
+        "start": 119469,
+        "end": 119477
+    },
+    {
+        "text": "the united states department of health and human services",
+        "label": "ORG",
+        "start": 119497,
+        "end": 119554
+    },
+    {
+        "text": "cia",
+        "label": "ORG",
+        "start": 119672,
+        "end": 119675
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 119948,
+        "end": 119956
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 120089,
+        "end": 120090
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 120251,
+        "end": 120252
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 120545,
+        "end": 120564
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 120566,
+        "end": 120569
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 121948,
+        "end": 121956
+    },
+    {
+        "text": "the u.s. department of health and human services",
+        "label": "ORG",
+        "start": 123099,
+        "end": 123147
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 123416,
+        "end": 123435
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 123437,
+        "end": 123440
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 123442,
+        "end": 123451
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 123541,
+        "end": 123549
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 124694,
+        "end": 124697
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 124829,
+        "end": 124832
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 124914,
+        "end": 124917
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 125925,
+        "end": 125928
+    },
+    {
+        "text": "5.7",
+        "label": "CARDINAL",
+        "start": 126333,
+        "end": 126336
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 126520,
+        "end": 126539
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 126541,
+        "end": 126544
+    },
+    {
+        "text": "8/22/2018",
+        "label": "GPE",
+        "start": 126546,
+        "end": 126555
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 126556,
+        "end": 126559
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 126887,
+        "end": 126888
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 126946,
+        "end": 126949
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 127298,
+        "end": 127303
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 128305,
+        "end": 128310
+    },
+    {
+        "text": "section 6.1",
+        "label": "LAW",
+        "start": 128978,
+        "end": 128989
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 129138,
+        "end": 129143
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 129248,
+        "end": 129253
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 129363,
+        "end": 129368
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 129402,
+        "end": 129421
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 129423,
+        "end": 129426
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 129428,
+        "end": 129437
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 129702,
+        "end": 129718
+    },
+    {
+        "text": "section 6.1",
+        "label": "LAW",
+        "start": 130108,
+        "end": 130119
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 131515,
+        "end": 131518
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 131609,
+        "end": 131613
+    },
+    {
+        "text": "less than five million dollars",
+        "label": "MONEY",
+        "start": 131804,
+        "end": 131834
+    },
+    {
+        "text": "5,000,000",
+        "label": "CARDINAL",
+        "start": 131836,
+        "end": 131845
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 132430,
+        "end": 132449
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 132451,
+        "end": 132454
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 132456,
+        "end": 132465
+    },
+    {
+        "text": "section 6",
+        "label": "LAW",
+        "start": 132600,
+        "end": 132609
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 132611,
+        "end": 132614
+    },
+    {
+        "text": "section 6.1",
+        "label": "LAW",
+        "start": 132760,
+        "end": 132771
+    },
+    {
+        "text": "section 7",
+        "label": "LAW",
+        "start": 132789,
+        "end": 132798
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 133216,
+        "end": 133217
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 133247,
+        "end": 133250
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 133423,
+        "end": 133427
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 135161,
+        "end": 135166
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 135301,
+        "end": 135320
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 135322,
+        "end": 135325
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 135327,
+        "end": 135336
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 135564,
+        "end": 135567
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 135653,
+        "end": 135656
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 135685,
+        "end": 135690
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 136232,
+        "end": 136235
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 136540,
+        "end": 136543
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 136714,
+        "end": 136717
+    },
+    {
+        "text": "the united\nstates securities and exchange commission",
+        "label": "ORG",
+        "start": 136964,
+        "end": 137016
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 137574,
+        "end": 137577
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 137869,
+        "end": 137872
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 138163,
+        "end": 138182
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 138184,
+        "end": 138187
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 138189,
+        "end": 138198
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 138357,
+        "end": 138360
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 138618,
+        "end": 138619
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 138643,
+        "end": 138646
+    },
+    {
+        "text": "december 31, 2021",
+        "label": "DATE",
+        "start": 138749,
+        "end": 138766
+    },
+    {
+        "text": "an additional one year",
+        "label": "DATE",
+        "start": 138896,
+        "end": 138918
+    },
+    {
+        "text": "ninety (90",
+        "label": "CARDINAL",
+        "start": 138987,
+        "end": 138997
+    },
+    {
+        "text": "less than ninety",
+        "label": "CARDINAL",
+        "start": 139123,
+        "end": 139139
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 139141,
+        "end": 139149
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 139411,
+        "end": 139414
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 139519,
+        "end": 139525
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 139527,
+        "end": 139535
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 139636,
+        "end": 139639
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 139643,
+        "end": 139646
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 139843,
+        "end": 139846
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 139850,
+        "end": 139853
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 140079,
+        "end": 140085
+    },
+    {
+        "text": "30) day period",
+        "label": "DATE",
+        "start": 140087,
+        "end": 140101
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 140132,
+        "end": 140138
+    },
+    {
+        "text": "30) day period",
+        "label": "DATE",
+        "start": 140140,
+        "end": 140154
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 140356,
+        "end": 140364
+    },
+    {
+        "text": "60) day period",
+        "label": "DATE",
+        "start": 140679,
+        "end": 140693
+    },
+    {
+        "text": "60) day period",
+        "label": "DATE",
+        "start": 140731,
+        "end": 140745
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 140940,
+        "end": 140959
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 140961,
+        "end": 140964
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 140966,
+        "end": 140975
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 141909,
+        "end": 141912
+    },
+    {
+        "text": "eighteen",
+        "label": "DATE",
+        "start": 141963,
+        "end": 141971
+    },
+    {
+        "text": "18) months",
+        "label": "DATE",
+        "start": 141973,
+        "end": 141983
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 142057,
+        "end": 142060
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 142062,
+        "end": 142071
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 142113,
+        "end": 142116
+    },
+    {
+        "text": "8.6",
+        "label": "CARDINAL",
+        "start": 142224,
+        "end": 142227
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 142317,
+        "end": 142320
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 142322,
+        "end": 142331
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 142437,
+        "end": 142445
+    },
+    {
+        "text": "8.7",
+        "label": "CARDINAL",
+        "start": 142493,
+        "end": 142496
+    },
+    {
+        "text": "section 8.6",
+        "label": "LAW",
+        "start": 142613,
+        "end": 142624
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 142829,
+        "end": 142835
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 142837,
+        "end": 142839
+    },
+    {
+        "text": "less than twelve",
+        "label": "CARDINAL",
+        "start": 143050,
+        "end": 143066
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 143068,
+        "end": 143070
+    },
+    {
+        "text": "section 8.6",
+        "label": "LAW",
+        "start": 143236,
+        "end": 143247
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 143312,
+        "end": 143320
+    },
+    {
+        "text": "200 million",
+        "label": "CARDINAL",
+        "start": 143592,
+        "end": 143603
+    },
+    {
+        "text": "200 million",
+        "label": "CARDINAL",
+        "start": 143611,
+        "end": 143622
+    },
+    {
+        "text": "400 million\n1",
+        "label": "QUANTITY",
+        "start": 143629,
+        "end": 143642
+    },
+    {
+        "text": "400 million",
+        "label": "CARDINAL",
+        "start": 143648,
+        "end": 143659
+    },
+    {
+        "text": "600 million",
+        "label": "CARDINAL",
+        "start": 143666,
+        "end": 143677
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 143678,
+        "end": 143679
+    },
+    {
+        "text": "600 million",
+        "label": "CARDINAL",
+        "start": 143685,
+        "end": 143696
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 143697,
+        "end": 143698
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 143708,
+        "end": 143727
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 143729,
+        "end": 143732
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 143734,
+        "end": 143743
+    },
+    {
+        "text": "500 million",
+        "label": "CARDINAL",
+        "start": 143843,
+        "end": 143854
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 143887,
+        "end": 143888
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 143983,
+        "end": 143984
+    },
+    {
+        "text": "8.8",
+        "label": "CARDINAL",
+        "start": 144053,
+        "end": 144056
+    },
+    {
+        "text": "m&p",
+        "label": "ORG",
+        "start": 144197,
+        "end": 144200
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 144832,
+        "end": 144837
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 144948,
+        "end": 144954
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 145056,
+        "end": 145059
+    },
+    {
+        "text": "6) month",
+        "label": "DATE",
+        "start": 145061,
+        "end": 145069
+    },
+    {
+        "text": "section 8.4",
+        "label": "LAW",
+        "start": 145156,
+        "end": 145167
+    },
+    {
+        "text": "section 8.4",
+        "label": "LAW",
+        "start": 145736,
+        "end": 145747
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 145793,
+        "end": 145796
+    },
+    {
+        "text": "section 8.4",
+        "label": "LAW",
+        "start": 145943,
+        "end": 145954
+    },
+    {
+        "text": "the calendar year",
+        "label": "DATE",
+        "start": 146059,
+        "end": 146076
+    },
+    {
+        "text": "8.9",
+        "label": "CARDINAL",
+        "start": 146149,
+        "end": 146152
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 146356,
+        "end": 146357
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 146373,
+        "end": 146376
+    },
+    {
+        "text": "3.2(e)(iii",
+        "label": "PERSON",
+        "start": 146420,
+        "end": 146430
+    },
+    {
+        "text": "3.2(j",
+        "label": "ORG",
+        "start": 146464,
+        "end": 146469
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 146520,
+        "end": 146523
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 146587,
+        "end": 146588
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 146644,
+        "end": 146645
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 146676,
+        "end": 146677
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 146705,
+        "end": 146706
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 146878,
+        "end": 146897
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 146899,
+        "end": 146902
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 146904,
+        "end": 146913
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 147016,
+        "end": 147017
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 147034,
+        "end": 147037
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 148424,
+        "end": 148431
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 148815,
+        "end": 148818
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 149831,
+        "end": 149834
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 150062,
+        "end": 150065
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 150236,
+        "end": 150255
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 150257,
+        "end": 150260
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 150262,
+        "end": 150271
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 150659,
+        "end": 150662
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 150664,
+        "end": 150673
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 151236,
+        "end": 151239
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 151543,
+        "end": 151547
+    },
+    {
+        "text": "5) days",
+        "label": "DATE",
+        "start": 151549,
+        "end": 151556
+    },
+    {
+        "text": "the next business day",
+        "label": "DATE",
+        "start": 151686,
+        "end": 151707
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 151719,
+        "end": 151728
+    },
+    {
+        "text": "next business day",
+        "label": "DATE",
+        "start": 151807,
+        "end": 151824
+    },
+    {
+        "text": "235",
+        "label": "CARDINAL",
+        "start": 152218,
+        "end": 152221
+    },
+    {
+        "text": "42nd",
+        "label": "ORDINAL",
+        "start": 152227,
+        "end": 152231
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 152239,
+        "end": 152247
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 152249,
+        "end": 152257
+    },
+    {
+        "text": "10017",
+        "label": "DATE",
+        "start": 152258,
+        "end": 152263
+    },
+    {
+        "text": "212",
+        "label": "CARDINAL",
+        "start": 152292,
+        "end": 152295
+    },
+    {
+        "text": "309",
+        "label": "CARDINAL",
+        "start": 152297,
+        "end": 152300
+    },
+    {
+        "text": "235",
+        "label": "CARDINAL",
+        "start": 152334,
+        "end": 152337
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 152343,
+        "end": 152345
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 152353,
+        "end": 152361
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 152363,
+        "end": 152371
+    },
+    {
+        "text": "10017",
+        "label": "DATE",
+        "start": 152372,
+        "end": 152377
+    },
+    {
+        "text": "north america",
+        "label": "LOC",
+        "start": 152404,
+        "end": 152417
+    },
+    {
+        "text": "235",
+        "label": "CARDINAL",
+        "start": 152453,
+        "end": 152456
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 152462,
+        "end": 152464
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 152472,
+        "end": 152480
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 152482,
+        "end": 152490
+    },
+    {
+        "text": "10017",
+        "label": "DATE",
+        "start": 152491,
+        "end": 152496
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 152610,
+        "end": 152629
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 152631,
+        "end": 152634
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 152636,
+        "end": 152645
+    },
+    {
+        "text": "441",
+        "label": "CARDINAL",
+        "start": 152673,
+        "end": 152676
+    },
+    {
+        "text": "madison",
+        "label": "GPE",
+        "start": 152692,
+        "end": 152699
+    },
+    {
+        "text": "wisconsin",
+        "label": "GPE",
+        "start": 152701,
+        "end": 152710
+    },
+    {
+        "text": "53719",
+        "label": "CARDINAL",
+        "start": 152711,
+        "end": 152716
+    },
+    {
+        "text": "608",
+        "label": "CARDINAL",
+        "start": 152745,
+        "end": 152748
+    },
+    {
+        "text": "284",
+        "label": "CARDINAL",
+        "start": 152750,
+        "end": 152753
+    },
+    {
+        "text": "441",
+        "label": "CARDINAL",
+        "start": 152802,
+        "end": 152805
+    },
+    {
+        "text": "madison",
+        "label": "GPE",
+        "start": 152821,
+        "end": 152828
+    },
+    {
+        "text": "wisconsin",
+        "label": "GPE",
+        "start": 152830,
+        "end": 152839
+    },
+    {
+        "text": "53719",
+        "label": "CARDINAL",
+        "start": 152840,
+        "end": 152845
+    },
+    {
+        "text": "9.6",
+        "label": "CARDINAL",
+        "start": 152856,
+        "end": 152859
+    },
+    {
+        "text": "9.7",
+        "label": "CARDINAL",
+        "start": 153088,
+        "end": 153091
+    },
+    {
+        "text": "9.8",
+        "label": "CARDINAL",
+        "start": 153662,
+        "end": 153665
+    },
+    {
+        "text": "9.9",
+        "label": "CARDINAL",
+        "start": 154373,
+        "end": 154376
+    },
+    {
+        "text": "9.10",
+        "label": "CARDINAL",
+        "start": 154597,
+        "end": 154601
+    },
+    {
+        "text": "9.11",
+        "label": "CARDINAL",
+        "start": 154789,
+        "end": 154793
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 155132,
+        "end": 155151
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 155153,
+        "end": 155156
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 155158,
+        "end": 155167
+    },
+    {
+        "text": "section 2.1",
+        "label": "LAW",
+        "start": 155215,
+        "end": 155226
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 155298,
+        "end": 155301
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 155670,
+        "end": 155676
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 155678,
+        "end": 155686
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 155855,
+        "end": 155859
+    },
+    {
+        "text": "9.12",
+        "label": "CARDINAL",
+        "start": 155921,
+        "end": 155925
+    },
+    {
+        "text": "9.13",
+        "label": "CARDINAL",
+        "start": 156275,
+        "end": 156279
+    },
+    {
+        "text": "9.14",
+        "label": "CARDINAL",
+        "start": 157031,
+        "end": 157035
+    },
+    {
+        "text": "9.15",
+        "label": "CARDINAL",
+        "start": 157635,
+        "end": 157639
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 157688,
+        "end": 157691
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 157693,
+        "end": 157694
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 158000,
+        "end": 158019
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 158021,
+        "end": 158024
+    },
+    {
+        "text": "8/22/2018",
+        "label": "DATE",
+        "start": 158026,
+        "end": 158035
+    },
+    {
+        "text": "pfizer inc.",
+        "label": "ORG",
+        "start": 158179,
+        "end": 158190
+    },
+    {
+        "text": "michael gladstone",
+        "label": "PERSON",
+        "start": 158225,
+        "end": 158242
+    },
+    {
+        "text": "kevin conroy",
+        "label": "PERSON",
+        "start": 158250,
+        "end": 158262
+    },
+    {
+        "text": "michael gladstone",
+        "label": "PERSON",
+        "start": 158269,
+        "end": 158286
+    },
+    {
+        "text": "kevin conroy",
+        "label": "PERSON",
+        "start": 158293,
+        "end": 158305
+    },
+    {
+        "text": "exact sciences corp",
+        "label": "ORG",
+        "start": 158439,
+        "end": 158458
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 158460,
+        "end": 158463
+    },
+    {
+        "text": "8/22/2018",
+        "label": "GPE",
+        "start": 158465,
+        "end": 158474
+    }
+]

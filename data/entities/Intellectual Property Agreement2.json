@@ -1,0 +1,1862 @@
+[
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "september 30, 2019",
+        "label": "DATE",
+        "start": 117,
+        "end": 135
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 144,
+        "end": 156
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 158,
+        "end": 161
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 163,
+        "end": 172
+    },
+    {
+        "text": "section 1.01",
+        "label": "LAW",
+        "start": 218,
+        "end": 230
+    },
+    {
+        "text": "section 2.01",
+        "label": "LAW",
+        "start": 322,
+        "end": 334
+    },
+    {
+        "text": "2.02",
+        "label": "CARDINAL",
+        "start": 389,
+        "end": 393
+    },
+    {
+        "text": "2.03",
+        "label": "CARDINAL",
+        "start": 416,
+        "end": 420
+    },
+    {
+        "text": "3.01",
+        "label": "CARDINAL",
+        "start": 507,
+        "end": 511
+    },
+    {
+        "text": "3.02",
+        "label": "CARDINAL",
+        "start": 537,
+        "end": 541
+    },
+    {
+        "text": "4.01",
+        "label": "CARDINAL",
+        "start": 624,
+        "end": 628
+    },
+    {
+        "text": "4.02",
+        "label": "CARDINAL",
+        "start": 654,
+        "end": 658
+    },
+    {
+        "text": "section 5.01",
+        "label": "LAW",
+        "start": 736,
+        "end": 748
+    },
+    {
+        "text": "5.02",
+        "label": "CARDINAL",
+        "start": 769,
+        "end": 773
+    },
+    {
+        "text": "5.03",
+        "label": "CARDINAL",
+        "start": 809,
+        "end": 813
+    },
+    {
+        "text": "5.04",
+        "label": "CARDINAL",
+        "start": 842,
+        "end": 846
+    },
+    {
+        "text": "5.05",
+        "label": "CARDINAL",
+        "start": 904,
+        "end": 908
+    },
+    {
+        "text": "5.06",
+        "label": "CARDINAL",
+        "start": 943,
+        "end": 947
+    },
+    {
+        "text": "6.02",
+        "label": "CARDINAL",
+        "start": 1039,
+        "end": 1043
+    },
+    {
+        "text": "6.03",
+        "label": "CARDINAL",
+        "start": 1103,
+        "end": 1107
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 1240,
+        "end": 1252
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 1254,
+        "end": 1257
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 1259,
+        "end": 1268
+    },
+    {
+        "text": "7.02",
+        "label": "CARDINAL",
+        "start": 1316,
+        "end": 1320
+    },
+    {
+        "text": "8.02",
+        "label": "CARDINAL",
+        "start": 1477,
+        "end": 1481
+    },
+    {
+        "text": "9.02",
+        "label": "CARDINAL",
+        "start": 1578,
+        "end": 1582
+    },
+    {
+        "text": "9.03",
+        "label": "CARDINAL",
+        "start": 1631,
+        "end": 1635
+    },
+    {
+        "text": "10.01",
+        "label": "CARDINAL",
+        "start": 1707,
+        "end": 1712
+    },
+    {
+        "text": "11.01",
+        "label": "CARDINAL",
+        "start": 1767,
+        "end": 1772
+    },
+    {
+        "text": "11.02",
+        "label": "CARDINAL",
+        "start": 1831,
+        "end": 1836
+    },
+    {
+        "text": "11.03",
+        "label": "CARDINAL",
+        "start": 1866,
+        "end": 1871
+    },
+    {
+        "text": "11.04",
+        "label": "CARDINAL",
+        "start": 1910,
+        "end": 1915
+    },
+    {
+        "text": "11.05",
+        "label": "CARDINAL",
+        "start": 1947,
+        "end": 1952
+    },
+    {
+        "text": "11.07",
+        "label": "CARDINAL",
+        "start": 2029,
+        "end": 2034
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2036,
+        "end": 2041
+    },
+    {
+        "text": "11.08",
+        "label": "CARDINAL",
+        "start": 2071,
+        "end": 2076
+    },
+    {
+        "text": "11.09",
+        "label": "CARDINAL",
+        "start": 2095,
+        "end": 2100
+    },
+    {
+        "text": "11.10",
+        "label": "CARDINAL",
+        "start": 2137,
+        "end": 2142
+    },
+    {
+        "text": "11.11",
+        "label": "CARDINAL",
+        "start": 2164,
+        "end": 2169
+    },
+    {
+        "text": "11.12",
+        "label": "CARDINAL",
+        "start": 2193,
+        "end": 2198
+    },
+    {
+        "text": "11.14",
+        "label": "CARDINAL",
+        "start": 2243,
+        "end": 2248
+    },
+    {
+        "text": "11.15",
+        "label": "CARDINAL",
+        "start": 2281,
+        "end": 2286
+    },
+    {
+        "text": "11.16",
+        "label": "CARDINAL",
+        "start": 2316,
+        "end": 2321
+    },
+    {
+        "text": "11.17",
+        "label": "CARDINAL",
+        "start": 2343,
+        "end": 2348
+    },
+    {
+        "text": "spinco",
+        "label": "CARDINAL",
+        "start": 2456,
+        "end": 2462
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 2537,
+        "end": 2549
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 2551,
+        "end": 2554
+    },
+    {
+        "text": "10/2/2019",
+        "label": "GPE",
+        "start": 2556,
+        "end": 2565
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 2856,
+        "end": 2868
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 2870,
+        "end": 2873
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 2875,
+        "end": 2884
+    },
+    {
+        "text": "september 30, 2019",
+        "label": "DATE",
+        "start": 2930,
+        "end": 2948
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 3052,
+        "end": 3064
+    },
+    {
+        "text": "spinco",
+        "label": "EVENT",
+        "start": 3091,
+        "end": 3097
+    },
+    {
+        "text": "spinco ip",
+        "label": "PERSON",
+        "start": 3661,
+        "end": 3670
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 3788,
+        "end": 3804
+    },
+    {
+        "text": "the spinco\ngroup",
+        "label": "ORG",
+        "start": 4164,
+        "end": 4180
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 4194,
+        "end": 4200
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 4661,
+        "end": 4667
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 4704,
+        "end": 4710
+    },
+    {
+        "text": "section 1.01",
+        "label": "LAW",
+        "start": 5174,
+        "end": 5186
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 5562,
+        "end": 5574
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 5576,
+        "end": 5579
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 5581,
+        "end": 5590
+    },
+    {
+        "text": "section 8.02",
+        "label": "LAW",
+        "start": 6913,
+        "end": 6925
+    },
+    {
+        "text": "section 2.01",
+        "label": "LAW",
+        "start": 6991,
+        "end": 7003
+    },
+    {
+        "text": "section 2.01",
+        "label": "LAW",
+        "start": 7242,
+        "end": 7254
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7807,
+        "end": 7812
+    },
+    {
+        "text": "section 2.01",
+        "label": "LAW",
+        "start": 7896,
+        "end": 7908
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7962,
+        "end": 7967
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 8328,
+        "end": 8340
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 8342,
+        "end": 8345
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 8347,
+        "end": 8356
+    },
+    {
+        "text": "b.\n",
+        "label": "PERSON",
+        "start": 8424,
+        "end": 8427
+    },
+    {
+        "text": "schedule a.\n",
+        "label": "PERSON",
+        "start": 8478,
+        "end": 8490
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 8570,
+        "end": 8586
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 9145,
+        "end": 9161
+    },
+    {
+        "text": "section 2.01",
+        "label": "LAW",
+        "start": 9680,
+        "end": 9692
+    },
+    {
+        "text": "inter\npartes review",
+        "label": "ORG",
+        "start": 9837,
+        "end": 9856
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 11116,
+        "end": 11128
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 11130,
+        "end": 11133
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 11135,
+        "end": 11144
+    },
+    {
+        "text": "spinco copyrights",
+        "label": "WORK_OF_ART",
+        "start": 11284,
+        "end": 11301
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 11371,
+        "end": 11387
+    },
+    {
+        "text": "spinco data",
+        "label": "ORG",
+        "start": 11552,
+        "end": 11563
+    },
+    {
+        "text": "spinco data",
+        "label": "WORK_OF_ART",
+        "start": 11566,
+        "end": 11577
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11617,
+        "end": 11622
+    },
+    {
+        "text": "spinco group",
+        "label": "ORG",
+        "start": 11665,
+        "end": 11677
+    },
+    {
+        "text": "spinco group",
+        "label": "ORG",
+        "start": 11795,
+        "end": 11807
+    },
+    {
+        "text": "spinco group",
+        "label": "ORG",
+        "start": 11935,
+        "end": 11947
+    },
+    {
+        "text": "the spinco business",
+        "label": "ORG",
+        "start": 11975,
+        "end": 11994
+    },
+    {
+        "text": "spinco data",
+        "label": "WORK_OF_ART",
+        "start": 12041,
+        "end": 12052
+    },
+    {
+        "text": "c.\n“",
+        "label": "PERSON",
+        "start": 12107,
+        "end": 12111
+    },
+    {
+        "text": "spinco domain",
+        "label": "WORK_OF_ART",
+        "start": 12111,
+        "end": 12124
+    },
+    {
+        "text": "spinco field of",
+        "label": "WORK_OF_ART",
+        "start": 12334,
+        "end": 12349
+    },
+    {
+        "text": "schedule a.\n“",
+        "label": "PERSON",
+        "start": 12384,
+        "end": 12397
+    },
+    {
+        "text": "spinco ids",
+        "label": "WORK_OF_ART",
+        "start": 12397,
+        "end": 12407
+    },
+    {
+        "text": "spinco",
+        "label": "PERSON",
+        "start": 12468,
+        "end": 12474
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 12493,
+        "end": 12499
+    },
+    {
+        "text": "spinco patents",
+        "label": "WORK_OF_ART",
+        "start": 12711,
+        "end": 12725
+    },
+    {
+        "text": "schedule d.\n",
+        "label": "PERSON",
+        "start": 12759,
+        "end": 12771
+    },
+    {
+        "text": "spinco shared technology",
+        "label": "WORK_OF_ART",
+        "start": 12772,
+        "end": 12796
+    },
+    {
+        "text": "spinco\nshared technology",
+        "label": "WORK_OF_ART",
+        "start": 12901,
+        "end": 12925
+    },
+    {
+        "text": "spinco technology",
+        "label": "WORK_OF_ART",
+        "start": 12963,
+        "end": 12980
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 13039,
+        "end": 13045
+    },
+    {
+        "text": "spinco group",
+        "label": "ORG",
+        "start": 13144,
+        "end": 13156
+    },
+    {
+        "text": "the spinco business",
+        "label": "ORG",
+        "start": 13184,
+        "end": 13203
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 13324,
+        "end": 13330
+    },
+    {
+        "text": "spinco trademarks",
+        "label": "WORK_OF_ART",
+        "start": 13338,
+        "end": 13355
+    },
+    {
+        "text": "schedule f.\n",
+        "label": "PERSON",
+        "start": 13392,
+        "end": 13404
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 13773,
+        "end": 13785
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 13787,
+        "end": 13790
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 13792,
+        "end": 13801
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 13904,
+        "end": 13909
+    },
+    {
+        "text": "section 2.01",
+        "label": "LAW",
+        "start": 14442,
+        "end": 14454
+    },
+    {
+        "text": "article ii",
+        "label": "LAW",
+        "start": 14694,
+        "end": 14704
+    },
+    {
+        "text": "section 2.01",
+        "label": "LAW",
+        "start": 14771,
+        "end": 14783
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 15107,
+        "end": 15123
+    },
+    {
+        "text": "section 2.02",
+        "label": "LAW",
+        "start": 15776,
+        "end": 15788
+    },
+    {
+        "text": "section 2.03",
+        "label": "LAW",
+        "start": 16264,
+        "end": 16276
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 16639,
+        "end": 16642
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 16905,
+        "end": 16917
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 16919,
+        "end": 16922
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 16924,
+        "end": 16933
+    },
+    {
+        "text": "article iii",
+        "label": "PERSON",
+        "start": 16934,
+        "end": 16945
+    },
+    {
+        "text": "3.01",
+        "label": "CARDINAL",
+        "start": 16999,
+        "end": 17003
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 17168,
+        "end": 17184
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 17886,
+        "end": 17902
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 18592,
+        "end": 18608
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 19358,
+        "end": 19374
+    },
+    {
+        "text": "the spinco\ngroup",
+        "label": "ORG",
+        "start": 19815,
+        "end": 19831
+    },
+    {
+        "text": "b.\n(",
+        "label": "PERSON",
+        "start": 19888,
+        "end": 19892
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 20149,
+        "end": 20161
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 20163,
+        "end": 20166
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 20168,
+        "end": 20177
+    },
+    {
+        "text": "3.01(a",
+        "label": "EVENT",
+        "start": 20348,
+        "end": 20354
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 20372,
+        "end": 20388
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 20481,
+        "end": 20497
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 20898,
+        "end": 20914
+    },
+    {
+        "text": "section 3.02",
+        "label": "LAW",
+        "start": 21458,
+        "end": 21470
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 21493,
+        "end": 21499
+    },
+    {
+        "text": "spinco",
+        "label": "PERSON",
+        "start": 21580,
+        "end": 21586
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 23385,
+        "end": 23397
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 23399,
+        "end": 23402
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 23404,
+        "end": 23413
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 23547,
+        "end": 23552
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 23621,
+        "end": 23637
+    },
+    {
+        "text": "4.01",
+        "label": "CARDINAL",
+        "start": 23723,
+        "end": 23727
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 23842,
+        "end": 23848
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 24080,
+        "end": 24086
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 24136,
+        "end": 24142
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 24559,
+        "end": 24565
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 25265,
+        "end": 25271
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 25538,
+        "end": 25544
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 25554,
+        "end": 25560
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 25599,
+        "end": 25605
+    },
+    {
+        "text": "spinco data",
+        "label": "ORG",
+        "start": 25623,
+        "end": 25634
+    },
+    {
+        "text": "spinco",
+        "label": "NORP",
+        "start": 26183,
+        "end": 26189
+    },
+    {
+        "text": "c.\n(f",
+        "label": "PERSON",
+        "start": 26228,
+        "end": 26233
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 26489,
+        "end": 26501
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 26503,
+        "end": 26506
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 26508,
+        "end": 26517
+    },
+    {
+        "text": "section 4.02",
+        "label": "LAW",
+        "start": 27797,
+        "end": 27809
+    },
+    {
+        "text": "nuance",
+        "label": "PERSON",
+        "start": 27919,
+        "end": 27925
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 28382,
+        "end": 28398
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 28768,
+        "end": 28784
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 29724,
+        "end": 29736
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 29738,
+        "end": 29741
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 29743,
+        "end": 29752
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 29886,
+        "end": 29891
+    },
+    {
+        "text": "article v\nadditional",
+        "label": "PERSON",
+        "start": 29998,
+        "end": 30018
+    },
+    {
+        "text": "section 5.02",
+        "label": "LAW",
+        "start": 30305,
+        "end": 30317
+    },
+    {
+        "text": "section 5.03",
+        "label": "LAW",
+        "start": 30664,
+        "end": 30676
+    },
+    {
+        "text": "section 5.04",
+        "label": "LAW",
+        "start": 31119,
+        "end": 31131
+    },
+    {
+        "text": "section 5.05",
+        "label": "LAW",
+        "start": 31663,
+        "end": 31675
+    },
+    {
+        "text": "section 5.06",
+        "label": "LAW",
+        "start": 32162,
+        "end": 32174
+    },
+    {
+        "text": "section 6.02",
+        "label": "LAW",
+        "start": 32383,
+        "end": 32395
+    },
+    {
+        "text": "section 7.09",
+        "label": "LAW",
+        "start": 32607,
+        "end": 32619
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 32798,
+        "end": 32810
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 32812,
+        "end": 32815
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 32817,
+        "end": 32826
+    },
+    {
+        "text": "section 6.02",
+        "label": "LAW",
+        "start": 32827,
+        "end": 32839
+    },
+    {
+        "text": "section 3.02(b)(vi",
+        "label": "DATE",
+        "start": 32953,
+        "end": 32971
+    },
+    {
+        "text": "section 6.03",
+        "label": "LAW",
+        "start": 34298,
+        "end": 34310
+    },
+    {
+        "text": "6.03",
+        "label": "CARDINAL",
+        "start": 35557,
+        "end": 35561
+    },
+    {
+        "text": "article vii",
+        "label": "PERSON",
+        "start": 35686,
+        "end": 35697
+    },
+    {
+        "text": "section 7.02",
+        "label": "LAW",
+        "start": 36274,
+        "end": 36286
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 36470,
+        "end": 36486
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 36640,
+        "end": 36652
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 36654,
+        "end": 36657
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 36659,
+        "end": 36668
+    },
+    {
+        "text": "the spinco business",
+        "label": "ORG",
+        "start": 36986,
+        "end": 37005
+    },
+    {
+        "text": "section 8.02",
+        "label": "LAW",
+        "start": 39997,
+        "end": 40009
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 40192,
+        "end": 40197
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 40430,
+        "end": 40435
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 40480,
+        "end": 40485
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 40673,
+        "end": 40685
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 40687,
+        "end": 40690
+    },
+    {
+        "text": "10/2/2019",
+        "label": "GPE",
+        "start": 40692,
+        "end": 40701
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 41194,
+        "end": 41199
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 41212,
+        "end": 41217
+    },
+    {
+        "text": "90 days",
+        "label": "DATE",
+        "start": 41287,
+        "end": 41294
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 41590,
+        "end": 41595
+    },
+    {
+        "text": "section 9.02",
+        "label": "LAW",
+        "start": 42121,
+        "end": 42133
+    },
+    {
+        "text": "section 9.02",
+        "label": "LAW",
+        "start": 42266,
+        "end": 42278
+    },
+    {
+        "text": "section 9.03",
+        "label": "LAW",
+        "start": 42574,
+        "end": 42586
+    },
+    {
+        "text": "section 9.02",
+        "label": "LAW",
+        "start": 42966,
+        "end": 42978
+    },
+    {
+        "text": "10.01",
+        "label": "CARDINAL",
+        "start": 43195,
+        "end": 43200
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 43820,
+        "end": 43832
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 43834,
+        "end": 43837
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 43839,
+        "end": 43848
+    },
+    {
+        "text": "11.01",
+        "label": "CARDINAL",
+        "start": 44874,
+        "end": 44879
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 46200,
+        "end": 46216
+    },
+    {
+        "text": "section 11.02",
+        "label": "LAW",
+        "start": 46664,
+        "end": 46677
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 47040,
+        "end": 47052
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 47054,
+        "end": 47057
+    },
+    {
+        "text": "10/2/2019",
+        "label": "GPE",
+        "start": 47059,
+        "end": 47068
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 47091,
+        "end": 47099
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 47301,
+        "end": 47307
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 47309,
+        "end": 47317
+    },
+    {
+        "text": "11.04",
+        "label": "CARDINAL",
+        "start": 47600,
+        "end": 47605
+    },
+    {
+        "text": "section 11.05",
+        "label": "LAW",
+        "start": 47607,
+        "end": 47620
+    },
+    {
+        "text": "section 11.06",
+        "label": "LAW",
+        "start": 47625,
+        "end": 47638
+    },
+    {
+        "text": "the delaware court of chancery",
+        "label": "ORG",
+        "start": 48097,
+        "end": 48127
+    },
+    {
+        "text": "the delaware court of chancery shall",
+        "label": "ORG",
+        "start": 48136,
+        "end": 48172
+    },
+    {
+        "text": "delaware state court",
+        "label": "ORG",
+        "start": 48193,
+        "end": 48213
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 48259,
+        "end": 48267
+    },
+    {
+        "text": "11.04",
+        "label": "CARDINAL",
+        "start": 48992,
+        "end": 48997
+    },
+    {
+        "text": "section 11.05",
+        "label": "LAW",
+        "start": 48999,
+        "end": 49012
+    },
+    {
+        "text": "11.04",
+        "label": "CARDINAL",
+        "start": 49177,
+        "end": 49182
+    },
+    {
+        "text": "section 11.05",
+        "label": "LAW",
+        "start": 49914,
+        "end": 49927
+    },
+    {
+        "text": "11.03",
+        "label": "CARDINAL",
+        "start": 49986,
+        "end": 49991
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 50172,
+        "end": 50173
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 50238,
+        "end": 50239
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 50350,
+        "end": 50351
+    },
+    {
+        "text": "section 11.02",
+        "label": "LAW",
+        "start": 50553,
+        "end": 50566
+    },
+    {
+        "text": "11.02",
+        "label": "CARDINAL",
+        "start": 50659,
+        "end": 50664
+    },
+    {
+        "text": "11.03",
+        "label": "CARDINAL",
+        "start": 50722,
+        "end": 50727
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 50761,
+        "end": 50773
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 50775,
+        "end": 50778
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 50780,
+        "end": 50789
+    },
+    {
+        "text": "section 11.06",
+        "label": "LAW",
+        "start": 50996,
+        "end": 51009
+    },
+    {
+        "text": "section 11.05",
+        "label": "LAW",
+        "start": 51062,
+        "end": 51075
+    },
+    {
+        "text": "section 11.07",
+        "label": "LAW",
+        "start": 51965,
+        "end": 51978
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 51980,
+        "end": 51985
+    },
+    {
+        "text": "spinco indemnitee",
+        "label": "ORG",
+        "start": 52169,
+        "end": 52186
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 52451,
+        "end": 52456
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 52536,
+        "end": 52541
+    },
+    {
+        "text": "section 11.08",
+        "label": "LAW",
+        "start": 52695,
+        "end": 52708
+    },
+    {
+        "text": "fifth",
+        "label": "ORDINAL",
+        "start": 53083,
+        "end": 53088
+    },
+    {
+        "text": "5th",
+        "label": "ORDINAL",
+        "start": 53090,
+        "end": 53093
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 53293,
+        "end": 53294
+    },
+    {
+        "text": "ma 01803\nattn",
+        "label": "PERSON",
+        "start": 53321,
+        "end": 53334
+    },
+    {
+        "text": "wendy cassity",
+        "label": "ORG",
+        "start": 53336,
+        "end": 53349
+    },
+    {
+        "text": "david garfinkel",
+        "label": "PERSON",
+        "start": 53426,
+        "end": 53441
+    },
+    {
+        "text": "weiss",
+        "label": "ORG",
+        "start": 53512,
+        "end": 53517
+    },
+    {
+        "text": "wharton & garrison",
+        "label": "ORG",
+        "start": 53528,
+        "end": 53546
+    },
+    {
+        "text": "1285",
+        "label": "DATE",
+        "start": 53551,
+        "end": 53555
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 53579,
+        "end": 53587
+    },
+    {
+        "text": "10019-6064",
+        "label": "DATE",
+        "start": 53592,
+        "end": 53602
+    },
+    {
+        "text": "scott a. barshay",
+        "label": "PERSON",
+        "start": 53609,
+        "end": 53625
+    },
+    {
+        "text": "steven j. williams",
+        "label": "PERSON",
+        "start": 53626,
+        "end": 53644
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 53654,
+        "end": 53666
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 53668,
+        "end": 53671
+    },
+    {
+        "text": "10/2/2019",
+        "label": "GPE",
+        "start": 53673,
+        "end": 53682
+    },
+    {
+        "text": "michael e. vogel",
+        "label": "PERSON",
+        "start": 53683,
+        "end": 53699
+    },
+    {
+        "text": "212",
+        "label": "CARDINAL",
+        "start": 53783,
+        "end": 53786
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 53827,
+        "end": 53829
+    },
+    {
+        "text": "ma 01803\nattn",
+        "label": "PERSON",
+        "start": 53856,
+        "end": 53869
+    },
+    {
+        "text": "leanne fitzgerald",
+        "label": "PERSON",
+        "start": 53871,
+        "end": 53888
+    },
+    {
+        "text": "mark gallenberger",
+        "label": "PERSON",
+        "start": 53958,
+        "end": 53975
+    },
+    {
+        "text": "the hague convention",
+        "label": "GPE",
+        "start": 54415,
+        "end": 54435
+    },
+    {
+        "text": "section 11.09",
+        "label": "LAW",
+        "start": 54438,
+        "end": 54451
+    },
+    {
+        "text": "section 11.10",
+        "label": "LAW",
+        "start": 54753,
+        "end": 54766
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 54976,
+        "end": 54993
+    },
+    {
+        "text": "section 101",
+        "label": "LAW",
+        "start": 55110,
+        "end": 55121
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 55292,
+        "end": 55308
+    },
+    {
+        "text": "spinco’s",
+        "label": "WORK_OF_ART",
+        "start": 55530,
+        "end": 55538
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 55584,
+        "end": 55596
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 55598,
+        "end": 55601
+    },
+    {
+        "text": "10/2/2019",
+        "label": "GPE",
+        "start": 55603,
+        "end": 55612
+    },
+    {
+        "text": "section 11.11",
+        "label": "LAW",
+        "start": 55714,
+        "end": 55727
+    },
+    {
+        "text": "section 11.12",
+        "label": "LAW",
+        "start": 56672,
+        "end": 56685
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 56850,
+        "end": 56855
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 56926,
+        "end": 56942
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 57300,
+        "end": 57305
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 57376,
+        "end": 57392
+    },
+    {
+        "text": "11.12",
+        "label": "CARDINAL",
+        "start": 57647,
+        "end": 57652
+    },
+    {
+        "text": "section 11.13",
+        "label": "LAW",
+        "start": 57832,
+        "end": 57845
+    },
+    {
+        "text": "section 11.14",
+        "label": "LAW",
+        "start": 58097,
+        "end": 58110
+    },
+    {
+        "text": "section 11.15",
+        "label": "LAW",
+        "start": 58358,
+        "end": 58371
+    },
+    {
+        "text": "section 11.16",
+        "label": "LAW",
+        "start": 58996,
+        "end": 59009
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 59167,
+        "end": 59179
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 59181,
+        "end": 59184
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 59186,
+        "end": 59195
+    },
+    {
+        "text": "section 11.17",
+        "label": "LAW",
+        "start": 59296,
+        "end": 59309
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 59413,
+        "end": 59416
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 60915,
+        "end": 60943
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 61271,
+        "end": 61283
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 61285,
+        "end": 61288
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 61290,
+        "end": 61299
+    },
+    {
+        "text": "wendy cassity",
+        "label": "PERSON",
+        "start": 61474,
+        "end": 61487
+    },
+    {
+        "text": "wendy cassity",
+        "label": "PERSON",
+        "start": 61494,
+        "end": 61507
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 61564,
+        "end": 61576
+    },
+    {
+        "text": "leanne fitzgerald",
+        "label": "PERSON",
+        "start": 61585,
+        "end": 61602
+    },
+    {
+        "text": "leanne fitzgerald",
+        "label": "PERSON",
+        "start": 61609,
+        "end": 61626
+    },
+    {
+        "text": "cerence inc.",
+        "label": "ORG",
+        "start": 61727,
+        "end": 61739
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 61741,
+        "end": 61744
+    },
+    {
+        "text": "10/2/2019",
+        "label": "DATE",
+        "start": 61746,
+        "end": 61755
+    }
+]

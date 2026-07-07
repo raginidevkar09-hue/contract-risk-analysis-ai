@@ -1,0 +1,798 @@
+[
+    {
+        "chunk_id": 1,
+        "text": "exhibit 10.5\nexecution version\ntransportation services agreement\nthis transportation services agreement (this “agreement”) is made and entered into this 14th day of april, 2015 (the “effective date”), by\nand between penntex north louisiana operating, llc, a delaware limited liability company (“carrier”), and mrd operating llc, a delaware\nlimited liability company (“shipper”). shipper and carrier may be referred to individually as a “party,” or collectively as the “parties.”\nwitnesseth:\nwhereas, "
+    },
+    {
+        "chunk_id": 2,
+        "text": "shipper has title to or the right to transport and/or sell shipper product (as defined below); and\nwhereas, shipper desires for carrier to (i) design, engineer and construct the system (as defined below) to enable carrier to be able to\nprovide transportation and related services for shipper product and (ii) transport shipper product on the system; and\nwhereas, carrier desires to (i) design, engineer and construct the system and (ii) transport shipper product on the system.\nnow therefore, in cons"
+    },
+    {
+        "chunk_id": 3,
+        "text": "ideration of the mutual promises, covenants and agreements herein contained, the parties hereby covenant and\nagree as follows:\narticle i\ncertain definitions\nunless otherwise required by the content, the terms defined in this article i shall have, for all purposes of this agreement, the respective\nmeanings set forth in this article i:\n“affiliate” shall mean, when used with respect to any person, any other person that, directly or indirectly, through one or more\nintermediaries, controls, is contro"
+    },
+    {
+        "chunk_id": 4,
+        "text": "lled by, or is under common control with such person. for this purpose, “control” of any person shall mean the\npossession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such person, by ownership of\nvoting interest, by contract or otherwise. for the purposes of this agreement, (i) with respect to penntex midstream partners, llc and its\nsubsidiaries, the term “affiliate” shall exclude memorial resource development corp. and each of its subs"
+    },
+    {
+        "chunk_id": 5,
+        "text": "idiaries and (ii) with respect to memorial\nresource development corp. and its subsidiaries, the term “affiliate” shall exclude penntex midstream partners, llc and each of its subsidiaries.\n“ami/mea agreement” shall mean that certain amended and restated area of mutual interest and midstream exclusivity agreement\ndated april 14, 2015 among penntex north louisiana, llc, shipper, penntex nla holdings, llc and mrd whr la midstream llc, as such\nagreement may be amended, supplemented or otherwise modi"
+    },
+    {
+        "chunk_id": 6,
+        "text": "fied from time to time.\n“agreement” shall have the meaning given to such term in the preamble of this agreement.\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\n“applicable law” shall mean all applicable laws, statutes, directives, codes, ordinances, rules, regulations, municipal by-laws, judicial,\narbitral, administrative, ministerial, departmental or regulatory judgments, orders, decisions, ruling or award, consent orders, consent decrees and\npolicies of any governmental authority.\n“"
+    },
+    {
+        "chunk_id": 7,
+        "text": "business day” shall have the meaning given to such term in the tariff.\n“carrier” shall have the meaning given to such term in the preamble of this agreement.\n“carrier default” shall have the meaning given to such term in section 8.3 of this agreement.\n“carrier default notice” shall have the meaning given to such term in section 8.4 of this agreement.\n“carrier force majeure” shall mean an event of force majeure that prevents carrier from providing all or part of the services and shall not\ninclude"
+    },
+    {
+        "chunk_id": 8,
+        "text": " a force majeure that prevents shipper from delivering shipper product hereunder.\n“central clock time” shall mean central standard time, as adjusted for central daylight time.\n“claims” shall mean any and all claims, demands and causes of action of any kind and all losses, damages, liabilities, costs and expenses of\nwhatever nature (including court costs and reasonable attorneys’ fees).\n“commencement date” shall have the meaning given to such term in section 2.2 of this agreement.\n“commencement d"
+    },
+    {
+        "chunk_id": 9,
+        "text": "ate facilities” shall have the meaning given to such term in section 7.2 of this agreement.\n“contract year” shall mean a period commencing at 9:00 a.m., central clock time, on the commencement date and ending at 9:00 a.m., central\nclock time on the same day and calendar month of the following calendar year and thereafter for succeeding periods of twelve (12) consecutive\nmonths each.\n“day” or “daily” shall mean a period of hours commencing at 9:00 a.m., central clock time, on a calendar day and e"
+    },
+    {
+        "chunk_id": 10,
+        "text": "nding at 9:00 a.m., central\nclock time, on the next succeeding calendar day.\n“dedicated rates” shall have the meaning given to such term in the tariff.\n“dedication” shall have the meaning given to such term in section 7.1 of this agreement\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\n“delivery point” shall mean the delivery point at the interconnection of the system with dcp’s 6” black lake natural gas liquids pipeline and\nother mutually agreeable delivery points near ada, bienvill"
+    },
+    {
+        "chunk_id": 11,
+        "text": "e parish, louisiana as provided in the tariff.\n“dispute” shall mean any controversy or claim, whether based on contract, tort, statute or other legal or equitable theory (including, but not\nlimited to, any claim of fraud, misrepresentation or fraudulent inducement or any question of validity or effect of this agreement including this\nclause) arising out of or related to this agreement (including any amendments or extension), or breach or termination thereof.\n“dispute notice” shall have the meani"
+    },
+    {
+        "chunk_id": 12,
+        "text": "ng given to such term in section 12.2 of this agreement.\n“effective date” shall have the meaning given to such term in the preamble to this agreement.\n“ferc” shall mean the united states federal energy regulatory commission and any lawful successor agency thereto.\n“financial assurance” shall mean any guarantee, letter of credit, amendment or supplement thereto or other credit enhancement provided\nfor in article xiii of this agreement.\n“force majeure” shall have the meaning given to such term in "
+    },
+    {
+        "chunk_id": 13,
+        "text": "section 11.2 of this agreement.\n“gallon” means one (1) u.s. gallon.\n“gas” shall mean any mixture of gaseous hydrocarbons, consisting essentially of methane and heavier hydrocarbons and inert and\nnoncombustible gases that are extracted from the subsurface of the earth.\n“governmental authority” shall mean (i) the united states of america, (ii) any state, county, parish, municipality or other governmental\nsubdivision within the united states of america, and (iii) any court or any governmental depar"
+    },
+    {
+        "chunk_id": 14,
+        "text": "tment, commission, board, bureau, agency or other\ninstrumentality of the united states of america or of any state, county, municipality or other governmental subdivision within the united states of\namerica.\n“guarantee” shall have the meaning given to such term in section 13.1 of this agreement.\n“interest” shall mean any right, title, or interest in lands, wells, or leases and the right to produce oil and/or natural gas therefrom whether\narising from fee ownership, working interest ownership, min"
+    },
+    {
+        "chunk_id": 15,
+        "text": "eral ownership, leasehold ownership, farm-out or arising from any pooling, unitization\nor communitization of any of the foregoing rights.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\n“lincoln parish plant” shall mean that certain natural gas processing plant to be constructed by carrier or one of its affiliates and located in\narcadia, lincoln parish, louisiana.\n“losses” shall mean any actual loss, cost, expense, liability, damage, demand, suit, sanction, claim, judgment, lien, fine"
+    },
+    {
+        "chunk_id": 16,
+        "text": " or penalty, including\nattorneys’ fees, asserted by a third party not affiliated with the party incurring such, and which are incurred by the applicable indemnified persons\non account of injuries (including death) to any person or damage to or destruction of any property, sustained or alleged to have been sustained in\nconnection with or arising out of the matters for which the indemnifying party has indemnified the applicable indemnified persons.\n“month” shall mean a period of time beginning at "
+    },
+    {
+        "chunk_id": 17,
+        "text": "9:00 a.m., central clock time on the first day of a calendar month and ending at 9:00 a.m.,\ncentral clock time on the first day of the next succeeding calendar month.\n“mount olive plant” shall mean that certain natural gas processing plant to be constructed by carrier or one of its affiliates and located in\nruston, lincoln parish, louisiana.\n“new facility” shall have the meaning given to such term in section 7.3 of this agreement.\n“nomination” (including “nominates” and the syntactical variants "
+    },
+    {
+        "chunk_id": 18,
+        "text": "thereof) shall have the meaning given to such term in the tariff.\n“parties” shall have the meaning given to such term in the preamble of this agreement.\n“party” shall have the meaning given to such term in the preamble of this agreement.\n“person” shall mean any individual, firm, corporation, trust, partnership, limited liability company, association, joint venture, other business\nenterprise or governmental authority.\n“plants” shall mean (i) the lincoln parish plant, (ii) the mount olive plant an"
+    },
+    {
+        "chunk_id": 19,
+        "text": "d (iii) any other gas processing plant owned by carrier or its\naffiliate that is capable of extracting shipper product and transporting such shipper product from the tailgate of such plant to the system. “plant”\nshall mean any of such plants.\n“product” shall mean a demethanized mixture of natural gas liquids comprised primarily of ethane, propane, iso-butane, normal butane, iso-\npentane, normal pentane, hexanes and heavier hydrocarbons, incidental volumes of methane, as well as other non-hydroca"
+    },
+    {
+        "chunk_id": 20,
+        "text": "rbon compounds.\n“receipt points” shall mean the receipt points provided for in the tariff at the tailgate of the plants where carrier accepts product for\ntransport on the system.\n“services” shall mean receipt and transportation on the system of product for shipper’s account from the receipt points and delivery to the\ndestination point specified in shipper’s nomination.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\n“shipper” shall have the meaning given to such term in the preamble o"
+    },
+    {
+        "chunk_id": 21,
+        "text": "f this agreement.\n“shipper default” shall have the meaning given to such term in section 8.1 of this agreement.\n“shipper default notice” shall have the meaning given to such term in section 8.2(a) of this agreement.\n“shipper product” shall mean product that is attributable to gas that is delivered by customer or its designee to, and processed at, a plant.\n“shipper’s dedicated rates” shall have the meaning given to such term in section 6.1 of this agreement.\n“system” shall have the meaning given "
+    },
+    {
+        "chunk_id": 22,
+        "text": "to such term in the tariff.\n“tariff” shall mean carrier’s rate, rules and regulations tariff for the system on file and in effect with the ferc or other governmental\nauthority, as such tariff may be amended or supplemented by carrier from time to time in accordance with this agreement, a pro forma copy of\nwhich, materially in the form expected to be filed by carrier with the ferc, is attached hereto as exhibit a.\n“tariff rate revision proceeding” shall have the meaning given to such term in sect"
+    },
+    {
+        "chunk_id": 23,
+        "text": "ion 14.3.\n“taxes” shall mean any or all current or future taxes, fees, levies, charges, assessments and/or other impositions levied, charged, imposed,\nassessed or collected by any governmental authority having jurisdiction.\n“term” shall have the meaning given to such term in section 2.1 of this agreement.\n“third party operator” means an operator of a pipeline or other facility upstream or downstream of the system, other than carrier or its\naffiliates.\narticle ii\nterm\n2.1 term. this agreement sha"
+    },
+    {
+        "chunk_id": 24,
+        "text": "ll commence on the effective date and continue in full force and effect until the end of the fifteenth (15th)\ncontract year, and shall continue in full force and effect thereafter until terminated by either party by providing thirty (30) calendar days’ prior\nwritten notice of termination to the other party (such fifteen (15) contract year period, as may be further extended as provided herein is referred to\nas the “term”).\n2.2 commencement date. the “commencement date” under this agreement shall "
+    },
+    {
+        "chunk_id": 25,
+        "text": "be the first day of the month following the date carrier\nnotifies shipper that (i) carrier has obtained all required operating permits and/or approvals of regulatory authorities necessary to operate the\nsystem, (ii) the system is operational to the extent necessary to commence the\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nservices hereunder, and (iii) the delivery point listed on schedule a is operational and all necessary interconnect agreements with interconnecting\npipelines n"
+    },
+    {
+        "chunk_id": 26,
+        "text": "ecessary to deliver shipper product to such delivery point are in effect to the extent necessary to commence commercial service with\nrespect to the delivery (but, for the avoidance of doubt, not the further downstream transportation) of shipper product. carrier will not be\nresponsible for delays to the commencement date due to the action or inaction of shipper or third party operators.\narticle iii\n[reserved]\narticle iv\ncarrier rights and obligations\n4.1 provision of services. subject to the term"
+    },
+    {
+        "chunk_id": 27,
+        "text": "s and conditions of this agreement, carrier shall, commencing on the commencement date and\ncontinuing through the remainder of the term of this agreement, provide services for shipper product in accordance with, and subject to, this\nagreement, including the tariff, which is incorporated herein by reference and constitutes part of this agreement, expressly including provisions in\nthe tariff relating to the charges and rules and regulations applicable to shipper as a party to this agreement. this "
+    },
+    {
+        "chunk_id": 28,
+        "text": "section 4.1 shall not apply to\ncarrier during any period when shipper is in breach of its obligations to carrier under this agreement or the tariff. the services do not include any\nterminaling, tankage or storage.\narticle v\nshipper rights and obligations\n5.1 tariff. shipper’s nominations and tenders of product for shipment, and carrier’s scheduling, acceptance, transporting, measuring and\ndelivering of product, shall, at all times, be subject to, and implemented in accordance with the tariff. sh"
+    },
+    {
+        "chunk_id": 29,
+        "text": "ipper shall comply with the tariff at all\ntimes. the tariff is subject to amendment by carrier in accordance with section 15.1.\n5.2 shipper reliance on carrier performance. all shipper product received at the receipt points for services hereunder is deemed to be in\ncompliance with all product specifications set forth in the tariff or carrier shall waive such specifications to accept shipper product and all shipper\nproduct delivered to the delivery point hereunder shall be in compliance with all "
+    },
+    {
+        "chunk_id": 30,
+        "text": "product specifications set forth in the tariff.\narticle vi\nfees\n6.1 transportation rate. shipper shall pay rates for shipper product transported on the system in accordance with the tariff, which shall, to\nthe extent permitted by applicable law, provide for the following:\n\n(a)\nfor all shipper product transported on the system and delivered to a delivery point each month, shipper shall pay carrier a\ntransportation fee for such month\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\n\nequa"
+    },
+    {
+        "chunk_id": 31,
+        "text": "l to the applicable dedicated rates, which shall initially be the rate(s) set forth in schedule a attached hereto, and which\nshall be increased by carrier annually, effective july 1 of each year following the commencement date, as provided in the tariff\n(“shipper’s dedicated rates”).\n6.2 regulation changes. notwithstanding anything herein to the contrary, in the event that, after the effective date, any governmental\nauthority promulgates, issues or changes any rules, regulations or other mandate"
+    },
+    {
+        "chunk_id": 32,
+        "text": "s that impose any material fee, charge or cost upon carrier in\nconnection with the performance of the services performed hereunder, excluding normal fees, charges or costs that are incurred by carrier\nirrespective of whether carrier provides the services on behalf of shipper and excluding taxes addressed in article xvii, then carrier may increase\nthe then-effective shipper’s dedicated rates by up to ten percent (10) to account for such fees, charges or costs (to the extent such fees, charges\nor "
+    },
+    {
+        "chunk_id": 33,
+        "text": "costs are attributable to shipper product); provided, however, the cumulative effect of all such increases pursuant to this section 6.2 may not\nexceed thirty percent (30) of the initial shipper’s dedicated rates (as the same may be adjusted pursuant to the tariff from time to time). if, in\ncarrier’s reasonable judgment, an increase in shipper’s dedicated rates of more than ten percent (10) would be required to place carrier in\nsubstantially the same economic position as it was in prior to the im"
+    },
+    {
+        "chunk_id": 34,
+        "text": "position or assessment of such fees, charges or costs, carrier may call for a\nmeeting among the parties’ senior management to take place within thirty (30) days of written notice to shipper, and the parties shall negotiate in\ngood faith to amend the provisions of this agreement such that the parties are in substantially the same relative economic position as they were in\nprior to the imposition or assessment of such fees, charges or costs. if the parties are unable to agree on an economic adjust"
+    },
+    {
+        "chunk_id": 35,
+        "text": "ment within sixty (60)\ndays of the senior management meeting, then carrier may, in its sole discretion, terminate this agreement without penalty by delivering shipper\nwritten notice of carrier’s intent to terminate. such termination shall be effective, at the option of shipper, (i) as of 9:00 a.m. on the first day of the\nmonth which follows the month that carrier delivered its notice of intent to terminate, or (ii) as of 9:00 a.m. on the first day of the month which is\ntwelve (12) months after s"
+    },
+    {
+        "chunk_id": 36,
+        "text": "uch date, provided that shipper’s dedicated rates for such twelve (12) month period before such termination shall be\nincreased to place carrier in substantially the same economic position as it was in prior to the imposition or assessment of such fees, charges, or\ncosts. shipper shall exercise such option by delivery of written notice to carrier of shipper’s election within ten (10) business days of receipt of\ncarrier’s notice to terminate, provided that if shipper has not responded to carrier b"
+    },
+    {
+        "chunk_id": 37,
+        "text": "y the time described in clause (i) above, the agreement shall\ncontinue pursuant to clause (ii) above.\nshipper shall be entitled to audit carrier’s applicable books and records for the limited purpose of determining if the amount of any increase\npursuant to this section 6.2 is justified by the actually-incurred and reasonable amount of the aggregate costs and/or expenses relating to the\nsystem; provided, however, such audit shall not require carrier to disclose confidential information of any per"
+    },
+    {
+        "chunk_id": 38,
+        "text": "son other than shipper who is a\nshipper on the system. if such audit shall reflect that such increase was not justifiable in accordance with the foregoing, carrier shall promptly\ncredit the amount of such discrepancy to shipper, unless carrier disagrees with the results of such audit, in which case the matter shall be resolved\npursuant to the dispute resolution provisions set forth in article xii hereof.\n6.3 governmental modifications. notwithstanding anything herein to the contrary, the parties"
+    },
+    {
+        "chunk_id": 39,
+        "text": " acknowledge that the tariff rates payable for all\nservices are subject to the approval of and modification by the ferc or any other governmental authority having jurisdiction.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\narticle vii\ndedication & facilities\n7.1 dedication. during the term, subject to the terms of the ami/mea agreement, shipper dedicates and commits to this agreement, and\nshall deliver or cause to be delivered to the system for transportation hereunder, all shipper "
+    },
+    {
+        "chunk_id": 40,
+        "text": "product (the “dedication”); provided, however, if\ncarrier is unable to provide services with respect to all or any volume of shipper product, then such volume will be temporarily released from the\ndedication until carrier provides shipper written notice that carrier will be able to resume receiving such volume hereunder. notwithstanding\nanything in this agreement to the contrary, it is acknowledged and agreed that there is no minimum amount of shipper’s product that must be\ndelivered to the syst"
+    },
+    {
+        "chunk_id": 41,
+        "text": "em hereunder; accordingly, shipper shall not have any liability (financial or otherwise) for failure to deliver any particular\nquantity of product to carrier; provided, however, the foregoing sentence shall not reduce or eliminate shipper’s obligation to pay the fees\nprovided herein to the extent services are provided hereunder.\n7.2 commencement date facilities. carrier shall design, engineer, modify, construct and equip, or caused to be designed, engineered,\nmodified, constructed and equipped, "
+    },
+    {
+        "chunk_id": 42,
+        "text": "carrier’s system, including, without limitation, the facilities and equipment described on exhibit b attached\nhereto (the facilities and equipment described on exhibit b being collectively referred to as the “commencement date facilities”).\n7.3 post-commencement date facilities.\n(a) after the commencement date, in connection with the construction of the mount olive plant, carrier will construct 13 miles of 8” pipeline\nbetween the mount olive plant and the lincoln parish plant, and a receipt poin"
+    },
+    {
+        "chunk_id": 43,
+        "text": "t at the mount olive plant.\n(b) if after the commencement date, shipper requires an addition, modification, alteration, replacement, or expansion of the system, other\nthan as noted in section 7.3(a) above (a “new facility”), shipper will provide carrier a written notification of such requested new facility\ncontaining sufficient information for carrier to estimate the cost to provide such new facility. although carrier shall have no obligation to provide\na requested new facility, carrier may, in "
+    },
+    {
+        "chunk_id": 44,
+        "text": "its sole discretion, agree to construct or acquire such new facility. the commercial terms applicable the\nconstruction or acquisition of any new facility will be determined in accordance with the ami/mea agreement. the parties agree to make any\nrevisions to this agreement (including the exhibits hereto) that are necessary to reflect any new facility.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\narticle viii\ndefaults and remedies\n8.1 shipper defaults. subject to section 11.1 hereof,"
+    },
+    {
+        "chunk_id": 45,
+        "text": " the following events shall be a “shipper default”:\n(a) the occurrence and continuation of a material breach by shipper of any of its obligations under this agreement or the tariff,\nunless such material breach occurs as a result of a breach or default by carrier of its obligations under this agreement or the tariff; or\n(b) the occurrence and continuation of a breach under article xiii, financial assurances.\n8.2 remedies on shipper default.\n(a) upon becoming aware of the occurrence of a shipper d"
+    },
+    {
+        "chunk_id": 46,
+        "text": "efault with respect to shipper’s obligations under this agreement or\nthe tariff, carrier may provide written notice to shipper describing the shipper default in reasonable detail and requiring shipper to cure the\nshipper default (the “shipper default notice”). if (i) a shipper default as described in section 8.1(a) has not been cured within ten (10) business\ndays following receipt by shipper of a shipper default notice, or (ii) the shipper default comprises a default described in section 8.1(b),"
+    },
+    {
+        "chunk_id": 47,
+        "text": " then, in\nany such case, and in addition to carrier’s right to enforce the financial assurances and carrier’s other rights and remedies provided for in this\nagreement, in the tariff or under applicable law, carrier shall not be obligated to transport shipper product and may suspend the provision of\nother services to shipper.\n(b) if the shipper default continues for a period of ninety (90) or more days, or, if such failure is not reasonably capable of being\ncured within a ninety (90) day period, "
+    },
+    {
+        "chunk_id": 48,
+        "text": "but shipper expeditiously commences to cure the same following its receipt of a shipper default notice and\ndiligently proceeds with such cure, within such longer period of time as shall be reasonably necessary to cure such failure, carrier shall be entitled,\nby notice in writing to shipper, to:\n(1) terminate this agreement, any such termination to be effective upon receipt of the applicable notice by shipper, in\nwhich event shipper shall be liable to carrier for (i) all of its accrued obligation"
+    },
+    {
+        "chunk_id": 49,
+        "text": "s up to and including the effective date of\ntermination, and (ii) any and all other losses and damages sustained by carrier as a result of or arising out of such termination;\nand/or\n(2) draw on any guaranty, letter of credit or other financial assurance provided by shipper pursuant to article xiii,\nfinancial assurances. if carrier terminates this agreement pursuant to section 8.2(b) hereof, carrier shall be entitled to apply\nthe proceeds of such financial assurance to shipper’s obligations and c"
+    },
+    {
+        "chunk_id": 50,
+        "text": "arrier’s losses and damages referenced in this section\n8.2(b). in all other circumstances in which carrier calls on any financial assurance provided by shipper pursuant to\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\narticle xiii, financial assurances, following a shipper default, carrier shall be entitled to apply the proceeds to cure such\nshipper default, and to hold the remaining proceeds as additional security for the payment and performance of shipper’s\nobligations under this "
+    },
+    {
+        "chunk_id": 51,
+        "text": "agreement and the tariff.\nthe rights and remedies under this section 8.2(b) shall be in addition to all of carrier’s other rights and remedies under this agreement or the tariff\nor which carrier may otherwise have at law, in equity or by statute or regulation, and the exercise of one or more rights or remedies shall not\nprejudice or impair the concurrent or subsequent exercise by carrier of other rights or remedies.\n8.3 carrier default. subject to section 11.1 hereof, the following event shall b"
+    },
+    {
+        "chunk_id": 52,
+        "text": "e a “carrier default”: the occurrence and continuation of a\nmaterial breach or default by carrier of any of its obligations under this agreement or the tariff, unless such material breach or default occurs as a\nresult of a breach or default by shipper of its obligations under this agreement or the tariff.\n8.4 remedies on carrier default. upon becoming aware of the occurrence of a carrier default, shipper may provide written notice to carrier,\ndescribing the carrier default in reasonable detail a"
+    },
+    {
+        "chunk_id": 53,
+        "text": "nd requiring carrier to cure the carrier default (the “carrier default notice”). if (a) a carrier\ndefault comprising carrier’s failure to make any payment due hereunder has not been cured within ten (10) business days following receipt by\ncarrier of a carrier default notice, or (b) a carrier default comprising carrier’s failure to comply with any obligation under this agreement or the\ntariff, other than a payment obligation, has not been cured within ninety (90) days after receipt by carrier of "
+    },
+    {
+        "chunk_id": 54,
+        "text": "a carrier default notice, or, if such\nfailure is not reasonably capable of being cured within a ninety (90) day period, but carrier expeditiously commences to cure the same following its\nreceipt of a carrier default notice and diligently proceeds with such cure, within such longer period of time as shall be reasonably necessary to\ncure such failure, then in any such case, shipper may, by written notice to carrier, inform carrier of its intention to terminate this agreement if such\ncarrier defaul"
+    },
+    {
+        "chunk_id": 55,
+        "text": "t is not cured within a further ninety (90) day period, and if any such carrier default has not been cured within such further period of\nninety (90) days, shipper may, by written notice to carrier, terminate this agreement, any such termination to be effective upon receipt of such\ntermination notice by carrier.\nthe rights and remedies under this section 8.4 shall be in addition to all of shipper’s other rights and remedies under this agreement or the tariff or\nwhich shipper may otherwise have at"
+    },
+    {
+        "chunk_id": 56,
+        "text": " law, in equity or by statute or regulation, and the exercise of one or more rights or remedies shall not prejudice\nor impair the concurrent or subsequent exercise by shipper of other rights or remedies.\narticle ix\nwarranty of title and product interests\n9.1 title warranty. shipper warrants to carrier that at the time shipper product is delivered to a receipt point hereunder, shipper will have\ngood title or the right to deliver such shipper product, and that such shipper product shall be free an"
+    },
+    {
+        "chunk_id": 57,
+        "text": "d clear of all liens and adverse\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nclaims, other than statutory liens and liens, encumbrances or claims under credit facilities or other credit arrangements in respect of borrowed\nmoney. shipper agrees, with respect to the shipper product delivered by to carrier hereunder, to indemnify carrier against all suits, actions, debts,\naccounts, damages, costs (including attorney’s fees), losses and expenses arising from or out of any adverse clai"
+    },
+    {
+        "chunk_id": 58,
+        "text": "ms of any and all persons to or\nagainst said shipper product other than any lien, claim or encumbrance alleged to have arisen by, through or under carrier or its affiliate.\n9.2 proceeds of production. shipper agrees to make payment of all royalties, overriding royalties, production payments, and all other\npayments for interests attributable to shipper product delivered hereunder due to any person under any leases or other documents in accordance\nwith the terms thereof.\n9.3 indemnification. shipp"
+    },
+    {
+        "chunk_id": 59,
+        "text": "er agrees to indemnify and hold carrier harmless from any and all claims and losses incurred in connection with, or\nin any manner whatsoever relating to payment of taxes, royalties, overriding royalties, production payments, and all other payments for interests\nattributable to shipper product transported hereunder.\narticle x\nwaiver of certain damages\nnotwithstanding anything to the contrary in this agreement, in no event shall either party be liable to\nthe other party or its affiliates, any succ"
+    },
+    {
+        "chunk_id": 60,
+        "text": "essors in interest or any beneficiary or assignee of this agreement\nfor any consequential, multiple, incidental, indirect, special, exemplary or punitive damages, or loss of\nprofits or revenues arising out of or relating to this agreement or any breach hereof; provided, however,\nthe foregoing shall not be construed as limiting an obligation of a party hereunder to indemnify, defend and\nhold harmless the other party against claims asserted by unaffiliated third parties, including, but not\nlimited"
+    },
+    {
+        "chunk_id": 61,
+        "text": " to, third party claims for special, indirect, consequential, punitive or exemplary damages. this\narticle x shall apply notwithstanding the sole, joint or concurrent negligence, fault or responsibility of\nthe party whose liability is waived by this provision, or any other event or condition, whether anticipated\nor unanticipated, and regardless of whether pre-existing prior to the date of this agreement.\narticle xi\nforce majeure\n11.1 suspension of obligations. in the event carrier or shipper is r"
+    },
+    {
+        "chunk_id": 62,
+        "text": "endered unable, wholly or in part, by reason of force majeure to carry out\nits obligations under this agreement (other than the obligation to make payment of amounts due hereunder, including without\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nlimitation, payment of fees due hereunder), it is agreed that such party shall give notice and reasonably full particulars of such force majeure, in\nwriting, or other electronic means to the other party within a reasonable time after the occu"
+    },
+    {
+        "chunk_id": 63,
+        "text": "rrence of the cause relied on, and the obligations of the\nparty giving such notice, so far as they are affected by such force majeure, shall be suspended during the continuance of any inability so caused,\nbut for no longer period, and such cause shall, so far as possible, be remedied with all reasonable dispatch. it is understood and agreed that the\nsettlement of strikes or lockouts shall be entirely within the discretion of the party having the difficulty, and that the above requirement that an"
+    },
+    {
+        "chunk_id": 64,
+        "text": "y\nforce majeure shall be remedied with all reasonable dispatch shall not require the settlement of strikes or lockouts by acceding to the demands of\nthe opposing party when such course is inadvisable in the discretion of the party having the difficulty.\n11.2 definition of force majeure. the term “force majeure” as used herein shall mean acts of god; strikes, lockouts, or other industrial\ndisturbances; conditions arising from a change in governmental laws, orders, rules, or regulations; acts of p"
+    },
+    {
+        "chunk_id": 65,
+        "text": "ublic enemy; wars; blockades;\ninsurrections; riots; epidemics; landslides; lightning; earthquakes; fires; storms; floods; washouts; arrests and restraints of governments and\npeople; civil disturbances; explosions; breakage or accident to machinery or lines of pipe; the necessity for making repairs, tests, alterations, or\nperforming maintenance to machinery or lines of pipe; scheduled maintenance; freezing of wells or lines of pipe; partial or entire failure of wells,\nprocessing, or gasification "
+    },
+    {
+        "chunk_id": 66,
+        "text": "and gas manufacturing facilities; orders or directives of, or proceedings initiated by, any governmental authority; and\nany other causes, whether of the kind herein enumerated or otherwise, not within the control of the party claiming relief hereunder, and which by\nthe exercise of due diligence, such party is unable to prevent or overcome. such term shall likewise include those instances (a) where either carrier\nor shipper is required to obtain servitudes, rights-of-way, grants, permits or licen"
+    },
+    {
+        "chunk_id": 67,
+        "text": "ses to enable such party to fulfill its obligations under this\nagreement and is unable to acquire or experiences delays in acquiring such servitudes, rights-of-way, grants, permits or licenses, at reasonable\ncosts, and after the exercise of reasonable diligence, and (b) the partial or entire failure or refusal of third party operators to receive or deliver gas,\nor increases in pressure of upstream or downstream pipelines. force majeure shall not include failure of product supply due to pricing\nc"
+    },
+    {
+        "chunk_id": 68,
+        "text": "onsiderations.\n11.3 termination based on carrier force majeure. if as a result of an event of carrier force majeure, carrier provides no services to shipper\nfor a period of at least twelve (12) consecutive months, either party shall be entitled to terminate this agreement by written notice to the other\nparty given at any time after the expiration of such twelve (12) month period, but prior to the cessation of the applicable event of carrier force\nmajeure. shipper’s termination right under this s"
+    },
+    {
+        "chunk_id": 69,
+        "text": "ection 11.3 shall be subject to its compliance with section 14.2 in connection with any certificates,\napprovals, authorizations and permits required by carrier as a result of the event of carrier force majeure.\narticle xii\ndispute resolution\n12.1 resolution of disputes. any dispute shall be resolved pursuant to the provisions of this article xii, which shall be the sole and\nexclusive procedures for the resolution of any\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nsuch dispute. any"
+    },
+    {
+        "chunk_id": 70,
+        "text": " party that fails to first attempt to resolve any dispute using direct negotiations shall pay all legal and consulting fees and costs\nincurred by the other party in any suit, action, or proceeding to enforce the terms of this article xii. while the procedures in this article xii\nare pending, each party shall continue to perform its existing obligations under the agreement to the extent those obligations are not the subject of\nthe dispute.\n12.2 dispute notice. prior to submitting any dispute for "
+    },
+    {
+        "chunk_id": 71,
+        "text": "resolution by a court, a party shall provide written notice (a “dispute notice”) to the\nother of the occurrence of such dispute. the dispute notice shall contain (i) a concise statement describing the dispute, including a description of\nits nature, circumstances and cause, (ii) an explanation of the basis and justification for the dispute, including reference to any pertinent\nprovision(s) of the agreement, (iii) if applicable, the estimated dollar amount of the dispute and how that estimate was "
+    },
+    {
+        "chunk_id": 72,
+        "text": "determined, (iv) the claiming\nparty’s desired resolution, and (v) any other information the claiming party deems relevant.\n12.3 direct negotiation. commencing within thirty (30) days after the dispute notice is received and concluding fifteen (15) business days\nthereafter, the authorized representatives of the parties with decision-making authority shall meet in person in houston, texas (or in a place\nmutually agreed upon by the parties to the dispute) and confer, in good faith, to seek to resol"
+    },
+    {
+        "chunk_id": 73,
+        "text": "ve the dispute raised in the dispute notice. if the\nparties are unable to resolve the dispute for any reason within such fifteen (15) business day period, then either party shall be entitled to pursue\nany remedies available at law or in equity; provided, however, this section 12.3 shall not limit a party’s right to initiate litigation prior to the\nexpiration of the time periods set forth in this section 12.3 if application of such limitations would prevent a party from filing a lawsuit or claim\n"
+    },
+    {
+        "chunk_id": 74,
+        "text": "within the applicable period for filing lawsuits (e.g. statutes of limitation, prescription, etc.).\n12.4 jurisdiction and venue. the parties hereby irrevocably consent to the exclusive jurisdiction of the state or federal courts located in harris\ncounty, texas. the parties hereby irrevocably and unconditionally waive, to the fullest extent they may legally and effectively do so, any objection\nwhich they may now or hereafter have to the laying of venue of any suit, action or proceeding arising ou"
+    },
+    {
+        "chunk_id": 75,
+        "text": "t of or relating to this agreement or the\ntransactions contemplated hereby in any federal or state court located in harrison county, texas.\n12.5 costs and expenses. the prevailing party in any litigation pertaining to any dispute hereunder shall be entitled to recover its reasonable\ncosts, expenses and attorney’s fees in connection with such litigation.\n12.6 waiver of jury trial. the parties hereby waive all rights to a trial by jury for any and all disputes.\n12.7 confidentiality of dispute reso"
+    },
+    {
+        "chunk_id": 76,
+        "text": "lution.\n(a) the parties agree that any dispute and any negotiations among the parties in relation to any dispute shall be subject to the\nconfidentiality provisions of this agreement.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\n(b) the parties further agree that any information, documents or materials produced for the purposes of, or used in, negotiations\nof any dispute shall be subject to the confidentiality provisions of this section 12.7. the parties further agree that upon the "
+    },
+    {
+        "chunk_id": 77,
+        "text": "request of the\nproviding party, any information, documents or materials produced by such party for the purpose of negotiations of any dispute shall be destroyed\nor returned to the providing party within thirty (30) days of the resolution of such dispute or the issuance of a final decision with respect to such\ndispute; provided, however, any confidential information (i) found in drafts, notes, studies and other documents prepared by or for the receiving\nparty or its representatives, or (ii) found"
+    },
+    {
+        "chunk_id": 78,
+        "text": " in electronic format as part of receiving party’s off-site or on-site data storage/archival process system, will\nbe held by the receiving party or destroyed at the receiving party’s option.\n(c) without limiting the foregoing, the parties agree that disclosure of confidential information may be made to third parties:\n(1) in order to enforce any of the provisions of this agreement or the tariff, including without limitation, any court\njudgment.\n(2) who consist of a party’s auditors, legal adviser"
+    },
+    {
+        "chunk_id": 79,
+        "text": "s, insurers or affiliates.\n(3) if the party making such disclosure is under a legal or regulatory obligation to make such disclosure, but limited to the\nextent of such legal obligation.\n(4) with the prior written consent of the other party not making the disclosure.\n(d) the parties agree to submit to the jurisdiction of a court of competent jurisdiction located in harris county, texas for the\npurpose of any proceedings to enforce this section 12.7 and, except as permitted under this section 12.7"
+    },
+    {
+        "chunk_id": 80,
+        "text": "(c), the receiving party shall prevent any\ninformation, documents or materials belonging to a disclosing party from being disclosed to third parties.\narticle xiii\nfinancial assurances\n13.1 financial assurances. if shipper has failed to pay any amount when due under this agreement and if such non-payment is not being\ndisputed in good faith by shipper, carrier shall have the right to request and receive from shipper adequate assurance of performance (“financial\nassurance”) which shall mean credit "
+    },
+    {
+        "chunk_id": 81,
+        "text": "support in a form reasonably acceptable to carrier and in an amount and for the term reasonably acceptable to\ncarrier. any of the following shall be an acceptable form of credit support:\n\n(a)\nan irrevocable standby letter of credit from a bank satisfactory to carrier;\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\n\n(b)\nprovide a prepayment or a deposit in advance of the month in which services hereunder are to be provided; or\n\n(c)\na performance bond issued by a person satisfactory to"
+    },
+    {
+        "chunk_id": 82,
+        "text": " carrier.\nif the credit of shipper’s guarantor is satisfactory in carrier’s opinion, a demand for financial assurance can be satisfied with a guarantee\nissued on behalf of shipper in a form acceptable to carrier, but only for as long as the credit of shipper’s guarantor continues to be acceptable to\ncarrier. carrier acknowledges and agrees that memorial resource development corp. is a satisfactory guarantor.\nshould shipper or its guarantor fail to provide financial assurance within ten (10) busi"
+    },
+    {
+        "chunk_id": 83,
+        "text": "ness days after receipt of written demand for such\nassurance, then carrier shall have the right to suspend performance under this agreement until such time as shipper furnishes financial\nassurance. for the avoidance of doubt, such suspension of performance by carrier shall not relieve shipper of its obligation to make payments of\namounts due hereunder, including, without limitation, payment of fees due hereunder.\nif during the term, carrier has failed to pay any amount when due under this agreem"
+    },
+    {
+        "chunk_id": 84,
+        "text": "ent and if such non-payment is not being disputed in\ngood faith by carrier, shipper shall have the right to request and receive from carrier adequate financial assurance under similar terms and\nconditions as described above, including the right to suspend performance under this agreement until such time as carrier furnishes financial\nassurance.\narticle xiv\nduty to support\n14.1 arm’s length negotiations. each of the parties acknowledges and agrees that this agreement is the result of good faith, "
+    },
+    {
+        "chunk_id": 85,
+        "text": "arm’s length\nnegotiations which have resulted in an agreement that is fair and equitable to carrier and shipper.\n14.2 shipper support. shipper hereby agrees, upon written request by carrier provided at least ten (10) days prior to the deadline for such\naction: (a) to not object to carrier’s applications for necessary certificates, approvals, authorizations and permits of the ferc and louisiana\nregulating bodies, if any, in relation to the system; (b) to not object to the tariff rates calculated "
+    },
+    {
+        "chunk_id": 86,
+        "text": "in accordance with the terms of this agreement,\nand not take any action directly or indirectly that could be interpreted as evidence of shipper’s lack of support for such tariff rates; and (c) to not\nobject to the pro forma tariff materially in the form attached as exhibit a, in any and all regulatory proceedings relating thereto and not take any\naction or inaction that could be interpreted as evidence of shipper’s lack of support therefor; provided that nothing in the foregoing shall obligate\ns"
+    },
+    {
+        "chunk_id": 87,
+        "text": "hipper to support future changes to the tariff rates that are inconsistent with this agreement, or prevent shipper from opposing any position\ntaken by carrier before ferc and/or louisiana regulating bodies that is inconsistent with this agreement.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\n14.3 no tariff rate revision proceedings. each of the parties further acknowledges that the setting of tariff rates for the system is subject to\nthe approval of, and potential modification by, "
+    },
+    {
+        "chunk_id": 88,
+        "text": "the ferc, from time to time, and each of the parties hereby agrees not to, directly or indirectly,\ncommence or support any application, motion or other proceeding (a “tariff rate revision proceeding”) before the ferc for the purpose of\nrequesting the ferc to set tariff rates applicable to the system which are inconsistent with this agreement.\n14.4 third party proceedings. in the event of any tariff rate revision proceeding being commenced by a third party or by the ferc itself,\nand in the event "
+    },
+    {
+        "chunk_id": 89,
+        "text": "of any other proceedings pursuant to which the tariff rates for the system may be reviewed by the ferc or other governmental\nauthority having jurisdiction, shipper agrees to not object to the setting of tariff rates applicable to the system that are consistent with this\nagreement. in the event of any other proceedings challenging any of the terms of this agreement being commenced by a third party or by the\nferc itself, shipper agrees to provide all reasonable support and cooperation in defending"
+    },
+    {
+        "chunk_id": 90,
+        "text": " such terms or otherwise resolving the complaint or\nother challenge as shall be reasonably requested by carrier.\narticle xv \ncommon carrier and compliance with applicable laws\n15.1 common carrier pipeline. the system will be operated as a common carrier pipeline, and shipper’s rights hereunder shall be subject to all\nlaws related to and governing the operation of common carrier pipelines, including, without limitation, laws and regulations that prevent\ndiscrimination in favor of any given shippe"
+    },
+    {
+        "chunk_id": 91,
+        "text": "r or the provision of service for consideration other than the rate set forth in a published tariff. the tariff\nshall apply to the services provided hereunder, and if there is a conflict between a provision of this agreement and the tariff, the tariff shall apply.\ncarrier reserves the right to modify or amend the tariff, in its sole discretion, as it deems necessary; provided, however, any such modification or\namendment shall be consistent with this agreement.\n15.2 compliance with laws. both par"
+    },
+    {
+        "chunk_id": 92,
+        "text": "ties shall, in carrying out the terms and provisions of this agreement, abide by all present and future\nlaws of any governmental authorities.\narticle xvi \nassignment\n16.1 restrictions on assignment. this agreement may not be assigned, disposed of, alienated or otherwise transferred by either party, in\nwhole or in part, without the prior written consent of the other party, which consent shall not be unreasonably withheld, conditioned or delayed,\nexcept as provided below.\n16.2 permitted assignment"
+    },
+    {
+        "chunk_id": 93,
+        "text": "s. notwithstanding the foregoing, (i) either party may assign this agreement to an affiliate of such party without\nthe consent of the other party, (ii) either party may pledge this agreement to secure any credit facility or indebtedness of such\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nparty or its affiliates without the consent of the other party, (iii) carrier may assign this agreement without shipper’s consent in connection with\nthe sale or transfer of the system, and (iv) sh"
+    },
+    {
+        "chunk_id": 94,
+        "text": "ipper may assign or partially assign this agreement without carrier’s consent in connection with the\nsale or transfer of all or part of shipper’s ownership interests in the wells (or in the lands upon which such wells are located) producing gas from\nwhich the product delivered hereunder is extracted, provided that such assignee has a credit rating reasonably acceptable to carrier at the time of\nsuch sale or transfer. in the case of transfers under clause (iv) above, the transferor shall be relea"
+    },
+    {
+        "chunk_id": 95,
+        "text": "sed from its obligations and liabilities under this\nagreement to the extent of the obligations assumed by the transferee, provided that shipper’s and such transferee’s combined obligations to\ncarrier shall be no greater than shipper’s obligations to carrier prior to such transfer.\n16.3 collateral assignments. either party may grant a lien or security interest in this agreement to any person as security in connection with\narranging financing for such party or any affiliate of such party (and each"
+    },
+    {
+        "chunk_id": 96,
+        "text": " party agrees to execute all consents, estoppels, waivers and other\ndocuments and instruments reasonable requested by any such person).\narticle xvii\ntaxes\nshipper shall pay, or cause to be paid, all production, severance, gross receipts, ad valorem, and similar taxes, and all surcharges, levied or\nimposed on it by any governmental authority with respect to shipper product. in the event carrier is required to pay or remit any such tax or\nsurcharge owed by shipper, shipper shall reimburse carrier "
+    },
+    {
+        "chunk_id": 97,
+        "text": "for such tax or surcharge pursuant to carrier’s invoice for the same. shipper hereby\nagrees to indemnify, defend and hold harmless carrier from and against any and all claims and losses arising out of or related to such taxes or\nsurcharges. this indemnity and defense obligation shall survive the expiration or termination of this agreement. carrier shall be responsible for all\ntaxes or surcharges levied or imposed on it by any governmental authority with respect to the system and carrier’s other "
+    },
+    {
+        "chunk_id": 98,
+        "text": "facilities, including\nwithout limitation, carrier’s gas processing plants.\narticle xviii\nnotice and statements\n18.1 notice. any notice, statement, payment, claim or other communication required or permitted hereunder shall be in writing and shall be\nsent by: (i) facsimile transmission; (ii) delivered by hand; (iii) sent by united states mail with all postage fully prepaid; or (iv) by courier with\ncharges paid in accordance with the customary arrangements established by such courier, in each of t"
+    },
+    {
+        "chunk_id": 99,
+        "text": "he foregoing cases addressed to the party at\nthe following addresses:\n\ncarrier\nnotices and correspondence:\npenntex north louisiana operating, llc\nattn: general counsel\n11931 wickchester, suite 300\nhouston, texas 77043\nfax: (832) 456-4050\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\naccounting matters:\npenntex north louisiana operating, llc\nattn: vice president, accounting\n11931 wickchester, suite 300\nhouston, texas 77043\nfax: (832) 456-4050\nshipper\nnotices and correspondence:\nmrd o"
+    },
+    {
+        "chunk_id": 100,
+        "text": "perating llc\nc/o memorial resource development corp.\n500 dallas street, suite 1800\nhouston, tx 77002\nattn: general counsel\ne-mail: kroanememorialrd.com\n\nwith a copy to:\n\nattn: director, marketing & midstream\ne-mail: jeremy.bolandermemorialrd.com\nsuch notices, statements, payments, claims or other communications shall be deemed received as follows: (i) if delivered personally, upon\ndelivery; (ii) if sent by united states mail, whether by express mail, registered mail, certified mail or regular ma"
+    },
+    {
+        "chunk_id": 101,
+        "text": "il, the day receipt is refused or is\nconfirmed orally or in writing by the receiving party; (iii) if sent by a courier service, upon delivery; or (iv) if sent by facsimile, upon completion of\nthe transmission thereof, except that if such transmission is on any day other than a business day, or on or after 4:00 p.m., central clock time, such\nnotice shall be deemed to be received on the next business day.\n18.2 change of address. notices of change of address of either of the parties shall be given "
+    },
+    {
+        "chunk_id": 102,
+        "text": "in writing to the other party in the manner\naforesaid and shall be observed in the giving of all future notices, statements, payments, claims or other communications required or permitted to\nbe given hereunder.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\narticle xix\nmiscellaneous\n19.1 entire agreement; amendments. this agreement and the exhibits and schedules hereto constitute the entire agreement and\nunderstanding between the parties with respect to the subject matter hereof and "
+    },
+    {
+        "chunk_id": 103,
+        "text": "thereof, supersede all prior agreements and understandings with\nrespect thereto, and may be amended, restated or supplemented only by written agreement of the parties. notwithstanding the foregoing, the tariff\nis subject to amendment by carrier from time to time subject to applicable law and section 15.1 hereof.\n19.2 governing law. this agreement shall be governed and construed in accordance with the laws of the state of texas without giving effect\nto the conflict of law rules thereof.\n19.3 no d"
+    },
+    {
+        "chunk_id": 104,
+        "text": "rafting presumption. no presumption will operate in favor of or against any party as a result of any responsibility that any party\nmay have had for drafting this agreement. shipper and carrier acknowledge and mutually agree that this agreement and all contents herein were\njointly prepared by the parties.\n19.4 waiver. no waiver of any term, provision or condition of this agreement shall be effective unless in writing signed by the parties, and no\nsuch waiver shall be deemed to be or construed as "
+    },
+    {
+        "chunk_id": 105,
+        "text": "a further or continuing waiver of any such term, provision or condition or as a waiver of any\nother term, provision or condition of the agreement, unless specifically so stated in such written waiver.\n19.5 no third party beneficiaries. except for persons indemnified hereunder, this agreement is not for the benefit of any third party and\nnothing herein, expressed or implied, confers any right or remedy upon any person not a party hereto.\n19.6 no partnership. it is not the intention of the parties"
+    },
+    {
+        "chunk_id": 106,
+        "text": " to create, nor is there created hereby, a partnership, trust, joint venture or\nassociation. the status of each party hereunder is solely that of an independent contractor.\n19.7 survival. notwithstanding the termination of this agreement for any reason, (a) article vi, article viii, article ix, article x,\narticle xii, article xiv, article xvii, article xviii and article xix shall survive the termination of this agreement, and (b) each party\nto this agreement will be liable for all of its accrued"
+    },
+    {
+        "chunk_id": 107,
+        "text": " obligations hereunder up to and including the date on which the termination becomes effective.\n19.8 headings. the headings and captions in this agreement have been inserted for convenience of reference only and shall not define or\nlimit any of the terms and provisions hereof.\n19.9 rules of construction. in construing this agreement, the following principles shall be followed:\n(a) examples shall not be construed to limit, expressly or by implication, the matter they illustrate;\n\nsource: range re"
+    },
+    {
+        "chunk_id": 108,
+        "text": "sources - louisiana, inc., 8-k, 4/17/2015\n(b) the word “includes” and its syntactical variants mean “includes, but is not limited to” and corresponding syntactical variant\nexpressions;\n(c) the plural shall be deemed to include the singular and vice versa, as applicable;\n(d) all references in this agreement to an “article,” “section,” “subsection,” or “exhibit” shall be to an article, section,\nsubsection, or exhibit of this agreement, unless the context requires otherwise;\n(e) unless the context "
+    },
+    {
+        "chunk_id": 109,
+        "text": "otherwise requires, the words “this agreement,” “hereof,” “hereunder,” “herein,” “hereby,” or words of\nsimilar import shall refer to this agreement as a whole and not to a particular article, section, subsection, clause or other subdivision hereof; and\n(f) each exhibit and schedule to this agreement is attached hereto and incorporated herein as a part of this agreement, but if\nthere is any conflict or inconsistency between the main body of this agreement and any exhibit or schedule, the provisio"
+    },
+    {
+        "chunk_id": 110,
+        "text": "ns of the main body of\nthis agreement shall prevail, except as to any conflicts with the tariff.\n19.10 severability. if any provision of this agreement shall be held to be invalid, illegal or unenforceable, (i) the validity, legality and/or\nenforceability of the remaining provisions shall not, in any way, be affected or impaired thereby and (ii) in lieu of such invalid, illegal or\nunenforceable provision, there shall be automatically added to this agreement a provision as similar to such invalid"
+    },
+    {
+        "chunk_id": 111,
+        "text": ", illegal or unenforceable\nprovision as may be possible and be legal, valid and enforceable.\n19.11 further assurances. each party shall take such acts and execute and deliver such documents as may be reasonably required to\neffectuate the purposes of this agreement.\n19.12 no inducements. no director, employee, or agent of any party shall give or receive any commission, fee, rebate, gift, or entertainment of\nsignificant cost or value in connection with this agreement.\n19.13 counterpart execution. "
+    },
+    {
+        "chunk_id": 112,
+        "text": "this agreement may be executed in any number of counterparts, each of which shall be considered an original,\nand all of which shall be considered one and the same instrument. neither party shall be bound until both parties have executed a counterpart.\nfacsimile or other electronic copies of signatures shall constitute original signatures for all purposes of this agreement and any enforcement\nhereof.\n19.14 confidentiality.\n(a) each party agrees that it shall maintain all terms and conditions of t"
+    },
+    {
+        "chunk_id": 113,
+        "text": "his agreement in confidence, and that it shall not cause or permit\ndisclosure thereof without the express written\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nconsent of the other party. the standard of care to be employed by each party with respect to the other party’s confidential information shall be the\nstandard of care employed by a reasonable person in protecting confidential information.\n(b) permitted disclosures. notwithstanding section 19.14(a) of this agreement, disclosur"
+    },
+    {
+        "chunk_id": 114,
+        "text": "es of any terms and provisions of this agreement\notherwise prohibited may be made by a party (i) to the extent necessary for such party to enforce its rights hereunder against the other party; (ii) to\nthe extent to which a party is required to disclose all or part of this agreement by a statute or by the order or rule of a court, agency, or other\ngovernmental body exercising jurisdiction over the subject matter hereof, by order, by regulations, or by other compulsory process (including, but\nnot "
+    },
+    {
+        "chunk_id": 115,
+        "text": "limited to, deposition, subpoena, interrogatory, or request for production of documents); (iii) to the extent required by the applicable regulations\nof a securities or commodities exchange; (iv) to a third person in connection with a proposed sale or other transfer of a party’s interest in this\nagreement, provided such third person agrees in writing to be bound by confidentiality terms no less restrictive than those set forth in this section\n19.14; (v) to its own directors, officers, employees, "
+    },
+    {
+        "chunk_id": 116,
+        "text": "agents and representatives; (vi) to an affiliate; (vii) to a co-working interest owner or royalty\nowner of shipper product delivered hereunder, provided such co-working interest owner or royalty owner agrees in writing to be bound by the\nterms of this section 19.14; (viii) to the extent any such terms or provisions become public information through no fault of any party; or (ix) to a\nbank or other financial institution, and their agents and representatives, in connection with a party arranging f"
+    },
+    {
+        "chunk_id": 117,
+        "text": "or funding.\n(c) notification. if a party is or becomes aware of a fact, obligation, or circumstance that has resulted or may result in a disclosure of any of\nthe terms and conditions of this agreement authorized by section 19.14(b) (ii), (iii) or (iv) above, it shall so notify in writing the other party promptly\nand shall provide documentation or an explanation of such disclosure as soon as it is available.\n(d) party responsibility. each party shall be deemed solely responsible and liable for th"
+    },
+    {
+        "chunk_id": 118,
+        "text": "e actions of its directors, officers, employees, agents,\nrepresentatives and affiliates for maintaining the confidentiality commitments of this section 19.14.\n(e) public announcements. the parties agree that prior to making any public announcement or statement with respect to this agreement or\nthe transaction represented herein, the party desiring to make such public announcement or statement shall provide the other party with a copy of\nthe proposed announcement or statement prior to the intende"
+    },
+    {
+        "chunk_id": 119,
+        "text": "d release date of such announcement. the other party shall thereafter consult with\nthe party desiring to make the release, and the parties shall exercise their reasonable best efforts to (i) agree upon the text of a joint public\nannouncement or statement to be made by both such parties or (ii) in the case of a statement to be made solely by one party, obtain approval of the\nother party to the text of a public announcement or statement. nothing contained in this section 19.14 shall be construed t"
+    },
+    {
+        "chunk_id": 120,
+        "text": "o require any party to\nobtain approval of any other party to disclose information with respect to this agreement or the transaction represented herein to any\ngovernmental authority to the extent required by applicable law or necessary to comply with disclosure requirements of the securities and\nexchange commission, new york stock exchange, nasdaq stock market, or any other regulated stock exchange.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\n[signature page follows]\n\nsource: range"
+    },
+    {
+        "chunk_id": 121,
+        "text": " resources - louisiana, inc., 8-k, 4/17/2015\nin witness whereof, the parties have executed this agreement to be effective as of the effective date.\n\ncarrier:\npenntex north louisiana operating, llc\nby:\n/s/ robert o. bond\nname: robert o. bond\ntitle:\nchief operating officer\nshipper:\nmrd operating llc\nby: memorial resource development corp., its sole\nmember\nby:\n/s/ kyle roane\nname: kyle n. roane\ntitle:\nsenior vice president\n\nsignature page to the transportation services agreement\n(mrd operating llc)"
+    },
+    {
+        "chunk_id": 122,
+        "text": "\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nexhibit a\ntariff\n(see attached)\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n[penntex north louisiana operating, llc]\nlocal tariff\ncontaining rates, rules, and regulations\ngoverning the transportation\nof\nnatural gas liquids\nby pipeline\n\nthe provisions published herein will, if effective, not result in an effect on the quality of human environment.\nfiled in compliance with 18 c.f.r. § 34"
+    },
+    {
+        "chunk_id": 123,
+        "text": "2.2(a) (establishing initial rates).  \nrequest for special permission\nissued on [ ( )] day’s notice under authority of 18 c.f.r. § 341.14. this tariff publication is subject to refund pending a 30-day review period.]\n\nissue date: [ ], 2015\neffective date: [ ], 2015\n\nissued and compiled by:\n[contact name]\n[penntex north louisiana llc]\n11931 wickchester lane, suite 300\nhouston, tx 77043\n[phone]\n[facsimile]\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1"
+    },
+    {
+        "chunk_id": 124,
+        "text": ".0.0\n\ntable of contents\n\nsection i table of rates\n\nsection ii rules and regulations\n\n1.\ndefinitions\n\n2.\ncommodity\n\n3.\nproduct specifications\n\n4.\nidentity of products\n\n5.\nnominations and scheduling\n\n6.\nnominations in excess of capacity\n\n7.\nminimum tender\n\n8.\nmeasurement and evidence of receipts and deliveries\n\n9.\norigination facilities\n\n10.\nstorage of products in transit\n\n11.\ndestination facilities\n\n12.\nnotice of arrival, delivery at destination\n\n13.\ntitle\n\n14.\nrates applicable\n\n15.\nrates applica"
+    },
+    {
+        "chunk_id": 125,
+        "text": "ble from intermediate points\n\n16.\npayment of transportation charges\n\n17.\nliability of carrier\n\n18.\nclaims, suits, and time for filing\n\n19.\nconnection policy\n\n20.\ncommon stream – connecting carriers\n\n21.\ndedicated rates\n\n22.\nincentive rates\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\n\nf.e.r.c. no. 1.0.0\n\nsection i\ntable of rates\nuncommitted rates\n\nfrom\n[note 1]\n\nto\n[note 2]\n\nuncommitted\nrate in\ndollars per\nbarrel of\n42 u.s.\ngallons\n\nlincoln parish, louisiana\n\nin"
+    },
+    {
+        "chunk_id": 126,
+        "text": "terconnection\nnear\nada, bienville\nparish,\nlouisiana\n\n1.85 \ndedicated rates [note 3] \n\nfrom\n[note 1]\n\nto\n[note 2]\n\ndedicated\nrate in\ndollars per\nbarrel of\n42 u.s.\ngallons\n\nlincoln parish, louisiana\n\ninterconnection\nnear\nada, bienville\nparish,\nlouisiana\n\n1.68 \nincentive rates [note 4] \n\nfrom\n[note 1]\n\nto\n[note 2]\n\nmonthly volume\nin barrels per\nday\n\nincentive\nrate in\ndollars per\nbarrel of\n42 u.s.\ngallons\n\nlincoln parish, louisiana\n\ninterconnection\nnear\nada, bienville\nparish,\nlouisiana\n\n0 – 2,500\n2,"
+    },
+    {
+        "chunk_id": 127,
+        "text": "501 or greater  \n\n1.68\n1.47 \nnote 1: the receipt points are the penntex processing plants in lincoln parish, louisiana.\nnote 2: the delivery point is the interconnection with black lake pipeline company near ada, bienville parish, louisiana.\nnote 3: dedicated rates are applicable to a dedicated shipper as provided for in item 21 of this tariff.\nnote 4: incentive rates are applicable to an incentive shipper as provided for in item 22 of this tariff.\n\nsource: range resources - louisiana, inc., 8-k"
+    },
+    {
+        "chunk_id": 128,
+        "text": ", 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\nsection ii\nrules and regulations\n\n1.\ndefinitions:\n“barrel” means a barrel of forty-two (42) gallons, united states measurement at sixty (60) degrees fahrenheit and zero (0) pounds per square\ninch gauge pressure.\n“business day” means monday through friday of each week, excluding banking holidays.\n“carrier” means [penntex north louisiana operating, llc], a delaware limited liability company.\n“committed volume” means the volume of product that an "
+    },
+    {
+        "chunk_id": 129,
+        "text": "incentive shipper has committed to be transported on the system, or make a\ndeficiency payment in connection therewith, for a number of years as mutually agreed upon in the incentive shipper’s tsa.\n“common stream(s)” means product moved through the system that is commingled or intermixed with other product in the system.\n“consignee” means the party to whom a shipper has ordered the delivery of product.\n“dedicated product” means product that a dedicated shipper has dedicated to be transported on t"
+    },
+    {
+        "chunk_id": 130,
+        "text": "he system but as to which shipper has no\nobligation to make a deficiency payment, as mutually agreed upon in the dedicated shipper’s tsa.\n“dedicated rates” means the rates set out in section i of this tariff paid by a dedicated shipper pursuant to a tsa that has dedicated\nproduct.\n“dedicated shipper” has the meaning set out in item no. 21 of this tariff.\n“delivery point” means points on the system where product is delivered to shipper or its consignee, as such points are specified by carrier\nfro"
+    },
+    {
+        "chunk_id": 131,
+        "text": "m time to time in this tariff.\n“incentive rates” means the rates set out in section i of this tariff paid by an incentive shipper pursuant to a tsa that has a committed\nvolume.\n“incentive shipper” has the meaning set out in item no. 21 of this tariff.\n“nomination” or “nominate” means a written offer (in form and context specified by carrier) made by a shipper or its designee to carrier of a\nstated quantity of product for transportation from a specified receipt point to a specified delivery point"
+    },
+    {
+        "chunk_id": 132,
+        "text": " in accordance with this tariff.\n“product(s)” means a demethanized mixture of natural gas liquids comprised primarily of ethane, propane, iso-butane, normal butane, iso-\npentane, normal pentane, hexanes and heavier hydrocarbons, incidental volumes of methane, as well as other non-hydrocarbon compounds.\n“receipt point” means points where product is received into the system, as such points are specified by carrier from time to time in this\ntariff.\n“shipper” means the party that contracts with carr"
+    },
+    {
+        "chunk_id": 133,
+        "text": "ier for transportation of products on the system in accordance with this tariff.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\n“system” means carrier’s pipeline system and all related facilities necessary for carrier to provide transportation service from the receipt\npoints to the delivery points.\n“tariff” means carrier’s f.e.r.c. tariff no. 1.0.0 or subsequent reissues thereof.\n“tender” or “tendered” means an offer of delivery by a shipper to"
+    },
+    {
+        "chunk_id": 134,
+        "text": " carrier of a stated quantity of products for transportation from a specified\nreceipt point to a specified delivery point in accordance with this tariff.\n“tsa” means a transportation services agreement executed by carrier and a shipper for transportation on the system.\n“uncommitted rate” means the rate set out in section i of this tariff paid by a shipper that is not an incentive shipper or a dedicated\nshipper.\n\n2.\ncommodity:\ncarrier is engaged in the transportation of product as defined herein "
+    },
+    {
+        "chunk_id": 135,
+        "text": "and therefore will not accept any other commodity for transportation\nunder this tariff.\n\n3.\nproduct specifications:\nsubject to any provisions to the contrary in a tsa between carrier and shipper:\n\na.\nshipper shall not tender product for transportation on the system unless the product will be readily susceptible to transportation\nthrough the system, such product will not adversely damage the common stream or the system, and such product otherwise conforms\nto the specifications set forth in this i"
+    },
+    {
+        "chunk_id": 136,
+        "text": "tem no. 3.\n\nb.\nas a prerequisite to transportation on the system, shipper’s product must also conform to the quality specifications of the connecting\ncarrier or facility at the nominated delivery point.\n\nc.\nshipper shall perform applicable tests to ensure that the product it tenders to carrier for delivery on the system conforms to the\nspecifications set forth in this item no. 3. should spot samples, analyses, or any other test (including tests performed by carrier)\nindicate that the product ten"
+    },
+    {
+        "chunk_id": 137,
+        "text": "dered or to be tendered does not meet the specifications required by carrier, shipper agrees to stop\ndelivery of such off-specification product to carrier until such time as it is determined by additional testing that the product meets the\ndefinition of product issued by carrier.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\n\nf.e.r.c. no. 1.0.0\n\nd.\nthe specifications set forth in this item no. 3 shall apply to each barrel of shipper’s tender and shall not be limi"
+    },
+    {
+        "chunk_id": 138,
+        "text": "ted to the composite\nsample of the tender.\n\nproduct specifications\n\nmaximum\n\ntest method\n1.  composition:\n\n  predominantly ethane, propane,\n\n  butanes & natural gasoline\n\nastm d-2163\n  (c5 plus)\n\n  methane\n  1.5 of ethane1\n\nastm d-2163\n  total olefins\n  none\n\nastm d-2163\n  total fluorides\n  none\n\nuop 619\n2.  vapor pressure:\n\n  at 100°f. psig\n\nastm d-1267\n3.  corrosiveness:\n\n  copper strip at 100°f\n  1-b\n\nastm d-1838\n4.  total sulfur:\n\n  ppm by weight in liquid\n\nastm d-3246\n5.  carbon dioxide:\n\n "
+    },
+    {
+        "chunk_id": 139,
+        "text": " ppm by weight\n\ngpa 2177\n6.  distillation:\n\n  end point, °f\n\nastm d-216\n7.  dryness:\n\n  free water\n  none\n\nvisual\n8.  color:\n\n  saybolt number\n  plus 25 (minimum)\n\nastm d-156\n\ne.\ncarrier reserves the right to reject all tenders or any part thereof and refuse transportation for such tender, if carrier determines, in its\ndiscretion, reasonably exercised, that shipper has delivered product that (i) does not conform to the quality specifications set forth in\nthis item no. 3, (ii) is not merchantable"
+    },
+    {
+        "chunk_id": 140,
+        "text": ", (iii) is not readily acceptable for transportation through the system, (iv) would otherwise\nadversely affect the system or other products on the system, and/or (v) would, in carrier’s sole judgment, expose employees of carrier\nor the system to an undue risk of harm or property damage.\n\nf.\nin the event shipper delivers product to the system that does not meet, individually and collectively, the quality specifications set forth\nin this item no. 3, carrier may exclude such shipper from further en"
+    },
+    {
+        "chunk_id": 141,
+        "text": "try into applicable segments of the system until such time as the\nshipper returns the quality of its product to a level satisfactory to carrier.\n\n1  methane in excess of limits stated herein, as measured on each shipper’s individual plant stream, shall be considered as contaminant and\nproduct so contaminated will not be received by carrier. however, it is recognized that product so contaminated may be received by carrier\nwithout carrier’s knowledge. during any period in which shipper’s product e"
+    },
+    {
+        "chunk_id": 142,
+        "text": "xceeds the specification, at carrier’s option, carrier shall have the\nright to deduct the methane content in excess of the specification from shipper’s desired volume, but shipper will nevertheless be required to\npay the tariff rate on total volume of methane shipped.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\ng.\ncarrier is not responsible for monitoring receipts or deliveries for contaminants. further, carrier reserves the right to dispose"
+    },
+    {
+        "chunk_id": 143,
+        "text": " of any\ncontaminated product on the system. disposal thereof may be made in any reasonable manner including but not limited to commercial\nsales. any liability associated with the contamination or disposal of any products shall be borne by shipper introducing the\ncontaminated products into the system. shipper liability includes, but is not limited to, claims from other shippers, carriers, or users of\nthe contaminated products and the costs of any regulatory or judicial proceeding.\n\nh.\nif product "
+    },
+    {
+        "chunk_id": 144,
+        "text": "received by carrier does not meet the quality specifications set forth in this item no. 3, carrier reserves the right to charge the\nshipper the greater of (i) the actual costs and expenses incurred by carrier to treat, handle, or otherwise dispose of all such\ncontaminated product, or (ii) a one-hundred (100) cents per barrel charge for the volume of contaminated product transported by\nshipper (“off-spec penalty”). if a composite sample, spot sample, or the results of any other test demonstrates "
+    },
+    {
+        "chunk_id": 145,
+        "text": "that a shipper’s product\ndelivered to carrier fails to meet the quality specifications set forth in this item no. 3, the total penalty will be assessed by multiplying\nthe off-spec penalty by the total volume of shipper’s product (in barrels) received by carrier during the ticket period when carrier\nreceived the contaminated product.\n\n4.\nidentity of products:\nsubject to any provisions to the contrary in a tsa between carrier and shipper:\n\na.\ncarrier shall not be liable to shipper for changes in g"
+    },
+    {
+        "chunk_id": 146,
+        "text": "ravity or quality of shipper’s products that may occur from commingling or\nintermixing shipper’s products with other products in the same common stream while in transit. carrier is not obligated to deliver to\nshipper the identical product nominated by shipper; carrier will deliver the product it is regularly transporting as a common stream.\n\nb.\ncarrier shall have no responsibility in, or for, any revaluation or settlements that may be deemed appropriate by shippers and/or\nconsignees because of m"
+    },
+    {
+        "chunk_id": 147,
+        "text": "ixing or commingling of products between the receipt and delivery of such shipments by carrier within the\nsame common stream.\n\nc.\ncarrier shall not be required to transport product except with reasonable diligence, considering the quality of the product, the distance\nof transportation and other material elements. carrier cannot commit to delivering product to a particular destination, at a particular time.\n\n5.\nnominations and scheduling:\n\na.\nproduct for shipment through the system will be receiv"
+    },
+    {
+        "chunk_id": 148,
+        "text": "ed only on a properly executed nomination from shipper or its designee showing\nthe receipt point at which the product is to be received, the delivery point of the shipment, consignee (if any), and the amount of\nproduct to be transported. carrier may refuse to accept product for transportation unless satisfactory evidence is furnished that shipper\nor consignee has made provision for prompt receipt thereof at the delivery point. carrier shall not be obligated to accept product for\ntransportation d"
+    },
+    {
+        "chunk_id": 149,
+        "text": "uring any calendar month, unless shipper or its designee makes such nomination to carrier in writing on or before 9:00\na.m., prevailing central time of the tenth (10th) business day immediately preceding the first day of the month during which the\ntransportation under the nomination is to begin.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\nb.\ncarrier may refuse to accept product for transportation where shipper or consignee is not in complian"
+    },
+    {
+        "chunk_id": 150,
+        "text": "ce with other provisions of this\ntariff or where shipper or consignee has failed to comply with all applicable laws, rules and regulations made by any governmental\nauthorities regulating shipments of products.\n\nc.\nunless shipper and carrier have agreed otherwise in a tsa, carrier reserves the right to control in its discretion the component\ndistribution in the product tendered by shipper or its designee, in order to achieve maximum operating efficiency of carrier’s facilities\nand optimum utiliza"
+    },
+    {
+        "chunk_id": 151,
+        "text": "tion of total transportation capacity. carrier shall use reasonable judgment in exercising that discretion.\n\nd.\nthe rate at which product is delivered to carrier and redelivered from carrier will be determined by carrier’s transportation and\nredelivery obligations to its shippers and by the necessity of economical use and efficient operation of carrier’s facilities, which shall be\ndetermined by carrier in the exercise of its reasonable judgment. carrier will assume no liability for its inability"
+    },
+    {
+        "chunk_id": 152,
+        "text": " to maintain schedules or\ncomply with shipper’s redelivery requests when caused by operational or scheduling problems, excess demand, delays and other\nproblems encountered in pipeline operations.\n\n6.\nnominations in excess of capacity:\nwhen there is offered to carrier quantities of product greater than can be transported on the system, carrier shall allocate the available\ntransportation capacity on the system (“available capacity”). allocation will be given as a daily or monthly volume, at carrie"
+    },
+    {
+        "chunk_id": 153,
+        "text": "r’s discretion,\nand will be calculated for the calendar month.\nnew shippers will have access to a minimum of ten percent (10) of the available capacity and historical shippers will have access to a\nmaximum of ninety percent (90) of the available capacity.\ncarrier shall allocate up to ninety percent (90) of the available capacity on a non-discriminatory historical basis to all historical shippers.\neach individual historical shipper’s entitlement will be based on (i) the average monthly volumes of"
+    },
+    {
+        "chunk_id": 154,
+        "text": " the historical shipper’s representative\nperiod, based on the greater of the volumes transported or paid for during each month of the representative period or (ii) for an incentive\nshipper, based on the incentive shipper’s committed volume on a yearly basis.\nthe remaining ten percent (10) of the available capacity shall be allocated on a prorata basis to new shippers. carrier is not required to\nallocate more than two percent (2) of the available capacity to any individual new shipper.\nthe carrie"
+    },
+    {
+        "chunk_id": 155,
+        "text": "r will repeat this allocation process until all of the available capacity has been allocated.\nallocation will not be transferred. with agreement of the shippers concerned, historical volume will be transferred under the following\nconditions:\n\n•\n  no commercial transaction occurs between the participating shippers with regard to historical volumes.\n\n•\n  the transfer is irrevocable.\n\n•\n  the request to transfer must be the result of an unusual situation as may be reasonably determined by carrier.\n"
+    },
+    {
+        "chunk_id": 156,
+        "text": "\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\nfor the purposes of this item no. 6:\n\n•\n  “new shipper” means a shipper that is not a historical shipper.\n\n•\n  “historical shipper” means a shipper that has shipped, or paid for the shipment of, product on the system during the\nrepresentative period.\n\n•\n  “representative period” means a consecutive twelve (12) month period, beginning thirteen (13) months prior to the month being\nallocated and exclu"
+    },
+    {
+        "chunk_id": 157,
+        "text": "ding the month preceding the month of allocation.\n\n7.\nminimum tender:\nproducts of the required specifications shall be tendered for transportation in quantities of not less than 2,500 barrels of the same\nspecification, except that carrier may, in its sole discretion, accept any quantity of product if such quantity can be consolidated with other\nproduct such that carrier can make a single delivery of not less than 2,500 barrels. the term “single delivery” as used herein means a delivery\nof produc"
+    },
+    {
+        "chunk_id": 158,
+        "text": "t in one continuous operation to one or more consignees into a single facility, furnished by such consignee or consignees, to\nwhich carrier is connected.\n\n8.\nmeasurement and evidence of receipts and deliveries:\n\na.\ncarrier or its representative will measure and test all product tendered for transportation prior to its receipt and may measure and test\nsuch product at any time thereafter. shipper or consignee may be present or represented at the gauging and testing. quantities shall be\ndetermined "
+    },
+    {
+        "chunk_id": 159,
+        "text": "in accordance with applicable a.p.i. manual of petroleum measurement standards and applicable gas processors\nassociation procedures.\n\nb.\nany overage or shortage not due to the negligence of carrier, including losses resulting from shrinkage, evaporation, other physical\nproduct loss and interface mixture in any calendar month, will be allocated on a monthly accrual basis among shippers in the proportion\nthat the total number of barrels delivered from the entire system for each shipper bears to th"
+    },
+    {
+        "chunk_id": 160,
+        "text": "e total number of barrels delivered from the\nentire system for all shippers.\n\nc.\ncarrier may require shipper to furnish a certificate setting forth in detail the specification of each shipment of product offered for\ntransportation hereunder, and shipper shall be liable for any contamination or damage to other product in carrier’s custody or to the\nsystem or other carrier facilities caused by failure of the product tendered to meet the specifications stated in shipper’s certification.\ncarrier may"
+    },
+    {
+        "chunk_id": 161,
+        "text": ", but shall not be required to, sample and/or test any shipment prior to acceptance or during receipt of shipment, and, in the\nevent of variance between the specifications contained in said certificate and the specifications indicated by carrier’s test, carrier’s test\nresult shall prevail and be used to determine whether the shipment meets carrier’s specifications. shipper or consignee may be present\nor represented at such measuring and testing.\n\nd.\na representative of carrier shall have the rig"
+    },
+    {
+        "chunk_id": 162,
+        "text": "ht to enter upon the premises where shipper’s product is received or delivered and have\naccess to any and all storage receptacles or meters for the purposes of measuring and testing and to make any examination, inspection,\nmeasurement or test required.\n\ne.\nall measurements and tests performed by carrier shall be deemed final and determinative unless shipper presents appropriate\ndocumentation to contest such measurements and/or tests within forty-five (45) days of receipt.\n\nsource: range resource"
+    },
+    {
+        "chunk_id": 163,
+        "text": "s - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\n9.\norigination facilities:\nwith respect to the receipt point, and any additional receipt points (if carrier determines that it will offer connections beyond those\ncontemplated in this tariff): (1) products will be received only from pipelines or plant facilities that are provided by shipper or shipper’s\ndesignee, or a connecting carrier; (2) carrier will determine and advise shippers of the size and capacity of pipelines"
+    },
+    {
+        "chunk_id": 164,
+        "text": " and tanks to be provided\nat the receipt point to meet the operating conditions of carrier’s facilities at such point; (3) carrier will not accept products for transportation\nunless such facilities have been provided and conform to the operating requirements of carrier in carrier’s sole discretion; and (4) the cost of\nsuch facilities shall be provided at the sole cost of shipper seeking access to the system.\n\n10.\nstorage of products in transit:\ncarrier is under no obligation to provide storage.\n"
+    },
+    {
+        "chunk_id": 165,
+        "text": "\n11.\ndestination facilities:\ncarrier will accept products for transportation only when shipper or consignee has provided the necessary facilities for taking delivery of the\nshipment as it arrives at the delivery point. carrier will not accept product for transportation unless such facilities have been provided and\nconform to the operating requirements of carrier in carrier’s sole discretion. unless otherwise agreed in a tsa between carrier and shipper,\nthe cost of such facilities shall be provid"
+    },
+    {
+        "chunk_id": 166,
+        "text": "ed at the sole cost of shipper seeking access to the system.\n\n12.\nnotice of arrival, delivery at destination:\nafter a shipment has had time to arrive at destination, carrier may begin delivery of such shipment from its common stock to shipper or\nconsignee at carrier’s current rate of pumping. shipper shall timely remove product, or cause product to be removed, from the system\nfollowing transportation to a nominated delivery point. if shipper or consignee is unable or refuses to receive said ship"
+    },
+    {
+        "chunk_id": 167,
+        "text": "ment, a demurrage\ncharge of one dollar (1.00) per barrel per twenty-four (24) hours shall accrue from the time said notice expires on that part of such shipment\nwhich is not received by shipper or consignee. in addition to such demurrage charge, carrier shall have the right to make such disposition of\nunremoved product as is necessary for the efficient operation of the system, and shipper shall pay carrier all charges associated with such\ndisposition the same as if shipper had authorized such, t"
+    },
+    {
+        "chunk_id": 168,
+        "text": "ogether with any associated additional costs and damages borne or incurred by\ncarrier. shipper shall indemnify carrier for all losses associated with unremoved product and carrier’s disposition of unremoved product.\ncarrier shall have no liability to shipper associated with shipper’s unremoved product or carrier’s disposition of unremoved product.\n\n13.\ntitle:\ncarrier may require of shipper satisfactory evidence of its perfected and unencumbered title of any product tendered for shipment on the\ns"
+    },
+    {
+        "chunk_id": 169,
+        "text": "ystem. carrier shall have the right to reject any product, when tendered for transportation, that may be involved in litigation, the title of\nwhich may be in dispute, or which may be encumbered by a lien or charge of any kind (other than the lien created hereunder in favor of\ncarrier and any liens permitted under a tsa between carrier and shipper).\nat the time of nomination, shipper shall inform carrier if any product nominated and/or to be tendered to carrier for transportation (i) may be\ninvol"
+    },
+    {
+        "chunk_id": 170,
+        "text": "ved in litigation, (ii) may be subject to a title dispute, or (iii) may be encumbered by a lien or charge of any kind (other than the lien\ncreated hereunder in favor of carrier and any liens permitted under a tsa between\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\ncarrier and shipper) (“encumbered product”). in the event carrier receives such shipper notice of encumbered product or otherwise learns\nthat shipper has or will nominate or tender"
+    },
+    {
+        "chunk_id": 171,
+        "text": " encumbered product, carrier may require shipper to provide a satisfactory indemnity bond, pre-\npayment of transportation charges, or a subordination agreement from the applicable lienholder, all to be determined in carrier’s sole\ndiscretion. shipper agrees to hold carrier harmless for any and all loss, cost, liability, damage and/or expense resulting from failure of title\nthereto; provided that acceptance for transportation shall not be deemed a representation by carrier as to title.\n\n14.\nrates"
+    },
+    {
+        "chunk_id": 172,
+        "text": " applicable:\nproduct accepted for transportation shall be subject to the rates in effect on the date of receipt by carrier, irrespective of the date of the\nnomination.\n\n15.\nrates applicable from intermediate points:\nfor shipments accepted for transportation from any point not named in this tariff making reference hereto which is intermediate to a point\nfrom which rates are published in said tariffs, through such unnamed point, the rate published therein from the next more distant receipt\npoint s"
+    },
+    {
+        "chunk_id": 173,
+        "text": "pecified in the tariff will apply from such unnamed point. for shipments accepted for transportation to any point not named in tariffs\nmaking reference hereto which is intermediate to a point to which rates are published in said tariffs, through such unnamed point, the rate\npublished therein to the next more distant delivery point specified in the tariff will apply. continuous use of intermediate point rate\napplication for more than thirty (30) days requires establishment of a rate for the trans"
+    },
+    {
+        "chunk_id": 174,
+        "text": "portation service.\n\n16.\npayment of transportation charges:\nsubject to any provisions to the contrary in a tsa between carrier and shipper:\n\na.\nshipper or consignee shall pay, as provided below, all applicable transportation and other charges (including any deficiency payments\nset out in a tsa) accruing on products handled by carrier.\n\nb.\nall payments are due on the later of: (1) within fifteen (15) days of receipt of the invoice; (2) the twenty-seventh (27th) of the month\nfollowing receipt of th"
+    },
+    {
+        "chunk_id": 175,
+        "text": "e invoice, or; (3) if the twenty-seventh (27th) of the month following receipt of the invoice is not a business day,\non the next business day thereafter.\n\nc.\nunless provided otherwise in a tsa between carrier and shipper, if any charge remains unpaid after the due date, then such amount\ndue may bear interest from the day after the due date until paid, calculated at an annual rate equivalent to the greater of (1) one percent\n(1) or (2) the maximum rate allowed by law. in addition, shipper shall p"
+    },
+    {
+        "chunk_id": 176,
+        "text": "ay all documented costs incurred by carrier to collect any\nunpaid amounts, including reasonable attorney fees and costs incurred by carrier.\n\nd.\nin the event shipper fails to pay any such charges when due, carrier shall not be obligated to provide shipper access to the system or\nprovide services pursuant to this tariff until such time as payment is received by carrier and shipper meets the requirements of the\nfollowing paragraph. in addition, in the event shipper fails to pay any such charges wh"
+    },
+    {
+        "chunk_id": 177,
+        "text": "en due, carrier shall have the right to set off\nsuch amounts owed and future amounts owed against any amounts carrier owes shipper.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\ne.\nall prospective shippers shall, twenty-five (25) days prior to making their first nomination, provide information to carrier that will allow\ncarrier to determine the prospective shipper’s capacity to perform any financial obligations that could arise from the transp"
+    },
+    {
+        "chunk_id": 178,
+        "text": "ortation of\nthat prospective shipper’s product under the terms of this tariff, including the payment of transportation charges, equalization\nobligations, the value of any loss allowance, and any negative balance positions. at any time, upon the request of carrier, shipper shall,\nwithin ten (10) days of such request, provide information to carrier that will allow carrier to determine shipper’s capacity to perform any\nfinancial obligations that could arise from the transportation of that shipper’s"
+    },
+    {
+        "chunk_id": 179,
+        "text": " product under the terms of this tariff, including the\npayment of transportation charges, equalization obligations, the value of any loss allowance, and any negative shipper balance\npositions. carrier shall not be obligated to accept product for transportation from any shipper or prospective shipper if such shipper or\nprospective shipper fails to provide the requested information to carrier within the time periods set forth herein, or if carrier’s review of\nthe requested information reveals that"
+    },
+    {
+        "chunk_id": 180,
+        "text": " such shipper or prospective shipper does not have the capacity to perform any financial\nobligations that could arise from the transportation of its product under the terms of this tariff, including the payment of transportation\ncharges, equalization obligations, the reasonably determined value of any loss allowance, and any negative balance positions.\n\nf.\nsubject to the provisions of item no. 16(g), carrier upon notice to shipper or prospective shipper, may require one or more of the\nfollowing "
+    },
+    {
+        "chunk_id": 181,
+        "text": "financial assurances for the payment of all charges and costs as provided for in this tariff, or otherwise lawfully due to carrier\nto be provided at the expense of such shipper or prospective shipper:\n\ni.\npayment security by wire transfer in an amount equal to two and a half months of transportation charges based on shipper’s or\nprospective shipper’s likely actual shipments for the production month for each applicable line segment. for purposes of this\nrule, a prospective shipper’s likely actual"
+    },
+    {
+        "chunk_id": 182,
+        "text": " shipments will be based on the anticipated shipments listed in such prospective\nshipper’s shipper application; or\n\nii.\na letter of credit in favor of carrier in an amount sufficient to ensure payment of all costs and charges that could reasonably\naccrue due to carrier in a form and from an institution acceptable to carrier; or\n\niii.\na guaranty from a guarantor acceptable to carrier.\n\ng.\nin the event that carrier reasonably determines that: (i) any shipper’s financial condition is or has become "
+    },
+    {
+        "chunk_id": 183,
+        "text": "impaired or unsatisfactory;\n(ii) any financial assurances previously provided by shipper no longer provide adequate security for the performance of such shipper’s\nobligations that could arise from the transportation of its product under the terms of this tariff; or (iii) carrier otherwise determines that\nit is necessary to obtain financial assurances from any shipper or prospective shipper, then such shipper or prospective shipper shall\nprovide financial assurances for the payment of the charges"
+    },
+    {
+        "chunk_id": 184,
+        "text": " and costs as provided for in this tariff or otherwise lawfully due to carrier\nrelating to the transportation of such shipper’s or prospective shipper’s product by carrier. for the purpose of this tariff, and without\nlimiting the generality of the charges and costs lawfully due to carrier relating to the transportation of shipper’s product, those charges\nand costs shall include transportation charges, equalization obligations, any negative shipper balance positions, and any loss\nallowance.\n\nsour"
+    },
+    {
+        "chunk_id": 185,
+        "text": "ce: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\nh.\nany financial assurances received by carrier in accordance with item no. 16(f)(i) shall be retained by carrier in a non-interest-bearing\nescrow account until such time as carrier determines that the shipper or prospective shipper that provided such financial assurance is\ncapable of performing its financial obligations to carrier. within ten (10) business days of such a determination by carrier, the f"
+    },
+    {
+        "chunk_id": 186,
+        "text": "inancial\nassurance provided in accordance with item no. 16(f)(i) shall be returned to such shipper or prospective shipper.\n\ni.\ncarrier shall have a self-executing lien on all products delivered to carrier to secure the payment of any and all charges that are owed to\ncarrier. such lien shall survive delivery of products to shipper. such lien shall extend to all products in carrier’s possession beginning\nwith shipper’s first receipt of transportation or other services from carrier. the lien provid"
+    },
+    {
+        "chunk_id": 187,
+        "text": "ed herein shall be in addition to any lien or\nsecurity interest provided by this tariff, statute or applicable law. carrier may withhold delivery to shipper of any of shipper’s products\nin its possession and exercise any other rights and remedies granted under the applicable tariffs or existing under applicable law until all\nsuch charges have been paid as provided above.\n\nj.\nif shipper fails to pay an invoice by the due date, carrier will notify shipper of the failure, and if shipper has not rem"
+    },
+    {
+        "chunk_id": 188,
+        "text": "edied the failure\nwithin thirty (30) days following receipt of notice from carrier, in addition to any other remedies under this tariff or under applicable law,\ncarrier shall have the right, either directly or through an agent, to sell any products of such shipper in carrier’s custody at public\nauction, on any day not a legal holiday, not less than forty-eight (48) hours after publication of notice of such sale in a daily newspaper\nof general circulation published in the town, city, or general a"
+    },
+    {
+        "chunk_id": 189,
+        "text": "rea where the sale is to be held, stating the time and place of sale and the\nquantity and location of the products to be sold. at said sale, carrier shall have the right to bid, and, if it is the highest bidder, to\nbecome the purchaser. the proceeds of any sale shall be applied in the following order: (1) to the reasonable expenses of holding,\npreparing for sale, selling, and to the extent allowed by law, reasonable attorney’s fees and legal expenses incurred by carrier; and (2) to\nthe satisfact"
+    },
+    {
+        "chunk_id": 190,
+        "text": "ion of shipper’s indebtedness including interest herein provided from the date payment is due. the balance of the proceeds\nof the sale remaining, if any, shall be paid to shipper or, if there is a dispute or claim as to entitlement, held for whoever may be lawfully\nentitled thereto. carrier will have a claim for and against shipper with respect to any deficiency arising from the debt due to carrier from\nshipper and the proceeds of any sale after reduction as set forth above.\n\n17.\nliability of ca"
+    },
+    {
+        "chunk_id": 191,
+        "text": "rrier:\ncarrier shall not be liable for, and shipper hereby waives any claims against carrier for, any loss or damage to products prior to the delivery of\nproducts at the receipt point(s) and after delivery of products at the delivery point(s).\n\n18.\nclaims, suits, and time for filing:\nas a condition precedent to recovery by shipper for loss, damage, or delay in receipt or delivery of shipper’s products for which carrier may\nbe responsible, shipper’s claim must be filed in writing with carrier wit"
+    },
+    {
+        "chunk_id": 192,
+        "text": "hin nine (9) months after delivery of the affected products, or, in case of\ncarrier’s failure to make delivery of shipper’s products, then within nine (9) months after a reasonable time for delivery has elapsed; and suits\nshall be instituted against carrier only within two (2) years and one (1) day from the day when notice in writing is given by carrier to shipper\nthat carrier has disallowed the claim or any part or parts thereof specified in the notice. where claims are not filed or suits are n"
+    },
+    {
+        "chunk_id": 193,
+        "text": "ot instituted\nby shipper on such claims in accordance with the foregoing provisions, such claims will not be paid and carrier will not be liable.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nferc ica oil tariff\nf.e.r.c. no. 1.0.0\n\n19.\nconnection policy:\nif carrier determines that it will offer connection service, this item no. 19 shall apply. in that event, (1) carrier will only consider connections\nto the system that are made by formal written application to carrier, in accordance"
+    },
+    {
+        "chunk_id": 194,
+        "text": " with carrier’s connection policy; (2) all connections will be\nsubject to design requirements necessary to protect the safety, security, integrity and efficient operation of the system in accordance with\ngenerally accepted industry standards; and (3) acceptance of any request for connection will be within the sole discretion of carrier and will\nbe subject to compliance with governmental regulations.\n\n20.\ncommon stream – connecting carriers:\n\na.\nwhen receipts from and/or deliveries to a connectin"
+    },
+    {
+        "chunk_id": 195,
+        "text": "g carrier of substantially the same grade of product are scheduled at the same\ninterconnection or at interconnections along the same pipeline system, carrier reserves the right, with cooperation of the connecting\ncarrier, to offset like volumes of such common stream product in order to avoid capacity constraints or the unnecessary use of energy\nwhich would be required to physically pump the offsetting volumes. when this right is exercised, carrier will make the further deliveries\nfor shipper inv"
+    },
+    {
+        "chunk_id": 196,
+        "text": "olved from its common stream product.\n\nb.\nsediment, water and quality limitations of a connecting carrier may be imposed upon carrier. when such limitations of the connecting\ncarrier vary from that of carrier, the limitations of the connecting carrier will be enforced.\n\n21.\ndedicated rates\na shipper who has executed a tsa that has dedicated product shall be referred to herein as a “dedicated shipper.” as provided in its tsa, a\ndedicated shipper shall be entitled to the applicable dedicated rate "
+    },
+    {
+        "chunk_id": 197,
+        "text": "set out in section i of this tariff. a shipper that is not an incentive\nshipper or dedicated shipper shall pay the applicable uncommitted rate set out in section i of this tariff.\n\n22.\nincentive rates\na shipper who has executed a tsa that has a committed volume shall be referred to herein as an “incentive shipper.” as provided in its tsa,\nan incentive shipper shall be entitled to the applicable incentive rate set out in section i of this tariff. a shipper that is not an incentive\nshipper or dedi"
+    },
+    {
+        "chunk_id": 198,
+        "text": "cated shipper shall pay the applicable uncommitted rate set out in section i of this tariff.\n\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nexhibit b\ncommencement date facilities\npipeline facilities\n\n•\n  27 miles of 10” pipeline between the lincoln parish plant and the delivery point\ndelivery point\n\n•\n  dcp black lake pipeline\nreceipt point\n\n•\n  lincoln parish plant (owned by carrier or its affiliate)\n\n•\n  mount olive plant (owned by carrier or its affiliate)\nmiscellaneous appurtenan"
+    },
+    {
+        "chunk_id": 199,
+        "text": "t facilities (launchers/receivers, etc.)\nsource: range resources - louisiana, inc., 8-k, 4/17/2015\nschedule a\nreceipt points, delivery point, and rates\n\nreceipt points\n\ndelivery point\n\ndedicated\nrate\n\nlincoln parish plant\nmount olive plant\n\ndcp black lake ada, la\n\n1.68 \nsource: range resources - louisiana, inc., 8-k, 4/17/2015"
+    }
+]

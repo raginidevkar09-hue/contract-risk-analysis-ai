@@ -1,0 +1,1802 @@
+[
+    {
+        "text": "vertex energy, inc",
+        "label": "ORG",
+        "start": 0,
+        "end": 18
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 20,
+        "end": 23
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 32,
+        "end": 36
+    },
+    {
+        "text": "may 1, 2020",
+        "label": "DATE",
+        "start": 403,
+        "end": 414
+    },
+    {
+        "text": "this 10th day of january",
+        "label": "DATE",
+        "start": 468,
+        "end": 492
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 494,
+        "end": 498
+    },
+    {
+        "text": "107",
+        "label": "CARDINAL",
+        "start": 564,
+        "end": 567
+    },
+    {
+        "text": "francis street",
+        "label": "PERSON",
+        "start": 572,
+        "end": 586
+    },
+    {
+        "text": "al 36602",
+        "label": "PERSON",
+        "start": 596,
+        "end": 604
+    },
+    {
+        "text": "1331",
+        "label": "DATE",
+        "start": 689,
+        "end": 693
+    },
+    {
+        "text": "250",
+        "label": "CARDINAL",
+        "start": 707,
+        "end": 710
+    },
+    {
+        "text": "houston",
+        "label": "GPE",
+        "start": 712,
+        "end": 719
+    },
+    {
+        "text": "la",
+        "label": "GPE",
+        "start": 904,
+        "end": 906
+    },
+    {
+        "text": "100,000",
+        "label": "CARDINAL",
+        "start": 941,
+        "end": 948
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 962,
+        "end": 964
+    },
+    {
+        "text": "b. bunker",
+        "label": "PERSON",
+        "start": 1184,
+        "end": 1193
+    },
+    {
+        "text": "october 15, 2017",
+        "label": "DATE",
+        "start": 1614,
+        "end": 1630
+    },
+    {
+        "text": "louisiana",
+        "label": "GPE",
+        "start": 1763,
+        "end": 1772
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 1777,
+        "end": 1782
+    },
+    {
+        "text": "each month",
+        "label": "DATE",
+        "start": 1879,
+        "end": 1889
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 2088,
+        "end": 2090
+    },
+    {
+        "text": "louisiana",
+        "label": "GPE",
+        "start": 2316,
+        "end": 2325
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 2330,
+        "end": 2335
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2724,
+        "end": 2729
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 3044,
+        "end": 3062
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 3064,
+        "end": 3067
+    },
+    {
+        "text": "1/13/2020",
+        "label": "DATE",
+        "start": 3069,
+        "end": 3078
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3123,
+        "end": 3124
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 3152,
+        "end": 3157
+    },
+    {
+        "text": "louisiana",
+        "label": "GPE",
+        "start": 3159,
+        "end": 3168
+    },
+    {
+        "text": "alabama",
+        "label": "GPE",
+        "start": 3170,
+        "end": 3177
+    },
+    {
+        "text": "danish",
+        "label": "NORP",
+        "start": 3257,
+        "end": 3263
+    },
+    {
+        "text": "saturday, sunday",
+        "label": "DATE",
+        "start": 3365,
+        "end": 3381
+    },
+    {
+        "text": "a federal reserve bank",
+        "label": "ORG",
+        "start": 3386,
+        "end": 3408
+    },
+    {
+        "text": "a business day",
+        "label": "DATE",
+        "start": 3418,
+        "end": 3432
+    },
+    {
+        "text": "5:00p.m",
+        "label": "CARDINAL",
+        "start": 3469,
+        "end": 3476
+    },
+    {
+        "text": "houston",
+        "label": "GPE",
+        "start": 3478,
+        "end": 3485
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 3487,
+        "end": 3492
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 3558,
+        "end": 3561
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 3657,
+        "end": 3668
+    },
+    {
+        "text": "may 1st",
+        "label": "DATE",
+        "start": 3707,
+        "end": 3714
+    },
+    {
+        "text": "april 30th",
+        "label": "DATE",
+        "start": 3771,
+        "end": 3781
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 4041,
+        "end": 4045
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 4498,
+        "end": 4502
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 5030,
+        "end": 5031
+    },
+    {
+        "text": "the preceding month + 3.5",
+        "label": "DATE",
+        "start": 5065,
+        "end": 5090
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 5121,
+        "end": 5128
+    },
+    {
+        "text": "each month",
+        "label": "DATE",
+        "start": 5133,
+        "end": 5143
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 5243,
+        "end": 5244
+    },
+    {
+        "text": "january 10, 2020",
+        "label": "DATE",
+        "start": 5499,
+        "end": 5515
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 5699,
+        "end": 5717
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 5719,
+        "end": 5722
+    },
+    {
+        "text": "1/13/2020",
+        "label": "DATE",
+        "start": 5724,
+        "end": 5733
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 5977,
+        "end": 5982
+    },
+    {
+        "text": "section 2.6",
+        "label": "LAW",
+        "start": 6183,
+        "end": 6194
+    },
+    {
+        "text": "vertex energy, inc.",
+        "label": "ORG",
+        "start": 6750,
+        "end": 6769
+    },
+    {
+        "text": "november 25, 2019",
+        "label": "DATE",
+        "start": 6776,
+        "end": 6793
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 7059,
+        "end": 7066
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7181,
+        "end": 7186
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7508,
+        "end": 7513
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 7847,
+        "end": 7851
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 8277,
+        "end": 8295
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 8297,
+        "end": 8300
+    },
+    {
+        "text": "1/13/2020",
+        "label": "DATE",
+        "start": 8302,
+        "end": 8311
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 8905,
+        "end": 8909
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 8989,
+        "end": 8993
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 9076,
+        "end": 9080
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 9210,
+        "end": 9214
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 9293,
+        "end": 9294
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 9320,
+        "end": 9323
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 9459,
+        "end": 9462
+    },
+    {
+        "text": "la",
+        "label": "GPE",
+        "start": 9543,
+        "end": 9545
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 9602,
+        "end": 9606
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 9680,
+        "end": 9681
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 9743,
+        "end": 9747
+    },
+    {
+        "text": "la",
+        "label": "GPE",
+        "start": 9860,
+        "end": 9862
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 9883,
+        "end": 9887
+    },
+    {
+        "text": "every third month",
+        "label": "DATE",
+        "start": 9987,
+        "end": 10004
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 10053,
+        "end": 10056
+    },
+    {
+        "text": "less than 120 days",
+        "label": "DATE",
+        "start": 10147,
+        "end": 10165
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 10810,
+        "end": 10828
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 10830,
+        "end": 10833
+    },
+    {
+        "text": "1/13/2020",
+        "label": "DATE",
+        "start": 10835,
+        "end": 10844
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 11294,
+        "end": 11297
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 11773,
+        "end": 11776
+    },
+    {
+        "text": "appendix b.\n",
+        "label": "PERSON",
+        "start": 12266,
+        "end": 12278
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 12278,
+        "end": 12281
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 12635,
+        "end": 12638
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 13034,
+        "end": 13037
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 13973,
+        "end": 13974
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 13996,
+        "end": 13999
+    },
+    {
+        "text": "each fiscal year",
+        "label": "DATE",
+        "start": 14444,
+        "end": 14460
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 14497,
+        "end": 14515
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 14517,
+        "end": 14520
+    },
+    {
+        "text": "1/13/2020\nfiscal year",
+        "label": "DATE",
+        "start": 14522,
+        "end": 14543
+    },
+    {
+        "text": "the preceding month/quarter",
+        "label": "DATE",
+        "start": 15188,
+        "end": 15215
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 15515,
+        "end": 15518
+    },
+    {
+        "text": "mobile",
+        "label": "GPE",
+        "start": 15608,
+        "end": 15614
+    },
+    {
+        "text": "alabama",
+        "label": "GPE",
+        "start": 15616,
+        "end": 15623
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 16221,
+        "end": 16224
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 16233,
+        "end": 16236
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 16279,
+        "end": 16286
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 16291,
+        "end": 16300
+    },
+    {
+        "text": "normal working hours",
+        "label": "TIME",
+        "start": 17047,
+        "end": 17067
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 17079,
+        "end": 17084
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 17416,
+        "end": 17417
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 17448,
+        "end": 17451
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 17513,
+        "end": 17516
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 17555,
+        "end": 17560
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 17562,
+        "end": 17563
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 17678,
+        "end": 17681
+    },
+    {
+        "text": "seventh",
+        "label": "ORDINAL",
+        "start": 17700,
+        "end": 17707
+    },
+    {
+        "text": "7th",
+        "label": "ORDINAL",
+        "start": 17709,
+        "end": 17712
+    },
+    {
+        "text": "the end of each quarter",
+        "label": "DATE",
+        "start": 17733,
+        "end": 17756
+    },
+    {
+        "text": "the fiscal year may 1-",
+        "label": "DATE",
+        "start": 17764,
+        "end": 17786
+    },
+    {
+        "text": "april 30",
+        "label": "DATE",
+        "start": 17787,
+        "end": 17795
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 17804,
+        "end": 17807
+    },
+    {
+        "text": "the immediately preceding quarter",
+        "label": "DATE",
+        "start": 17875,
+        "end": 17908
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 17922,
+        "end": 17931
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 18177,
+        "end": 18186
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 18334,
+        "end": 18352
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 18354,
+        "end": 18357
+    },
+    {
+        "text": "1/13/2020",
+        "label": "DATE",
+        "start": 18359,
+        "end": 18368
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 18403,
+        "end": 18408
+    },
+    {
+        "text": "the first full fiscal quarter ending after the effective date",
+        "label": "DATE",
+        "start": 18430,
+        "end": 18491
+    },
+    {
+        "text": "the first day",
+        "label": "DATE",
+        "start": 18566,
+        "end": 18579
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 18590,
+        "end": 18602
+    },
+    {
+        "text": "the first day",
+        "label": "DATE",
+        "start": 18692,
+        "end": 18705
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 18736,
+        "end": 18741
+    },
+    {
+        "text": "three-month",
+        "label": "DATE",
+        "start": 18904,
+        "end": 18915
+    },
+    {
+        "text": "september 30, 2019",
+        "label": "DATE",
+        "start": 18933,
+        "end": 18951
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 18961,
+        "end": 18966
+    },
+    {
+        "text": "three- month period ending january 31, 2020",
+        "label": "DATE",
+        "start": 19035,
+        "end": 19078
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 19090,
+        "end": 19095
+    },
+    {
+        "text": "the month of october, 2019",
+        "label": "DATE",
+        "start": 19132,
+        "end": 19158
+    },
+    {
+        "text": "the months of november, december and",
+        "label": "DATE",
+        "start": 19174,
+        "end": 19210
+    },
+    {
+        "text": "january",
+        "label": "DATE",
+        "start": 19211,
+        "end": 19218
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 19220,
+        "end": 19223
+    },
+    {
+        "text": "15th",
+        "label": "ORDINAL",
+        "start": 19283,
+        "end": 19287
+    },
+    {
+        "text": "business day",
+        "label": "DATE",
+        "start": 19289,
+        "end": 19301
+    },
+    {
+        "text": "a calendar year to a fiscal year",
+        "label": "DATE",
+        "start": 19662,
+        "end": 19694
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 19723,
+        "end": 19732
+    },
+    {
+        "text": "section 4.2",
+        "label": "LAW",
+        "start": 19762,
+        "end": 19773
+    },
+    {
+        "text": "the months of january, february, march",
+        "label": "DATE",
+        "start": 19780,
+        "end": 19818
+    },
+    {
+        "text": "april, 2019",
+        "label": "DATE",
+        "start": 19823,
+        "end": 19834
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 19860,
+        "end": 19866
+    },
+    {
+        "text": "the\nfiscal year ending april 30, 2020",
+        "label": "DATE",
+        "start": 19884,
+        "end": 19921
+    },
+    {
+        "text": "4/30/20",
+        "label": "CARDINAL",
+        "start": 20005,
+        "end": 20012
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 20151,
+        "end": 20157
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 20484,
+        "end": 20491
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 20495,
+        "end": 20504
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 20647,
+        "end": 20650
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 20680,
+        "end": 20688
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 20867,
+        "end": 20870
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 20993,
+        "end": 21007
+    },
+    {
+        "text": "greater than zero",
+        "label": "CARDINAL",
+        "start": 21151,
+        "end": 21168
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 21181,
+        "end": 21184
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 21237,
+        "end": 21240
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 21320,
+        "end": 21325
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 21327,
+        "end": 21328
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 21816,
+        "end": 21821
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 21823,
+        "end": 21824
+    },
+    {
+        "text": "the same day",
+        "label": "DATE",
+        "start": 22047,
+        "end": 22059
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 22331,
+        "end": 22349
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 22351,
+        "end": 22354
+    },
+    {
+        "text": "1/13/2020",
+        "label": "CARDINAL",
+        "start": 22356,
+        "end": 22365
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 22366,
+        "end": 22367
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 22374,
+        "end": 22377
+    },
+    {
+        "text": "may 1, 2020",
+        "label": "DATE",
+        "start": 22419,
+        "end": 22430
+    },
+    {
+        "text": "april 30, 2029",
+        "label": "DATE",
+        "start": 22469,
+        "end": 22483
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 22543,
+        "end": 22547
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 22612,
+        "end": 22615
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 22617,
+        "end": 22620
+    },
+    {
+        "text": "no less than",
+        "label": "CARDINAL",
+        "start": 22770,
+        "end": 22782
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 22851,
+        "end": 22854
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 22974,
+        "end": 22987
+    },
+    {
+        "text": "10) day",
+        "label": "DATE",
+        "start": 23179,
+        "end": 23186
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 23531,
+        "end": 23537
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 23539,
+        "end": 23547
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 23711,
+        "end": 23714
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 23770,
+        "end": 23773
+    },
+    {
+        "text": "120 days",
+        "label": "DATE",
+        "start": 23904,
+        "end": 23912
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 23914,
+        "end": 23917
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 23973,
+        "end": 23976
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 24180,
+        "end": 24183
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 24419,
+        "end": 24422
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 25215,
+        "end": 25218
+    },
+    {
+        "text": "bunker one, inc.",
+        "label": "ORG",
+        "start": 25691,
+        "end": 25707
+    },
+    {
+        "text": "vertex energy, inc.",
+        "label": "ORG",
+        "start": 25713,
+        "end": 25732
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 25787,
+        "end": 25805
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 25807,
+        "end": 25810
+    },
+    {
+        "text": "1/13/2020",
+        "label": "CARDINAL",
+        "start": 25812,
+        "end": 25821
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 25822,
+        "end": 25823
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 25842,
+        "end": 25845
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 26133,
+        "end": 26138
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 26140,
+        "end": 26141
+    },
+    {
+        "text": "6.1.2",
+        "label": "CARDINAL",
+        "start": 26217,
+        "end": 26222
+    },
+    {
+        "text": "6.1.3",
+        "label": "CARDINAL",
+        "start": 26395,
+        "end": 26400
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 27012,
+        "end": 27018
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 27657,
+        "end": 27658
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 27666,
+        "end": 27669
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 27873,
+        "end": 27876
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 27990,
+        "end": 27993
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 28152,
+        "end": 28153
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 28171,
+        "end": 28174
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 29337,
+        "end": 29355
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 29357,
+        "end": 29360
+    },
+    {
+        "text": "1/13/2020",
+        "label": "DATE",
+        "start": 29362,
+        "end": 29371
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 29537,
+        "end": 29542
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 29695,
+        "end": 29698
+    },
+    {
+        "text": "2 years",
+        "label": "DATE",
+        "start": 30064,
+        "end": 30071
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 30325,
+        "end": 30326
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 30344,
+        "end": 30347
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 30410,
+        "end": 30411
+    },
+    {
+        "text": "two) years",
+        "label": "DATE",
+        "start": 30413,
+        "end": 30423
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 31139,
+        "end": 31141
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 31165,
+        "end": 31169
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 31494,
+        "end": 31496
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 31510,
+        "end": 31514
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 31810,
+        "end": 31815
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 31868,
+        "end": 31870
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 31889,
+        "end": 31893
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 32462,
+        "end": 32480
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 32482,
+        "end": 32485
+    },
+    {
+        "text": "1/13/2020",
+        "label": "CARDINAL",
+        "start": 32487,
+        "end": 32496
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 32497,
+        "end": 32501
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 32510,
+        "end": 32513
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 33068,
+        "end": 33072
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 33126,
+        "end": 33128
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 33152,
+        "end": 33156
+    },
+    {
+        "text": "alabama",
+        "label": "GPE",
+        "start": 33262,
+        "end": 33269
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 33621,
+        "end": 33638
+    },
+    {
+        "text": "alabama",
+        "label": "GPE",
+        "start": 33916,
+        "end": 33923
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 34092,
+        "end": 34096
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 34140,
+        "end": 34157
+    },
+    {
+        "text": "alabama",
+        "label": "GPE",
+        "start": 34202,
+        "end": 34209
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 34307,
+        "end": 34324
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 34621,
+        "end": 34625
+    },
+    {
+        "text": "13.3.1",
+        "label": "CARDINAL",
+        "start": 34640,
+        "end": 34646
+    },
+    {
+        "text": "13.3.2",
+        "label": "CARDINAL",
+        "start": 35340,
+        "end": 35346
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 35367,
+        "end": 35371
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 35707,
+        "end": 35720
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 35731,
+        "end": 35736
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 35828,
+        "end": 35841
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 35985,
+        "end": 36003
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 36005,
+        "end": 36008
+    },
+    {
+        "text": "1/13/2020",
+        "label": "CARDINAL",
+        "start": 36010,
+        "end": 36019
+    },
+    {
+        "text": "13.3.3",
+        "label": "CARDINAL",
+        "start": 36020,
+        "end": 36026
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 36193,
+        "end": 36197
+    },
+    {
+        "text": "section 13.1",
+        "label": "LAW",
+        "start": 36557,
+        "end": 36569
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 36882,
+        "end": 36887
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 38185,
+        "end": 38189
+    },
+    {
+        "text": "section 13.3(a",
+        "label": "DATE",
+        "start": 38380,
+        "end": 38394
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 39320,
+        "end": 39324
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 39406,
+        "end": 39410
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 39536,
+        "end": 39554
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 39556,
+        "end": 39559
+    },
+    {
+        "text": "1/13/2020",
+        "label": "DATE",
+        "start": 39561,
+        "end": 39570
+    },
+    {
+        "text": "alabama",
+        "label": "GPE",
+        "start": 39643,
+        "end": 39650
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 39746,
+        "end": 39753
+    },
+    {
+        "text": "13.5",
+        "label": "CARDINAL",
+        "start": 39799,
+        "end": 39803
+    },
+    {
+        "text": "the united nations convention",
+        "label": "ORG",
+        "start": 39804,
+        "end": 39833
+    },
+    {
+        "text": "1980",
+        "label": "DATE",
+        "start": 39893,
+        "end": 39897
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 39928,
+        "end": 39930
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 39940,
+        "end": 39944
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 40630,
+        "end": 40632
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 40662,
+        "end": 40666
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 40897,
+        "end": 40899
+    },
+    {
+        "text": "16.1",
+        "label": "CARDINAL",
+        "start": 40910,
+        "end": 40914
+    },
+    {
+        "text": "addressee",
+        "label": "NORP",
+        "start": 41087,
+        "end": 41096
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 41098,
+        "end": 41100
+    },
+    {
+        "text": "17.1",
+        "label": "CARDINAL",
+        "start": 41110,
+        "end": 41114
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 41384,
+        "end": 41386
+    },
+    {
+        "text": "18.1",
+        "label": "CARDINAL",
+        "start": 41413,
+        "end": 41417
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 41697,
+        "end": 41714
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 41746,
+        "end": 41748
+    },
+    {
+        "text": "§",
+        "label": "NORP",
+        "start": 41758,
+        "end": 41759
+    },
+    {
+        "text": "§",
+        "label": "NORP",
+        "start": 41759,
+        "end": 41760
+    },
+    {
+        "text": "2004",
+        "label": "DATE",
+        "start": 41791,
+        "end": 41795
+    },
+    {
+        "text": "paris",
+        "label": "GPE",
+        "start": 42187,
+        "end": 42192
+    },
+    {
+        "text": "december 19, 1997",
+        "label": "DATE",
+        "start": 42196,
+        "end": 42213
+    },
+    {
+        "text": "february 15, 1999",
+        "label": "DATE",
+        "start": 42243,
+        "end": 42260
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 42302,
+        "end": 42320
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 42322,
+        "end": 42325
+    },
+    {
+        "text": "1/13/2020",
+        "label": "DATE",
+        "start": 42327,
+        "end": 42336
+    },
+    {
+        "text": "the uk bribery act 2010",
+        "label": "ORG",
+        "start": 42340,
+        "end": 42363
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 42665,
+        "end": 42667
+    },
+    {
+        "text": "18.2",
+        "label": "CARDINAL",
+        "start": 42858,
+        "end": 42862
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 43049,
+        "end": 43051
+    },
+    {
+        "text": "carlos g. torres",
+        "label": "PERSON",
+        "start": 43371,
+        "end": 43387
+    },
+    {
+        "text": "peter zachariassen",
+        "label": "PERSON",
+        "start": 43412,
+        "end": 43430
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 43755,
+        "end": 43758
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 43782,
+        "end": 43789
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 44520,
+        "end": 44538
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 44540,
+        "end": 44543
+    },
+    {
+        "text": "1/13/2020",
+        "label": "CARDINAL",
+        "start": 44545,
+        "end": 44554
+    },
+    {
+        "text": "ben",
+        "label": "PERSON",
+        "start": 44879,
+        "end": 44882
+    },
+    {
+        "text": "vertex energy inc.",
+        "label": "ORG",
+        "start": 44898,
+        "end": 44916
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 44918,
+        "end": 44921
+    },
+    {
+        "text": "1/13/2020",
+        "label": "DATE",
+        "start": 44923,
+        "end": 44932
+    }
+]

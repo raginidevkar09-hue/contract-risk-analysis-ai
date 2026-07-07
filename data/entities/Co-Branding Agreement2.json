@@ -1,0 +1,2924 @@
+[
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "september 30, 1999",
+        "label": "DATE",
+        "start": 88,
+        "end": 106
+    },
+    {
+        "text": "verticalnet, inc.",
+        "label": "ORG",
+        "start": 154,
+        "end": 171
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 175,
+        "end": 187
+    },
+    {
+        "text": "700",
+        "label": "CARDINAL",
+        "start": 240,
+        "end": 243
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 264,
+        "end": 267
+    },
+    {
+        "text": "horsham",
+        "label": "PERSON",
+        "start": 269,
+        "end": 276
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 278,
+        "end": 290
+    },
+    {
+        "text": "19044",
+        "label": "DATE",
+        "start": 295,
+        "end": 300
+    },
+    {
+        "text": "545",
+        "label": "CARDINAL",
+        "start": 423,
+        "end": 426
+    },
+    {
+        "text": "8th",
+        "label": "ORDINAL",
+        "start": 444,
+        "end": 447
+    },
+    {
+        "text": "boston",
+        "label": "GPE",
+        "start": 455,
+        "end": 461
+    },
+    {
+        "text": "ma 02116",
+        "label": "PERSON",
+        "start": 463,
+        "end": 471
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 612,
+        "end": 613
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 628,
+        "end": 631
+    },
+    {
+        "text": "at least 50",
+        "label": "CARDINAL",
+        "start": 893,
+        "end": 904
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 1015,
+        "end": 1018
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 1132,
+        "end": 1135
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 1347,
+        "end": 1350
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 1546,
+        "end": 1549
+    },
+    {
+        "text": "1.6",
+        "label": "CARDINAL",
+        "start": 1648,
+        "end": 1651
+    },
+    {
+        "text": "1.7",
+        "label": "CARDINAL",
+        "start": 1833,
+        "end": 1836
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2999,
+        "end": 3004
+    },
+    {
+        "text": "1.8",
+        "label": "CARDINAL",
+        "start": 3083,
+        "end": 3086
+    },
+    {
+        "text": "1.9",
+        "label": "CARDINAL",
+        "start": 3210,
+        "end": 3213
+    },
+    {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 3287,
+        "end": 3293
+    },
+    {
+        "text": "section 8",
+        "label": "LAW",
+        "start": 3367,
+        "end": 3376
+    },
+    {
+        "text": "1.10",
+        "label": "CARDINAL",
+        "start": 3379,
+        "end": 3383
+    },
+    {
+        "text": "1.11",
+        "label": "CARDINAL",
+        "start": 3711,
+        "end": 3715
+    },
+    {
+        "text": "1.12",
+        "label": "CARDINAL",
+        "start": 3802,
+        "end": 3806
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 3908,
+        "end": 3911
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 4008,
+        "end": 4011
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 4022,
+        "end": 4028
+    },
+    {
+        "text": "1.13",
+        "label": "CARDINAL",
+        "start": 4163,
+        "end": 4167
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 4280,
+        "end": 4285
+    },
+    {
+        "text": "1.14",
+        "label": "CARDINAL",
+        "start": 4551,
+        "end": 4555
+    },
+    {
+        "text": "1.15",
+        "label": "CARDINAL",
+        "start": 4661,
+        "end": 4665
+    },
+    {
+        "text": "1.16",
+        "label": "CARDINAL",
+        "start": 4799,
+        "end": 4803
+    },
+    {
+        "text": "1.17",
+        "label": "CARDINAL",
+        "start": 4958,
+        "end": 4962
+    },
+    {
+        "text": "1.18",
+        "label": "CARDINAL",
+        "start": 5099,
+        "end": 5103
+    },
+    {
+        "text": "1.19",
+        "label": "CARDINAL",
+        "start": 5227,
+        "end": 5231
+    },
+    {
+        "text": "1.20",
+        "label": "CARDINAL",
+        "start": 5318,
+        "end": 5322
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 5472,
+        "end": 5493
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 5502,
+        "end": 5511
+    },
+    {
+        "text": "1.21",
+        "label": "DATE",
+        "start": 5513,
+        "end": 5517
+    },
+    {
+        "text": "1.22",
+        "label": "CARDINAL",
+        "start": 5637,
+        "end": 5641
+    },
+    {
+        "text": "1.23",
+        "label": "CARDINAL",
+        "start": 5936,
+        "end": 5940
+    },
+    {
+        "text": "1.24",
+        "label": "CARDINAL",
+        "start": 6046,
+        "end": 6050
+    },
+    {
+        "text": "1.25",
+        "label": "CARDINAL",
+        "start": 6164,
+        "end": 6168
+    },
+    {
+        "text": "1.26",
+        "label": "CARDINAL",
+        "start": 6355,
+        "end": 6359
+    },
+    {
+        "text": "1.27",
+        "label": "CARDINAL",
+        "start": 6451,
+        "end": 6455
+    },
+    {
+        "text": "1.28",
+        "label": "CARDINAL",
+        "start": 6507,
+        "end": 6511
+    },
+    {
+        "text": "1.29",
+        "label": "CARDINAL",
+        "start": 6903,
+        "end": 6907
+    },
+    {
+        "text": "1.30",
+        "label": "CARDINAL",
+        "start": 6966,
+        "end": 6970
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 6972,
+        "end": 6977
+    },
+    {
+        "text": "1.31",
+        "label": "DATE",
+        "start": 7107,
+        "end": 7111
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7181,
+        "end": 7186
+    },
+    {
+        "text": "1.32",
+        "label": "CARDINAL",
+        "start": 7308,
+        "end": 7312
+    },
+    {
+        "text": "1.33",
+        "label": "CARDINAL",
+        "start": 7422,
+        "end": 7426
+    },
+    {
+        "text": "section 3.1",
+        "label": "LAW",
+        "start": 7491,
+        "end": 7502
+    },
+    {
+        "text": "1.34",
+        "label": "CARDINAL",
+        "start": 7527,
+        "end": 7531
+    },
+    {
+        "text": "1.35",
+        "label": "CARDINAL",
+        "start": 7651,
+        "end": 7655
+    },
+    {
+        "text": "1.36",
+        "label": "CARDINAL",
+        "start": 7798,
+        "end": 7802
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 7917,
+        "end": 7918
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 7980,
+        "end": 7983
+    },
+    {
+        "text": "no later than seven days",
+        "label": "DATE",
+        "start": 7985,
+        "end": 8009
+    },
+    {
+        "text": "at least five\ndays",
+        "label": "CARDINAL",
+        "start": 8342,
+        "end": 8360
+    },
+    {
+        "text": "five days",
+        "label": "DATE",
+        "start": 8608,
+        "end": 8617
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 8781,
+        "end": 8788
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 8992,
+        "end": 8995
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9137,
+        "end": 9142
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9923,
+        "end": 9928
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10575,
+        "end": 10580
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 10910,
+        "end": 10913
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11254,
+        "end": 11259
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 11382,
+        "end": 11385
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 11695,
+        "end": 11698
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 11994,
+        "end": 11997
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 12233,
+        "end": 12254
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 12263,
+        "end": 12272
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 12351,
+        "end": 12354
+    },
+    {
+        "text": "1.16",
+        "label": "CARDINAL",
+        "start": 12906,
+        "end": 12910
+    },
+    {
+        "text": "1.25",
+        "label": "CARDINAL",
+        "start": 12915,
+        "end": 12919
+    },
+    {
+        "text": "2.8",
+        "label": "CARDINAL",
+        "start": 13136,
+        "end": 13139
+    },
+    {
+        "text": "2.9",
+        "label": "CARDINAL",
+        "start": 13352,
+        "end": 13355
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 13606,
+        "end": 13607
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 13630,
+        "end": 13633
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 14234,
+        "end": 14237
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 14377,
+        "end": 14380
+    },
+    {
+        "text": "up to three weeks",
+        "label": "DATE",
+        "start": 14797,
+        "end": 14814
+    },
+    {
+        "text": "three week",
+        "label": "DATE",
+        "start": 14875,
+        "end": 14885
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 15045,
+        "end": 15048
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 15236,
+        "end": 15239
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 15469,
+        "end": 15472
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 15577,
+        "end": 15582
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 15663,
+        "end": 15669
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 15849,
+        "end": 15852
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 16211,
+        "end": 16214
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 16391,
+        "end": 16392
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 16407,
+        "end": 16410
+    },
+    {
+        "text": "4.1.1",
+        "label": "DATE",
+        "start": 16455,
+        "end": 16460
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 16556,
+        "end": 16561
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 16627,
+        "end": 16630
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 16960,
+        "end": 16965
+    },
+    {
+        "text": "the\nthird party",
+        "label": "ORG",
+        "start": 17099,
+        "end": 17114
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 17186,
+        "end": 17191
+    },
+    {
+        "text": "45 days",
+        "label": "DATE",
+        "start": 17236,
+        "end": 17243
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 17346,
+        "end": 17351
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 17385,
+        "end": 17390
+    },
+    {
+        "text": "4.1.3",
+        "label": "CARDINAL",
+        "start": 17976,
+        "end": 17981
+    },
+    {
+        "text": "three business days",
+        "label": "DATE",
+        "start": 18274,
+        "end": 18293
+    },
+    {
+        "text": "three-day",
+        "label": "DATE",
+        "start": 18470,
+        "end": 18479
+    },
+    {
+        "text": "cpc",
+        "label": "ORG",
+        "start": 19084,
+        "end": 19087
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 19431,
+        "end": 19452
+    },
+    {
+        "text": "3/22/2000\n 4.2",
+        "label": "QUANTITY",
+        "start": 19461,
+        "end": 19475
+    },
+    {
+        "text": "section 4",
+        "label": "LAW",
+        "start": 20107,
+        "end": 20116
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 20119,
+        "end": 20122
+    },
+    {
+        "text": "4.3.2",
+        "label": "CARDINAL",
+        "start": 20365,
+        "end": 20370
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 20507,
+        "end": 20508
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 20535,
+        "end": 20538
+    },
+    {
+        "text": "5.1.2",
+        "label": "DATE",
+        "start": 21275,
+        "end": 21280
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 21721,
+        "end": 21724
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 22072,
+        "end": 22075
+    },
+    {
+        "text": "5.3.3",
+        "label": "CARDINAL",
+        "start": 22340,
+        "end": 22345
+    },
+    {
+        "text": "five business days",
+        "label": "DATE",
+        "start": 22950,
+        "end": 22968
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 23068,
+        "end": 23072
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 23164,
+        "end": 23167
+    },
+    {
+        "text": "more than 15 days",
+        "label": "DATE",
+        "start": 23357,
+        "end": 23374
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 23480,
+        "end": 23483
+    },
+    {
+        "text": "more than 15 days",
+        "label": "DATE",
+        "start": 23674,
+        "end": 23691
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 23798,
+        "end": 23801
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 23933,
+        "end": 23939
+    },
+    {
+        "text": "5.7",
+        "label": "CARDINAL",
+        "start": 24002,
+        "end": 24005
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 24180,
+        "end": 24183
+    },
+    {
+        "text": "5.8.1",
+        "label": "CARDINAL",
+        "start": 24204,
+        "end": 24209
+    },
+    {
+        "text": "four years",
+        "label": "DATE",
+        "start": 24247,
+        "end": 24257
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 24447,
+        "end": 24452
+    },
+    {
+        "text": "greater than",
+        "label": "CARDINAL",
+        "start": 24834,
+        "end": 24846
+    },
+    {
+        "text": "one ton",
+        "label": "QUANTITY",
+        "start": 24847,
+        "end": 24854
+    },
+    {
+        "text": "more than 50 pounds",
+        "label": "MONEY",
+        "start": 25150,
+        "end": 25169
+    },
+    {
+        "text": "5.8.2",
+        "label": "CARDINAL",
+        "start": 25418,
+        "end": 25423
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 25743,
+        "end": 25764
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 25773,
+        "end": 25782
+    },
+    {
+        "text": "5.9",
+        "label": "CARDINAL",
+        "start": 26122,
+        "end": 26125
+    },
+    {
+        "text": "5.9.1",
+        "label": "DATE",
+        "start": 26138,
+        "end": 26143
+    },
+    {
+        "text": "5.9.2",
+        "label": "CARDINAL",
+        "start": 26436,
+        "end": 26441
+    },
+    {
+        "text": "5.10",
+        "label": "CARDINAL",
+        "start": 26583,
+        "end": 26587
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 27001,
+        "end": 27002
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 27027,
+        "end": 27030
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 27092,
+        "end": 27095
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 27242,
+        "end": 27245
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 27279,
+        "end": 27282
+    },
+    {
+        "text": "5.8.3",
+        "label": "CARDINAL",
+        "start": 27304,
+        "end": 27309
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 27461,
+        "end": 27464
+    },
+    {
+        "text": "at least two days",
+        "label": "DATE",
+        "start": 27735,
+        "end": 27752
+    },
+    {
+        "text": "two days",
+        "label": "DATE",
+        "start": 28057,
+        "end": 28065
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 28182,
+        "end": 28185
+    },
+    {
+        "text": "at least two days",
+        "label": "DATE",
+        "start": 28458,
+        "end": 28475
+    },
+    {
+        "text": "two days",
+        "label": "DATE",
+        "start": 28771,
+        "end": 28779
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 28899,
+        "end": 28902
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 29379,
+        "end": 29382
+    },
+    {
+        "text": "6.7",
+        "label": "CARDINAL",
+        "start": 29859,
+        "end": 29862
+    },
+    {
+        "text": "6.8",
+        "label": "CARDINAL",
+        "start": 30104,
+        "end": 30107
+    },
+    {
+        "text": "6.9",
+        "label": "CARDINAL",
+        "start": 30349,
+        "end": 30352
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 30386,
+        "end": 30389
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 30412,
+        "end": 30415
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 30599,
+        "end": 30600
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 30620,
+        "end": 30623
+    },
+    {
+        "text": "7.1.2",
+        "label": "CARDINAL",
+        "start": 31471,
+        "end": 31476
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 32498,
+        "end": 32519
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 32528,
+        "end": 32537
+    },
+    {
+        "text": "no later than six months",
+        "label": "DATE",
+        "start": 32576,
+        "end": 32600
+    },
+    {
+        "text": "section 7.1.2",
+        "label": "LAW",
+        "start": 32904,
+        "end": 32917
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 33067,
+        "end": 33068
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 33344,
+        "end": 33347
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 33370,
+        "end": 33373
+    },
+    {
+        "text": "section 8",
+        "label": "LAW",
+        "start": 33480,
+        "end": 33489
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 33601,
+        "end": 33602
+    },
+    {
+        "text": "7.1.4",
+        "label": "CARDINAL",
+        "start": 33812,
+        "end": 33817
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 34008,
+        "end": 34011
+    },
+    {
+        "text": "7.2.1",
+        "label": "CARDINAL",
+        "start": 34035,
+        "end": 34040
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35443,
+        "end": 35448
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35553,
+        "end": 35558
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35998,
+        "end": 36003
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 36364,
+        "end": 36367
+    },
+    {
+        "text": "december 31, 1999",
+        "label": "DATE",
+        "start": 36637,
+        "end": 36654
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 36744,
+        "end": 36747
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 36836,
+        "end": 36839
+    },
+    {
+        "text": "2;",
+        "label": "CARDINAL",
+        "start": 36984,
+        "end": 36986
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 37128,
+        "end": 37129
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 37132,
+        "end": 37135
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 37987,
+        "end": 37990
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 38113,
+        "end": 38120
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 38128,
+        "end": 38135
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 38494,
+        "end": 38498
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 38768,
+        "end": 38771
+    },
+    {
+        "text": "lieu thereof",
+        "label": "PERSON",
+        "start": 39290,
+        "end": 39302
+    },
+    {
+        "text": "7.7",
+        "label": "CARDINAL",
+        "start": 39431,
+        "end": 39434
+    },
+    {
+        "text": "18-month",
+        "label": "DATE",
+        "start": 39455,
+        "end": 39463
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 39496,
+        "end": 39499
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 39593,
+        "end": 39614
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 39623,
+        "end": 39632
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 39708,
+        "end": 39713
+    },
+    {
+        "text": "12-month",
+        "label": "DATE",
+        "start": 40050,
+        "end": 40058
+    },
+    {
+        "text": "the past\n",
+        "label": "DATE",
+        "start": 40095,
+        "end": 40104
+    },
+    {
+        "text": "two years",
+        "label": "DATE",
+        "start": 40104,
+        "end": 40113
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 40214,
+        "end": 40215
+    },
+    {
+        "text": "three month",
+        "label": "DATE",
+        "start": 40312,
+        "end": 40323
+    },
+    {
+        "text": "15 days",
+        "label": "DATE",
+        "start": 40526,
+        "end": 40533
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 40677,
+        "end": 40679
+    },
+    {
+        "text": "15 days",
+        "label": "DATE",
+        "start": 40771,
+        "end": 40778
+    },
+    {
+        "text": "15 days",
+        "label": "DATE",
+        "start": 40979,
+        "end": 40986
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 41168,
+        "end": 41189
+    },
+    {
+        "text": "7.8",
+        "label": "CARDINAL",
+        "start": 41300,
+        "end": 41303
+    },
+    {
+        "text": "1 per month",
+        "label": "DATE",
+        "start": 41480,
+        "end": 41491
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 41639,
+        "end": 41640
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 41664,
+        "end": 41667
+    },
+    {
+        "text": "a year",
+        "label": "DATE",
+        "start": 41791,
+        "end": 41797
+    },
+    {
+        "text": "at least 30 days",
+        "label": "DATE",
+        "start": 41877,
+        "end": 41893
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 42023,
+        "end": 42026
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 42255,
+        "end": 42262
+    },
+    {
+        "text": "45 days",
+        "label": "DATE",
+        "start": 42315,
+        "end": 42322
+    },
+    {
+        "text": "180 days",
+        "label": "DATE",
+        "start": 42561,
+        "end": 42569
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 42733,
+        "end": 42736
+    },
+    {
+        "text": "an earlier date",
+        "label": "DATE",
+        "start": 43010,
+        "end": 43025
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 44264,
+        "end": 44267
+    },
+    {
+        "text": "the\nthird party",
+        "label": "ORG",
+        "start": 44492,
+        "end": 44507
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 45124,
+        "end": 45127
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 45154,
+        "end": 45157
+    },
+    {
+        "text": "one\nyear",
+        "label": "DATE",
+        "start": 45198,
+        "end": 45206
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 45493,
+        "end": 45494
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 45708,
+        "end": 45712
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 45800,
+        "end": 45801
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 45804,
+        "end": 45805
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 45827,
+        "end": 45830
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 46159,
+        "end": 46166
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 46175,
+        "end": 46178
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 46185,
+        "end": 46190
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 46312,
+        "end": 46315
+    },
+    {
+        "text": "american",
+        "label": "NORP",
+        "start": 46683,
+        "end": 46691
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 46957,
+        "end": 46965
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 46967,
+        "end": 46975
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 47198,
+        "end": 47205
+    },
+    {
+        "text": "30-day",
+        "label": "DATE",
+        "start": 47332,
+        "end": 47338
+    },
+    {
+        "text": "15 days",
+        "label": "DATE",
+        "start": 47408,
+        "end": 47415
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 47517,
+        "end": 47538
+    },
+    {
+        "text": "3/22/2000",
+        "label": "DATE",
+        "start": 47547,
+        "end": 47556
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 48011,
+        "end": 48023
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 48026,
+        "end": 48029
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 48149,
+        "end": 48159
+    },
+    {
+        "text": "the american arbitration association",
+        "label": "ORG",
+        "start": 48519,
+        "end": 48555
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 48607,
+        "end": 48610
+    },
+    {
+        "text": "article 9",
+        "label": "LAW",
+        "start": 48802,
+        "end": 48811
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 49255,
+        "end": 49258
+    },
+    {
+        "text": "two year",
+        "label": "DATE",
+        "start": 49260,
+        "end": 49268
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 49314,
+        "end": 49318
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 49358,
+        "end": 49362
+    },
+    {
+        "text": "more than two years",
+        "label": "DATE",
+        "start": 49562,
+        "end": 49581
+    },
+    {
+        "text": "9.6",
+        "label": "CARDINAL",
+        "start": 49655,
+        "end": 49658
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 49993,
+        "end": 50003
+    },
+    {
+        "text": "9.7",
+        "label": "DATE",
+        "start": 50024,
+        "end": 50027
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 50158,
+        "end": 50165
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 50614,
+        "end": 50616
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 50635,
+        "end": 50639
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 50932,
+        "end": 50937
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 51827,
+        "end": 51831
+    },
+    {
+        "text": "section 10.1(c",
+        "label": "LAW",
+        "start": 52072,
+        "end": 52086
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 52329,
+        "end": 52333
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 52627,
+        "end": 52637
+    },
+    {
+        "text": "three years",
+        "label": "DATE",
+        "start": 52716,
+        "end": 52727
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 52731,
+        "end": 52735
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 52812,
+        "end": 52822
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 52984,
+        "end": 52994
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 53214,
+        "end": 53224
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 53545,
+        "end": 53555
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 53661,
+        "end": 53665
+    },
+    {
+        "text": "at least five",
+        "label": "CARDINAL",
+        "start": 54454,
+        "end": 54467
+    },
+    {
+        "text": "five business days",
+        "label": "DATE",
+        "start": 54745,
+        "end": 54763
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 54946,
+        "end": 54948
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 55061,
+        "end": 55065
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 55144,
+        "end": 55165
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 55174,
+        "end": 55183
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 55262,
+        "end": 55266
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 55475,
+        "end": 55479
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 55658,
+        "end": 55660
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 55732,
+        "end": 55736
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 56080,
+        "end": 56084
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 56430,
+        "end": 56434
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 56515,
+        "end": 56525
+    },
+    {
+        "text": "section 12.5(c",
+        "label": "LAW",
+        "start": 56691,
+        "end": 56705
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 57088,
+        "end": 57098
+    },
+    {
+        "text": "section 12.5(c",
+        "label": "LAW",
+        "start": 57263,
+        "end": 57277
+    },
+    {
+        "text": "1,000,000",
+        "label": "CARDINAL",
+        "start": 57375,
+        "end": 57384
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 57387,
+        "end": 57391
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 57874,
+        "end": 57879
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 58353,
+        "end": 58358
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 58508,
+        "end": 58512
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 58993,
+        "end": 58998
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 59466,
+        "end": 59471
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 59591,
+        "end": 59595
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 59693,
+        "end": 59697
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 59736,
+        "end": 59740
+    },
+    {
+        "text": "12.7",
+        "label": "CARDINAL",
+        "start": 60859,
+        "end": 60863
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 60971,
+        "end": 60981
+    },
+    {
+        "text": "li",
+        "label": "PERSON",
+        "start": 61021,
+        "end": 61023
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 61197,
+        "end": 61199
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 61216,
+        "end": 61220
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 61327,
+        "end": 61339
+    },
+    {
+        "text": "section 9",
+        "label": "LAW",
+        "start": 61420,
+        "end": 61429
+    },
+    {
+        "text": "the united\nstates",
+        "label": "GPE",
+        "start": 61505,
+        "end": 61522
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 61567,
+        "end": 61579
+    },
+    {
+        "text": "horsham",
+        "label": "PERSON",
+        "start": 61591,
+        "end": 61598
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 61605,
+        "end": 61609
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 62197,
+        "end": 62201
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 62371,
+        "end": 62375
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 62760,
+        "end": 62781
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 62790,
+        "end": 62799
+    },
+    {
+        "text": "13.5",
+        "label": "CARDINAL",
+        "start": 63090,
+        "end": 63094
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 63378,
+        "end": 63387
+    },
+    {
+        "text": "michael j. hagan",
+        "label": "PERSON",
+        "start": 63599,
+        "end": 63615
+    },
+    {
+        "text": "verticalnet, inc.",
+        "label": "ORG",
+        "start": 63616,
+        "end": 63633
+    },
+    {
+        "text": "verticalnet, inc.",
+        "label": "ORG",
+        "start": 63634,
+        "end": 63651
+    },
+    {
+        "text": "700",
+        "label": "CARDINAL",
+        "start": 63652,
+        "end": 63655
+    },
+    {
+        "text": "100 700",
+        "label": "CARDINAL",
+        "start": 63676,
+        "end": 63683
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 63704,
+        "end": 63707
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 63717,
+        "end": 63729
+    },
+    {
+        "text": "19044",
+        "label": "DATE",
+        "start": 63730,
+        "end": 63735
+    },
+    {
+        "text": "horsham",
+        "label": "GPE",
+        "start": 63736,
+        "end": 63743
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 63745,
+        "end": 63757
+    },
+    {
+        "text": "19044",
+        "label": "DATE",
+        "start": 63758,
+        "end": 63763
+    },
+    {
+        "text": "215",
+        "label": "CARDINAL",
+        "start": 63774,
+        "end": 63777
+    },
+    {
+        "text": "443",
+        "label": "CARDINAL",
+        "start": 63779,
+        "end": 63782
+    },
+    {
+        "text": "215",
+        "label": "CARDINAL",
+        "start": 63798,
+        "end": 63801
+    },
+    {
+        "text": "443",
+        "label": "CARDINAL",
+        "start": 63803,
+        "end": 63806
+    },
+    {
+        "text": "jonathan k. bernstein",
+        "label": "PERSON",
+        "start": 63885,
+        "end": 63906
+    },
+    {
+        "text": "bingham",
+        "label": "GPE",
+        "start": 63930,
+        "end": 63937
+    },
+    {
+        "text": "545",
+        "label": "CARDINAL",
+        "start": 63947,
+        "end": 63950
+    },
+    {
+        "text": "8th",
+        "label": "ORDINAL",
+        "start": 63968,
+        "end": 63971
+    },
+    {
+        "text": "150",
+        "label": "CARDINAL",
+        "start": 63978,
+        "end": 63981
+    },
+    {
+        "text": "boston",
+        "label": "GPE",
+        "start": 63997,
+        "end": 64003
+    },
+    {
+        "text": "ma 02116 boston",
+        "label": "PERSON",
+        "start": 64005,
+        "end": 64020
+    },
+    {
+        "text": "617",
+        "label": "CARDINAL",
+        "start": 64041,
+        "end": 64044
+    },
+    {
+        "text": "536",
+        "label": "CARDINAL",
+        "start": 64046,
+        "end": 64049
+    },
+    {
+        "text": "617",
+        "label": "CARDINAL",
+        "start": 64065,
+        "end": 64068
+    },
+    {
+        "text": "951-8736",
+        "label": "DATE",
+        "start": 64070,
+        "end": 64078
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 64159,
+        "end": 64168
+    },
+    {
+        "text": "the same day",
+        "label": "DATE",
+        "start": 64252,
+        "end": 64264
+    },
+    {
+        "text": "a business day",
+        "label": "DATE",
+        "start": 64288,
+        "end": 64302
+    },
+    {
+        "text": "business day",
+        "label": "DATE",
+        "start": 64332,
+        "end": 64344
+    },
+    {
+        "text": "3:00 p.m.",
+        "label": "TIME",
+        "start": 64379,
+        "end": 64388
+    },
+    {
+        "text": "philadelphia",
+        "label": "GPE",
+        "start": 64389,
+        "end": 64401
+    },
+    {
+        "text": "the next day",
+        "label": "DATE",
+        "start": 64414,
+        "end": 64426
+    },
+    {
+        "text": "a business day",
+        "label": "DATE",
+        "start": 64450,
+        "end": 64464
+    },
+    {
+        "text": "business day",
+        "label": "DATE",
+        "start": 64494,
+        "end": 64506
+    },
+    {
+        "text": "3:00 p.m.",
+        "label": "TIME",
+        "start": 64537,
+        "end": 64546
+    },
+    {
+        "text": "philadelphia",
+        "label": "GPE",
+        "start": 64547,
+        "end": 64559
+    },
+    {
+        "text": "13.6",
+        "label": "CARDINAL",
+        "start": 64567,
+        "end": 64571
+    },
+    {
+        "text": "13.7",
+        "label": "CARDINAL",
+        "start": 64756,
+        "end": 64760
+    },
+    {
+        "text": "july 23",
+        "label": "DATE",
+        "start": 65125,
+        "end": 65132
+    },
+    {
+        "text": "1999",
+        "label": "DATE",
+        "start": 65134,
+        "end": 65138
+    },
+    {
+        "text": "13.8",
+        "label": "CARDINAL",
+        "start": 65141,
+        "end": 65145
+    },
+    {
+        "text": "13.9",
+        "label": "CARDINAL",
+        "start": 65949,
+        "end": 65953
+    },
+    {
+        "text": "13.10",
+        "label": "CARDINAL",
+        "start": 66289,
+        "end": 66294
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 66387,
+        "end": 66390
+    },
+    {
+        "text": "6.5",
+        "label": "DATE",
+        "start": 66396,
+        "end": 66399
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 66401,
+        "end": 66404
+    },
+    {
+        "text": "6.9",
+        "label": "CARDINAL",
+        "start": 66406,
+        "end": 66409
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 66411,
+        "end": 66414
+    },
+    {
+        "text": "8",
+        "label": "DATE",
+        "start": 66420,
+        "end": 66421
+    },
+    {
+        "text": "9",
+        "label": "DATE",
+        "start": 66423,
+        "end": 66424
+    },
+    {
+        "text": "10",
+        "label": "DATE",
+        "start": 66426,
+        "end": 66428
+    },
+    {
+        "text": "11",
+        "label": "DATE",
+        "start": 66430,
+        "end": 66432
+    },
+    {
+        "text": "12",
+        "label": "DATE",
+        "start": 66434,
+        "end": 66436
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 66441,
+        "end": 66443
+    },
+    {
+        "text": "13.11",
+        "label": "CARDINAL",
+        "start": 66796,
+        "end": 66801
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 66806,
+        "end": 66811
+    },
+    {
+        "text": "13.12",
+        "label": "CARDINAL",
+        "start": 67004,
+        "end": 67009
+    },
+    {
+        "text": "13.13",
+        "label": "CARDINAL",
+        "start": 67245,
+        "end": 67250
+    },
+    {
+        "text": "13.14",
+        "label": "CARDINAL",
+        "start": 67732,
+        "end": 67737
+    },
+    {
+        "text": "13.15",
+        "label": "CARDINAL",
+        "start": 68413,
+        "end": 68418
+    },
+    {
+        "text": "13.16",
+        "label": "CARDINAL",
+        "start": 68713,
+        "end": 68718
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 69167,
+        "end": 69188
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 69197,
+        "end": 69206
+    },
+    {
+        "text": "verticalnet, inc.",
+        "label": "ORG",
+        "start": 69478,
+        "end": 69495
+    },
+    {
+        "text": "jason weiss\n ---------------------------------",
+        "label": "PERSON",
+        "start": 69547,
+        "end": 69593
+    },
+    {
+        "text": "verticalnet, inc.",
+        "label": "ORG",
+        "start": 69711,
+        "end": 69728
+    },
+    {
+        "text": "rod a. parsley\n ---------------------------------",
+        "label": "PERSON",
+        "start": 69780,
+        "end": 69829
+    },
+    {
+        "text": "v.p. e-commerce",
+        "label": "PERSON",
+        "start": 69870,
+        "end": 69885
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 70027,
+        "end": 70028
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 70130,
+        "end": 70135
+    },
+    {
+        "text": "oct. 27-28, 1999",
+        "label": "DATE",
+        "start": 70908,
+        "end": 70924
+    },
+    {
+        "text": "atlanta",
+        "label": "GPE",
+        "start": 70925,
+        "end": 70932
+    },
+    {
+        "text": "ga\n ",
+        "label": "ORG",
+        "start": 70934,
+        "end": 70938
+    },
+    {
+        "text": "99",
+        "label": "CARDINAL",
+        "start": 71054,
+        "end": 71056
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 71277,
+        "end": 71298
+    },
+    {
+        "text": "3/22/2000",
+        "label": "DATE",
+        "start": 71307,
+        "end": 71316
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 71927,
+        "end": 71930
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 72026,
+        "end": 72031
+    },
+    {
+        "text": "500607",
+        "label": "CARDINAL",
+        "start": 72184,
+        "end": 72190
+    },
+    {
+        "text": "9422",
+        "label": "DATE",
+        "start": 72230,
+        "end": 72234
+    },
+    {
+        "text": "120",
+        "label": "CARDINAL",
+        "start": 72236,
+        "end": 72239
+    },
+    {
+        "text": "linear",
+        "label": "ORG",
+        "start": 72375,
+        "end": 72381
+    },
+    {
+        "text": "348",
+        "label": "CARDINAL",
+        "start": 72468,
+        "end": 72471
+    },
+    {
+        "text": "5/11/99 - 6/10/99",
+        "label": "CARDINAL",
+        "start": 72488,
+        "end": 72505
+    },
+    {
+        "text": "0.5ml",
+        "label": "WORK_OF_ART",
+        "start": 72528,
+        "end": 72533
+    },
+    {
+        "text": "117v",
+        "label": "PRODUCT",
+        "start": 72534,
+        "end": 72538
+    },
+    {
+        "text": "500863",
+        "label": "CARDINAL",
+        "start": 72546,
+        "end": 72552
+    },
+    {
+        "text": "0.5 ml",
+        "label": "QUANTITY",
+        "start": 72605,
+        "end": 72611
+    },
+    {
+        "text": "2.7(degrees)c",
+        "label": "CARDINAL",
+        "start": 72789,
+        "end": 72802
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 72807,
+        "end": 72810
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 72828,
+        "end": 72830
+    },
+    {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 72838,
+        "end": 72843
+    },
+    {
+        "text": "5/7/99 - 6/6/99",
+        "label": "CARDINAL",
+        "start": 72860,
+        "end": 72875
+    },
+    {
+        "text": "500607",
+        "label": "CARDINAL",
+        "start": 72909,
+        "end": 72915
+    },
+    {
+        "text": "9422",
+        "label": "DATE",
+        "start": 72955,
+        "end": 72959
+    },
+    {
+        "text": "120",
+        "label": "CARDINAL",
+        "start": 72961,
+        "end": 72964
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 73036,
+        "end": 73037
+    },
+    {
+        "text": "linear",
+        "label": "ORG",
+        "start": 73159,
+        "end": 73165
+    },
+    {
+        "text": "348",
+        "label": "CARDINAL",
+        "start": 73252,
+        "end": 73255
+    },
+    {
+        "text": "5/11/99 - 6/10/99",
+        "label": "QUANTITY",
+        "start": 73272,
+        "end": 73289
+    },
+    {
+        "text": "catv",
+        "label": "ORG",
+        "start": 73481,
+        "end": 73485
+    },
+    {
+        "text": "matv systems",
+        "label": "ORG",
+        "start": 73490,
+        "end": 73502
+    },
+    {
+        "text": "220",
+        "label": "CARDINAL",
+        "start": 73608,
+        "end": 73611
+    },
+    {
+        "text": "5/11/99 - 6/10/99",
+        "label": "CARDINAL",
+        "start": 73628,
+        "end": 73645
+    },
+    {
+        "text": "jobscan",
+        "label": "NORP",
+        "start": 74024,
+        "end": 74031
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 74035,
+        "end": 74036
+    },
+    {
+        "text": "shop & compare",
+        "label": "ORG",
+        "start": 74113,
+        "end": 74127
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 74136,
+        "end": 74157
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 74166,
+        "end": 74175
+    },
+    {
+        "text": "jobscan\n ",
+        "label": "ORG",
+        "start": 74416,
+        "end": 74425
+    },
+    {
+        "text": "oct. 27-28, 1999",
+        "label": "DATE",
+        "start": 74908,
+        "end": 74924
+    },
+    {
+        "text": "atlanta",
+        "label": "GPE",
+        "start": 74925,
+        "end": 74932
+    },
+    {
+        "text": "ga\n ",
+        "label": "ORG",
+        "start": 74934,
+        "end": 74938
+    },
+    {
+        "text": "99",
+        "label": "CARDINAL",
+        "start": 75054,
+        "end": 75056
+    },
+    {
+        "text": "jobscan",
+        "label": "GPE",
+        "start": 75215,
+        "end": 75222
+    },
+    {
+        "text": "alabama alaska/",
+        "label": "FAC",
+        "start": 76478,
+        "end": 76493
+    },
+    {
+        "text": "hawaii",
+        "label": "GPE",
+        "start": 76493,
+        "end": 76499
+    },
+    {
+        "text": "alaska",
+        "label": "GPE",
+        "start": 76500,
+        "end": 76506
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 76522,
+        "end": 76526
+    },
+    {
+        "text": "arizona",
+        "label": "GPE",
+        "start": 76527,
+        "end": 76534
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 76551,
+        "end": 76555
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 76572,
+        "end": 76593
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 76602,
+        "end": 76611
+    },
+    {
+        "text": "jobscan",
+        "label": "NORP",
+        "start": 76739,
+        "end": 76746
+    },
+    {
+        "text": "oct. 27-28, 1999",
+        "label": "DATE",
+        "start": 77003,
+        "end": 77019
+    },
+    {
+        "text": "atlanta",
+        "label": "GPE",
+        "start": 77020,
+        "end": 77027
+    },
+    {
+        "text": "ga\n ",
+        "label": "ORG",
+        "start": 77029,
+        "end": 77033
+    },
+    {
+        "text": "99",
+        "label": "CARDINAL",
+        "start": 77149,
+        "end": 77151
+    },
+    {
+        "text": "a(4",
+        "label": "PERSON",
+        "start": 77422,
+        "end": 77425
+    },
+    {
+        "text": "jobscan",
+        "label": "NORP",
+        "start": 77434,
+        "end": 77441
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 77445,
+        "end": 77446
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 77488,
+        "end": 77491
+    },
+    {
+        "text": "scan",
+        "label": "NORP",
+        "start": 77503,
+        "end": 77507
+    },
+    {
+        "text": "santa monica",
+        "label": "GPE",
+        "start": 77921,
+        "end": 77933
+    },
+    {
+        "text": "austin tx\n- -",
+        "label": "PERSON",
+        "start": 77969,
+        "end": 77982
+    },
+    {
+        "text": "chicago",
+        "label": "GPE",
+        "start": 78060,
+        "end": 78067
+    },
+    {
+        "text": "carbon inc.",
+        "label": "ORG",
+        "start": 78085,
+        "end": 78096
+    },
+    {
+        "text": "md\nmore",
+        "label": "PERSON",
+        "start": 78106,
+        "end": 78113
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 78733,
+        "end": 78734
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 78866,
+        "end": 78887
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 78896,
+        "end": 78905
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 79052,
+        "end": 79053
+    },
+    {
+        "text": "minb rsrv",
+        "label": "PERSON",
+        "start": 80376,
+        "end": 80385
+    },
+    {
+        "text": "daye",
+        "label": "CARDINAL",
+        "start": 80396,
+        "end": 80400
+    },
+    {
+        "text": "5.00",
+        "label": "CARDINAL",
+        "start": 80516,
+        "end": 80520
+    },
+    {
+        "text": "today",
+        "label": "DATE",
+        "start": 80532,
+        "end": 80537
+    },
+    {
+        "text": "7\n ",
+        "label": "CARDINAL",
+        "start": 80549,
+        "end": 80552
+    },
+    {
+        "text": "desc",
+        "label": "ORG",
+        "start": 80808,
+        "end": 80812
+    },
+    {
+        "text": "imag\n- --------------------------------------------------------------------\n- ---------------------------------------------\n ",
+        "label": "PERSON",
+        "start": 80818,
+        "end": 80943
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 81551,
+        "end": 81553
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 81690,
+        "end": 81693
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 81754,
+        "end": 81775
+    },
+    {
+        "text": "3/22/2000\n ",
+        "label": "CARDINAL",
+        "start": 81784,
+        "end": 81795
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 83463,
+        "end": 83464
+    },
+    {
+        "text": "15:00 (mm/dd",
+        "label": "TIME",
+        "start": 83731,
+        "end": 83743
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 83747,
+        "end": 83749
+    },
+    {
+        "text": "mm",
+        "label": "PERSON",
+        "start": 83750,
+        "end": 83752
+    },
+    {
+        "text": "7 days",
+        "label": "DATE",
+        "start": 83908,
+        "end": 83914
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 83932,
+        "end": 83933
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 83936,
+        "end": 83937
+    },
+    {
+        "text": "5",
+        "label": "DATE",
+        "start": 83939,
+        "end": 83940
+    },
+    {
+        "text": "7",
+        "label": "DATE",
+        "start": 83942,
+        "end": 83943
+    },
+    {
+        "text": "21",
+        "label": "DATE",
+        "start": 83945,
+        "end": 83947
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 83953,
+        "end": 83955
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 84815,
+        "end": 84818
+    },
+    {
+        "text": "paperexchange com inc",
+        "label": "ORG",
+        "start": 85944,
+        "end": 85965
+    },
+    {
+        "text": "3/22/2000",
+        "label": "CARDINAL",
+        "start": 85974,
+        "end": 85983
+    }
+]

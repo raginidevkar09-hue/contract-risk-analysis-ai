@@ -1,0 +1,3326 @@
+[
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "march 15, 2019",
+        "label": "DATE",
+        "start": 111,
+        "end": 125
+    },
+    {
+        "text": "shaquille o’neal",
+        "label": "ORG",
+        "start": 269,
+        "end": 285
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 331,
+        "end": 337
+    },
+    {
+        "text": "kentucky",
+        "label": "GPE",
+        "start": 362,
+        "end": 370
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 402,
+        "end": 408
+    },
+    {
+        "text": "international, inc.",
+        "label": "ORG",
+        "start": 409,
+        "end": 428
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 493,
+        "end": 499
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 516,
+        "end": 522
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 1107,
+        "end": 1113
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 1260,
+        "end": 1266
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 1336,
+        "end": 1342
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1657,
+        "end": 1658
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 2379,
+        "end": 2386
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 2462,
+        "end": 2468
+    },
+    {
+        "text": "12) month",
+        "label": "DATE",
+        "start": 2470,
+        "end": 2479
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 2547,
+        "end": 2570
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 2572,
+        "end": 2575
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 2577,
+        "end": 2586
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 3312,
+        "end": 3318
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3357,
+        "end": 3358
+    },
+    {
+        "text": "march 15, 2022",
+        "label": "DATE",
+        "start": 3508,
+        "end": 3522
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 3558,
+        "end": 3561
+    },
+    {
+        "text": "1) year",
+        "label": "DATE",
+        "start": 3563,
+        "end": 3570
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 3799,
+        "end": 3800
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 3981,
+        "end": 3987
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 4272,
+        "end": 4278
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 4461,
+        "end": 4467
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 4545,
+        "end": 4548
+    },
+    {
+        "text": "1) year",
+        "label": "DATE",
+        "start": 4550,
+        "end": 4557
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 4684,
+        "end": 4690
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 4731,
+        "end": 4737
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 5028,
+        "end": 5031
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 5033,
+        "end": 5042
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 5258,
+        "end": 5264
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 5386,
+        "end": 5392
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 5530,
+        "end": 5536
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 5662,
+        "end": 5668
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 5820,
+        "end": 5843
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 5845,
+        "end": 5848
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 5850,
+        "end": 5859
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 5949,
+        "end": 5955
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 6337,
+        "end": 6343
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 6776,
+        "end": 6793
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 6809,
+        "end": 6811
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 6819,
+        "end": 6822
+    },
+    {
+        "text": "101",
+        "label": "CARDINAL",
+        "start": 6824,
+        "end": 6827
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 6855,
+        "end": 6861
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 7098,
+        "end": 7104
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 7248,
+        "end": 7254
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 7297,
+        "end": 7303
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 7328,
+        "end": 7334
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 7487,
+        "end": 7493
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 7524,
+        "end": 7530
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 7753,
+        "end": 7755
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 8108,
+        "end": 8114
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 8274,
+        "end": 8280
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 8708,
+        "end": 8713
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 8775,
+        "end": 8780
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 8830,
+        "end": 8836
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 8886,
+        "end": 8891
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 8976,
+        "end": 8981
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9064,
+        "end": 9069
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 9122,
+        "end": 9145
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 9147,
+        "end": 9150
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 9152,
+        "end": 9161
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 9162,
+        "end": 9163
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 9239,
+        "end": 9245
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 9248,
+        "end": 9253
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 9271,
+        "end": 9276
+    },
+    {
+        "text": "3) days",
+        "label": "DATE",
+        "start": 9278,
+        "end": 9285
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 9406,
+        "end": 9411
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 9535,
+        "end": 9540
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 9638,
+        "end": 9643
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 9710,
+        "end": 9716
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 9747,
+        "end": 9753
+    },
+    {
+        "text": "2nd",
+        "label": "ORDINAL",
+        "start": 9755,
+        "end": 9758
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 9819,
+        "end": 9824
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 9835,
+        "end": 9841
+    },
+    {
+        "text": "section 12.f",
+        "label": "DATE",
+        "start": 9968,
+        "end": 9980
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 10077,
+        "end": 10083
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 10099,
+        "end": 10104
+    },
+    {
+        "text": "3) days",
+        "label": "DATE",
+        "start": 10106,
+        "end": 10113
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 10206,
+        "end": 10212
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 10285,
+        "end": 10291
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 10306,
+        "end": 10312
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 10460,
+        "end": 10466
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 10551,
+        "end": 10557
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 10606,
+        "end": 10612
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 10657,
+        "end": 10663
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 11055,
+        "end": 11061
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 11115,
+        "end": 11121
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 11158,
+        "end": 11159
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 11191,
+        "end": 11197
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 11340,
+        "end": 11346
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 11599,
+        "end": 11605
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 11774,
+        "end": 11780
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 11985,
+        "end": 11986
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 12312,
+        "end": 12313
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 12320,
+        "end": 12326
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 12550,
+        "end": 12556
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 12677,
+        "end": 12683
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 12723,
+        "end": 12729
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 12971,
+        "end": 12977
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 13011,
+        "end": 13017
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 13084,
+        "end": 13090
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 13155,
+        "end": 13161
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 13233,
+        "end": 13256
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 13258,
+        "end": 13261
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 13263,
+        "end": 13272
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 13273,
+        "end": 13274
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 13301,
+        "end": 13307
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 13463,
+        "end": 13469
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 13718,
+        "end": 13724
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 14380,
+        "end": 14381
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 14527,
+        "end": 14533
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14729,
+        "end": 14734
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 15012,
+        "end": 15018
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15051,
+        "end": 15056
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 15124,
+        "end": 15130
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 15197,
+        "end": 15203
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 15224,
+        "end": 15230
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 15415,
+        "end": 15421
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 15811,
+        "end": 15812
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 15830,
+        "end": 15836
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15938,
+        "end": 15943
+    },
+    {
+        "text": "and/or patents",
+        "label": "PERSON",
+        "start": 16120,
+        "end": 16134
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 16630,
+        "end": 16636
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 16752,
+        "end": 16758
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 16766,
+        "end": 16771
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 16827,
+        "end": 16833
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 16932,
+        "end": 16955
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 16957,
+        "end": 16960
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 16962,
+        "end": 16971
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 16972,
+        "end": 16973
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 17004,
+        "end": 17010
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 17127,
+        "end": 17145
+    },
+    {
+        "text": "at least eight",
+        "label": "CARDINAL",
+        "start": 17664,
+        "end": 17678
+    },
+    {
+        "text": "8)",
+        "label": "CARDINAL",
+        "start": 17680,
+        "end": 17682
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 17729,
+        "end": 17730
+    },
+    {
+        "text": "up to four",
+        "label": "CARDINAL",
+        "start": 17749,
+        "end": 17759
+    },
+    {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 17805,
+        "end": 17810
+    },
+    {
+        "text": "8) consecutive hours",
+        "label": "TIME",
+        "start": 17812,
+        "end": 17832
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 17850,
+        "end": 17856
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 17874,
+        "end": 17875
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 17968,
+        "end": 17971
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 17973,
+        "end": 17974
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 18000,
+        "end": 18003
+    },
+    {
+        "text": "1) day",
+        "label": "DATE",
+        "start": 18005,
+        "end": 18011
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 18085,
+        "end": 18088
+    },
+    {
+        "text": "1) day",
+        "label": "DATE",
+        "start": 18090,
+        "end": 18096
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 18111,
+        "end": 18117
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 18202,
+        "end": 18205
+    },
+    {
+        "text": "1) day",
+        "label": "DATE",
+        "start": 18207,
+        "end": 18213
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 18302,
+        "end": 18308
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 18419,
+        "end": 18423
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 18467,
+        "end": 18473
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 18571,
+        "end": 18577
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 18654,
+        "end": 18658
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 18782,
+        "end": 18786
+    },
+    {
+        "text": "las vegas",
+        "label": "GPE",
+        "start": 18808,
+        "end": 18817
+    },
+    {
+        "text": "nevada",
+        "label": "GPE",
+        "start": 18819,
+        "end": 18825
+    },
+    {
+        "text": "las vegas",
+        "label": "GPE",
+        "start": 18935,
+        "end": 18944
+    },
+    {
+        "text": "nevada",
+        "label": "GPE",
+        "start": 18946,
+        "end": 18952
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 18960,
+        "end": 18966
+    },
+    {
+        "text": "all service days",
+        "label": "DATE",
+        "start": 19059,
+        "end": 19075
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 19273,
+        "end": 19277
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 19400,
+        "end": 19423
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 19425,
+        "end": 19428
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 19430,
+        "end": 19439
+    },
+    {
+        "text": "at least one",
+        "label": "CARDINAL",
+        "start": 19769,
+        "end": 19781
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 19816,
+        "end": 19822
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 19868,
+        "end": 19874
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 19929,
+        "end": 19935
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 20261,
+        "end": 20267
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 20374,
+        "end": 20380
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 20655,
+        "end": 20661
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 20895,
+        "end": 20901
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 20952,
+        "end": 20958
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 21218,
+        "end": 21219
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 21300,
+        "end": 21306
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 21476,
+        "end": 21479
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 21481,
+        "end": 21482
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 21509,
+        "end": 21514
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 21516,
+        "end": 21517
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 21555,
+        "end": 21563
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 21574,
+        "end": 21577
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 21579,
+        "end": 21580
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 21625,
+        "end": 21631
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 21650,
+        "end": 21653
+    },
+    {
+        "text": "steve",
+        "label": "PERSON",
+        "start": 21676,
+        "end": 21681
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 21706,
+        "end": 21729
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 21731,
+        "end": 21734
+    },
+    {
+        "text": "6/17/2019",
+        "label": "DATE",
+        "start": 21736,
+        "end": 21745
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 21750,
+        "end": 21753
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 21755,
+        "end": 21756
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 21851,
+        "end": 21852
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 21861,
+        "end": 21879
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 21953,
+        "end": 21958
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 21960,
+        "end": 21962
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 21970,
+        "end": 21977
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 22011,
+        "end": 22017
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 22183,
+        "end": 22189
+    },
+    {
+        "text": "five or ten minutes",
+        "label": "TIME",
+        "start": 22273,
+        "end": 22292
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 22570,
+        "end": 22572
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 22633,
+        "end": 22639
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 22680,
+        "end": 22683
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 22685,
+        "end": 22686
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 23171,
+        "end": 23177
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 23278,
+        "end": 23284
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 23311,
+        "end": 23317
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 23406,
+        "end": 23412
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 23823,
+        "end": 23828
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 23880,
+        "end": 23885
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 24124,
+        "end": 24129
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 24198,
+        "end": 24204
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 24417,
+        "end": 24440
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 24442,
+        "end": 24445
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 24447,
+        "end": 24456
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 24496,
+        "end": 24502
+    },
+    {
+        "text": "a particular contract year",
+        "label": "DATE",
+        "start": 24635,
+        "end": 24661
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 24780,
+        "end": 24786
+    },
+    {
+        "text": "years",
+        "label": "DATE",
+        "start": 24975,
+        "end": 24980
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 25756,
+        "end": 25762
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 25825,
+        "end": 25831
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 25862,
+        "end": 25865
+    },
+    {
+        "text": "a thirty percent",
+        "label": "PERCENT",
+        "start": 25988,
+        "end": 26004
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 26006,
+        "end": 26008
+    },
+    {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 26023,
+        "end": 26027
+    },
+    {
+        "text": "atlanta-area",
+        "label": "GPE",
+        "start": 26032,
+        "end": 26044
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 26050,
+        "end": 26056
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 26090,
+        "end": 26096
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 26316,
+        "end": 26322
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 26445,
+        "end": 26451
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 26542,
+        "end": 26548
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 27069,
+        "end": 27086
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 27138,
+        "end": 27144
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 27634,
+        "end": 27640
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 27648,
+        "end": 27653
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 27923,
+        "end": 27946
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 27948,
+        "end": 27951
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 27953,
+        "end": 27962
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 27988,
+        "end": 27994
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 28893,
+        "end": 28899
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 28971,
+        "end": 28972
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 29083,
+        "end": 29089
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 29173,
+        "end": 29174
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 29181,
+        "end": 29187
+    },
+    {
+        "text": "one million",
+        "label": "CARDINAL",
+        "start": 29221,
+        "end": 29232
+    },
+    {
+        "text": "year 1",
+        "label": "DATE",
+        "start": 29301,
+        "end": 29307
+    },
+    {
+        "text": "year 2",
+        "label": "DATE",
+        "start": 29398,
+        "end": 29404
+    },
+    {
+        "text": "one\nmillion",
+        "label": "QUANTITY",
+        "start": 29410,
+        "end": 29421
+    },
+    {
+        "text": "five hundred thousand",
+        "label": "CARDINAL",
+        "start": 29422,
+        "end": 29443
+    },
+    {
+        "text": "year 3",
+        "label": "DATE",
+        "start": 29485,
+        "end": 29491
+    },
+    {
+        "text": "years 1-3",
+        "label": "DATE",
+        "start": 29525,
+        "end": 29534
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 29747,
+        "end": 29753
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 29978,
+        "end": 29982
+    },
+    {
+        "text": "section 5.a.3",
+        "label": "LAW",
+        "start": 30019,
+        "end": 30032
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 30060,
+        "end": 30065
+    },
+    {
+        "text": "the first contract year",
+        "label": "DATE",
+        "start": 30107,
+        "end": 30130
+    },
+    {
+        "text": "march 1",
+        "label": "DATE",
+        "start": 30136,
+        "end": 30143
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 30183,
+        "end": 30189
+    },
+    {
+        "text": "june 1",
+        "label": "DATE",
+        "start": 30205,
+        "end": 30211
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 30244,
+        "end": 30249
+    },
+    {
+        "text": "september 1",
+        "label": "DATE",
+        "start": 30265,
+        "end": 30276
+    },
+    {
+        "text": "fourth",
+        "label": "ORDINAL",
+        "start": 30313,
+        "end": 30319
+    },
+    {
+        "text": "december 1",
+        "label": "DATE",
+        "start": 30335,
+        "end": 30345
+    },
+    {
+        "text": "each contract year",
+        "label": "DATE",
+        "start": 30350,
+        "end": 30368
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 30384,
+        "end": 30407
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 30409,
+        "end": 30412
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 30414,
+        "end": 30423
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 30424,
+        "end": 30425
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 30451,
+        "end": 30457
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 30653,
+        "end": 30659
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 30807,
+        "end": 30810
+    },
+    {
+        "text": "park\n new york",
+        "label": "PERSON",
+        "start": 30818,
+        "end": 30832
+    },
+    {
+        "text": "10036",
+        "label": "DATE",
+        "start": 30837,
+        "end": 30842
+    },
+    {
+        "text": "483043584155",
+        "label": "DATE",
+        "start": 30859,
+        "end": 30871
+    },
+    {
+        "text": "026009593",
+        "label": "DATE",
+        "start": 30924,
+        "end": 30933
+    },
+    {
+        "text": "021000322",
+        "label": "DATE",
+        "start": 30941,
+        "end": 30950
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 31002,
+        "end": 31003
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 31025,
+        "end": 31031
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 31197,
+        "end": 31203
+    },
+    {
+        "text": "united states\ndollars",
+        "label": "GPE",
+        "start": 31518,
+        "end": 31539
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 31541,
+        "end": 31542
+    },
+    {
+        "text": "john’s\nhereunder",
+        "label": "PERSON",
+        "start": 31641,
+        "end": 31657
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 31683,
+        "end": 31689
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 31780,
+        "end": 31786
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 31840,
+        "end": 31846
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 31986,
+        "end": 31987
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 32209,
+        "end": 32215
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 32326,
+        "end": 32332
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 32451,
+        "end": 32452
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 32483,
+        "end": 32489
+    },
+    {
+        "text": "forty percent",
+        "label": "PERCENT",
+        "start": 32718,
+        "end": 32731
+    },
+    {
+        "text": "40",
+        "label": "CARDINAL",
+        "start": 32733,
+        "end": 32735
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 32811,
+        "end": 32817
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 33094,
+        "end": 33100
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 33327,
+        "end": 33333
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 33387,
+        "end": 33393
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 33751,
+        "end": 33757
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 33932,
+        "end": 33938
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 34047,
+        "end": 34070
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 34072,
+        "end": 34075
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 34077,
+        "end": 34086
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 34087,
+        "end": 34088
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 34134,
+        "end": 34140
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 34575,
+        "end": 34581
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 34583,
+        "end": 34584
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 34621,
+        "end": 34627
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 34824,
+        "end": 34829
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 35039,
+        "end": 35045
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 35192,
+        "end": 35198
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 35436,
+        "end": 35442
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 35458,
+        "end": 35464
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 35622,
+        "end": 35628
+    },
+    {
+        "text": "87,136",
+        "label": "CARDINAL",
+        "start": 36057,
+        "end": 36063
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 36153,
+        "end": 36157
+    },
+    {
+        "text": "31",
+        "label": "CARDINAL",
+        "start": 36535,
+        "end": 36537
+    },
+    {
+        "text": "27,012",
+        "label": "CARDINAL",
+        "start": 36539,
+        "end": 36545
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 36566,
+        "end": 36571
+    },
+    {
+        "text": "as to 33",
+        "label": "CARDINAL",
+        "start": 36603,
+        "end": 36611
+    },
+    {
+        "text": "28,755",
+        "label": "CARDINAL",
+        "start": 36613,
+        "end": 36619
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 36640,
+        "end": 36646
+    },
+    {
+        "text": "as to 36",
+        "label": "CARDINAL",
+        "start": 36686,
+        "end": 36694
+    },
+    {
+        "text": "31,369",
+        "label": "CARDINAL",
+        "start": 36696,
+        "end": 36702
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 36723,
+        "end": 36728
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 36950,
+        "end": 36973
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 36975,
+        "end": 36978
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 36980,
+        "end": 36989
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 37180,
+        "end": 37186
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 37233,
+        "end": 37236
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 37238,
+        "end": 37239
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 37328,
+        "end": 37332
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 37523,
+        "end": 37524
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 37602,
+        "end": 37608
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 38307,
+        "end": 38313
+    },
+    {
+        "text": "b.\n",
+        "label": "PERSON",
+        "start": 38745,
+        "end": 38748
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 38753,
+        "end": 38759
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 38819,
+        "end": 38825
+    },
+    {
+        "text": "john’s and/or",
+        "label": "PERSON",
+        "start": 39049,
+        "end": 39062
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 39068,
+        "end": 39074
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 39201,
+        "end": 39207
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 39232,
+        "end": 39238
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 39366,
+        "end": 39372
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 39851,
+        "end": 39857
+    },
+    {
+        "text": "john’s business;",
+        "label": "PERSON",
+        "start": 40017,
+        "end": 40033
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 40044,
+        "end": 40050
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 40102,
+        "end": 40106
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 40408,
+        "end": 40414
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 40611,
+        "end": 40617
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 40921,
+        "end": 40926
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 40950,
+        "end": 40956
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 41123,
+        "end": 41146
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 41148,
+        "end": 41151
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 41153,
+        "end": 41162
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 41739,
+        "end": 41741
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 42151,
+        "end": 42157
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 42380,
+        "end": 42386
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 42501,
+        "end": 42507
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 42686,
+        "end": 42692
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 42761,
+        "end": 42764
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 42791,
+        "end": 42794
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 42803,
+        "end": 42808
+    },
+    {
+        "text": "business(es",
+        "label": "PERSON",
+        "start": 43324,
+        "end": 43335
+    },
+    {
+        "text": "business(es",
+        "label": "PERSON",
+        "start": 43513,
+        "end": 43524
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 44132,
+        "end": 44155
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 44157,
+        "end": 44160
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 44162,
+        "end": 44171
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 44172,
+        "end": 44173
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 44211,
+        "end": 44217
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 44303,
+        "end": 44309
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 44409,
+        "end": 44415
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 44561,
+        "end": 44562
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 44637,
+        "end": 44638
+    },
+    {
+        "text": "john’s;",
+        "label": "PERSON",
+        "start": 44704,
+        "end": 44711
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 44713,
+        "end": 44714
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 45130,
+        "end": 45136
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 45161,
+        "end": 45162
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 45327,
+        "end": 45328
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 45457,
+        "end": 45465
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 45586,
+        "end": 45592
+    },
+    {
+        "text": "section 7.a.(1)-(3",
+        "label": "LAW",
+        "start": 45705,
+        "end": 45723
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 45731,
+        "end": 45737
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 45786,
+        "end": 45792
+    },
+    {
+        "text": "b.\n ",
+        "label": "PERSON",
+        "start": 45819,
+        "end": 45823
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 46003,
+        "end": 46009
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 46116,
+        "end": 46117
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 46358,
+        "end": 46359
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 46366,
+        "end": 46372
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 46437,
+        "end": 46443
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 46473,
+        "end": 46481
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 46493,
+        "end": 46499
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 46589,
+        "end": 46593
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 46595,
+        "end": 46596
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 46783,
+        "end": 46789
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 47127,
+        "end": 47150
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 47152,
+        "end": 47155
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 47157,
+        "end": 47166
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 47268,
+        "end": 47274
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 47341,
+        "end": 47347
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 47421,
+        "end": 47427
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 47532,
+        "end": 47535
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 47537,
+        "end": 47546
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 47611,
+        "end": 47617
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 47833,
+        "end": 47838
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 47918,
+        "end": 47924
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 48137,
+        "end": 48143
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 48374,
+        "end": 48379
+    },
+    {
+        "text": "3) month",
+        "label": "DATE",
+        "start": 48381,
+        "end": 48389
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 48605,
+        "end": 48611
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 48689,
+        "end": 48691
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 48759,
+        "end": 48765
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 48807,
+        "end": 48813
+    },
+    {
+        "text": "section 7.a",
+        "label": "LAW",
+        "start": 48849,
+        "end": 48860
+    },
+    {
+        "text": "year",
+        "label": "DATE",
+        "start": 48979,
+        "end": 48983
+    },
+    {
+        "text": "year",
+        "label": "DATE",
+        "start": 49081,
+        "end": 49085
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 49141,
+        "end": 49145
+    },
+    {
+        "text": "18) months",
+        "label": "DATE",
+        "start": 49543,
+        "end": 49553
+    },
+    {
+        "text": "the next eighteen",
+        "label": "DATE",
+        "start": 49793,
+        "end": 49810
+    },
+    {
+        "text": "18) months",
+        "label": "DATE",
+        "start": 49812,
+        "end": 49822
+    },
+    {
+        "text": "less than eighteen",
+        "label": "CARDINAL",
+        "start": 49976,
+        "end": 49994
+    },
+    {
+        "text": "18) months",
+        "label": "DATE",
+        "start": 49996,
+        "end": 50006
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 50458,
+        "end": 50481
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 50483,
+        "end": 50486
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 50488,
+        "end": 50497
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 50673,
+        "end": 50679
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 50721,
+        "end": 50727
+    },
+    {
+        "text": "section 7.a",
+        "label": "LAW",
+        "start": 50764,
+        "end": 50775
+    },
+    {
+        "text": "year",
+        "label": "DATE",
+        "start": 51026,
+        "end": 51030
+    },
+    {
+        "text": "the number of days",
+        "label": "DATE",
+        "start": 51072,
+        "end": 51090
+    },
+    {
+        "text": "b.\n ",
+        "label": "PERSON",
+        "start": 51279,
+        "end": 51283
+    },
+    {
+        "text": "18) months",
+        "label": "DATE",
+        "start": 51487,
+        "end": 51497
+    },
+    {
+        "text": "the next eighteen",
+        "label": "DATE",
+        "start": 51735,
+        "end": 51752
+    },
+    {
+        "text": "18) months",
+        "label": "DATE",
+        "start": 51754,
+        "end": 51764
+    },
+    {
+        "text": "less than eighteen",
+        "label": "CARDINAL",
+        "start": 51837,
+        "end": 51855
+    },
+    {
+        "text": "18) months",
+        "label": "DATE",
+        "start": 51857,
+        "end": 51867
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 52044,
+        "end": 52045
+    },
+    {
+        "text": "a.\nabg’s",
+        "label": "PERSON",
+        "start": 52078,
+        "end": 52086
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 52167,
+        "end": 52173
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 52448,
+        "end": 52454
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 52509,
+        "end": 52514
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 52762,
+        "end": 52765
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 52767,
+        "end": 52768
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 53045,
+        "end": 53051
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 53059,
+        "end": 53064
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 53119,
+        "end": 53125
+    },
+    {
+        "text": "b.\n",
+        "label": "PERSON",
+        "start": 53187,
+        "end": 53190
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 53195,
+        "end": 53201
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 53236,
+        "end": 53242
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 53638,
+        "end": 53643
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 53699,
+        "end": 53702
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 53704,
+        "end": 53705
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 53756,
+        "end": 53762
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 53881,
+        "end": 53887
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 54334,
+        "end": 54340
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 54517,
+        "end": 54523
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 54561,
+        "end": 54567
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 54602,
+        "end": 54607
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 54691,
+        "end": 54697
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 54735,
+        "end": 54741
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 54824,
+        "end": 54830
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 54915,
+        "end": 54938
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 54940,
+        "end": 54943
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 54945,
+        "end": 54954
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 55355,
+        "end": 55361
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 56077,
+        "end": 56079
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 56096,
+        "end": 56102
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 56306,
+        "end": 56311
+    },
+    {
+        "text": "3) years",
+        "label": "DATE",
+        "start": 56313,
+        "end": 56321
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 56638,
+        "end": 56644
+    },
+    {
+        "text": "less than five million",
+        "label": "MONEY",
+        "start": 56802,
+        "end": 56824
+    },
+    {
+        "text": "5,000,000",
+        "label": "CARDINAL",
+        "start": 56848,
+        "end": 56857
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 56889,
+        "end": 56895
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 56962,
+        "end": 56966
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 57045,
+        "end": 57051
+    },
+    {
+        "text": "at least thirty",
+        "label": "CARDINAL",
+        "start": 57346,
+        "end": 57361
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 57363,
+        "end": 57371
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 57402,
+        "end": 57408
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 57511,
+        "end": 57534
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 57536,
+        "end": 57539
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 57541,
+        "end": 57550
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 57845,
+        "end": 57850
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 57933,
+        "end": 57939
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 58119,
+        "end": 58125
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 58328,
+        "end": 58334
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 58415,
+        "end": 58421
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 58722,
+        "end": 58728
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 59224,
+        "end": 59225
+    },
+    {
+        "text": "american",
+        "label": "NORP",
+        "start": 59483,
+        "end": 59491
+    },
+    {
+        "text": "the american arbitration association located",
+        "label": "ORG",
+        "start": 59587,
+        "end": 59631
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 59659,
+        "end": 59667
+    },
+    {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 59702,
+        "end": 59714
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 59716,
+        "end": 59717
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 60007,
+        "end": 60009
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 60586,
+        "end": 60592
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 60756,
+        "end": 60762
+    },
+    {
+        "text": "one year",
+        "label": "DATE",
+        "start": 60994,
+        "end": 61002
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 61029,
+        "end": 61052
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 61054,
+        "end": 61057
+    },
+    {
+        "text": "6/17/2019\n11",
+        "label": "DATE",
+        "start": 61059,
+        "end": 61071
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 62637,
+        "end": 62639
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 63012,
+        "end": 63018
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 63220,
+        "end": 63226
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 63565,
+        "end": 63588
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 63590,
+        "end": 63593
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 63595,
+        "end": 63604
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 63605,
+        "end": 63607
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 64119,
+        "end": 64125
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64340,
+        "end": 64345
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 64692,
+        "end": 64698
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 64706,
+        "end": 64712
+    },
+    {
+        "text": "international, inc.",
+        "label": "ORG",
+        "start": 64713,
+        "end": 64732
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 64742,
+        "end": 64748
+    },
+    {
+        "text": "2002",
+        "label": "DATE",
+        "start": 64771,
+        "end": 64775
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 64781,
+        "end": 64787
+    },
+    {
+        "text": "louisville",
+        "label": "GPE",
+        "start": 64799,
+        "end": 64809
+    },
+    {
+        "text": "kentucky",
+        "label": "GPE",
+        "start": 64811,
+        "end": 64819
+    },
+    {
+        "text": "40299",
+        "label": "DATE",
+        "start": 64820,
+        "end": 64825
+    },
+    {
+        "text": "1411",
+        "label": "DATE",
+        "start": 64987,
+        "end": 64991
+    },
+    {
+        "text": "4th",
+        "label": "ORDINAL",
+        "start": 65002,
+        "end": 65005
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 65012,
+        "end": 65020
+    },
+    {
+        "text": "10018",
+        "label": "DATE",
+        "start": 65025,
+        "end": 65030
+    },
+    {
+        "text": "212",
+        "label": "CARDINAL",
+        "start": 65196,
+        "end": 65199
+    },
+    {
+        "text": "760",
+        "label": "CARDINAL",
+        "start": 65201,
+        "end": 65204
+    },
+    {
+        "text": "1411",
+        "label": "DATE",
+        "start": 65279,
+        "end": 65283
+    },
+    {
+        "text": "4th",
+        "label": "ORDINAL",
+        "start": 65294,
+        "end": 65297
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 65304,
+        "end": 65312
+    },
+    {
+        "text": "10018",
+        "label": "DATE",
+        "start": 65317,
+        "end": 65322
+    },
+    {
+        "text": "legaldeptabg-nyc.com",
+        "label": "ORG",
+        "start": 65379,
+        "end": 65399
+    },
+    {
+        "text": "212",
+        "label": "CARDINAL",
+        "start": 65419,
+        "end": 65422
+    },
+    {
+        "text": "760",
+        "label": "CARDINAL",
+        "start": 65424,
+        "end": 65427
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 65447,
+        "end": 65470
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 65472,
+        "end": 65475
+    },
+    {
+        "text": "6/17/2019",
+        "label": "CARDINAL",
+        "start": 65477,
+        "end": 65486
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 66198,
+        "end": 66204
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 66242,
+        "end": 66248
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 67050,
+        "end": 67053
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 67055,
+        "end": 67056
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 67435,
+        "end": 67458
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 67460,
+        "end": 67463
+    },
+    {
+        "text": "6/17/2019",
+        "label": "DATE",
+        "start": 67465,
+        "end": 67474
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 67593,
+        "end": 67599
+    },
+    {
+        "text": "6/6/19",
+        "label": "CARDINAL",
+        "start": 67642,
+        "end": 67648
+    },
+    {
+        "text": "june 11, 2019",
+        "label": "DATE",
+        "start": 67656,
+        "end": 67669
+    },
+    {
+        "text": "steve ritchie",
+        "label": "PERSON",
+        "start": 67680,
+        "end": 67693
+    },
+    {
+        "text": "jay dubiner",
+        "label": "PERSON",
+        "start": 67700,
+        "end": 67711
+    },
+    {
+        "text": "john’s",
+        "label": "PERSON",
+        "start": 67767,
+        "end": 67773
+    },
+    {
+        "text": "international, inc.",
+        "label": "ORG",
+        "start": 67774,
+        "end": 67793
+    },
+    {
+        "text": "6/6/19",
+        "label": "CARDINAL",
+        "start": 67800,
+        "end": 67806
+    },
+    {
+        "text": "steve ritchie",
+        "label": "PERSON",
+        "start": 67817,
+        "end": 67830
+    },
+    {
+        "text": "johns international inc",
+        "label": "ORG",
+        "start": 67871,
+        "end": 67894
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 67896,
+        "end": 67899
+    },
+    {
+        "text": "6/17/2019",
+        "label": "DATE",
+        "start": 67901,
+        "end": 67910
+    }
+]

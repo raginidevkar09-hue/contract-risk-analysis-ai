@@ -1,0 +1,1418 @@
+[
+    {
+        "text": "10.9",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 224,
+        "end": 226
+    },
+    {
+        "text": "connecticut",
+        "label": "GPE",
+        "start": 257,
+        "end": 268
+    },
+    {
+        "text": "06896",
+        "label": "DATE",
+        "start": 270,
+        "end": 275
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 446,
+        "end": 452
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 888,
+        "end": 891
+    },
+    {
+        "text": "li zhuang xi li",
+        "label": "PERSON",
+        "start": 895,
+        "end": 910
+    },
+    {
+        "text": "907",
+        "label": "CARDINAL",
+        "start": 918,
+        "end": 921
+    },
+    {
+        "text": "zhubang2000 plaza",
+        "label": "PERSON",
+        "start": 923,
+        "end": 940
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 957,
+        "end": 964
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 966,
+        "end": 971
+    },
+    {
+        "text": "mengdi xu",
+        "label": "PERSON",
+        "start": 1062,
+        "end": 1071
+    },
+    {
+        "text": "135",
+        "label": "CARDINAL",
+        "start": 1084,
+        "end": 1087
+    },
+    {
+        "text": "37211",
+        "label": "DATE",
+        "start": 1092,
+        "end": 1097
+    },
+    {
+        "text": "13911178981",
+        "label": "DATE",
+        "start": 1184,
+        "end": 1195
+    },
+    {
+        "text": "cheng",
+        "label": "PERSON",
+        "start": 1256,
+        "end": 1261
+    },
+    {
+        "text": "13011813916",
+        "label": "DATE",
+        "start": 1274,
+        "end": 1285
+    },
+    {
+        "text": "13161502302",
+        "label": "DATE",
+        "start": 1364,
+        "end": 1375
+    },
+    {
+        "text": "liang",
+        "label": "PERSON",
+        "start": 1479,
+        "end": 1484
+    },
+    {
+        "text": "wang",
+        "label": "ORG",
+        "start": 1492,
+        "end": 1496
+    },
+    {
+        "text": "136",
+        "label": "CARDINAL",
+        "start": 1509,
+        "end": 1512
+    },
+    {
+        "text": "2131",
+        "label": "DATE",
+        "start": 1513,
+        "end": 1517
+    },
+    {
+        "text": "5977",
+        "label": "DATE",
+        "start": 1518,
+        "end": 1522
+    },
+    {
+        "text": "13161502302",
+        "label": "DATE",
+        "start": 1596,
+        "end": 1607
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 1719,
+        "end": 1724
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 1726,
+        "end": 1735
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 1902,
+        "end": 1908
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 1910,
+        "end": 1912
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 1914,
+        "end": 1920
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 1952,
+        "end": 1957
+    },
+    {
+        "text": "one-year",
+        "label": "DATE",
+        "start": 2032,
+        "end": 2040
+    },
+    {
+        "text": "andrew zhang",
+        "label": "PERSON",
+        "start": 2301,
+        "end": 2313
+    },
+    {
+        "text": "andrew zhang",
+        "label": "PERSON",
+        "start": 2346,
+        "end": 2358
+    },
+    {
+        "text": "13/07/05",
+        "label": "CARDINAL",
+        "start": 2365,
+        "end": 2373
+    },
+    {
+        "text": "13/07/05",
+        "label": "CARDINAL",
+        "start": 2531,
+        "end": 2539
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 2581,
+        "end": 2586
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 2588,
+        "end": 2597
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 2676,
+        "end": 2677
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3669,
+        "end": 3674
+    },
+    {
+        "text": "imntv’s",
+        "label": "PERSON",
+        "start": 4620,
+        "end": 4627
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 4677,
+        "end": 4678
+    },
+    {
+        "text": "imntv’s",
+        "label": "PERSON",
+        "start": 4805,
+        "end": 4812
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 4863,
+        "end": 4869
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 5866,
+        "end": 5868
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 6363,
+        "end": 6368
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 6370,
+        "end": 6379
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 7121,
+        "end": 7127
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 7432,
+        "end": 7435
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7452,
+        "end": 7457
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 8071,
+        "end": 8076
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 8130,
+        "end": 8131
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 8158,
+        "end": 8161
+    },
+    {
+        "text": "american",
+        "label": "NORP",
+        "start": 8598,
+        "end": 8606
+    },
+    {
+        "text": "imntv’s",
+        "label": "PERSON",
+        "start": 8749,
+        "end": 8756
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 8907,
+        "end": 8910
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 9399,
+        "end": 9402
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 9663,
+        "end": 9670
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 9721,
+        "end": 9724
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 9733,
+        "end": 9736
+    },
+    {
+        "text": "imntv’s",
+        "label": "PERSON",
+        "start": 9803,
+        "end": 9810
+    },
+    {
+        "text": "keyword",
+        "label": "PERSON",
+        "start": 10050,
+        "end": 10057
+    },
+    {
+        "text": "campaigns;",
+        "label": "PERSON",
+        "start": 10335,
+        "end": 10345
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 10565,
+        "end": 10570
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 10572,
+        "end": 10581
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10727,
+        "end": 10732
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 10810,
+        "end": 10815
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 10995,
+        "end": 10998
+    },
+    {
+        "text": "imntv’s",
+        "label": "PERSON",
+        "start": 11762,
+        "end": 11769
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 12029,
+        "end": 12032
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 12611,
+        "end": 12616
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 12725,
+        "end": 12726
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 12728,
+        "end": 12733
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 12747,
+        "end": 12750
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 13232,
+        "end": 13235
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 13374,
+        "end": 13376
+    },
+    {
+        "text": "seconds",
+        "label": "TIME",
+        "start": 13378,
+        "end": 13385
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 13564,
+        "end": 13567
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 13595,
+        "end": 13598
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 13612,
+        "end": 13615
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 13641,
+        "end": 13646
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 13846,
+        "end": 13849
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 14010,
+        "end": 14013
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 14087,
+        "end": 14090
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 14092,
+        "end": 14093
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 14305,
+        "end": 14308
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 15002,
+        "end": 15003
+    },
+    {
+        "text": "chinese",
+        "label": "NORP",
+        "start": 15182,
+        "end": 15189
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 15297,
+        "end": 15302
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 15304,
+        "end": 15313
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 15314,
+        "end": 15315
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 15328,
+        "end": 15331
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 16107,
+        "end": 16110
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 17279,
+        "end": 17280
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 17301,
+        "end": 17304
+    },
+    {
+        "text": "each quarter",
+        "label": "DATE",
+        "start": 17484,
+        "end": 17496
+    },
+    {
+        "text": "55",
+        "label": "CARDINAL",
+        "start": 17579,
+        "end": 17581
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 17940,
+        "end": 17946
+    },
+    {
+        "text": "month",
+        "label": "DATE",
+        "start": 18196,
+        "end": 18201
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 18435,
+        "end": 18438
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 18528,
+        "end": 18537
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 18625,
+        "end": 18630
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 18644,
+        "end": 18649
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 18714,
+        "end": 18719
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 18942,
+        "end": 18947
+    },
+    {
+        "text": "last month",
+        "label": "DATE",
+        "start": 19056,
+        "end": 19066
+    },
+    {
+        "text": "charged;",
+        "label": "NORP",
+        "start": 19362,
+        "end": 19370
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 19561,
+        "end": 19562
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 19648,
+        "end": 19649
+    },
+    {
+        "text": "30-45 days",
+        "label": "DATE",
+        "start": 19651,
+        "end": 19661
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 19699,
+        "end": 19700
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 19915,
+        "end": 19922
+    },
+    {
+        "text": "chinese",
+        "label": "NORP",
+        "start": 20028,
+        "end": 20035
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 20118,
+        "end": 20123
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 20125,
+        "end": 20134
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 20136,
+        "end": 20139
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 20249,
+        "end": 20252
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 20584,
+        "end": 20587
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 20637,
+        "end": 20646
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 20657,
+        "end": 20664
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 20763,
+        "end": 20764
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 20915,
+        "end": 20916
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 20930,
+        "end": 20933
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 21103,
+        "end": 21105
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 21142,
+        "end": 21145
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 21506,
+        "end": 21509
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 22138,
+        "end": 22141
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 22381,
+        "end": 22384
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 22386,
+        "end": 22389
+    },
+    {
+        "text": "90",
+        "label": "CARDINAL",
+        "start": 22796,
+        "end": 22798
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 22872,
+        "end": 22875
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 22930,
+        "end": 22933
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 23131,
+        "end": 23134
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 23237,
+        "end": 23240
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 23244,
+        "end": 23247
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 23345,
+        "end": 23346
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 23348,
+        "end": 23351
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 23353,
+        "end": 23356
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 23358,
+        "end": 23361
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 23363,
+        "end": 23366
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 23368,
+        "end": 23369
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 23375,
+        "end": 23376
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 23465,
+        "end": 23466
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 23499,
+        "end": 23502
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 24409,
+        "end": 24414
+    },
+    {
+        "text": "imntv’s",
+        "label": "PERSON",
+        "start": 24931,
+        "end": 24938
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 25004,
+        "end": 25009
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 25011,
+        "end": 25020
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 25312,
+        "end": 25317
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 25724,
+        "end": 25727
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 26912,
+        "end": 26915
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 27044,
+        "end": 27049
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 27427,
+        "end": 27430
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 28105,
+        "end": 28108
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 28603,
+        "end": 28606
+    },
+    {
+        "text": "imntv’s",
+        "label": "PERSON",
+        "start": 28916,
+        "end": 28923
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 29018,
+        "end": 29019
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 29029,
+        "end": 29032
+    },
+    {
+        "text": "20 old",
+        "label": "TIME",
+        "start": 29281,
+        "end": 29287
+    },
+    {
+        "text": "06896",
+        "label": "DATE",
+        "start": 29316,
+        "end": 29321
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 29713,
+        "end": 29718
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 29720,
+        "end": 29729
+    },
+    {
+        "text": "saturday",
+        "label": "DATE",
+        "start": 29802,
+        "end": 29810
+    },
+    {
+        "text": "sunday",
+        "label": "DATE",
+        "start": 29812,
+        "end": 29818
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 29992,
+        "end": 29995
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 30129,
+        "end": 30132
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 31003,
+        "end": 31005
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 31079,
+        "end": 31082
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 31333,
+        "end": 31336
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 31338,
+        "end": 31339
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 31567,
+        "end": 31572
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 32345,
+        "end": 32348
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 32623,
+        "end": 32626
+    },
+    {
+        "text": "god",
+        "label": "PERSON",
+        "start": 32895,
+        "end": 32898
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 33397,
+        "end": 33399
+    },
+    {
+        "text": "9.6",
+        "label": "CARDINAL",
+        "start": 33407,
+        "end": 33410
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 33749,
+        "end": 33755
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 34428,
+        "end": 34435
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 34525,
+        "end": 34530
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 34532,
+        "end": 34541
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 34554,
+        "end": 34555
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 34581,
+        "end": 34586
+    },
+    {
+        "text": "ftp",
+        "label": "ORG",
+        "start": 34945,
+        "end": 34948
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 34951,
+        "end": 34952
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 34997,
+        "end": 35000
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 35020,
+        "end": 35025
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 35180,
+        "end": 35183
+    },
+    {
+        "text": "imntv’s",
+        "label": "PERSON",
+        "start": 35202,
+        "end": 35209
+    },
+    {
+        "text": "ftp",
+        "label": "ORG",
+        "start": 35292,
+        "end": 35295
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 35366,
+        "end": 35371
+    },
+    {
+        "text": "24\nhours",
+        "label": "TIME",
+        "start": 35506,
+        "end": 35514
+    },
+    {
+        "text": "7 days/week",
+        "label": "DATE",
+        "start": 35520,
+        "end": 35531
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 35858,
+        "end": 35863
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 35955,
+        "end": 35960
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 35962,
+        "end": 35971
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 36020,
+        "end": 36021
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 36053,
+        "end": 36056
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 36545,
+        "end": 36546
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 36603,
+        "end": 36606
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 36900,
+        "end": 36901
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 36906,
+        "end": 36910
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 36912,
+        "end": 36913
+    },
+    {
+        "text": "seconds",
+        "label": "TIME",
+        "start": 36915,
+        "end": 36922
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 37233,
+        "end": 37234
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 37266,
+        "end": 37269
+    },
+    {
+        "text": "96h",
+        "label": "DATE",
+        "start": 37367,
+        "end": 37370
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 37494,
+        "end": 37497
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 38091,
+        "end": 38096
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 38098,
+        "end": 38107
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 38166,
+        "end": 38171
+    },
+    {
+        "text": "unicom",
+        "label": "PRODUCT",
+        "start": 38172,
+        "end": 38178
+    },
+    {
+        "text": "tianjin",
+        "label": "GPE",
+        "start": 38179,
+        "end": 38186
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 38195,
+        "end": 38196
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 38404,
+        "end": 38409
+    },
+    {
+        "text": "unicom",
+        "label": "GPE",
+        "start": 38410,
+        "end": 38416
+    },
+    {
+        "text": "tianjin",
+        "label": "GPE",
+        "start": 38417,
+        "end": 38424
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 38583,
+        "end": 38588
+    },
+    {
+        "text": "unicom",
+        "label": "PRODUCT",
+        "start": 38589,
+        "end": 38595
+    },
+    {
+        "text": "tianjin",
+        "label": "GPE",
+        "start": 38596,
+        "end": 38603
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 38617,
+        "end": 38618
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 38645,
+        "end": 38650
+    },
+    {
+        "text": "unicom",
+        "label": "PRODUCT",
+        "start": 38651,
+        "end": 38657
+    },
+    {
+        "text": "tianjin",
+        "label": "GPE",
+        "start": 38658,
+        "end": 38665
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 38764,
+        "end": 38767
+    },
+    {
+        "text": "three\nmonths",
+        "label": "DATE",
+        "start": 38771,
+        "end": 38783
+    },
+    {
+        "text": "imntv",
+        "label": "PERSON",
+        "start": 38785,
+        "end": 38790
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 38863,
+        "end": 38868
+    },
+    {
+        "text": "unicom",
+        "label": "PRODUCT",
+        "start": 38869,
+        "end": 38875
+    },
+    {
+        "text": "tianjin",
+        "label": "GPE",
+        "start": 38876,
+        "end": 38883
+    },
+    {
+        "text": "october 1",
+        "label": "DATE",
+        "start": 38952,
+        "end": 38961
+    },
+    {
+        "text": "2005",
+        "label": "DATE",
+        "start": 38963,
+        "end": 38967
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 38969,
+        "end": 38974
+    },
+    {
+        "text": "unicom",
+        "label": "PRODUCT",
+        "start": 38975,
+        "end": 38981
+    },
+    {
+        "text": "tianjin",
+        "label": "GPE",
+        "start": 38982,
+        "end": 38989
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 39167,
+        "end": 39168
+    },
+    {
+        "text": "10ksb",
+        "label": "DATE",
+        "start": 39304,
+        "end": 39309
+    },
+    {
+        "text": "9/28/2005",
+        "label": "DATE",
+        "start": 39311,
+        "end": 39320
+    }
+]

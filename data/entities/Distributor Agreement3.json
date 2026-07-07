@@ -1,0 +1,1304 @@
+[
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "the 12th\nday of november, 2019",
+        "label": "DATE",
+        "start": 133,
+        "end": 163
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 220,
+        "end": 225
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 276,
+        "end": 281
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 419,
+        "end": 424
+    },
+    {
+        "text": "a. hydraspin",
+        "label": "PERSON",
+        "start": 603,
+        "end": 615
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 659,
+        "end": 687
+    },
+    {
+        "text": "b. hydraspin desires",
+        "label": "PERSON",
+        "start": 872,
+        "end": 892
+    },
+    {
+        "text": "article i.\ndefinitions",
+        "label": "PERSON",
+        "start": 1356,
+        "end": 1378
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 1379,
+        "end": 1382
+    },
+    {
+        "text": "more than 50",
+        "label": "CARDINAL",
+        "start": 2298,
+        "end": 2310
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 2843,
+        "end": 2848
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 2849,
+        "end": 2852
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 2854,
+        "end": 2856
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 2878,
+        "end": 2881
+    },
+    {
+        "text": "eleventh",
+        "label": "ORDINAL",
+        "start": 2915,
+        "end": 2923
+    },
+    {
+        "text": "11th",
+        "label": "ORDINAL",
+        "start": 2925,
+        "end": 2929
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 2988,
+        "end": 2990
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 3096,
+        "end": 3098
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 4154,
+        "end": 4159
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 4160,
+        "end": 4163
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 4165,
+        "end": 4167
+    },
+    {
+        "text": "92.5",
+        "label": "CARDINAL",
+        "start": 4189,
+        "end": 4193
+    },
+    {
+        "text": "eleventh",
+        "label": "ORDINAL",
+        "start": 4227,
+        "end": 4235
+    },
+    {
+        "text": "11th",
+        "label": "ORDINAL",
+        "start": 4237,
+        "end": 4241
+    },
+    {
+        "text": "85",
+        "label": "CARDINAL",
+        "start": 4300,
+        "end": 4302
+    },
+    {
+        "text": "african",
+        "label": "NORP",
+        "start": 5441,
+        "end": 5448
+    },
+    {
+        "text": "50",
+        "label": "DATE",
+        "start": 5774,
+        "end": 5776
+    },
+    {
+        "text": "less than 50",
+        "label": "CARDINAL",
+        "start": 5800,
+        "end": 5812
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 6197,
+        "end": 6200
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 6262,
+        "end": 6264
+    },
+    {
+        "text": "each 12 month",
+        "label": "DATE",
+        "start": 6342,
+        "end": 6355
+    },
+    {
+        "text": "7,500 barrels",
+        "label": "QUANTITY",
+        "start": 6469,
+        "end": 6482
+    },
+    {
+        "text": "12 month",
+        "label": "DATE",
+        "start": 6514,
+        "end": 6522
+    },
+    {
+        "text": "90 days",
+        "label": "DATE",
+        "start": 6591,
+        "end": 6598
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 6754,
+        "end": 6756
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 6771,
+        "end": 6773
+    },
+    {
+        "text": "12 month",
+        "label": "DATE",
+        "start": 6803,
+        "end": 6811
+    },
+    {
+        "text": "12 month",
+        "label": "DATE",
+        "start": 6909,
+        "end": 6917
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 7135,
+        "end": 7137
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 7143,
+        "end": 7145
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7854,
+        "end": 7859
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 7887,
+        "end": 7890
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 8565,
+        "end": 8568
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 8632,
+        "end": 8635
+    },
+    {
+        "text": "article ii",
+        "label": "LAW",
+        "start": 8885,
+        "end": 8895
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 8909,
+        "end": 8912
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 9479,
+        "end": 9496
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 9535,
+        "end": 9540
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 9695,
+        "end": 9698
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 10137,
+        "end": 10140
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 10259,
+        "end": 10261
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10512,
+        "end": 10517
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 10720,
+        "end": 10723
+    },
+    {
+        "text": "article iii",
+        "label": "PERSON",
+        "start": 11914,
+        "end": 11925
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 11947,
+        "end": 11950
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 12134,
+        "end": 12137
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 12583,
+        "end": 12586
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 12960,
+        "end": 12963
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 13166,
+        "end": 13169
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 13616,
+        "end": 13618
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 13633,
+        "end": 13636
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 13931,
+        "end": 13934
+    },
+    {
+        "text": "alter and/or",
+        "label": "ORG",
+        "start": 13987,
+        "end": 13999
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 14092,
+        "end": 14095
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 14662,
+        "end": 14665
+    },
+    {
+        "text": "4.6",
+        "label": "CARDINAL",
+        "start": 15375,
+        "end": 15378
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 15757,
+        "end": 15760
+    },
+    {
+        "text": "article v.",
+        "label": "PERSON",
+        "start": 16525,
+        "end": 16535
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 16556,
+        "end": 16559
+    },
+    {
+        "text": "no less than 120 days",
+        "label": "DATE",
+        "start": 16818,
+        "end": 16839
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 17028,
+        "end": 17041
+    },
+    {
+        "text": "10) day",
+        "label": "DATE",
+        "start": 17134,
+        "end": 17141
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 17295,
+        "end": 17300
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 17302,
+        "end": 17310
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 17354,
+        "end": 17357
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 17577,
+        "end": 17579
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 18693,
+        "end": 18696
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 19249,
+        "end": 19252
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 19900,
+        "end": 19903
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 20564,
+        "end": 20567
+    },
+    {
+        "text": "article vii",
+        "label": "PRODUCT",
+        "start": 21262,
+        "end": 21273
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 21306,
+        "end": 21309
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 21427,
+        "end": 21429
+    },
+    {
+        "text": "hydraspin",
+        "label": "PERSON",
+        "start": 21491,
+        "end": 21500
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 23432,
+        "end": 23435
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 25173,
+        "end": 25175
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 25543,
+        "end": 25546
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 26069,
+        "end": 26074
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 26148,
+        "end": 26151
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 26602,
+        "end": 26605
+    },
+    {
+        "text": "acknowledges hydraspin",
+        "label": "PERSON",
+        "start": 26638,
+        "end": 26660
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 27181,
+        "end": 27184
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 27755,
+        "end": 27758
+    },
+    {
+        "text": "confidential and/or proprietary information",
+        "label": "ORG",
+        "start": 28342,
+        "end": 28385
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 28386,
+        "end": 28389
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 28610,
+        "end": 28612
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 30391,
+        "end": 30396
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 30467,
+        "end": 30472
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 31036,
+        "end": 31039
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 31150,
+        "end": 31155
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 31750,
+        "end": 31753
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 32230,
+        "end": 32233
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 32359,
+        "end": 32361
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 32721,
+        "end": 32725
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 32819,
+        "end": 32823
+    },
+    {
+        "text": "year anniversary",
+        "label": "DATE",
+        "start": 32828,
+        "end": 32844
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 33066,
+        "end": 33070
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 33072,
+        "end": 33073
+    },
+    {
+        "text": "at least one hundred twenty",
+        "label": "CARDINAL",
+        "start": 33175,
+        "end": 33202
+    },
+    {
+        "text": "120) days",
+        "label": "DATE",
+        "start": 33204,
+        "end": 33213
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 33267,
+        "end": 33271
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 33723,
+        "end": 33724
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 33838,
+        "end": 33839
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 33951,
+        "end": 33952
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 34029,
+        "end": 34030
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 34173,
+        "end": 34174
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 34594,
+        "end": 34595
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 35076,
+        "end": 35084
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 35194,
+        "end": 35196
+    },
+    {
+        "text": "8)",
+        "label": "CARDINAL",
+        "start": 35212,
+        "end": 35214
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 35280,
+        "end": 35281
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 35510,
+        "end": 35514
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 36030,
+        "end": 36035
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 36037,
+        "end": 36038
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 36140,
+        "end": 36141
+    },
+    {
+        "text": "the 18 months",
+        "label": "DATE",
+        "start": 36205,
+        "end": 36218
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 36276,
+        "end": 36277
+    },
+    {
+        "text": "the 30 days",
+        "label": "DATE",
+        "start": 36337,
+        "end": 36348
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 36417,
+        "end": 36419
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 36657,
+        "end": 36661
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 37039,
+        "end": 37048
+    },
+    {
+        "text": "next day",
+        "label": "DATE",
+        "start": 37070,
+        "end": 37078
+    },
+    {
+        "text": "hydraspin usa, inc.",
+        "label": "ORG",
+        "start": 37174,
+        "end": 37193
+    },
+    {
+        "text": "5000",
+        "label": "CARDINAL",
+        "start": 37194,
+        "end": 37198
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 37220,
+        "end": 37223
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 37236,
+        "end": 37241
+    },
+    {
+        "text": "76115",
+        "label": "CARDINAL",
+        "start": 37242,
+        "end": 37247
+    },
+    {
+        "text": "david king",
+        "label": "PERSON",
+        "start": 37254,
+        "end": 37264
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 37466,
+        "end": 37468
+    },
+    {
+        "text": "the fifth day",
+        "label": "DATE",
+        "start": 37770,
+        "end": 37783
+    },
+    {
+        "text": "the next business day",
+        "label": "DATE",
+        "start": 37831,
+        "end": 37852
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 37891,
+        "end": 37900
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 37918,
+        "end": 37925
+    },
+    {
+        "text": "5:00 p.m.",
+        "label": "TIME",
+        "start": 37977,
+        "end": 37986
+    },
+    {
+        "text": "the next business day",
+        "label": "DATE",
+        "start": 38018,
+        "end": 38039
+    },
+    {
+        "text": "5:00 p.m.",
+        "label": "TIME",
+        "start": 38077,
+        "end": 38086
+    },
+    {
+        "text": "a business day",
+        "label": "DATE",
+        "start": 38132,
+        "end": 38146
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 38148,
+        "end": 38152
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 38912,
+        "end": 38916
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 39551,
+        "end": 39555
+    },
+    {
+        "text": "11.5",
+        "label": "CARDINAL",
+        "start": 40133,
+        "end": 40137
+    },
+    {
+        "text": "11.6",
+        "label": "CARDINAL",
+        "start": 40629,
+        "end": 40633
+    },
+    {
+        "text": "11.7",
+        "label": "CARDINAL",
+        "start": 40782,
+        "end": 40786
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 41026,
+        "end": 41028
+    },
+    {
+        "text": "11.8",
+        "label": "CARDINAL",
+        "start": 41043,
+        "end": 41047
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 41230,
+        "end": 41235
+    },
+    {
+        "text": "11.9",
+        "label": "CARDINAL",
+        "start": 41299,
+        "end": 41303
+    },
+    {
+        "text": "collin county",
+        "label": "GPE",
+        "start": 41816,
+        "end": 41829
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 41831,
+        "end": 41836
+    },
+    {
+        "text": "the american arbitration association",
+        "label": "ORG",
+        "start": 41923,
+        "end": 41959
+    },
+    {
+        "text": "five hundred thousand\ndollars",
+        "label": "QUANTITY",
+        "start": 42074,
+        "end": 42103
+    },
+    {
+        "text": "500,000",
+        "label": "CARDINAL",
+        "start": 42105,
+        "end": 42112
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 42206,
+        "end": 42211
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 42213,
+        "end": 42214
+    },
+    {
+        "text": "11.10",
+        "label": "CARDINAL",
+        "start": 43258,
+        "end": 43263
+    },
+    {
+        "text": "collin",
+        "label": "GPE",
+        "start": 43593,
+        "end": 43599
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 43610,
+        "end": 43615
+    },
+    {
+        "text": "11.11",
+        "label": "CARDINAL",
+        "start": 43897,
+        "end": 43902
+    },
+    {
+        "text": "11.12",
+        "label": "CARDINAL",
+        "start": 44095,
+        "end": 44100
+    },
+    {
+        "text": "11.13",
+        "label": "CARDINAL",
+        "start": 44269,
+        "end": 44274
+    },
+    {
+        "text": "11.14",
+        "label": "CARDINAL",
+        "start": 45124,
+        "end": 45129
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 45348,
+        "end": 45350
+    },
+    {
+        "text": "11.15",
+        "label": "CARDINAL",
+        "start": 45544,
+        "end": 45549
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 45732,
+        "end": 45735
+    },
+    {
+        "text": "11.16 third",
+        "label": "CARDINAL",
+        "start": 45899,
+        "end": 45910
+    },
+    {
+        "text": "11.17",
+        "label": "CARDINAL",
+        "start": 46176,
+        "end": 46181
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 46238,
+        "end": 46245
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 46334,
+        "end": 46336
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 46469,
+        "end": 46474
+    },
+    {
+        "text": "david king",
+        "label": "PERSON",
+        "start": 46529,
+        "end": 46539
+    },
+    {
+        "text": "david king",
+        "label": "PERSON",
+        "start": 46612,
+        "end": 46622
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 46777,
+        "end": 46779
+    },
+    {
+        "text": "african",
+        "label": "NORP",
+        "start": 46813,
+        "end": 46820
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 46884,
+        "end": 46886
+    },
+    {
+        "text": "san juan",
+        "label": "GPE",
+        "start": 46976,
+        "end": 46984
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 47008,
+        "end": 47012
+    },
+    {
+        "text": "united states",
+        "label": "GPE",
+        "start": 47048,
+        "end": 47061
+    },
+    {
+        "text": "san juan",
+        "label": "GPE",
+        "start": 47067,
+        "end": 47075
+    },
+    {
+        "text": "7,500 square miles",
+        "label": "QUANTITY",
+        "start": 47149,
+        "end": 47167
+    },
+    {
+        "text": "new mexico",
+        "label": "GPE",
+        "start": 47196,
+        "end": 47206
+    },
+    {
+        "text": "colorado",
+        "label": "GPE",
+        "start": 47221,
+        "end": 47229
+    },
+    {
+        "text": "utah",
+        "label": "GPE",
+        "start": 47244,
+        "end": 47248
+    },
+    {
+        "text": "arizona",
+        "label": "GPE",
+        "start": 47253,
+        "end": 47260
+    },
+    {
+        "text": "san juan",
+        "label": "GPE",
+        "start": 47280,
+        "end": 47288
+    },
+    {
+        "text": "the san juan",
+        "label": "LOC",
+        "start": 47313,
+        "end": 47325
+    },
+    {
+        "text": "mckinley",
+        "label": "GPE",
+        "start": 47353,
+        "end": 47361
+    },
+    {
+        "text": "new mexico",
+        "label": "GPE",
+        "start": 47374,
+        "end": 47384
+    },
+    {
+        "text": "colorado",
+        "label": "GPE",
+        "start": 47425,
+        "end": 47433
+    },
+    {
+        "text": "permian",
+        "label": "NORP",
+        "start": 47442,
+        "end": 47449
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 47492,
+        "end": 47509
+    },
+    {
+        "text": "permian",
+        "label": "NORP",
+        "start": 47515,
+        "end": 47522
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 47625,
+        "end": 47630
+    },
+    {
+        "text": "new mexico",
+        "label": "GPE",
+        "start": 47648,
+        "end": 47658
+    },
+    {
+        "text": "midland",
+        "label": "GPE",
+        "start": 47702,
+        "end": 47709
+    },
+    {
+        "text": "west central texas",
+        "label": "GPE",
+        "start": 47771,
+        "end": 47789
+    },
+    {
+        "text": "new mexico",
+        "label": "GPE",
+        "start": 47844,
+        "end": 47854
+    },
+    {
+        "text": "ford",
+        "label": "ORG",
+        "start": 47869,
+        "end": 47873
+    },
+    {
+        "text": "ford",
+        "label": "ORG",
+        "start": 47909,
+        "end": 47913
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 47957,
+        "end": 47962
+    },
+    {
+        "text": "ford",
+        "label": "ORG",
+        "start": 47974,
+        "end": 47978
+    },
+    {
+        "text": "ford",
+        "label": "ORG",
+        "start": 48041,
+        "end": 48045
+    },
+    {
+        "text": "oklahoma",
+        "label": "GPE",
+        "start": 48077,
+        "end": 48085
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 48086,
+        "end": 48091
+    },
+    {
+        "text": "san antonio",
+        "label": "GPE",
+        "start": 48112,
+        "end": 48123
+    },
+    {
+        "text": "west texas",
+        "label": "GPE",
+        "start": 48206,
+        "end": 48216
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 48243,
+        "end": 48245
+    }
+]

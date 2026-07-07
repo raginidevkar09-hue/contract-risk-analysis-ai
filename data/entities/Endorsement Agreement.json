@@ -1,0 +1,1448 @@
+[
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "october 30, 2017",
+        "label": "DATE",
+        "start": 83,
+        "end": 99
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 152,
+        "end": 162
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 237,
+        "end": 247
+    },
+    {
+        "text": "1311",
+        "label": "DATE",
+        "start": 280,
+        "end": 284
+    },
+    {
+        "text": "madison avenue",
+        "label": "FAC",
+        "start": 285,
+        "end": 299
+    },
+    {
+        "text": "94061;",
+        "label": "CARDINAL",
+        "start": 312,
+        "end": 318
+    },
+    {
+        "text": "florida",
+        "label": "GPE",
+        "start": 420,
+        "end": 427
+    },
+    {
+        "text": "8000",
+        "label": "CARDINAL",
+        "start": 460,
+        "end": 464
+    },
+    {
+        "text": "130",
+        "label": "CARDINAL",
+        "start": 482,
+        "end": 485
+    },
+    {
+        "text": "08054",
+        "label": "DATE",
+        "start": 508,
+        "end": 513
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 584,
+        "end": 594
+    },
+    {
+        "text": "nevada",
+        "label": "GPE",
+        "start": 663,
+        "end": 669
+    },
+    {
+        "text": "1119 west 1st",
+        "label": "DATE",
+        "start": 706,
+        "end": 719
+    },
+    {
+        "text": "99201",
+        "label": "DATE",
+        "start": 745,
+        "end": 750
+    },
+    {
+        "text": "nfla",
+        "label": "PERSON",
+        "start": 804,
+        "end": 808
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 1127,
+        "end": 1134
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1886,
+        "end": 1891
+    },
+    {
+        "text": "3) years",
+        "label": "DATE",
+        "start": 1893,
+        "end": 1901
+    },
+    {
+        "text": "november 1st, 2017",
+        "label": "DATE",
+        "start": 1916,
+        "end": 1934
+    },
+    {
+        "text": "november 2nd, 2020",
+        "label": "DATE",
+        "start": 1950,
+        "end": 1968
+    },
+    {
+        "text": "c.",
+        "label": "CARDINAL",
+        "start": 2086,
+        "end": 2088
+    },
+    {
+        "text": "12-month",
+        "label": "DATE",
+        "start": 2140,
+        "end": 2148
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 2239,
+        "end": 2266
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 2268,
+        "end": 2271
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 2273,
+        "end": 2282
+    },
+    {
+        "text": "gridiron mvp",
+        "label": "ORG",
+        "start": 2947,
+        "end": 2959
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3813,
+        "end": 3818
+    },
+    {
+        "text": "nfla",
+        "label": "PERSON",
+        "start": 4036,
+        "end": 4040
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 4341,
+        "end": 4346
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 4407,
+        "end": 4411
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 4937,
+        "end": 4945
+    },
+    {
+        "text": "nfla marks",
+        "label": "ORG",
+        "start": 5368,
+        "end": 5378
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 5842,
+        "end": 5846
+    },
+    {
+        "text": "nfla marks",
+        "label": "ORG",
+        "start": 5913,
+        "end": 5923
+    },
+    {
+        "text": "secondary",
+        "label": "ORDINAL",
+        "start": 5973,
+        "end": 5982
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 6001,
+        "end": 6028
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 6030,
+        "end": 6033
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 6035,
+        "end": 6044
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 6144,
+        "end": 6148
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 6335,
+        "end": 6338
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 6340,
+        "end": 6341
+    },
+    {
+        "text": "0.05",
+        "label": "CARDINAL",
+        "start": 6365,
+        "end": 6369
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 6371,
+        "end": 6372
+    },
+    {
+        "text": "less than one",
+        "label": "CARDINAL",
+        "start": 6592,
+        "end": 6605
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 6607,
+        "end": 6608
+    },
+    {
+        "text": "section two",
+        "label": "LAW",
+        "start": 6731,
+        "end": 6742
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 6816,
+        "end": 6820
+    },
+    {
+        "text": "nfla",
+        "label": "PERSON",
+        "start": 7157,
+        "end": 7161
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 8068,
+        "end": 8073
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 8206,
+        "end": 8210
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 8571,
+        "end": 8574
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 9476,
+        "end": 9503
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 9505,
+        "end": 9508
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 9510,
+        "end": 9519
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 9529,
+        "end": 9533
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 9687,
+        "end": 9690
+    },
+    {
+        "text": "35,000.00usd",
+        "label": "CARDINAL",
+        "start": 9711,
+        "end": 9723
+    },
+    {
+        "text": "thirty-five thousand dollars",
+        "label": "CARDINAL",
+        "start": 9725,
+        "end": 9753
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 9785,
+        "end": 9788
+    },
+    {
+        "text": "ten thousand dollars",
+        "label": "MONEY",
+        "start": 9805,
+        "end": 9825
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 9854,
+        "end": 9858
+    },
+    {
+        "text": "10,000",
+        "label": "CARDINAL",
+        "start": 9864,
+        "end": 9870
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 9907,
+        "end": 9911
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 9913,
+        "end": 9914
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 9916,
+        "end": 9925
+    },
+    {
+        "text": "2018",
+        "label": "DATE",
+        "start": 9948,
+        "end": 9952
+    },
+    {
+        "text": "2500);",
+        "label": "CARDINAL",
+        "start": 9958,
+        "end": 9964
+    },
+    {
+        "text": "2500);",
+        "label": "CARDINAL",
+        "start": 9969,
+        "end": 9975
+    },
+    {
+        "text": "q3",
+        "label": "PERSON",
+        "start": 9976,
+        "end": 9978
+    },
+    {
+        "text": "2500);",
+        "label": "CARDINAL",
+        "start": 9980,
+        "end": 9986
+    },
+    {
+        "text": "q4",
+        "label": "PERSON",
+        "start": 9987,
+        "end": 9989
+    },
+    {
+        "text": "2500",
+        "label": "CARDINAL",
+        "start": 9991,
+        "end": 9995
+    },
+    {
+        "text": "no later than the 10th day",
+        "label": "DATE",
+        "start": 10033,
+        "end": 10059
+    },
+    {
+        "text": "the first month of each quarter",
+        "label": "DATE",
+        "start": 10063,
+        "end": 10094
+    },
+    {
+        "text": "0.05",
+        "label": "CARDINAL",
+        "start": 10114,
+        "end": 10118
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 10219,
+        "end": 10229
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 10303,
+        "end": 10313
+    },
+    {
+        "text": "the first full quarter",
+        "label": "DATE",
+        "start": 10335,
+        "end": 10357
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 10359,
+        "end": 10364
+    },
+    {
+        "text": "3) month",
+        "label": "DATE",
+        "start": 10366,
+        "end": 10374
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 10418,
+        "end": 10427
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10566,
+        "end": 10567
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10602,
+        "end": 10603
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10614,
+        "end": 10615
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 10617,
+        "end": 10618
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 10653,
+        "end": 10655
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10667,
+        "end": 10668
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10704,
+        "end": 10705
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10716,
+        "end": 10717
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10750,
+        "end": 10751
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10762,
+        "end": 10763
+    },
+    {
+        "text": "gridiron mvp",
+        "label": "ORG",
+        "start": 10772,
+        "end": 10784
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10793,
+        "end": 10794
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10805,
+        "end": 10806
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 10808,
+        "end": 10809
+    },
+    {
+        "text": "gridiron mvp",
+        "label": "ORG",
+        "start": 10822,
+        "end": 10834
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 10850,
+        "end": 10852
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 10899,
+        "end": 10901
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 10980,
+        "end": 10984
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 11017,
+        "end": 11026
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 11077,
+        "end": 11079
+    },
+    {
+        "text": "two-thousand",
+        "label": "CARDINAL",
+        "start": 11106,
+        "end": 11118
+    },
+    {
+        "text": "2,000",
+        "label": "CARDINAL",
+        "start": 11120,
+        "end": 11125
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 11127,
+        "end": 11128
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 11210,
+        "end": 11216
+    },
+    {
+        "text": "220,000",
+        "label": "CARDINAL",
+        "start": 11245,
+        "end": 11252
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 11338,
+        "end": 11345
+    },
+    {
+        "text": "fort lauderdale",
+        "label": "GPE",
+        "start": 11589,
+        "end": 11604
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 12053,
+        "end": 12055
+    },
+    {
+        "text": "september 2017",
+        "label": "DATE",
+        "start": 12325,
+        "end": 12339
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 12369,
+        "end": 12376
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 12485,
+        "end": 12512
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 12514,
+        "end": 12517
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 12519,
+        "end": 12528
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 12538,
+        "end": 12542
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 12842,
+        "end": 12845
+    },
+    {
+        "text": "nfla-nc",
+        "label": "GPE",
+        "start": 12859,
+        "end": 12866
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 13225,
+        "end": 13229
+    },
+    {
+        "text": "each day",
+        "label": "DATE",
+        "start": 13363,
+        "end": 13371
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 13631,
+        "end": 13635
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 13638,
+        "end": 13645
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 13776,
+        "end": 13780
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 13783,
+        "end": 13790
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 13865,
+        "end": 13872
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 13918,
+        "end": 13922
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 13925,
+        "end": 13932
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 14044,
+        "end": 14051
+    },
+    {
+        "text": "c.",
+        "label": "CARDINAL",
+        "start": 14275,
+        "end": 14277
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 14306,
+        "end": 14313
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 14928,
+        "end": 14932
+    },
+    {
+        "text": "nfla-nc’s",
+        "label": "PERSON",
+        "start": 14962,
+        "end": 14971
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 15228,
+        "end": 15230
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 15585,
+        "end": 15589
+    },
+    {
+        "text": "exhibit b.",
+        "label": "PERSON",
+        "start": 15638,
+        "end": 15648
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 15658,
+        "end": 15685
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 15687,
+        "end": 15690
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 15692,
+        "end": 15701
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 15711,
+        "end": 15716
+    },
+    {
+        "text": "nfla-nc",
+        "label": "GPE",
+        "start": 15796,
+        "end": 15803
+    },
+    {
+        "text": "each quarter",
+        "label": "DATE",
+        "start": 15858,
+        "end": 15870
+    },
+    {
+        "text": "0.05",
+        "label": "CARDINAL",
+        "start": 15884,
+        "end": 15888
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 15982,
+        "end": 15989
+    },
+    {
+        "text": "the first full quarter",
+        "label": "DATE",
+        "start": 16067,
+        "end": 16089
+    },
+    {
+        "text": "three month",
+        "label": "DATE",
+        "start": 16091,
+        "end": 16102
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 16146,
+        "end": 16155
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 16285,
+        "end": 16286
+    },
+    {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 16440,
+        "end": 16445
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 16635,
+        "end": 16639
+    },
+    {
+        "text": "1147",
+        "label": "DATE",
+        "start": 17125,
+        "end": 17129
+    },
+    {
+        "text": "93291",
+        "label": "DATE",
+        "start": 17163,
+        "end": 17168
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 17221,
+        "end": 17231
+    },
+    {
+        "text": "russell isaacson - comptroller",
+        "label": "PERSON",
+        "start": 17251,
+        "end": 17281
+    },
+    {
+        "text": "1311",
+        "label": "DATE",
+        "start": 17282,
+        "end": 17286
+    },
+    {
+        "text": "madison avenue",
+        "label": "FAC",
+        "start": 17287,
+        "end": 17301
+    },
+    {
+        "text": "94061",
+        "label": "DATE",
+        "start": 17313,
+        "end": 17318
+    },
+    {
+        "text": "nfla national football league alumni, inc.",
+        "label": "ORG",
+        "start": 17320,
+        "end": 17362
+    },
+    {
+        "text": "elvis gooden\n8000",
+        "label": "PERSON",
+        "start": 17374,
+        "end": 17391
+    },
+    {
+        "text": "130",
+        "label": "CARDINAL",
+        "start": 17409,
+        "end": 17412
+    },
+    {
+        "text": "08054",
+        "label": "DATE",
+        "start": 17434,
+        "end": 17439
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 17449,
+        "end": 17476
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 17478,
+        "end": 17481
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 17483,
+        "end": 17492
+    },
+    {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 17502,
+        "end": 17506
+    },
+    {
+        "text": "default",
+        "label": "ORG",
+        "start": 17508,
+        "end": 17515
+    },
+    {
+        "text": "10 business days",
+        "label": "DATE",
+        "start": 17951,
+        "end": 17967
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 18150,
+        "end": 18157
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 19599,
+        "end": 19603
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 19659,
+        "end": 19663
+    },
+    {
+        "text": "nfla-nc’s",
+        "label": "PERSON",
+        "start": 19664,
+        "end": 19673
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 20337,
+        "end": 20338
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 20475,
+        "end": 20483
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 20695,
+        "end": 20702
+    },
+    {
+        "text": "the end of the first reached full quarter",
+        "label": "DATE",
+        "start": 20713,
+        "end": 20754
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 20779,
+        "end": 20780
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 20863,
+        "end": 20864
+    },
+    {
+        "text": "the end of the 90 day\nperiod",
+        "label": "DATE",
+        "start": 20874,
+        "end": 20902
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 21175,
+        "end": 21202
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 21204,
+        "end": 21207
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 21209,
+        "end": 21218
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 21706,
+        "end": 21712
+    },
+    {
+        "text": "nfla",
+        "label": "PERSON",
+        "start": 22157,
+        "end": 22161
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 22349,
+        "end": 22353
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 22356,
+        "end": 22363
+    },
+    {
+        "text": "fourteen",
+        "label": "DATE",
+        "start": 22952,
+        "end": 22960
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 23077,
+        "end": 23081
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 23084,
+        "end": 23091
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 23194,
+        "end": 23198
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 23201,
+        "end": 23208
+    },
+    {
+        "text": "90\ndays",
+        "label": "DATE",
+        "start": 23367,
+        "end": 23374
+    },
+    {
+        "text": "the business day",
+        "label": "DATE",
+        "start": 23443,
+        "end": 23459
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 23557,
+        "end": 23564
+    },
+    {
+        "text": "nfla-nc",
+        "label": "PERSON",
+        "start": 23642,
+        "end": 23649
+    },
+    {
+        "text": "no later than june 1st, 2020",
+        "label": "DATE",
+        "start": 23714,
+        "end": 23742
+    },
+    {
+        "text": "november 1st, 2017",
+        "label": "DATE",
+        "start": 23803,
+        "end": 23821
+    },
+    {
+        "text": "november 2nd, 2020",
+        "label": "DATE",
+        "start": 23837,
+        "end": 23855
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 23866,
+        "end": 23893
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 23895,
+        "end": 23898
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 23900,
+        "end": 23909
+    },
+    {
+        "text": "nfla",
+        "label": "PERSON",
+        "start": 24223,
+        "end": 24227
+    },
+    {
+        "text": "nfla",
+        "label": "PERSON",
+        "start": 25438,
+        "end": 25442
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 25630,
+        "end": 25640
+    },
+    {
+        "text": "the american arbitration association",
+        "label": "ORG",
+        "start": 25991,
+        "end": 26027
+    },
+    {
+        "text": "the american arbitration association",
+        "label": "ORG",
+        "start": 26099,
+        "end": 26135
+    },
+    {
+        "text": "225 miles",
+        "label": "QUANTITY",
+        "start": 26151,
+        "end": 26160
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 26173,
+        "end": 26183
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 26218,
+        "end": 26221
+    },
+    {
+        "text": "twenty-one",
+        "label": "CARDINAL",
+        "start": 26517,
+        "end": 26527
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 26911,
+        "end": 26938
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 26940,
+        "end": 26943
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 26945,
+        "end": 26954
+    },
+    {
+        "text": "twenty-two",
+        "label": "CARDINAL",
+        "start": 26964,
+        "end": 26974
+    },
+    {
+        "text": "nfla",
+        "label": "PERSON",
+        "start": 27189,
+        "end": 27193
+    },
+    {
+        "text": "twenty-three",
+        "label": "CARDINAL",
+        "start": 27471,
+        "end": 27483
+    },
+    {
+        "text": "october 30, 2017",
+        "label": "DATE",
+        "start": 27764,
+        "end": 27780
+    },
+    {
+        "text": "darren",
+        "label": "PERSON",
+        "start": 27841,
+        "end": 27847
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 27986,
+        "end": 27996
+    },
+    {
+        "text": "eric price",
+        "label": "PERSON",
+        "start": 28014,
+        "end": 28024
+    },
+    {
+        "text": "eric price - president",
+        "label": "PERSON",
+        "start": 28026,
+        "end": 28048
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 28058,
+        "end": 28085
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 28087,
+        "end": 28090
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 28092,
+        "end": 28101
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 28148,
+        "end": 28175
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 28177,
+        "end": 28180
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 28182,
+        "end": 28191
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 28261,
+        "end": 28265
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 28280,
+        "end": 28281
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 28319,
+        "end": 28322
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 28324,
+        "end": 28325
+    },
+    {
+        "text": "nfla",
+        "label": "GPE",
+        "start": 28358,
+        "end": 28362
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 28441,
+        "end": 28442
+    },
+    {
+        "text": "nfla",
+        "label": "PERSON",
+        "start": 28456,
+        "end": 28460
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 28483,
+        "end": 28489
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 28534,
+        "end": 28538
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 28540,
+        "end": 28541
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 28634,
+        "end": 28635
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 28717,
+        "end": 28721
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 28723,
+        "end": 28724
+    },
+    {
+        "text": "gridiron bionutrients, inc.",
+        "label": "ORG",
+        "start": 28821,
+        "end": 28848
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 28850,
+        "end": 28853
+    },
+    {
+        "text": "12/6/2017",
+        "label": "DATE",
+        "start": 28855,
+        "end": 28864
+    }
+]

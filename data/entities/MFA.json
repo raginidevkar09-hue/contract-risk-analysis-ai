@@ -1,0 +1,344 @@
+[
+    {
+        "text": "patricia hall",
+        "label": "PERSON",
+        "start": 41,
+        "end": 54
+    },
+    {
+        "text": "321",
+        "label": "CARDINAL",
+        "start": 68,
+        "end": 71
+    },
+    {
+        "text": "san francisco",
+        "label": "GPE",
+        "start": 89,
+        "end": 102
+    },
+    {
+        "text": "938410155",
+        "label": "DATE",
+        "start": 125,
+        "end": 134
+    },
+    {
+        "text": "financial bank of america inc.",
+        "label": "ORG",
+        "start": 144,
+        "end": 174
+    },
+    {
+        "text": "00-0000000",
+        "label": "CARDINAL",
+        "start": 200,
+        "end": 210
+    },
+    {
+        "text": "1000",
+        "label": "CARDINAL",
+        "start": 229,
+        "end": 233
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 247,
+        "end": 255
+    },
+    {
+        "text": "33,310.00",
+        "label": "CARDINAL",
+        "start": 278,
+        "end": 287
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 433,
+        "end": 436
+    },
+    {
+        "text": "up to 60 months",
+        "label": "DATE",
+        "start": 475,
+        "end": 490
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 544,
+        "end": 549
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 584,
+        "end": 591
+    },
+    {
+        "text": "1.2 per month",
+        "label": "DATE",
+        "start": 631,
+        "end": 644
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 659,
+        "end": 667
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 710,
+        "end": 714
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 776,
+        "end": 780
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 832,
+        "end": 836
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 986,
+        "end": 989
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1043,
+        "end": 1044
+    },
+    {
+        "text": "1 per month",
+        "label": "DATE",
+        "start": 1082,
+        "end": 1093
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 1143,
+        "end": 1148
+    },
+    {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 1300,
+        "end": 1305
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 1354,
+        "end": 1362
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1564,
+        "end": 1567
+    },
+    {
+        "text": "up to 60 months",
+        "label": "DATE",
+        "start": 1606,
+        "end": 1621
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1675,
+        "end": 1680
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 1715,
+        "end": 1722
+    },
+    {
+        "text": "1.2 per month",
+        "label": "DATE",
+        "start": 1762,
+        "end": 1775
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 1790,
+        "end": 1798
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1841,
+        "end": 1845
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 1907,
+        "end": 1911
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 1963,
+        "end": 1967
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 2117,
+        "end": 2120
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 2174,
+        "end": 2175
+    },
+    {
+        "text": "1 per month",
+        "label": "DATE",
+        "start": 2213,
+        "end": 2224
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 2274,
+        "end": 2279
+    },
+    {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 2431,
+        "end": 2436
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 2485,
+        "end": 2493
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2695,
+        "end": 2698
+    },
+    {
+        "text": "up to 60 months",
+        "label": "DATE",
+        "start": 2737,
+        "end": 2752
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2806,
+        "end": 2811
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 2846,
+        "end": 2853
+    },
+    {
+        "text": "1.2 per month",
+        "label": "DATE",
+        "start": 2893,
+        "end": 2906
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 2921,
+        "end": 2929
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 2972,
+        "end": 2976
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 3038,
+        "end": 3042
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 3094,
+        "end": 3098
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 3248,
+        "end": 3251
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3305,
+        "end": 3306
+    },
+    {
+        "text": "1 per month",
+        "label": "DATE",
+        "start": 3344,
+        "end": 3355
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 3405,
+        "end": 3410
+    },
+    {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 3562,
+        "end": 3567
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 3616,
+        "end": 3624
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 3682,
+        "end": 3690
+    },
+    {
+        "text": "february 19, 2024",
+        "label": "DATE",
+        "start": 3692,
+        "end": 3709
+    },
+    {
+        "text": "patricia hall",
+        "label": "PERSON",
+        "start": 3752,
+        "end": 3765
+    }
+]

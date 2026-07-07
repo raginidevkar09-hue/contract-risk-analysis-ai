@@ -1,0 +1,6254 @@
+[
+    {
+        "text": "99.2",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "1.0",
+        "label": "CARDINAL",
+        "start": 42,
+        "end": 45
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 161,
+        "end": 164
+    },
+    {
+        "text": "group inc.",
+        "label": "ORG",
+        "start": 184,
+        "end": 194
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 258,
+        "end": 261
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 622,
+        "end": 628
+    },
+    {
+        "text": "2.0",
+        "label": "CARDINAL",
+        "start": 794,
+        "end": 797
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 870,
+        "end": 873
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 1049,
+        "end": 1053
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 1237,
+        "end": 1240
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 1368,
+        "end": 1369
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 1371,
+        "end": 1378
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1418,
+        "end": 1421
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1423,
+        "end": 1424
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 1600,
+        "end": 1609
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 1640,
+        "end": 1649
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 1681,
+        "end": 1684
+    },
+    {
+        "text": "five percent",
+        "label": "PERCENT",
+        "start": 1706,
+        "end": 1718
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 1720,
+        "end": 1721
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1811,
+        "end": 1814
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1816,
+        "end": 1817
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 2059,
+        "end": 2062
+    },
+    {
+        "text": "markup",
+        "label": "PERSON",
+        "start": 2416,
+        "end": 2422
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 2884,
+        "end": 2887
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 3245,
+        "end": 3248
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3398,
+        "end": 3399
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 3423,
+        "end": 3426
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3513,
+        "end": 3514
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 3516,
+        "end": 3519
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 3912,
+        "end": 3914
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 3923,
+        "end": 3944
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 3946,
+        "end": 3949
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 3951,
+        "end": 3960
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 4128,
+        "end": 4131
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 4229,
+        "end": 4232
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 4300,
+        "end": 4303
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 4413,
+        "end": 4420
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 4563,
+        "end": 4566
+    },
+    {
+        "text": "lun",
+        "label": "NORP",
+        "start": 4751,
+        "end": 4754
+    },
+    {
+        "text": "lun",
+        "label": "PERSON",
+        "start": 4899,
+        "end": 4902
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 4977,
+        "end": 4980
+    },
+    {
+        "text": "attachment a.\n",
+        "label": "PERSON",
+        "start": 5448,
+        "end": 5462
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 5585,
+        "end": 5588
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 5648,
+        "end": 5651
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 5773,
+        "end": 5776
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 5826,
+        "end": 5829
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 5858,
+        "end": 5861
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 5969,
+        "end": 5973
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 6023,
+        "end": 6027
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 6120,
+        "end": 6123
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 6150,
+        "end": 6153
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 6182,
+        "end": 6185
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 6236,
+        "end": 6240
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 6287,
+        "end": 6291
+    },
+    {
+        "text": "between\ntwo",
+        "label": "CARDINAL",
+        "start": 6346,
+        "end": 6357
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 6366,
+        "end": 6369
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 6395,
+        "end": 6398
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 6427,
+        "end": 6430
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 6549,
+        "end": 6552
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 6797,
+        "end": 6800
+    },
+    {
+        "text": "between two",
+        "label": "CARDINAL",
+        "start": 7044,
+        "end": 7055
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 7606,
+        "end": 7609
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 7922,
+        "end": 7924
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 7933,
+        "end": 7954
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 7956,
+        "end": 7959
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 7961,
+        "end": 7970
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 8024,
+        "end": 8027
+    },
+    {
+        "text": "aix",
+        "label": "PERSON",
+        "start": 8116,
+        "end": 8119
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 8656,
+        "end": 8659
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 9216,
+        "end": 9219
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 10069,
+        "end": 10072
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 10316,
+        "end": 10319
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 10575,
+        "end": 10578
+    },
+    {
+        "text": "3.0",
+        "label": "CARDINAL",
+        "start": 11177,
+        "end": 11180
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 11181,
+        "end": 11184
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 11211,
+        "end": 11214
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 11301,
+        "end": 11304
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 11313,
+        "end": 11316
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 11465,
+        "end": 11468
+    },
+    {
+        "text": "4.0",
+        "label": "CARDINAL",
+        "start": 11480,
+        "end": 11483
+    },
+    {
+        "text": "12:01 a.m.",
+        "label": "TIME",
+        "start": 11556,
+        "end": 11566
+    },
+    {
+        "text": "eastern",
+        "label": "ORG",
+        "start": 11568,
+        "end": 11575
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 11585,
+        "end": 11592
+    },
+    {
+        "text": "thirty-six",
+        "label": "CARDINAL",
+        "start": 11707,
+        "end": 11717
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 11719,
+        "end": 11721
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 11727,
+        "end": 11729
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 11738,
+        "end": 11759
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 11761,
+        "end": 11764
+    },
+    {
+        "text": "1/20/2009\nmonths",
+        "label": "DATE",
+        "start": 11766,
+        "end": 11782
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 11931,
+        "end": 11934
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 12139,
+        "end": 12141
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 12260,
+        "end": 12261
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 12529,
+        "end": 12535
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 12583,
+        "end": 12585
+    },
+    {
+        "text": "c.\n",
+        "label": "PERSON",
+        "start": 12697,
+        "end": 12700
+    },
+    {
+        "text": "5.0",
+        "label": "CARDINAL",
+        "start": 12864,
+        "end": 12867
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 12917,
+        "end": 12920
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 12999,
+        "end": 13002
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 13030,
+        "end": 13033
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 13125,
+        "end": 13128
+    },
+    {
+        "text": "the 10th",
+        "label": "DATE",
+        "start": 13235,
+        "end": 13243
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 13247,
+        "end": 13256
+    },
+    {
+        "text": "thirty (30",
+        "label": "CARDINAL",
+        "start": 13283,
+        "end": 13293
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 13591,
+        "end": 13594
+    },
+    {
+        "text": "6.0",
+        "label": "CARDINAL",
+        "start": 13756,
+        "end": 13759
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 13787,
+        "end": 13790
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 13822,
+        "end": 13825
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 14133,
+        "end": 14136
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 14171,
+        "end": 14174
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 14360,
+        "end": 14363
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 14514,
+        "end": 14517
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 14564,
+        "end": 14570
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 14599,
+        "end": 14602
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 14701,
+        "end": 14704
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14790,
+        "end": 14795
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 14897,
+        "end": 14900
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 14987,
+        "end": 14990
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 15067,
+        "end": 15069
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 15078,
+        "end": 15099
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 15101,
+        "end": 15104
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 15106,
+        "end": 15115
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 15134,
+        "end": 15137
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 15216,
+        "end": 15219
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 15246,
+        "end": 15249
+    },
+    {
+        "text": "11.6",
+        "label": "CARDINAL",
+        "start": 15360,
+        "end": 15364
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 15366,
+        "end": 15369
+    },
+    {
+        "text": "non-ibm",
+        "label": "ORG",
+        "start": 15390,
+        "end": 15397
+    },
+    {
+        "text": "non-ibm",
+        "label": "ORG",
+        "start": 15412,
+        "end": 15419
+    },
+    {
+        "text": "non-ibm",
+        "label": "ORG",
+        "start": 15472,
+        "end": 15479
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 15561,
+        "end": 15564
+    },
+    {
+        "text": "fcc",
+        "label": "ORG",
+        "start": 15660,
+        "end": 15663
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 15922,
+        "end": 15925
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 15937,
+        "end": 15940
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 16072,
+        "end": 16075
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 16148,
+        "end": 16153
+    },
+    {
+        "text": "7.0",
+        "label": "CARDINAL",
+        "start": 16177,
+        "end": 16180
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 16648,
+        "end": 16649
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 16651,
+        "end": 16652
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 16658,
+        "end": 16660
+    },
+    {
+        "text": "8.0",
+        "label": "CARDINAL",
+        "start": 16760,
+        "end": 16763
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 16799,
+        "end": 16802
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 16808,
+        "end": 16813
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 16861,
+        "end": 16864
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 16929,
+        "end": 16932
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17023,
+        "end": 17026
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17134,
+        "end": 17137
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17213,
+        "end": 17216
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17253,
+        "end": 17256
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17289,
+        "end": 17292
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17430,
+        "end": 17433
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17636,
+        "end": 17639
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17800,
+        "end": 17803
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17807,
+        "end": 17810
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17831,
+        "end": 17834
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 17897,
+        "end": 17900
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 17994,
+        "end": 18000
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 18002,
+        "end": 18004
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 18006,
+        "end": 18012
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 18044,
+        "end": 18047
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 18153,
+        "end": 18156
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18180,
+        "end": 18185
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 18414,
+        "end": 18417
+    },
+    {
+        "text": "non-ibm",
+        "label": "ORG",
+        "start": 18438,
+        "end": 18445
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 18576,
+        "end": 18579
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18814,
+        "end": 18819
+    },
+    {
+        "text": "11.3(b",
+        "label": "CARDINAL",
+        "start": 18925,
+        "end": 18931
+    },
+    {
+        "text": "11.5",
+        "label": "CARDINAL",
+        "start": 18936,
+        "end": 18940
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 19118,
+        "end": 19120
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 19129,
+        "end": 19150
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 19152,
+        "end": 19155
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 19157,
+        "end": 19166
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 19209,
+        "end": 19213
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 19326,
+        "end": 19329
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 19331,
+        "end": 19334
+    },
+    {
+        "text": "9.0",
+        "label": "CARDINAL",
+        "start": 19512,
+        "end": 19515
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 19530,
+        "end": 19533
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 19601,
+        "end": 19604
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 19677,
+        "end": 19680
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 19758,
+        "end": 19761
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 19858,
+        "end": 19861
+    },
+    {
+        "text": "100,000",
+        "label": "CARDINAL",
+        "start": 20119,
+        "end": 20126
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 20162,
+        "end": 20165
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 20198,
+        "end": 20200
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 20202,
+        "end": 20208
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 20250,
+        "end": 20255
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 20330,
+        "end": 20333
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 20407,
+        "end": 20410
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 20505,
+        "end": 20508
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 20580,
+        "end": 20585
+    },
+    {
+        "text": "9.0(a",
+        "label": "CARDINAL",
+        "start": 20680,
+        "end": 20685
+    },
+    {
+        "text": "9.0(b));",
+        "label": "CARDINAL",
+        "start": 20691,
+        "end": 20699
+    },
+    {
+        "text": "10.0",
+        "label": "CARDINAL",
+        "start": 20776,
+        "end": 20780
+    },
+    {
+        "text": "10.0",
+        "label": "CARDINAL",
+        "start": 21058,
+        "end": 21062
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 21128,
+        "end": 21131
+    },
+    {
+        "text": "11.0",
+        "label": "CARDINAL",
+        "start": 21268,
+        "end": 21272
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 21370,
+        "end": 21373
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 21907,
+        "end": 21910
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 21912,
+        "end": 21915
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 22522,
+        "end": 22525
+    },
+    {
+        "text": "11.3(b",
+        "label": "CARDINAL",
+        "start": 22633,
+        "end": 22639
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 22645,
+        "end": 22648
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 22725,
+        "end": 22728
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 22806,
+        "end": 22808
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 22817,
+        "end": 22838
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 22840,
+        "end": 22843
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 22845,
+        "end": 22854
+    },
+    {
+        "text": "11.4(a",
+        "label": "CARDINAL",
+        "start": 23118,
+        "end": 23124
+    },
+    {
+        "text": "11.4(b",
+        "label": "DATE",
+        "start": 23129,
+        "end": 23135
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 23138,
+        "end": 23141
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 23316,
+        "end": 23319
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 23496,
+        "end": 23499
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 23593,
+        "end": 23596
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 23600,
+        "end": 23603
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 23666,
+        "end": 23671
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 23792,
+        "end": 23795
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 23968,
+        "end": 23971
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 24078,
+        "end": 24081
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 24144,
+        "end": 24147
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 24277,
+        "end": 24280
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 24330,
+        "end": 24333
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 24441,
+        "end": 24444
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 24446,
+        "end": 24449
+    },
+    {
+        "text": "alter",
+        "label": "PERSON",
+        "start": 24474,
+        "end": 24479
+    },
+    {
+        "text": "12.0",
+        "label": "CARDINAL",
+        "start": 25715,
+        "end": 25719
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 25773,
+        "end": 25776
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 25874,
+        "end": 25877
+    },
+    {
+        "text": "decompile",
+        "label": "PERSON",
+        "start": 26142,
+        "end": 26151
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 26241,
+        "end": 26244
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 26274,
+        "end": 26277
+    },
+    {
+        "text": "microsoft",
+        "label": "ORG",
+        "start": 26309,
+        "end": 26318
+    },
+    {
+        "text": "alter",
+        "label": "PERSON",
+        "start": 26586,
+        "end": 26591
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 26670,
+        "end": 26673
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 26689,
+        "end": 26691
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 26700,
+        "end": 26721
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 26723,
+        "end": 26726
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 26728,
+        "end": 26737
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 26788,
+        "end": 26791
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 26793,
+        "end": 26796
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 26890,
+        "end": 26893
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 26968,
+        "end": 26971
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 27086,
+        "end": 27089
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 27096,
+        "end": 27099
+    },
+    {
+        "text": "13.0",
+        "label": "CARDINAL",
+        "start": 27214,
+        "end": 27218
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 27247,
+        "end": 27250
+    },
+    {
+        "text": "90",
+        "label": "CARDINAL",
+        "start": 27356,
+        "end": 27358
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 27585,
+        "end": 27588
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 27689,
+        "end": 27692
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 27740,
+        "end": 27743
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 27825,
+        "end": 27827
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 28221,
+        "end": 28224
+    },
+    {
+        "text": "90)\ndays",
+        "label": "DATE",
+        "start": 28274,
+        "end": 28282
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 28821,
+        "end": 28824
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 28983,
+        "end": 28986
+    },
+    {
+        "text": "14.0",
+        "label": "CARDINAL",
+        "start": 29778,
+        "end": 29782
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 30147,
+        "end": 30150
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 30152,
+        "end": 30153
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 30155,
+        "end": 30156
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 30158,
+        "end": 30159
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 30161,
+        "end": 30162
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 30164,
+        "end": 30165
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 30167,
+        "end": 30169
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 30171,
+        "end": 30175
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 30177,
+        "end": 30181
+    },
+    {
+        "text": "11.7",
+        "label": "CARDINAL",
+        "start": 30183,
+        "end": 30187
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 30189,
+        "end": 30193
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 30195,
+        "end": 30199
+    },
+    {
+        "text": "14",
+        "label": "DATE",
+        "start": 30205,
+        "end": 30207
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 30242,
+        "end": 30245
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 30289,
+        "end": 30291
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 30300,
+        "end": 30321
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 30323,
+        "end": 30326
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 30328,
+        "end": 30337
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 30424,
+        "end": 30432
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 31399,
+        "end": 31402
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 31462,
+        "end": 31467
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 31552,
+        "end": 31557
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 31618,
+        "end": 31619
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 31665,
+        "end": 31670
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 31806,
+        "end": 31809
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 31875,
+        "end": 31878
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 31965,
+        "end": 31968
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 32472,
+        "end": 32475
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 32625,
+        "end": 32628
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 32967,
+        "end": 32970
+    },
+    {
+        "text": "two years",
+        "label": "DATE",
+        "start": 33305,
+        "end": 33314
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 33354,
+        "end": 33356
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 33365,
+        "end": 33386
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 33388,
+        "end": 33391
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 33393,
+        "end": 33402
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 33425,
+        "end": 33428
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 33897,
+        "end": 33903
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 34077,
+        "end": 34080
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 34211,
+        "end": 34214
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 34218,
+        "end": 34223
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 34304,
+        "end": 34307
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 34321,
+        "end": 34324
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 34360,
+        "end": 34363
+    },
+    {
+        "text": "customer’s",
+        "label": "PERSON",
+        "start": 34533,
+        "end": 34543
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 34720,
+        "end": 34723
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 35035,
+        "end": 35038
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 35049,
+        "end": 35052
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 35112,
+        "end": 35115
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 35156,
+        "end": 35159
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 35286,
+        "end": 35289
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 35336,
+        "end": 35339
+    },
+    {
+        "text": "america",
+        "label": "GPE",
+        "start": 35851,
+        "end": 35858
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 35906,
+        "end": 35909
+    },
+    {
+        "text": "america",
+        "label": "GPE",
+        "start": 35992,
+        "end": 35999
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 36166,
+        "end": 36175
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 36257,
+        "end": 36261
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 36463,
+        "end": 36464
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 36468,
+        "end": 36469
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 36644,
+        "end": 36647
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 36681,
+        "end": 36685
+    },
+    {
+        "text": "2.0",
+        "label": "CARDINAL",
+        "start": 36737,
+        "end": 36740
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 36750,
+        "end": 36752
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 36761,
+        "end": 36782
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 36784,
+        "end": 36787
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 36789,
+        "end": 36798
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 36988,
+        "end": 36991
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 37191,
+        "end": 37194
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 37358,
+        "end": 37359
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 37504,
+        "end": 37505
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 37629,
+        "end": 37632
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 37683,
+        "end": 37685
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 37694,
+        "end": 37715
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 37717,
+        "end": 37720
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 37722,
+        "end": 37731
+    },
+    {
+        "text": "1.0",
+        "label": "CARDINAL",
+        "start": 37756,
+        "end": 37759
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 37772,
+        "end": 37775
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 37880,
+        "end": 37886
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 37918,
+        "end": 37921
+    },
+    {
+        "text": "b.\n",
+        "label": "PERSON",
+        "start": 38162,
+        "end": 38165
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 38165,
+        "end": 38168
+    },
+    {
+        "text": "sunday",
+        "label": "DATE",
+        "start": 38242,
+        "end": 38248
+    },
+    {
+        "text": "between 3:00 a.m.",
+        "label": "TIME",
+        "start": 38249,
+        "end": 38266
+    },
+    {
+        "text": "6:00 a.m.",
+        "label": "TIME",
+        "start": 38271,
+        "end": 38280
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 38358,
+        "end": 38361
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 38491,
+        "end": 38494
+    },
+    {
+        "text": "2.0",
+        "label": "CARDINAL",
+        "start": 38609,
+        "end": 38612
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 38637,
+        "end": 38640
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 38729,
+        "end": 38732
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 38807,
+        "end": 38810
+    },
+    {
+        "text": "2003",
+        "label": "DATE",
+        "start": 38845,
+        "end": 38849
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 38895,
+        "end": 38898
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 39084,
+        "end": 39087
+    },
+    {
+        "text": "3.0",
+        "label": "CARDINAL",
+        "start": 39209,
+        "end": 39212
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 39487,
+        "end": 39490
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 40459,
+        "end": 40460
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 40600,
+        "end": 40603
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 40655,
+        "end": 40657
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 40873,
+        "end": 40876
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 40989,
+        "end": 40992
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 41322,
+        "end": 41325
+    },
+    {
+        "text": "4.0",
+        "label": "CARDINAL",
+        "start": 41355,
+        "end": 41358
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 41380,
+        "end": 41383
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 41404,
+        "end": 41407
+    },
+    {
+        "text": "b.\n ",
+        "label": "PERSON",
+        "start": 41491,
+        "end": 41495
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 41498,
+        "end": 41500
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 41509,
+        "end": 41530
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 41532,
+        "end": 41535
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 41537,
+        "end": 41546
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 41569,
+        "end": 41572
+    },
+    {
+        "text": "customer’s",
+        "label": "PERSON",
+        "start": 41842,
+        "end": 41852
+    },
+    {
+        "text": "monday",
+        "label": "DATE",
+        "start": 42274,
+        "end": 42280
+    },
+    {
+        "text": "friday",
+        "label": "DATE",
+        "start": 42289,
+        "end": 42295
+    },
+    {
+        "text": "8:00 a.m.",
+        "label": "TIME",
+        "start": 42297,
+        "end": 42306
+    },
+    {
+        "text": "6:00 p.m.",
+        "label": "TIME",
+        "start": 42309,
+        "end": 42318
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 42371,
+        "end": 42374
+    },
+    {
+        "text": "monday",
+        "label": "DATE",
+        "start": 42849,
+        "end": 42855
+    },
+    {
+        "text": "friday",
+        "label": "DATE",
+        "start": 42864,
+        "end": 42870
+    },
+    {
+        "text": "8:00 a.m.",
+        "label": "TIME",
+        "start": 42872,
+        "end": 42881
+    },
+    {
+        "text": "6:00 p.m.",
+        "label": "TIME",
+        "start": 42884,
+        "end": 42893
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 42944,
+        "end": 42947
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 43010,
+        "end": 43013
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 43118,
+        "end": 43121
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 43199,
+        "end": 43202
+    },
+    {
+        "text": "4.4.1",
+        "label": "CARDINAL",
+        "start": 43274,
+        "end": 43279
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 43295,
+        "end": 43298
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 43369,
+        "end": 43372
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 43493,
+        "end": 43496
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 43581,
+        "end": 43584
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 43674,
+        "end": 43677
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 43818,
+        "end": 43821
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 43823,
+        "end": 43824
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 43944,
+        "end": 43947
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 44079,
+        "end": 44082
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 44243,
+        "end": 44246
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 44396,
+        "end": 44399
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 44509,
+        "end": 44512
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 44584,
+        "end": 44587
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 44704,
+        "end": 44707
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 44763,
+        "end": 44764
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 44766,
+        "end": 44773
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 44789,
+        "end": 44798
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 44800,
+        "end": 44803
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 44835,
+        "end": 44836
+    },
+    {
+        "text": "customer’s",
+        "label": "PERSON",
+        "start": 44891,
+        "end": 44901
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 45042,
+        "end": 45051
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 45242,
+        "end": 45245
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 45345,
+        "end": 45347
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 45356,
+        "end": 45377
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 45379,
+        "end": 45382
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 45384,
+        "end": 45393
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 45438,
+        "end": 45441
+    },
+    {
+        "text": "b.\nibm",
+        "label": "PERSON",
+        "start": 45569,
+        "end": 45575
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 45721,
+        "end": 45724
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 45726,
+        "end": 45727
+    },
+    {
+        "text": "every day",
+        "label": "DATE",
+        "start": 46001,
+        "end": 46010
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 46014,
+        "end": 46022
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 46427,
+        "end": 46432
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 46479,
+        "end": 46482
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 46512,
+        "end": 46517
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 46570,
+        "end": 46573
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 46586,
+        "end": 46589
+    },
+    {
+        "text": "10.200.x.x",
+        "label": "CARDINAL",
+        "start": 46639,
+        "end": 46649
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 46762,
+        "end": 46765
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 47089,
+        "end": 47090
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 47299,
+        "end": 47302
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 47543,
+        "end": 47547
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 47780,
+        "end": 47784
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 47823,
+        "end": 47827
+    },
+    {
+        "text": "0",
+        "label": "CARDINAL",
+        "start": 47878,
+        "end": 47879
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 48145,
+        "end": 48149
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 48186,
+        "end": 48190
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 48381,
+        "end": 48385
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 48406,
+        "end": 48407
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 48420,
+        "end": 48421
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 48572,
+        "end": 48573
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 48575,
+        "end": 48579
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 48616,
+        "end": 48620
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 48726,
+        "end": 48727
+    },
+    {
+        "text": "fastest",
+        "label": "PERSON",
+        "start": 48729,
+        "end": 48736
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 48737,
+        "end": 48741
+    },
+    {
+        "text": "node",
+        "label": "PERSON",
+        "start": 48780,
+        "end": 48784
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 48817,
+        "end": 48819
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 48828,
+        "end": 48849
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 48851,
+        "end": 48854
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 48856,
+        "end": 48865
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 49008,
+        "end": 49011
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 49219,
+        "end": 49220
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 49247,
+        "end": 49250
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 50334,
+        "end": 50340
+    },
+    {
+        "text": "0",
+        "label": "CARDINAL",
+        "start": 50374,
+        "end": 50375
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 50382,
+        "end": 50388
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 50477,
+        "end": 50478
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 50554,
+        "end": 50555
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 50663,
+        "end": 50664
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 50779,
+        "end": 50780
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 50828,
+        "end": 50829
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 51621,
+        "end": 51624
+    },
+    {
+        "text": "24x7",
+        "label": "CARDINAL",
+        "start": 51770,
+        "end": 51774
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 51787,
+        "end": 51795
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 51833,
+        "end": 51836
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 52035,
+        "end": 52037
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 52046,
+        "end": 52067
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 52069,
+        "end": 52072
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 52074,
+        "end": 52083
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 52225,
+        "end": 52228
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 52231,
+        "end": 52234
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 52319,
+        "end": 52322
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 52327,
+        "end": 52330
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 52388,
+        "end": 52391
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 52956,
+        "end": 52959
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 53273,
+        "end": 53276
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 53278,
+        "end": 53279
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 53281,
+        "end": 53287
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 53297,
+        "end": 53300
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 53302,
+        "end": 53303
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 53305,
+        "end": 53310
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 53596,
+        "end": 53599
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 53612,
+        "end": 53618
+    },
+    {
+        "text": "fourteen",
+        "label": "DATE",
+        "start": 53664,
+        "end": 53672
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 53674,
+        "end": 53676
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 53803,
+        "end": 53806
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 53808,
+        "end": 53809
+    },
+    {
+        "text": "bare",
+        "label": "PERSON",
+        "start": 53895,
+        "end": 53899
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 54009,
+        "end": 54015
+    },
+    {
+        "text": "a week",
+        "label": "DATE",
+        "start": 54081,
+        "end": 54087
+    },
+    {
+        "text": "twenty-eight",
+        "label": "CARDINAL",
+        "start": 54128,
+        "end": 54140
+    },
+    {
+        "text": "28",
+        "label": "CARDINAL",
+        "start": 54142,
+        "end": 54144
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 54227,
+        "end": 54232
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 54309,
+        "end": 54312
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 54347,
+        "end": 54354
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 54425,
+        "end": 54428
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 54463,
+        "end": 54470
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 54612,
+        "end": 54615
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 54755,
+        "end": 54758
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 55190,
+        "end": 55193
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 55201,
+        "end": 55204
+    },
+    {
+        "text": "72",
+        "label": "CARDINAL",
+        "start": 55228,
+        "end": 55230
+    },
+    {
+        "text": "hours",
+        "label": "TIME",
+        "start": 55232,
+        "end": 55237
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 55307,
+        "end": 55310
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 55415,
+        "end": 55418
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 55495,
+        "end": 55498
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 55568,
+        "end": 55571
+    },
+    {
+        "text": "microsoft",
+        "label": "ORG",
+        "start": 55874,
+        "end": 55883
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 56005,
+        "end": 56007
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 56016,
+        "end": 56037
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 56039,
+        "end": 56042
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 56044,
+        "end": 56053
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 56067,
+        "end": 56070
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 56072,
+        "end": 56075
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 56160,
+        "end": 56163
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 56168,
+        "end": 56171
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 56234,
+        "end": 56237
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 56638,
+        "end": 56641
+    },
+    {
+        "text": "b.\nibm",
+        "label": "PERSON",
+        "start": 56819,
+        "end": 56825
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 57040,
+        "end": 57045
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 57047,
+        "end": 57048
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 57215,
+        "end": 57218
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 57305,
+        "end": 57308
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 57474,
+        "end": 57477
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 57617,
+        "end": 57620
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 57625,
+        "end": 57628
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 57729,
+        "end": 57732
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 58161,
+        "end": 58164
+    },
+    {
+        "text": "24x7",
+        "label": "CARDINAL",
+        "start": 58290,
+        "end": 58294
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 58307,
+        "end": 58315
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 58323,
+        "end": 58326
+    },
+    {
+        "text": "nic);\nmonitor",
+        "label": "PERSON",
+        "start": 58370,
+        "end": 58383
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 58476,
+        "end": 58479
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 58598,
+        "end": 58601
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 58837,
+        "end": 58840
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 59002,
+        "end": 59003
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 59008,
+        "end": 59009
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 59088,
+        "end": 59091
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 59323,
+        "end": 59326
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 59343,
+        "end": 59346
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 59490,
+        "end": 59493
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 59596,
+        "end": 59601
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 59647,
+        "end": 59650
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 59652,
+        "end": 59653
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 59899,
+        "end": 59902
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 60003,
+        "end": 60005
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 60014,
+        "end": 60035
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 60037,
+        "end": 60040
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 60042,
+        "end": 60051
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 60098,
+        "end": 60103
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 60215,
+        "end": 60218
+    },
+    {
+        "text": "24x7",
+        "label": "MONEY",
+        "start": 60298,
+        "end": 60302
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 60315,
+        "end": 60323
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 60331,
+        "end": 60334
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 60554,
+        "end": 60557
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 60709,
+        "end": 60712
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 60878,
+        "end": 60881
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 60961,
+        "end": 60964
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 61007,
+        "end": 61010
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 61024,
+        "end": 61027
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 61058,
+        "end": 61061
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 61073,
+        "end": 61076
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 61096,
+        "end": 61099
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 61697,
+        "end": 61700
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 61713,
+        "end": 61716
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 61888,
+        "end": 61893
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 62142,
+        "end": 62145
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 62299,
+        "end": 62304
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 62535,
+        "end": 62538
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 62618,
+        "end": 62621
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 62641,
+        "end": 62645
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 62647,
+        "end": 62648
+    },
+    {
+        "text": "notified;",
+        "label": "PERSON",
+        "start": 63194,
+        "end": 63203
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 63208,
+        "end": 63211
+    },
+    {
+        "text": "fifteen",
+        "label": "DATE",
+        "start": 63286,
+        "end": 63293
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 63295,
+        "end": 63297
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 63299,
+        "end": 63306
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 63337,
+        "end": 63340
+    },
+    {
+        "text": "24x7",
+        "label": "CARDINAL",
+        "start": 63354,
+        "end": 63358
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 63530,
+        "end": 63533
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 63696,
+        "end": 63699
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 63869,
+        "end": 63871
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 63880,
+        "end": 63901
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 63903,
+        "end": 63906
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 63908,
+        "end": 63917
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 63918,
+        "end": 63921
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 64165,
+        "end": 64168
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 64731,
+        "end": 64734
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64896,
+        "end": 64901
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 65046,
+        "end": 65049
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 65096,
+        "end": 65099
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 65156,
+        "end": 65161
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 65221,
+        "end": 65222
+    },
+    {
+        "text": "one year",
+        "label": "DATE",
+        "start": 65443,
+        "end": 65451
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 65647,
+        "end": 65650
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 65804,
+        "end": 65809
+    },
+    {
+        "text": "microsoft",
+        "label": "PERSON",
+        "start": 65896,
+        "end": 65905
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 66021,
+        "end": 66024
+    },
+    {
+        "text": "4.8",
+        "label": "CARDINAL",
+        "start": 66112,
+        "end": 66115
+    },
+    {
+        "text": "twenty",
+        "label": "CARDINAL",
+        "start": 66549,
+        "end": 66555
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 66557,
+        "end": 66559
+    },
+    {
+        "text": "gb",
+        "label": "PERSON",
+        "start": 66561,
+        "end": 66563
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 66671,
+        "end": 66674
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 66907,
+        "end": 66910
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 66965,
+        "end": 66968
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 67239,
+        "end": 67241
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 67250,
+        "end": 67271
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 67273,
+        "end": 67276
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 67278,
+        "end": 67287
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 67396,
+        "end": 67399
+    },
+    {
+        "text": "hbas",
+        "label": "PERSON",
+        "start": 67408,
+        "end": 67412
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 67611,
+        "end": 67614
+    },
+    {
+        "text": "hbas",
+        "label": "PERSON",
+        "start": 67623,
+        "end": 67627
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 67770,
+        "end": 67774
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 67805,
+        "end": 67808
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 67916,
+        "end": 67920
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 68005,
+        "end": 68008
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 68075,
+        "end": 68079
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 68088,
+        "end": 68092
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 68237,
+        "end": 68241
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 68413,
+        "end": 68416
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 68622,
+        "end": 68626
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 68811,
+        "end": 68814
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 68816,
+        "end": 68817
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 68969,
+        "end": 68972
+    },
+    {
+        "text": "hbas",
+        "label": "PERSON",
+        "start": 68981,
+        "end": 68985
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 69020,
+        "end": 69024
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 69151,
+        "end": 69154
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 69351,
+        "end": 69354
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 69503,
+        "end": 69504
+    },
+    {
+        "text": "microsoft sql",
+        "label": "ORG",
+        "start": 69732,
+        "end": 69745
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 69747,
+        "end": 69750
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 70117,
+        "end": 70120
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 70192,
+        "end": 70195
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 70209,
+        "end": 70213
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 70215,
+        "end": 70216
+    },
+    {
+        "text": "hours",
+        "label": "TIME",
+        "start": 70218,
+        "end": 70223
+    },
+    {
+        "text": "each month",
+        "label": "DATE",
+        "start": 70299,
+        "end": 70309
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 70310,
+        "end": 70313
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 70327,
+        "end": 70331
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 70333,
+        "end": 70334
+    },
+    {
+        "text": "hours",
+        "label": "TIME",
+        "start": 70336,
+        "end": 70341
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 70437,
+        "end": 70443
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 70520,
+        "end": 70526
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 70643,
+        "end": 70646
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 70648,
+        "end": 70651
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 70739,
+        "end": 70742
+    },
+    {
+        "text": "each day",
+        "label": "DATE",
+        "start": 70850,
+        "end": 70858
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 70862,
+        "end": 70870
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 71024,
+        "end": 71027
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 71123,
+        "end": 71126
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 71158,
+        "end": 71160
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 71169,
+        "end": 71190
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 71192,
+        "end": 71195
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 71197,
+        "end": 71206
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 71312,
+        "end": 71313
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 71466,
+        "end": 71467
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 71574,
+        "end": 71575
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 71653,
+        "end": 71654
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 71870,
+        "end": 71871
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 71873,
+        "end": 71876
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 71909,
+        "end": 71914
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 72139,
+        "end": 72142
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 72248,
+        "end": 72255
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 72364,
+        "end": 72366
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 72512,
+        "end": 72515
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 72710,
+        "end": 72712
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 72721,
+        "end": 72742
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 72744,
+        "end": 72747
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 72749,
+        "end": 72758
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 72948,
+        "end": 72949
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 72968,
+        "end": 72971
+    },
+    {
+        "text": "15 minutes",
+        "label": "TIME",
+        "start": 73001,
+        "end": 73011
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73035,
+        "end": 73038
+    },
+    {
+        "text": "24 x",
+        "label": "TIME",
+        "start": 73060,
+        "end": 73064
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 73065,
+        "end": 73066
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73118,
+        "end": 73121
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 73152,
+        "end": 73153
+    },
+    {
+        "text": "hours",
+        "label": "TIME",
+        "start": 73155,
+        "end": 73160
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73166,
+        "end": 73169
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 73281,
+        "end": 73282
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73298,
+        "end": 73301
+    },
+    {
+        "text": "30 minutes",
+        "label": "TIME",
+        "start": 73331,
+        "end": 73341
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73365,
+        "end": 73368
+    },
+    {
+        "text": "24 x",
+        "label": "TIME",
+        "start": 73390,
+        "end": 73394
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 73395,
+        "end": 73396
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 73498,
+        "end": 73499
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73515,
+        "end": 73518
+    },
+    {
+        "text": "1 hour",
+        "label": "TIME",
+        "start": 73548,
+        "end": 73554
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73578,
+        "end": 73581
+    },
+    {
+        "text": "24 x",
+        "label": "TIME",
+        "start": 73603,
+        "end": 73607
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 73608,
+        "end": 73609
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 73711,
+        "end": 73712
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73739,
+        "end": 73742
+    },
+    {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 73772,
+        "end": 73780
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73782,
+        "end": 73785
+    },
+    {
+        "text": "24 x",
+        "label": "TIME",
+        "start": 73807,
+        "end": 73811
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 73812,
+        "end": 73813
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73925,
+        "end": 73928
+    },
+    {
+        "text": "15 minutes",
+        "label": "TIME",
+        "start": 73958,
+        "end": 73968
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 73991,
+        "end": 73994
+    },
+    {
+        "text": "24 x",
+        "label": "TIME",
+        "start": 74016,
+        "end": 74020
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 74021,
+        "end": 74022
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 74085,
+        "end": 74090
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 74092,
+        "end": 74093
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 74220,
+        "end": 74225
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 74227,
+        "end": 74228
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 74348,
+        "end": 74354
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 74452,
+        "end": 74455
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 74625,
+        "end": 74628
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 74731,
+        "end": 74734
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 74765,
+        "end": 74768
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 74837,
+        "end": 74840
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 75008,
+        "end": 75011
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 75543,
+        "end": 75546
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 75556,
+        "end": 75558
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 75567,
+        "end": 75588
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 75590,
+        "end": 75593
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 75595,
+        "end": 75604
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 75800,
+        "end": 75803
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 75845,
+        "end": 75848
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 75946,
+        "end": 75953
+    },
+    {
+        "text": "established;",
+        "label": "PERSON",
+        "start": 76089,
+        "end": 76101
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 76194,
+        "end": 76197
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 76358,
+        "end": 76361
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 76519,
+        "end": 76522
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 76568,
+        "end": 76571
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 76616,
+        "end": 76619
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 76709,
+        "end": 76716
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 76761,
+        "end": 76764
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 76822,
+        "end": 76825
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 76893,
+        "end": 76896
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 77106,
+        "end": 77109
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 77252,
+        "end": 77255
+    },
+    {
+        "text": "one week",
+        "label": "DATE",
+        "start": 77265,
+        "end": 77273
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 77760,
+        "end": 77763
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 77855,
+        "end": 77858
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 77884,
+        "end": 77887
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 78080,
+        "end": 78083
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 78085,
+        "end": 78088
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 78767,
+        "end": 78770
+    },
+    {
+        "text": "mode;\n ",
+        "label": "PERSON",
+        "start": 79425,
+        "end": 79432
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 79435,
+        "end": 79437
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 79446,
+        "end": 79467
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 79469,
+        "end": 79472
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 79474,
+        "end": 79483
+    },
+    {
+        "text": "icmp",
+        "label": "PERSON",
+        "start": 79827,
+        "end": 79831
+    },
+    {
+        "text": "icmp",
+        "label": "PERSON",
+        "start": 79955,
+        "end": 79959
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 80072,
+        "end": 80075
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 80230,
+        "end": 80233
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 80235,
+        "end": 80236
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 80292,
+        "end": 80295
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 80297,
+        "end": 80298
+    },
+    {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 80300,
+        "end": 80305
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 80417,
+        "end": 80420
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 80871,
+        "end": 80874
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 81013,
+        "end": 81016
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 81086,
+        "end": 81089
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 81288,
+        "end": 81291
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 81481,
+        "end": 81486
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 81542,
+        "end": 81545
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 81636,
+        "end": 81639
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 81751,
+        "end": 81758
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 81792,
+        "end": 81799
+    },
+    {
+        "text": "five percent",
+        "label": "PERCENT",
+        "start": 81882,
+        "end": 81894
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 81896,
+        "end": 81897
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 81902,
+        "end": 81909
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 82056,
+        "end": 82063
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 82090,
+        "end": 82093
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 82147,
+        "end": 82150
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 82187,
+        "end": 82190
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 82331,
+        "end": 82334
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 82352,
+        "end": 82359
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 82491,
+        "end": 82498
+    },
+    {
+        "text": "that month",
+        "label": "DATE",
+        "start": 82503,
+        "end": 82513
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 82570,
+        "end": 82577
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 82626,
+        "end": 82633
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 82784,
+        "end": 82787
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 83026,
+        "end": 83029
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 83096,
+        "end": 83099
+    },
+    {
+        "text": "a month",
+        "label": "DATE",
+        "start": 83167,
+        "end": 83174
+    },
+    {
+        "text": "8.6",
+        "label": "CARDINAL",
+        "start": 83258,
+        "end": 83261
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 83329,
+        "end": 83332
+    },
+    {
+        "text": "8.6",
+        "label": "CARDINAL",
+        "start": 83479,
+        "end": 83482
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 83501,
+        "end": 83503
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 83512,
+        "end": 83533
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 83535,
+        "end": 83538
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 83540,
+        "end": 83549
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 83565,
+        "end": 83568
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 83596,
+        "end": 83603
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 83678,
+        "end": 83681
+    },
+    {
+        "text": "99.7 percent",
+        "label": "PERCENT",
+        "start": 83859,
+        "end": 83871
+    },
+    {
+        "text": "99.9 percent",
+        "label": "PERCENT",
+        "start": 84045,
+        "end": 84057
+    },
+    {
+        "text": "98.0 percent",
+        "label": "PERCENT",
+        "start": 84225,
+        "end": 84237
+    },
+    {
+        "text": "99.5 percent",
+        "label": "PERCENT",
+        "start": 84408,
+        "end": 84420
+    },
+    {
+        "text": "99.9 percent",
+        "label": "PERCENT",
+        "start": 84476,
+        "end": 84488
+    },
+    {
+        "text": "99.9 percent",
+        "label": "PERCENT",
+        "start": 84818,
+        "end": 84830
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 85188,
+        "end": 85195
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 85400,
+        "end": 85403
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 85405,
+        "end": 85408
+    },
+    {
+        "text": "8.6",
+        "label": "CARDINAL",
+        "start": 85410,
+        "end": 85413
+    },
+    {
+        "text": "8.7",
+        "label": "CARDINAL",
+        "start": 85418,
+        "end": 85421
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 85487,
+        "end": 85494
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 85754,
+        "end": 85757
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 85759,
+        "end": 85762
+    },
+    {
+        "text": "8.6",
+        "label": "CARDINAL",
+        "start": 85764,
+        "end": 85767
+    },
+    {
+        "text": "8.7",
+        "label": "CARDINAL",
+        "start": 85772,
+        "end": 85775
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 85808,
+        "end": 85811
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 85982,
+        "end": 85991
+    },
+    {
+        "text": "last day",
+        "label": "DATE",
+        "start": 86017,
+        "end": 86025
+    },
+    {
+        "text": "first month",
+        "label": "DATE",
+        "start": 86033,
+        "end": 86044
+    },
+    {
+        "text": "the quarter",
+        "label": "DATE",
+        "start": 86066,
+        "end": 86077
+    },
+    {
+        "text": "2007",
+        "label": "DATE",
+        "start": 86203,
+        "end": 86207
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 86232,
+        "end": 86239
+    },
+    {
+        "text": "april 2007",
+        "label": "DATE",
+        "start": 86297,
+        "end": 86307
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 86353,
+        "end": 86356
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 86440,
+        "end": 86443
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 86445,
+        "end": 86446
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 86520,
+        "end": 86527
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 86766,
+        "end": 86767
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 86783,
+        "end": 86790
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 86921,
+        "end": 86924
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 87105,
+        "end": 87110
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 87238,
+        "end": 87241
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 87355,
+        "end": 87358
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 87698,
+        "end": 87700
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 87709,
+        "end": 87730
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 87732,
+        "end": 87735
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 87737,
+        "end": 87746
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 88213,
+        "end": 88216
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 88696,
+        "end": 88699
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 88901,
+        "end": 88904
+    },
+    {
+        "text": "non-ibm",
+        "label": "ORG",
+        "start": 88990,
+        "end": 88997
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 89584,
+        "end": 89587
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 90183,
+        "end": 90186
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 90188,
+        "end": 90191
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 90225,
+        "end": 90228
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 90343,
+        "end": 90346
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 90374,
+        "end": 90377
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 90706,
+        "end": 90711
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 90778,
+        "end": 90781
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 90977,
+        "end": 90980
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 91077,
+        "end": 91080
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 91309,
+        "end": 91312
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 91672,
+        "end": 91675
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 91928,
+        "end": 91931
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 91966,
+        "end": 91969
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 92173,
+        "end": 92178
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 92245,
+        "end": 92248
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 92320,
+        "end": 92322
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 92331,
+        "end": 92352
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 92354,
+        "end": 92357
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 92359,
+        "end": 92368
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 92516,
+        "end": 92519
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 92608,
+        "end": 92611
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 92678,
+        "end": 92681
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 93154,
+        "end": 93157
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 93194,
+        "end": 93197
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 93226,
+        "end": 93229
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 93392,
+        "end": 93395
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 93433,
+        "end": 93436
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 93921,
+        "end": 93924
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 94334,
+        "end": 94337
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 94461,
+        "end": 94464
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 94489,
+        "end": 94490
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 94516,
+        "end": 94519
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 94556,
+        "end": 94559
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 94606,
+        "end": 94609
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 94643,
+        "end": 94646
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 94883,
+        "end": 94888
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 94977,
+        "end": 94980
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 95007,
+        "end": 95010
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 95050,
+        "end": 95053
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 95436,
+        "end": 95439
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 95559,
+        "end": 95561
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 95570,
+        "end": 95591
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 95593,
+        "end": 95596
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 95598,
+        "end": 95607
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 95749,
+        "end": 95752
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 95984,
+        "end": 95987
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 96284,
+        "end": 96287
+    },
+    {
+        "text": "7 x",
+        "label": "QUANTITY",
+        "start": 97332,
+        "end": 97335
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 97336,
+        "end": 97338
+    },
+    {
+        "text": "each day",
+        "label": "DATE",
+        "start": 97339,
+        "end": 97347
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 97351,
+        "end": 97359
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 97830,
+        "end": 97833
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 97868,
+        "end": 97871
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 98025,
+        "end": 98032
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 98175,
+        "end": 98178
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 98192,
+        "end": 98194
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 98203,
+        "end": 98224
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 98226,
+        "end": 98229
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 98231,
+        "end": 98240
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 98261,
+        "end": 98265
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 98290,
+        "end": 98293
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 98442,
+        "end": 98445
+    },
+    {
+        "text": "hbas",
+        "label": "PERSON",
+        "start": 98587,
+        "end": 98591
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 99010,
+        "end": 99014
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 99050,
+        "end": 99054
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 99312,
+        "end": 99315
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 99504,
+        "end": 99512
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 99539,
+        "end": 99543
+    },
+    {
+        "text": "san",
+        "label": "ORG",
+        "start": 99687,
+        "end": 99690
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 99848,
+        "end": 99851
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 100009,
+        "end": 100011
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 100020,
+        "end": 100041
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 100043,
+        "end": 100046
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 100048,
+        "end": 100057
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 100116,
+        "end": 100119
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 100481,
+        "end": 100484
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 100870,
+        "end": 100873
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 101293,
+        "end": 101296
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 101458,
+        "end": 101463
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 101501,
+        "end": 101507
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 101542,
+        "end": 101547
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 101575,
+        "end": 101580
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 101680,
+        "end": 101683
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 101723,
+        "end": 101729
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 101797,
+        "end": 101799
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 101860,
+        "end": 101865
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 101980,
+        "end": 101983
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 102169,
+        "end": 102170
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 102492,
+        "end": 102494
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 102503,
+        "end": 102524
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 102526,
+        "end": 102529
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 102531,
+        "end": 102540
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 102578,
+        "end": 102581
+    },
+    {
+        "text": "each day",
+        "label": "DATE",
+        "start": 103070,
+        "end": 103078
+    },
+    {
+        "text": "the\nyear",
+        "label": "DATE",
+        "start": 103082,
+        "end": 103090
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 103107,
+        "end": 103110
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 103204,
+        "end": 103207
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 103387,
+        "end": 103394
+    },
+    {
+        "text": "microsoft sql",
+        "label": "ORG",
+        "start": 103784,
+        "end": 103797
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 103800,
+        "end": 103803
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 105360,
+        "end": 105362
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 105371,
+        "end": 105392
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 105394,
+        "end": 105397
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 105399,
+        "end": 105408
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 105542,
+        "end": 105547
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 105564,
+        "end": 105567
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 106055,
+        "end": 106058
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 106213,
+        "end": 106216
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 106932,
+        "end": 106935
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 107309,
+        "end": 107312
+    },
+    {
+        "text": "customer’s",
+        "label": "PERSON",
+        "start": 108855,
+        "end": 108865
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 109189,
+        "end": 109192
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 109209,
+        "end": 109211
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 109213,
+        "end": 109220
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 109387,
+        "end": 109390
+    },
+    {
+        "text": "24x7",
+        "label": "CARDINAL",
+        "start": 109550,
+        "end": 109554
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 109617,
+        "end": 109620
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 109697,
+        "end": 109699
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 109708,
+        "end": 109729
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 109731,
+        "end": 109734
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 109736,
+        "end": 109745
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 110260,
+        "end": 110263
+    },
+    {
+        "text": "atlanta",
+        "label": "GPE",
+        "start": 110315,
+        "end": 110322
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 110378,
+        "end": 110379
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 110558,
+        "end": 110561
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 110961,
+        "end": 110963
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 110972,
+        "end": 110993
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 110995,
+        "end": 110998
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 111000,
+        "end": 111009
+    },
+    {
+        "text": "atlanta",
+        "label": "GPE",
+        "start": 111099,
+        "end": 111106
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 111183,
+        "end": 111184
+    },
+    {
+        "text": "intel",
+        "label": "ORG",
+        "start": 111197,
+        "end": 111202
+    },
+    {
+        "text": "3.33ghz",
+        "label": "CARDINAL",
+        "start": 111225,
+        "end": 111232
+    },
+    {
+        "text": "1333mhz 80w",
+        "label": "CARDINAL",
+        "start": 111237,
+        "end": 111248
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 111282,
+        "end": 111283
+    },
+    {
+        "text": "73",
+        "label": "CARDINAL",
+        "start": 111286,
+        "end": 111288
+    },
+    {
+        "text": "gb",
+        "label": "PERSON",
+        "start": 111289,
+        "end": 111291
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 111444,
+        "end": 111447
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 111505,
+        "end": 111506
+    },
+    {
+        "text": "4x 3",
+        "label": "CARDINAL",
+        "start": 111514,
+        "end": 111518
+    },
+    {
+        "text": "3 x",
+        "label": "QUANTITY",
+        "start": 111560,
+        "end": 111563
+    },
+    {
+        "text": "73",
+        "label": "CARDINAL",
+        "start": 111564,
+        "end": 111566
+    },
+    {
+        "text": "gb",
+        "label": "PERSON",
+        "start": 111567,
+        "end": 111569
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 111570,
+        "end": 111573
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 111617,
+        "end": 111618
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 111642,
+        "end": 111643
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 111736,
+        "end": 111739
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 111780,
+        "end": 111784
+    },
+    {
+        "text": "san ",
+        "label": "GPE",
+        "start": 111908,
+        "end": 111912
+    },
+    {
+        "text": "san storage",
+        "label": "GPE",
+        "start": 111957,
+        "end": 111968
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 112064,
+        "end": 112066
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 112075,
+        "end": 112096
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 112098,
+        "end": 112101
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 112103,
+        "end": 112112
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 112214,
+        "end": 112217
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 112245,
+        "end": 112248
+    },
+    {
+        "text": "b.\n ",
+        "label": "PERSON",
+        "start": 112314,
+        "end": 112318
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 112321,
+        "end": 112323
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 112332,
+        "end": 112353
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 112355,
+        "end": 112358
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 112360,
+        "end": 112369
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 112393,
+        "end": 112396
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 112410,
+        "end": 112413
+    },
+    {
+        "text": "january 2009",
+        "label": "DATE",
+        "start": 112489,
+        "end": 112501
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 112541,
+        "end": 112544
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 112554,
+        "end": 112561
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 112580,
+        "end": 112587
+    },
+    {
+        "text": "37,000.00",
+        "label": "CARDINAL",
+        "start": 112638,
+        "end": 112647
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 112738,
+        "end": 112747
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 112829,
+        "end": 112835
+    },
+    {
+        "text": "89.10",
+        "label": "CARDINAL",
+        "start": 112876,
+        "end": 112881
+    },
+    {
+        "text": "188.02",
+        "label": "CARDINAL",
+        "start": 112952,
+        "end": 112958
+    },
+    {
+        "text": "sql",
+        "label": "PERSON",
+        "start": 112988,
+        "end": 112991
+    },
+    {
+        "text": "204.37",
+        "label": "CARDINAL",
+        "start": 112992,
+        "end": 112998
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 113022,
+        "end": 113028
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 113131,
+        "end": 113138
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 113199,
+        "end": 113202
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 113230,
+        "end": 113236
+    },
+    {
+        "text": "fifteen",
+        "label": "DATE",
+        "start": 113248,
+        "end": 113255
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 113257,
+        "end": 113259
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 113405,
+        "end": 113408
+    },
+    {
+        "text": "each month",
+        "label": "DATE",
+        "start": 113453,
+        "end": 113463
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 113649,
+        "end": 113655
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 113687,
+        "end": 113693
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 113758,
+        "end": 113761
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 113789,
+        "end": 113795
+    },
+    {
+        "text": "fifteen",
+        "label": "DATE",
+        "start": 113807,
+        "end": 113814
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 113816,
+        "end": 113818
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 113839,
+        "end": 113841
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 113853,
+        "end": 113859
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 113900,
+        "end": 113906
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 113937,
+        "end": 113943
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 114080,
+        "end": 114087
+    },
+    {
+        "text": "ibm",
+        "label": "ORG",
+        "start": 114132,
+        "end": 114135
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 114163,
+        "end": 114169
+    },
+    {
+        "text": "fifteen",
+        "label": "DATE",
+        "start": 114190,
+        "end": 114197
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 114199,
+        "end": 114201
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 114345,
+        "end": 114351
+    },
+    {
+        "text": "3-year",
+        "label": "DATE",
+        "start": 114456,
+        "end": 114462
+    },
+    {
+        "text": "thirty six",
+        "label": "DATE",
+        "start": 114464,
+        "end": 114474
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 114476,
+        "end": 114478
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 114574,
+        "end": 114579
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 114626,
+        "end": 114630
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 114635,
+        "end": 114641
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 114664,
+        "end": 114671
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 114696,
+        "end": 114699
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 114722,
+        "end": 114727
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 114791,
+        "end": 114797
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 114844,
+        "end": 114849
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 114851,
+        "end": 114852
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 114883,
+        "end": 114890
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 114908,
+        "end": 114914
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 115007,
+        "end": 115010
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 115012,
+        "end": 115013
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 115044,
+        "end": 115051
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 115064,
+        "end": 115066
+    },
+    {
+        "text": "quantum group inc /fl",
+        "label": "ORG",
+        "start": 115075,
+        "end": 115096
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 115098,
+        "end": 115101
+    },
+    {
+        "text": "1/20/2009",
+        "label": "DATE",
+        "start": 115103,
+        "end": 115112
+    }
+]

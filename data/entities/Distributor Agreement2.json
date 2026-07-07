@@ -1,0 +1,3692 @@
+[
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "cisco systems, inc.",
+        "label": "ORG",
+        "start": 322,
+        "end": 341
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 464,
+        "end": 480
+    },
+    {
+        "text": "south carolina",
+        "label": "GPE",
+        "start": 484,
+        "end": 498
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 552,
+        "end": 553
+    },
+    {
+        "text": "greenville",
+        "label": "GPE",
+        "start": 567,
+        "end": 577
+    },
+    {
+        "text": "south carolina",
+        "label": "GPE",
+        "start": 579,
+        "end": 593
+    },
+    {
+        "text": "29615",
+        "label": "DATE",
+        "start": 595,
+        "end": 600
+    },
+    {
+        "text": "cisco systems, inc.",
+        "label": "ORG",
+        "start": 622,
+        "end": 641
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 645,
+        "end": 655
+    },
+    {
+        "text": "170",
+        "label": "CARDINAL",
+        "start": 708,
+        "end": 711
+    },
+    {
+        "text": "san jose",
+        "label": "GPE",
+        "start": 731,
+        "end": 739
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 741,
+        "end": 751
+    },
+    {
+        "text": "95134 - 1706",
+        "label": "DATE",
+        "start": 752,
+        "end": 764
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 992,
+        "end": 993
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1063,
+        "end": 1064
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 1087,
+        "end": 1088
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 1141,
+        "end": 1144
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1154,
+        "end": 1155
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 1211,
+        "end": 1212
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 1252,
+        "end": 1253
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 1293,
+        "end": 1294
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 1322,
+        "end": 1323
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 1377,
+        "end": 1378
+    },
+    {
+        "text": "scansource,inc.",
+        "label": "ORG",
+        "start": 2252,
+        "end": 2267
+    },
+    {
+        "text": "cisco systems, inc.",
+        "label": "ORG",
+        "start": 2284,
+        "end": 2303
+    },
+    {
+        "text": "jeffrey e. yelton",
+        "label": "PERSON",
+        "start": 2322,
+        "end": 2339
+    },
+    {
+        "text": "frank a. calderon",
+        "label": "PERSON",
+        "start": 2348,
+        "end": 2365
+    },
+    {
+        "text": "jeffrey e. yelton",
+        "label": "PERSON",
+        "start": 2372,
+        "end": 2389
+    },
+    {
+        "text": "1/19/07",
+        "label": "CARDINAL",
+        "start": 2473,
+        "end": 2480
+    },
+    {
+        "text": "january 22, 2007",
+        "label": "DATE",
+        "start": 2487,
+        "end": 2503
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 2512,
+        "end": 2528
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 2530,
+        "end": 2534
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 2536,
+        "end": 2545
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 2554,
+        "end": 2559
+    },
+    {
+        "text": "1.0",
+        "label": "CARDINAL",
+        "start": 2628,
+        "end": 2631
+    },
+    {
+        "text": "quarter",
+        "label": "DATE",
+        "start": 2957,
+        "end": 2964
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 2976,
+        "end": 2981
+    },
+    {
+        "text": "fiscal quarters",
+        "label": "DATE",
+        "start": 2984,
+        "end": 2999
+    },
+    {
+        "text": "august 1-october 31;",
+        "label": "DATE",
+        "start": 3001,
+        "end": 3021
+    },
+    {
+        "text": "1-january 31;",
+        "label": "DATE",
+        "start": 3031,
+        "end": 3044
+    },
+    {
+        "text": "february 1-april",
+        "label": "DATE",
+        "start": 3045,
+        "end": 3061
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3599,
+        "end": 3604
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3678,
+        "end": 3683
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 4270,
+        "end": 4275
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 4327,
+        "end": 4332
+    },
+    {
+        "text": "cisco technologies, inc.",
+        "label": "ORG",
+        "start": 4336,
+        "end": 4360
+    },
+    {
+        "text": "cti",
+        "label": "ORG",
+        "start": 4363,
+        "end": 4366
+    },
+    {
+        "text": "cti",
+        "label": "ORG",
+        "start": 4418,
+        "end": 4421
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 5131,
+        "end": 5136
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 5576,
+        "end": 5581
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 5727,
+        "end": 5732
+    },
+    {
+        "text": "cisco",
+        "label": "PERSON",
+        "start": 6001,
+        "end": 6006
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 6566,
+        "end": 6571
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 6581,
+        "end": 6597
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 6599,
+        "end": 6603
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 6605,
+        "end": 6614
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 6623,
+        "end": 6628
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 7107,
+        "end": 7112
+    },
+    {
+        "text": "2.0",
+        "label": "CARDINAL",
+        "start": 7397,
+        "end": 7400
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 7716,
+        "end": 7721
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 8251,
+        "end": 8256
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 8260,
+        "end": 8265
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 8411,
+        "end": 8416
+    },
+    {
+        "text": "section 18",
+        "label": "LAW",
+        "start": 8594,
+        "end": 8604
+    },
+    {
+        "text": "3.0",
+        "label": "CARDINAL",
+        "start": 9156,
+        "end": 9159
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 9188,
+        "end": 9191
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 9742,
+        "end": 9745
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 10267,
+        "end": 10270
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 10690,
+        "end": 10693
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 11078,
+        "end": 11094
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 11096,
+        "end": 11100
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 11102,
+        "end": 11111
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 11120,
+        "end": 11125
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 11126,
+        "end": 11129
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 12216,
+        "end": 12221
+    },
+    {
+        "text": "4.0",
+        "label": "CARDINAL",
+        "start": 12532,
+        "end": 12535
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 12544,
+        "end": 12547
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 12608,
+        "end": 12613
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 13452,
+        "end": 13455
+    },
+    {
+        "text": "cisco.com",
+        "label": "CARDINAL",
+        "start": 13607,
+        "end": 13616
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 13690,
+        "end": 13695
+    },
+    {
+        "text": "cisco customer",
+        "label": "ORG",
+        "start": 13697,
+        "end": 13711
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 13911,
+        "end": 13916
+    },
+    {
+        "text": "cisco customer",
+        "label": "ORG",
+        "start": 13918,
+        "end": 13932
+    },
+    {
+        "text": "section 4.1",
+        "label": "LAW",
+        "start": 14013,
+        "end": 14024
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 14224,
+        "end": 14227
+    },
+    {
+        "text": "5.0",
+        "label": "CARDINAL",
+        "start": 15243,
+        "end": 15246
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 15269,
+        "end": 15272
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 15393,
+        "end": 15398
+    },
+    {
+        "text": "cisco",
+        "label": "ORG",
+        "start": 15443,
+        "end": 15448
+    },
+    {
+        "text": "cisco.com",
+        "label": "CARDINAL",
+        "start": 15526,
+        "end": 15535
+    },
+    {
+        "text": "cisco",
+        "label": "ORG",
+        "start": 15537,
+        "end": 15542
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 15733,
+        "end": 15736
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 15754,
+        "end": 15771
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 15818,
+        "end": 15823
+    },
+    {
+        "text": "cisco.com",
+        "label": "CARDINAL",
+        "start": 15869,
+        "end": 15878
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 15919,
+        "end": 15924
+    },
+    {
+        "text": "cisco.com",
+        "label": "CARDINAL",
+        "start": 16349,
+        "end": 16358
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 16360,
+        "end": 16363
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 16602,
+        "end": 16618
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 16620,
+        "end": 16624
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 16626,
+        "end": 16635
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 16644,
+        "end": 16649
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 16739,
+        "end": 16744
+    },
+    {
+        "text": "6.0",
+        "label": "CARDINAL",
+        "start": 16746,
+        "end": 16749
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 16759,
+        "end": 16762
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 16811,
+        "end": 16816
+    },
+    {
+        "text": "section 3.2",
+        "label": "LAW",
+        "start": 16901,
+        "end": 16912
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 17221,
+        "end": 17224
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 17437,
+        "end": 17440
+    },
+    {
+        "text": "valorem",
+        "label": "GPE",
+        "start": 17538,
+        "end": 17545
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 17652,
+        "end": 17657
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 17989,
+        "end": 17992
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 18147,
+        "end": 18152
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 18531,
+        "end": 18534
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 18693,
+        "end": 18698
+    },
+    {
+        "text": "cisco",
+        "label": "ORG",
+        "start": 18752,
+        "end": 18757
+    },
+    {
+        "text": "25.8",
+        "label": "CARDINAL",
+        "start": 18993,
+        "end": 18997
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 19043,
+        "end": 19046
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 19098,
+        "end": 19100
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 19122,
+        "end": 19124
+    },
+    {
+        "text": "18",
+        "label": "DATE",
+        "start": 19155,
+        "end": 19157
+    },
+    {
+        "text": "6.7",
+        "label": "CARDINAL",
+        "start": 19310,
+        "end": 19313
+    },
+    {
+        "text": "7.0",
+        "label": "CARDINAL",
+        "start": 19651,
+        "end": 19654
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 19673,
+        "end": 19676
+    },
+    {
+        "text": "7.0",
+        "label": "CARDINAL",
+        "start": 19718,
+        "end": 19721
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 20073,
+        "end": 20076
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 20199,
+        "end": 20204
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 21038,
+        "end": 21043
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 21398,
+        "end": 21403
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 21472,
+        "end": 21477
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 21492,
+        "end": 21508
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 21510,
+        "end": 21514
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 21516,
+        "end": 21525
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 21534,
+        "end": 21539
+    },
+    {
+        "text": "cisco",
+        "label": "ORG",
+        "start": 21557,
+        "end": 21562
+    },
+    {
+        "text": "8.0",
+        "label": "CARDINAL",
+        "start": 21665,
+        "end": 21668
+    },
+    {
+        "text": "9.0",
+        "label": "CARDINAL",
+        "start": 21678,
+        "end": 21681
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 21725,
+        "end": 21728
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 21952,
+        "end": 21955
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 22078,
+        "end": 22083
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 22131,
+        "end": 22136
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 22219,
+        "end": 22224
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 22234,
+        "end": 22236
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 22248,
+        "end": 22252
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 22829,
+        "end": 22833
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 23070,
+        "end": 23074
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 23119,
+        "end": 23124
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 23231,
+        "end": 23236
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 23374,
+        "end": 23379
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 23467,
+        "end": 23472
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 23526,
+        "end": 23531
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 23548,
+        "end": 23553
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 23566,
+        "end": 23570
+    },
+    {
+        "text": "10.0",
+        "label": "CARDINAL",
+        "start": 23640,
+        "end": 23644
+    },
+    {
+        "text": "cisco hereby disclaims",
+        "label": "ORG",
+        "start": 23646,
+        "end": 23668
+    },
+    {
+        "text": "section 15",
+        "label": "LAW",
+        "start": 24578,
+        "end": 24588
+    },
+    {
+        "text": "11.0",
+        "label": "CARDINAL",
+        "start": 24646,
+        "end": 24650
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 24663,
+        "end": 24667
+    },
+    {
+        "text": "the \"marks",
+        "label": "LAW",
+        "start": 24781,
+        "end": 24791
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 25140,
+        "end": 25145
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 25533,
+        "end": 25538
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 25599,
+        "end": 25603
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 25720,
+        "end": 25736
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 25738,
+        "end": 25742
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 25744,
+        "end": 25753
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 25762,
+        "end": 25767
+    },
+    {
+        "text": "non​",
+        "label": "DATE",
+        "start": 25835,
+        "end": 25839
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 25889,
+        "end": 25894
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 25940,
+        "end": 25945
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 26014,
+        "end": 26019
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 26079,
+        "end": 26083
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 26213,
+        "end": 26218
+    },
+    {
+        "text": "12.0",
+        "label": "CARDINAL",
+        "start": 27142,
+        "end": 27146
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 27776,
+        "end": 27780
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 27784,
+        "end": 27788
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 27852,
+        "end": 27857
+    },
+    {
+        "text": "february",
+        "label": "DATE",
+        "start": 27904,
+        "end": 27912
+    },
+    {
+        "text": "august",
+        "label": "DATE",
+        "start": 27919,
+        "end": 27925
+    },
+    {
+        "text": "november",
+        "label": "DATE",
+        "start": 27931,
+        "end": 27939
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 27941,
+        "end": 27945
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 27949,
+        "end": 27953
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 28087,
+        "end": 28091
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 28120,
+        "end": 28123
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 28165,
+        "end": 28170
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 28218,
+        "end": 28221
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 28235,
+        "end": 28239
+    },
+    {
+        "text": "section 17.2",
+        "label": "LAW",
+        "start": 28330,
+        "end": 28342
+    },
+    {
+        "text": "13.0",
+        "label": "CARDINAL",
+        "start": 28347,
+        "end": 28351
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 28379,
+        "end": 28383
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 28531,
+        "end": 28535
+    },
+    {
+        "text": "17.0",
+        "label": "CARDINAL",
+        "start": 28619,
+        "end": 28623
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 28746,
+        "end": 28749
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 28762,
+        "end": 28766
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 29110,
+        "end": 29114
+    },
+    {
+        "text": "14.0",
+        "label": "CARDINAL",
+        "start": 29118,
+        "end": 29122
+    },
+    {
+        "text": "15.0",
+        "label": "CARDINAL",
+        "start": 29132,
+        "end": 29136
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 29172,
+        "end": 29176
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 29296,
+        "end": 29312
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 29314,
+        "end": 29318
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 29320,
+        "end": 29329
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 29338,
+        "end": 29343
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 29519,
+        "end": 29524
+    },
+    {
+        "text": "cisco",
+        "label": "ORG",
+        "start": 29555,
+        "end": 29560
+    },
+    {
+        "text": "cisco",
+        "label": "PERSON",
+        "start": 29774,
+        "end": 29779
+    },
+    {
+        "text": "15.1.1",
+        "label": "CARDINAL",
+        "start": 29866,
+        "end": 29872
+    },
+    {
+        "text": "cisco full",
+        "label": "ORG",
+        "start": 29978,
+        "end": 29988
+    },
+    {
+        "text": "15.1.3",
+        "label": "CARDINAL",
+        "start": 30114,
+        "end": 30120
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 30315,
+        "end": 30319
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 30356,
+        "end": 30361
+    },
+    {
+        "text": "united states",
+        "label": "GPE",
+        "start": 30380,
+        "end": 30393
+    },
+    {
+        "text": "united states",
+        "label": "GPE",
+        "start": 30441,
+        "end": 30454
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 30521,
+        "end": 30538
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 30589,
+        "end": 30606
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 30709,
+        "end": 30714
+    },
+    {
+        "text": "15.3",
+        "label": "CARDINAL",
+        "start": 30738,
+        "end": 30742
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 30780,
+        "end": 30785
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 31219,
+        "end": 31224
+    },
+    {
+        "text": "15.4",
+        "label": "CARDINAL",
+        "start": 31323,
+        "end": 31327
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 31359,
+        "end": 31364
+    },
+    {
+        "text": "15.4.1",
+        "label": "CARDINAL",
+        "start": 31472,
+        "end": 31478
+    },
+    {
+        "text": "15.4.4",
+        "label": "CARDINAL",
+        "start": 32008,
+        "end": 32014
+    },
+    {
+        "text": "15.4.5",
+        "label": "CARDINAL",
+        "start": 32098,
+        "end": 32104
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 32144,
+        "end": 32149
+    },
+    {
+        "text": "15.5",
+        "label": "CARDINAL",
+        "start": 32373,
+        "end": 32377
+    },
+    {
+        "text": "15.6",
+        "label": "CARDINAL",
+        "start": 32826,
+        "end": 32830
+    },
+    {
+        "text": "16.0",
+        "label": "CARDINAL",
+        "start": 32835,
+        "end": 32839
+    },
+    {
+        "text": "exhibit b. distributor",
+        "label": "PERSON",
+        "start": 32894,
+        "end": 32916
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 32935,
+        "end": 32940
+    },
+    {
+        "text": "17.0",
+        "label": "CARDINAL",
+        "start": 33088,
+        "end": 33092
+    },
+    {
+        "text": "17.1",
+        "label": "CARDINAL",
+        "start": 33114,
+        "end": 33118
+    },
+    {
+        "text": "regular business hours",
+        "label": "TIME",
+        "start": 33627,
+        "end": 33649
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 33844,
+        "end": 33846
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 33923,
+        "end": 33939
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 33941,
+        "end": 33945
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 33947,
+        "end": 33956
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 33965,
+        "end": 33970
+    },
+    {
+        "text": "17.2",
+        "label": "CARDINAL",
+        "start": 34192,
+        "end": 34196
+    },
+    {
+        "text": "17.3",
+        "label": "CARDINAL",
+        "start": 34211,
+        "end": 34215
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 34415,
+        "end": 34420
+    },
+    {
+        "text": "17.4",
+        "label": "CARDINAL",
+        "start": 34465,
+        "end": 34469
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 34619,
+        "end": 34624
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 34718,
+        "end": 34722
+    },
+    {
+        "text": "17.5",
+        "label": "CARDINAL",
+        "start": 34742,
+        "end": 34746
+    },
+    {
+        "text": "18.0",
+        "label": "CARDINAL",
+        "start": 35032,
+        "end": 35036
+    },
+    {
+        "text": "18.1",
+        "label": "CARDINAL",
+        "start": 35059,
+        "end": 35063
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 35156,
+        "end": 35159
+    },
+    {
+        "text": "2) years",
+        "label": "DATE",
+        "start": 35161,
+        "end": 35169
+    },
+    {
+        "text": "18.2",
+        "label": "CARDINAL",
+        "start": 35365,
+        "end": 35369
+    },
+    {
+        "text": "18.5",
+        "label": "CARDINAL",
+        "start": 35373,
+        "end": 35377
+    },
+    {
+        "text": "at least thirty",
+        "label": "CARDINAL",
+        "start": 35436,
+        "end": 35451
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 35453,
+        "end": 35461
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 35615,
+        "end": 35618
+    },
+    {
+        "text": "1) year",
+        "label": "DATE",
+        "start": 35620,
+        "end": 35627
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 35882,
+        "end": 35887
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 35956,
+        "end": 35961
+    },
+    {
+        "text": "18.2",
+        "label": "CARDINAL",
+        "start": 36278,
+        "end": 36282
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 36399,
+        "end": 36403
+    },
+    {
+        "text": "section 9.0",
+        "label": "LAW",
+        "start": 36565,
+        "end": 36576
+    },
+    {
+        "text": "section 11.0",
+        "label": "LAW",
+        "start": 36622,
+        "end": 36634
+    },
+    {
+        "text": "18.3",
+        "label": "CARDINAL",
+        "start": 36737,
+        "end": 36741
+    },
+    {
+        "text": "18.4",
+        "label": "CARDINAL",
+        "start": 37238,
+        "end": 37242
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 37286,
+        "end": 37290
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 37481,
+        "end": 37486
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 37600,
+        "end": 37605
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 37719,
+        "end": 37724
+    },
+    {
+        "text": "18.5",
+        "label": "CARDINAL",
+        "start": 37732,
+        "end": 37736
+    },
+    {
+        "text": "9.0",
+        "label": "CARDINAL",
+        "start": 38316,
+        "end": 38319
+    },
+    {
+        "text": "18.6",
+        "label": "CARDINAL",
+        "start": 38633,
+        "end": 38637
+    },
+    {
+        "text": "section 9.0",
+        "label": "LAW",
+        "start": 38927,
+        "end": 38938
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 39124,
+        "end": 39140
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 39142,
+        "end": 39146
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 39148,
+        "end": 39157
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 39166,
+        "end": 39171
+    },
+    {
+        "text": "18.7",
+        "label": "CARDINAL",
+        "start": 39215,
+        "end": 39219
+    },
+    {
+        "text": "18.8",
+        "label": "CARDINAL",
+        "start": 39224,
+        "end": 39228
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 39314,
+        "end": 39319
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 40057,
+        "end": 40062
+    },
+    {
+        "text": "18.9",
+        "label": "CARDINAL",
+        "start": 40367,
+        "end": 40371
+    },
+    {
+        "text": "section 18.9",
+        "label": "LAW",
+        "start": 40663,
+        "end": 40675
+    },
+    {
+        "text": "18.10",
+        "label": "CARDINAL",
+        "start": 40761,
+        "end": 40766
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 40798,
+        "end": 40801
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 40843,
+        "end": 40848
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 40896,
+        "end": 40899
+    },
+    {
+        "text": "18.11",
+        "label": "CARDINAL",
+        "start": 40909,
+        "end": 40914
+    },
+    {
+        "text": "19.0",
+        "label": "CARDINAL",
+        "start": 41609,
+        "end": 41613
+    },
+    {
+        "text": "cisco technical data",
+        "label": "ORG",
+        "start": 41839,
+        "end": 41859
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 43103,
+        "end": 43108
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 43906,
+        "end": 43911
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 44059,
+        "end": 44075
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 44077,
+        "end": 44081
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 44083,
+        "end": 44092
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 44101,
+        "end": 44106
+    },
+    {
+        "text": "20.0",
+        "label": "CARDINAL",
+        "start": 44215,
+        "end": 44219
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 44368,
+        "end": 44385
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 44387,
+        "end": 44391
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 44552,
+        "end": 44556
+    },
+    {
+        "text": "21.0",
+        "label": "CARDINAL",
+        "start": 44605,
+        "end": 44609
+    },
+    {
+        "text": "21.1",
+        "label": "CARDINAL",
+        "start": 44632,
+        "end": 44636
+    },
+    {
+        "text": "21.2",
+        "label": "CARDINAL",
+        "start": 45264,
+        "end": 45268
+    },
+    {
+        "text": "21.3",
+        "label": "CARDINAL",
+        "start": 45431,
+        "end": 45435
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 45755,
+        "end": 45759
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 46508,
+        "end": 46525
+    },
+    {
+        "text": "21.4",
+        "label": "CARDINAL",
+        "start": 46884,
+        "end": 46888
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 47115,
+        "end": 47120
+    },
+    {
+        "text": "22.0",
+        "label": "CARDINAL",
+        "start": 47338,
+        "end": 47342
+    },
+    {
+        "text": "section 9",
+        "label": "LAW",
+        "start": 47497,
+        "end": 47506
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 48171,
+        "end": 48176
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 48324,
+        "end": 48327
+    },
+    {
+        "text": "23.0",
+        "label": "CARDINAL",
+        "start": 48373,
+        "end": 48377
+    },
+    {
+        "text": "section 9",
+        "label": "LAW",
+        "start": 48490,
+        "end": 48499
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 48745,
+        "end": 48761
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 48763,
+        "end": 48767
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 48769,
+        "end": 48778
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 48787,
+        "end": 48792
+    },
+    {
+        "text": "24.0",
+        "label": "CARDINAL",
+        "start": 49021,
+        "end": 49025
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 49460,
+        "end": 49465
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 49834,
+        "end": 49839
+    },
+    {
+        "text": "25.0",
+        "label": "CARDINAL",
+        "start": 50984,
+        "end": 50988
+    },
+    {
+        "text": "section 24",
+        "label": "LAW",
+        "start": 51706,
+        "end": 51716
+    },
+    {
+        "text": "26.0",
+        "label": "CARDINAL",
+        "start": 51736,
+        "end": 51740
+    },
+    {
+        "text": "26.1",
+        "label": "CARDINAL",
+        "start": 51768,
+        "end": 51772
+    },
+    {
+        "text": "26.2",
+        "label": "CARDINAL",
+        "start": 51776,
+        "end": 51780
+    },
+    {
+        "text": "27.0",
+        "label": "CARDINAL",
+        "start": 51784,
+        "end": 51788
+    },
+    {
+        "text": "27.1",
+        "label": "CARDINAL",
+        "start": 51809,
+        "end": 51813
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 51961,
+        "end": 51969
+    },
+    {
+        "text": "united states of america",
+        "label": "ORG",
+        "start": 51971,
+        "end": 51995
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 52138,
+        "end": 52148
+    },
+    {
+        "text": "the un convention",
+        "label": "ORG",
+        "start": 52252,
+        "end": 52269
+    },
+    {
+        "text": "27.2",
+        "label": "CARDINAL",
+        "start": 52536,
+        "end": 52540
+    },
+    {
+        "text": "27.3",
+        "label": "CARDINAL",
+        "start": 53181,
+        "end": 53185
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 53281,
+        "end": 53297
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 53299,
+        "end": 53303
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 53305,
+        "end": 53314
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 53323,
+        "end": 53328
+    },
+    {
+        "text": "27.4",
+        "label": "CARDINAL",
+        "start": 53436,
+        "end": 53440
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 53810,
+        "end": 53815
+    },
+    {
+        "text": "27.5",
+        "label": "CARDINAL",
+        "start": 54028,
+        "end": 54032
+    },
+    {
+        "text": "27.6",
+        "label": "CARDINAL",
+        "start": 54675,
+        "end": 54679
+    },
+    {
+        "text": "27.7",
+        "label": "CARDINAL",
+        "start": 55231,
+        "end": 55235
+    },
+    {
+        "text": "27.8",
+        "label": "CARDINAL",
+        "start": 55769,
+        "end": 55773
+    },
+    {
+        "text": "1) day",
+        "label": "DATE",
+        "start": 55887,
+        "end": 55893
+    },
+    {
+        "text": "next day",
+        "label": "DATE",
+        "start": 55953,
+        "end": 55961
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 55975,
+        "end": 55978
+    },
+    {
+        "text": "2) days",
+        "label": "DATE",
+        "start": 55980,
+        "end": 55987
+    },
+    {
+        "text": "2-day",
+        "label": "DATE",
+        "start": 56034,
+        "end": 56039
+    },
+    {
+        "text": "cisco.com",
+        "label": "CARDINAL",
+        "start": 56480,
+        "end": 56489
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 56756,
+        "end": 56761
+    },
+    {
+        "text": "27.9",
+        "label": "CARDINAL",
+        "start": 56991,
+        "end": 56995
+    },
+    {
+        "text": "27.10",
+        "label": "CARDINAL",
+        "start": 57308,
+        "end": 57313
+    },
+    {
+        "text": "6.0",
+        "label": "CARDINAL",
+        "start": 57333,
+        "end": 57336
+    },
+    {
+        "text": "10.0",
+        "label": "CARDINAL",
+        "start": 57348,
+        "end": 57352
+    },
+    {
+        "text": "19.0",
+        "label": "CARDINAL",
+        "start": 57373,
+        "end": 57377
+    },
+    {
+        "text": "15.0",
+        "label": "CARDINAL",
+        "start": 57406,
+        "end": 57410
+    },
+    {
+        "text": "18",
+        "label": "DATE",
+        "start": 57448,
+        "end": 57450
+    },
+    {
+        "text": "17.0",
+        "label": "CARDINAL",
+        "start": 57475,
+        "end": 57479
+    },
+    {
+        "text": "20.0",
+        "label": "CARDINAL",
+        "start": 57503,
+        "end": 57507
+    },
+    {
+        "text": "22.0",
+        "label": "CARDINAL",
+        "start": 57531,
+        "end": 57535
+    },
+    {
+        "text": "23.0",
+        "label": "DATE",
+        "start": 57563,
+        "end": 57567
+    },
+    {
+        "text": "27.0",
+        "label": "CARDINAL",
+        "start": 57600,
+        "end": 57604
+    },
+    {
+        "text": "section 18.0",
+        "label": "LAW",
+        "start": 57753,
+        "end": 57765
+    },
+    {
+        "text": "27.11",
+        "label": "CARDINAL",
+        "start": 57816,
+        "end": 57821
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 57870,
+        "end": 57873
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 58055,
+        "end": 58071
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 58073,
+        "end": 58077
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 58079,
+        "end": 58088
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 58097,
+        "end": 58102
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 58103,
+        "end": 58106
+    },
+    {
+        "text": "27.12",
+        "label": "CARDINAL",
+        "start": 58554,
+        "end": 58559
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 58699,
+        "end": 58715
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 58717,
+        "end": 58721
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 58723,
+        "end": 58732
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 58741,
+        "end": 58746
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 58778,
+        "end": 58795
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 58832,
+        "end": 58848
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 58850,
+        "end": 58854
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 58856,
+        "end": 58865
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 58874,
+        "end": 58879
+    },
+    {
+        "text": "1.0",
+        "label": "CARDINAL",
+        "start": 58930,
+        "end": 58933
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 59255,
+        "end": 59260
+    },
+    {
+        "text": "6:00 am to 6:00 pm pacific standard time",
+        "label": "TIME",
+        "start": 59364,
+        "end": 59404
+    },
+    {
+        "text": "monday through friday",
+        "label": "DATE",
+        "start": 59405,
+        "end": 59426
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 59470,
+        "end": 59474
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 59479,
+        "end": 59485
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 59502,
+        "end": 59506
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 59511,
+        "end": 59517
+    },
+    {
+        "text": "8:00 am to 6:00 pm",
+        "label": "TIME",
+        "start": 59525,
+        "end": 59543
+    },
+    {
+        "text": "australia",
+        "label": "GPE",
+        "start": 59544,
+        "end": 59553
+    },
+    {
+        "text": "central european",
+        "label": "NORP",
+        "start": 59582,
+        "end": 59598
+    },
+    {
+        "text": "monday through friday",
+        "label": "DATE",
+        "start": 59605,
+        "end": 59626
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 59679,
+        "end": 59684
+    },
+    {
+        "text": "2.0",
+        "label": "CARDINAL",
+        "start": 59716,
+        "end": 59719
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 59842,
+        "end": 59845
+    },
+    {
+        "text": "cisco",
+        "label": "ORG",
+        "start": 59858,
+        "end": 59863
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 59923,
+        "end": 59926
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 59950,
+        "end": 59953
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 59967,
+        "end": 59970
+    },
+    {
+        "text": "2.4.1",
+        "label": "CARDINAL",
+        "start": 59989,
+        "end": 59994
+    },
+    {
+        "text": "cisco",
+        "label": "ORG",
+        "start": 60117,
+        "end": 60122
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 60318,
+        "end": 60323
+    },
+    {
+        "text": "2.4.2",
+        "label": "CARDINAL",
+        "start": 60346,
+        "end": 60351
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 60500,
+        "end": 60505
+    },
+    {
+        "text": "2.4.3",
+        "label": "CARDINAL",
+        "start": 60549,
+        "end": 60554
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 60620,
+        "end": 60625
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 60640,
+        "end": 60643
+    },
+    {
+        "text": "resell cisco brand services whereby services",
+        "label": "ORG",
+        "start": 60848,
+        "end": 60892
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 60973,
+        "end": 60978
+    },
+    {
+        "text": "3.0",
+        "label": "CARDINAL",
+        "start": 61286,
+        "end": 61289
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 61326,
+        "end": 61329
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 61485,
+        "end": 61488
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 61597,
+        "end": 61606
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 61777,
+        "end": 61780
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 61889,
+        "end": 61905
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 61907,
+        "end": 61911
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 61913,
+        "end": 61922
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 61931,
+        "end": 61936
+    },
+    {
+        "text": "3.3.1",
+        "label": "CARDINAL",
+        "start": 62187,
+        "end": 62192
+    },
+    {
+        "text": "3.3.2",
+        "label": "CARDINAL",
+        "start": 62434,
+        "end": 62439
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 62561,
+        "end": 62566
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 62648,
+        "end": 62651
+    },
+    {
+        "text": "3.4.1",
+        "label": "CARDINAL",
+        "start": 62718,
+        "end": 62723
+    },
+    {
+        "text": "3.4.2",
+        "label": "CARDINAL",
+        "start": 62878,
+        "end": 62883
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 62928,
+        "end": 62931
+    },
+    {
+        "text": "3.4.2.1",
+        "label": "CARDINAL",
+        "start": 62943,
+        "end": 62950
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 63233,
+        "end": 63236
+    },
+    {
+        "text": "3.4.2.2",
+        "label": "CARDINAL",
+        "start": 63246,
+        "end": 63253
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 63307,
+        "end": 63310
+    },
+    {
+        "text": "3.4.2.3",
+        "label": "CARDINAL",
+        "start": 63370,
+        "end": 63377
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 63452,
+        "end": 63455
+    },
+    {
+        "text": "3.4.3",
+        "label": "CARDINAL",
+        "start": 63464,
+        "end": 63469
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 63601,
+        "end": 63604
+    },
+    {
+        "text": "3.5.1",
+        "label": "CARDINAL",
+        "start": 63696,
+        "end": 63701
+    },
+    {
+        "text": "3.5.2",
+        "label": "CARDINAL",
+        "start": 63886,
+        "end": 63891
+    },
+    {
+        "text": "3.5.3",
+        "label": "CARDINAL",
+        "start": 64024,
+        "end": 64029
+    },
+    {
+        "text": "cisco brand services",
+        "label": "ORG",
+        "start": 64162,
+        "end": 64182
+    },
+    {
+        "text": "4.0",
+        "label": "CARDINAL",
+        "start": 64350,
+        "end": 64353
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 64395,
+        "end": 64398
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 64444,
+        "end": 64447
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 64514,
+        "end": 64517
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 64666,
+        "end": 64669
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64703,
+        "end": 64708
+    },
+    {
+        "text": "cisco",
+        "label": "ORG",
+        "start": 64742,
+        "end": 64747
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 64759,
+        "end": 64762
+    },
+    {
+        "text": "5.0",
+        "label": "CARDINAL",
+        "start": 64823,
+        "end": 64826
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 65067,
+        "end": 65083
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 65085,
+        "end": 65089
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 65091,
+        "end": 65100
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 65109,
+        "end": 65114
+    },
+    {
+        "text": "6.0",
+        "label": "CARDINAL",
+        "start": 65215,
+        "end": 65218
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 65880,
+        "end": 65896
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 65898,
+        "end": 65902
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 65904,
+        "end": 65913
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 65922,
+        "end": 65927
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 65937,
+        "end": 65938
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 66056,
+        "end": 66061
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 66301,
+        "end": 66317
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 66319,
+        "end": 66323
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 66325,
+        "end": 66334
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 66343,
+        "end": 66348
+    },
+    {
+        "text": "melinda hamilton",
+        "label": "PERSON",
+        "start": 66759,
+        "end": 66775
+    },
+    {
+        "text": "800",
+        "label": "CARDINAL",
+        "start": 66806,
+        "end": 66809
+    },
+    {
+        "text": "8187",
+        "label": "CARDINAL",
+        "start": 66825,
+        "end": 66829
+    },
+    {
+        "text": "901",
+        "label": "CARDINAL",
+        "start": 66836,
+        "end": 66839
+    },
+    {
+        "text": "369",
+        "label": "CARDINAL",
+        "start": 66841,
+        "end": 66844
+    },
+    {
+        "text": "4020",
+        "label": "CARDINAL",
+        "start": 66930,
+        "end": 66934
+    },
+    {
+        "text": "114",
+        "label": "CARDINAL",
+        "start": 66951,
+        "end": 66954
+    },
+    {
+        "text": "38115",
+        "label": "DATE",
+        "start": 66968,
+        "end": 66973
+    },
+    {
+        "text": "7:00 am - 2:00 pm",
+        "label": "TIME",
+        "start": 66991,
+        "end": 67008
+    },
+    {
+        "text": "deborah lucas",
+        "label": "PERSON",
+        "start": 67080,
+        "end": 67093
+    },
+    {
+        "text": "800",
+        "label": "CARDINAL",
+        "start": 67121,
+        "end": 67124
+    },
+    {
+        "text": "8111",
+        "label": "CARDINAL",
+        "start": 67140,
+        "end": 67144
+    },
+    {
+        "text": "901",
+        "label": "CARDINAL",
+        "start": 67151,
+        "end": 67154
+    },
+    {
+        "text": "367",
+        "label": "CARDINAL",
+        "start": 67156,
+        "end": 67159
+    },
+    {
+        "text": "4100",
+        "label": "CARDINAL",
+        "start": 67242,
+        "end": 67246
+    },
+    {
+        "text": "38115",
+        "label": "DATE",
+        "start": 67270,
+        "end": 67275
+    },
+    {
+        "text": "7:00 am - 12:00 pm (noon",
+        "label": "TIME",
+        "start": 67292,
+        "end": 67316
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 67671,
+        "end": 67672
+    },
+    {
+        "text": "one day's",
+        "label": "DATE",
+        "start": 67819,
+        "end": 67828
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 67842,
+        "end": 67845
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 67895,
+        "end": 67900
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 68301,
+        "end": 68302
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 68359,
+        "end": 68360
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 68445,
+        "end": 68447
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 68459,
+        "end": 68460
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 68682,
+        "end": 68698
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 68700,
+        "end": 68704
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 68706,
+        "end": 68715
+    },
+    {
+        "text": "10.38\n4",
+        "label": "CARDINAL",
+        "start": 68724,
+        "end": 68731
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 68830,
+        "end": 68831
+    },
+    {
+        "text": "48",
+        "label": "CARDINAL",
+        "start": 68873,
+        "end": 68875
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 68882,
+        "end": 68886
+    },
+    {
+        "text": "40",
+        "label": "CARDINAL",
+        "start": 68928,
+        "end": 68930
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 68937,
+        "end": 68938
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 68975,
+        "end": 68976
+    },
+    {
+        "text": "48",
+        "label": "CARDINAL",
+        "start": 69005,
+        "end": 69007
+    },
+    {
+        "text": "cisco",
+        "label": "ORG",
+        "start": 69328,
+        "end": 69333
+    },
+    {
+        "text": "901",
+        "label": "CARDINAL",
+        "start": 69611,
+        "end": 69614
+    },
+    {
+        "text": "362",
+        "label": "CARDINAL",
+        "start": 69616,
+        "end": 69619
+    },
+    {
+        "text": "less than 250",
+        "label": "CARDINAL",
+        "start": 69777,
+        "end": 69790
+    },
+    {
+        "text": "800",
+        "label": "CARDINAL",
+        "start": 70041,
+        "end": 70044
+    },
+    {
+        "text": "874",
+        "label": "CARDINAL",
+        "start": 70046,
+        "end": 70049
+    },
+    {
+        "text": "-missouri",
+        "label": "GPE",
+        "start": 70147,
+        "end": 70156
+    },
+    {
+        "text": "-new jersey\n-north carolina",
+        "label": "PERSON",
+        "start": 70157,
+        "end": 70184
+    },
+    {
+        "text": "virginia",
+        "label": "GPE",
+        "start": 70245,
+        "end": 70253
+    },
+    {
+        "text": "arizona",
+        "label": "GPE",
+        "start": 70274,
+        "end": 70281
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 70282,
+        "end": 70292
+    },
+    {
+        "text": "colorado",
+        "label": "GPE",
+        "start": 70293,
+        "end": 70301
+    },
+    {
+        "text": "oregon",
+        "label": "GPE",
+        "start": 70302,
+        "end": 70308
+    },
+    {
+        "text": "washington",
+        "label": "GPE",
+        "start": 70309,
+        "end": 70319
+    },
+    {
+        "text": "800",
+        "label": "CARDINAL",
+        "start": 70367,
+        "end": 70370
+    },
+    {
+        "text": "610",
+        "label": "CARDINAL",
+        "start": 70372,
+        "end": 70375
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 70406,
+        "end": 70422
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 70424,
+        "end": 70428
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 70430,
+        "end": 70439
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 70448,
+        "end": 70453
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 70707,
+        "end": 70723
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 70725,
+        "end": 70729
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 70731,
+        "end": 70740
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 70749,
+        "end": 70754
+    },
+    {
+        "text": "section 1",
+        "label": "LAW",
+        "start": 70949,
+        "end": 70958
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 71054,
+        "end": 71055
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 71057,
+        "end": 71073
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 71074,
+        "end": 71075
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 71077,
+        "end": 71093
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 71117,
+        "end": 71118
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 71120,
+        "end": 71136
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 71151,
+        "end": 71152
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 71193,
+        "end": 71194
+    },
+    {
+        "text": "supply, inc.",
+        "label": "ORG",
+        "start": 71199,
+        "end": 71211
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 71220,
+        "end": 71236
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 71238,
+        "end": 71242
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 71244,
+        "end": 71253
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 71262,
+        "end": 71267
+    },
+    {
+        "text": "september 15, 2000",
+        "label": "DATE",
+        "start": 71319,
+        "end": 71337
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 71363,
+        "end": 71368
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 71475,
+        "end": 71476
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 71606,
+        "end": 71607
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 71971,
+        "end": 71972
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 72573,
+        "end": 72578
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 73395,
+        "end": 73400
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 73466,
+        "end": 73471
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 73803,
+        "end": 73808
+    },
+    {
+        "text": "at least 50.1",
+        "label": "CARDINAL",
+        "start": 74439,
+        "end": 74452
+    },
+    {
+        "text": "as least 50.1",
+        "label": "CARDINAL",
+        "start": 74532,
+        "end": 74545
+    },
+    {
+        "text": "transferee",
+        "label": "CARDINAL",
+        "start": 74618,
+        "end": 74628
+    },
+    {
+        "text": "30 days'",
+        "label": "DATE",
+        "start": 75536,
+        "end": 75544
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 75696,
+        "end": 75712
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 75714,
+        "end": 75718
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 75720,
+        "end": 75729
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 75738,
+        "end": 75743
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 76196,
+        "end": 76201
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 76306,
+        "end": 76311
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 76331,
+        "end": 76336
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 76560,
+        "end": 76565
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 76631,
+        "end": 76636
+    },
+    {
+        "text": "30 days'",
+        "label": "DATE",
+        "start": 76723,
+        "end": 76731
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 76756,
+        "end": 76761
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 76854,
+        "end": 76859
+    },
+    {
+        "text": "transferee",
+        "label": "CARDINAL",
+        "start": 77513,
+        "end": 77523
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 77623,
+        "end": 77628
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 77651,
+        "end": 77656
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 77692,
+        "end": 77697
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 77847,
+        "end": 77863
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 77865,
+        "end": 77869
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 77871,
+        "end": 77880
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 77889,
+        "end": 77894
+    },
+    {
+        "text": "november 30, 2002",
+        "label": "DATE",
+        "start": 78832,
+        "end": 78849
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 79026,
+        "end": 79027
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 79048,
+        "end": 79053
+    },
+    {
+        "text": "6 months'",
+        "label": "DATE",
+        "start": 79067,
+        "end": 79076
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 79134,
+        "end": 79146
+    },
+    {
+        "text": "cisco.com",
+        "label": "CARDINAL",
+        "start": 79216,
+        "end": 79225
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 79519,
+        "end": 79520
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 79532,
+        "end": 79537
+    },
+    {
+        "text": "24 hours",
+        "label": "TIME",
+        "start": 79592,
+        "end": 79600
+    },
+    {
+        "text": "seven days",
+        "label": "DATE",
+        "start": 79608,
+        "end": 79618
+    },
+    {
+        "text": "5 years",
+        "label": "DATE",
+        "start": 79642,
+        "end": 79649
+    },
+    {
+        "text": "3 years",
+        "label": "DATE",
+        "start": 79746,
+        "end": 79753
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 79813,
+        "end": 79814
+    },
+    {
+        "text": "a period of 5 years",
+        "label": "DATE",
+        "start": 79879,
+        "end": 79898
+    },
+    {
+        "text": "rma",
+        "label": "EVENT",
+        "start": 80027,
+        "end": 80030
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 80041,
+        "end": 80042
+    },
+    {
+        "text": "the first year",
+        "label": "DATE",
+        "start": 80087,
+        "end": 80101
+    },
+    {
+        "text": "cisco.com",
+        "label": "CARDINAL",
+        "start": 80249,
+        "end": 80258
+    },
+    {
+        "text": "the first year",
+        "label": "DATE",
+        "start": 80278,
+        "end": 80292
+    },
+    {
+        "text": "a period of",
+        "label": "DATE",
+        "start": 80415,
+        "end": 80426
+    },
+    {
+        "text": "4 years",
+        "label": "DATE",
+        "start": 80427,
+        "end": 80434
+    },
+    {
+        "text": "the first year",
+        "label": "DATE",
+        "start": 80576,
+        "end": 80590
+    },
+    {
+        "text": "2 years",
+        "label": "DATE",
+        "start": 80721,
+        "end": 80728
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 80856,
+        "end": 80857
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 80944,
+        "end": 80949
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 81124,
+        "end": 81125
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 81426,
+        "end": 81435
+    },
+    {
+        "text": "12 months of end",
+        "label": "DATE",
+        "start": 81533,
+        "end": 81549
+    },
+    {
+        "text": "the last year",
+        "label": "DATE",
+        "start": 81654,
+        "end": 81667
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 81708,
+        "end": 81724
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 81726,
+        "end": 81730
+    },
+    {
+        "text": "8/22/2019",
+        "label": "DATE",
+        "start": 81732,
+        "end": 81741
+    },
+    {
+        "text": "10.38",
+        "label": "CARDINAL",
+        "start": 81750,
+        "end": 81755
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 81861,
+        "end": 81862
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 81870,
+        "end": 81871
+    },
+    {
+        "text": "day 0",
+        "label": "DATE",
+        "start": 81937,
+        "end": 81942
+    },
+    {
+        "text": "1 year",
+        "label": "DATE",
+        "start": 81943,
+        "end": 81949
+    },
+    {
+        "text": "2 year",
+        "label": "DATE",
+        "start": 81950,
+        "end": 81956
+    },
+    {
+        "text": "3 year",
+        "label": "DATE",
+        "start": 81957,
+        "end": 81963
+    },
+    {
+        "text": "4 year",
+        "label": "DATE",
+        "start": 81964,
+        "end": 81970
+    },
+    {
+        "text": "5 year\nend-",
+        "label": "DATE",
+        "start": 81971,
+        "end": 81982
+    },
+    {
+        "text": "4(a",
+        "label": "CARDINAL",
+        "start": 82071,
+        "end": 82074
+    },
+    {
+        "text": "4(b",
+        "label": "CARDINAL",
+        "start": 82080,
+        "end": 82083
+    },
+    {
+        "text": "4(a",
+        "label": "CARDINAL",
+        "start": 82338,
+        "end": 82341
+    },
+    {
+        "text": "cisco",
+        "label": "GPE",
+        "start": 83279,
+        "end": 83284
+    },
+    {
+        "text": "scansource, inc.",
+        "label": "ORG",
+        "start": 83484,
+        "end": 83500
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 83502,
+        "end": 83506
+    },
+    {
+        "text": "8/22/2019",
+        "label": "GPE",
+        "start": 83508,
+        "end": 83517
+    }
+]

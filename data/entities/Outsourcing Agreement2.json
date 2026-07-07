@@ -1,0 +1,614 @@
+[
+    {
+        "text": "10.13",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "chang",
+        "label": "PERSON",
+        "start": 96,
+        "end": 101
+    },
+    {
+        "text": "chen-bin",
+        "label": "PERSON",
+        "start": 102,
+        "end": 110
+    },
+    {
+        "text": "october 29",
+        "label": "DATE",
+        "start": 129,
+        "end": 139
+    },
+    {
+        "text": "2015",
+        "label": "DATE",
+        "start": 141,
+        "end": 145
+    },
+    {
+        "text": "imperial garden & resort, inc.",
+        "label": "ORG",
+        "start": 155,
+        "end": 185
+    },
+    {
+        "text": "10/28/2016",
+        "label": "PERSON",
+        "start": 201,
+        "end": 211
+    },
+    {
+        "text": "huang jia ",
+        "label": "PERSON",
+        "start": 299,
+        "end": 309
+    },
+    {
+        "text": "recreation inc.",
+        "label": "ORG",
+        "start": 326,
+        "end": 341
+    },
+    {
+        "text": "chang",
+        "label": "PERSON",
+        "start": 399,
+        "end": 404
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 739,
+        "end": 741
+    },
+    {
+        "text": "laotianliao",
+        "label": "GPE",
+        "start": 770,
+        "end": 781
+    },
+    {
+        "text": "about 29",
+        "label": "CARDINAL",
+        "start": 871,
+        "end": 879
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1213,
+        "end": 1214
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1273,
+        "end": 1274
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1494,
+        "end": 1495
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1583,
+        "end": 1584
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 1649,
+        "end": 1650
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 1693,
+        "end": 1694
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1812,
+        "end": 1813
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1863,
+        "end": 1864
+    },
+    {
+        "text": "imperial garden & resort, inc.",
+        "label": "ORG",
+        "start": 2117,
+        "end": 2147
+    },
+    {
+        "text": "10/28/2016",
+        "label": "PERSON",
+        "start": 2163,
+        "end": 2173
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 2732,
+        "end": 2733
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 2793,
+        "end": 2794
+    },
+    {
+        "text": "calculations &",
+        "label": "ORG",
+        "start": 3027,
+        "end": 3041
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3226,
+        "end": 3227
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3314,
+        "end": 3315
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 3379,
+        "end": 3380
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 3422,
+        "end": 3423
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3533,
+        "end": 3534
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3592,
+        "end": 3593
+    },
+    {
+        "text": "imperial garden & resort, inc.",
+        "label": "ORG",
+        "start": 4182,
+        "end": 4212
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 5128,
+        "end": 5131
+    },
+    {
+        "text": "12 million",
+        "label": "QUANTITY",
+        "start": 5235,
+        "end": 5245
+    },
+    {
+        "text": "twelve million",
+        "label": "CARDINAL",
+        "start": 5252,
+        "end": 5266
+    },
+    {
+        "text": "3.50",
+        "label": "CARDINAL",
+        "start": 5406,
+        "end": 5410
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 5873,
+        "end": 5874
+    },
+    {
+        "text": "1.2 million",
+        "label": "CARDINAL",
+        "start": 5899,
+        "end": 5910
+    },
+    {
+        "text": "one million",
+        "label": "CARDINAL",
+        "start": 5916,
+        "end": 5927
+    },
+    {
+        "text": "twenty thousand",
+        "label": "CARDINAL",
+        "start": 5932,
+        "end": 5947
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 6011,
+        "end": 6012
+    },
+    {
+        "text": "1.2 million",
+        "label": "CARDINAL",
+        "start": 6037,
+        "end": 6048
+    },
+    {
+        "text": "one million",
+        "label": "CARDINAL",
+        "start": 6054,
+        "end": 6065
+    },
+    {
+        "text": "twenty thousand",
+        "label": "CARDINAL",
+        "start": 6070,
+        "end": 6085
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 6207,
+        "end": 6208
+    },
+    {
+        "text": "1.2 million",
+        "label": "CARDINAL",
+        "start": 6233,
+        "end": 6244
+    },
+    {
+        "text": "one million",
+        "label": "CARDINAL",
+        "start": 6250,
+        "end": 6261
+    },
+    {
+        "text": "twenty thousand",
+        "label": "CARDINAL",
+        "start": 6266,
+        "end": 6281
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 6409,
+        "end": 6410
+    },
+    {
+        "text": "1.2 million",
+        "label": "CARDINAL",
+        "start": 6435,
+        "end": 6446
+    },
+    {
+        "text": "one million",
+        "label": "CARDINAL",
+        "start": 6452,
+        "end": 6463
+    },
+    {
+        "text": "twenty thousand",
+        "label": "CARDINAL",
+        "start": 6468,
+        "end": 6483
+    },
+    {
+        "text": "imperial garden & resort, inc.",
+        "label": "ORG",
+        "start": 6620,
+        "end": 6650
+    },
+    {
+        "text": "10/28/2016",
+        "label": "PERSON",
+        "start": 6666,
+        "end": 6676
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 6684,
+        "end": 6685
+    },
+    {
+        "text": "one million",
+        "label": "CARDINAL",
+        "start": 6725,
+        "end": 6736
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 6824,
+        "end": 6825
+    },
+    {
+        "text": "3 million",
+        "label": "QUANTITY",
+        "start": 6850,
+        "end": 6859
+    },
+    {
+        "text": "three million",
+        "label": "CARDINAL",
+        "start": 6865,
+        "end": 6878
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 6944,
+        "end": 6945
+    },
+    {
+        "text": "one million",
+        "label": "CARDINAL",
+        "start": 6985,
+        "end": 6996
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 7078,
+        "end": 7079
+    },
+    {
+        "text": "3.00",
+        "label": "CARDINAL",
+        "start": 7105,
+        "end": 7109
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 7315,
+        "end": 7316
+    },
+    {
+        "text": "0.5",
+        "label": "CARDINAL",
+        "start": 7342,
+        "end": 7345
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 7479,
+        "end": 7481
+    },
+    {
+        "text": "about 4",
+        "label": "CARDINAL",
+        "start": 9158,
+        "end": 9165
+    },
+    {
+        "text": "imperial garden & resort, inc.",
+        "label": "ORG",
+        "start": 9188,
+        "end": 9218
+    },
+    {
+        "text": "10/28/2016",
+        "label": "PERSON",
+        "start": 9234,
+        "end": 9244
+    },
+    {
+        "text": "about 2",
+        "label": "CARDINAL",
+        "start": 9278,
+        "end": 9285
+    },
+    {
+        "text": "about 2",
+        "label": "CARDINAL",
+        "start": 9353,
+        "end": 9360
+    },
+    {
+        "text": "1.0 month",
+        "label": "DATE",
+        "start": 9425,
+        "end": 9434
+    },
+    {
+        "text": "about 1.0\nmonth",
+        "label": "CARDINAL",
+        "start": 9557,
+        "end": 9572
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 9861,
+        "end": 9862
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 9908,
+        "end": 9909
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 9974,
+        "end": 9975
+    },
+    {
+        "text": "imperial garden & resort, inc.",
+        "label": "ORG",
+        "start": 10960,
+        "end": 10990
+    },
+    {
+        "text": "10/28/2016",
+        "label": "PERSON",
+        "start": 11006,
+        "end": 11016
+    },
+    {
+        "text": "one month",
+        "label": "DATE",
+        "start": 11228,
+        "end": 11237
+    },
+    {
+        "text": "taiwan",
+        "label": "GPE",
+        "start": 11540,
+        "end": 11546
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 11573,
+        "end": 11578
+    },
+    {
+        "text": "huang jia ",
+        "label": "PERSON",
+        "start": 11779,
+        "end": 11789
+    },
+    {
+        "text": "recreation inc.",
+        "label": "ORG",
+        "start": 11806,
+        "end": 11821
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 11837,
+        "end": 11838
+    },
+    {
+        "text": "106",
+        "label": "CARDINAL",
+        "start": 11844,
+        "end": 11847
+    },
+    {
+        "text": "zhouzi",
+        "label": "GPE",
+        "start": 11849,
+        "end": 11855
+    },
+    {
+        "text": "neihu district",
+        "label": "PERSON",
+        "start": 11864,
+        "end": 11878
+    },
+    {
+        "text": "taipei",
+        "label": "GPE",
+        "start": 11880,
+        "end": 11886
+    },
+    {
+        "text": "02-26582502",
+        "label": "CARDINAL",
+        "start": 11897,
+        "end": 11908
+    },
+    {
+        "text": "chang chen-bin",
+        "label": "PERSON",
+        "start": 11918,
+        "end": 11932
+    },
+    {
+        "text": "95822673",
+        "label": "DATE",
+        "start": 11963,
+        "end": 11971
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 11985,
+        "end": 11986
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 11994,
+        "end": 11996
+    },
+    {
+        "text": "575",
+        "label": "CARDINAL",
+        "start": 12002,
+        "end": 12005
+    },
+    {
+        "text": "taichung",
+        "label": "GPE",
+        "start": 12034,
+        "end": 12042
+    },
+    {
+        "text": "04-22373588",
+        "label": "DATE",
+        "start": 12053,
+        "end": 12064
+    },
+    {
+        "text": "04-22373388",
+        "label": "CARDINAL",
+        "start": 12070,
+        "end": 12081
+    },
+    {
+        "text": "october 29",
+        "label": "DATE",
+        "start": 12083,
+        "end": 12093
+    },
+    {
+        "text": "2015",
+        "label": "DATE",
+        "start": 12095,
+        "end": 12099
+    },
+    {
+        "text": "imperial garden & resort, inc.",
+        "label": "ORG",
+        "start": 12109,
+        "end": 12139
+    },
+    {
+        "text": "10/28/2016",
+        "label": "PERSON",
+        "start": 12155,
+        "end": 12165
+    }
+]

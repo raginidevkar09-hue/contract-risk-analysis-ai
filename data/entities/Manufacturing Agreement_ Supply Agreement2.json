@@ -1,0 +1,674 @@
+[
+    {
+        "text": "10.36",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "601(b)(10",
+        "label": "CARDINAL",
+        "start": 32,
+        "end": 41
+    },
+    {
+        "text": "da-9801",
+        "label": "ORG",
+        "start": 336,
+        "end": 343
+    },
+    {
+        "text": "september 28, 2018",
+        "label": "DATE",
+        "start": 432,
+        "end": 450
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 459,
+        "end": 488
+    },
+    {
+        "text": "9/3/2019",
+        "label": "CARDINAL",
+        "start": 495,
+        "end": 503
+    },
+    {
+        "text": "da-9801",
+        "label": "ORG",
+        "start": 540,
+        "end": 547
+    },
+    {
+        "text": "september 28, 2018",
+        "label": "DATE",
+        "start": 657,
+        "end": 675
+    },
+    {
+        "text": "korea",
+        "label": "GPE",
+        "start": 798,
+        "end": 803
+    },
+    {
+        "text": "64",
+        "label": "CARDINAL",
+        "start": 847,
+        "end": 849
+    },
+    {
+        "text": "dongdaemun-gu",
+        "label": "PERSON",
+        "start": 865,
+        "end": 878
+    },
+    {
+        "text": "seoul 02587",
+        "label": "ORG",
+        "start": 880,
+        "end": 891
+    },
+    {
+        "text": "korea",
+        "label": "GPE",
+        "start": 905,
+        "end": 910
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 1020,
+        "end": 1028
+    },
+    {
+        "text": "177",
+        "label": "CARDINAL",
+        "start": 1072,
+        "end": 1075
+    },
+    {
+        "text": "huntington avenue",
+        "label": "FAC",
+        "start": 1076,
+        "end": 1093
+    },
+    {
+        "text": "1700",
+        "label": "DATE",
+        "start": 1101,
+        "end": 1105
+    },
+    {
+        "text": "boston",
+        "label": "GPE",
+        "start": 1107,
+        "end": 1113
+    },
+    {
+        "text": "02115",
+        "label": "DATE",
+        "start": 1118,
+        "end": 1123
+    },
+    {
+        "text": "january 18, 2018",
+        "label": "DATE",
+        "start": 1233,
+        "end": 1249
+    },
+    {
+        "text": "april 18, 2018",
+        "label": "DATE",
+        "start": 1316,
+        "end": 1330
+    },
+    {
+        "text": "whereby dong",
+        "label": "PERSON",
+        "start": 1357,
+        "end": 1369
+    },
+    {
+        "text": "korea",
+        "label": "GPE",
+        "start": 2144,
+        "end": 2149
+    },
+    {
+        "text": "korea",
+        "label": "GPE",
+        "start": 2240,
+        "end": 2245
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3137,
+        "end": 3138
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 3254,
+        "end": 3283
+    },
+    {
+        "text": "9/3/2019",
+        "label": "DATE",
+        "start": 3290,
+        "end": 3298
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3354,
+        "end": 3355
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 3380,
+        "end": 3383
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 4060,
+        "end": 4063
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 4473,
+        "end": 4476
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 4719,
+        "end": 4722
+    },
+    {
+        "text": "dong-a.",
+        "label": "PERSON",
+        "start": 5791,
+        "end": 5798
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 5799,
+        "end": 5802
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 5888,
+        "end": 5909
+    },
+    {
+        "text": "dong-a.",
+        "label": "PERSON",
+        "start": 6247,
+        "end": 6254
+    },
+    {
+        "text": "dong-a",
+        "label": "PERSON",
+        "start": 6582,
+        "end": 6588
+    },
+    {
+        "text": "furnish dong",
+        "label": "PERSON",
+        "start": 6921,
+        "end": 6933
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 7591,
+        "end": 7594
+    },
+    {
+        "text": "affiliates and/or sublicensees",
+        "label": "ORG",
+        "start": 8029,
+        "end": 8059
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 8150,
+        "end": 8153
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 8899,
+        "end": 8900
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 8924,
+        "end": 8927
+    },
+    {
+        "text": "dong-a.",
+        "label": "PERSON",
+        "start": 9557,
+        "end": 9564
+    },
+    {
+        "text": "dong",
+        "label": "PERSON",
+        "start": 10522,
+        "end": 10526
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 10643,
+        "end": 10672
+    },
+    {
+        "text": "9/3/2019",
+        "label": "CARDINAL",
+        "start": 10679,
+        "end": 10687
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 10770,
+        "end": 10774
+    },
+    {
+        "text": "3.2 dong",
+        "label": "QUANTITY",
+        "start": 10967,
+        "end": 10975
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 11345,
+        "end": 11348
+    },
+    {
+        "text": "dong",
+        "label": "PERSON",
+        "start": 11858,
+        "end": 11862
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 13425,
+        "end": 13426
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 13457,
+        "end": 13460
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 13628,
+        "end": 13631
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 13734,
+        "end": 13737
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 13739,
+        "end": 13742
+    },
+    {
+        "text": "korean",
+        "label": "NORP",
+        "start": 13836,
+        "end": 13842
+    },
+    {
+        "text": "korean",
+        "label": "NORP",
+        "start": 14042,
+        "end": 14048
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 14298,
+        "end": 14327
+    },
+    {
+        "text": "9/3/2019",
+        "label": "DATE",
+        "start": 14334,
+        "end": 14342
+    },
+    {
+        "text": "dong-a.",
+        "label": "PERSON",
+        "start": 14346,
+        "end": 14353
+    },
+    {
+        "text": "citibank",
+        "label": "ORG",
+        "start": 14685,
+        "end": 14693
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 14697,
+        "end": 14705
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 14707,
+        "end": 14715
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 14749,
+        "end": 14757
+    },
+    {
+        "text": "4.4 dong",
+        "label": "QUANTITY",
+        "start": 14783,
+        "end": 14791
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 15012,
+        "end": 15015
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 15404,
+        "end": 15405
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 15428,
+        "end": 15431
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 15593,
+        "end": 15596
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 15720,
+        "end": 15723
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 16224,
+        "end": 16227
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 16507,
+        "end": 16515
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 16708,
+        "end": 16711
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 17283,
+        "end": 17312
+    },
+    {
+        "text": "9/3/2019",
+        "label": "CARDINAL",
+        "start": 17319,
+        "end": 17327
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 17328,
+        "end": 17329
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 17370,
+        "end": 17378
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 17651,
+        "end": 17652
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 17928,
+        "end": 17933
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 17935,
+        "end": 17936
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 18199,
+        "end": 18200
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 18250,
+        "end": 18253
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 18281,
+        "end": 18282
+    },
+    {
+        "text": "12.2",
+        "label": "DATE",
+        "start": 18302,
+        "end": 18306
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 18324,
+        "end": 18328
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 18343,
+        "end": 18347
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 18364,
+        "end": 18368
+    },
+    {
+        "text": "12.8",
+        "label": "CARDINAL",
+        "start": 18381,
+        "end": 18385
+    },
+    {
+        "text": "12.9",
+        "label": "CARDINAL",
+        "start": 18437,
+        "end": 18441
+    },
+    {
+        "text": "12.10",
+        "label": "CARDINAL",
+        "start": 18478,
+        "end": 18483
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 18655,
+        "end": 18684
+    },
+    {
+        "text": "9/3/2019",
+        "label": "CARDINAL",
+        "start": 18691,
+        "end": 18699
+    },
+    {
+        "text": "daesik eom",
+        "label": "PERSON",
+        "start": 18827,
+        "end": 18837
+    },
+    {
+        "text": "daesik eom",
+        "label": "PERSON",
+        "start": 18838,
+        "end": 18848
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 18867,
+        "end": 18896
+    },
+    {
+        "text": "john l. brooks",
+        "label": "PERSON",
+        "start": 18905,
+        "end": 18919
+    },
+    {
+        "text": "john l. brooks iii",
+        "label": "PERSON",
+        "start": 18925,
+        "end": 18943
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 19132,
+        "end": 19133
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 19144,
+        "end": 19173
+    },
+    {
+        "text": "9/3/2019",
+        "label": "CARDINAL",
+        "start": 19180,
+        "end": 19188
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 19232,
+        "end": 19233
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 19244,
+        "end": 19273
+    },
+    {
+        "text": "9/3/2019",
+        "label": "CARDINAL",
+        "start": 19280,
+        "end": 19288
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 19473,
+        "end": 19474
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 19516,
+        "end": 19517
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 19528,
+        "end": 19557
+    },
+    {
+        "text": "9/3/2019",
+        "label": "CARDINAL",
+        "start": 19564,
+        "end": 19572
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 19582,
+        "end": 19585
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 19611,
+        "end": 19612
+    },
+    {
+        "text": "neurobo pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 19623,
+        "end": 19652
+    },
+    {
+        "text": "9/3/2019",
+        "label": "CARDINAL",
+        "start": 19659,
+        "end": 19667
+    }
+]

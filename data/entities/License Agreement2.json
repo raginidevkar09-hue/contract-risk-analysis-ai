@@ -1,0 +1,2234 @@
+[
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 122,
+        "end": 140
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 240,
+        "end": 265
+    },
+    {
+        "text": "november 28, 2018",
+        "label": "DATE",
+        "start": 414,
+        "end": 431
+    },
+    {
+        "text": "artara, inc.",
+        "label": "ORG",
+        "start": 471,
+        "end": 483
+    },
+    {
+        "text": "1 little west 12th",
+        "label": "DATE",
+        "start": 495,
+        "end": 513
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 522,
+        "end": 530
+    },
+    {
+        "text": "10014",
+        "label": "DATE",
+        "start": 535,
+        "end": 540
+    },
+    {
+        "text": "the university of iowa",
+        "label": "ORG",
+        "start": 557,
+        "end": 579
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 628,
+        "end": 629
+    },
+    {
+        "text": "iowa city",
+        "label": "GPE",
+        "start": 644,
+        "end": 653
+    },
+    {
+        "text": "ia 52242",
+        "label": "PERSON",
+        "start": 655,
+        "end": 663
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 680,
+        "end": 686
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 815,
+        "end": 821
+    },
+    {
+        "text": "chugai pharmaceutical co., ltd.",
+        "label": "ORG",
+        "start": 1244,
+        "end": 1275
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1277,
+        "end": 1278
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1292,
+        "end": 1293
+    },
+    {
+        "text": "tokyo",
+        "label": "GPE",
+        "start": 1310,
+        "end": 1315
+    },
+    {
+        "text": "103",
+        "label": "CARDINAL",
+        "start": 1317,
+        "end": 1320
+    },
+    {
+        "text": "japan",
+        "label": "GPE",
+        "start": 1326,
+        "end": 1331
+    },
+    {
+        "text": "300",
+        "label": "CARDINAL",
+        "start": 1391,
+        "end": 1394
+    },
+    {
+        "text": "3100",
+        "label": "DATE",
+        "start": 1416,
+        "end": 1420
+    },
+    {
+        "text": "berkeley heights",
+        "label": "GPE",
+        "start": 1422,
+        "end": 1438
+    },
+    {
+        "text": "new jersey",
+        "label": "GPE",
+        "start": 1440,
+        "end": 1450
+    },
+    {
+        "text": "07922",
+        "label": "DATE",
+        "start": 1451,
+        "end": 1456
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 1660,
+        "end": 1663
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 1721,
+        "end": 1727
+    },
+    {
+        "text": "tara-002",
+        "label": "DATE",
+        "start": 1782,
+        "end": 1790
+    },
+    {
+        "text": "432;",
+        "label": "CARDINAL",
+        "start": 1842,
+        "end": 1846
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 1856,
+        "end": 1862
+    },
+    {
+        "text": "tara-002",
+        "label": "DATE",
+        "start": 2076,
+        "end": 2084
+    },
+    {
+        "text": "below);",
+        "label": "PERSON",
+        "start": 2114,
+        "end": 2121
+    },
+    {
+        "text": "artara.",
+        "label": "GPE",
+        "start": 2302,
+        "end": 2309
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 2481,
+        "end": 2484
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 2960,
+        "end": 2982
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 2984,
+        "end": 2986
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 3110,
+        "end": 3132
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 3134,
+        "end": 3136
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 3455,
+        "end": 3480
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 3482,
+        "end": 3485
+    },
+    {
+        "text": "1/10/2020",
+        "label": "CARDINAL",
+        "start": 3487,
+        "end": 3496
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 3497,
+        "end": 3500
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 3558,
+        "end": 3564
+    },
+    {
+        "text": "the university and/or principal\ninvestigator",
+        "label": "ORG",
+        "start": 3605,
+        "end": 3649
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 3709,
+        "end": 3712
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 3714,
+        "end": 3717
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 3725,
+        "end": 3742
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 3773,
+        "end": 3776
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 3860,
+        "end": 3863
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3865,
+        "end": 3870
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3898,
+        "end": 3903
+    },
+    {
+        "text": "1.6",
+        "label": "CARDINAL",
+        "start": 4127,
+        "end": 4130
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 4262,
+        "end": 4265
+    },
+    {
+        "text": "1.7",
+        "label": "CARDINAL",
+        "start": 4279,
+        "end": 4282
+    },
+    {
+        "text": "1.8",
+        "label": "CARDINAL",
+        "start": 4379,
+        "end": 4382
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 4466,
+        "end": 4469
+    },
+    {
+        "text": "1.9",
+        "label": "CARDINAL",
+        "start": 4514,
+        "end": 4517
+    },
+    {
+        "text": "artara and/or",
+        "label": "PERSON",
+        "start": 4608,
+        "end": 4621
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 4737,
+        "end": 4742
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 5815,
+        "end": 5840
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 5842,
+        "end": 5845
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 5847,
+        "end": 5856
+    },
+    {
+        "text": "1.10",
+        "label": "CARDINAL",
+        "start": 5970,
+        "end": 5974
+    },
+    {
+        "text": "japanese",
+        "label": "NORP",
+        "start": 6127,
+        "end": 6135
+    },
+    {
+        "text": "1.11",
+        "label": "CARDINAL",
+        "start": 6211,
+        "end": 6215
+    },
+    {
+        "text": "richard smith",
+        "label": "PERSON",
+        "start": 6247,
+        "end": 6260
+    },
+    {
+        "text": "md\n1.12",
+        "label": "PERSON",
+        "start": 6262,
+        "end": 6269
+    },
+    {
+        "text": "tara-002",
+        "label": "DATE",
+        "start": 6291,
+        "end": 6299
+    },
+    {
+        "text": "1.13",
+        "label": "CARDINAL",
+        "start": 6326,
+        "end": 6330
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 6534,
+        "end": 6551
+    },
+    {
+        "text": "1.14",
+        "label": "CARDINAL",
+        "start": 6711,
+        "end": 6715
+    },
+    {
+        "text": "1.15",
+        "label": "CARDINAL",
+        "start": 6961,
+        "end": 6965
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 7123,
+        "end": 7126
+    },
+    {
+        "text": "1.16",
+        "label": "CARDINAL",
+        "start": 7128,
+        "end": 7132
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 7211,
+        "end": 7217
+    },
+    {
+        "text": "1.17",
+        "label": "CARDINAL",
+        "start": 7305,
+        "end": 7309
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 7417,
+        "end": 7420
+    },
+    {
+        "text": "1.18",
+        "label": "CARDINAL",
+        "start": 7422,
+        "end": 7426
+    },
+    {
+        "text": "1.19",
+        "label": "CARDINAL",
+        "start": 7690,
+        "end": 7694
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7982,
+        "end": 7987
+    },
+    {
+        "text": "1.20",
+        "label": "CARDINAL",
+        "start": 8113,
+        "end": 8117
+    },
+    {
+        "text": "department, bureau, commission",
+        "label": "ORG",
+        "start": 8218,
+        "end": 8248
+    },
+    {
+        "text": "1.21",
+        "label": "CARDINAL",
+        "start": 8470,
+        "end": 8474
+    },
+    {
+        "text": "nda’s",
+        "label": "PERSON",
+        "start": 8572,
+        "end": 8577
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 8645,
+        "end": 8651
+    },
+    {
+        "text": "article three",
+        "label": "LAW",
+        "start": 8879,
+        "end": 8892
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 8909,
+        "end": 8934
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 8936,
+        "end": 8939
+    },
+    {
+        "text": "1/10/2020",
+        "label": "CARDINAL",
+        "start": 8941,
+        "end": 8950
+    },
+    {
+        "text": "1.23",
+        "label": "CARDINAL",
+        "start": 8951,
+        "end": 8955
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 8977,
+        "end": 8983
+    },
+    {
+        "text": "1.24",
+        "label": "CARDINAL",
+        "start": 9058,
+        "end": 9062
+    },
+    {
+        "text": "article two",
+        "label": "LAW",
+        "start": 9092,
+        "end": 9103
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 9112,
+        "end": 9115
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 9199,
+        "end": 9205
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 9579,
+        "end": 9582
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 9755,
+        "end": 9760
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 9866,
+        "end": 9872
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 9917,
+        "end": 9923
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 10106,
+        "end": 10112
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 10174,
+        "end": 10180
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 10318,
+        "end": 10339
+    },
+    {
+        "text": "artara contact",
+        "label": "GPE",
+        "start": 10432,
+        "end": 10446
+    },
+    {
+        "text": "ten (10) years",
+        "label": "DATE",
+        "start": 10689,
+        "end": 10703
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 10729,
+        "end": 10735
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 10874,
+        "end": 10880
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10962,
+        "end": 10967
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 11207,
+        "end": 11224
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 11278,
+        "end": 11284
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 11471,
+        "end": 11477
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 11645,
+        "end": 11651
+    },
+    {
+        "text": "cro",
+        "label": "ORG",
+        "start": 11807,
+        "end": 11810
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 11921,
+        "end": 11927
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 12010,
+        "end": 12016
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 12103,
+        "end": 12109
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 12204,
+        "end": 12210
+    },
+    {
+        "text": "notify university",
+        "label": "ORG",
+        "start": 12221,
+        "end": 12238
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 12409,
+        "end": 12434
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 12436,
+        "end": 12439
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 12441,
+        "end": 12450
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 12522,
+        "end": 12528
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 12530,
+        "end": 12536
+    },
+    {
+        "text": "richard smith",
+        "label": "PERSON",
+        "start": 12963,
+        "end": 12976
+    },
+    {
+        "text": "md",
+        "label": "GPE",
+        "start": 12978,
+        "end": 12980
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 12995,
+        "end": 13000
+    },
+    {
+        "text": "2009",
+        "label": "DATE",
+        "start": 13402,
+        "end": 13406
+    },
+    {
+        "text": "smith mc",
+        "label": "ORG",
+        "start": 13408,
+        "end": 13416
+    },
+    {
+        "text": "burke dk",
+        "label": "PERSON",
+        "start": 13432,
+        "end": 13440
+    },
+    {
+        "text": "laryngoscope",
+        "label": "PERSON",
+        "start": 13577,
+        "end": 13589
+    },
+    {
+        "text": "2009jan;119(1):107-15",
+        "label": "CARDINAL",
+        "start": 13591,
+        "end": 13612
+    },
+    {
+        "text": "10.1002",
+        "label": "CARDINAL",
+        "start": 13619,
+        "end": 13626
+    },
+    {
+        "text": "19117316",
+        "label": "DATE",
+        "start": 13652,
+        "end": 13660
+    },
+    {
+        "text": "article 5",
+        "label": "LAW",
+        "start": 13740,
+        "end": 13749
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 13758,
+        "end": 13761
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 13889,
+        "end": 13895
+    },
+    {
+        "text": "artara.",
+        "label": "GPE",
+        "start": 14274,
+        "end": 14281
+    },
+    {
+        "text": "article three",
+        "label": "LAW",
+        "start": 14282,
+        "end": 14295
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 14316,
+        "end": 14319
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 14397,
+        "end": 14403
+    },
+    {
+        "text": "thirty thousand dollars",
+        "label": "MONEY",
+        "start": 14417,
+        "end": 14440
+    },
+    {
+        "text": "30,000",
+        "label": "CARDINAL",
+        "start": 14445,
+        "end": 14451
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 14721,
+        "end": 14724
+    },
+    {
+        "text": "forty-five",
+        "label": "CARDINAL",
+        "start": 14772,
+        "end": 14782
+    },
+    {
+        "text": "45) days",
+        "label": "DATE",
+        "start": 14784,
+        "end": 14792
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 14835,
+        "end": 14838
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 14840,
+        "end": 14846
+    },
+    {
+        "text": "tara-002",
+        "label": "DATE",
+        "start": 14951,
+        "end": 14959
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 15017,
+        "end": 15020
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 15107,
+        "end": 15132
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 15134,
+        "end": 15137
+    },
+    {
+        "text": "1/10/2020",
+        "label": "CARDINAL",
+        "start": 15139,
+        "end": 15148
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 15149,
+        "end": 15152
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 15193,
+        "end": 15199
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 15243,
+        "end": 15249
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 15351,
+        "end": 15357
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 15417,
+        "end": 15423
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 15464,
+        "end": 15470
+    },
+    {
+        "text": "0 - 25,000,000",
+        "label": "QUANTITY",
+        "start": 15502,
+        "end": 15516
+    },
+    {
+        "text": "1.75",
+        "label": "CARDINAL",
+        "start": 15517,
+        "end": 15521
+    },
+    {
+        "text": "25,000,000 - 50,000,000",
+        "label": "QUANTITY",
+        "start": 15523,
+        "end": 15546
+    },
+    {
+        "text": "2.25",
+        "label": "CARDINAL",
+        "start": 15547,
+        "end": 15551
+    },
+    {
+        "text": "50,000,000",
+        "label": "CARDINAL",
+        "start": 15553,
+        "end": 15563
+    },
+    {
+        "text": "2.50",
+        "label": "CARDINAL",
+        "start": 15564,
+        "end": 15568
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 15569,
+        "end": 15572
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 15861,
+        "end": 15864
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 15909,
+        "end": 15915
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 15983,
+        "end": 15989
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 16141,
+        "end": 16147
+    },
+    {
+        "text": "25,000,000",
+        "label": "CARDINAL",
+        "start": 16215,
+        "end": 16225
+    },
+    {
+        "text": "62,500",
+        "label": "CARDINAL",
+        "start": 16226,
+        "end": 16232
+    },
+    {
+        "text": "50,000,000",
+        "label": "CARDINAL",
+        "start": 16233,
+        "end": 16243
+    },
+    {
+        "text": "62,500",
+        "label": "CARDINAL",
+        "start": 16244,
+        "end": 16250
+    },
+    {
+        "text": "100,000,000\n125,000",
+        "label": "CARDINAL",
+        "start": 16251,
+        "end": 16270
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 16271,
+        "end": 16274
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 16313,
+        "end": 16316
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 16318,
+        "end": 16321
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 16326,
+        "end": 16329
+    },
+    {
+        "text": "the university of iowa research foundation\nattn: accounting",
+        "label": "ORG",
+        "start": 16394,
+        "end": 16453
+    },
+    {
+        "text": "6 gilmore hall",
+        "label": "QUANTITY",
+        "start": 16454,
+        "end": 16468
+    },
+    {
+        "text": "112",
+        "label": "CARDINAL",
+        "start": 16469,
+        "end": 16472
+    },
+    {
+        "text": "ia 52242-5500",
+        "label": "PERSON",
+        "start": 16502,
+        "end": 16515
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 16562,
+        "end": 16587
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 16589,
+        "end": 16592
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 16594,
+        "end": 16603
+    },
+    {
+        "text": "the university of iowa research foundation",
+        "label": "ORG",
+        "start": 16624,
+        "end": 16666
+    },
+    {
+        "text": "2019-",
+        "label": "CARDINAL",
+        "start": 16684,
+        "end": 16689
+    },
+    {
+        "text": "068",
+        "label": "CARDINAL",
+        "start": 16690,
+        "end": 16693
+    },
+    {
+        "text": "richard smith",
+        "label": "PERSON",
+        "start": 16711,
+        "end": 16724
+    },
+    {
+        "text": "md",
+        "label": "GPE",
+        "start": 16726,
+        "end": 16728
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 16730,
+        "end": 16736
+    },
+    {
+        "text": "november 28, 2018",
+        "label": "DATE",
+        "start": 16784,
+        "end": 16801
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 16845,
+        "end": 16851
+    },
+    {
+        "text": "the university of iowa\nc/o",
+        "label": "ORG",
+        "start": 16981,
+        "end": 17007
+    },
+    {
+        "text": "118 s. clinton",
+        "label": "QUANTITY",
+        "start": 17032,
+        "end": 17046
+    },
+    {
+        "text": "ia 52242",
+        "label": "PERSON",
+        "start": 17062,
+        "end": 17070
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 17079,
+        "end": 17083
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 17115,
+        "end": 17118
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 17234,
+        "end": 17240
+    },
+    {
+        "text": "university’s",
+        "label": "ORG",
+        "start": 17256,
+        "end": 17268
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 17399,
+        "end": 17405
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 17454,
+        "end": 17460
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 17620,
+        "end": 17626
+    },
+    {
+        "text": "section 5",
+        "label": "LAW",
+        "start": 17672,
+        "end": 17681
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 17797,
+        "end": 17803
+    },
+    {
+        "text": "section 5",
+        "label": "LAW",
+        "start": 18057,
+        "end": 18066
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 18284,
+        "end": 18287
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 18325,
+        "end": 18331
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 18457,
+        "end": 18460
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 18528,
+        "end": 18534
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 18666,
+        "end": 18672
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 18708,
+        "end": 18714
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 18716,
+        "end": 18719
+    },
+    {
+        "text": "the university and/or principal",
+        "label": "ORG",
+        "start": 18885,
+        "end": 18916
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 19176,
+        "end": 19182
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 19218,
+        "end": 19224
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 19396,
+        "end": 19402
+    },
+    {
+        "text": "the university and artara.",
+        "label": "ORG",
+        "start": 19481,
+        "end": 19507
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 19517,
+        "end": 19542
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 19544,
+        "end": 19547
+    },
+    {
+        "text": "1/10/2020",
+        "label": "CARDINAL",
+        "start": 19549,
+        "end": 19558
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 19567,
+        "end": 19571
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 19610,
+        "end": 19613
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 19685,
+        "end": 19690
+    },
+    {
+        "text": "7) years",
+        "label": "DATE",
+        "start": 19692,
+        "end": 19700
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 20246,
+        "end": 20254
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 20320,
+        "end": 20323
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 20406,
+        "end": 20409
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 20950,
+        "end": 20955
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 21305,
+        "end": 21308
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 21544,
+        "end": 21547
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 21599,
+        "end": 21602
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 21635,
+        "end": 21641
+    },
+    {
+        "text": "the university of iowa’s",
+        "label": "ORG",
+        "start": 21793,
+        "end": 21817
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 21948,
+        "end": 21953
+    },
+    {
+        "text": "icmje (international committee of medical journal",
+        "label": "ORG",
+        "start": 22213,
+        "end": 22262
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 22392,
+        "end": 22398
+    },
+    {
+        "text": "artara shall",
+        "label": "ORG",
+        "start": 22521,
+        "end": 22533
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 22695,
+        "end": 22701
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 22886,
+        "end": 22892
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 23018,
+        "end": 23024
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 23097,
+        "end": 23103
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 23184,
+        "end": 23190
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 23539,
+        "end": 23564
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 23566,
+        "end": 23569
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 23571,
+        "end": 23580
+    },
+    {
+        "text": "article six",
+        "label": "LAW",
+        "start": 23581,
+        "end": 23592
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 23626,
+        "end": 23629
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 23900,
+        "end": 23903
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 24000,
+        "end": 24003
+    },
+    {
+        "text": "gcp",
+        "label": "ORG",
+        "start": 24018,
+        "end": 24021
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 24040,
+        "end": 24043
+    },
+    {
+        "text": "1572",
+        "label": "CARDINAL",
+        "start": 24044,
+        "end": 24048
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 24287,
+        "end": 24293
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 24298,
+        "end": 24304
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 24335,
+        "end": 24338
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 24456,
+        "end": 24462
+    },
+    {
+        "text": "the institutional review board",
+        "label": "ORG",
+        "start": 24867,
+        "end": 24897
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 25289,
+        "end": 25295
+    },
+    {
+        "text": "article four",
+        "label": "LAW",
+        "start": 25308,
+        "end": 25320
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 25720,
+        "end": 25726
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 26325,
+        "end": 26331
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 26401,
+        "end": 26407
+    },
+    {
+        "text": "artara",
+        "label": "ORG",
+        "start": 26609,
+        "end": 26615
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 26711,
+        "end": 26717
+    },
+    {
+        "text": "artara hereby\nwaives",
+        "label": "FAC",
+        "start": 26839,
+        "end": 26859
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 27060,
+        "end": 27085
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 27087,
+        "end": 27090
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 27092,
+        "end": 27101
+    },
+    {
+        "text": "the generic drug enforcement act of",
+        "label": "ORG",
+        "start": 27301,
+        "end": 27336
+    },
+    {
+        "text": "1992",
+        "label": "DATE",
+        "start": 27337,
+        "end": 27341
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 27367,
+        "end": 27373
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 27470,
+        "end": 27473
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 27491,
+        "end": 27497
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 27809,
+        "end": 27815
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 27993,
+        "end": 27998
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 28024,
+        "end": 28030
+    },
+    {
+        "text": "article 7 herein",
+        "label": "LAW",
+        "start": 28389,
+        "end": 28405
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 28507,
+        "end": 28512
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 28787,
+        "end": 28790
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 28810,
+        "end": 28816
+    },
+    {
+        "text": "the university of iowa research\nfoundation",
+        "label": "ORG",
+        "start": 28894,
+        "end": 28936
+    },
+    {
+        "text": "iowa",
+        "label": "GPE",
+        "start": 28967,
+        "end": 28971
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 29423,
+        "end": 29429
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 29721,
+        "end": 29727
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 29810,
+        "end": 29835
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 29837,
+        "end": 29840
+    },
+    {
+        "text": "1/10/2020",
+        "label": "CARDINAL",
+        "start": 29842,
+        "end": 29851
+    },
+    {
+        "text": "article seven",
+        "label": "LAW",
+        "start": 30139,
+        "end": 30152
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 30163,
+        "end": 30166
+    },
+    {
+        "text": "affiliates",
+        "label": "ORG",
+        "start": 30175,
+        "end": 30185
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 30867,
+        "end": 30873
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 31256,
+        "end": 31262
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 31848,
+        "end": 31851
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 31924,
+        "end": 31930
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 32121,
+        "end": 32124
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 32194,
+        "end": 32199
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 32234,
+        "end": 32240
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 32325,
+        "end": 32350
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 32352,
+        "end": 32355
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 32357,
+        "end": 32366
+    },
+    {
+        "text": "article eight",
+        "label": "LAW",
+        "start": 32367,
+        "end": 32380
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 32402,
+        "end": 32405
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 32448,
+        "end": 32454
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 32468,
+        "end": 32476
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 32513,
+        "end": 32516
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 32662,
+        "end": 32665
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 32679,
+        "end": 32685
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 32687,
+        "end": 32695
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 32866,
+        "end": 32872
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 32898,
+        "end": 32904
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 32982,
+        "end": 32988
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 33046,
+        "end": 33052
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 33151,
+        "end": 33154
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 33156,
+        "end": 33159
+    },
+    {
+        "text": "article three",
+        "label": "LAW",
+        "start": 33332,
+        "end": 33345
+    },
+    {
+        "text": "article four",
+        "label": "LAW",
+        "start": 33347,
+        "end": 33359
+    },
+    {
+        "text": "article five",
+        "label": "LAW",
+        "start": 33361,
+        "end": 33373
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 33384,
+        "end": 33387
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 33392,
+        "end": 33395
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 33410,
+        "end": 33415
+    },
+    {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 33424,
+        "end": 33428
+    },
+    {
+        "text": "article five",
+        "label": "LAW",
+        "start": 33503,
+        "end": 33515
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 33526,
+        "end": 33529
+    },
+    {
+        "text": "6.4",
+        "label": "DATE",
+        "start": 33534,
+        "end": 33537
+    },
+    {
+        "text": "article seven",
+        "label": "LAW",
+        "start": 33539,
+        "end": 33552
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 33562,
+        "end": 33565
+    },
+    {
+        "text": "article nine shall",
+        "label": "LAW",
+        "start": 33570,
+        "end": 33588
+    },
+    {
+        "text": "artara.",
+        "label": "GPE",
+        "start": 33646,
+        "end": 33653
+    },
+    {
+        "text": "article nine",
+        "label": "LAW",
+        "start": 33654,
+        "end": 33666
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 33681,
+        "end": 33684
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 34242,
+        "end": 34245
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 34704,
+        "end": 34707
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 34894,
+        "end": 34897
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 34966,
+        "end": 34972
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 35020,
+        "end": 35021
+    },
+    {
+        "text": "10014",
+        "label": "DATE",
+        "start": 35053,
+        "end": 35058
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 35068,
+        "end": 35093
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 35095,
+        "end": 35098
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 35100,
+        "end": 35109
+    },
+    {
+        "text": "jesse shefferman",
+        "label": "PERSON",
+        "start": 35121,
+        "end": 35137
+    },
+    {
+        "text": "the university of iowa\nc/",
+        "label": "ORG",
+        "start": 35191,
+        "end": 35216
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 35249,
+        "end": 35250
+    },
+    {
+        "text": "ia 52242",
+        "label": "PERSON",
+        "start": 35275,
+        "end": 35283
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 35300,
+        "end": 35303
+    },
+    {
+        "text": "iowa",
+        "label": "GPE",
+        "start": 35380,
+        "end": 35384
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 35386,
+        "end": 35389
+    },
+    {
+        "text": "9.6",
+        "label": "CARDINAL",
+        "start": 35541,
+        "end": 35544
+    },
+    {
+        "text": "artara",
+        "label": "GPE",
+        "start": 35595,
+        "end": 35601
+    },
+    {
+        "text": "9.7",
+        "label": "CARDINAL",
+        "start": 35772,
+        "end": 35775
+    },
+    {
+        "text": "9.8",
+        "label": "CARDINAL",
+        "start": 36040,
+        "end": 36043
+    },
+    {
+        "text": "9.9",
+        "label": "CARDINAL",
+        "start": 36702,
+        "end": 36705
+    },
+    {
+        "text": "9.10",
+        "label": "CARDINAL",
+        "start": 36958,
+        "end": 36962
+    },
+    {
+        "text": "9.11",
+        "label": "CARDINAL",
+        "start": 37192,
+        "end": 37196
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 37397,
+        "end": 37422
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 37424,
+        "end": 37427
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 37429,
+        "end": 37438
+    },
+    {
+        "text": "the day and year first",
+        "label": "DATE",
+        "start": 37550,
+        "end": 37572
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 37588,
+        "end": 37613
+    },
+    {
+        "text": "jesse shefferman",
+        "label": "PERSON",
+        "start": 37618,
+        "end": 37634
+    },
+    {
+        "text": "jesse shefferman",
+        "label": "PERSON",
+        "start": 37639,
+        "end": 37655
+    },
+    {
+        "text": "the university of iowa\n",
+        "label": "ORG",
+        "start": 37687,
+        "end": 37710
+    },
+    {
+        "text": "wendy beaver",
+        "label": "PERSON",
+        "start": 37714,
+        "end": 37726
+    },
+    {
+        "text": "wendy beaver",
+        "label": "PERSON",
+        "start": 37731,
+        "end": 37743
+    },
+    {
+        "text": "richard smith",
+        "label": "PERSON",
+        "start": 37852,
+        "end": 37865
+    },
+    {
+        "text": "richard smith",
+        "label": "PERSON",
+        "start": 37870,
+        "end": 37883
+    },
+    {
+        "text": "m.d.",
+        "label": "GPE",
+        "start": 37885,
+        "end": 37889
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 37956,
+        "end": 37981
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 37983,
+        "end": 37986
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 37988,
+        "end": 37997
+    },
+    {
+        "text": "artara therapeutics, inc.",
+        "label": "ORG",
+        "start": 38035,
+        "end": 38060
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 38062,
+        "end": 38065
+    },
+    {
+        "text": "1/10/2020",
+        "label": "DATE",
+        "start": 38067,
+        "end": 38076
+    }
+]

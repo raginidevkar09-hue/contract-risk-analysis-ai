@@ -1,0 +1,8294 @@
+[
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 80,
+        "end": 84
+    },
+    {
+        "text": "january 29",
+        "label": "DATE",
+        "start": 231,
+        "end": 241
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 243,
+        "end": 247
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 273,
+        "end": 276
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 278,
+        "end": 287
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 347,
+        "end": 350
+    },
+    {
+        "text": "section 2.1",
+        "label": "LAW",
+        "start": 476,
+        "end": 487
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 541,
+        "end": 544
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 593,
+        "end": 596
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 621,
+        "end": 624
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 703,
+        "end": 706
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 815,
+        "end": 818
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 957,
+        "end": 960
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 981,
+        "end": 984
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 1020,
+        "end": 1023
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 1071,
+        "end": 1074
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 1116,
+        "end": 1119
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 1172,
+        "end": 1175
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 1214,
+        "end": 1217
+    },
+    {
+        "text": "3.8",
+        "label": "CARDINAL",
+        "start": 1273,
+        "end": 1276
+    },
+    {
+        "text": "3.9",
+        "label": "CARDINAL",
+        "start": 1302,
+        "end": 1305
+    },
+    {
+        "text": "3.10",
+        "label": "CARDINAL",
+        "start": 1335,
+        "end": 1339
+    },
+    {
+        "text": "3.11",
+        "label": "CARDINAL",
+        "start": 1360,
+        "end": 1364
+    },
+    {
+        "text": "3.12",
+        "label": "CARDINAL",
+        "start": 1390,
+        "end": 1394
+    },
+    {
+        "text": "3.13",
+        "label": "CARDINAL",
+        "start": 1473,
+        "end": 1477
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 1566,
+        "end": 1569
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 1593,
+        "end": 1596
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 1643,
+        "end": 1646
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 1678,
+        "end": 1681
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 1752,
+        "end": 1755
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 1835,
+        "end": 1838
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 1891,
+        "end": 1894
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 1927,
+        "end": 1930
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 1988,
+        "end": 1991
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 2025,
+        "end": 2028
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 2085,
+        "end": 2088
+    },
+    {
+        "text": "5.7",
+        "label": "CARDINAL",
+        "start": 2116,
+        "end": 2119
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 2182,
+        "end": 2185
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 2259,
+        "end": 2262
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 2314,
+        "end": 2317
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 2392,
+        "end": 2395
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 2397,
+        "end": 2406
+    },
+    {
+        "text": "section 6.4",
+        "label": "LAW",
+        "start": 2407,
+        "end": 2418
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 2455,
+        "end": 2458
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 2491,
+        "end": 2494
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 2495,
+        "end": 2501
+    },
+    {
+        "text": "6.7",
+        "label": "CARDINAL",
+        "start": 2538,
+        "end": 2541
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 2675,
+        "end": 2678
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 2703,
+        "end": 2706
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 2777,
+        "end": 2780
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 2809,
+        "end": 2812
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 2846,
+        "end": 2849
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 2933,
+        "end": 2936
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 3012,
+        "end": 3015
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 3054,
+        "end": 3057
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 3108,
+        "end": 3111
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 3161,
+        "end": 3165
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 3188,
+        "end": 3191
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 3210,
+        "end": 3213
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 3247,
+        "end": 3250
+    },
+    {
+        "text": "9.6",
+        "label": "CARDINAL",
+        "start": 3272,
+        "end": 3275
+    },
+    {
+        "text": "9.8",
+        "label": "CARDINAL",
+        "start": 3339,
+        "end": 3342
+    },
+    {
+        "text": "9.9",
+        "label": "CARDINAL",
+        "start": 3375,
+        "end": 3378
+    },
+    {
+        "text": "9.10",
+        "label": "CARDINAL",
+        "start": 3417,
+        "end": 3421
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 3479,
+        "end": 3483
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 3504,
+        "end": 3508
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3543,
+        "end": 3548
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 3576,
+        "end": 3580
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 3598,
+        "end": 3602
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 3630,
+        "end": 3634
+    },
+    {
+        "text": "10.6",
+        "label": "CARDINAL",
+        "start": 3658,
+        "end": 3662
+    },
+    {
+        "text": "10.7",
+        "label": "CARDINAL",
+        "start": 3699,
+        "end": 3703
+    },
+    {
+        "text": "10.9",
+        "label": "CARDINAL",
+        "start": 3768,
+        "end": 3772
+    },
+    {
+        "text": "10.10",
+        "label": "CARDINAL",
+        "start": 3795,
+        "end": 3800
+    },
+    {
+        "text": "10.11",
+        "label": "CARDINAL",
+        "start": 3819,
+        "end": 3824
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 3847,
+        "end": 3852
+    },
+    {
+        "text": "10.13",
+        "label": "CARDINAL",
+        "start": 3907,
+        "end": 3912
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 4021,
+        "end": 4025
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 4064,
+        "end": 4068
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 4114,
+        "end": 4117
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 4119,
+        "end": 4128
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 4315,
+        "end": 4321
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 4366,
+        "end": 4369
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 4371,
+        "end": 4380
+    },
+    {
+        "text": "january 29, 2020",
+        "label": "DATE",
+        "start": 4427,
+        "end": 4443
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 4490,
+        "end": 4494
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 5138,
+        "end": 5144
+    },
+    {
+        "text": "appendix a. appendix",
+        "label": "PERSON",
+        "start": 5896,
+        "end": 5916
+    },
+    {
+        "text": "article ii",
+        "label": "LAW",
+        "start": 6036,
+        "end": 6046
+    },
+    {
+        "text": "section 2.1",
+        "label": "LAW",
+        "start": 6138,
+        "end": 6149
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 7252,
+        "end": 7255
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 7257,
+        "end": 7266
+    },
+    {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 8574,
+        "end": 8586
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 8588,
+        "end": 8589
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 9422,
+        "end": 9423
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 9579,
+        "end": 9580
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 9731,
+        "end": 9732
+    },
+    {
+        "text": "2.4(b",
+        "label": "CARDINAL",
+        "start": 9975,
+        "end": 9980
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 10269,
+        "end": 10272
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 10274,
+        "end": 10283
+    },
+    {
+        "text": "section 2.1(d",
+        "label": "LAW",
+        "start": 10284,
+        "end": 10297
+    },
+    {
+        "text": "section 2.1(d",
+        "label": "LAW",
+        "start": 10395,
+        "end": 10408
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 10763,
+        "end": 10766
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 11035,
+        "end": 11038
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 11305,
+        "end": 11309
+    },
+    {
+        "text": "section 2.4",
+        "label": "LAW",
+        "start": 12390,
+        "end": 12401
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 13602,
+        "end": 13605
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 13607,
+        "end": 13616
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 13674,
+        "end": 13678
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 14163,
+        "end": 14167
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 14409,
+        "end": 14414
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 14578,
+        "end": 14583
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 14718,
+        "end": 14723
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 14800,
+        "end": 14813
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 16344,
+        "end": 16347
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 16349,
+        "end": 16358
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 17710,
+        "end": 17723
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 19009,
+        "end": 19012
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 19408,
+        "end": 19411
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 19413,
+        "end": 19422
+    },
+    {
+        "text": "section 2.6",
+        "label": "LAW",
+        "start": 21795,
+        "end": 21806
+    },
+    {
+        "text": "4.6",
+        "label": "CARDINAL",
+        "start": 22790,
+        "end": 22793
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 22797,
+        "end": 22800
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 23151,
+        "end": 23154
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 23156,
+        "end": 23165
+    },
+    {
+        "text": "section 4.6",
+        "label": "LAW",
+        "start": 23236,
+        "end": 23247
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 23251,
+        "end": 23254
+    },
+    {
+        "text": "article iii",
+        "label": "PERSON",
+        "start": 23320,
+        "end": 23331
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 23365,
+        "end": 23368
+    },
+    {
+        "text": "section 3.2",
+        "label": "LAW",
+        "start": 23520,
+        "end": 23531
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 24676,
+        "end": 24683
+    },
+    {
+        "text": "verizon wireless",
+        "label": "ORG",
+        "start": 25439,
+        "end": 25455
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 25697,
+        "end": 25700
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 25702,
+        "end": 25711
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 25865,
+        "end": 25870
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 25881,
+        "end": 25887
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 28140,
+        "end": 28147
+    },
+    {
+        "text": "section 3.3",
+        "label": "LAW",
+        "start": 28396,
+        "end": 28407
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 29191,
+        "end": 29194
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 29196,
+        "end": 29205
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 32080,
+        "end": 32083
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 32632,
+        "end": 32635
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 32637,
+        "end": 32646
+    },
+    {
+        "text": "the end of the second month",
+        "label": "DATE",
+        "start": 32822,
+        "end": 32849
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 32860,
+        "end": 32869
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 33601,
+        "end": 33604
+    },
+    {
+        "text": "the second business day",
+        "label": "DATE",
+        "start": 33706,
+        "end": 33729
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 33845,
+        "end": 33851
+    },
+    {
+        "text": "section 4.3(c",
+        "label": "LAW",
+        "start": 33917,
+        "end": 33930
+    },
+    {
+        "text": "the last\nday",
+        "label": "DATE",
+        "start": 34200,
+        "end": 34212
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 34664,
+        "end": 34668
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35972,
+        "end": 35977
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 36100,
+        "end": 36103
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 36105,
+        "end": 36114
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 36743,
+        "end": 36746
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 36795,
+        "end": 36802
+    },
+    {
+        "text": "about the 15th day of each month",
+        "label": "DATE",
+        "start": 36830,
+        "end": 36862
+    },
+    {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 36890,
+        "end": 36902
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 36904,
+        "end": 36905
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 37145,
+        "end": 37152
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 37232,
+        "end": 37239
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 37614,
+        "end": 37621
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 37680,
+        "end": 37687
+    },
+    {
+        "text": "section 246.4(c)(1)(ii",
+        "label": "LAW",
+        "start": 37956,
+        "end": 37978
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 37987,
+        "end": 37991
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 38027,
+        "end": 38034
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 38059,
+        "end": 38064
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 38085,
+        "end": 38092
+    },
+    {
+        "text": "10-d",
+        "label": "CARDINAL",
+        "start": 38166,
+        "end": 38170
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 38300,
+        "end": 38307
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 39598,
+        "end": 39601
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 39603,
+        "end": 39612
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 40788,
+        "end": 40795
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 41102,
+        "end": 41109
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 41378,
+        "end": 41381
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 41383,
+        "end": 41384
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 42892,
+        "end": 42913
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 43420,
+        "end": 43423
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 43425,
+        "end": 43434
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 43443,
+        "end": 43446
+    },
+    {
+        "text": "section 3.8",
+        "label": "LAW",
+        "start": 43930,
+        "end": 43941
+    },
+    {
+        "text": "3.9",
+        "label": "CARDINAL",
+        "start": 44493,
+        "end": 44496
+    },
+    {
+        "text": "3.10",
+        "label": "CARDINAL",
+        "start": 44846,
+        "end": 44850
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 45206,
+        "end": 45212
+    },
+    {
+        "text": "3.10",
+        "label": "CARDINAL",
+        "start": 45301,
+        "end": 45305
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 46819,
+        "end": 46822
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 46824,
+        "end": 46833
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 47230,
+        "end": 47233
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 47267,
+        "end": 47270
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 47292,
+        "end": 47309
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 47963,
+        "end": 47984
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 48393,
+        "end": 48399
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 48706,
+        "end": 48709
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 48733,
+        "end": 48744
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 48884,
+        "end": 48895
+    },
+    {
+        "text": "3.11",
+        "label": "CARDINAL",
+        "start": 49672,
+        "end": 49676
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 49820,
+        "end": 49826
+    },
+    {
+        "text": "4.3(g",
+        "label": "LAW",
+        "start": 50105,
+        "end": 50110
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 50152,
+        "end": 50155
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 50157,
+        "end": 50166
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 50741,
+        "end": 50746
+    },
+    {
+        "text": "section 1",
+        "label": "LAW",
+        "start": 51443,
+        "end": 51452
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 51565,
+        "end": 51568
+    },
+    {
+        "text": "section 1",
+        "label": "LAW",
+        "start": 51712,
+        "end": 51721
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 52186,
+        "end": 52193
+    },
+    {
+        "text": "that month",
+        "label": "DATE",
+        "start": 52363,
+        "end": 52373
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 52498,
+        "end": 52499
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 52530,
+        "end": 52537
+    },
+    {
+        "text": "the prior month",
+        "label": "DATE",
+        "start": 52657,
+        "end": 52672
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 52749,
+        "end": 52750
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 52959,
+        "end": 52966
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 53034,
+        "end": 53041
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 53570,
+        "end": 53577
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 53939,
+        "end": 53942
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 53944,
+        "end": 53953
+    },
+    {
+        "text": "section 3.13",
+        "label": "LAW",
+        "start": 54640,
+        "end": 54652
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 54681,
+        "end": 54694
+    },
+    {
+        "text": "b)(x",
+        "label": "PERSON",
+        "start": 54985,
+        "end": 54989
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 55688,
+        "end": 55691
+    },
+    {
+        "text": "verizon wireless",
+        "label": "ORG",
+        "start": 56102,
+        "end": 56118
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 56587,
+        "end": 56590
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 56822,
+        "end": 56826
+    },
+    {
+        "text": "bank national association",
+        "label": "ORG",
+        "start": 56827,
+        "end": 56852
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 56876,
+        "end": 56880
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 57012,
+        "end": 57016
+    },
+    {
+        "text": "272062000;",
+        "label": "CARDINAL",
+        "start": 57095,
+        "end": 57105
+    },
+    {
+        "text": "272062001;",
+        "label": "CARDINAL",
+        "start": 57149,
+        "end": 57159
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 57186,
+        "end": 57189
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 57191,
+        "end": 57200
+    },
+    {
+        "text": "272062002;",
+        "label": "CARDINAL",
+        "start": 57293,
+        "end": 57303
+    },
+    {
+        "text": "272062003",
+        "label": "DATE",
+        "start": 57358,
+        "end": 57367
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 59006,
+        "end": 59022
+    },
+    {
+        "text": "8-102",
+        "label": "CARDINAL",
+        "start": 59292,
+        "end": 59297
+    },
+    {
+        "text": "8-501",
+        "label": "PRODUCT",
+        "start": 59716,
+        "end": 59721
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 60170,
+        "end": 60173
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 60175,
+        "end": 60184
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 60306,
+        "end": 60309
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 60329,
+        "end": 60357
+    },
+    {
+        "text": "section 4.2",
+        "label": "LAW",
+        "start": 60398,
+        "end": 60409
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 60553,
+        "end": 60559
+    },
+    {
+        "text": "greater than 25",
+        "label": "CARDINAL",
+        "start": 61255,
+        "end": 61270
+    },
+    {
+        "text": "11:00 a.m.",
+        "label": "TIME",
+        "start": 61952,
+        "end": 61962
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 61963,
+        "end": 61971
+    },
+    {
+        "text": "the business day",
+        "label": "DATE",
+        "start": 62038,
+        "end": 62054
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 62857,
+        "end": 62863
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 63279,
+        "end": 63284
+    },
+    {
+        "text": "the\nreserve account",
+        "label": "ORG",
+        "start": 63529,
+        "end": 63548
+    },
+    {
+        "text": "the second business day",
+        "label": "DATE",
+        "start": 63684,
+        "end": 63707
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 63941,
+        "end": 63950
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 64064,
+        "end": 64067
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 64069,
+        "end": 64078
+    },
+    {
+        "text": "section 5.6",
+        "label": "LAW",
+        "start": 64227,
+        "end": 64238
+    },
+    {
+        "text": "section 4.3",
+        "label": "LAW",
+        "start": 65379,
+        "end": 65390
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 65746,
+        "end": 65749
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 65751,
+        "end": 65752
+    },
+    {
+        "text": "verizon",
+        "label": "ORG",
+        "start": 65894,
+        "end": 65901
+    },
+    {
+        "text": "moody’s",
+        "label": "ORG",
+        "start": 65972,
+        "end": 65979
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 65991,
+        "end": 65994
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 66001,
+        "end": 66008
+    },
+    {
+        "text": "the second business day",
+        "label": "DATE",
+        "start": 66276,
+        "end": 66299
+    },
+    {
+        "text": "verizon",
+        "label": "ORG",
+        "start": 66350,
+        "end": 66357
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 66411,
+        "end": 66418
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 66589,
+        "end": 66590
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 66712,
+        "end": 66715
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 66717,
+        "end": 66718
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 66785,
+        "end": 66786
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 66948,
+        "end": 66949
+    },
+    {
+        "text": "section 3.5(d",
+        "label": "LAW",
+        "start": 66973,
+        "end": 66986
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 67024,
+        "end": 67030
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 67191,
+        "end": 67194
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 67196,
+        "end": 67205
+    },
+    {
+        "text": "section 4.3(b",
+        "label": "LAW",
+        "start": 67256,
+        "end": 67269
+    },
+    {
+        "text": "the second business day",
+        "label": "DATE",
+        "start": 67379,
+        "end": 67402
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 67786,
+        "end": 67789
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 67791,
+        "end": 67792
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 68063,
+        "end": 68069
+    },
+    {
+        "text": "section 4.3(b",
+        "label": "LAW",
+        "start": 68117,
+        "end": 68130
+    },
+    {
+        "text": "section 3.8",
+        "label": "LAW",
+        "start": 68255,
+        "end": 68266
+    },
+    {
+        "text": "section 3.9",
+        "label": "LAW",
+        "start": 68295,
+        "end": 68306
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 68371,
+        "end": 68378
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 69061,
+        "end": 69064
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 69066,
+        "end": 69067
+    },
+    {
+        "text": "the second business day",
+        "label": "DATE",
+        "start": 69456,
+        "end": 69479
+    },
+    {
+        "text": "dpp",
+        "label": "ORG",
+        "start": 70400,
+        "end": 70403
+    },
+    {
+        "text": "dpp",
+        "label": "ORG",
+        "start": 70870,
+        "end": 70873
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 71106,
+        "end": 71109
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 71111,
+        "end": 71120
+    },
+    {
+        "text": "section 2.2.1",
+        "label": "LAW",
+        "start": 71583,
+        "end": 71596
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 72045,
+        "end": 72048
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 72050,
+        "end": 72051
+    },
+    {
+        "text": "section 4.3(b)(i",
+        "label": "LAW",
+        "start": 72186,
+        "end": 72202
+    },
+    {
+        "text": "the second business day",
+        "label": "DATE",
+        "start": 72348,
+        "end": 72371
+    },
+    {
+        "text": "the second business day",
+        "label": "DATE",
+        "start": 72905,
+        "end": 72928
+    },
+    {
+        "text": "section 4.4",
+        "label": "ORG",
+        "start": 73019,
+        "end": 73030
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 73350,
+        "end": 73353
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 73355,
+        "end": 73356
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 74273,
+        "end": 74276
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 74278,
+        "end": 74287
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 74306,
+        "end": 74309
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 74311,
+        "end": 74312
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 75069,
+        "end": 75074
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 75499,
+        "end": 75502
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 75504,
+        "end": 75505
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 76313,
+        "end": 76318
+    },
+    {
+        "text": "section 4.5",
+        "label": "LAW",
+        "start": 76800,
+        "end": 76811
+    },
+    {
+        "text": "about the 15th day of each month",
+        "label": "DATE",
+        "start": 76868,
+        "end": 76900
+    },
+    {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 76928,
+        "end": 76940
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 76942,
+        "end": 76943
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 77079,
+        "end": 77086
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 77192,
+        "end": 77195
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 77197,
+        "end": 77206
+    },
+    {
+        "text": "section 8.2",
+        "label": "LAW",
+        "start": 77253,
+        "end": 77264
+    },
+    {
+        "text": "section 4.3(c",
+        "label": "LAW",
+        "start": 77286,
+        "end": 77299
+    },
+    {
+        "text": "article v\ndepositor\nsection 5.1",
+        "label": "ORG",
+        "start": 77320,
+        "end": 77351
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 78015,
+        "end": 78023
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 80372,
+        "end": 80375
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 80377,
+        "end": 80386
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 82183,
+        "end": 82186
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 83584,
+        "end": 83587
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 83589,
+        "end": 83598
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 83607,
+        "end": 83610
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 84014,
+        "end": 84021
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 84023,
+        "end": 84025
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 84929,
+        "end": 84932
+    },
+    {
+        "text": "section 5.5",
+        "label": "LAW",
+        "start": 85380,
+        "end": 85391
+    },
+    {
+        "text": "section 5.6",
+        "label": "LAW",
+        "start": 85907,
+        "end": 85918
+    },
+    {
+        "text": "section 5.7",
+        "label": "LAW",
+        "start": 86505,
+        "end": 86516
+    },
+    {
+        "text": "217",
+        "label": "CARDINAL",
+        "start": 86558,
+        "end": 86561
+    },
+    {
+        "text": "217",
+        "label": "CARDINAL",
+        "start": 86807,
+        "end": 86810
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 86906,
+        "end": 86909
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 87001,
+        "end": 87004
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 87006,
+        "end": 87015
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 90290,
+        "end": 90293
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 90295,
+        "end": 90304
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 92759,
+        "end": 92767
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 93388,
+        "end": 93391
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 93393,
+        "end": 93402
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 96533,
+        "end": 96536
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 96538,
+        "end": 96547
+    },
+    {
+        "text": "section 6.2",
+        "label": "LAW",
+        "start": 97027,
+        "end": 97038
+    },
+    {
+        "text": "section 6.3",
+        "label": "LAW",
+        "start": 99838,
+        "end": 99849
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 99925,
+        "end": 99928
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 99930,
+        "end": 99939
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 103685,
+        "end": 103688
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 103690,
+        "end": 103699
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 104290,
+        "end": 104293
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 104325,
+        "end": 104331
+    },
+    {
+        "text": "section 6.5",
+        "label": "LAW",
+        "start": 105282,
+        "end": 105293
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 105616,
+        "end": 105622
+    },
+    {
+        "text": "ninety (90) days",
+        "label": "DATE",
+        "start": 105658,
+        "end": 105674
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 105736,
+        "end": 105740
+    },
+    {
+        "text": "the fiscal year ended december 31, 2020",
+        "label": "DATE",
+        "start": 105832,
+        "end": 105871
+    },
+    {
+        "text": "the prior fiscal year",
+        "label": "DATE",
+        "start": 106074,
+        "end": 106095
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 106142,
+        "end": 106147
+    },
+    {
+        "text": "section 6.7",
+        "label": "LAW",
+        "start": 106645,
+        "end": 106656
+    },
+    {
+        "text": "ninety (90) days",
+        "label": "DATE",
+        "start": 106723,
+        "end": 106739
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 106801,
+        "end": 106805
+    },
+    {
+        "text": "the fiscal year ended december 31, 2020",
+        "label": "DATE",
+        "start": 106897,
+        "end": 106936
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 107230,
+        "end": 107233
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 107235,
+        "end": 107244
+    },
+    {
+        "text": "13a-18",
+        "label": "CARDINAL",
+        "start": 107376,
+        "end": 107382
+    },
+    {
+        "text": "15d-18",
+        "label": "CARDINAL",
+        "start": 107387,
+        "end": 107393
+    },
+    {
+        "text": "1122",
+        "label": "DATE",
+        "start": 107423,
+        "end": 107427
+    },
+    {
+        "text": "1-02(a)(3",
+        "label": "DATE",
+        "start": 108049,
+        "end": 108058
+    },
+    {
+        "text": "2-02(g",
+        "label": "CARDINAL",
+        "start": 108064,
+        "end": 108070
+    },
+    {
+        "text": "1122",
+        "label": "DATE",
+        "start": 108300,
+        "end": 108304
+    },
+    {
+        "text": "13a-14(d",
+        "label": "CARDINAL",
+        "start": 108807,
+        "end": 108815
+    },
+    {
+        "text": "15d-",
+        "label": "CARDINAL",
+        "start": 108821,
+        "end": 108825
+    },
+    {
+        "text": "2002",
+        "label": "DATE",
+        "start": 108909,
+        "end": 108913
+    },
+    {
+        "text": "exhibit b.",
+        "label": "PERSON",
+        "start": 109043,
+        "end": 109053
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 109474,
+        "end": 109480
+    },
+    {
+        "text": "10‑k",
+        "label": "CARDINAL",
+        "start": 109496,
+        "end": 109500
+    },
+    {
+        "text": "article vii",
+        "label": "PERSON",
+        "start": 110126,
+        "end": 110137
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 110682,
+        "end": 110685
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 110687,
+        "end": 110696
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 110946,
+        "end": 110949
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 111094,
+        "end": 111097
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 111102,
+        "end": 111105
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 111170,
+        "end": 111173
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 111178,
+        "end": 111181
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 111224,
+        "end": 111235
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 112085,
+        "end": 112089
+    },
+    {
+        "text": "ninety (90) days",
+        "label": "DATE",
+        "start": 112691,
+        "end": 112707
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 113535,
+        "end": 113538
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 113928,
+        "end": 113931
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 113933,
+        "end": 113942
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 114077,
+        "end": 114082
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 114084,
+        "end": 114092
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 114551,
+        "end": 114555
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 115744,
+        "end": 115747
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 115752,
+        "end": 115755
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 115820,
+        "end": 115823
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 115828,
+        "end": 115831
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 116583,
+        "end": 116594
+    },
+    {
+        "text": "section 7.1",
+        "label": "LAW",
+        "start": 116646,
+        "end": 116657
+    },
+    {
+        "text": "section 7.4",
+        "label": "LAW",
+        "start": 116834,
+        "end": 116845
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 117097,
+        "end": 117103
+    },
+    {
+        "text": "3.13",
+        "label": "CARDINAL",
+        "start": 117334,
+        "end": 117338
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 117655,
+        "end": 117658
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 117660,
+        "end": 117669
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 117781,
+        "end": 117784
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 117794,
+        "end": 117797
+    },
+    {
+        "text": "less than 50,000,000",
+        "label": "CARDINAL",
+        "start": 118033,
+        "end": 118053
+    },
+    {
+        "text": "50,000,000",
+        "label": "CARDINAL",
+        "start": 119469,
+        "end": 119479
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 121244,
+        "end": 121247
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 121249,
+        "end": 121258
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 122153,
+        "end": 122156
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 122161,
+        "end": 122164
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 122228,
+        "end": 122231
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 122236,
+        "end": 122239
+    },
+    {
+        "text": "150,000",
+        "label": "CARDINAL",
+        "start": 122689,
+        "end": 122696
+    },
+    {
+        "text": "8.2(e",
+        "label": "CARDINAL",
+        "start": 122735,
+        "end": 122740
+    },
+    {
+        "text": "8.2(e",
+        "label": "CARDINAL",
+        "start": 122934,
+        "end": 122939
+    },
+    {
+        "text": "section 7.5",
+        "label": "LAW",
+        "start": 124186,
+        "end": 124197
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 124883,
+        "end": 124886
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 124888,
+        "end": 124897
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 125214,
+        "end": 125219
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 125905,
+        "end": 125908
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 126306,
+        "end": 126313
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 126315,
+        "end": 126317
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 126985,
+        "end": 126988
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 127113,
+        "end": 127125
+    },
+    {
+        "text": "less than 10",
+        "label": "CARDINAL",
+        "start": 127233,
+        "end": 127245
+    },
+    {
+        "text": "at least ten",
+        "label": "CARDINAL",
+        "start": 128240,
+        "end": 128252
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 128367,
+        "end": 128370
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 128372,
+        "end": 128381
+    },
+    {
+        "text": "section 10.1(a",
+        "label": "DATE",
+        "start": 128712,
+        "end": 128726
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 129060,
+        "end": 129072
+    },
+    {
+        "text": "amount”);",
+        "label": "PRODUCT",
+        "start": 129228,
+        "end": 129237
+    },
+    {
+        "text": "february 2021",
+        "label": "DATE",
+        "start": 130446,
+        "end": 130459
+    },
+    {
+        "text": "at least ten",
+        "label": "CARDINAL",
+        "start": 131024,
+        "end": 131036
+    },
+    {
+        "text": "10) days",
+        "label": "DATE",
+        "start": 131038,
+        "end": 131046
+    },
+    {
+        "text": "section 10.1(a",
+        "label": "DATE",
+        "start": 131436,
+        "end": 131450
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 131647,
+        "end": 131652
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 131958,
+        "end": 131970
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 132153,
+        "end": 132156
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 132158,
+        "end": 132167
+    },
+    {
+        "text": "section 8.1",
+        "label": "LAW",
+        "start": 133281,
+        "end": 133292
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 133345,
+        "end": 133356
+    },
+    {
+        "text": "at least ten",
+        "label": "CARDINAL",
+        "start": 135124,
+        "end": 135136
+    },
+    {
+        "text": "10) days",
+        "label": "DATE",
+        "start": 135138,
+        "end": 135146
+    },
+    {
+        "text": "section 9-307",
+        "label": "LAW",
+        "start": 135412,
+        "end": 135425
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 135514,
+        "end": 135517
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 135519,
+        "end": 135528
+    },
+    {
+        "text": "only one",
+        "label": "CARDINAL",
+        "start": 135744,
+        "end": 135752
+    },
+    {
+        "text": "at least ten",
+        "label": "CARDINAL",
+        "start": 135862,
+        "end": 135874
+    },
+    {
+        "text": "10) days",
+        "label": "DATE",
+        "start": 135876,
+        "end": 135884
+    },
+    {
+        "text": "section 9-506",
+        "label": "LAW",
+        "start": 136021,
+        "end": 136034
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 136177,
+        "end": 136181
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 136401,
+        "end": 136405
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 136565,
+        "end": 136570
+    },
+    {
+        "text": "section 9.3",
+        "label": "LAW",
+        "start": 136611,
+        "end": 136622
+    },
+    {
+        "text": "section 9.4",
+        "label": "LAW",
+        "start": 136918,
+        "end": 136929
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 137121,
+        "end": 137126
+    },
+    {
+        "text": "section 3.4",
+        "label": "LAW",
+        "start": 137139,
+        "end": 137150
+    },
+    {
+        "text": "section 9.5",
+        "label": "LAW",
+        "start": 137527,
+        "end": 137538
+    },
+    {
+        "text": "one year",
+        "label": "DATE",
+        "start": 137600,
+        "end": 137608
+    },
+    {
+        "text": "section 9.6",
+        "label": "LAW",
+        "start": 138168,
+        "end": 138179
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 138538,
+        "end": 138541
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 138543,
+        "end": 138552
+    },
+    {
+        "text": "wilmington trust",
+        "label": "ORG",
+        "start": 138667,
+        "end": 138683
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 139420,
+        "end": 139424
+    },
+    {
+        "text": "section 9.8",
+        "label": "LAW",
+        "start": 139833,
+        "end": 139844
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 139953,
+        "end": 139957
+    },
+    {
+        "text": "section 9.9",
+        "label": "LAW",
+        "start": 140018,
+        "end": 140029
+    },
+    {
+        "text": "cellco",
+        "label": "PERSON",
+        "start": 140060,
+        "end": 140066
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 140402,
+        "end": 140406
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 140795,
+        "end": 140799
+    },
+    {
+        "text": "at least 10,000,000,000",
+        "label": "CARDINAL",
+        "start": 141210,
+        "end": 141233
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 141736,
+        "end": 141741
+    },
+    {
+        "text": "the cap custodian",
+        "label": "ORG",
+        "start": 141909,
+        "end": 141926
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 142285,
+        "end": 142288
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 142290,
+        "end": 142299
+    },
+    {
+        "text": "the fifth business day",
+        "label": "DATE",
+        "start": 142685,
+        "end": 142707
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 143266,
+        "end": 143270
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 143272,
+        "end": 143273
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 144264,
+        "end": 144276
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 145759,
+        "end": 145766
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 145977,
+        "end": 145984
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 146129,
+        "end": 146132
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 146134,
+        "end": 146143
+    },
+    {
+        "text": "section 10.1(c",
+        "label": "DATE",
+        "start": 146393,
+        "end": 146407
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 146717,
+        "end": 146718
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 147049,
+        "end": 147050
+    },
+    {
+        "text": "10.1(b",
+        "label": "DATE",
+        "start": 148058,
+        "end": 148064
+    },
+    {
+        "text": "10.1(b",
+        "label": "DATE",
+        "start": 148271,
+        "end": 148277
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 149595,
+        "end": 149598
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 149600,
+        "end": 149609
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 149825,
+        "end": 149829
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 149864,
+        "end": 149869
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 149934,
+        "end": 149937
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 149939,
+        "end": 149942
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 149947,
+        "end": 149950
+    },
+    {
+        "text": "at least 66-2/3",
+        "label": "CARDINAL",
+        "start": 150131,
+        "end": 150146
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 150219,
+        "end": 150224
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 150455,
+        "end": 150460
+    },
+    {
+        "text": "section 10.3",
+        "label": "LAW",
+        "start": 150642,
+        "end": 150654
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 151736,
+        "end": 151745
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 151783,
+        "end": 151788
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 151818,
+        "end": 151823
+    },
+    {
+        "text": "3) days",
+        "label": "DATE",
+        "start": 151825,
+        "end": 151832
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 151962,
+        "end": 151965
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 151967,
+        "end": 151976
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 152132,
+        "end": 152136
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 152339,
+        "end": 152342
+    },
+    {
+        "text": "new jersey",
+        "label": "GPE",
+        "start": 152370,
+        "end": 152380
+    },
+    {
+        "text": "07920",
+        "label": "DATE",
+        "start": 152381,
+        "end": 152386
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 152593,
+        "end": 152596
+    },
+    {
+        "text": "new jersey",
+        "label": "GPE",
+        "start": 152624,
+        "end": 152634
+    },
+    {
+        "text": "07920",
+        "label": "DATE",
+        "start": 152635,
+        "end": 152640
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 152868,
+        "end": 152871
+    },
+    {
+        "text": "new jersey",
+        "label": "GPE",
+        "start": 152899,
+        "end": 152909
+    },
+    {
+        "text": "07920",
+        "label": "CARDINAL",
+        "start": 152910,
+        "end": 152915
+    },
+    {
+        "text": "section 10.5",
+        "label": "LAW",
+        "start": 152916,
+        "end": 152928
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 153105,
+        "end": 153113
+    },
+    {
+        "text": "5-1401",
+        "label": "DATE",
+        "start": 153134,
+        "end": 153140
+    },
+    {
+        "text": "5-1402",
+        "label": "DATE",
+        "start": 153145,
+        "end": 153151
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 153199,
+        "end": 153207
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 153311,
+        "end": 153319
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 153414,
+        "end": 153422
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 153525,
+        "end": 153537
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 153789,
+        "end": 153806
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 153851,
+        "end": 153859
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 153871,
+        "end": 153879
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 153903,
+        "end": 153911
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 153913,
+        "end": 153921
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 154246,
+        "end": 154249
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 154251,
+        "end": 154260
+    },
+    {
+        "text": "section 10.8",
+        "label": "LAW",
+        "start": 154581,
+        "end": 154593
+    },
+    {
+        "text": "10.9",
+        "label": "CARDINAL",
+        "start": 155037,
+        "end": 155041
+    },
+    {
+        "text": "10.10",
+        "label": "CARDINAL",
+        "start": 155286,
+        "end": 155291
+    },
+    {
+        "text": "10.11",
+        "label": "CARDINAL",
+        "start": 155439,
+        "end": 155444
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 155591,
+        "end": 155594
+    },
+    {
+        "text": "section 10.13",
+        "label": "LAW",
+        "start": 156141,
+        "end": 156154
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 156288,
+        "end": 156291
+    },
+    {
+        "text": "6.7",
+        "label": "CARDINAL",
+        "start": 156296,
+        "end": 156299
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 157875,
+        "end": 157878
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 157880,
+        "end": 157889
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 158119,
+        "end": 158123
+    },
+    {
+        "text": "10-d",
+        "label": "CARDINAL",
+        "start": 159151,
+        "end": 159155
+    },
+    {
+        "text": "14.2",
+        "label": "CARDINAL",
+        "start": 159348,
+        "end": 159352
+    },
+    {
+        "text": "60-day",
+        "label": "DATE",
+        "start": 159485,
+        "end": 159491
+    },
+    {
+        "text": "60-day",
+        "label": "DATE",
+        "start": 159732,
+        "end": 159738
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 159775,
+        "end": 159780
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 159782,
+        "end": 159790
+    },
+    {
+        "text": "60-day",
+        "label": "DATE",
+        "start": 160100,
+        "end": 160106
+    },
+    {
+        "text": "60-day",
+        "label": "DATE",
+        "start": 160732,
+        "end": 160738
+    },
+    {
+        "text": "section 11.2",
+        "label": "LAW",
+        "start": 160818,
+        "end": 160830
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 160877,
+        "end": 160880
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 160882,
+        "end": 160891
+    },
+    {
+        "text": "one-hundred",
+        "label": "CARDINAL",
+        "start": 161744,
+        "end": 161755
+    },
+    {
+        "text": "180",
+        "label": "CARDINAL",
+        "start": 161764,
+        "end": 161767
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 162054,
+        "end": 162059
+    },
+    {
+        "text": "180-day",
+        "label": "DATE",
+        "start": 162751,
+        "end": 162758
+    },
+    {
+        "text": "180-day",
+        "label": "DATE",
+        "start": 162787,
+        "end": 162794
+    },
+    {
+        "text": "180-day",
+        "label": "DATE",
+        "start": 162956,
+        "end": 162963
+    },
+    {
+        "text": "180-day",
+        "label": "DATE",
+        "start": 163230,
+        "end": 163237
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 163434,
+        "end": 163440
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 163442,
+        "end": 163450
+    },
+    {
+        "text": "180-day",
+        "label": "DATE",
+        "start": 163498,
+        "end": 163505
+    },
+    {
+        "text": "180-day",
+        "label": "DATE",
+        "start": 163848,
+        "end": 163855
+    },
+    {
+        "text": "one-hundred",
+        "label": "CARDINAL",
+        "start": 164932,
+        "end": 164943
+    },
+    {
+        "text": "180) days",
+        "label": "DATE",
+        "start": 164952,
+        "end": 164961
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 165134,
+        "end": 165137
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 165139,
+        "end": 165148
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 165384,
+        "end": 165392
+    },
+    {
+        "text": "at least 15 years",
+        "label": "DATE",
+        "start": 165452,
+        "end": 165469
+    },
+    {
+        "text": "at least 10",
+        "label": "CARDINAL",
+        "start": 165584,
+        "end": 165595
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 165667,
+        "end": 165670
+    },
+    {
+        "text": "fourteen",
+        "label": "DATE",
+        "start": 165700,
+        "end": 165708
+    },
+    {
+        "text": "14) days",
+        "label": "DATE",
+        "start": 165710,
+        "end": 165718
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 166021,
+        "end": 166037
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 166108,
+        "end": 166113
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 166115,
+        "end": 166123
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 166567,
+        "end": 166572
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 166637,
+        "end": 166641
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 166779,
+        "end": 166783
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 166836,
+        "end": 166841
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 166896,
+        "end": 166899
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 166935,
+        "end": 166939
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 166941,
+        "end": 166942
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 166965,
+        "end": 166971
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 167036,
+        "end": 167039
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 167088,
+        "end": 167093
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 167323,
+        "end": 167331
+    },
+    {
+        "text": "at least 15 years",
+        "label": "DATE",
+        "start": 167391,
+        "end": 167408
+    },
+    {
+        "text": "ninety (90",
+        "label": "DATE",
+        "start": 168222,
+        "end": 168232
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 168260,
+        "end": 168263
+    },
+    {
+        "text": "1/23/2020\ndays",
+        "label": "DATE",
+        "start": 168265,
+        "end": 168279
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 168476,
+        "end": 168484
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 168830,
+        "end": 168834
+    },
+    {
+        "text": "five hours",
+        "label": "TIME",
+        "start": 168869,
+        "end": 168879
+    },
+    {
+        "text": "no later than ninety (",
+        "label": "DATE",
+        "start": 169268,
+        "end": 169290
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 169290,
+        "end": 169298
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 170826,
+        "end": 170834
+    },
+    {
+        "text": "new york;",
+        "label": "GPE",
+        "start": 170836,
+        "end": 170845
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 171488,
+        "end": 171491
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 171493,
+        "end": 171502
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 171644,
+        "end": 171649
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 172015,
+        "end": 172020
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 172357,
+        "end": 172360
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 172362,
+        "end": 172371
+    },
+    {
+        "text": "the date and",
+        "label": "DATE",
+        "start": 172486,
+        "end": 172498
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 172504,
+        "end": 172509
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 172593,
+        "end": 172597
+    },
+    {
+        "text": "wilmington trust",
+        "label": "ORG",
+        "start": 172615,
+        "end": 172631
+    },
+    {
+        "text": "verizon owner trust",
+        "label": "ORG",
+        "start": 172717,
+        "end": 172736
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 172737,
+        "end": 172741
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 172891,
+        "end": 172894
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 172896,
+        "end": 172905
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 172930,
+        "end": 172934
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 173082,
+        "end": 173086
+    },
+    {
+        "text": "section 7.1",
+        "label": "LAW",
+        "start": 173413,
+        "end": 173424
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 173496,
+        "end": 173499
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 173501,
+        "end": 173510
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 173696,
+        "end": 173699
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 173701,
+        "end": 173710
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 173841,
+        "end": 173844
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 173846,
+        "end": 173855
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 173884,
+        "end": 173885
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 174008,
+        "end": 174011
+    },
+    {
+        "text": "new jersey",
+        "label": "GPE",
+        "start": 174039,
+        "end": 174049
+    },
+    {
+        "text": "07920",
+        "label": "DATE",
+        "start": 174050,
+        "end": 174055
+    },
+    {
+        "text": "908-559",
+        "label": "CARDINAL",
+        "start": 174098,
+        "end": 174105
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 174142,
+        "end": 174143
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 174182,
+        "end": 174185
+    },
+    {
+        "text": "new jersey",
+        "label": "GPE",
+        "start": 174213,
+        "end": 174223
+    },
+    {
+        "text": "07920",
+        "label": "DATE",
+        "start": 174224,
+        "end": 174229
+    },
+    {
+        "text": "908-559",
+        "label": "CARDINAL",
+        "start": 174276,
+        "end": 174283
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 174355,
+        "end": 174358
+    },
+    {
+        "text": "new jersey",
+        "label": "GPE",
+        "start": 174386,
+        "end": 174396
+    },
+    {
+        "text": "07920",
+        "label": "DATE",
+        "start": 174397,
+        "end": 174402
+    },
+    {
+        "text": "908-559",
+        "label": "CARDINAL",
+        "start": 174445,
+        "end": 174452
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 174489,
+        "end": 174490
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 174618,
+        "end": 174621
+    },
+    {
+        "text": "new jersey",
+        "label": "GPE",
+        "start": 174649,
+        "end": 174659
+    },
+    {
+        "text": "07920",
+        "label": "DATE",
+        "start": 174660,
+        "end": 174665
+    },
+    {
+        "text": "908-559",
+        "label": "CARDINAL",
+        "start": 174708,
+        "end": 174715
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 174782,
+        "end": 174785
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 174787,
+        "end": 174796
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 174797,
+        "end": 174798
+    },
+    {
+        "text": "verizon communications inc.",
+        "label": "ORG",
+        "start": 174835,
+        "end": 174862
+    },
+    {
+        "text": "1095",
+        "label": "DATE",
+        "start": 174863,
+        "end": 174867
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 174891,
+        "end": 174899
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 174901,
+        "end": 174909
+    },
+    {
+        "text": "10036",
+        "label": "DATE",
+        "start": 174910,
+        "end": 174915
+    },
+    {
+        "text": "908-559",
+        "label": "CARDINAL",
+        "start": 174953,
+        "end": 174960
+    },
+    {
+        "text": "kee.chan.sinverizon.com",
+        "label": "ORG",
+        "start": 174973,
+        "end": 174996
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 174997,
+        "end": 174998
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 175076,
+        "end": 175077
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 175163,
+        "end": 175164
+    },
+    {
+        "text": "55",
+        "label": "CARDINAL",
+        "start": 175196,
+        "end": 175198
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 175212,
+        "end": 175220
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 175222,
+        "end": 175230
+    },
+    {
+        "text": "10041",
+        "label": "DATE",
+        "start": 175231,
+        "end": 175236
+    },
+    {
+        "text": "212",
+        "label": "CARDINAL",
+        "start": 175297,
+        "end": 175300
+    },
+    {
+        "text": "438-1000",
+        "label": "CARDINAL",
+        "start": 175302,
+        "end": 175310
+    },
+    {
+        "text": "212",
+        "label": "CARDINAL",
+        "start": 175317,
+        "end": 175320
+    },
+    {
+        "text": "438",
+        "label": "CARDINAL",
+        "start": 175322,
+        "end": 175325
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 175331,
+        "end": 175332
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 175407,
+        "end": 175408
+    },
+    {
+        "text": "250",
+        "label": "CARDINAL",
+        "start": 175428,
+        "end": 175431
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 175449,
+        "end": 175457
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 175459,
+        "end": 175467
+    },
+    {
+        "text": "10007",
+        "label": "DATE",
+        "start": 175468,
+        "end": 175473
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 175507,
+        "end": 175508
+    },
+    {
+        "text": "bank of america",
+        "label": "ORG",
+        "start": 175538,
+        "end": 175553
+    },
+    {
+        "text": "1133",
+        "label": "DATE",
+        "start": 175568,
+        "end": 175572
+    },
+    {
+        "text": "42nd",
+        "label": "ORDINAL",
+        "start": 175596,
+        "end": 175600
+    },
+    {
+        "text": "ny1",
+        "label": "GPE",
+        "start": 175608,
+        "end": 175611
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 175622,
+        "end": 175630
+    },
+    {
+        "text": "10036-6710",
+        "label": "DATE",
+        "start": 175635,
+        "end": 175645
+    },
+    {
+        "text": "212",
+        "label": "CARDINAL",
+        "start": 175700,
+        "end": 175703
+    },
+    {
+        "text": "548-8622",
+        "label": "CARDINAL",
+        "start": 175705,
+        "end": 175713
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 175774,
+        "end": 175776
+    },
+    {
+        "text": "375",
+        "label": "CARDINAL",
+        "start": 175847,
+        "end": 175850
+    },
+    {
+        "text": "french",
+        "label": "NORP",
+        "start": 175853,
+        "end": 175859
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 175869,
+        "end": 175872
+    },
+    {
+        "text": "14228",
+        "label": "DATE",
+        "start": 175884,
+        "end": 175889
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 175920,
+        "end": 175923
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 175925,
+        "end": 175934
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 175951,
+        "end": 175955
+    },
+    {
+        "text": "716",
+        "label": "CARDINAL",
+        "start": 175990,
+        "end": 175993
+    },
+    {
+        "text": "716",
+        "label": "CARDINAL",
+        "start": 176010,
+        "end": 176013
+    },
+    {
+        "text": "204",
+        "label": "CARDINAL",
+        "start": 176015,
+        "end": 176018
+    },
+    {
+        "text": "2020",
+        "label": "CARDINAL",
+        "start": 176075,
+        "end": 176079
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 176133,
+        "end": 176136
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 176138,
+        "end": 176147
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 176201,
+        "end": 176205
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 176788,
+        "end": 176805
+    },
+    {
+        "text": "that day",
+        "label": "DATE",
+        "start": 178218,
+        "end": 178226
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 178502,
+        "end": 178505
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 178507,
+        "end": 178516
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 178950,
+        "end": 178964
+    },
+    {
+        "text": "a month",
+        "label": "DATE",
+        "start": 179105,
+        "end": 179112
+    },
+    {
+        "text": "quarter or year",
+        "label": "DATE",
+        "start": 179114,
+        "end": 179129
+    },
+    {
+        "text": "quarter or calendar year",
+        "label": "DATE",
+        "start": 179190,
+        "end": 179214
+    },
+    {
+        "text": "60-day",
+        "label": "DATE",
+        "start": 179582,
+        "end": 179588
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 179723,
+        "end": 179728
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 179730,
+        "end": 179738
+    },
+    {
+        "text": "60-day",
+        "label": "DATE",
+        "start": 179825,
+        "end": 179831
+    },
+    {
+        "text": "the american arbitration association",
+        "label": "ORG",
+        "start": 179867,
+        "end": 179903
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 180075,
+        "end": 180079
+    },
+    {
+        "text": "bank national association",
+        "label": "ORG",
+        "start": 180080,
+        "end": 180105
+    },
+    {
+        "text": "102",
+        "label": "CARDINAL",
+        "start": 180184,
+        "end": 180187
+    },
+    {
+        "text": "9-102",
+        "label": "CARDINAL",
+        "start": 180234,
+        "end": 180239
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 180401,
+        "end": 180408
+    },
+    {
+        "text": "section 4.3(i",
+        "label": "LAW",
+        "start": 180648,
+        "end": 180661
+    },
+    {
+        "text": "section 3.4 or 4.6",
+        "label": "LAW",
+        "start": 180742,
+        "end": 180760
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 180857,
+        "end": 180860
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 180864,
+        "end": 180867
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 181140,
+        "end": 181143
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 181145,
+        "end": 181154
+    },
+    {
+        "text": "section 4.1(a",
+        "label": "LAW",
+        "start": 181242,
+        "end": 181255
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 181528,
+        "end": 181540
+    },
+    {
+        "text": "a 360-day year",
+        "label": "DATE",
+        "start": 181670,
+        "end": 181684
+    },
+    {
+        "text": "30-day months",
+        "label": "DATE",
+        "start": 181695,
+        "end": 181708
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 181960,
+        "end": 181972
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 182053,
+        "end": 182060
+    },
+    {
+        "text": "section 2.1(b",
+        "label": "LAW",
+        "start": 182350,
+        "end": 182363
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 182526,
+        "end": 182530
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 182532,
+        "end": 182533
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 182725,
+        "end": 182732
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 184232,
+        "end": 184235
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 184237,
+        "end": 184246
+    },
+    {
+        "text": "425,000",
+        "label": "CARDINAL",
+        "start": 184638,
+        "end": 184645
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 185234,
+        "end": 185248
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 185287,
+        "end": 185299
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 185843,
+        "end": 185847
+    },
+    {
+        "text": "more than fifty percent",
+        "label": "PERCENT",
+        "start": 186075,
+        "end": 186098
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 186100,
+        "end": 186102
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 186702,
+        "end": 186705
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 186707,
+        "end": 186716
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 187091,
+        "end": 187096
+    },
+    {
+        "text": "the first day",
+        "label": "DATE",
+        "start": 187305,
+        "end": 187318
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 187370,
+        "end": 187374
+    },
+    {
+        "text": "10.00",
+        "label": "CARDINAL",
+        "start": 187384,
+        "end": 187389
+    },
+    {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 187421,
+        "end": 187433
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 187435,
+        "end": 187436
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 187571,
+        "end": 187576
+    },
+    {
+        "text": "ninety-one",
+        "label": "CARDINAL",
+        "start": 187720,
+        "end": 187730
+    },
+    {
+        "text": "91) days",
+        "label": "DATE",
+        "start": 187732,
+        "end": 187740
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 187833,
+        "end": 187845
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 187894,
+        "end": 187899
+    },
+    {
+        "text": "2.00",
+        "label": "CARDINAL",
+        "start": 187909,
+        "end": 187913
+    },
+    {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 187945,
+        "end": 187957
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 187959,
+        "end": 187960
+    },
+    {
+        "text": "less than 50.00",
+        "label": "CARDINAL",
+        "start": 188035,
+        "end": 188050
+    },
+    {
+        "text": "the end of the third month",
+        "label": "DATE",
+        "start": 188722,
+        "end": 188748
+    },
+    {
+        "text": "february 2022",
+        "label": "DATE",
+        "start": 189002,
+        "end": 189015
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 189408,
+        "end": 189411
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 189413,
+        "end": 189422
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 189424,
+        "end": 189430
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 189483,
+        "end": 189489
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 189624,
+        "end": 189630
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 189656,
+        "end": 189662
+    },
+    {
+        "text": "verizon wireless",
+        "label": "ORG",
+        "start": 189689,
+        "end": 189705
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "PERCENT",
+        "start": 190038,
+        "end": 190054
+    },
+    {
+        "text": "at least 50",
+        "label": "CARDINAL",
+        "start": 190092,
+        "end": 190103
+    },
+    {
+        "text": "fourteen",
+        "label": "DATE",
+        "start": 190862,
+        "end": 190870
+    },
+    {
+        "text": "14) days",
+        "label": "DATE",
+        "start": 190872,
+        "end": 190880
+    },
+    {
+        "text": "verizon wireless",
+        "label": "ORG",
+        "start": 190882,
+        "end": 190898
+    },
+    {
+        "text": "verizon wireless",
+        "label": "ORG",
+        "start": 191854,
+        "end": 191870
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 191962,
+        "end": 191968
+    },
+    {
+        "text": "verizon wireless",
+        "label": "ORG",
+        "start": 192053,
+        "end": 192069
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 192186,
+        "end": 192192
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 192420,
+        "end": 192423
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 192425,
+        "end": 192434
+    },
+    {
+        "text": "60-day",
+        "label": "DATE",
+        "start": 192730,
+        "end": 192736
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 193309,
+        "end": 193316
+    },
+    {
+        "text": "416.67",
+        "label": "CARDINAL",
+        "start": 193330,
+        "end": 193336
+    },
+    {
+        "text": "60-day",
+        "label": "DATE",
+        "start": 193488,
+        "end": 193494
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 194007,
+        "end": 194010
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 194914,
+        "end": 194917
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 194919,
+        "end": 194928
+    },
+    {
+        "text": "section 8.1",
+        "label": "LAW",
+        "start": 195292,
+        "end": 195303
+    },
+    {
+        "text": "transferee",
+        "label": "CARDINAL",
+        "start": 195389,
+        "end": 195399
+    },
+    {
+        "text": "section 8.2",
+        "label": "LAW",
+        "start": 195425,
+        "end": 195436
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 195874,
+        "end": 195879
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 196325,
+        "end": 196328
+    },
+    {
+        "text": "the united states",
+        "label": "ORG",
+        "start": 196377,
+        "end": 196394
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 196412,
+        "end": 196414
+    },
+    {
+        "text": "101",
+        "label": "CARDINAL",
+        "start": 196422,
+        "end": 196425
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 196776,
+        "end": 196785
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 196912,
+        "end": 196921
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 197054,
+        "end": 197055
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 197073,
+        "end": 197082
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 197133,
+        "end": 197134
+    },
+    {
+        "text": "the federal reserve bank of new york",
+        "label": "ORG",
+        "start": 197158,
+        "end": 197194
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 197200,
+        "end": 197201
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 197377,
+        "end": 197380
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 197382,
+        "end": 197391
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 197426,
+        "end": 197431
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 197556,
+        "end": 197557
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 198008,
+        "end": 198009
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 198089,
+        "end": 198090
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 198177,
+        "end": 198178
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 198438,
+        "end": 198439
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 198740,
+        "end": 198745
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 198870,
+        "end": 198871
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 199006,
+        "end": 199010
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 199139,
+        "end": 199140
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 199274,
+        "end": 199275
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 199345,
+        "end": 199349
+    },
+    {
+        "text": "a-9",
+        "label": "PERSON",
+        "start": 200163,
+        "end": 200166
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 200192,
+        "end": 200195
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 200197,
+        "end": 200206
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 200413,
+        "end": 200414
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 200439,
+        "end": 200440
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 200446,
+        "end": 200447
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 200746,
+        "end": 200747
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 200772,
+        "end": 200773
+    },
+    {
+        "text": "the same day",
+        "label": "DATE",
+        "start": 200996,
+        "end": 201008
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 201252,
+        "end": 201255
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 201333,
+        "end": 201334
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 201721,
+        "end": 201722
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 202434,
+        "end": 202435
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 202894,
+        "end": 202897
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 202899,
+        "end": 202908
+    },
+    {
+        "text": "section 4975",
+        "label": "LAW",
+        "start": 202909,
+        "end": 202921
+    },
+    {
+        "text": "saturday, sunday or other day",
+        "label": "DATE",
+        "start": 203287,
+        "end": 203316
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 203335,
+        "end": 203343
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 203345,
+        "end": 203353
+    },
+    {
+        "text": "2002",
+        "label": "DATE",
+        "start": 203658,
+        "end": 203662
+    },
+    {
+        "text": "january 24, 2020",
+        "label": "DATE",
+        "start": 203767,
+        "end": 203783
+    },
+    {
+        "text": "january 23, 2020",
+        "label": "DATE",
+        "start": 203825,
+        "end": 203841
+    },
+    {
+        "text": "bank of america",
+        "label": "ORG",
+        "start": 204207,
+        "end": 204222
+    },
+    {
+        "text": "n.a.",
+        "label": "GPE",
+        "start": 204224,
+        "end": 204228
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 204594,
+        "end": 204603
+    },
+    {
+        "text": "3.00",
+        "label": "CARDINAL",
+        "start": 204668,
+        "end": 204672
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 204735,
+        "end": 204744
+    },
+    {
+        "text": "3.00",
+        "label": "CARDINAL",
+        "start": 204835,
+        "end": 204839
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 205001,
+        "end": 205005
+    },
+    {
+        "text": "360",
+        "label": "CARDINAL",
+        "start": 205070,
+        "end": 205073
+    },
+    {
+        "text": "the second business day",
+        "label": "DATE",
+        "start": 205173,
+        "end": 205196
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 205629,
+        "end": 205632
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 205634,
+        "end": 205643
+    },
+    {
+        "text": "2020-a.",
+        "label": "QUANTITY",
+        "start": 205721,
+        "end": 205728
+    },
+    {
+        "text": "3.11",
+        "label": "CARDINAL",
+        "start": 205863,
+        "end": 205867
+    },
+    {
+        "text": "1,325,700,000",
+        "label": "CARDINAL",
+        "start": 206516,
+        "end": 206529
+    },
+    {
+        "text": "1.85",
+        "label": "CARDINAL",
+        "start": 206541,
+        "end": 206545
+    },
+    {
+        "text": "100,000,000",
+        "label": "CARDINAL",
+        "start": 206673,
+        "end": 206684
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 206696,
+        "end": 206705
+    },
+    {
+        "text": "0.27",
+        "label": "CARDINAL",
+        "start": 206811,
+        "end": 206815
+    },
+    {
+        "text": "0",
+        "label": "CARDINAL",
+        "start": 207183,
+        "end": 207184
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 207903,
+        "end": 207907
+    },
+    {
+        "text": "98,300,000",
+        "label": "CARDINAL",
+        "start": 208014,
+        "end": 208024
+    },
+    {
+        "text": "1.98",
+        "label": "CARDINAL",
+        "start": 208033,
+        "end": 208037
+    },
+    {
+        "text": "76,000,000",
+        "label": "CARDINAL",
+        "start": 208162,
+        "end": 208172
+    },
+    {
+        "text": "2.06",
+        "label": "CARDINAL",
+        "start": 208181,
+        "end": 208185
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 208314,
+        "end": 208317
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 208319,
+        "end": 208328
+    },
+    {
+        "text": "january 29, 2020",
+        "label": "DATE",
+        "start": 208567,
+        "end": 208583
+    },
+    {
+        "text": "1986",
+        "label": "DATE",
+        "start": 208627,
+        "end": 208631
+    },
+    {
+        "text": "section 4.1(a",
+        "label": "LAW",
+        "start": 208943,
+        "end": 208956
+    },
+    {
+        "text": "the last day of the month",
+        "label": "DATE",
+        "start": 209389,
+        "end": 209414
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 209581,
+        "end": 209590
+    },
+    {
+        "text": "the u.s. securities and exchange commission",
+        "label": "ORG",
+        "start": 210331,
+        "end": 210374
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 210415,
+        "end": 210423
+    },
+    {
+        "text": "the united states",
+        "label": "ORG",
+        "start": 210437,
+        "end": 210454
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 210455,
+        "end": 210463
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 210706,
+        "end": 210709
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 210711,
+        "end": 210720
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 210929,
+        "end": 210930
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 210947,
+        "end": 210952
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 211023,
+        "end": 211024
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 211612,
+        "end": 211613
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 211789,
+        "end": 211790
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 211918,
+        "end": 211919
+    },
+    {
+        "text": "rodney square north",
+        "label": "PERSON",
+        "start": 212478,
+        "end": 212497
+    },
+    {
+        "text": "1100",
+        "label": "CARDINAL",
+        "start": 212499,
+        "end": 212503
+    },
+    {
+        "text": "19890-1600",
+        "label": "DATE",
+        "start": 212545,
+        "end": 212555
+    },
+    {
+        "text": "302",
+        "label": "CARDINAL",
+        "start": 212604,
+        "end": 212607
+    },
+    {
+        "text": "302",
+        "label": "CARDINAL",
+        "start": 212622,
+        "end": 212625
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 212673,
+        "end": 212681
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 213028,
+        "end": 213031
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 213033,
+        "end": 213042
+    },
+    {
+        "text": "111",
+        "label": "CARDINAL",
+        "start": 213150,
+        "end": 213153
+    },
+    {
+        "text": "paul",
+        "label": "PERSON",
+        "start": 213179,
+        "end": 213183
+    },
+    {
+        "text": "55107",
+        "label": "DATE",
+        "start": 213188,
+        "end": 213193
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 213226,
+        "end": 213230
+    },
+    {
+        "text": "190",
+        "label": "CARDINAL",
+        "start": 213277,
+        "end": 213280
+    },
+    {
+        "text": "lasalle street\nchicago",
+        "label": "FAC",
+        "start": 213287,
+        "end": 213309
+    },
+    {
+        "text": "illinois",
+        "label": "GPE",
+        "start": 213311,
+        "end": 213319
+    },
+    {
+        "text": "60603",
+        "label": "DATE",
+        "start": 213320,
+        "end": 213325
+    },
+    {
+        "text": "2020",
+        "label": "CARDINAL",
+        "start": 213368,
+        "end": 213372
+    },
+    {
+        "text": "312",
+        "label": "CARDINAL",
+        "start": 213381,
+        "end": 213384
+    },
+    {
+        "text": "332",
+        "label": "CARDINAL",
+        "start": 213386,
+        "end": 213389
+    },
+    {
+        "text": "rodney square north",
+        "label": "PERSON",
+        "start": 213783,
+        "end": 213802
+    },
+    {
+        "text": "1100",
+        "label": "CARDINAL",
+        "start": 213804,
+        "end": 213808
+    },
+    {
+        "text": "19890-1600",
+        "label": "DATE",
+        "start": 213850,
+        "end": 213860
+    },
+    {
+        "text": "302",
+        "label": "CARDINAL",
+        "start": 213909,
+        "end": 213912
+    },
+    {
+        "text": "302",
+        "label": "CARDINAL",
+        "start": 213927,
+        "end": 213930
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 213978,
+        "end": 213986
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 214158,
+        "end": 214167
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 214460,
+        "end": 214463
+    },
+    {
+        "text": "section 8.2(c",
+        "label": "LAW",
+        "start": 214880,
+        "end": 214893
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 215016,
+        "end": 215019
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 215021,
+        "end": 215030
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 215781,
+        "end": 215787
+    },
+    {
+        "text": "up to fifty",
+        "label": "CARDINAL",
+        "start": 215934,
+        "end": 215945
+    },
+    {
+        "text": "50) days",
+        "label": "DATE",
+        "start": 215947,
+        "end": 215955
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 215995,
+        "end": 216003
+    },
+    {
+        "text": "the last day of the month",
+        "label": "DATE",
+        "start": 216271,
+        "end": 216296
+    },
+    {
+        "text": "delaware statutory trust act",
+        "label": "WORK_OF_ART",
+        "start": 216553,
+        "end": 216581
+    },
+    {
+        "text": "chapter 38",
+        "label": "LAW",
+        "start": 216589,
+        "end": 216599
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 216609,
+        "end": 216611
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 216739,
+        "end": 216746
+    },
+    {
+        "text": "60-day",
+        "label": "DATE",
+        "start": 216927,
+        "end": 216933
+    },
+    {
+        "text": "5.0",
+        "label": "CARDINAL",
+        "start": 217207,
+        "end": 217210
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 217252,
+        "end": 217255
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 217636,
+        "end": 217639
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 217641,
+        "end": 217650
+    },
+    {
+        "text": "january 29, 2020",
+        "label": "DATE",
+        "start": 217909,
+        "end": 217925
+    },
+    {
+        "text": "7.65",
+        "label": "CARDINAL",
+        "start": 218217,
+        "end": 218221
+    },
+    {
+        "text": "1974",
+        "label": "DATE",
+        "start": 218785,
+        "end": 218789
+    },
+    {
+        "text": "the securities exchange act",
+        "label": "ORG",
+        "start": 218902,
+        "end": 218929
+    },
+    {
+        "text": "1934",
+        "label": "DATE",
+        "start": 218933,
+        "end": 218937
+    },
+    {
+        "text": "fico®",
+        "label": "WORK_OF_ART",
+        "start": 219114,
+        "end": 219119
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 219126,
+        "end": 219127
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 219151,
+        "end": 219152
+    },
+    {
+        "text": "july, 2024",
+        "label": "DATE",
+        "start": 219305,
+        "end": 219315
+    },
+    {
+        "text": "july,",
+        "label": "DATE",
+        "start": 219364,
+        "end": 219369
+    },
+    {
+        "text": "2024",
+        "label": "DATE",
+        "start": 219370,
+        "end": 219374
+    },
+    {
+        "text": "july,",
+        "label": "DATE",
+        "start": 219421,
+        "end": 219426
+    },
+    {
+        "text": "2024",
+        "label": "DATE",
+        "start": 219427,
+        "end": 219431
+    },
+    {
+        "text": "july, 2024",
+        "label": "DATE",
+        "start": 219481,
+        "end": 219491
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 219494,
+        "end": 219499
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 219590,
+        "end": 219604
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 219834,
+        "end": 219837
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 219839,
+        "end": 219848
+    },
+    {
+        "text": "the end of the month preceding the month",
+        "label": "DATE",
+        "start": 220212,
+        "end": 220252
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 220317,
+        "end": 220318
+    },
+    {
+        "text": "at least 700",
+        "label": "CARDINAL",
+        "start": 220370,
+        "end": 220382
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 220441,
+        "end": 220443
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 220515,
+        "end": 220517
+    },
+    {
+        "text": "no more than 4.50",
+        "label": "CARDINAL",
+        "start": 220546,
+        "end": 220563
+    },
+    {
+        "text": "less than 12 months",
+        "label": "DATE",
+        "start": 220625,
+        "end": 220644
+    },
+    {
+        "text": "no more than 22.00",
+        "label": "CARDINAL",
+        "start": 220696,
+        "end": 220714
+    },
+    {
+        "text": "7 months",
+        "label": "DATE",
+        "start": 220776,
+        "end": 220784
+    },
+    {
+        "text": "less than 24 months",
+        "label": "DATE",
+        "start": 220798,
+        "end": 220817
+    },
+    {
+        "text": "more than 12.00",
+        "label": "CARDINAL",
+        "start": 220872,
+        "end": 220887
+    },
+    {
+        "text": "60 months",
+        "label": "DATE",
+        "start": 220949,
+        "end": 220958
+    },
+    {
+        "text": "at least 55.00",
+        "label": "CARDINAL",
+        "start": 221018,
+        "end": 221032
+    },
+    {
+        "text": "less than 12 months",
+        "label": "DATE",
+        "start": 221094,
+        "end": 221113
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 221184,
+        "end": 221186
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 221235,
+        "end": 221237
+    },
+    {
+        "text": "650",
+        "label": "CARDINAL",
+        "start": 221244,
+        "end": 221247
+    },
+    {
+        "text": "no more than 10.00",
+        "label": "CARDINAL",
+        "start": 221259,
+        "end": 221277
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 221339,
+        "end": 221348
+    },
+    {
+        "text": "less than 60 months",
+        "label": "DATE",
+        "start": 221362,
+        "end": 221381
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 221452,
+        "end": 221454
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 221503,
+        "end": 221505
+    },
+    {
+        "text": "650",
+        "label": "CARDINAL",
+        "start": 221512,
+        "end": 221515
+    },
+    {
+        "text": "no more than 50.00",
+        "label": "MONEY",
+        "start": 221527,
+        "end": 221545
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 221624,
+        "end": 221633
+    },
+    {
+        "text": "less than 60 months",
+        "label": "DATE",
+        "start": 221647,
+        "end": 221666
+    },
+    {
+        "text": "60 months",
+        "label": "DATE",
+        "start": 221753,
+        "end": 221762
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 221841,
+        "end": 221843
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 221892,
+        "end": 221894
+    },
+    {
+        "text": "650",
+        "label": "CARDINAL",
+        "start": 221901,
+        "end": 221904
+    },
+    {
+        "text": "no more than 27.50",
+        "label": "CARDINAL",
+        "start": 221916,
+        "end": 221934
+    },
+    {
+        "text": "60 months",
+        "label": "DATE",
+        "start": 222013,
+        "end": 222022
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 222472,
+        "end": 222475
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 222477,
+        "end": 222486
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 223125,
+        "end": 223126
+    },
+    {
+        "text": "july 2006",
+        "label": "DATE",
+        "start": 223127,
+        "end": 223136
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 223165,
+        "end": 223193
+    },
+    {
+        "text": "april 1, 2017",
+        "label": "DATE",
+        "start": 223197,
+        "end": 223210
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 223540,
+        "end": 223544
+    },
+    {
+        "text": "bank national association",
+        "label": "ORG",
+        "start": 223545,
+        "end": 223570
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 223720,
+        "end": 223727
+    },
+    {
+        "text": "1/12th",
+        "label": "CARDINAL",
+        "start": 223741,
+        "end": 223747
+    },
+    {
+        "text": "12,000",
+        "label": "CARDINAL",
+        "start": 223751,
+        "end": 223757
+    },
+    {
+        "text": "december 31, 2019",
+        "label": "DATE",
+        "start": 224989,
+        "end": 225006
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 225038,
+        "end": 225041
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 225043,
+        "end": 225052
+    },
+    {
+        "text": "1,917,450,478.10",
+        "label": "DATE",
+        "start": 225082,
+        "end": 225098
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 225944,
+        "end": 225945
+    },
+    {
+        "text": "more\nthan sixty",
+        "label": "CARDINAL",
+        "start": 226776,
+        "end": 226791
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 226793,
+        "end": 226801
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 226888,
+        "end": 226889
+    },
+    {
+        "text": "the 20th day",
+        "label": "DATE",
+        "start": 227098,
+        "end": 227110
+    },
+    {
+        "text": "the 20th day of the month",
+        "label": "DATE",
+        "start": 227189,
+        "end": 227214
+    },
+    {
+        "text": "march 20, 2020",
+        "label": "DATE",
+        "start": 227305,
+        "end": 227319
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 227328,
+        "end": 227333
+    },
+    {
+        "text": "march 20, 2020",
+        "label": "DATE",
+        "start": 227570,
+        "end": 227584
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 227593,
+        "end": 227598
+    },
+    {
+        "text": "1940",
+        "label": "DATE",
+        "start": 227675,
+        "end": 227679
+    },
+    {
+        "text": "2006",
+        "label": "DATE",
+        "start": 227722,
+        "end": 227726
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 228085,
+        "end": 228089
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 228321,
+        "end": 228324
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 228326,
+        "end": 228335
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 228655,
+        "end": 228659
+    },
+    {
+        "text": "section 11.3(a",
+        "label": "DATE",
+        "start": 228753,
+        "end": 228767
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 229163,
+        "end": 229168
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 229187,
+        "end": 229193
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 229194,
+        "end": 229200
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 229299,
+        "end": 229305
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 229306,
+        "end": 229312
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 229376,
+        "end": 229380
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 229409,
+        "end": 229413
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 229447,
+        "end": 229453
+    },
+    {
+        "text": "sunday",
+        "label": "DATE",
+        "start": 229505,
+        "end": 229511
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 229552,
+        "end": 229558
+    },
+    {
+        "text": "england",
+        "label": "GPE",
+        "start": 229560,
+        "end": 229567
+    },
+    {
+        "text": "february 2022",
+        "label": "DATE",
+        "start": 230042,
+        "end": 230055
+    },
+    {
+        "text": "february 2022",
+        "label": "DATE",
+        "start": 230142,
+        "end": 230155
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 230177,
+        "end": 230184
+    },
+    {
+        "text": "30/360 day",
+        "label": "DATE",
+        "start": 230190,
+        "end": 230200
+    },
+    {
+        "text": "0.15",
+        "label": "CARDINAL",
+        "start": 230210,
+        "end": 230214
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 230248,
+        "end": 230249
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 230543,
+        "end": 230552
+    },
+    {
+        "text": "0.27",
+        "label": "CARDINAL",
+        "start": 230596,
+        "end": 230600
+    },
+    {
+        "text": "february 2022",
+        "label": "DATE",
+        "start": 230627,
+        "end": 230640
+    },
+    {
+        "text": "february 2022",
+        "label": "DATE",
+        "start": 230727,
+        "end": 230740
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 230762,
+        "end": 230769
+    },
+    {
+        "text": "an actual/360 day",
+        "label": "DATE",
+        "start": 230773,
+        "end": 230790
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 230835,
+        "end": 230838
+    },
+    {
+        "text": "1/23/2020\nmonth",
+        "label": "DATE",
+        "start": 230840,
+        "end": 230855
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 231727,
+        "end": 231734
+    },
+    {
+        "text": "30/360 day",
+        "label": "DATE",
+        "start": 231740,
+        "end": 231750
+    },
+    {
+        "text": "0.15",
+        "label": "CARDINAL",
+        "start": 231760,
+        "end": 231764
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 231798,
+        "end": 231799
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 232155,
+        "end": 232164
+    },
+    {
+        "text": "0.27",
+        "label": "CARDINAL",
+        "start": 232208,
+        "end": 232212
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 232778,
+        "end": 232785
+    },
+    {
+        "text": "an actual/360 day",
+        "label": "DATE",
+        "start": 232789,
+        "end": 232806
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 232816,
+        "end": 232825
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 233029,
+        "end": 233038
+    },
+    {
+        "text": "september\n27, 2016",
+        "label": "DATE",
+        "start": 233341,
+        "end": 233359
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 233514,
+        "end": 233517
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 233519,
+        "end": 233528
+    },
+    {
+        "text": "may 8, 2019",
+        "label": "DATE",
+        "start": 233759,
+        "end": 233770
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 233796,
+        "end": 233800
+    },
+    {
+        "text": "bank national association",
+        "label": "ORG",
+        "start": 233801,
+        "end": 233826
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 234224,
+        "end": 234230
+    },
+    {
+        "text": "may 8, 2019",
+        "label": "DATE",
+        "start": 234281,
+        "end": 234292
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 235635,
+        "end": 235642
+    },
+    {
+        "text": "section 4.3(b)(i",
+        "label": "LAW",
+        "start": 235695,
+        "end": 235711
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 235755,
+        "end": 235762
+    },
+    {
+        "text": "moody’s",
+        "label": "ORG",
+        "start": 235881,
+        "end": 235888
+    },
+    {
+        "text": "section 4.1(a",
+        "label": "LAW",
+        "start": 235986,
+        "end": 235999
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 236072,
+        "end": 236075
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 236077,
+        "end": 236086
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 236631,
+        "end": 236645
+    },
+    {
+        "text": "the\nreserve",
+        "label": "ORG",
+        "start": 236851,
+        "end": 236862
+    },
+    {
+        "text": "dpp",
+        "label": "ORG",
+        "start": 237090,
+        "end": 237093
+    },
+    {
+        "text": "1.85",
+        "label": "DATE",
+        "start": 237447,
+        "end": 237451
+    },
+    {
+        "text": "a 360 day year",
+        "label": "DATE",
+        "start": 237478,
+        "end": 237492
+    },
+    {
+        "text": "twelve 30 day months",
+        "label": "DATE",
+        "start": 237507,
+        "end": 237527
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 237557,
+        "end": 237566
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 237724,
+        "end": 237728
+    },
+    {
+        "text": "a 360 day year",
+        "label": "DATE",
+        "start": 237777,
+        "end": 237791
+    },
+    {
+        "text": "1.98",
+        "label": "CARDINAL",
+        "start": 237819,
+        "end": 237823
+    },
+    {
+        "text": "a 360 day year",
+        "label": "DATE",
+        "start": 237850,
+        "end": 237864
+    },
+    {
+        "text": "twelve 30 day months",
+        "label": "DATE",
+        "start": 237879,
+        "end": 237899
+    },
+    {
+        "text": "2.06",
+        "label": "CARDINAL",
+        "start": 237930,
+        "end": 237934
+    },
+    {
+        "text": "a 360 day year",
+        "label": "DATE",
+        "start": 237961,
+        "end": 237975
+    },
+    {
+        "text": "twelve 30 day months",
+        "label": "DATE",
+        "start": 237990,
+        "end": 238010
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 238520,
+        "end": 238523
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 238525,
+        "end": 238534
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 238541,
+        "end": 238548
+    },
+    {
+        "text": "section 2.15",
+        "label": "LAW",
+        "start": 239206,
+        "end": 239218
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 239297,
+        "end": 239302
+    },
+    {
+        "text": "section 2.4",
+        "label": "LAW",
+        "start": 239561,
+        "end": 239572
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 239804,
+        "end": 239808
+    },
+    {
+        "text": "irs",
+        "label": "ORG",
+        "start": 239829,
+        "end": 239832
+    },
+    {
+        "text": "7701(a)(30",
+        "label": "CARDINAL",
+        "start": 239960,
+        "end": 239970
+    },
+    {
+        "text": "irs",
+        "label": "ORG",
+        "start": 240003,
+        "end": 240006
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 241025,
+        "end": 241034
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 241095,
+        "end": 241104
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 241133,
+        "end": 241139
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 241179,
+        "end": 241183
+    },
+    {
+        "text": "one month",
+        "label": "DATE",
+        "start": 241213,
+        "end": 241222
+    },
+    {
+        "text": "reuters",
+        "label": "ORG",
+        "start": 241295,
+        "end": 241302
+    },
+    {
+        "text": "11:00 a.m.",
+        "label": "TIME",
+        "start": 241329,
+        "end": 241339
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 241341,
+        "end": 241347
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 241398,
+        "end": 241401
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 241403,
+        "end": 241412
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 241465,
+        "end": 241470
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 241488,
+        "end": 241497
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 241558,
+        "end": 241564
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 241605,
+        "end": 241609
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 241672,
+        "end": 241676
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 241684,
+        "end": 241689
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 241738,
+        "end": 241747
+    },
+    {
+        "text": "reuters",
+        "label": "ORG",
+        "start": 241775,
+        "end": 241782
+    },
+    {
+        "text": "that day",
+        "label": "DATE",
+        "start": 241818,
+        "end": 241826
+    },
+    {
+        "text": "u.s. dollars",
+        "label": "GPE",
+        "start": 241893,
+        "end": 241905
+    },
+    {
+        "text": "one month",
+        "label": "DATE",
+        "start": 241928,
+        "end": 241937
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 241982,
+        "end": 241986
+    },
+    {
+        "text": "1,000,000",
+        "label": "CARDINAL",
+        "start": 241987,
+        "end": 241996
+    },
+    {
+        "text": "approximately 11:00 a.m.",
+        "label": "TIME",
+        "start": 242012,
+        "end": 242036
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 242038,
+        "end": 242044
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 242106,
+        "end": 242112
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 242199,
+        "end": 242205
+    },
+    {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 242322,
+        "end": 242334
+    },
+    {
+        "text": "that day",
+        "label": "DATE",
+        "start": 242415,
+        "end": 242423
+    },
+    {
+        "text": "1/100,000",
+        "label": "CARDINAL",
+        "start": 242483,
+        "end": 242492
+    },
+    {
+        "text": "1.00",
+        "label": "CARDINAL",
+        "start": 242496,
+        "end": 242500
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 242519,
+        "end": 242523
+    },
+    {
+        "text": "fewer than two",
+        "label": "CARDINAL",
+        "start": 242604,
+        "end": 242618
+    },
+    {
+        "text": "that day",
+        "label": "DATE",
+        "start": 242699,
+        "end": 242707
+    },
+    {
+        "text": "1/100,000",
+        "label": "CARDINAL",
+        "start": 242746,
+        "end": 242755
+    },
+    {
+        "text": "1.00",
+        "label": "CARDINAL",
+        "start": 242759,
+        "end": 242763
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 242782,
+        "end": 242786
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 242876,
+        "end": 242879
+    },
+    {
+        "text": "new york city",
+        "label": "GPE",
+        "start": 242903,
+        "end": 242916
+    },
+    {
+        "text": "approximately 11:00 a.m.",
+        "label": "TIME",
+        "start": 242967,
+        "end": 242991
+    },
+    {
+        "text": "new york city",
+        "label": "GPE",
+        "start": 242993,
+        "end": 243006
+    },
+    {
+        "text": "european",
+        "label": "NORP",
+        "start": 243057,
+        "end": 243065
+    },
+    {
+        "text": "united states",
+        "label": "ORG",
+        "start": 243076,
+        "end": 243089
+    },
+    {
+        "text": "new york city",
+        "label": "GPE",
+        "start": 243203,
+        "end": 243216
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 243423,
+        "end": 243432
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 243498,
+        "end": 243507
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 243768,
+        "end": 243777
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 243806,
+        "end": 243815
+    },
+    {
+        "text": "section 8.1(b",
+        "label": "LAW",
+        "start": 244255,
+        "end": 244268
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 244906,
+        "end": 244909
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 244911,
+        "end": 244920
+    },
+    {
+        "text": "4.3(g",
+        "label": "LAW",
+        "start": 245193,
+        "end": 245198
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 248320,
+        "end": 248332
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 248378,
+        "end": 248381
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 248383,
+        "end": 248392
+    },
+    {
+        "text": "10.50",
+        "label": "CARDINAL",
+        "start": 248666,
+        "end": 248671
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 249010,
+        "end": 249011
+    },
+    {
+        "text": "0.1050",
+        "label": "MONEY",
+        "start": 249018,
+        "end": 249024
+    },
+    {
+        "text": "1.00",
+        "label": "CARDINAL",
+        "start": 249072,
+        "end": 249076
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 249417,
+        "end": 249418
+    },
+    {
+        "text": "1.00",
+        "label": "CARDINAL",
+        "start": 249479,
+        "end": 249483
+    },
+    {
+        "text": "14.50",
+        "label": "CARDINAL",
+        "start": 249718,
+        "end": 249723
+    },
+    {
+        "text": "1.00",
+        "label": "CARDINAL",
+        "start": 249847,
+        "end": 249851
+    },
+    {
+        "text": "17.50",
+        "label": "CARDINAL",
+        "start": 250096,
+        "end": 250101
+    },
+    {
+        "text": "1.00",
+        "label": "CARDINAL",
+        "start": 250225,
+        "end": 250229
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 250491,
+        "end": 250498
+    },
+    {
+        "text": "1/12th",
+        "label": "CARDINAL",
+        "start": 250512,
+        "end": 250518
+    },
+    {
+        "text": "15,000",
+        "label": "CARDINAL",
+        "start": 250522,
+        "end": 250528
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 250862,
+        "end": 250865
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 250867,
+        "end": 250876
+    },
+    {
+        "text": "the 20th day of each month",
+        "label": "DATE",
+        "start": 250898,
+        "end": 250924
+    },
+    {
+        "text": "the next business day",
+        "label": "DATE",
+        "start": 250952,
+        "end": 250973
+    },
+    {
+        "text": "march 2020",
+        "label": "DATE",
+        "start": 250987,
+        "end": 250997
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 251553,
+        "end": 251561
+    },
+    {
+        "text": "u.s. department of housing and urban development",
+        "label": "ORG",
+        "start": 251579,
+        "end": 251627
+    },
+    {
+        "text": "refcorp",
+        "label": "ORG",
+        "start": 251802,
+        "end": 251809
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 252220,
+        "end": 252223
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 252516,
+        "end": 252533
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 253197,
+        "end": 253200
+    },
+    {
+        "text": "moody’s",
+        "label": "ORG",
+        "start": 253205,
+        "end": 253212
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 253427,
+        "end": 253431
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 253712,
+        "end": 253715
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 253717,
+        "end": 253726
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 254324,
+        "end": 254336
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 254664,
+        "end": 254676
+    },
+    {
+        "text": "the end of the month preceding the month",
+        "label": "DATE",
+        "start": 255068,
+        "end": 255108
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 255173,
+        "end": 255174
+    },
+    {
+        "text": "at least 685",
+        "label": "CARDINAL",
+        "start": 255226,
+        "end": 255238
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 255297,
+        "end": 255299
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 255371,
+        "end": 255373
+    },
+    {
+        "text": "no more than 5.00",
+        "label": "CARDINAL",
+        "start": 255402,
+        "end": 255419
+    },
+    {
+        "text": "less than 12 months",
+        "label": "DATE",
+        "start": 255481,
+        "end": 255500
+    },
+    {
+        "text": "28.00",
+        "label": "CARDINAL",
+        "start": 255565,
+        "end": 255570
+    },
+    {
+        "text": "7 months",
+        "label": "DATE",
+        "start": 255632,
+        "end": 255640
+    },
+    {
+        "text": "less than 24 months",
+        "label": "DATE",
+        "start": 255654,
+        "end": 255673
+    },
+    {
+        "text": "no more than 15.00",
+        "label": "CARDINAL",
+        "start": 255725,
+        "end": 255743
+    },
+    {
+        "text": "60 months",
+        "label": "DATE",
+        "start": 255805,
+        "end": 255814
+    },
+    {
+        "text": "at least 50.00",
+        "label": "CARDINAL",
+        "start": 255874,
+        "end": 255888
+    },
+    {
+        "text": "less than 12 months",
+        "label": "DATE",
+        "start": 255950,
+        "end": 255969
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 256040,
+        "end": 256042
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 256091,
+        "end": 256093
+    },
+    {
+        "text": "650",
+        "label": "CARDINAL",
+        "start": 256100,
+        "end": 256103
+    },
+    {
+        "text": "no more than 10.00",
+        "label": "CARDINAL",
+        "start": 256115,
+        "end": 256133
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 256185,
+        "end": 256188
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 256190,
+        "end": 256199
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 256240,
+        "end": 256249
+    },
+    {
+        "text": "less than 60 months",
+        "label": "DATE",
+        "start": 256263,
+        "end": 256282
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 256353,
+        "end": 256355
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 256404,
+        "end": 256406
+    },
+    {
+        "text": "650",
+        "label": "CARDINAL",
+        "start": 256413,
+        "end": 256416
+    },
+    {
+        "text": "no more than 55.00",
+        "label": "CARDINAL",
+        "start": 256428,
+        "end": 256446
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 256525,
+        "end": 256534
+    },
+    {
+        "text": "less than 60 months",
+        "label": "DATE",
+        "start": 256548,
+        "end": 256567
+    },
+    {
+        "text": "60 months",
+        "label": "DATE",
+        "start": 256654,
+        "end": 256663
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 256742,
+        "end": 256744
+    },
+    {
+        "text": "8s",
+        "label": "CARDINAL",
+        "start": 256793,
+        "end": 256795
+    },
+    {
+        "text": "650",
+        "label": "CARDINAL",
+        "start": 256802,
+        "end": 256805
+    },
+    {
+        "text": "no more than 30.00",
+        "label": "CARDINAL",
+        "start": 256817,
+        "end": 256835
+    },
+    {
+        "text": "60 months",
+        "label": "DATE",
+        "start": 256914,
+        "end": 256923
+    },
+    {
+        "text": "the last day of a month",
+        "label": "DATE",
+        "start": 257024,
+        "end": 257047
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 257064,
+        "end": 257078
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 257397,
+        "end": 257401
+    },
+    {
+        "text": "january 21, 2020",
+        "label": "DATE",
+        "start": 257579,
+        "end": 257595
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 257666,
+        "end": 257670
+    },
+    {
+        "text": "bank national association",
+        "label": "ORG",
+        "start": 257671,
+        "end": 257696
+    },
+    {
+        "text": "wilmington trust",
+        "label": "ORG",
+        "start": 257698,
+        "end": 257714
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 257821,
+        "end": 257838
+    },
+    {
+        "text": "p-1",
+        "label": "NORP",
+        "start": 258067,
+        "end": 258070
+    },
+    {
+        "text": "moody’s",
+        "label": "ORG",
+        "start": 258077,
+        "end": 258084
+    },
+    {
+        "text": "moody’s",
+        "label": "ORG",
+        "start": 258098,
+        "end": 258105
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 258123,
+        "end": 258126
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 258140,
+        "end": 258143
+    },
+    {
+        "text": "moody’s",
+        "label": "ORG",
+        "start": 258273,
+        "end": 258280
+    },
+    {
+        "text": "moody’s",
+        "label": "ORG",
+        "start": 258294,
+        "end": 258301
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 258325,
+        "end": 258328
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 258342,
+        "end": 258345
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 258405,
+        "end": 258422
+    },
+    {
+        "text": "moody’s",
+        "label": "ORG",
+        "start": 258527,
+        "end": 258534
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 258539,
+        "end": 258542
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 258760,
+        "end": 258763
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 258765,
+        "end": 258774
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 259780,
+        "end": 259787
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 259859,
+        "end": 259871
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 260538,
+        "end": 260543
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 260865,
+        "end": 260869
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 260889,
+        "end": 260895
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 261019,
+        "end": 261020
+    },
+    {
+        "text": "one-month",
+        "label": "DATE",
+        "start": 261042,
+        "end": 261051
+    },
+    {
+        "text": "11:00 a.m.",
+        "label": "TIME",
+        "start": 261059,
+        "end": 261069
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 261071,
+        "end": 261077
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 261087,
+        "end": 261094
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 261103,
+        "end": 261106
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 261108,
+        "end": 261109
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 261111,
+        "end": 261117
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 261126,
+        "end": 261130
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 261178,
+        "end": 261179
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 261359,
+        "end": 261362
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 261364,
+        "end": 261373
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 261385,
+        "end": 261393
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 261409,
+        "end": 261410
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 261626,
+        "end": 261630
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 261663,
+        "end": 261680
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 261708,
+        "end": 261716
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 261742,
+        "end": 261750
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 261785,
+        "end": 261786
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 261806,
+        "end": 261814
+    },
+    {
+        "text": "3:30 p.m.",
+        "label": "TIME",
+        "start": 262277,
+        "end": 262286
+    },
+    {
+        "text": "new york city",
+        "label": "GPE",
+        "start": 262288,
+        "end": 262301
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 262315,
+        "end": 262320
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 262488,
+        "end": 262502
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 262755,
+        "end": 262760
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 262793,
+        "end": 262799
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 262835,
+        "end": 262840
+    },
+    {
+        "text": "the last\nday",
+        "label": "DATE",
+        "start": 262939,
+        "end": 262951
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 263199,
+        "end": 263203
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 263234,
+        "end": 263239
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 263268,
+        "end": 263274
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 263306,
+        "end": 263311
+    },
+    {
+        "text": "229.1100",
+        "label": "CARDINAL",
+        "start": 263371,
+        "end": 263379
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 263423,
+        "end": 263425
+    },
+    {
+        "text": "§",
+        "label": "NORP",
+        "start": 263433,
+        "end": 263434
+    },
+    {
+        "text": "33-8518",
+        "label": "CARDINAL",
+        "start": 263667,
+        "end": 263674
+    },
+    {
+        "text": "70",
+        "label": "CARDINAL",
+        "start": 263676,
+        "end": 263678
+    },
+    {
+        "text": "reg",
+        "label": "PERSON",
+        "start": 263684,
+        "end": 263687
+    },
+    {
+        "text": "1,506",
+        "label": "CARDINAL",
+        "start": 263689,
+        "end": 263694
+    },
+    {
+        "text": "1,531",
+        "label": "CARDINAL",
+        "start": 263696,
+        "end": 263701
+    },
+    {
+        "text": "jan. 7, 2005",
+        "label": "DATE",
+        "start": 263703,
+        "end": 263715
+    },
+    {
+        "text": "33-9638",
+        "label": "CARDINAL",
+        "start": 263801,
+        "end": 263808
+    },
+    {
+        "text": "79",
+        "label": "CARDINAL",
+        "start": 263810,
+        "end": 263812
+    },
+    {
+        "text": "reg",
+        "label": "PERSON",
+        "start": 263818,
+        "end": 263821
+    },
+    {
+        "text": "57,184",
+        "label": "CARDINAL",
+        "start": 263823,
+        "end": 263829
+    },
+    {
+        "text": "sept. 24, 2014",
+        "label": "DATE",
+        "start": 263831,
+        "end": 263845
+    },
+    {
+        "text": "the federal reserve board and/or the federal reserve bank of new york",
+        "label": "ORG",
+        "start": 263990,
+        "end": 264059
+    },
+    {
+        "text": "the federal reserve board and/or the federal reserve bank of new york",
+        "label": "ORG",
+        "start": 264111,
+        "end": 264180
+    },
+    {
+        "text": "a-33",
+        "label": "ORG",
+        "start": 264662,
+        "end": 264666
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 264692,
+        "end": 264695
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 264697,
+        "end": 264706
+    },
+    {
+        "text": "1/12",
+        "label": "DATE",
+        "start": 265225,
+        "end": 265229
+    },
+    {
+        "text": "p-1",
+        "label": "NORP",
+        "start": 265316,
+        "end": 265319
+    },
+    {
+        "text": "moody’s",
+        "label": "ORG",
+        "start": 265326,
+        "end": 265333
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 265354,
+        "end": 265357
+    },
+    {
+        "text": "17,877,097.97",
+        "label": "CARDINAL",
+        "start": 265391,
+        "end": 265404
+    },
+    {
+        "text": "approximately 1",
+        "label": "CARDINAL",
+        "start": 265409,
+        "end": 265424
+    },
+    {
+        "text": "section 4.1(a",
+        "label": "LAW",
+        "start": 265539,
+        "end": 265552
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 265724,
+        "end": 265738
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 266683,
+        "end": 266687
+    },
+    {
+        "text": "at least 5",
+        "label": "CARDINAL",
+        "start": 266726,
+        "end": 266736
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 266804,
+        "end": 266808
+    },
+    {
+        "text": "a-34",
+        "label": "PERSON",
+        "start": 267067,
+        "end": 267071
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 267097,
+        "end": 267100
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 267102,
+        "end": 267111
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 269224,
+        "end": 269227
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 269375,
+        "end": 269378
+    },
+    {
+        "text": "s&p",
+        "label": "ORG",
+        "start": 269386,
+        "end": 269389
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 269436,
+        "end": 269439
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 269441,
+        "end": 269450
+    },
+    {
+        "text": "section 6.7(a)(iv",
+        "label": "LAW",
+        "start": 269502,
+        "end": 269519
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 270146,
+        "end": 270152
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 270243,
+        "end": 270257
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 270503,
+        "end": 270508
+    },
+    {
+        "text": "1933",
+        "label": "DATE",
+        "start": 270891,
+        "end": 270895
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 270941,
+        "end": 270945
+    },
+    {
+        "text": "bank national association",
+        "label": "ORG",
+        "start": 270946,
+        "end": 270971
+    },
+    {
+        "text": "section 7.4",
+        "label": "LAW",
+        "start": 271037,
+        "end": 271048
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 271389,
+        "end": 271392
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 271394,
+        "end": 271403
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 271459,
+        "end": 271470
+    },
+    {
+        "text": "1122(d",
+        "label": "TIME",
+        "start": 271729,
+        "end": 271735
+    },
+    {
+        "text": "the full calendar month",
+        "label": "DATE",
+        "start": 272014,
+        "end": 272037
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 272281,
+        "end": 272293
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 272301,
+        "end": 272306
+    },
+    {
+        "text": "360",
+        "label": "CARDINAL",
+        "start": 272357,
+        "end": 272360
+    },
+    {
+        "text": "0.75",
+        "label": "CARDINAL",
+        "start": 272477,
+        "end": 272481
+    },
+    {
+        "text": "section 4975",
+        "label": "LAW",
+        "start": 272792,
+        "end": 272804
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 272867,
+        "end": 272876
+    },
+    {
+        "text": "such day",
+        "label": "DATE",
+        "start": 272906,
+        "end": 272914
+    },
+    {
+        "text": "the federal reserve bank of new\nyork",
+        "label": "ORG",
+        "start": 272918,
+        "end": 272954
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 273798,
+        "end": 273801
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 273803,
+        "end": 273812
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 273854,
+        "end": 273882
+    },
+    {
+        "text": "the district of columbia",
+        "label": "DATE",
+        "start": 273887,
+        "end": 273911
+    },
+    {
+        "text": "section 7.4(a)(i",
+        "label": "LAW",
+        "start": 274739,
+        "end": 274755
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 275794,
+        "end": 275799
+    },
+    {
+        "text": "less than zero",
+        "label": "CARDINAL",
+        "start": 275890,
+        "end": 275904
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 276189,
+        "end": 276192
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 276194,
+        "end": 276203
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 276214,
+        "end": 276219
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 276263,
+        "end": 276269
+    },
+    {
+        "text": "8.2(c)(i",
+        "label": "CARDINAL",
+        "start": 276561,
+        "end": 276569
+    },
+    {
+        "text": "8.2(c)(i",
+        "label": "CARDINAL",
+        "start": 276720,
+        "end": 276728
+    },
+    {
+        "text": "section 2.1(d",
+        "label": "LAW",
+        "start": 277866,
+        "end": 277879
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 278014,
+        "end": 278022
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 278129,
+        "end": 278134
+    },
+    {
+        "text": "the immediately preceding week",
+        "label": "DATE",
+        "start": 278252,
+        "end": 278282
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 278506,
+        "end": 278512
+    },
+    {
+        "text": "united states treasury",
+        "label": "ORG",
+        "start": 278617,
+        "end": 278639
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 278700,
+        "end": 278708
+    },
+    {
+        "text": "three months",
+        "label": "DATE",
+        "start": 278821,
+        "end": 278833
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 278945,
+        "end": 278948
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 278989,
+        "end": 278992
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 278994,
+        "end": 279003
+    },
+    {
+        "text": "the nearest month",
+        "label": "DATE",
+        "start": 279208,
+        "end": 279225
+    },
+    {
+        "text": "the week",
+        "label": "DATE",
+        "start": 279303,
+        "end": 279311
+    },
+    {
+        "text": "semiannual",
+        "label": "DATE",
+        "start": 279409,
+        "end": 279419
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 279662,
+        "end": 279670
+    },
+    {
+        "text": "1939",
+        "label": "DATE",
+        "start": 280344,
+        "end": 280348
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 280672,
+        "end": 280676
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 280727,
+        "end": 280729
+    },
+    {
+        "text": "§",
+        "label": "NORP",
+        "start": 280737,
+        "end": 280738
+    },
+    {
+        "text": "246.1",
+        "label": "CARDINAL",
+        "start": 280738,
+        "end": 280743
+    },
+    {
+        "text": "january 21, 2020",
+        "label": "DATE",
+        "start": 281022,
+        "end": 281038
+    },
+    {
+        "text": "bofa securities, inc.",
+        "label": "ORG",
+        "start": 281087,
+        "end": 281108
+    },
+    {
+        "text": "mizuho securities usa llc",
+        "label": "ORG",
+        "start": 281110,
+        "end": 281135
+    },
+    {
+        "text": "mufg securities americas inc.",
+        "label": "ORG",
+        "start": 281137,
+        "end": 281166
+    },
+    {
+        "text": "wells fargo securities",
+        "label": "ORG",
+        "start": 281171,
+        "end": 281193
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 281583,
+        "end": 281586
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 281588,
+        "end": 281597
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 281723,
+        "end": 281729
+    },
+    {
+        "text": "verizon communications inc.",
+        "label": "ORG",
+        "start": 282367,
+        "end": 282394
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 283082,
+        "end": 283094
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 283287,
+        "end": 283299
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 283379,
+        "end": 283384
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 283552,
+        "end": 283559
+    },
+    {
+        "text": "zero",
+        "label": "CARDINAL",
+        "start": 283655,
+        "end": 283659
+    },
+    {
+        "text": "the end of each month",
+        "label": "DATE",
+        "start": 283797,
+        "end": 283818
+    },
+    {
+        "text": "less than 7.65",
+        "label": "CARDINAL",
+        "start": 284183,
+        "end": 284197
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 284229,
+        "end": 284232
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 284234,
+        "end": 284243
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 284333,
+        "end": 284336
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 284338,
+        "end": 284347
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 284366,
+        "end": 284372
+    },
+    {
+        "text": "january 29, 2020",
+        "label": "DATE",
+        "start": 284441,
+        "end": 284457
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 284503,
+        "end": 284507
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 284969,
+        "end": 284970
+    },
+    {
+        "text": "1123",
+        "label": "DATE",
+        "start": 285070,
+        "end": 285074
+    },
+    {
+        "text": "1122(d",
+        "label": "TIME",
+        "start": 285221,
+        "end": 285227
+    },
+    {
+        "text": "13a-18",
+        "label": "CARDINAL",
+        "start": 285308,
+        "end": 285314
+    },
+    {
+        "text": "15d-18",
+        "label": "CARDINAL",
+        "start": 285319,
+        "end": 285325
+    },
+    {
+        "text": "1934",
+        "label": "DATE",
+        "start": 285359,
+        "end": 285363
+    },
+    {
+        "text": "1122",
+        "label": "DATE",
+        "start": 285406,
+        "end": 285410
+    },
+    {
+        "text": "13a-18",
+        "label": "CARDINAL",
+        "start": 285551,
+        "end": 285557
+    },
+    {
+        "text": "15d-18",
+        "label": "CARDINAL",
+        "start": 285562,
+        "end": 285568
+    },
+    {
+        "text": "section 1122(b",
+        "label": "LAW",
+        "start": 285596,
+        "end": 285610
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 285950,
+        "end": 285951
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 286328,
+        "end": 286329
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 286506,
+        "end": 286507
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 286913,
+        "end": 286914
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 287336,
+        "end": 287339
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 287341,
+        "end": 287350
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 287723,
+        "end": 287726
+    },
+    {
+        "text": "1/23/2020",
+        "label": "DATE",
+        "start": 287728,
+        "end": 287737
+    }
+]

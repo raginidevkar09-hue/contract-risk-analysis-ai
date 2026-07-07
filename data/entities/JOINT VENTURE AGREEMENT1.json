@@ -1,0 +1,314 @@
+[
+    {
+        "text": "10.13",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 535,
+        "end": 536
+    },
+    {
+        "text": "1600",
+        "label": "CARDINAL",
+        "start": 796,
+        "end": 800
+    },
+    {
+        "text": "18901",
+        "label": "DATE",
+        "start": 834,
+        "end": 839
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 841,
+        "end": 842
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 2085,
+        "end": 2086
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 2261,
+        "end": 2262
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 2435,
+        "end": 2447
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 2604,
+        "end": 2616
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 2618,
+        "end": 2619
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 3868,
+        "end": 3869
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 4032,
+        "end": 4034
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 4076,
+        "end": 4078
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 4337,
+        "end": 4338
+    },
+    {
+        "text": "the fiscal year",
+        "label": "DATE",
+        "start": 4915,
+        "end": 4930
+    },
+    {
+        "text": "each year",
+        "label": "DATE",
+        "start": 5145,
+        "end": 5154
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 5926,
+        "end": 5927
+    },
+    {
+        "text": "the 1st of\n     march",
+        "label": "DATE",
+        "start": 5990,
+        "end": 6011
+    },
+    {
+        "text": "2003",
+        "label": "DATE",
+        "start": 6013,
+        "end": 6017
+    },
+    {
+        "text": "february 28",
+        "label": "DATE",
+        "start": 6048,
+        "end": 6059
+    },
+    {
+        "text": "2004",
+        "label": "DATE",
+        "start": 6061,
+        "end": 6065
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 6153,
+        "end": 6155
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 6157,
+        "end": 6161
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 6199,
+        "end": 6200
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 7160,
+        "end": 7161
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 7163,
+        "end": 7165
+    },
+    {
+        "text": "1986",
+        "label": "DATE",
+        "start": 7719,
+        "end": 7723
+    },
+    {
+        "text": "subchapter k",
+        "label": "PERSON",
+        "start": 7846,
+        "end": 7858
+    },
+    {
+        "text": "chapter 1\n     ",
+        "label": "LAW",
+        "start": 7862,
+        "end": 7877
+    },
+    {
+        "text": "subchapter k",
+        "label": "PERSON",
+        "start": 7960,
+        "end": 7972
+    },
+    {
+        "text": "chapter 1",
+        "label": "LAW",
+        "start": 7976,
+        "end": 7985
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 8624,
+        "end": 8626
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 9194,
+        "end": 9195
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 9360,
+        "end": 9363
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 9557,
+        "end": 9559
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 9905,
+        "end": 9907
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 10225,
+        "end": 10227
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 10391,
+        "end": 10403
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 10574,
+        "end": 10586
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 10701,
+        "end": 10703
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 10855,
+        "end": 10857
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 10944,
+        "end": 10947
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 11400,
+        "end": 11401
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 11516,
+        "end": 11517
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 11692,
+        "end": 11693
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 11870,
+        "end": 11871
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 12016,
+        "end": 12017
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 12111,
+        "end": 12112
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 12256,
+        "end": 12257
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 12385,
+        "end": 12386
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 12524,
+        "end": 12525
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 12784,
+        "end": 12785
+    }
+]

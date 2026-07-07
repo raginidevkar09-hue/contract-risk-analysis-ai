@@ -1,0 +1,4706 @@
+[
+    {
+        "word": "health",
+        "lemma": "health",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "financing",
+        "lemma": "financing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "julia",
+        "lemma": "julia",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "miller",
+        "lemma": "miller",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "residing",
+        "lemma": "reside",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "at",
+        "lemma": "at",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "123",
+        "lemma": "123",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "flower",
+        "lemma": "flower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "street",
+        "lemma": "street",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH"
+    },
+    {
+        "word": "new",
+        "lemma": "new",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "york",
+        "lemma": "york",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "ny",
+        "lemma": "ny",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "holder",
+        "lemma": "holder",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "ssn",
+        "lemma": "ssn",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "nº",
+        "lemma": "nº",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "232854048",
+        "lemma": "232854048",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "lender",
+        "lemma": "lender",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "financial",
+        "lemma": "financial",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "bank",
+        "lemma": "bank",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "america",
+        "lemma": "america",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "inc",
+        "lemma": "inc",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "registered",
+        "lemma": "register",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "ein",
+        "lemma": "ein",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "nº",
+        "lemma": "nº",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "00",
+        "lemma": "00",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "SYM",
+        "tag": "SYM"
+    },
+    {
+        "word": "0000000",
+        "lemma": "0000000",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "headquartered",
+        "lemma": "headquarter",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "at",
+        "lemma": "at",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "1000",
+        "lemma": "1000",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "main",
+        "lemma": "main",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "avenue",
+        "lemma": "avenue",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "new",
+        "lemma": "new",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "york",
+        "lemma": "york",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "ny",
+        "lemma": "ny",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "financed",
+        "lemma": "finance",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "amount",
+        "lemma": "amount",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "42,751.00",
+        "lemma": "42,751.00",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "one",
+        "lemma": "one",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "purpose",
+        "lemma": "purpose",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "aims",
+        "lemma": "aim",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "grant",
+        "lemma": "grant",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "financing",
+        "lemma": "financing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "acquisition",
+        "lemma": "acquisition",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "asset",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "described",
+        "lemma": "describe",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "preamble",
+        "lemma": "preamble",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "two",
+        "lemma": "two",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "term",
+        "lemma": "term",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "financing",
+        "lemma": "financing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "period",
+        "lemma": "period",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "up",
+        "lemma": "up",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "60",
+        "lemma": "60",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "months",
+        "lemma": "month",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "unless",
+        "lemma": "unless",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "otherwise",
+        "lemma": "otherwise",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "agreed",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "upon",
+        "lemma": "upon",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "three",
+        "lemma": "three",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "payment",
+        "lemma": "payment",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "pay",
+        "lemma": "pay",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "monthly",
+        "lemma": "monthly",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "installments",
+        "lemma": "installment",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "increased",
+        "lemma": "increase",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "interest",
+        "lemma": "interest",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "1.2",
+        "lemma": "1.2",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "per",
+        "lemma": "per",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "month",
+        "lemma": "month",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "corrected",
+        "lemma": "correct",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "annually",
+        "lemma": "annually",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "consumer",
+        "lemma": "consumer",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "price",
+        "lemma": "price",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "index",
+        "lemma": "index",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "cpi",
+        "lemma": "cpi",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "four",
+        "lemma": "four",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "guarantees",
+        "lemma": "guarantee",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "financed",
+        "lemma": "finance",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "asset",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "remain",
+        "lemma": "remain",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "fiduciary",
+        "lemma": "fiduciary",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "lien",
+        "lemma": "lien",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "favor",
+        "lemma": "favor",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "bank",
+        "lemma": "bank",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "until",
+        "lemma": "until",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "full",
+        "lemma": "full",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "settlement",
+        "lemma": "settlement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "five",
+        "lemma": "five",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "insurance",
+        "lemma": "insurance",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "must",
+        "lemma": "must",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "contract",
+        "lemma": "contract",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "mandatory",
+        "lemma": "mandatory",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "insurance",
+        "lemma": "insurance",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "financed",
+        "lemma": "finance",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "asset",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "minimum",
+        "lemma": "minimum",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "coverage",
+        "lemma": "coverage",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "required",
+        "lemma": "require",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "current",
+        "lemma": "current",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "legislation",
+        "lemma": "legislation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "six",
+        "lemma": "six",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "default",
+        "lemma": "default",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "payment",
+        "lemma": "payment",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "delay",
+        "lemma": "delay",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "result",
+        "lemma": "result",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "penalty",
+        "lemma": "penalty",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "2",
+        "lemma": "2",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "installment",
+        "lemma": "installment",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "late",
+        "lemma": "late",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "interest",
+        "lemma": "interest",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "1",
+        "lemma": "1",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "per",
+        "lemma": "per",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "month",
+        "lemma": "month",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "possible",
+        "lemma": "possible",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "execution",
+        "lemma": "execution",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "guarantee",
+        "lemma": "guarantee",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "seven",
+        "lemma": "seven",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "termination",
+        "lemma": "termination",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "breach",
+        "lemma": "breach",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "obligations",
+        "lemma": "obligation",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "result",
+        "lemma": "result",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "termination",
+        "lemma": "termination",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "enforcement",
+        "lemma": "enforcement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "guarantees",
+        "lemma": "guarantee",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "regardless",
+        "lemma": "regardless",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "notification",
+        "lemma": "notification",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "eight",
+        "lemma": "eight",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "jurisdiction",
+        "lemma": "jurisdiction",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "elect",
+        "lemma": "elect",
+        "pos": "VERB",
+        "tag": "VBP"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "courts",
+        "lemma": "court",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "new",
+        "lemma": "new",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "york",
+        "lemma": "york",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "ny",
+        "lemma": "ny",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "settle",
+        "lemma": "settle",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "disputes",
+        "lemma": "dispute",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "arising",
+        "lemma": "arise",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "from",
+        "lemma": "from",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "one",
+        "lemma": "one",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "purpose",
+        "lemma": "purpose",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "aims",
+        "lemma": "aim",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "grant",
+        "lemma": "grant",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "financing",
+        "lemma": "financing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "acquisition",
+        "lemma": "acquisition",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "asset",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "described",
+        "lemma": "describe",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "preamble",
+        "lemma": "preamble",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "two",
+        "lemma": "two",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "term",
+        "lemma": "term",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "financing",
+        "lemma": "financing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "period",
+        "lemma": "period",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "up",
+        "lemma": "up",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "60",
+        "lemma": "60",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "months",
+        "lemma": "month",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "unless",
+        "lemma": "unless",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "otherwise",
+        "lemma": "otherwise",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "agreed",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "upon",
+        "lemma": "upon",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "three",
+        "lemma": "three",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "payment",
+        "lemma": "payment",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "pay",
+        "lemma": "pay",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "monthly",
+        "lemma": "monthly",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "installments",
+        "lemma": "installment",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "increased",
+        "lemma": "increase",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "interest",
+        "lemma": "interest",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "1.2",
+        "lemma": "1.2",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "per",
+        "lemma": "per",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "month",
+        "lemma": "month",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "corrected",
+        "lemma": "correct",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "annually",
+        "lemma": "annually",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "consumer",
+        "lemma": "consumer",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "price",
+        "lemma": "price",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "index",
+        "lemma": "index",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "cpi",
+        "lemma": "cpi",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "four",
+        "lemma": "four",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "guarantees",
+        "lemma": "guarantee",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "financed",
+        "lemma": "finance",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "asset",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "remain",
+        "lemma": "remain",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "fiduciary",
+        "lemma": "fiduciary",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "lien",
+        "lemma": "lien",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "favor",
+        "lemma": "favor",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "bank",
+        "lemma": "bank",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "until",
+        "lemma": "until",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "full",
+        "lemma": "full",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "settlement",
+        "lemma": "settlement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "five",
+        "lemma": "five",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "insurance",
+        "lemma": "insurance",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "must",
+        "lemma": "must",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "contract",
+        "lemma": "contract",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "mandatory",
+        "lemma": "mandatory",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "insurance",
+        "lemma": "insurance",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "financed",
+        "lemma": "finance",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "asset",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "minimum",
+        "lemma": "minimum",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "coverage",
+        "lemma": "coverage",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "required",
+        "lemma": "require",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "current",
+        "lemma": "current",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "legislation",
+        "lemma": "legislation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "six",
+        "lemma": "six",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "default",
+        "lemma": "default",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "payment",
+        "lemma": "payment",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "delay",
+        "lemma": "delay",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "result",
+        "lemma": "result",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "penalty",
+        "lemma": "penalty",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "2",
+        "lemma": "2",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "installment",
+        "lemma": "installment",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "late",
+        "lemma": "late",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "interest",
+        "lemma": "interest",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "1",
+        "lemma": "1",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "per",
+        "lemma": "per",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "month",
+        "lemma": "month",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "possible",
+        "lemma": "possible",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "execution",
+        "lemma": "execution",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "guarantee",
+        "lemma": "guarantee",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "seven",
+        "lemma": "seven",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "termination",
+        "lemma": "termination",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "breach",
+        "lemma": "breach",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "obligations",
+        "lemma": "obligation",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "result",
+        "lemma": "result",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "termination",
+        "lemma": "termination",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "enforcement",
+        "lemma": "enforcement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "guarantees",
+        "lemma": "guarantee",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "regardless",
+        "lemma": "regardless",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "notification",
+        "lemma": "notification",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "eight",
+        "lemma": "eight",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "jurisdiction",
+        "lemma": "jurisdiction",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "elect",
+        "lemma": "elect",
+        "pos": "VERB",
+        "tag": "VBP"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "courts",
+        "lemma": "court",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "new",
+        "lemma": "new",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "york",
+        "lemma": "york",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "ny",
+        "lemma": "ny",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "settle",
+        "lemma": "settle",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "disputes",
+        "lemma": "dispute",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "arising",
+        "lemma": "arise",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "from",
+        "lemma": "from",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "one",
+        "lemma": "one",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "purpose",
+        "lemma": "purpose",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "aims",
+        "lemma": "aim",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "grant",
+        "lemma": "grant",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "financing",
+        "lemma": "financing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "acquisition",
+        "lemma": "acquisition",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "asset",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "described",
+        "lemma": "describe",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "preamble",
+        "lemma": "preamble",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "two",
+        "lemma": "two",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "term",
+        "lemma": "term",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "financing",
+        "lemma": "financing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "period",
+        "lemma": "period",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "up",
+        "lemma": "up",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "60",
+        "lemma": "60",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "months",
+        "lemma": "month",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "unless",
+        "lemma": "unless",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "otherwise",
+        "lemma": "otherwise",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "agreed",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "upon",
+        "lemma": "upon",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "three",
+        "lemma": "three",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "payment",
+        "lemma": "payment",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "pay",
+        "lemma": "pay",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "monthly",
+        "lemma": "monthly",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "installments",
+        "lemma": "installment",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "increased",
+        "lemma": "increase",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "interest",
+        "lemma": "interest",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "1.2",
+        "lemma": "1.2",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "per",
+        "lemma": "per",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "month",
+        "lemma": "month",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "corrected",
+        "lemma": "correct",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "annually",
+        "lemma": "annually",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "consumer",
+        "lemma": "consumer",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "price",
+        "lemma": "price",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "index",
+        "lemma": "index",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "cpi",
+        "lemma": "cpi",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "four",
+        "lemma": "four",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "guarantees",
+        "lemma": "guarantee",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "financed",
+        "lemma": "finance",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "asset",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "remain",
+        "lemma": "remain",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "fiduciary",
+        "lemma": "fiduciary",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "lien",
+        "lemma": "lien",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "favor",
+        "lemma": "favor",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "bank",
+        "lemma": "bank",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "until",
+        "lemma": "until",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "full",
+        "lemma": "full",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "settlement",
+        "lemma": "settlement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "five",
+        "lemma": "five",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "insurance",
+        "lemma": "insurance",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "must",
+        "lemma": "must",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "contract",
+        "lemma": "contract",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "mandatory",
+        "lemma": "mandatory",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "insurance",
+        "lemma": "insurance",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "financed",
+        "lemma": "finance",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "asset",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "minimum",
+        "lemma": "minimum",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "coverage",
+        "lemma": "coverage",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "required",
+        "lemma": "require",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "current",
+        "lemma": "current",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "legislation",
+        "lemma": "legislation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "six",
+        "lemma": "six",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "default",
+        "lemma": "default",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "payment",
+        "lemma": "payment",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "delay",
+        "lemma": "delay",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "result",
+        "lemma": "result",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "penalty",
+        "lemma": "penalty",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "2",
+        "lemma": "2",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "installment",
+        "lemma": "installment",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "late",
+        "lemma": "late",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "interest",
+        "lemma": "interest",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "1",
+        "lemma": "1",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "per",
+        "lemma": "per",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "month",
+        "lemma": "month",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "possible",
+        "lemma": "possible",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "execution",
+        "lemma": "execution",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "guarantee",
+        "lemma": "guarantee",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "seven",
+        "lemma": "seven",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "termination",
+        "lemma": "termination",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "breach",
+        "lemma": "breach",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "obligations",
+        "lemma": "obligation",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "will",
+        "lemma": "will",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "result",
+        "lemma": "result",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "termination",
+        "lemma": "termination",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "enforcement",
+        "lemma": "enforcement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "guarantees",
+        "lemma": "guarantee",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "regardless",
+        "lemma": "regardless",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "notification",
+        "lemma": "notification",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "clause",
+        "lemma": "clause",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "eight",
+        "lemma": "eight",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "jurisdiction",
+        "lemma": "jurisdiction",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "elect",
+        "lemma": "elect",
+        "pos": "VERB",
+        "tag": "VBP"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "courts",
+        "lemma": "court",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "new",
+        "lemma": "new",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "york",
+        "lemma": "york",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "ny",
+        "lemma": "ny",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "settle",
+        "lemma": "settle",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "disputes",
+        "lemma": "dispute",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "arising",
+        "lemma": "arise",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "from",
+        "lemma": "from",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "new",
+        "lemma": "new",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "york",
+        "lemma": "york",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "january",
+        "lemma": "january",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "20",
+        "lemma": "20",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2024",
+        "lemma": "2024",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "julia",
+        "lemma": "julia",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "miller",
+        "lemma": "miller",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "borrower",
+        "lemma": "borrower",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "_",
+        "lemma": "_",
+        "pos": "PUNCT",
+        "tag": "NFP"
+    },
+    {
+        "word": "representative",
+        "lemma": "representative",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "–",
+        "lemma": "–",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "financial",
+        "lemma": "financial",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "bank",
+        "lemma": "bank",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "america",
+        "lemma": "america",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "lender",
+        "lemma": "lender",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "the 20th day of november, 2018",
+        "label": "DATE",
+        "start": 114,
+        "end": 144
+    },
+    {
+        "text": "indian",
+        "label": "NORP",
+        "start": 236,
+        "end": 242
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 290,
+        "end": 291
+    },
+    {
+        "text": "kamala mills",
+        "label": "GPE",
+        "start": 293,
+        "end": 305
+    },
+    {
+        "text": "400013",
+        "label": "DATE",
+        "start": 327,
+        "end": 333
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 335,
+        "end": 340
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 420,
+        "end": 448
+    },
+    {
+        "text": "1345",
+        "label": "DATE",
+        "start": 469,
+        "end": 473
+    },
+    {
+        "text": "11th",
+        "label": "ORDINAL",
+        "start": 498,
+        "end": 502
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 510,
+        "end": 518
+    },
+    {
+        "text": "10105",
+        "label": "DATE",
+        "start": 520,
+        "end": 525
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 635,
+        "end": 640
+    },
+    {
+        "text": "minneapolis",
+        "label": "GPE",
+        "start": 683,
+        "end": 694
+    },
+    {
+        "text": "minnesota",
+        "label": "GPE",
+        "start": 695,
+        "end": 704
+    },
+    {
+        "text": "north america",
+        "label": "LOC",
+        "start": 1118,
+        "end": 1131
+    },
+    {
+        "text": "south america",
+        "label": "LOC",
+        "start": 1136,
+        "end": 1149
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1585,
+        "end": 1586
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 1607,
+        "end": 1610
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 1865,
+        "end": 1870
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2124,
+        "end": 2129
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2188,
+        "end": 2193
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2559,
+        "end": 2564
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2727,
+        "end": 2732
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2925,
+        "end": 2930
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 2950,
+        "end": 2953
+    },
+    {
+        "text": "section 1.1",
+        "label": "LAW",
+        "start": 3009,
+        "end": 3020
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3276,
+        "end": 3281
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3450,
+        "end": 3455
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 3702,
+        "end": 3705
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 3982,
+        "end": 3985
+    },
+    {
+        "text": "franchisor",
+        "label": "PERSON",
+        "start": 4025,
+        "end": 4035
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 4630,
+        "end": 4633
+    },
+    {
+        "text": "11/30/2018",
+        "label": "DATE",
+        "start": 4635,
+        "end": 4645
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 4668,
+        "end": 4673
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 4800,
+        "end": 4805
+    },
+    {
+        "text": "five percent",
+        "label": "PERCENT",
+        "start": 4916,
+        "end": 4928
+    },
+    {
+        "text": "five\npercent",
+        "label": "PERCENT",
+        "start": 5068,
+        "end": 5080
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 5133,
+        "end": 5138
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 5187,
+        "end": 5193
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 5201,
+        "end": 5204
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 5249,
+        "end": 5254
+    },
+    {
+        "text": "at least 6",
+        "label": "CARDINAL",
+        "start": 5317,
+        "end": 5327
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 5329,
+        "end": 5332
+    },
+    {
+        "text": "the first contract year",
+        "label": "DATE",
+        "start": 5357,
+        "end": 5380
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 5911,
+        "end": 5916
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 6171,
+        "end": 6172
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 6414,
+        "end": 6415
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 6452,
+        "end": 6455
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 6534,
+        "end": 6539
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 6755,
+        "end": 6760
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 7128,
+        "end": 7131
+    },
+    {
+        "text": "11/30/2018",
+        "label": "DATE",
+        "start": 7133,
+        "end": 7143
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 7311,
+        "end": 7314
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7508,
+        "end": 7513
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 7679,
+        "end": 7684
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 8174,
+        "end": 8177
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 8360,
+        "end": 8361
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 8712,
+        "end": 8713
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 8752,
+        "end": 8755
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9056,
+        "end": 9061
+    },
+    {
+        "text": "the\nthird party",
+        "label": "ORG",
+        "start": 9815,
+        "end": 9830
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10099,
+        "end": 10104
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10598,
+        "end": 10603
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10720,
+        "end": 10725
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 10751,
+        "end": 10754
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 11527,
+        "end": 11528
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 11552,
+        "end": 11555
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11875,
+        "end": 11880
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 12143,
+        "end": 12144
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 12149,
+        "end": 12150
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 12210,
+        "end": 12213
+    },
+    {
+        "text": "11/30/2018",
+        "label": "DATE",
+        "start": 12215,
+        "end": 12225
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 12733,
+        "end": 12736
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 13665,
+        "end": 13668
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 14378,
+        "end": 14379
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14381,
+        "end": 14386
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 14454,
+        "end": 14457
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14458,
+        "end": 14463
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14855,
+        "end": 14860
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14950,
+        "end": 14955
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 15447,
+        "end": 15450
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15577,
+        "end": 15582
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15675,
+        "end": 15680
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15835,
+        "end": 15840
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15961,
+        "end": 15966
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 16162,
+        "end": 16167
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 16293,
+        "end": 16296
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 17009,
+        "end": 17012
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 17062,
+        "end": 17063
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 17077,
+        "end": 17080
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 17249,
+        "end": 17252
+    },
+    {
+        "text": "11/30/2018",
+        "label": "DATE",
+        "start": 17254,
+        "end": 17264
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 17265,
+        "end": 17268
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 17361,
+        "end": 17369
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 17929,
+        "end": 17937
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 17998,
+        "end": 18001
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 18499,
+        "end": 18505
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 18507,
+        "end": 18515
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 18835,
+        "end": 18838
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 19218,
+        "end": 19221
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 19784,
+        "end": 19789
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 21070,
+        "end": 21071
+    },
+    {
+        "text": "addressee",
+        "label": "NORP",
+        "start": 21576,
+        "end": 21585
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 21843,
+        "end": 21844
+    },
+    {
+        "text": "400013",
+        "label": "DATE",
+        "start": 21878,
+        "end": 21884
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 21886,
+        "end": 21891
+    },
+    {
+        "text": "vishwanath kotian",
+        "label": "PERSON",
+        "start": 21907,
+        "end": 21924
+    },
+    {
+        "text": "1345",
+        "label": "DATE",
+        "start": 21943,
+        "end": 21947
+    },
+    {
+        "text": "11th",
+        "label": "ORDINAL",
+        "start": 21972,
+        "end": 21976
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 21983,
+        "end": 21991
+    },
+    {
+        "text": "101015",
+        "label": "DATE",
+        "start": 21996,
+        "end": 22002
+    },
+    {
+        "text": "suhel kanuga",
+        "label": "PERSON",
+        "start": 22023,
+        "end": 22035
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 22076,
+        "end": 22079
+    },
+    {
+        "text": "11/30/2018",
+        "label": "DATE",
+        "start": 22081,
+        "end": 22091
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 22092,
+        "end": 22094
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 22110,
+        "end": 22114
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 22443,
+        "end": 22447
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 22677,
+        "end": 22678
+    },
+    {
+        "text": "five) days",
+        "label": "DATE",
+        "start": 22680,
+        "end": 22690
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 22949,
+        "end": 22953
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 23128,
+        "end": 23132
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 23836,
+        "end": 23840
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 23890,
+        "end": 23894
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 24056,
+        "end": 24064
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 24286,
+        "end": 24294
+    },
+    {
+        "text": "supreme court",
+        "label": "ORG",
+        "start": 24301,
+        "end": 24314
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 24326,
+        "end": 24334
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 24341,
+        "end": 24358
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 24403,
+        "end": 24411
+    },
+    {
+        "text": "10.6",
+        "label": "CARDINAL",
+        "start": 24679,
+        "end": 24683
+    },
+    {
+        "text": "10.7",
+        "label": "CARDINAL",
+        "start": 25367,
+        "end": 25371
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 25927,
+        "end": 25933
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 25935,
+        "end": 25943
+    },
+    {
+        "text": "10.8",
+        "label": "CARDINAL",
+        "start": 25974,
+        "end": 25978
+    },
+    {
+        "text": "10.9",
+        "label": "CARDINAL",
+        "start": 26168,
+        "end": 26172
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 26641,
+        "end": 26644
+    },
+    {
+        "text": "11/30/2018",
+        "label": "DATE",
+        "start": 26646,
+        "end": 26656
+    },
+    {
+        "text": "10.10",
+        "label": "CARDINAL",
+        "start": 26657,
+        "end": 26662
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 26907,
+        "end": 26908
+    },
+    {
+        "text": "10.11",
+        "label": "CARDINAL",
+        "start": 26928,
+        "end": 26933
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 27382,
+        "end": 27387
+    },
+    {
+        "text": "10.13",
+        "label": "CARDINAL",
+        "start": 27554,
+        "end": 27559
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 27608,
+        "end": 27611
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 27613,
+        "end": 27614
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 27976,
+        "end": 27979
+    },
+    {
+        "text": "11/30/2018",
+        "label": "DATE",
+        "start": 27981,
+        "end": 27991
+    },
+    {
+        "text": "the day and year first",
+        "label": "DATE",
+        "start": 28065,
+        "end": 28087
+    },
+    {
+        "text": "/s/ f. jacob cherian\nname",
+        "label": "PERSON",
+        "start": 28233,
+        "end": 28258
+    },
+    {
+        "text": "f. jacob cherian\n",
+        "label": "PERSON",
+        "start": 28260,
+        "end": 28277
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 28366,
+        "end": 28369
+    },
+    {
+        "text": "11/30/2018",
+        "label": "DATE",
+        "start": 28371,
+        "end": 28381
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 28462,
+        "end": 28465
+    },
+    {
+        "text": "11/30/2018",
+        "label": "DATE",
+        "start": 28467,
+        "end": 28477
+    }
+]

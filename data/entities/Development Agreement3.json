@@ -1,0 +1,2132 @@
+[
+    {
+        "text": "september 30, 2019",
+        "label": "DATE",
+        "start": 343,
+        "end": 361
+    },
+    {
+        "text": "howmedica osteonics corp.",
+        "label": "ORG",
+        "start": 396,
+        "end": 421
+    },
+    {
+        "text": "new jersey corporation",
+        "label": "GPE",
+        "start": 425,
+        "end": 447
+    },
+    {
+        "text": "conformis, inc.",
+        "label": "ORG",
+        "start": 501,
+        "end": 516
+    },
+    {
+        "text": "600",
+        "label": "CARDINAL",
+        "start": 589,
+        "end": 592
+    },
+    {
+        "text": "billerica",
+        "label": "GPE",
+        "start": 616,
+        "end": 625
+    },
+    {
+        "text": "01821",
+        "label": "DATE",
+        "start": 630,
+        "end": 635
+    },
+    {
+        "text": "stryker",
+        "label": "ORG",
+        "start": 651,
+        "end": 658
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 1515,
+        "end": 1524
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 2080,
+        "end": 2083
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 2347,
+        "end": 2360
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 2362,
+        "end": 2364
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 2368,
+        "end": 2377
+    },
+    {
+        "text": "article 3.4",
+        "label": "LAW",
+        "start": 2434,
+        "end": 2445
+    },
+    {
+        "text": "article 3.3",
+        "label": "LAW",
+        "start": 2597,
+        "end": 2608
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2714,
+        "end": 2719
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3498,
+        "end": 3503
+    },
+    {
+        "text": "kib",
+        "label": "GPE",
+        "start": 3632,
+        "end": 3635
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 3709,
+        "end": 3718
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 3801,
+        "end": 3810
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 3835,
+        "end": 3848
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 3850,
+        "end": 3852
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 3856,
+        "end": 3865
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 3867,
+        "end": 3876
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 3931,
+        "end": 3940
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 4267,
+        "end": 4276
+    },
+    {
+        "text": "article 7.3(b",
+        "label": "LAW",
+        "start": 4559,
+        "end": 4572
+    },
+    {
+        "text": "article 5.8",
+        "label": "LAW",
+        "start": 4661,
+        "end": 4672
+    },
+    {
+        "text": "article 5.6(a",
+        "label": "LAW",
+        "start": 5028,
+        "end": 5041
+    },
+    {
+        "text": "article 3.4",
+        "label": "LAW",
+        "start": 5108,
+        "end": 5119
+    },
+    {
+        "text": "article 3.4",
+        "label": "LAW",
+        "start": 5186,
+        "end": 5197
+    },
+    {
+        "text": "article 10.4(a",
+        "label": "LAW",
+        "start": 5268,
+        "end": 5282
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 5312,
+        "end": 5325
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 5327,
+        "end": 5329
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 5333,
+        "end": 5342
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 5353,
+        "end": 5362
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 5412,
+        "end": 5417
+    },
+    {
+        "text": "kib",
+        "label": "NORP",
+        "start": 5496,
+        "end": 5499
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 5544,
+        "end": 5553
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 5852,
+        "end": 5861
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 6085,
+        "end": 6090
+    },
+    {
+        "text": "kib",
+        "label": "NORP",
+        "start": 6169,
+        "end": 6172
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 6471,
+        "end": 6480
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 7726,
+        "end": 7739
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 7741,
+        "end": 7743
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 7747,
+        "end": 7756
+    },
+    {
+        "text": "article 5.8",
+        "label": "LAW",
+        "start": 8521,
+        "end": 8532
+    },
+    {
+        "text": "kib",
+        "label": "NORP",
+        "start": 8553,
+        "end": 8556
+    },
+    {
+        "text": "kib",
+        "label": "NORP",
+        "start": 8610,
+        "end": 8613
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 8646,
+        "end": 8651
+    },
+    {
+        "text": "kib",
+        "label": "NORP",
+        "start": 8730,
+        "end": 8733
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 8908,
+        "end": 8917
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 9254,
+        "end": 9267
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 9269,
+        "end": 9271
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 9275,
+        "end": 9284
+    },
+    {
+        "text": "article 3.4",
+        "label": "LAW",
+        "start": 10028,
+        "end": 10039
+    },
+    {
+        "text": "kib",
+        "label": "NORP",
+        "start": 10120,
+        "end": 10123
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 10261,
+        "end": 10262
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 10465,
+        "end": 10478
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 10480,
+        "end": 10482
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 10486,
+        "end": 10495
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10810,
+        "end": 10815
+    },
+    {
+        "text": "kib",
+        "label": "NORP",
+        "start": 10972,
+        "end": 10975
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 11167,
+        "end": 11176
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 11201,
+        "end": 11210
+    },
+    {
+        "text": "article 5.8",
+        "label": "LAW",
+        "start": 11420,
+        "end": 11431
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 11508,
+        "end": 11511
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11608,
+        "end": 11613
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 11987,
+        "end": 12000
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 12002,
+        "end": 12004
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 12008,
+        "end": 12017
+    },
+    {
+        "text": "article ii",
+        "label": "LAW",
+        "start": 12018,
+        "end": 12028
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 12062,
+        "end": 12065
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 12665,
+        "end": 12668
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 12679,
+        "end": 12684
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 12737,
+        "end": 12742
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 12841,
+        "end": 12846
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 13007,
+        "end": 13012
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 13115,
+        "end": 13120
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 13216,
+        "end": 13219
+    },
+    {
+        "text": "article iii\ndeliverables",
+        "label": "PERSON",
+        "start": 13221,
+        "end": 13245
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 13261,
+        "end": 13264
+    },
+    {
+        "text": "section 3.4",
+        "label": "LAW",
+        "start": 13316,
+        "end": 13327
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 13679,
+        "end": 13682
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 13888,
+        "end": 13889
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 14050,
+        "end": 14063
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 14065,
+        "end": 14067
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 14071,
+        "end": 14080
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 14138,
+        "end": 14139
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14192,
+        "end": 14197
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 14209,
+        "end": 14210
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14270,
+        "end": 14275
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 14442,
+        "end": 14445
+    },
+    {
+        "text": "conformis shall",
+        "label": "ORG",
+        "start": 14730,
+        "end": 14745
+    },
+    {
+        "text": "section 3.4",
+        "label": "LAW",
+        "start": 14994,
+        "end": 15005
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 15007,
+        "end": 15010
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 15077,
+        "end": 15078
+    },
+    {
+        "text": "conformis shall",
+        "label": "ORG",
+        "start": 15830,
+        "end": 15845
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 16151,
+        "end": 16160
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 16276,
+        "end": 16289
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 16291,
+        "end": 16293
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 16297,
+        "end": 16306
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 16636,
+        "end": 16641
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 16643,
+        "end": 16644
+    },
+    {
+        "text": "section 8.2(c",
+        "label": "LAW",
+        "start": 16891,
+        "end": 16904
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 16928,
+        "end": 16933
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 16935,
+        "end": 16936
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 17203,
+        "end": 17212
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 17728,
+        "end": 17731
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 17977,
+        "end": 17980
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 18203,
+        "end": 18209
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 18211,
+        "end": 18219
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 18269,
+        "end": 18274
+    },
+    {
+        "text": "two million",
+        "label": "CARDINAL",
+        "start": 18435,
+        "end": 18446
+    },
+    {
+        "text": "2,000,000);",
+        "label": "CARDINAL",
+        "start": 18461,
+        "end": 18472
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 18486,
+        "end": 18499
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 18501,
+        "end": 18503
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 18507,
+        "end": 18516
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 18531,
+        "end": 18532
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 18542,
+        "end": 18548
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 18550,
+        "end": 18558
+    },
+    {
+        "text": "kib",
+        "label": "NORP",
+        "start": 18660,
+        "end": 18663
+    },
+    {
+        "text": "three\nmillion u.s dollars",
+        "label": "MONEY",
+        "start": 18752,
+        "end": 18777
+    },
+    {
+        "text": "3,000,000",
+        "label": "CARDINAL",
+        "start": 18779,
+        "end": 18788
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 18791,
+        "end": 18794
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 19053,
+        "end": 19056
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 19319,
+        "end": 19324
+    },
+    {
+        "text": "january 1, 2032",
+        "label": "DATE",
+        "start": 19365,
+        "end": 19380
+    },
+    {
+        "text": "2.3.3.4",
+        "label": "CARDINAL",
+        "start": 19429,
+        "end": 19436
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 19898,
+        "end": 19903
+    },
+    {
+        "text": "article v\nintellectual",
+        "label": "LAW",
+        "start": 20096,
+        "end": 20118
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 20128,
+        "end": 20131
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 20326,
+        "end": 20343
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 20526,
+        "end": 20535
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 20708,
+        "end": 20721
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 20723,
+        "end": 20725
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 20729,
+        "end": 20738
+    },
+    {
+        "text": "kib",
+        "label": "NORP",
+        "start": 21367,
+        "end": 21370
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 21572,
+        "end": 21577
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 21589,
+        "end": 21598
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 21917,
+        "end": 21926
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 21948,
+        "end": 21953
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 21976,
+        "end": 21981
+    },
+    {
+        "text": "section 4.3(c",
+        "label": "LAW",
+        "start": 22054,
+        "end": 22067
+    },
+    {
+        "text": "one-half",
+        "label": "CARDINAL",
+        "start": 22265,
+        "end": 22273
+    },
+    {
+        "text": "it;",
+        "label": "NORP",
+        "start": 22504,
+        "end": 22507
+    },
+    {
+        "text": "one-half",
+        "label": "CARDINAL",
+        "start": 22700,
+        "end": 22708
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 22867,
+        "end": 22868
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 22963,
+        "end": 22972
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 23094,
+        "end": 23103
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 23147,
+        "end": 23148
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 23270,
+        "end": 23271
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 23561,
+        "end": 23574
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 23576,
+        "end": 23578
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 23582,
+        "end": 23591
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 23644,
+        "end": 23649
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 23861,
+        "end": 23866
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 23916,
+        "end": 23920
+    },
+    {
+        "text": "stryker",
+        "label": "PERSON",
+        "start": 24030,
+        "end": 24037
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 24402,
+        "end": 24405
+    },
+    {
+        "text": "4.3(a)-(i",
+        "label": "CARDINAL",
+        "start": 24459,
+        "end": 24468
+    },
+    {
+        "text": "article 4 of the apa",
+        "label": "LAW",
+        "start": 24473,
+        "end": 24493
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 24548,
+        "end": 24551
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 24773,
+        "end": 24776
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 25437,
+        "end": 25446
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 25863,
+        "end": 25872
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 25913,
+        "end": 25916
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 25953,
+        "end": 25966
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 25968,
+        "end": 25970
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 25974,
+        "end": 25983
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 26064,
+        "end": 26069
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 26263,
+        "end": 26268
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 26392,
+        "end": 26397
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 26571,
+        "end": 26576
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 26761,
+        "end": 26766
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 26888,
+        "end": 26893
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 26961,
+        "end": 26964
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 27439,
+        "end": 27448
+    },
+    {
+        "text": "conformis assumes",
+        "label": "ORG",
+        "start": 27519,
+        "end": 27536
+    },
+    {
+        "text": "conformis shall",
+        "label": "ORG",
+        "start": 27654,
+        "end": 27669
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 27862,
+        "end": 27875
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 27877,
+        "end": 27879
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 27883,
+        "end": 27892
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 27924,
+        "end": 27933
+    },
+    {
+        "text": "5.7",
+        "label": "CARDINAL",
+        "start": 28836,
+        "end": 28839
+    },
+    {
+        "text": "conformis shall",
+        "label": "ORG",
+        "start": 29015,
+        "end": 29030
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 29201,
+        "end": 29204
+    },
+    {
+        "text": "stryker",
+        "label": "PERSON",
+        "start": 29404,
+        "end": 29411
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 29554,
+        "end": 29559
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 29741,
+        "end": 29750
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 29766,
+        "end": 29771
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 30257,
+        "end": 30270
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 30272,
+        "end": 30274
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 30278,
+        "end": 30287
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 30504,
+        "end": 30513
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 31257,
+        "end": 31266
+    },
+    {
+        "text": "5.1(d",
+        "label": "CARDINAL",
+        "start": 31306,
+        "end": 31311
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 31330,
+        "end": 31333
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 31558,
+        "end": 31561
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 31950,
+        "end": 31955
+    },
+    {
+        "text": "5.9",
+        "label": "CARDINAL",
+        "start": 32260,
+        "end": 32263
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 32610,
+        "end": 32615
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 32970,
+        "end": 32983
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 32985,
+        "end": 32987
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 32991,
+        "end": 33000
+    },
+    {
+        "text": "5.10",
+        "label": "CARDINAL",
+        "start": 33001,
+        "end": 33005
+    },
+    {
+        "text": "apa",
+        "label": "NORP",
+        "start": 33195,
+        "end": 33198
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 33242,
+        "end": 33245
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 34806,
+        "end": 34819
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 34821,
+        "end": 34823
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 34827,
+        "end": 34836
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 34850,
+        "end": 34867
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 36737,
+        "end": 36750
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 36752,
+        "end": 36754
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 36758,
+        "end": 36767
+    },
+    {
+        "text": "§",
+        "label": "NORP",
+        "start": 37030,
+        "end": 37031
+    },
+    {
+        "text": "335a",
+        "label": "PRODUCT",
+        "start": 37032,
+        "end": 37036
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 37144,
+        "end": 37147
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 37255,
+        "end": 37264
+    },
+    {
+        "text": "article vii",
+        "label": "PERSON",
+        "start": 37534,
+        "end": 37545
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 37590,
+        "end": 37593
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 37784,
+        "end": 37787
+    },
+    {
+        "text": "section 7.3(a)(iv",
+        "label": "LAW",
+        "start": 38024,
+        "end": 38041
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 38414,
+        "end": 38417
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 38465,
+        "end": 38474
+    },
+    {
+        "text": "conformis shall",
+        "label": "ORG",
+        "start": 38476,
+        "end": 38491
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 38600,
+        "end": 38613
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 38615,
+        "end": 38617
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 38621,
+        "end": 38630
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 38839,
+        "end": 38844
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 39293,
+        "end": 39302
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 39430,
+        "end": 39439
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 39707,
+        "end": 39716
+    },
+    {
+        "text": "section 7.3(a)(iv",
+        "label": "LAW",
+        "start": 39810,
+        "end": 39827
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 39884,
+        "end": 39885
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 40090,
+        "end": 40099
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 40146,
+        "end": 40147
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 40245,
+        "end": 40246
+    },
+    {
+        "text": "section 3.2",
+        "label": "LAW",
+        "start": 40539,
+        "end": 40550
+    },
+    {
+        "text": "section 10.1(i",
+        "label": "DATE",
+        "start": 40623,
+        "end": 40637
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 40811,
+        "end": 40824
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 40826,
+        "end": 40828
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 40832,
+        "end": 40841
+    },
+    {
+        "text": "section 5.5",
+        "label": "LAW",
+        "start": 42323,
+        "end": 42334
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 42847,
+        "end": 42860
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 42862,
+        "end": 42864
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 42868,
+        "end": 42877
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 43025,
+        "end": 43030
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 43119,
+        "end": 43122
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 43258,
+        "end": 43259
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 43264,
+        "end": 43265
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 43318,
+        "end": 43319
+    },
+    {
+        "text": "section 8.2",
+        "label": "LAW",
+        "start": 43353,
+        "end": 43364
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 43448,
+        "end": 43451
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 43780,
+        "end": 43785
+    },
+    {
+        "text": "chapter 11",
+        "label": "LAW",
+        "start": 44010,
+        "end": 44020
+    },
+    {
+        "text": "chapter 11",
+        "label": "LAW",
+        "start": 44081,
+        "end": 44091
+    },
+    {
+        "text": "chapter 11",
+        "label": "LAW",
+        "start": 44246,
+        "end": 44256
+    },
+    {
+        "text": "chapter 11",
+        "label": "LAW",
+        "start": 44403,
+        "end": 44413
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 44688,
+        "end": 44701
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 44703,
+        "end": 44705
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 44709,
+        "end": 44718
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 46075,
+        "end": 46076
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 46080,
+        "end": 46081
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 46253,
+        "end": 46256
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 46349,
+        "end": 46352
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 46354,
+        "end": 46357
+    },
+    {
+        "text": "10.1",
+        "label": "DATE",
+        "start": 46359,
+        "end": 46363
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 46365,
+        "end": 46369
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 46371,
+        "end": 46375
+    },
+    {
+        "text": "10.15",
+        "label": "CARDINAL",
+        "start": 46388,
+        "end": 46393
+    },
+    {
+        "text": "section 7.3(a)(iv",
+        "label": "LAW",
+        "start": 46582,
+        "end": 46599
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 46845,
+        "end": 46858
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 46860,
+        "end": 46862
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 46866,
+        "end": 46875
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 46876,
+        "end": 46879
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 48750,
+        "end": 48753
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 49287,
+        "end": 49300
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 49302,
+        "end": 49304
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 49308,
+        "end": 49317
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 49355,
+        "end": 49358
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 49617,
+        "end": 49621
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 50002,
+        "end": 50006
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 50828,
+        "end": 50833
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 51239,
+        "end": 51252
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 51254,
+        "end": 51256
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 51260,
+        "end": 51269
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 51622,
+        "end": 51631
+    },
+    {
+        "text": "section 10.2",
+        "label": "LAW",
+        "start": 51912,
+        "end": 51924
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 52081,
+        "end": 52085
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 52101,
+        "end": 52105
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 52450,
+        "end": 52454
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 53437,
+        "end": 53441
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 53451,
+        "end": 53464
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 53466,
+        "end": 53468
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 53472,
+        "end": 53481
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 54180,
+        "end": 54184
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 54464,
+        "end": 54473
+    },
+    {
+        "text": "325",
+        "label": "CARDINAL",
+        "start": 54680,
+        "end": 54683
+    },
+    {
+        "text": "600",
+        "label": "CARDINAL",
+        "start": 54814,
+        "end": 54817
+    },
+    {
+        "text": "billerica",
+        "label": "GPE",
+        "start": 54840,
+        "end": 54849
+    },
+    {
+        "text": "01821",
+        "label": "DATE",
+        "start": 54854,
+        "end": 54859
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 54921,
+        "end": 54934
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 54936,
+        "end": 54938
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 54942,
+        "end": 54951
+    },
+    {
+        "text": "jason kropp",
+        "label": "PERSON",
+        "start": 54969,
+        "end": 54980
+    },
+    {
+        "text": "esq",
+        "label": "GPE",
+        "start": 54982,
+        "end": 54985
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 54987,
+        "end": 54989
+    },
+    {
+        "text": "boston",
+        "label": "GPE",
+        "start": 55003,
+        "end": 55009
+    },
+    {
+        "text": "02109",
+        "label": "DATE",
+        "start": 55014,
+        "end": 55019
+    },
+    {
+        "text": "10.6",
+        "label": "CARDINAL",
+        "start": 55136,
+        "end": 55140
+    },
+    {
+        "text": "conformis",
+        "label": "ORG",
+        "start": 55355,
+        "end": 55364
+    },
+    {
+        "text": "10.7",
+        "label": "CARDINAL",
+        "start": 55724,
+        "end": 55728
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 55822,
+        "end": 55830
+    },
+    {
+        "text": "10.8",
+        "label": "CARDINAL",
+        "start": 55898,
+        "end": 55902
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 55975,
+        "end": 55983
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 56437,
+        "end": 56445
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 56495,
+        "end": 56500
+    },
+    {
+        "text": "10.8",
+        "label": "CARDINAL",
+        "start": 56673,
+        "end": 56677
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 56821,
+        "end": 56834
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 56836,
+        "end": 56838
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 56842,
+        "end": 56851
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 56877,
+        "end": 56882
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 57040,
+        "end": 57045
+    },
+    {
+        "text": "10.9",
+        "label": "CARDINAL",
+        "start": 57066,
+        "end": 57070
+    },
+    {
+        "text": "10.10",
+        "label": "CARDINAL",
+        "start": 58021,
+        "end": 58026
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 58048,
+        "end": 58053
+    },
+    {
+        "text": "section 10.2",
+        "label": "LAW",
+        "start": 58480,
+        "end": 58492
+    },
+    {
+        "text": "10.11",
+        "label": "CARDINAL",
+        "start": 58787,
+        "end": 58792
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 58916,
+        "end": 58929
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 58931,
+        "end": 58933
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 58937,
+        "end": 58946
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 58947,
+        "end": 58952
+    },
+    {
+        "text": "10.13",
+        "label": "CARDINAL",
+        "start": 59221,
+        "end": 59226
+    },
+    {
+        "text": "10.14",
+        "label": "CARDINAL",
+        "start": 59681,
+        "end": 59686
+    },
+    {
+        "text": "thirty calendar days",
+        "label": "DATE",
+        "start": 60229,
+        "end": 60249
+    },
+    {
+        "text": "10.15",
+        "label": "CARDINAL",
+        "start": 60358,
+        "end": 60363
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 61007,
+        "end": 61020
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 61022,
+        "end": 61024
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 61028,
+        "end": 61037
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 61072,
+        "end": 61085
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 61087,
+        "end": 61089
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 61093,
+        "end": 61102
+    },
+    {
+        "text": "howmedica osteonics corp.",
+        "label": "ORG",
+        "start": 61236,
+        "end": 61261
+    },
+    {
+        "text": "conformis, inc.",
+        "label": "ORG",
+        "start": 61262,
+        "end": 61277
+    },
+    {
+        "text": "mark a. augusti",
+        "label": "PERSON",
+        "start": 61309,
+        "end": 61324
+    },
+    {
+        "text": "mark a. augusti",
+        "label": "PERSON",
+        "start": 61352,
+        "end": 61367
+    },
+    {
+        "text": "september 26, 2019",
+        "label": "DATE",
+        "start": 61416,
+        "end": 61434
+    },
+    {
+        "text": "9-30-2019",
+        "label": "DATE",
+        "start": 61441,
+        "end": 61450
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 61501,
+        "end": 61514
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 61516,
+        "end": 61518
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 61522,
+        "end": 61531
+    },
+    {
+        "text": "conformis inc",
+        "label": "ORG",
+        "start": 61779,
+        "end": 61792
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 61794,
+        "end": 61796
+    },
+    {
+        "text": "11/1/2019",
+        "label": "CARDINAL",
+        "start": 61800,
+        "end": 61809
+    }
+]

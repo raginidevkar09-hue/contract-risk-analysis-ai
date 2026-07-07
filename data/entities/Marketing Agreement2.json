@@ -1,0 +1,2252 @@
+[
+    {
+        "text": "10.28",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "this 12th day of november, 2018",
+        "label": "DATE",
+        "start": 120,
+        "end": 151
+    },
+    {
+        "text": "calm.com, inc.",
+        "label": "ORG",
+        "start": 191,
+        "end": 205
+    },
+    {
+        "text": "140 2nd",
+        "label": "DATE",
+        "start": 249,
+        "end": 256
+    },
+    {
+        "text": "3rd",
+        "label": "ORDINAL",
+        "start": 265,
+        "end": 268
+    },
+    {
+        "text": "san francisco",
+        "label": "GPE",
+        "start": 276,
+        "end": 289
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 291,
+        "end": 301
+    },
+    {
+        "text": "94105",
+        "label": "DATE",
+        "start": 302,
+        "end": 307
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 321,
+        "end": 341
+    },
+    {
+        "text": "780",
+        "label": "CARDINAL",
+        "start": 385,
+        "end": 388
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 389,
+        "end": 394
+    },
+    {
+        "text": "12th",
+        "label": "ORDINAL",
+        "start": 403,
+        "end": 407
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 415,
+        "end": 423
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 425,
+        "end": 433
+    },
+    {
+        "text": "10017",
+        "label": "DATE",
+        "start": 434,
+        "end": 439
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 723,
+        "end": 727
+    },
+    {
+        "text": "and/or franchisor",
+        "label": "PERSON",
+        "start": 751,
+        "end": 768
+    },
+    {
+        "text": "xpresspa branded stores",
+        "label": "ORG",
+        "start": 772,
+        "end": 795
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 824,
+        "end": 841
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1495,
+        "end": 1496
+    },
+    {
+        "text": "july 31, 2019",
+        "label": "DATE",
+        "start": 1682,
+        "end": 1695
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 1811,
+        "end": 1814
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 1816,
+        "end": 1825
+    },
+    {
+        "text": "no later than",
+        "label": "DATE",
+        "start": 1945,
+        "end": 1958
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 1967,
+        "end": 1975
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 2057,
+        "end": 2058
+    },
+    {
+        "text": "2.01",
+        "label": "CARDINAL",
+        "start": 2078,
+        "end": 2082
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 2084,
+        "end": 2088
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 2299,
+        "end": 2303
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 2639,
+        "end": 2659
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 2661,
+        "end": 2665
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 2667,
+        "end": 2675
+    },
+    {
+        "text": "2.02",
+        "label": "CARDINAL",
+        "start": 2676,
+        "end": 2680
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 2755,
+        "end": 2759
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 2761,
+        "end": 2762
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 3142,
+        "end": 3143
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 3170,
+        "end": 3175
+    },
+    {
+        "text": "3.01",
+        "label": "CARDINAL",
+        "start": 3184,
+        "end": 3188
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 3230,
+        "end": 3233
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 3235,
+        "end": 3244
+    },
+    {
+        "text": "3.02",
+        "label": "CARDINAL",
+        "start": 3588,
+        "end": 3592
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 3634,
+        "end": 3637
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 3639,
+        "end": 3648
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 3992,
+        "end": 3996
+    },
+    {
+        "text": "3.03",
+        "label": "CARDINAL",
+        "start": 3998,
+        "end": 4002
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 4044,
+        "end": 4047
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 4049,
+        "end": 4058
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 4141,
+        "end": 4146
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 4270,
+        "end": 4274
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 4695,
+        "end": 4701
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 5094,
+        "end": 5098
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 5234,
+        "end": 5239
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 5480,
+        "end": 5481
+    },
+    {
+        "text": "4.01",
+        "label": "CARDINAL",
+        "start": 5516,
+        "end": 5520
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 5567,
+        "end": 5571
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 6055,
+        "end": 6075
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 6077,
+        "end": 6081
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 6083,
+        "end": 6091
+    },
+    {
+        "text": "xspa’s marks",
+        "label": "ORG",
+        "start": 6303,
+        "end": 6315
+    },
+    {
+        "text": "xspa;\n(f",
+        "label": "PERSON",
+        "start": 6860,
+        "end": 6868
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 7247,
+        "end": 7251
+    },
+    {
+        "text": "4.02",
+        "label": "CARDINAL",
+        "start": 7403,
+        "end": 7407
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 7554,
+        "end": 7555
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 7706,
+        "end": 7707
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 7880,
+        "end": 7883
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 8112,
+        "end": 8113
+    },
+    {
+        "text": "5.01",
+        "label": "CARDINAL",
+        "start": 8133,
+        "end": 8137
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 8221,
+        "end": 8225
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 8512,
+        "end": 8516
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 8695,
+        "end": 8715
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 8717,
+        "end": 8721
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 8723,
+        "end": 8731
+    },
+    {
+        "text": "5.02",
+        "label": "CARDINAL",
+        "start": 8732,
+        "end": 8736
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 8801,
+        "end": 8805
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 8911,
+        "end": 8915
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 8917,
+        "end": 8921
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 9203,
+        "end": 9207
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 9209,
+        "end": 9213
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 9706,
+        "end": 9710
+    },
+    {
+        "text": "5.03",
+        "label": "CARDINAL",
+        "start": 9905,
+        "end": 9909
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9969,
+        "end": 9974
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10019,
+        "end": 10024
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 10054,
+        "end": 10058
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 10076,
+        "end": 10080
+    },
+    {
+        "text": "section 10.03",
+        "label": "LAW",
+        "start": 10375,
+        "end": 10388
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 10410,
+        "end": 10414
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 10416,
+        "end": 10420
+    },
+    {
+        "text": "5.04",
+        "label": "CARDINAL",
+        "start": 10488,
+        "end": 10492
+    },
+    {
+        "text": "no more than one",
+        "label": "CARDINAL",
+        "start": 10718,
+        "end": 10734
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 10771,
+        "end": 10774
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 10830,
+        "end": 10834
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 10836,
+        "end": 10840
+    },
+    {
+        "text": "5.05",
+        "label": "CARDINAL",
+        "start": 11144,
+        "end": 11148
+    },
+    {
+        "text": "xspa’s",
+        "label": "ORG",
+        "start": 11222,
+        "end": 11228
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 11429,
+        "end": 11433
+    },
+    {
+        "text": "below fifty percent",
+        "label": "PERCENT",
+        "start": 11608,
+        "end": 11627
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 11629,
+        "end": 11631
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 12546,
+        "end": 12566
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 12568,
+        "end": 12572
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 12574,
+        "end": 12582
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 12583,
+        "end": 12584
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 12596,
+        "end": 12600
+    },
+    {
+        "text": "xspa’s",
+        "label": "ORG",
+        "start": 12870,
+        "end": 12876
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 13103,
+        "end": 13104
+    },
+    {
+        "text": "7.01",
+        "label": "CARDINAL",
+        "start": 13129,
+        "end": 13133
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 13135,
+        "end": 13139
+    },
+    {
+        "text": "7.02",
+        "label": "CARDINAL",
+        "start": 13723,
+        "end": 13727
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 13927,
+        "end": 13928
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 13946,
+        "end": 13950
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 13974,
+        "end": 13981
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 14011,
+        "end": 14024
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 14026,
+        "end": 14028
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 14142,
+        "end": 14155
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 14157,
+        "end": 14159
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 14380,
+        "end": 14382
+    },
+    {
+        "text": "8.02",
+        "label": "CARDINAL",
+        "start": 14432,
+        "end": 14436
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 14466,
+        "end": 14473
+    },
+    {
+        "text": "20.00",
+        "label": "CARDINAL",
+        "start": 14503,
+        "end": 14508
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 14648,
+        "end": 14652
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 14863,
+        "end": 14876
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 14878,
+        "end": 14880
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 15177,
+        "end": 15181
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 15337,
+        "end": 15340
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 15342,
+        "end": 15351
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 15583,
+        "end": 15603
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 15605,
+        "end": 15609
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 15611,
+        "end": 15619
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "PERCENT",
+        "start": 15840,
+        "end": 15856
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 15933,
+        "end": 15945
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 16593,
+        "end": 16601
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 17357,
+        "end": 17361
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 18034,
+        "end": 18050
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 18433,
+        "end": 18437
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 18717,
+        "end": 18719
+    },
+    {
+        "text": "5,000.00",
+        "label": "CARDINAL",
+        "start": 18902,
+        "end": 18910
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 19070,
+        "end": 19090
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 19092,
+        "end": 19096
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 19098,
+        "end": 19106
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 19244,
+        "end": 19248
+    },
+    {
+        "text": "8.03",
+        "label": "CARDINAL",
+        "start": 19452,
+        "end": 19456
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 19716,
+        "end": 19721
+    },
+    {
+        "text": "8.03",
+        "label": "CARDINAL",
+        "start": 20541,
+        "end": 20545
+    },
+    {
+        "text": "500.00",
+        "label": "CARDINAL",
+        "start": 20569,
+        "end": 20575
+    },
+    {
+        "text": "8.04",
+        "label": "CARDINAL",
+        "start": 20660,
+        "end": 20664
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 20691,
+        "end": 20695
+    },
+    {
+        "text": "calm.com, inc.",
+        "label": "ORG",
+        "start": 20847,
+        "end": 20861
+    },
+    {
+        "text": "140 2nd",
+        "label": "DATE",
+        "start": 20878,
+        "end": 20885
+    },
+    {
+        "text": "san francisco",
+        "label": "GPE",
+        "start": 20894,
+        "end": 20907
+    },
+    {
+        "text": "94105",
+        "label": "DATE",
+        "start": 20912,
+        "end": 20917
+    },
+    {
+        "text": "3003",
+        "label": "CARDINAL",
+        "start": 20965,
+        "end": 20969
+    },
+    {
+        "text": "santa clara",
+        "label": "GPE",
+        "start": 20984,
+        "end": 20995
+    },
+    {
+        "text": "95054",
+        "label": "DATE",
+        "start": 21000,
+        "end": 21005
+    },
+    {
+        "text": "8.05",
+        "label": "CARDINAL",
+        "start": 21015,
+        "end": 21019
+    },
+    {
+        "text": "united states dollars",
+        "label": "ORG",
+        "start": 21086,
+        "end": 21107
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 21168,
+        "end": 21172
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 21215,
+        "end": 21235
+    },
+    {
+        "text": "bank of america\nbank",
+        "label": "ORG",
+        "start": 21256,
+        "end": 21276
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 21285,
+        "end": 21288
+    },
+    {
+        "text": "park\nnew york",
+        "label": "PERSON",
+        "start": 21296,
+        "end": 21309
+    },
+    {
+        "text": "10036",
+        "label": "DATE",
+        "start": 21314,
+        "end": 21319
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 21337,
+        "end": 21357
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 21359,
+        "end": 21363
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 21365,
+        "end": 21373
+    },
+    {
+        "text": "8.06",
+        "label": "CARDINAL",
+        "start": 21374,
+        "end": 21378
+    },
+    {
+        "text": "twenty",
+        "label": "CARDINAL",
+        "start": 21472,
+        "end": 21478
+    },
+    {
+        "text": "20) days",
+        "label": "DATE",
+        "start": 21480,
+        "end": 21488
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 21530,
+        "end": 21537
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 21789,
+        "end": 21796
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 21872,
+        "end": 21875
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 21879,
+        "end": 21883
+    },
+    {
+        "text": "8.07",
+        "label": "CARDINAL",
+        "start": 21903,
+        "end": 21907
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 21909,
+        "end": 21913
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 22195,
+        "end": 22198
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 22200,
+        "end": 22209
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 22359,
+        "end": 22363
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 22652,
+        "end": 22658
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 22660,
+        "end": 22668
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 22745,
+        "end": 22757
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 22785,
+        "end": 22789
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 22808,
+        "end": 22812
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 23046,
+        "end": 23050
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 23214,
+        "end": 23218
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 23223,
+        "end": 23227
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 23405,
+        "end": 23413
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 23573,
+        "end": 23577
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 23659,
+        "end": 23663
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 23916,
+        "end": 23920
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 24188,
+        "end": 24192
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 24510,
+        "end": 24514
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 24537,
+        "end": 24541
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 24590,
+        "end": 24610
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 24612,
+        "end": 24616
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 24618,
+        "end": 24626
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 24711,
+        "end": 24727
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 25018,
+        "end": 25022
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 25394,
+        "end": 25396
+    },
+    {
+        "text": "5,000.00",
+        "label": "CARDINAL",
+        "start": 25579,
+        "end": 25587
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 25783,
+        "end": 25787
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 26083,
+        "end": 26084
+    },
+    {
+        "text": "9.01",
+        "label": "CARDINAL",
+        "start": 26117,
+        "end": 26121
+    },
+    {
+        "text": "​12.04",
+        "label": "PERSON",
+        "start": 26289,
+        "end": 26295
+    },
+    {
+        "text": "9.02",
+        "label": "CARDINAL",
+        "start": 26621,
+        "end": 26625
+    },
+    {
+        "text": "xspa hereby",
+        "label": "PERSON",
+        "start": 26682,
+        "end": 26693
+    },
+    {
+        "text": "​12.04",
+        "label": "PERSON",
+        "start": 26793,
+        "end": 26799
+    },
+    {
+        "text": "xspa’s marks",
+        "label": "WORK_OF_ART",
+        "start": 26990,
+        "end": 27002
+    },
+    {
+        "text": "9.03",
+        "label": "CARDINAL",
+        "start": 27170,
+        "end": 27174
+    },
+    {
+        "text": "9.01 and 9.02",
+        "label": "CARDINAL",
+        "start": 27250,
+        "end": 27263
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 27289,
+        "end": 27294
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 27490,
+        "end": 27510
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 27512,
+        "end": 27516
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 27518,
+        "end": 27526
+    },
+    {
+        "text": "9.04",
+        "label": "CARDINAL",
+        "start": 27527,
+        "end": 27531
+    },
+    {
+        "text": "®",
+        "label": "ORG",
+        "start": 28612,
+        "end": 28613
+    },
+    {
+        "text": "9.05",
+        "label": "CARDINAL",
+        "start": 29010,
+        "end": 29014
+    },
+    {
+        "text": "9.06",
+        "label": "CARDINAL",
+        "start": 29434,
+        "end": 29438
+    },
+    {
+        "text": "9.07",
+        "label": "CARDINAL",
+        "start": 30383,
+        "end": 30387
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 30504,
+        "end": 30507
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 30959,
+        "end": 30962
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 31162,
+        "end": 31165
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 31471,
+        "end": 31475
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 31634,
+        "end": 31638
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 31909,
+        "end": 31913
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 32080,
+        "end": 32100
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 32102,
+        "end": 32106
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 32108,
+        "end": 32116
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 32117,
+        "end": 32119
+    },
+    {
+        "text": "10.01",
+        "label": "CARDINAL",
+        "start": 32160,
+        "end": 32165
+    },
+    {
+        "text": "10.02",
+        "label": "CARDINAL",
+        "start": 32393,
+        "end": 32398
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 32400,
+        "end": 32404
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 32991,
+        "end": 32995
+    },
+    {
+        "text": "the products); property damage;",
+        "label": "ORG",
+        "start": 33234,
+        "end": 33265
+    },
+    {
+        "text": "xspa’s marks",
+        "label": "FAC",
+        "start": 33386,
+        "end": 33398
+    },
+    {
+        "text": "10.03",
+        "label": "CARDINAL",
+        "start": 33527,
+        "end": 33532
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 33584,
+        "end": 33588
+    },
+    {
+        "text": "10.04",
+        "label": "CARDINAL",
+        "start": 34234,
+        "end": 34239
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 35424,
+        "end": 35437
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 35905,
+        "end": 35925
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 35927,
+        "end": 35931
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 35933,
+        "end": 35941
+    },
+    {
+        "text": "10.05",
+        "label": "CARDINAL",
+        "start": 35942,
+        "end": 35947
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 35949,
+        "end": 35953
+    },
+    {
+        "text": "1,000,000",
+        "label": "CARDINAL",
+        "start": 36399,
+        "end": 36408
+    },
+    {
+        "text": "less than 3,000,000",
+        "label": "CARDINAL",
+        "start": 36617,
+        "end": 36636
+    },
+    {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 36982,
+        "end": 36994
+    },
+    {
+        "text": "2) years",
+        "label": "DATE",
+        "start": 36996,
+        "end": 37004
+    },
+    {
+        "text": "at least thirty",
+        "label": "CARDINAL",
+        "start": 37250,
+        "end": 37265
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 37267,
+        "end": 37275
+    },
+    {
+        "text": "10.06",
+        "label": "CARDINAL",
+        "start": 37617,
+        "end": 37622
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 38212,
+        "end": 38232
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 38234,
+        "end": 38238
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 38240,
+        "end": 38248
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 38249,
+        "end": 38251
+    },
+    {
+        "text": "11.01",
+        "label": "CARDINAL",
+        "start": 38285,
+        "end": 38290
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 38672,
+        "end": 38677
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 38747,
+        "end": 38752
+    },
+    {
+        "text": "11.02",
+        "label": "CARDINAL",
+        "start": 38978,
+        "end": 38983
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 38985,
+        "end": 38989
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 39482,
+        "end": 39486
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 39515,
+        "end": 39520
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 39590,
+        "end": 39595
+    },
+    {
+        "text": "xspa’s marks",
+        "label": "ORG",
+        "start": 39649,
+        "end": 39661
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 39663,
+        "end": 39665
+    },
+    {
+        "text": "12.01",
+        "label": "CARDINAL",
+        "start": 39680,
+        "end": 39685
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 39956,
+        "end": 39964
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 40152,
+        "end": 40172
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 40174,
+        "end": 40178
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 40180,
+        "end": 40188
+    },
+    {
+        "text": "12.02",
+        "label": "CARDINAL",
+        "start": 40189,
+        "end": 40194
+    },
+    {
+        "text": "12.03",
+        "label": "CARDINAL",
+        "start": 40305,
+        "end": 40310
+    },
+    {
+        "text": "february 28, 2019",
+        "label": "DATE",
+        "start": 40325,
+        "end": 40342
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 40469,
+        "end": 40475
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 40600,
+        "end": 40604
+    },
+    {
+        "text": "december 31, 2018",
+        "label": "DATE",
+        "start": 40618,
+        "end": 40635
+    },
+    {
+        "text": "12.04",
+        "label": "CARDINAL",
+        "start": 40637,
+        "end": 40642
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 40734,
+        "end": 40739
+    },
+    {
+        "text": "twenty",
+        "label": "CARDINAL",
+        "start": 41007,
+        "end": 41013
+    },
+    {
+        "text": "20) days",
+        "label": "DATE",
+        "start": 41015,
+        "end": 41023
+    },
+    {
+        "text": "12.05",
+        "label": "CARDINAL",
+        "start": 41640,
+        "end": 41645
+    },
+    {
+        "text": "10",
+        "label": "DATE",
+        "start": 41757,
+        "end": 41759
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 42026,
+        "end": 42028
+    },
+    {
+        "text": "the american arbitration association",
+        "label": "ORG",
+        "start": 42360,
+        "end": 42396
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 42572,
+        "end": 42580
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 42775,
+        "end": 42780
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 42782,
+        "end": 42783
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 42838,
+        "end": 42839
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 42859,
+        "end": 42866
+    },
+    {
+        "text": "15) days",
+        "label": "DATE",
+        "start": 42868,
+        "end": 42876
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 42934,
+        "end": 42937
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 42939,
+        "end": 42940
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 42975,
+        "end": 42980
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 43052,
+        "end": 43058
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 43060,
+        "end": 43068
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 43175,
+        "end": 43183
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 43209,
+        "end": 43214
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 43247,
+        "end": 43255
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 43257,
+        "end": 43265
+    },
+    {
+        "text": "120) days",
+        "label": "DATE",
+        "start": 43954,
+        "end": 43963
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 44262,
+        "end": 44282
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 44284,
+        "end": 44288
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 44290,
+        "end": 44298
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 44299,
+        "end": 44301
+    },
+    {
+        "text": "u.s.",
+        "label": "ORG",
+        "start": 44522,
+        "end": 44526
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 44614,
+        "end": 44635
+    },
+    {
+        "text": "united states",
+        "label": "ORG",
+        "start": 45082,
+        "end": 45095
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 45112,
+        "end": 45121
+    },
+    {
+        "text": "next day",
+        "label": "DATE",
+        "start": 45146,
+        "end": 45154
+    },
+    {
+        "text": "twenty-four",
+        "label": "CARDINAL",
+        "start": 45186,
+        "end": 45197
+    },
+    {
+        "text": "24) hours",
+        "label": "TIME",
+        "start": 45199,
+        "end": 45208
+    },
+    {
+        "text": "the united states postal service",
+        "label": "ORG",
+        "start": 45239,
+        "end": 45271
+    },
+    {
+        "text": "5:00 pm",
+        "label": "TIME",
+        "start": 45567,
+        "end": 45574
+    },
+    {
+        "text": "saturday",
+        "label": "DATE",
+        "start": 45613,
+        "end": 45621
+    },
+    {
+        "text": "sunday",
+        "label": "DATE",
+        "start": 45627,
+        "end": 45633
+    },
+    {
+        "text": "the next business day",
+        "label": "DATE",
+        "start": 45685,
+        "end": 45706
+    },
+    {
+        "text": "xpresspa group, inc.\n",
+        "label": "ORG",
+        "start": 45753,
+        "end": 45774
+    },
+    {
+        "text": "780",
+        "label": "CARDINAL",
+        "start": 45774,
+        "end": 45777
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 45778,
+        "end": 45783
+    },
+    {
+        "text": "12th",
+        "label": "DATE",
+        "start": 45792,
+        "end": 45796
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 45803,
+        "end": 45811
+    },
+    {
+        "text": "10017",
+        "label": "DATE",
+        "start": 45816,
+        "end": 45821
+    },
+    {
+        "text": "edward jankowski",
+        "label": "PERSON",
+        "start": 45828,
+        "end": 45844
+    },
+    {
+        "text": "140 2nd st.",
+        "label": "DATE",
+        "start": 45909,
+        "end": 45920
+    },
+    {
+        "text": "3rd",
+        "label": "ORDINAL",
+        "start": 45922,
+        "end": 45925
+    },
+    {
+        "text": "san francisco",
+        "label": "GPE",
+        "start": 45932,
+        "end": 45945
+    },
+    {
+        "text": "94105",
+        "label": "DATE",
+        "start": 45950,
+        "end": 45955
+    },
+    {
+        "text": "dun wang",
+        "label": "PERSON",
+        "start": 45962,
+        "end": 45970
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 46008,
+        "end": 46010
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 46125,
+        "end": 46130
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 47235,
+        "end": 47255
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 47257,
+        "end": 47261
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 47263,
+        "end": 47271
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 47272,
+        "end": 47274
+    },
+    {
+        "text": "16.01",
+        "label": "CARDINAL",
+        "start": 47302,
+        "end": 47307
+    },
+    {
+        "text": "16.02",
+        "label": "CARDINAL",
+        "start": 47903,
+        "end": 47908
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 48004,
+        "end": 48012
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 48088,
+        "end": 48091
+    },
+    {
+        "text": "16.03",
+        "label": "CARDINAL",
+        "start": 48559,
+        "end": 48564
+    },
+    {
+        "text": "16.04",
+        "label": "CARDINAL",
+        "start": 48755,
+        "end": 48760
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 48784,
+        "end": 48787
+    },
+    {
+        "text": "16.05",
+        "label": "CARDINAL",
+        "start": 49068,
+        "end": 49073
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 49161,
+        "end": 49166
+    },
+    {
+        "text": "xspa",
+        "label": "GPE",
+        "start": 49507,
+        "end": 49511
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 49926,
+        "end": 49946
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 49948,
+        "end": 49952
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 49954,
+        "end": 49962
+    },
+    {
+        "text": "16.06",
+        "label": "CARDINAL",
+        "start": 49963,
+        "end": 49968
+    },
+    {
+        "text": "16.07",
+        "label": "CARDINAL",
+        "start": 50179,
+        "end": 50184
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 50551,
+        "end": 50555
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 50606,
+        "end": 50610
+    },
+    {
+        "text": "xspa",
+        "label": "PERSON",
+        "start": 50861,
+        "end": 50865
+    },
+    {
+        "text": "16.08",
+        "label": "CARDINAL",
+        "start": 50879,
+        "end": 50884
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 51272,
+        "end": 51292
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 51294,
+        "end": 51298
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 51300,
+        "end": 51308
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 51406,
+        "end": 51426
+    },
+    {
+        "text": "edward jankowski\n",
+        "label": "PERSON",
+        "start": 51434,
+        "end": 51451
+    },
+    {
+        "text": "edward jankowski",
+        "label": "PERSON",
+        "start": 51457,
+        "end": 51473
+    },
+    {
+        "text": "michael acton smith",
+        "label": "PERSON",
+        "start": 51504,
+        "end": 51523
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 51533,
+        "end": 51553
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 51555,
+        "end": 51559
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 51561,
+        "end": 51569
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 51589,
+        "end": 51609
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 51611,
+        "end": 51615
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 51617,
+        "end": 51625
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 51645,
+        "end": 51665
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 51667,
+        "end": 51671
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 51673,
+        "end": 51681
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 51701,
+        "end": 51721
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 51723,
+        "end": 51727
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 51729,
+        "end": 51737
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 51757,
+        "end": 51777
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 51779,
+        "end": 51783
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 51785,
+        "end": 51793
+    },
+    {
+        "text": "xpresspa group, inc.",
+        "label": "ORG",
+        "start": 51813,
+        "end": 51833
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 51835,
+        "end": 51839
+    },
+    {
+        "text": "4/1/2019",
+        "label": "DATE",
+        "start": 51841,
+        "end": 51849
+    }
+]

@@ -1,0 +1,3980 @@
+[
+    {
+        "text": "10.29",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 173,
+        "end": 211
+    },
+    {
+        "text": "carbogen amcis ag",
+        "label": "ORG",
+        "start": 295,
+        "end": 312
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 318,
+        "end": 320
+    },
+    {
+        "text": "december 2016",
+        "label": "DATE",
+        "start": 321,
+        "end": 334
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 343,
+        "end": 372
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 374,
+        "end": 378
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 382,
+        "end": 390
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 550,
+        "end": 588
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 618,
+        "end": 619
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 636,
+        "end": 639
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 653,
+        "end": 656
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 676,
+        "end": 679
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 690,
+        "end": 693
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 704,
+        "end": 707
+    },
+    {
+        "text": "1.6",
+        "label": "CARDINAL",
+        "start": 718,
+        "end": 721
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 746,
+        "end": 747
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 754,
+        "end": 757
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 764,
+        "end": 767
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 817,
+        "end": 818
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 838,
+        "end": 841
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 861,
+        "end": 864
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 889,
+        "end": 892
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 936,
+        "end": 939
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 961,
+        "end": 964
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 985,
+        "end": 988
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 1015,
+        "end": 1018
+    },
+    {
+        "text": "3.8",
+        "label": "CARDINAL",
+        "start": 1035,
+        "end": 1038
+    },
+    {
+        "text": "3.10",
+        "label": "CARDINAL",
+        "start": 1053,
+        "end": 1057
+    },
+    {
+        "text": "3.11",
+        "label": "CARDINAL",
+        "start": 1079,
+        "end": 1083
+    },
+    {
+        "text": "3.12",
+        "label": "CARDINAL",
+        "start": 1114,
+        "end": 1118
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 1147,
+        "end": 1148
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 1160,
+        "end": 1163
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 1194,
+        "end": 1197
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 1237,
+        "end": 1239
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 1248,
+        "end": 1277
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 1279,
+        "end": 1283
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 1287,
+        "end": 1295
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 1455,
+        "end": 1493
+    },
+    {
+        "text": "article 5",
+        "label": "LAW",
+        "start": 1496,
+        "end": 1505
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 1527,
+        "end": 1530
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 1548,
+        "end": 1551
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 1580,
+        "end": 1583
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 1603,
+        "end": 1606
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 1626,
+        "end": 1629
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 1651,
+        "end": 1654
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 1701,
+        "end": 1702
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 1720,
+        "end": 1723
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 1754,
+        "end": 1757
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 1780,
+        "end": 1783
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 1792,
+        "end": 1795
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 1829,
+        "end": 1832
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 1861,
+        "end": 1864
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 1883,
+        "end": 1884
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 1906,
+        "end": 1909
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 1930,
+        "end": 1933
+    },
+    {
+        "text": "7.3 documentation",
+        "label": "MONEY",
+        "start": 1967,
+        "end": 1984
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 1986,
+        "end": 1989
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 2018,
+        "end": 2019
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 2045,
+        "end": 2048
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 2074,
+        "end": 2077
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 2107,
+        "end": 2110
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 2129,
+        "end": 2130
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 2137,
+        "end": 2140
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 2147,
+        "end": 2150
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 2172,
+        "end": 2175
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 2201,
+        "end": 2203
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 2212,
+        "end": 2241
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 2243,
+        "end": 2247
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 2251,
+        "end": 2259
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 2419,
+        "end": 2457
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 2493,
+        "end": 2497
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 2520,
+        "end": 2524
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 2543,
+        "end": 2547
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 2567,
+        "end": 2571
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 2626,
+        "end": 2630
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 2638,
+        "end": 2642
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 2663,
+        "end": 2667
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 2698,
+        "end": 2702
+    },
+    {
+        "text": "11.5",
+        "label": "CARDINAL",
+        "start": 2728,
+        "end": 2732
+    },
+    {
+        "text": "11.6",
+        "label": "CARDINAL",
+        "start": 2756,
+        "end": 2760
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 2832,
+        "end": 2836
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 2868,
+        "end": 2872
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 2898,
+        "end": 2902
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 2914,
+        "end": 2918
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 2947,
+        "end": 2951
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 3003,
+        "end": 3007
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 3085,
+        "end": 3089
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 3144,
+        "end": 3148
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 3203,
+        "end": 3207
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 3227,
+        "end": 3231
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 3313,
+        "end": 3317
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 3365,
+        "end": 3367
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 3376,
+        "end": 3405
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 3407,
+        "end": 3411
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 3415,
+        "end": 3423
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 3583,
+        "end": 3621
+    },
+    {
+        "text": "14.2",
+        "label": "CARDINAL",
+        "start": 3624,
+        "end": 3628
+    },
+    {
+        "text": "14.3",
+        "label": "CARDINAL",
+        "start": 3658,
+        "end": 3662
+    },
+    {
+        "text": "14.4",
+        "label": "CARDINAL",
+        "start": 3696,
+        "end": 3700
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 3749,
+        "end": 3753
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 3774,
+        "end": 3778
+    },
+    {
+        "text": "16.1",
+        "label": "CARDINAL",
+        "start": 3834,
+        "end": 3838
+    },
+    {
+        "text": "16.2",
+        "label": "CARDINAL",
+        "start": 3861,
+        "end": 3865
+    },
+    {
+        "text": "16.3",
+        "label": "CARDINAL",
+        "start": 3890,
+        "end": 3894
+    },
+    {
+        "text": "16.4",
+        "label": "CARDINAL",
+        "start": 3914,
+        "end": 3918
+    },
+    {
+        "text": "16.5",
+        "label": "CARDINAL",
+        "start": 3938,
+        "end": 3942
+    },
+    {
+        "text": "16.6",
+        "label": "CARDINAL",
+        "start": 3981,
+        "end": 3985
+    },
+    {
+        "text": "17.1",
+        "label": "CARDINAL",
+        "start": 4017,
+        "end": 4021
+    },
+    {
+        "text": "17.2",
+        "label": "CARDINAL",
+        "start": 4030,
+        "end": 4034
+    },
+    {
+        "text": "17.3",
+        "label": "CARDINAL",
+        "start": 4044,
+        "end": 4048
+    },
+    {
+        "text": "17.4",
+        "label": "CARDINAL",
+        "start": 4082,
+        "end": 4086
+    },
+    {
+        "text": "17.5",
+        "label": "CARDINAL",
+        "start": 4120,
+        "end": 4124
+    },
+    {
+        "text": "18.1",
+        "label": "CARDINAL",
+        "start": 4171,
+        "end": 4175
+    },
+    {
+        "text": "18.2",
+        "label": "CARDINAL",
+        "start": 4189,
+        "end": 4193
+    },
+    {
+        "text": "18.3",
+        "label": "CARDINAL",
+        "start": 4223,
+        "end": 4227
+    },
+    {
+        "text": "18.4",
+        "label": "CARDINAL",
+        "start": 4247,
+        "end": 4251
+    },
+    {
+        "text": "18.5",
+        "label": "CARDINAL",
+        "start": 4288,
+        "end": 4292
+    },
+    {
+        "text": "19.1",
+        "label": "CARDINAL",
+        "start": 4328,
+        "end": 4332
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 4374,
+        "end": 4376
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 4385,
+        "end": 4414
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 4416,
+        "end": 4420
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 4424,
+        "end": 4432
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 4592,
+        "end": 4630
+    },
+    {
+        "text": "19.2",
+        "label": "CARDINAL",
+        "start": 4633,
+        "end": 4637
+    },
+    {
+        "text": "19.3",
+        "label": "CARDINAL",
+        "start": 4657,
+        "end": 4661
+    },
+    {
+        "text": "19.4",
+        "label": "CARDINAL",
+        "start": 4676,
+        "end": 4680
+    },
+    {
+        "text": "19.5",
+        "label": "CARDINAL",
+        "start": 4701,
+        "end": 4705
+    },
+    {
+        "text": "19.6",
+        "label": "CARDINAL",
+        "start": 4721,
+        "end": 4725
+    },
+    {
+        "text": "19.7",
+        "label": "CARDINAL",
+        "start": 4739,
+        "end": 4743
+    },
+    {
+        "text": "19.8",
+        "label": "CARDINAL",
+        "start": 4764,
+        "end": 4768
+    },
+    {
+        "text": "19.9",
+        "label": "CARDINAL",
+        "start": 4794,
+        "end": 4798
+    },
+    {
+        "text": "19.10",
+        "label": "CARDINAL",
+        "start": 4812,
+        "end": 4817
+    },
+    {
+        "text": "19.11",
+        "label": "CARDINAL",
+        "start": 4827,
+        "end": 4832
+    },
+    {
+        "text": "19.12",
+        "label": "CARDINAL",
+        "start": 4851,
+        "end": 4856
+    },
+    {
+        "text": "19.13",
+        "label": "CARDINAL",
+        "start": 4871,
+        "end": 4876
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 4903,
+        "end": 4905
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 4914,
+        "end": 4943
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 4945,
+        "end": 4949
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 4953,
+        "end": 4961
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 5121,
+        "end": 5159
+    },
+    {
+        "text": "december 30, 2016",
+        "label": "DATE",
+        "start": 5203,
+        "end": 5220
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 5257,
+        "end": 5286
+    },
+    {
+        "text": "75 park plaza",
+        "label": "DATE",
+        "start": 5328,
+        "end": 5341
+    },
+    {
+        "text": "4th",
+        "label": "ORDINAL",
+        "start": 5343,
+        "end": 5346
+    },
+    {
+        "text": "boston",
+        "label": "GPE",
+        "start": 5354,
+        "end": 5360
+    },
+    {
+        "text": "ma 02116",
+        "label": "PERSON",
+        "start": 5362,
+        "end": 5370
+    },
+    {
+        "text": "carbogen amcis ag",
+        "label": "ORG",
+        "start": 5394,
+        "end": 5411
+    },
+    {
+        "text": "171",
+        "label": "DATE",
+        "start": 5466,
+        "end": 5469
+    },
+    {
+        "text": "4416",
+        "label": "DATE",
+        "start": 5474,
+        "end": 5478
+    },
+    {
+        "text": "switzerland",
+        "label": "GPE",
+        "start": 5490,
+        "end": 5501
+    },
+    {
+        "text": "a. customer",
+        "label": "PERSON",
+        "start": 5592,
+        "end": 5603
+    },
+    {
+        "text": "b. customer",
+        "label": "PERSON",
+        "start": 5804,
+        "end": 5815
+    },
+    {
+        "text": "the united states food and drug administration and/or",
+        "label": "ORG",
+        "start": 5862,
+        "end": 5915
+    },
+    {
+        "text": "c. supplier",
+        "label": "PERSON",
+        "start": 6114,
+        "end": 6125
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 6302,
+        "end": 6304
+    },
+    {
+        "text": "article 1",
+        "label": "LAW",
+        "start": 6734,
+        "end": 6743
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 6759,
+        "end": 6762
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 7167,
+        "end": 7169
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 7178,
+        "end": 7207
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 7209,
+        "end": 7213
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 7217,
+        "end": 7225
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 7385,
+        "end": 7423
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 7472,
+        "end": 7494
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 7496,
+        "end": 7498
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 8175,
+        "end": 8178
+    },
+    {
+        "text": "emea and/or",
+        "label": "PERSON",
+        "start": 8180,
+        "end": 8191
+    },
+    {
+        "text": "boston",
+        "label": "GPE",
+        "start": 8353,
+        "end": 8359
+    },
+    {
+        "text": "massachusetts",
+        "label": "GPE",
+        "start": 8361,
+        "end": 8374
+    },
+    {
+        "text": "switzerland",
+        "label": "GPE",
+        "start": 8390,
+        "end": 8401
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 8459,
+        "end": 8462
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 9014,
+        "end": 9036
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 9038,
+        "end": 9040
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9390,
+        "end": 9395
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 9434,
+        "end": 9447
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 9449,
+        "end": 9451
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9661,
+        "end": 9666
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 9861,
+        "end": 9864
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10445,
+        "end": 10450
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 10519,
+        "end": 10521
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 10530,
+        "end": 10559
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 10561,
+        "end": 10565
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 10569,
+        "end": 10577
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 10737,
+        "end": 10775
+    },
+    {
+        "text": "customer;\nk",
+        "label": "ORG",
+        "start": 11682,
+        "end": 11693
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11725,
+        "end": 11730
+    },
+    {
+        "text": "european",
+        "label": "NORP",
+        "start": 12799,
+        "end": 12807
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 12857,
+        "end": 12860
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 12868,
+        "end": 12885
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 13202,
+        "end": 13204
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 13213,
+        "end": 13242
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 13244,
+        "end": 13248
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 13252,
+        "end": 13260
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 13420,
+        "end": 13458
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 16065,
+        "end": 16070
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 16391,
+        "end": 16393
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 16402,
+        "end": 16431
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 16433,
+        "end": 16437
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 16441,
+        "end": 16449
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 16609,
+        "end": 16647
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 17278,
+        "end": 17306
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 17450,
+        "end": 17455
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 17917,
+        "end": 17920
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 18042,
+        "end": 18045
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 18193,
+        "end": 18196
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 18365,
+        "end": 18368
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 18697,
+        "end": 18699
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 18708,
+        "end": 18737
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 18739,
+        "end": 18743
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 18747,
+        "end": 18755
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 18915,
+        "end": 18953
+    },
+    {
+        "text": "1.6",
+        "label": "CARDINAL",
+        "start": 18956,
+        "end": 18959
+    },
+    {
+        "text": "article 2",
+        "label": "LAW",
+        "start": 19183,
+        "end": 19192
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 19198,
+        "end": 19201
+    },
+    {
+        "text": "section 18.1(a",
+        "label": "DATE",
+        "start": 19851,
+        "end": 19865
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 19947,
+        "end": 19950
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 20165,
+        "end": 20168
+    },
+    {
+        "text": "article 18",
+        "label": "LAW",
+        "start": 20172,
+        "end": 20182
+    },
+    {
+        "text": "article 3",
+        "label": "LAW",
+        "start": 20344,
+        "end": 20353
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 20372,
+        "end": 20375
+    },
+    {
+        "text": "switzerland",
+        "label": "GPE",
+        "start": 20518,
+        "end": 20529
+    },
+    {
+        "text": "switzerland",
+        "label": "GPE",
+        "start": 20546,
+        "end": 20557
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 21021,
+        "end": 21024
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 21045,
+        "end": 21047
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 21056,
+        "end": 21085
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 21087,
+        "end": 21091
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 21095,
+        "end": 21103
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 21263,
+        "end": 21301
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 21576,
+        "end": 21579
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 21754,
+        "end": 21757
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 22106,
+        "end": 22109
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 23513,
+        "end": 23515
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 23524,
+        "end": 23553
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 23555,
+        "end": 23559
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 23563,
+        "end": 23571
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 23731,
+        "end": 23769
+    },
+    {
+        "text": "a later date",
+        "label": "DATE",
+        "start": 25029,
+        "end": 25041
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 27598,
+        "end": 27600
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 27609,
+        "end": 27638
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 27640,
+        "end": 27644
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 27648,
+        "end": 27656
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 27816,
+        "end": 27854
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 28196,
+        "end": 28201
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 28905,
+        "end": 28908
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 29583,
+        "end": 29589
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 29709,
+        "end": 29712
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 30448,
+        "end": 30450
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 30459,
+        "end": 30488
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 30490,
+        "end": 30494
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 30498,
+        "end": 30506
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 30666,
+        "end": 30704
+    },
+    {
+        "text": "german",
+        "label": "NORP",
+        "start": 31452,
+        "end": 31458
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 31553,
+        "end": 31556
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 31737,
+        "end": 31758
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 31992,
+        "end": 31997
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 32181,
+        "end": 32186
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 32380,
+        "end": 32383
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 32869,
+        "end": 32874
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 32913,
+        "end": 32914
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 33101,
+        "end": 33106
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 33213,
+        "end": 33218
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 33274,
+        "end": 33275
+    },
+    {
+        "text": "3.8",
+        "label": "CARDINAL",
+        "start": 33593,
+        "end": 33596
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 33620,
+        "end": 33622
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 33631,
+        "end": 33660
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 33662,
+        "end": 33666
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 33670,
+        "end": 33678
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 33838,
+        "end": 33876
+    },
+    {
+        "text": "3.9",
+        "label": "CARDINAL",
+        "start": 33879,
+        "end": 33882
+    },
+    {
+        "text": "3.10",
+        "label": "CARDINAL",
+        "start": 33887,
+        "end": 33891
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 34059,
+        "end": 34062
+    },
+    {
+        "text": "section 7.4",
+        "label": "LAW",
+        "start": 34329,
+        "end": 34340
+    },
+    {
+        "text": "section 1.1",
+        "label": "LAW",
+        "start": 34450,
+        "end": 34461
+    },
+    {
+        "text": "3.11",
+        "label": "CARDINAL",
+        "start": 34783,
+        "end": 34787
+    },
+    {
+        "text": "3.12",
+        "label": "CARDINAL",
+        "start": 35380,
+        "end": 35384
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35532,
+        "end": 35537
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 35560,
+        "end": 35563
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 36124,
+        "end": 36134
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 36299,
+        "end": 36309
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 36531,
+        "end": 36537
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 36671,
+        "end": 36676
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 36804,
+        "end": 36806
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 36815,
+        "end": 36844
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 36846,
+        "end": 36850
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 36854,
+        "end": 36862
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 37022,
+        "end": 37060
+    },
+    {
+        "text": "article 4",
+        "label": "LAW",
+        "start": 37589,
+        "end": 37598
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 37609,
+        "end": 37612
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 37725,
+        "end": 37734
+    },
+    {
+        "text": "the last business day",
+        "label": "DATE",
+        "start": 37754,
+        "end": 37775
+    },
+    {
+        "text": "the first day",
+        "label": "DATE",
+        "start": 37881,
+        "end": 37894
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 38253,
+        "end": 38258
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 38571,
+        "end": 38576
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 38776,
+        "end": 38781
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 39094,
+        "end": 39099
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 39249,
+        "end": 39252
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 39609,
+        "end": 39616
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 39756,
+        "end": 39761
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 39855,
+        "end": 39860
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 39873,
+        "end": 39878
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 40062,
+        "end": 40064
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 40073,
+        "end": 40102
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 40104,
+        "end": 40108
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 40112,
+        "end": 40120
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 40280,
+        "end": 40318
+    },
+    {
+        "text": "article 5",
+        "label": "LAW",
+        "start": 40321,
+        "end": 40330
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 40351,
+        "end": 40354
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 41540,
+        "end": 41543
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 41700,
+        "end": 41703
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 41967,
+        "end": 41969
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 41978,
+        "end": 42007
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 42009,
+        "end": 42013
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 42017,
+        "end": 42025
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 42185,
+        "end": 42223
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 42226,
+        "end": 42229
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 42319,
+        "end": 42325
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 42549,
+        "end": 42555
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 42679,
+        "end": 42682
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 43005,
+        "end": 43008
+    },
+    {
+        "text": "article 6",
+        "label": "LAW",
+        "start": 43648,
+        "end": 43657
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 43674,
+        "end": 43677
+    },
+    {
+        "text": "section 4.1",
+        "label": "LAW",
+        "start": 43771,
+        "end": 43782
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 44355,
+        "end": 44358
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 44360,
+        "end": 44363
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 44821,
+        "end": 44823
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 44832,
+        "end": 44861
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 44863,
+        "end": 44867
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 44871,
+        "end": 44879
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 45039,
+        "end": 45077
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 45584,
+        "end": 45587
+    },
+    {
+        "text": "section 6.1",
+        "label": "LAW",
+        "start": 45771,
+        "end": 45782
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 46366,
+        "end": 46369
+    },
+    {
+        "text": "section 3.4",
+        "label": "LAW",
+        "start": 46641,
+        "end": 46652
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 46662,
+        "end": 46665
+    },
+    {
+        "text": "section 6.3",
+        "label": "LAW",
+        "start": 46667,
+        "end": 46678
+    },
+    {
+        "text": "section 6.5",
+        "label": "LAW",
+        "start": 46683,
+        "end": 46694
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 46743,
+        "end": 46746
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 47071,
+        "end": 47074
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 47379,
+        "end": 47384
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 47529,
+        "end": 47531
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 47540,
+        "end": 47569
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 47571,
+        "end": 47575
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 47579,
+        "end": 47587
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 47747,
+        "end": 47785
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 48447,
+        "end": 48450
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 49222,
+        "end": 49225
+    },
+    {
+        "text": "article 7",
+        "label": "LAW",
+        "start": 49421,
+        "end": 49430
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 50325,
+        "end": 50327
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 50336,
+        "end": 50365
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 50367,
+        "end": 50371
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 50375,
+        "end": 50383
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 50543,
+        "end": 50581
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 50807,
+        "end": 50810
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 50904,
+        "end": 50915
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 51022,
+        "end": 51029
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 51295,
+        "end": 51298
+    },
+    {
+        "text": "article 8",
+        "label": "LAW",
+        "start": 52698,
+        "end": 52707
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 52732,
+        "end": 52735
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 52994,
+        "end": 52996
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 53005,
+        "end": 53034
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 53036,
+        "end": 53040
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 53044,
+        "end": 53052
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 53212,
+        "end": 53250
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 54234,
+        "end": 54237
+    },
+    {
+        "text": "section 8.1",
+        "label": "LAW",
+        "start": 54350,
+        "end": 54361
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 55157,
+        "end": 55160
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 55738,
+        "end": 55741
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 55746,
+        "end": 55749
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 56225,
+        "end": 56227
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 56236,
+        "end": 56265
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 56267,
+        "end": 56271
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 56275,
+        "end": 56283
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 56443,
+        "end": 56481
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 56492,
+        "end": 56493
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 56499,
+        "end": 56502
+    },
+    {
+        "text": "section 3.5",
+        "label": "LAW",
+        "start": 57085,
+        "end": 57096
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 57164,
+        "end": 57167
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 58763,
+        "end": 58765
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 58774,
+        "end": 58803
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 58805,
+        "end": 58809
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 58813,
+        "end": 58821
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 58981,
+        "end": 59019
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 59022,
+        "end": 59025
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 59814,
+        "end": 59824
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 59847,
+        "end": 59851
+    },
+    {
+        "text": "section 6.2",
+        "label": "LAW",
+        "start": 59978,
+        "end": 59989
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 60002,
+        "end": 60006
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 60062,
+        "end": 60074
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 60842,
+        "end": 60844
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 60853,
+        "end": 60882
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 60884,
+        "end": 60888
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 60892,
+        "end": 60900
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 61060,
+        "end": 61098
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 61101,
+        "end": 61105
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 61253,
+        "end": 61265
+    },
+    {
+        "text": "section 10.2",
+        "label": "LAW",
+        "start": 61336,
+        "end": 61348
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 61350,
+        "end": 61354
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 61427,
+        "end": 61439
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 61672,
+        "end": 61676
+    },
+    {
+        "text": "article 11",
+        "label": "LAW",
+        "start": 61789,
+        "end": 61799
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 61822,
+        "end": 61826
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 62278,
+        "end": 62283
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 62342,
+        "end": 62346
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 62529,
+        "end": 62531
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 62540,
+        "end": 62569
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 62571,
+        "end": 62575
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 62579,
+        "end": 62587
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 62747,
+        "end": 62785
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 62793,
+        "end": 62796
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 62877,
+        "end": 62881
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 63583,
+        "end": 63588
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 63855,
+        "end": 63859
+    },
+    {
+        "text": "11.5",
+        "label": "CARDINAL",
+        "start": 64537,
+        "end": 64541
+    },
+    {
+        "text": "11.6",
+        "label": "CARDINAL",
+        "start": 64654,
+        "end": 64658
+    },
+    {
+        "text": "11.7",
+        "label": "CARDINAL",
+        "start": 64926,
+        "end": 64930
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 64954,
+        "end": 64956
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 64965,
+        "end": 64994
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 64996,
+        "end": 65000
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 65004,
+        "end": 65012
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 65172,
+        "end": 65210
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 65221,
+        "end": 65223
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 65252,
+        "end": 65256
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 66923,
+        "end": 66928
+    },
+    {
+        "text": "18.4",
+        "label": "CARDINAL",
+        "start": 67257,
+        "end": 67261
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 67263,
+        "end": 67267
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 67579,
+        "end": 67583
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 67974,
+        "end": 67976
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 67985,
+        "end": 68014
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 68016,
+        "end": 68020
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 68024,
+        "end": 68032
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 68192,
+        "end": 68230
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 68233,
+        "end": 68237
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 68958,
+        "end": 68962
+    },
+    {
+        "text": "section 12.5(a",
+        "label": "DATE",
+        "start": 70352,
+        "end": 70366
+    },
+    {
+        "text": "section 12.5(a",
+        "label": "LAW",
+        "start": 70464,
+        "end": 70478
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 70605,
+        "end": 70609
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 70768,
+        "end": 70778
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 70867,
+        "end": 70869
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 70878,
+        "end": 70907
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 70909,
+        "end": 70913
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 70917,
+        "end": 70925
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 71085,
+        "end": 71123
+    },
+    {
+        "text": "article 13",
+        "label": "LAW",
+        "start": 71126,
+        "end": 71136
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 71179,
+        "end": 71183
+    },
+    {
+        "text": "it;",
+        "label": "ORG",
+        "start": 71500,
+        "end": 71503
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 71981,
+        "end": 71986
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 73785,
+        "end": 73787
+    },
+    {
+        "text": "§",
+        "label": "NORP",
+        "start": 73795,
+        "end": 73796
+    },
+    {
+        "text": "fd&c",
+        "label": "ORG",
+        "start": 73876,
+        "end": 73880
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 74464,
+        "end": 74466
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 74475,
+        "end": 74504
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 74506,
+        "end": 74510
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 74514,
+        "end": 74522
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 74682,
+        "end": 74720
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 74868,
+        "end": 74872
+    },
+    {
+        "text": "article 8",
+        "label": "LAW",
+        "start": 74908,
+        "end": 74917
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 74919,
+        "end": 74923
+    },
+    {
+        "text": "it;",
+        "label": "ORG",
+        "start": 75240,
+        "end": 75243
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 75721,
+        "end": 75726
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 76657,
+        "end": 76661
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 76715,
+        "end": 76719
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 76724,
+        "end": 76728
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 77206,
+        "end": 77208
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 77217,
+        "end": 77246
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 77248,
+        "end": 77252
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 77256,
+        "end": 77264
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 77424,
+        "end": 77462
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 77465,
+        "end": 77469
+    },
+    {
+        "text": "this section 13.4(b",
+        "label": "DATE",
+        "start": 78489,
+        "end": 78508
+    },
+    {
+        "text": "article 14",
+        "label": "LAW",
+        "start": 78713,
+        "end": 78723
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 78740,
+        "end": 78744
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 79032,
+        "end": 79037
+    },
+    {
+        "text": "14",
+        "label": "DATE",
+        "start": 79063,
+        "end": 79065
+    },
+    {
+        "text": "14.2",
+        "label": "CARDINAL",
+        "start": 79466,
+        "end": 79470
+    },
+    {
+        "text": "14.3",
+        "label": "CARDINAL",
+        "start": 79474,
+        "end": 79478
+    },
+    {
+        "text": "14.2",
+        "label": "CARDINAL",
+        "start": 79480,
+        "end": 79484
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 79945,
+        "end": 79947
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 79956,
+        "end": 79985
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 79987,
+        "end": 79991
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 79995,
+        "end": 80003
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 80163,
+        "end": 80201
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 80488,
+        "end": 80492
+    },
+    {
+        "text": "14.3",
+        "label": "CARDINAL",
+        "start": 80496,
+        "end": 80500
+    },
+    {
+        "text": "14.3",
+        "label": "CARDINAL",
+        "start": 80502,
+        "end": 80506
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 80713,
+        "end": 80718
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 80951,
+        "end": 80956
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 81018,
+        "end": 81023
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 81280,
+        "end": 81285
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 81516,
+        "end": 81521
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 81583,
+        "end": 81588
+    },
+    {
+        "text": "14.4",
+        "label": "CARDINAL",
+        "start": 82090,
+        "end": 82094
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 82163,
+        "end": 82165
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 83377,
+        "end": 83379
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 83388,
+        "end": 83417
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 83419,
+        "end": 83423
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 83427,
+        "end": 83435
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 83595,
+        "end": 83633
+    },
+    {
+        "text": "article 15",
+        "label": "LAW",
+        "start": 84084,
+        "end": 84094
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 84105,
+        "end": 84109
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 84302,
+        "end": 84306
+    },
+    {
+        "text": "article 15",
+        "label": "LAW",
+        "start": 84477,
+        "end": 84487
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 84631,
+        "end": 84638
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 85002,
+        "end": 85004
+    },
+    {
+        "text": "16.1",
+        "label": "CARDINAL",
+        "start": 85026,
+        "end": 85030
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 86139,
+        "end": 86141
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 86150,
+        "end": 86179
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 86181,
+        "end": 86185
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 86189,
+        "end": 86197
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 86357,
+        "end": 86395
+    },
+    {
+        "text": "16.2",
+        "label": "CARDINAL",
+        "start": 86398,
+        "end": 86402
+    },
+    {
+        "text": "16.3",
+        "label": "CARDINAL",
+        "start": 86908,
+        "end": 86912
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 87233,
+        "end": 87236
+    },
+    {
+        "text": "483",
+        "label": "CARDINAL",
+        "start": 87242,
+        "end": 87245
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 87260,
+        "end": 87263
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 87313,
+        "end": 87316
+    },
+    {
+        "text": "16.4",
+        "label": "CARDINAL",
+        "start": 87531,
+        "end": 87535
+    },
+    {
+        "text": "16.5",
+        "label": "CARDINAL",
+        "start": 87927,
+        "end": 87931
+    },
+    {
+        "text": "16.6",
+        "label": "CARDINAL",
+        "start": 88951,
+        "end": 88955
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 89423,
+        "end": 89425
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 89434,
+        "end": 89463
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 89465,
+        "end": 89469
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 89473,
+        "end": 89481
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 89641,
+        "end": 89679
+    },
+    {
+        "text": "article 17",
+        "label": "LAW",
+        "start": 89682,
+        "end": 89692
+    },
+    {
+        "text": "17.1",
+        "label": "CARDINAL",
+        "start": 89701,
+        "end": 89705
+    },
+    {
+        "text": "17.2",
+        "label": "CARDINAL",
+        "start": 89981,
+        "end": 89985
+    },
+    {
+        "text": "17.3",
+        "label": "CARDINAL",
+        "start": 90651,
+        "end": 90655
+    },
+    {
+        "text": "17.4",
+        "label": "CARDINAL",
+        "start": 91029,
+        "end": 91033
+    },
+    {
+        "text": "17.5",
+        "label": "CARDINAL",
+        "start": 91220,
+        "end": 91224
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 91915,
+        "end": 91917
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 91926,
+        "end": 91955
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 91957,
+        "end": 91961
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 91965,
+        "end": 91973
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 92133,
+        "end": 92171
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 92182,
+        "end": 92184
+    },
+    {
+        "text": "18.1",
+        "label": "CARDINAL",
+        "start": 92197,
+        "end": 92201
+    },
+    {
+        "text": "section 14.3",
+        "label": "LAW",
+        "start": 94218,
+        "end": 94230
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 94356,
+        "end": 94358
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 94367,
+        "end": 94396
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 94398,
+        "end": 94402
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 94406,
+        "end": 94414
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 94574,
+        "end": 94612
+    },
+    {
+        "text": "18.2",
+        "label": "CARDINAL",
+        "start": 94615,
+        "end": 94619
+    },
+    {
+        "text": "section 11.3",
+        "label": "LAW",
+        "start": 95094,
+        "end": 95106
+    },
+    {
+        "text": "section 18.5",
+        "label": "LAW",
+        "start": 95255,
+        "end": 95267
+    },
+    {
+        "text": "section 18.1(d",
+        "label": "LAW",
+        "start": 95654,
+        "end": 95668
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 96065,
+        "end": 96068
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 96073,
+        "end": 96076
+    },
+    {
+        "text": "section 18.1(d",
+        "label": "LAW",
+        "start": 96384,
+        "end": 96398
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 96753,
+        "end": 96758
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 96924,
+        "end": 96929
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 96983,
+        "end": 96988
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 97207,
+        "end": 97209
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 97218,
+        "end": 97247
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 97249,
+        "end": 97253
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 97257,
+        "end": 97265
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 97425,
+        "end": 97463
+    },
+    {
+        "text": "18.3",
+        "label": "CARDINAL",
+        "start": 97466,
+        "end": 97470
+    },
+    {
+        "text": "18.4",
+        "label": "CARDINAL",
+        "start": 97933,
+        "end": 97937
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 98464,
+        "end": 98467
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 98469,
+        "end": 98470
+    },
+    {
+        "text": "18.5",
+        "label": "CARDINAL",
+        "start": 98905,
+        "end": 98909
+    },
+    {
+        "text": "article 1 (interpretation); section 2.2",
+        "label": "LAW",
+        "start": 99755,
+        "end": 99794
+    },
+    {
+        "text": "section 5.3",
+        "label": "LAW",
+        "start": 99838,
+        "end": 99849
+    },
+    {
+        "text": "article 9",
+        "label": "LAW",
+        "start": 99871,
+        "end": 99880
+    },
+    {
+        "text": "termination);",
+        "label": "ORG",
+        "start": 99943,
+        "end": 99956
+    },
+    {
+        "text": "article 11",
+        "label": "LAW",
+        "start": 99957,
+        "end": 99967
+    },
+    {
+        "text": "customer));",
+        "label": "CARDINAL",
+        "start": 100038,
+        "end": 100049
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 100058,
+        "end": 100060
+    },
+    {
+        "text": "article 15",
+        "label": "LAW",
+        "start": 100225,
+        "end": 100235
+    },
+    {
+        "text": "section 16.4",
+        "label": "LAW",
+        "start": 100288,
+        "end": 100300
+    },
+    {
+        "text": "17.2",
+        "label": "CARDINAL",
+        "start": 100358,
+        "end": 100362
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 100382,
+        "end": 100384
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 100393,
+        "end": 100422
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 100424,
+        "end": 100428
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 100432,
+        "end": 100440
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 100600,
+        "end": 100638
+    },
+    {
+        "text": "17.3",
+        "label": "DATE",
+        "start": 100652,
+        "end": 100656
+    },
+    {
+        "text": "17.4",
+        "label": "CARDINAL",
+        "start": 100695,
+        "end": 100699
+    },
+    {
+        "text": "18.2",
+        "label": "CARDINAL",
+        "start": 100744,
+        "end": 100748
+    },
+    {
+        "text": "18.3",
+        "label": "CARDINAL",
+        "start": 100780,
+        "end": 100784
+    },
+    {
+        "text": "18.4",
+        "label": "CARDINAL",
+        "start": 100809,
+        "end": 100813
+    },
+    {
+        "text": "information);",
+        "label": "ORG",
+        "start": 100838,
+        "end": 100851
+    },
+    {
+        "text": "article 19",
+        "label": "LAW",
+        "start": 100886,
+        "end": 100896
+    },
+    {
+        "text": "19.2",
+        "label": "DATE",
+        "start": 100921,
+        "end": 100925
+    },
+    {
+        "text": "19.5",
+        "label": "CARDINAL",
+        "start": 100930,
+        "end": 100934
+    },
+    {
+        "text": "article 8",
+        "label": "LAW",
+        "start": 100946,
+        "end": 100955
+    },
+    {
+        "text": "article 19",
+        "label": "LAW",
+        "start": 101154,
+        "end": 101164
+    },
+    {
+        "text": "19.1",
+        "label": "CARDINAL",
+        "start": 101179,
+        "end": 101183
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 101476,
+        "end": 101481
+    },
+    {
+        "text": "19.2",
+        "label": "CARDINAL",
+        "start": 102250,
+        "end": 102254
+    },
+    {
+        "text": "15) days",
+        "label": "DATE",
+        "start": 102456,
+        "end": 102464
+    },
+    {
+        "text": "19.3",
+        "label": "CARDINAL",
+        "start": 102503,
+        "end": 102507
+    },
+    {
+        "text": "19.4",
+        "label": "CARDINAL",
+        "start": 102721,
+        "end": 102725
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 102857,
+        "end": 102862
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 103061,
+        "end": 103063
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 103072,
+        "end": 103101
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 103103,
+        "end": 103107
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 103111,
+        "end": 103119
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 103279,
+        "end": 103317
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 103533,
+        "end": 103541
+    },
+    {
+        "text": "19.5",
+        "label": "CARDINAL",
+        "start": 104042,
+        "end": 104046
+    },
+    {
+        "text": "19.6",
+        "label": "CARDINAL",
+        "start": 105279,
+        "end": 105283
+    },
+    {
+        "text": "19.7",
+        "label": "CARDINAL",
+        "start": 105690,
+        "end": 105694
+    },
+    {
+        "text": "19.8",
+        "label": "CARDINAL",
+        "start": 105869,
+        "end": 105873
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 106194,
+        "end": 106196
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 106205,
+        "end": 106234
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 106236,
+        "end": 106240
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 106244,
+        "end": 106252
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 106412,
+        "end": 106450
+    },
+    {
+        "text": "19.9",
+        "label": "CARDINAL",
+        "start": 106453,
+        "end": 106457
+    },
+    {
+        "text": "19.10",
+        "label": "CARDINAL",
+        "start": 107152,
+        "end": 107157
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 107399,
+        "end": 107408
+    },
+    {
+        "text": "the first business day",
+        "label": "DATE",
+        "start": 107809,
+        "end": 107831
+    },
+    {
+        "text": "159",
+        "label": "CARDINAL",
+        "start": 107980,
+        "end": 107983
+    },
+    {
+        "text": "4416",
+        "label": "DATE",
+        "start": 107991,
+        "end": 107995
+    },
+    {
+        "text": "switzerland",
+        "label": "GPE",
+        "start": 108006,
+        "end": 108017
+    },
+    {
+        "text": "5353",
+        "label": "DATE",
+        "start": 108056,
+        "end": 108060
+    },
+    {
+        "text": "75",
+        "label": "CARDINAL",
+        "start": 108136,
+        "end": 108138
+    },
+    {
+        "text": "4th",
+        "label": "ORDINAL",
+        "start": 108151,
+        "end": 108154
+    },
+    {
+        "text": "boston",
+        "label": "GPE",
+        "start": 108161,
+        "end": 108167
+    },
+    {
+        "text": "ma 02116",
+        "label": "PERSON",
+        "start": 108169,
+        "end": 108177
+    },
+    {
+        "text": "0039",
+        "label": "DATE",
+        "start": 108254,
+        "end": 108258
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 108278,
+        "end": 108280
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 108289,
+        "end": 108318
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 108320,
+        "end": 108324
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 108328,
+        "end": 108336
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 108496,
+        "end": 108534
+    },
+    {
+        "text": "19.11",
+        "label": "CARDINAL",
+        "start": 108681,
+        "end": 108686
+    },
+    {
+        "text": "19.12",
+        "label": "CARDINAL",
+        "start": 109274,
+        "end": 109279
+    },
+    {
+        "text": "19.13",
+        "label": "CARDINAL",
+        "start": 109718,
+        "end": 109723
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 110050,
+        "end": 110053
+    },
+    {
+        "text": "49",
+        "label": "CARDINAL",
+        "start": 110201,
+        "end": 110203
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 110212,
+        "end": 110241
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 110243,
+        "end": 110247
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 110251,
+        "end": 110259
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 110419,
+        "end": 110457
+    },
+    {
+        "text": "william m. haskel",
+        "label": "PERSON",
+        "start": 110655,
+        "end": 110672
+    },
+    {
+        "text": "william m. haskel",
+        "label": "PERSON",
+        "start": 110679,
+        "end": 110696
+    },
+    {
+        "text": "january 9, 2017",
+        "label": "DATE",
+        "start": 110731,
+        "end": 110746
+    },
+    {
+        "text": "carbogen amcis ag",
+        "label": "ORG",
+        "start": 110747,
+        "end": 110764
+    },
+    {
+        "text": "dr.",
+        "label": "PERSON",
+        "start": 110897,
+        "end": 110900
+    },
+    {
+        "text": "stephan fritschi\n",
+        "label": "PERSON",
+        "start": 110901,
+        "end": 110918
+    },
+    {
+        "text": "carbogen amcis ag",
+        "label": "ORG",
+        "start": 110949,
+        "end": 110966
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 111030,
+        "end": 111059
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 111061,
+        "end": 111065
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 111069,
+        "end": 111077
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 111237,
+        "end": 111275
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 111325,
+        "end": 111354
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 111356,
+        "end": 111360
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 111364,
+        "end": 111372
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 111532,
+        "end": 111570
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 111616,
+        "end": 111645
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 111647,
+        "end": 111651
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 111655,
+        "end": 111663
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 111823,
+        "end": 111861
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 111901,
+        "end": 111930
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 111932,
+        "end": 111936
+    },
+    {
+        "text": "5/5/2017",
+        "label": "CARDINAL",
+        "start": 111940,
+        "end": 111948
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 112108,
+        "end": 112146
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 112154,
+        "end": 112157
+    },
+    {
+        "text": "paratek pharmaceuticals, inc.",
+        "label": "ORG",
+        "start": 112316,
+        "end": 112345
+    },
+    {
+        "text": "10-k",
+        "label": "MONEY",
+        "start": 112347,
+        "end": 112351
+    }
+]

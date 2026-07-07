@@ -1,0 +1,3236 @@
+[
+    {
+        "text": "99.1",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 170,
+        "end": 181
+    },
+    {
+        "text": "b.v.\n&\n",
+        "label": "ORG",
+        "start": 182,
+        "end": 189
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 236,
+        "end": 249
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 251,
+        "end": 254
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 256,
+        "end": 265
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 410,
+        "end": 419
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 438,
+        "end": 439
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 453,
+        "end": 454
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 491,
+        "end": 492
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 511,
+        "end": 512
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 529,
+        "end": 530
+    },
+    {
+        "text": "forecast &",
+        "label": "ORG",
+        "start": 532,
+        "end": 542
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 555,
+        "end": 556
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 572,
+        "end": 573
+    },
+    {
+        "text": "protection &",
+        "label": "ORG",
+        "start": 580,
+        "end": 592
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 601,
+        "end": 602
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 634,
+        "end": 635
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 676,
+        "end": 678
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 702,
+        "end": 704
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 722,
+        "end": 724
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 750,
+        "end": 752
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 801,
+        "end": 803
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 819,
+        "end": 821
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 852,
+        "end": 854
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 885,
+        "end": 887
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 915,
+        "end": 917
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 948,
+        "end": 950
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 966,
+        "end": 968
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 984,
+        "end": 986
+    },
+    {
+        "text": "22",
+        "label": "CARDINAL",
+        "start": 1002,
+        "end": 1004
+    },
+    {
+        "text": "23",
+        "label": "CARDINAL",
+        "start": 1025,
+        "end": 1027
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 1049,
+        "end": 1062
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 1064,
+        "end": 1067
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 1069,
+        "end": 1078
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 1223,
+        "end": 1232
+    },
+    {
+        "text": "enabler",
+        "label": "PERSON",
+        "start": 1256,
+        "end": 1263
+    },
+    {
+        "text": "switzerland",
+        "label": "GPE",
+        "start": 1471,
+        "end": 1482
+    },
+    {
+        "text": "135",
+        "label": "CARDINAL",
+        "start": 1530,
+        "end": 1533
+    },
+    {
+        "text": "switzerland",
+        "label": "GPE",
+        "start": 1548,
+        "end": 1559
+    },
+    {
+        "text": "steven van der",
+        "label": "PERSON",
+        "start": 1621,
+        "end": 1635
+    },
+    {
+        "text": "martin zuurbier",
+        "label": "PERSON",
+        "start": 1705,
+        "end": 1720
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 1779,
+        "end": 1790
+    },
+    {
+        "text": "b.v.",
+        "label": "GPE",
+        "start": 1791,
+        "end": 1795
+    },
+    {
+        "text": "the netherlands",
+        "label": "GPE",
+        "start": 1838,
+        "end": 1853
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 1905,
+        "end": 1907
+    },
+    {
+        "text": "2521",
+        "label": "DATE",
+        "start": 1909,
+        "end": 1913
+    },
+    {
+        "text": "the netherlands",
+        "label": "GPE",
+        "start": 1927,
+        "end": 1942
+    },
+    {
+        "text": "niek",
+        "label": "PERSON",
+        "start": 1998,
+        "end": 2002
+    },
+    {
+        "text": "jan van",
+        "label": "PERSON",
+        "start": 2003,
+        "end": 2010
+    },
+    {
+        "text": "bart",
+        "label": "PERSON",
+        "start": 2045,
+        "end": 2049
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 2179,
+        "end": 2180
+    },
+    {
+        "text": "enabler",
+        "label": "PERSON",
+        "start": 2243,
+        "end": 2250
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 2526,
+        "end": 2527
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 2552,
+        "end": 2557
+    },
+    {
+        "text": "alia",
+        "label": "GPE",
+        "start": 2622,
+        "end": 2626
+    },
+    {
+        "text": "gsm",
+        "label": "PERSON",
+        "start": 2635,
+        "end": 2638
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 2676,
+        "end": 2687
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 2820,
+        "end": 2821
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 3102,
+        "end": 3103
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 3109,
+        "end": 3110
+    },
+    {
+        "text": "november 30",
+        "label": "DATE",
+        "start": 3234,
+        "end": 3245
+    },
+    {
+        "text": "2007",
+        "label": "DATE",
+        "start": 3247,
+        "end": 3251
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 3355,
+        "end": 3356
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 3535,
+        "end": 3536
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 3904,
+        "end": 3917
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 3919,
+        "end": 3922
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 3924,
+        "end": 3933
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 4078,
+        "end": 4087
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 4089,
+        "end": 4090
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 4336,
+        "end": 4339
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 4848,
+        "end": 4850
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 4939,
+        "end": 4941
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 5066,
+        "end": 5069
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 5223,
+        "end": 5226
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 5321,
+        "end": 5324
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 5393,
+        "end": 5398
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 5437,
+        "end": 5440
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 5508,
+        "end": 5513
+    },
+    {
+        "text": "1.6",
+        "label": "CARDINAL",
+        "start": 5552,
+        "end": 5555
+    },
+    {
+        "text": "1.7",
+        "label": "CARDINAL",
+        "start": 5593,
+        "end": 5596
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 5803,
+        "end": 5808
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 5901,
+        "end": 5902
+    },
+    {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 5904,
+        "end": 5909
+    },
+    {
+        "text": "1.8",
+        "label": "CARDINAL",
+        "start": 5944,
+        "end": 5947
+    },
+    {
+        "text": "1.9",
+        "label": "CARDINAL",
+        "start": 6209,
+        "end": 6212
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 6657,
+        "end": 6670
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 6672,
+        "end": 6675
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 6677,
+        "end": 6686
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 6831,
+        "end": 6840
+    },
+    {
+        "text": "1.10",
+        "label": "CARDINAL",
+        "start": 6842,
+        "end": 6846
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 7035,
+        "end": 7037
+    },
+    {
+        "text": "1.11",
+        "label": "CARDINAL",
+        "start": 7039,
+        "end": 7043
+    },
+    {
+        "text": "1.12",
+        "label": "CARDINAL",
+        "start": 7334,
+        "end": 7338
+    },
+    {
+        "text": "gsm association",
+        "label": "ORG",
+        "start": 7340,
+        "end": 7355
+    },
+    {
+        "text": "1.13",
+        "label": "CARDINAL",
+        "start": 7503,
+        "end": 7507
+    },
+    {
+        "text": "gsm association",
+        "label": "ORG",
+        "start": 7509,
+        "end": 7524
+    },
+    {
+        "text": "1.14",
+        "label": "CARDINAL",
+        "start": 7627,
+        "end": 7631
+    },
+    {
+        "text": "gsm",
+        "label": "PERSON",
+        "start": 7669,
+        "end": 7672
+    },
+    {
+        "text": "1.15",
+        "label": "CARDINAL",
+        "start": 7734,
+        "end": 7738
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 7838,
+        "end": 7839
+    },
+    {
+        "text": "1.16",
+        "label": "CARDINAL",
+        "start": 8057,
+        "end": 8061
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 8138,
+        "end": 8139
+    },
+    {
+        "text": "1.17",
+        "label": "CARDINAL",
+        "start": 8141,
+        "end": 8145
+    },
+    {
+        "text": "1.18",
+        "label": "CARDINAL",
+        "start": 8206,
+        "end": 8210
+    },
+    {
+        "text": "17.1",
+        "label": "CARDINAL",
+        "start": 8328,
+        "end": 8332
+    },
+    {
+        "text": "1.19",
+        "label": "CARDINAL",
+        "start": 8333,
+        "end": 8337
+    },
+    {
+        "text": "1.20",
+        "label": "CARDINAL",
+        "start": 8561,
+        "end": 8565
+    },
+    {
+        "text": "1.21",
+        "label": "CARDINAL",
+        "start": 8688,
+        "end": 8692
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 8841,
+        "end": 8843
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 8853,
+        "end": 8866
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 8868,
+        "end": 8871
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 8873,
+        "end": 8882
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 9027,
+        "end": 9036
+    },
+    {
+        "text": "1.23",
+        "label": "CARDINAL",
+        "start": 9038,
+        "end": 9042
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 9336,
+        "end": 9339
+    },
+    {
+        "text": "19.3",
+        "label": "CARDINAL",
+        "start": 9405,
+        "end": 9409
+    },
+    {
+        "text": "1.24",
+        "label": "CARDINAL",
+        "start": 9411,
+        "end": 9415
+    },
+    {
+        "text": "the netherlands",
+        "label": "GPE",
+        "start": 9482,
+        "end": 9497
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 9518,
+        "end": 9529
+    },
+    {
+        "text": "1.25",
+        "label": "CARDINAL",
+        "start": 9531,
+        "end": 9535
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 9636,
+        "end": 9638
+    },
+    {
+        "text": "1.26",
+        "label": "CARDINAL",
+        "start": 9772,
+        "end": 9776
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 9792,
+        "end": 9801
+    },
+    {
+        "text": "a quarter",
+        "label": "DATE",
+        "start": 9814,
+        "end": 9823
+    },
+    {
+        "text": "a year",
+        "label": "DATE",
+        "start": 9827,
+        "end": 9833
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 9841,
+        "end": 9846
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 9859,
+        "end": 9865
+    },
+    {
+        "text": "january",
+        "label": "DATE",
+        "start": 9881,
+        "end": 9888
+    },
+    {
+        "text": "april",
+        "label": "DATE",
+        "start": 9890,
+        "end": 9895
+    },
+    {
+        "text": "july",
+        "label": "DATE",
+        "start": 9897,
+        "end": 9901
+    },
+    {
+        "text": "october",
+        "label": "DATE",
+        "start": 9909,
+        "end": 9916
+    },
+    {
+        "text": "1.27",
+        "label": "CARDINAL",
+        "start": 9941,
+        "end": 9945
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 10107,
+        "end": 10108
+    },
+    {
+        "text": "1.28",
+        "label": "CARDINAL",
+        "start": 10199,
+        "end": 10203
+    },
+    {
+        "text": "1.29",
+        "label": "CARDINAL",
+        "start": 10421,
+        "end": 10425
+    },
+    {
+        "text": "1.30",
+        "label": "CARDINAL",
+        "start": 10600,
+        "end": 10604
+    },
+    {
+        "text": "1.31",
+        "label": "CARDINAL",
+        "start": 10831,
+        "end": 10835
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 10904,
+        "end": 10905
+    },
+    {
+        "text": "1.32",
+        "label": "CARDINAL",
+        "start": 10907,
+        "end": 10911
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 10976,
+        "end": 10977
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 11007,
+        "end": 11008
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 11162,
+        "end": 11175
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 11177,
+        "end": 11180
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 11182,
+        "end": 11191
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 11336,
+        "end": 11345
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 11354,
+        "end": 11367
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 11369,
+        "end": 11372
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 11374,
+        "end": 11383
+    },
+    {
+        "text": "1.33",
+        "label": "CARDINAL",
+        "start": 11385,
+        "end": 11389
+    },
+    {
+        "text": "gsm association",
+        "label": "ORG",
+        "start": 11465,
+        "end": 11480
+    },
+    {
+        "text": "1.34",
+        "label": "CARDINAL",
+        "start": 11513,
+        "end": 11517
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 11680,
+        "end": 11682
+    },
+    {
+        "text": "1.35",
+        "label": "CARDINAL",
+        "start": 11685,
+        "end": 11689
+    },
+    {
+        "text": "1800",
+        "label": "DATE",
+        "start": 11737,
+        "end": 11741
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 11831,
+        "end": 11842
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 11869,
+        "end": 11870
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 11873,
+        "end": 11874
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 11912,
+        "end": 11915
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 12852,
+        "end": 12855
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 12939,
+        "end": 12942
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 13079,
+        "end": 13080
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 13098,
+        "end": 13109
+    },
+    {
+        "text": "twelve month",
+        "label": "DATE",
+        "start": 13216,
+        "end": 13228
+    },
+    {
+        "text": "17.2",
+        "label": "CARDINAL",
+        "start": 13275,
+        "end": 13279
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 13297,
+        "end": 13300
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 13526,
+        "end": 13529
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 13805,
+        "end": 13818
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 13820,
+        "end": 13823
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 13825,
+        "end": 13834
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 13979,
+        "end": 13988
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 14218,
+        "end": 14221
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 14322,
+        "end": 14325
+    },
+    {
+        "text": "resell",
+        "label": "PERSON",
+        "start": 15069,
+        "end": 15075
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 15199,
+        "end": 15202
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 16506,
+        "end": 16509
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 17194,
+        "end": 17207
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 17209,
+        "end": 17212
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 17214,
+        "end": 17223
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 17368,
+        "end": 17377
+    },
+    {
+        "text": "2.8",
+        "label": "CARDINAL",
+        "start": 17379,
+        "end": 17382
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 17515,
+        "end": 17517
+    },
+    {
+        "text": "2.9",
+        "label": "CARDINAL",
+        "start": 17519,
+        "end": 17522
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 17552,
+        "end": 17557
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 17608,
+        "end": 17613
+    },
+    {
+        "text": "eu-directives",
+        "label": "PERSON",
+        "start": 17645,
+        "end": 17658
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 17664,
+        "end": 17669
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 17694,
+        "end": 17699
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 17724,
+        "end": 17729
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 17999,
+        "end": 18002
+    },
+    {
+        "text": "adjustment(s",
+        "label": "PERSON",
+        "start": 18225,
+        "end": 18237
+    },
+    {
+        "text": "2.10",
+        "label": "CARDINAL",
+        "start": 18274,
+        "end": 18278
+    },
+    {
+        "text": "gsm association",
+        "label": "ORG",
+        "start": 18597,
+        "end": 18612
+    },
+    {
+        "text": "2.11",
+        "label": "CARDINAL",
+        "start": 18689,
+        "end": 18693
+    },
+    {
+        "text": "2.12",
+        "label": "CARDINAL",
+        "start": 19156,
+        "end": 19160
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 19588,
+        "end": 19601
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 19603,
+        "end": 19606
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 19608,
+        "end": 19617
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 19762,
+        "end": 19771
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 19782,
+        "end": 19795
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 19797,
+        "end": 19800
+    },
+    {
+        "text": "10/1/2008",
+        "label": "CARDINAL",
+        "start": 19802,
+        "end": 19811
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 19848,
+        "end": 19849
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 19879,
+        "end": 19880
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 19901,
+        "end": 19902
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 19932,
+        "end": 19933
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 19955,
+        "end": 19956
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 19983,
+        "end": 19984
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 20018,
+        "end": 20019
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 20052,
+        "end": 20053
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 20071,
+        "end": 20072
+    },
+    {
+        "text": "appendix10",
+        "label": "ORG",
+        "start": 20088,
+        "end": 20098
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 20129,
+        "end": 20131
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 20165,
+        "end": 20167
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 20178,
+        "end": 20180
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 20182,
+        "end": 20183
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 20203,
+        "end": 20206
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 20277,
+        "end": 20278
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 20347,
+        "end": 20350
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 20457,
+        "end": 20468
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 20547,
+        "end": 20550
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 20745,
+        "end": 20746
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 20749,
+        "end": 20752
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 20922,
+        "end": 20927
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 20936,
+        "end": 20939
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 21306,
+        "end": 21309
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 21374,
+        "end": 21379
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 21474,
+        "end": 21475
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 21637,
+        "end": 21640
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 21713,
+        "end": 21714
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 21787,
+        "end": 21789
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 21800,
+        "end": 21813
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 21815,
+        "end": 21818
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 21820,
+        "end": 21829
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 21974,
+        "end": 21983
+    },
+    {
+        "text": "3.8",
+        "label": "CARDINAL",
+        "start": 21985,
+        "end": 21988
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 22068,
+        "end": 22073
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 22180,
+        "end": 22181
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 22773,
+        "end": 22774
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 22792,
+        "end": 22795
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 22908,
+        "end": 22909
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 22911,
+        "end": 22914
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 23064,
+        "end": 23067
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 23365,
+        "end": 23368
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 23694,
+        "end": 23695
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 23828,
+        "end": 23831
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 23851,
+        "end": 23854
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 24026,
+        "end": 24030
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 24032,
+        "end": 24033
+    },
+    {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 24044,
+        "end": 24049
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 24246,
+        "end": 24247
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 24384,
+        "end": 24385
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 24453,
+        "end": 24454
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 24559,
+        "end": 24560
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 24565,
+        "end": 24567
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 24578,
+        "end": 24591
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 24593,
+        "end": 24596
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 24598,
+        "end": 24607
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 24752,
+        "end": 24761
+    },
+    {
+        "text": "4.6",
+        "label": "CARDINAL",
+        "start": 24763,
+        "end": 24766
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 25391,
+        "end": 25392
+    },
+    {
+        "text": "forecasts &",
+        "label": "ORG",
+        "start": 25395,
+        "end": 25406
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 25419,
+        "end": 25422
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 25462,
+        "end": 25468
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 25655,
+        "end": 25658
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 25687,
+        "end": 25696
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 25862,
+        "end": 25863
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 25865,
+        "end": 25868
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 25871,
+        "end": 25874
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 26059,
+        "end": 26062
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 26376,
+        "end": 26377
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 26394,
+        "end": 26397
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 26535,
+        "end": 26536
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 26538,
+        "end": 26541
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 26570,
+        "end": 26573
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 26681,
+        "end": 26683
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 26848,
+        "end": 26861
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 26863,
+        "end": 26866
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 26868,
+        "end": 26877
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 27022,
+        "end": 27031
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 27033,
+        "end": 27036
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 27150,
+        "end": 27151
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 27154,
+        "end": 27155
+    },
+    {
+        "text": "protection &",
+        "label": "ORG",
+        "start": 27164,
+        "end": 27176
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 27185,
+        "end": 27188
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 27615,
+        "end": 27618
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 27724,
+        "end": 27735
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 27771,
+        "end": 27776
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 27960,
+        "end": 27963
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 28368,
+        "end": 28369
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 28403,
+        "end": 28406
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 28555,
+        "end": 28560
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 28729,
+        "end": 28732
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 28938,
+        "end": 28941
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 28953,
+        "end": 28966
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 28968,
+        "end": 28971
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 28973,
+        "end": 28982
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 29127,
+        "end": 29136
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 29138,
+        "end": 29139
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 29184,
+        "end": 29187
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 29363,
+        "end": 29364
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 29504,
+        "end": 29505
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 29557,
+        "end": 29560
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 29676,
+        "end": 29677
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 29766,
+        "end": 29767
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 29842,
+        "end": 29845
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 29897,
+        "end": 29902
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 30297,
+        "end": 30300
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 30344,
+        "end": 30349
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 30580,
+        "end": 30586
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 30725,
+        "end": 30727
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 31154,
+        "end": 31157
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 31244,
+        "end": 31251
+    },
+    {
+        "text": "5);",
+        "label": "CARDINAL",
+        "start": 31526,
+        "end": 31529
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 31580,
+        "end": 31593
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 31595,
+        "end": 31598
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 31600,
+        "end": 31609
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 31754,
+        "end": 31763
+    },
+    {
+        "text": "9.2.4",
+        "label": "CARDINAL",
+        "start": 31764,
+        "end": 31769
+    },
+    {
+        "text": "9.2.5",
+        "label": "CARDINAL",
+        "start": 31911,
+        "end": 31916
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 32009,
+        "end": 32014
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 32765,
+        "end": 32770
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 32860,
+        "end": 32861
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 33162,
+        "end": 33163
+    },
+    {
+        "text": "9.2.10",
+        "label": "CARDINAL",
+        "start": 33358,
+        "end": 33364
+    },
+    {
+        "text": "9.2.11",
+        "label": "CARDINAL",
+        "start": 33543,
+        "end": 33549
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 33696,
+        "end": 33699
+    },
+    {
+        "text": "9.3.1",
+        "label": "CARDINAL",
+        "start": 33725,
+        "end": 33730
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 33806,
+        "end": 33807
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 33817,
+        "end": 33830
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 33832,
+        "end": 33835
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 33837,
+        "end": 33846
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 33991,
+        "end": 34000
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 34132,
+        "end": 34133
+    },
+    {
+        "text": "9.3.3",
+        "label": "CARDINAL",
+        "start": 34135,
+        "end": 34140
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 34214,
+        "end": 34219
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 34234,
+        "end": 34237
+    },
+    {
+        "text": "9.4.1",
+        "label": "CARDINAL",
+        "start": 34258,
+        "end": 34263
+    },
+    {
+        "text": "18.1",
+        "label": "CARDINAL",
+        "start": 34357,
+        "end": 34361
+    },
+    {
+        "text": "9.4.1",
+        "label": "CARDINAL",
+        "start": 34721,
+        "end": 34726
+    },
+    {
+        "text": "9.2.4",
+        "label": "CARDINAL",
+        "start": 34838,
+        "end": 34843
+    },
+    {
+        "text": "9.4.3",
+        "label": "CARDINAL",
+        "start": 35030,
+        "end": 35035
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 35089,
+        "end": 35091
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 35125,
+        "end": 35138
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 35140,
+        "end": 35143
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 35145,
+        "end": 35154
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 35299,
+        "end": 35308
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 35310,
+        "end": 35314
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 35482,
+        "end": 35488
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 35607,
+        "end": 35608
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 35610,
+        "end": 35611
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 35616,
+        "end": 35617
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 35620,
+        "end": 35624
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 35828,
+        "end": 35830
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 35849,
+        "end": 35853
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 37460,
+        "end": 37464
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 37799,
+        "end": 37803
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 38225,
+        "end": 38229
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 38698,
+        "end": 38711
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 38713,
+        "end": 38716
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 38718,
+        "end": 38727
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 38872,
+        "end": 38881
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 39518,
+        "end": 39522
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 39934,
+        "end": 39939
+    },
+    {
+        "text": "11.5",
+        "label": "CARDINAL",
+        "start": 40159,
+        "end": 40163
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 40177,
+        "end": 40179
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 40256,
+        "end": 40258
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 40263,
+        "end": 40265
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 40282,
+        "end": 40285
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 40287,
+        "end": 40288
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 40396,
+        "end": 40398
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 40425,
+        "end": 40429
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 40592,
+        "end": 40597
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 40996,
+        "end": 40998
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 41138,
+        "end": 41139
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 41191,
+        "end": 41193
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 41203,
+        "end": 41209
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 41220,
+        "end": 41233
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 41235,
+        "end": 41238
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 41240,
+        "end": 41249
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 41394,
+        "end": 41403
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 41405,
+        "end": 41409
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 41894,
+        "end": 41898
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 42120,
+        "end": 42124
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 42129,
+        "end": 42133
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 42249,
+        "end": 42253
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 42534,
+        "end": 42536
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 42600,
+        "end": 42604
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 42675,
+        "end": 42676
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 42678,
+        "end": 42684
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 42784,
+        "end": 42788
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 42950,
+        "end": 42955
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 43086,
+        "end": 43088
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 43138,
+        "end": 43142
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 43302,
+        "end": 43305
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 43877,
+        "end": 43881
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 44450,
+        "end": 44451
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 44462,
+        "end": 44475
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 44477,
+        "end": 44480
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 44482,
+        "end": 44491
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 44636,
+        "end": 44645
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 44648,
+        "end": 44652
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 44850,
+        "end": 44851
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 44865,
+        "end": 44866
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 45113,
+        "end": 45115
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 45132,
+        "end": 45136
+    },
+    {
+        "text": "14.2",
+        "label": "CARDINAL",
+        "start": 45911,
+        "end": 45915
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 46208,
+        "end": 46212
+    },
+    {
+        "text": "14.3",
+        "label": "CARDINAL",
+        "start": 46513,
+        "end": 46517
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 46574,
+        "end": 46575
+    },
+    {
+        "text": "weeks",
+        "label": "DATE",
+        "start": 46598,
+        "end": 46603
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 47153,
+        "end": 47166
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 47168,
+        "end": 47171
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 47173,
+        "end": 47182
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 47327,
+        "end": 47336
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 47338,
+        "end": 47340
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 47373,
+        "end": 47377
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 48076,
+        "end": 48080
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 48491,
+        "end": 48502
+    },
+    {
+        "text": "15.3",
+        "label": "CARDINAL",
+        "start": 48548,
+        "end": 48552
+    },
+    {
+        "text": "the netherlands",
+        "label": "GPE",
+        "start": 48608,
+        "end": 48623
+    },
+    {
+        "text": "15.4",
+        "label": "CARDINAL",
+        "start": 48791,
+        "end": 48795
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 48934,
+        "end": 48939
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 49032,
+        "end": 49037
+    },
+    {
+        "text": "15.5",
+        "label": "CARDINAL",
+        "start": 49557,
+        "end": 49561
+    },
+    {
+        "text": "15.6",
+        "label": "CARDINAL",
+        "start": 49745,
+        "end": 49749
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 50092,
+        "end": 50097
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 50207,
+        "end": 50209
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 50248,
+        "end": 50261
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 50263,
+        "end": 50266
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 50268,
+        "end": 50277
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 50422,
+        "end": 50431
+    },
+    {
+        "text": "16.1",
+        "label": "CARDINAL",
+        "start": 50432,
+        "end": 50436
+    },
+    {
+        "text": "16.2",
+        "label": "CARDINAL",
+        "start": 50487,
+        "end": 50491
+    },
+    {
+        "text": "16.3",
+        "label": "CARDINAL",
+        "start": 50573,
+        "end": 50577
+    },
+    {
+        "text": "16.4",
+        "label": "CARDINAL",
+        "start": 50857,
+        "end": 50861
+    },
+    {
+        "text": "16.5",
+        "label": "CARDINAL",
+        "start": 51253,
+        "end": 51257
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 52591,
+        "end": 52596
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 52900,
+        "end": 52902
+    },
+    {
+        "text": "17.1",
+        "label": "CARDINAL",
+        "start": 52932,
+        "end": 52936
+    },
+    {
+        "text": "18",
+        "label": "DATE",
+        "start": 53034,
+        "end": 53036
+    },
+    {
+        "text": "17.2",
+        "label": "CARDINAL",
+        "start": 53129,
+        "end": 53133
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 53675,
+        "end": 53688
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 53690,
+        "end": 53693
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 53695,
+        "end": 53704
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 53849,
+        "end": 53858
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 53859,
+        "end": 53861
+    },
+    {
+        "text": "18.1",
+        "label": "CARDINAL",
+        "start": 53889,
+        "end": 53893
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 53935,
+        "end": 53937
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 54259,
+        "end": 54261
+    },
+    {
+        "text": "9.2.;",
+        "label": "CARDINAL",
+        "start": 54484,
+        "end": 54489
+    },
+    {
+        "text": "16.5",
+        "label": "CARDINAL",
+        "start": 54578,
+        "end": 54582
+    },
+    {
+        "text": "forty-five",
+        "label": "CARDINAL",
+        "start": 54736,
+        "end": 54746
+    },
+    {
+        "text": "45",
+        "label": "CARDINAL",
+        "start": 54748,
+        "end": 54750
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 54761,
+        "end": 54765
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 55365,
+        "end": 55378
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 55380,
+        "end": 55383
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 55385,
+        "end": 55394
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 55539,
+        "end": 55548
+    },
+    {
+        "text": "18.2",
+        "label": "CARDINAL",
+        "start": 55550,
+        "end": 55554
+    },
+    {
+        "text": "18.3",
+        "label": "CARDINAL",
+        "start": 55835,
+        "end": 55839
+    },
+    {
+        "text": "18.1.b",
+        "label": "DATE",
+        "start": 55953,
+        "end": 55959
+    },
+    {
+        "text": "18.4",
+        "label": "CARDINAL",
+        "start": 55963,
+        "end": 55967
+    },
+    {
+        "text": "1800",
+        "label": "DATE",
+        "start": 56144,
+        "end": 56148
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 56352,
+        "end": 56354
+    },
+    {
+        "text": "19.1",
+        "label": "CARDINAL",
+        "start": 56371,
+        "end": 56375
+    },
+    {
+        "text": "19.2",
+        "label": "CARDINAL",
+        "start": 56553,
+        "end": 56557
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 56712,
+        "end": 56723
+    },
+    {
+        "text": "19.3",
+        "label": "CARDINAL",
+        "start": 57132,
+        "end": 57136
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 57370,
+        "end": 57372
+    },
+    {
+        "text": "20.1",
+        "label": "CARDINAL",
+        "start": 57390,
+        "end": 57394
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 57473,
+        "end": 57479
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 57822,
+        "end": 57835
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 57837,
+        "end": 57840
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 57842,
+        "end": 57851
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 57996,
+        "end": 58005
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 58635,
+        "end": 58640
+    },
+    {
+        "text": "20.2",
+        "label": "CARDINAL",
+        "start": 58880,
+        "end": 58884
+    },
+    {
+        "text": "20.3",
+        "label": "CARDINAL",
+        "start": 59290,
+        "end": 59294
+    },
+    {
+        "text": "20.4",
+        "label": "CARDINAL",
+        "start": 60021,
+        "end": 60025
+    },
+    {
+        "text": "20.4.2",
+        "label": "CARDINAL",
+        "start": 60303,
+        "end": 60309
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 60486,
+        "end": 60499
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 60501,
+        "end": 60504
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 60506,
+        "end": 60515
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 60660,
+        "end": 60669
+    },
+    {
+        "text": "20.5",
+        "label": "CARDINAL",
+        "start": 60671,
+        "end": 60675
+    },
+    {
+        "text": "one-year",
+        "label": "DATE",
+        "start": 60822,
+        "end": 60830
+    },
+    {
+        "text": "eighteen",
+        "label": "DATE",
+        "start": 61247,
+        "end": 61255
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 61257,
+        "end": 61259
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 61261,
+        "end": 61267
+    },
+    {
+        "text": "20.6",
+        "label": "CARDINAL",
+        "start": 61310,
+        "end": 61314
+    },
+    {
+        "text": "20.7",
+        "label": "CARDINAL",
+        "start": 61568,
+        "end": 61572
+    },
+    {
+        "text": "wholesale &",
+        "label": "ORG",
+        "start": 62016,
+        "end": 62027
+    },
+    {
+        "text": "20.8",
+        "label": "CARDINAL",
+        "start": 62042,
+        "end": 62046
+    },
+    {
+        "text": "20.9",
+        "label": "CARDINAL",
+        "start": 62279,
+        "end": 62283
+    },
+    {
+        "text": "dutch",
+        "label": "NORP",
+        "start": 62585,
+        "end": 62590
+    },
+    {
+        "text": "deutsche",
+        "label": "ORG",
+        "start": 62686,
+        "end": 62694
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 63066,
+        "end": 63079
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 63081,
+        "end": 63084
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 63086,
+        "end": 63095
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 63240,
+        "end": 63249
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 63251,
+        "end": 63253
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 63384,
+        "end": 63395
+    },
+    {
+        "text": "22",
+        "label": "CARDINAL",
+        "start": 63399,
+        "end": 63401
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 63489,
+        "end": 63490
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 63644,
+        "end": 63649
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 63786,
+        "end": 63788
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 63950,
+        "end": 63952
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 64140,
+        "end": 64142
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 64344,
+        "end": 64355
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 64365,
+        "end": 64378
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 64380,
+        "end": 64383
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 64385,
+        "end": 64394
+    },
+    {
+        "text": "18/9/2008",
+        "label": "DATE",
+        "start": 64540,
+        "end": 64549
+    },
+    {
+        "text": "23",
+        "label": "CARDINAL",
+        "start": 64551,
+        "end": 64553
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 64600,
+        "end": 64607
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 64620,
+        "end": 64623
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 64625,
+        "end": 64626
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 64657,
+        "end": 64660
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 64662,
+        "end": 64663
+    },
+    {
+        "text": "september 17",
+        "label": "DATE",
+        "start": 64720,
+        "end": 64732
+    },
+    {
+        "text": "2008",
+        "label": "DATE",
+        "start": 64734,
+        "end": 64738
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 64753,
+        "end": 64764
+    },
+    {
+        "text": "b.v.",
+        "label": "GPE",
+        "start": 64765,
+        "end": 64769
+    },
+    {
+        "text": "niek",
+        "label": "PERSON",
+        "start": 64774,
+        "end": 64778
+    },
+    {
+        "text": "jan van",
+        "label": "PERSON",
+        "start": 64779,
+        "end": 64786
+    },
+    {
+        "text": "niek",
+        "label": "PERSON",
+        "start": 64803,
+        "end": 64807
+    },
+    {
+        "text": "jan van",
+        "label": "PERSON",
+        "start": 64808,
+        "end": 64815
+    },
+    {
+        "text": "steven van der",
+        "label": "PERSON",
+        "start": 64896,
+        "end": 64910
+    },
+    {
+        "text": "steven van der",
+        "label": "PERSON",
+        "start": 64928,
+        "end": 64942
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 64975,
+        "end": 64986
+    },
+    {
+        "text": "b.v.",
+        "label": "GPE",
+        "start": 64987,
+        "end": 64991
+    },
+    {
+        "text": "hans van leeuwen\n",
+        "label": "PERSON",
+        "start": 64996,
+        "end": 65013
+    },
+    {
+        "text": "hans van leeuwen",
+        "label": "PERSON",
+        "start": 65019,
+        "end": 65035
+    },
+    {
+        "text": "martin",
+        "label": "PERSON",
+        "start": 65113,
+        "end": 65119
+    },
+    {
+        "text": "martin",
+        "label": "PERSON",
+        "start": 65139,
+        "end": 65145
+    },
+    {
+        "text": "pareteum corp",
+        "label": "ORG",
+        "start": 65208,
+        "end": 65221
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 65223,
+        "end": 65226
+    },
+    {
+        "text": "10/1/2008",
+        "label": "DATE",
+        "start": 65228,
+        "end": 65237
+    }
+]

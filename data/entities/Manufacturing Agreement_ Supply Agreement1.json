@@ -1,0 +1,7784 @@
+[
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 11
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 136,
+        "end": 146
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 148,
+        "end": 153
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 156,
+        "end": 165
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 200,
+        "end": 201
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 223,
+        "end": 226
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 250,
+        "end": 253
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 303,
+        "end": 306
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 319,
+        "end": 322
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 356,
+        "end": 359
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 381,
+        "end": 384
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 411,
+        "end": 414
+    },
+    {
+        "text": "2.8",
+        "label": "CARDINAL",
+        "start": 443,
+        "end": 446
+    },
+    {
+        "text": "2.9",
+        "label": "CARDINAL",
+        "start": 466,
+        "end": 469
+    },
+    {
+        "text": "2.10",
+        "label": "CARDINAL",
+        "start": 481,
+        "end": 485
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 509,
+        "end": 510
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 555,
+        "end": 558
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 568,
+        "end": 571
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 592,
+        "end": 595
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 616,
+        "end": 619
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 656,
+        "end": 659
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 684,
+        "end": 687
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 697,
+        "end": 700
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 728,
+        "end": 729
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 779,
+        "end": 782
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 804,
+        "end": 807
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 835,
+        "end": 838
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 864,
+        "end": 867
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 884,
+        "end": 887
+    },
+    {
+        "text": "4.6",
+        "label": "CARDINAL",
+        "start": 933,
+        "end": 936
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 965,
+        "end": 968
+    },
+    {
+        "text": "4.8",
+        "label": "CARDINAL",
+        "start": 1013,
+        "end": 1016
+    },
+    {
+        "text": "4.9",
+        "label": "CARDINAL",
+        "start": 1055,
+        "end": 1058
+    },
+    {
+        "text": "4.10",
+        "label": "CARDINAL",
+        "start": 1109,
+        "end": 1113
+    },
+    {
+        "text": "4.11",
+        "label": "CARDINAL",
+        "start": 1153,
+        "end": 1157
+    },
+    {
+        "text": "4.12",
+        "label": "CARDINAL",
+        "start": 1205,
+        "end": 1209
+    },
+    {
+        "text": "4.13",
+        "label": "CARDINAL",
+        "start": 1224,
+        "end": 1228
+    },
+    {
+        "text": "4.14",
+        "label": "CARDINAL",
+        "start": 1267,
+        "end": 1271
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 1293,
+        "end": 1294
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 1308,
+        "end": 1311
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 1332,
+        "end": 1335
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 1362,
+        "end": 1365
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 1419,
+        "end": 1429
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 1431,
+        "end": 1436
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 1439,
+        "end": 1448
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 1511,
+        "end": 1514
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 1543,
+        "end": 1544
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 1572,
+        "end": 1575
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 1614,
+        "end": 1617
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 1657,
+        "end": 1660
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 1695,
+        "end": 1698
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 1743,
+        "end": 1746
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 1794,
+        "end": 1795
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 1817,
+        "end": 1820
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 1842,
+        "end": 1845
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 1875,
+        "end": 1878
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 1904,
+        "end": 1907
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 1951,
+        "end": 1954
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 1993,
+        "end": 1996
+    },
+    {
+        "text": "7.7",
+        "label": "CARDINAL",
+        "start": 2054,
+        "end": 2057
+    },
+    {
+        "text": "7.8",
+        "label": "CARDINAL",
+        "start": 2101,
+        "end": 2104
+    },
+    {
+        "text": "7.9",
+        "label": "CARDINAL",
+        "start": 2144,
+        "end": 2147
+    },
+    {
+        "text": "7.10",
+        "label": "CARDINAL",
+        "start": 2168,
+        "end": 2172
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 2216,
+        "end": 2217
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 2243,
+        "end": 2246
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 2283,
+        "end": 2286
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 2320,
+        "end": 2323
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 2355,
+        "end": 2358
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 2383,
+        "end": 2384
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 2413,
+        "end": 2416
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 2439,
+        "end": 2442
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 2465,
+        "end": 2468
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 2481,
+        "end": 2484
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 2512,
+        "end": 2515
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 2563,
+        "end": 2565
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 2611,
+        "end": 2615
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 2646,
+        "end": 2650
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 2685,
+        "end": 2689
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 2719,
+        "end": 2723
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 2751,
+        "end": 2755
+    },
+    {
+        "text": "10.6",
+        "label": "CARDINAL",
+        "start": 2830,
+        "end": 2834
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 2870,
+        "end": 2880
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 2882,
+        "end": 2887
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 2890,
+        "end": 2899
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 2944,
+        "end": 2948
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 2976,
+        "end": 2980
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 3002,
+        "end": 3004
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 3068,
+        "end": 3072
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 3105,
+        "end": 3109
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 3135,
+        "end": 3139
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 3196,
+        "end": 3198
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 3218,
+        "end": 3220
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 3246,
+        "end": 3250
+    },
+    {
+        "text": "14.2",
+        "label": "CARDINAL",
+        "start": 3282,
+        "end": 3286
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 3296,
+        "end": 3298
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 3321,
+        "end": 3325
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 3336,
+        "end": 3340
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 3350,
+        "end": 3352
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 3364,
+        "end": 3366
+    },
+    {
+        "text": "17.1",
+        "label": "CARDINAL",
+        "start": 3384,
+        "end": 3388
+    },
+    {
+        "text": "17.2",
+        "label": "CARDINAL",
+        "start": 3415,
+        "end": 3419
+    },
+    {
+        "text": "17.3",
+        "label": "CARDINAL",
+        "start": 3432,
+        "end": 3436
+    },
+    {
+        "text": "17.4",
+        "label": "CARDINAL",
+        "start": 3463,
+        "end": 3467
+    },
+    {
+        "text": "17.5",
+        "label": "CARDINAL",
+        "start": 3498,
+        "end": 3502
+    },
+    {
+        "text": "17.6",
+        "label": "CARDINAL",
+        "start": 3532,
+        "end": 3536
+    },
+    {
+        "text": "17.7",
+        "label": "CARDINAL",
+        "start": 3553,
+        "end": 3557
+    },
+    {
+        "text": "17.8",
+        "label": "CARDINAL",
+        "start": 3573,
+        "end": 3577
+    },
+    {
+        "text": "17.9",
+        "label": "CARDINAL",
+        "start": 3601,
+        "end": 3605
+    },
+    {
+        "text": "17.10",
+        "label": "CARDINAL",
+        "start": 3626,
+        "end": 3631
+    },
+    {
+        "text": "17.11",
+        "label": "CARDINAL",
+        "start": 3640,
+        "end": 3645
+    },
+    {
+        "text": "17.12",
+        "label": "CARDINAL",
+        "start": 3673,
+        "end": 3678
+    },
+    {
+        "text": "17.13",
+        "label": "CARDINAL",
+        "start": 3703,
+        "end": 3708
+    },
+    {
+        "text": "17.14",
+        "label": "CARDINAL",
+        "start": 3724,
+        "end": 3729
+    },
+    {
+        "text": "17.15",
+        "label": "CARDINAL",
+        "start": 3743,
+        "end": 3748
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 3851,
+        "end": 3858
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 4105,
+        "end": 4115
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 4117,
+        "end": 4122
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 4125,
+        "end": 4134
+    },
+    {
+        "text": "pfizer inc.",
+        "label": "ORG",
+        "start": 4288,
+        "end": 4299
+    },
+    {
+        "text": "upjohn inc.",
+        "label": "ORG",
+        "start": 4358,
+        "end": 4369
+    },
+    {
+        "text": "pfizer inc.",
+        "label": "ORG",
+        "start": 4562,
+        "end": 4573
+    },
+    {
+        "text": "upjohn inc.",
+        "label": "ORG",
+        "start": 4588,
+        "end": 4599
+    },
+    {
+        "text": "spinco",
+        "label": "WORK_OF_ART",
+        "start": 4602,
+        "end": 4608
+    },
+    {
+        "text": "july 29, 2019",
+        "label": "DATE",
+        "start": 4682,
+        "end": 4695
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 5000,
+        "end": 5016
+    },
+    {
+        "text": "july 29, 2019",
+        "label": "DATE",
+        "start": 5287,
+        "end": 5300
+    },
+    {
+        "text": "n.v.",
+        "label": "GPE",
+        "start": 5375,
+        "end": 5379
+    },
+    {
+        "text": "netherlands",
+        "label": "GPE",
+        "start": 5456,
+        "end": 5467
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 6077,
+        "end": 6078
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 6327,
+        "end": 6330
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 6357,
+        "end": 6361
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 6524,
+        "end": 6527
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 6544,
+        "end": 6548
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 6599,
+        "end": 6602
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 6980,
+        "end": 6990
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 6992,
+        "end": 6997
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 7000,
+        "end": 7009
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 7010,
+        "end": 7013
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 7090,
+        "end": 7093
+    },
+    {
+        "text": "1.6",
+        "label": "CARDINAL",
+        "start": 7167,
+        "end": 7170
+    },
+    {
+        "text": "the spinco\ngroup",
+        "label": "ORG",
+        "start": 7979,
+        "end": 7995
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 8163,
+        "end": 8179
+    },
+    {
+        "text": "1.7",
+        "label": "CARDINAL",
+        "start": 8181,
+        "end": 8184
+    },
+    {
+        "text": "1.8",
+        "label": "CARDINAL",
+        "start": 8247,
+        "end": 8250
+    },
+    {
+        "text": "1.9",
+        "label": "CARDINAL",
+        "start": 8297,
+        "end": 8300
+    },
+    {
+        "text": "1.10",
+        "label": "CARDINAL",
+        "start": 8370,
+        "end": 8374
+    },
+    {
+        "text": "section 2.4(b",
+        "label": "LAW",
+        "start": 8437,
+        "end": 8450
+    },
+    {
+        "text": "1.11",
+        "label": "CARDINAL",
+        "start": 8453,
+        "end": 8457
+    },
+    {
+        "text": "1.12",
+        "label": "CARDINAL",
+        "start": 8757,
+        "end": 8761
+    },
+    {
+        "text": "1.13",
+        "label": "CARDINAL",
+        "start": 8845,
+        "end": 8849
+    },
+    {
+        "text": "sunday",
+        "label": "DATE",
+        "start": 8906,
+        "end": 8912
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 9003,
+        "end": 9011
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 9013,
+        "end": 9021
+    },
+    {
+        "text": "1.14",
+        "label": "CARDINAL",
+        "start": 9235,
+        "end": 9239
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 9608,
+        "end": 9618
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 9620,
+        "end": 9625
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 9628,
+        "end": 9637
+    },
+    {
+        "text": "1.15",
+        "label": "CARDINAL",
+        "start": 9638,
+        "end": 9642
+    },
+    {
+        "text": "1.16",
+        "label": "CARDINAL",
+        "start": 9715,
+        "end": 9719
+    },
+    {
+        "text": "1.17",
+        "label": "CARDINAL",
+        "start": 9797,
+        "end": 9801
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10691,
+        "end": 10696
+    },
+    {
+        "text": "section 4.6",
+        "label": "LAW",
+        "start": 10871,
+        "end": 10882
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10968,
+        "end": 10973
+    },
+    {
+        "text": "1.18",
+        "label": "CARDINAL",
+        "start": 11120,
+        "end": 11124
+    },
+    {
+        "text": "1.19",
+        "label": "CARDINAL",
+        "start": 11183,
+        "end": 11187
+    },
+    {
+        "text": "the u.s. bureau",
+        "label": "ORG",
+        "start": 11262,
+        "end": 11277
+    },
+    {
+        "text": "1.20",
+        "label": "CARDINAL",
+        "start": 11312,
+        "end": 11316
+    },
+    {
+        "text": "1.21",
+        "label": "CARDINAL",
+        "start": 11511,
+        "end": 11515
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 11798,
+        "end": 11801
+    },
+    {
+        "text": "eu",
+        "label": "PERSON",
+        "start": 11881,
+        "end": 11883
+    },
+    {
+        "text": "1.22",
+        "label": "CARDINAL",
+        "start": 12280,
+        "end": 12284
+    },
+    {
+        "text": "1.23",
+        "label": "CARDINAL",
+        "start": 12346,
+        "end": 12350
+    },
+    {
+        "text": "section 10.1(a",
+        "label": "DATE",
+        "start": 12416,
+        "end": 12430
+    },
+    {
+        "text": "1.24",
+        "label": "CARDINAL",
+        "start": 12433,
+        "end": 12437
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 12549,
+        "end": 12559
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 12561,
+        "end": 12566
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 12569,
+        "end": 12578
+    },
+    {
+        "text": "1.25",
+        "label": "CARDINAL",
+        "start": 12579,
+        "end": 12583
+    },
+    {
+        "text": "1.26",
+        "label": "CARDINAL",
+        "start": 12926,
+        "end": 12930
+    },
+    {
+        "text": "1.27",
+        "label": "CARDINAL",
+        "start": 13251,
+        "end": 13255
+    },
+    {
+        "text": "1.28",
+        "label": "CARDINAL",
+        "start": 13319,
+        "end": 13323
+    },
+    {
+        "text": "1.29",
+        "label": "CARDINAL",
+        "start": 13391,
+        "end": 13395
+    },
+    {
+        "text": "1.30",
+        "label": "CARDINAL",
+        "start": 13463,
+        "end": 13467
+    },
+    {
+        "text": "1.31",
+        "label": "CARDINAL",
+        "start": 14250,
+        "end": 14254
+    },
+    {
+        "text": "1.32",
+        "label": "CARDINAL",
+        "start": 14335,
+        "end": 14339
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 14485,
+        "end": 14490
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 14491,
+        "end": 14494
+    },
+    {
+        "text": "2) years",
+        "label": "DATE",
+        "start": 14496,
+        "end": 14504
+    },
+    {
+        "text": "one hundred percent",
+        "label": "PERCENT",
+        "start": 14526,
+        "end": 14545
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 14547,
+        "end": 14550
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14621,
+        "end": 14626
+    },
+    {
+        "text": "3rd",
+        "label": "ORDINAL",
+        "start": 14628,
+        "end": 14631
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 14659,
+        "end": 14672
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 14674,
+        "end": 14676
+    },
+    {
+        "text": "1.33",
+        "label": "CARDINAL",
+        "start": 15146,
+        "end": 15150
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 15266,
+        "end": 15276
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 15278,
+        "end": 15283
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 15286,
+        "end": 15295
+    },
+    {
+        "text": "1.34",
+        "label": "CARDINAL",
+        "start": 15296,
+        "end": 15300
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 15332,
+        "end": 15337
+    },
+    {
+        "text": "3) year",
+        "label": "DATE",
+        "start": 15339,
+        "end": 15346
+    },
+    {
+        "text": "1.35",
+        "label": "CARDINAL",
+        "start": 15465,
+        "end": 15469
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 15572,
+        "end": 15575
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 15637,
+        "end": 15648
+    },
+    {
+        "text": "1.36",
+        "label": "CARDINAL",
+        "start": 15650,
+        "end": 15654
+    },
+    {
+        "text": "1.37",
+        "label": "CARDINAL",
+        "start": 16101,
+        "end": 16105
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 16202,
+        "end": 16205
+    },
+    {
+        "text": "1.38",
+        "label": "CARDINAL",
+        "start": 16360,
+        "end": 16364
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 16436,
+        "end": 16447
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 16592,
+        "end": 16608
+    },
+    {
+        "text": "1.39",
+        "label": "CARDINAL",
+        "start": 16610,
+        "end": 16614
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 16652,
+        "end": 16663
+    },
+    {
+        "text": "1.40",
+        "label": "CARDINAL",
+        "start": 16720,
+        "end": 16724
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 16760,
+        "end": 16771
+    },
+    {
+        "text": "1.41",
+        "label": "CARDINAL",
+        "start": 16828,
+        "end": 16832
+    },
+    {
+        "text": "1.42",
+        "label": "CARDINAL",
+        "start": 16925,
+        "end": 16929
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 16997,
+        "end": 17000
+    },
+    {
+        "text": "1.43",
+        "label": "CARDINAL",
+        "start": 17002,
+        "end": 17006
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 17092,
+        "end": 17103
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 17257,
+        "end": 17273
+    },
+    {
+        "text": "1.44",
+        "label": "CARDINAL",
+        "start": 17275,
+        "end": 17279
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 17368,
+        "end": 17379
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 17650,
+        "end": 17666
+    },
+    {
+        "text": "1.45",
+        "label": "CARDINAL",
+        "start": 17668,
+        "end": 17672
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 17804,
+        "end": 17814
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 17816,
+        "end": 17821
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 17824,
+        "end": 17833
+    },
+    {
+        "text": "1.46",
+        "label": "CARDINAL",
+        "start": 17834,
+        "end": 17838
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 17840,
+        "end": 17843
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 17855,
+        "end": 17859
+    },
+    {
+        "text": "1.47",
+        "label": "CARDINAL",
+        "start": 17914,
+        "end": 17918
+    },
+    {
+        "text": "1.48",
+        "label": "CARDINAL",
+        "start": 18059,
+        "end": 18063
+    },
+    {
+        "text": "section 2.4(b",
+        "label": "LAW",
+        "start": 18113,
+        "end": 18126
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 18135,
+        "end": 18146
+    },
+    {
+        "text": "twelve-month",
+        "label": "DATE",
+        "start": 18159,
+        "end": 18171
+    },
+    {
+        "text": "january 1",
+        "label": "DATE",
+        "start": 18200,
+        "end": 18209
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 18248,
+        "end": 18265
+    },
+    {
+        "text": "december 1",
+        "label": "DATE",
+        "start": 18270,
+        "end": 18280
+    },
+    {
+        "text": "1.50",
+        "label": "CARDINAL",
+        "start": 18338,
+        "end": 18342
+    },
+    {
+        "text": "section 17.6",
+        "label": "LAW",
+        "start": 18401,
+        "end": 18413
+    },
+    {
+        "text": "1.51",
+        "label": "CARDINAL",
+        "start": 18415,
+        "end": 18419
+    },
+    {
+        "text": "section 2.4(b",
+        "label": "LAW",
+        "start": 18467,
+        "end": 18480
+    },
+    {
+        "text": "1.52",
+        "label": "CARDINAL",
+        "start": 18483,
+        "end": 18487
+    },
+    {
+        "text": "1.53",
+        "label": "CARDINAL",
+        "start": 18547,
+        "end": 18551
+    },
+    {
+        "text": "1.54",
+        "label": "CARDINAL",
+        "start": 18677,
+        "end": 18681
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 18732,
+        "end": 18736
+    },
+    {
+        "text": "non-u.s.",
+        "label": "NORP",
+        "start": 18741,
+        "end": 18749
+    },
+    {
+        "text": "1.55",
+        "label": "CARDINAL",
+        "start": 18844,
+        "end": 18848
+    },
+    {
+        "text": "a ministry of health",
+        "label": "ORG",
+        "start": 18947,
+        "end": 18967
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 19437,
+        "end": 19441
+    },
+    {
+        "text": "non-u.s.",
+        "label": "NORP",
+        "start": 19446,
+        "end": 19454
+    },
+    {
+        "text": "1.56",
+        "label": "CARDINAL",
+        "start": 19549,
+        "end": 19553
+    },
+    {
+        "text": "board, bureau",
+        "label": "ORG",
+        "start": 19729,
+        "end": 19742
+    },
+    {
+        "text": "1.57",
+        "label": "CARDINAL",
+        "start": 20029,
+        "end": 20033
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 20914,
+        "end": 20924
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 20926,
+        "end": 20931
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 20934,
+        "end": 20943
+    },
+    {
+        "text": "1.58",
+        "label": "CARDINAL",
+        "start": 20944,
+        "end": 20948
+    },
+    {
+        "text": "1.59",
+        "label": "CARDINAL",
+        "start": 21016,
+        "end": 21020
+    },
+    {
+        "text": "1.60",
+        "label": "CARDINAL",
+        "start": 21090,
+        "end": 21094
+    },
+    {
+        "text": "1.61",
+        "label": "CARDINAL",
+        "start": 21169,
+        "end": 21173
+    },
+    {
+        "text": "1.62",
+        "label": "CARDINAL",
+        "start": 21240,
+        "end": 21244
+    },
+    {
+        "text": "section 10.5(a",
+        "label": "DATE",
+        "start": 21301,
+        "end": 21315
+    },
+    {
+        "text": "1.63",
+        "label": "CARDINAL",
+        "start": 21318,
+        "end": 21322
+    },
+    {
+        "text": "1.64",
+        "label": "CARDINAL",
+        "start": 21424,
+        "end": 21428
+    },
+    {
+        "text": "1.65",
+        "label": "CARDINAL",
+        "start": 21497,
+        "end": 21501
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 21655,
+        "end": 21667
+    },
+    {
+        "text": "the first full fiscal year",
+        "label": "DATE",
+        "start": 21671,
+        "end": 21697
+    },
+    {
+        "text": "1.66",
+        "label": "CARDINAL",
+        "start": 21737,
+        "end": 21741
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 21837,
+        "end": 21840
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 21899,
+        "end": 21910
+    },
+    {
+        "text": "1.67",
+        "label": "CARDINAL",
+        "start": 21912,
+        "end": 21916
+    },
+    {
+        "text": "section 7.5",
+        "label": "LAW",
+        "start": 21971,
+        "end": 21982
+    },
+    {
+        "text": "1.68",
+        "label": "CARDINAL",
+        "start": 21984,
+        "end": 21988
+    },
+    {
+        "text": "1.69",
+        "label": "CARDINAL",
+        "start": 22519,
+        "end": 22523
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 23518,
+        "end": 23528
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 23530,
+        "end": 23535
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 23538,
+        "end": 23547
+    },
+    {
+        "text": "1.70",
+        "label": "CARDINAL",
+        "start": 24468,
+        "end": 24472
+    },
+    {
+        "text": "1.71",
+        "label": "CARDINAL",
+        "start": 24537,
+        "end": 24541
+    },
+    {
+        "text": "1.72",
+        "label": "CARDINAL",
+        "start": 24608,
+        "end": 24612
+    },
+    {
+        "text": "1.73",
+        "label": "CARDINAL",
+        "start": 24678,
+        "end": 24682
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 24755,
+        "end": 24766
+    },
+    {
+        "text": "1.74",
+        "label": "CARDINAL",
+        "start": 24768,
+        "end": 24772
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 24837,
+        "end": 24840
+    },
+    {
+        "text": "1.75",
+        "label": "CARDINAL",
+        "start": 24842,
+        "end": 24846
+    },
+    {
+        "text": "1.76",
+        "label": "CARDINAL",
+        "start": 24916,
+        "end": 24920
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 24938,
+        "end": 24942
+    },
+    {
+        "text": "non-u.s.",
+        "label": "NORP",
+        "start": 24947,
+        "end": 24955
+    },
+    {
+        "text": "1.77",
+        "label": "CARDINAL",
+        "start": 25496,
+        "end": 25500
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 25721,
+        "end": 25726
+    },
+    {
+        "text": "1.78",
+        "label": "CARDINAL",
+        "start": 26091,
+        "end": 26095
+    },
+    {
+        "text": "1.79",
+        "label": "CARDINAL",
+        "start": 26225,
+        "end": 26229
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 26307,
+        "end": 26317
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 26319,
+        "end": 26324
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 26327,
+        "end": 26336
+    },
+    {
+        "text": "1.80",
+        "label": "CARDINAL",
+        "start": 26337,
+        "end": 26341
+    },
+    {
+        "text": "section 10.2(a",
+        "label": "DATE",
+        "start": 26411,
+        "end": 26425
+    },
+    {
+        "text": "1.81",
+        "label": "CARDINAL",
+        "start": 26428,
+        "end": 26432
+    },
+    {
+        "text": "1.82",
+        "label": "CARDINAL",
+        "start": 26536,
+        "end": 26540
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 26555,
+        "end": 26560
+    },
+    {
+        "text": "1.83",
+        "label": "CARDINAL",
+        "start": 26630,
+        "end": 26634
+    },
+    {
+        "text": "1.84",
+        "label": "CARDINAL",
+        "start": 26710,
+        "end": 26714
+    },
+    {
+        "text": "1.85",
+        "label": "CARDINAL",
+        "start": 26839,
+        "end": 26843
+    },
+    {
+        "text": "1.86",
+        "label": "CARDINAL",
+        "start": 27343,
+        "end": 27347
+    },
+    {
+        "text": "1.87",
+        "label": "CARDINAL",
+        "start": 27874,
+        "end": 27878
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 27947,
+        "end": 27950
+    },
+    {
+        "text": "1.88",
+        "label": "CARDINAL",
+        "start": 27952,
+        "end": 27956
+    },
+    {
+        "text": "1.89",
+        "label": "CARDINAL",
+        "start": 28028,
+        "end": 28032
+    },
+    {
+        "text": "1.90",
+        "label": "CARDINAL",
+        "start": 28247,
+        "end": 28251
+    },
+    {
+        "text": "1.91",
+        "label": "CARDINAL",
+        "start": 28480,
+        "end": 28484
+    },
+    {
+        "text": "1.92",
+        "label": "CARDINAL",
+        "start": 28543,
+        "end": 28547
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 28676,
+        "end": 28686
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 28688,
+        "end": 28693
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 28696,
+        "end": 28705
+    },
+    {
+        "text": "a fiscal year",
+        "label": "DATE",
+        "start": 28794,
+        "end": 28807
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 28842,
+        "end": 28845
+    },
+    {
+        "text": "1.93",
+        "label": "CARDINAL",
+        "start": 28847,
+        "end": 28851
+    },
+    {
+        "text": "1.94",
+        "label": "CARDINAL",
+        "start": 29112,
+        "end": 29116
+    },
+    {
+        "text": "a given fiscal year",
+        "label": "DATE",
+        "start": 29284,
+        "end": 29303
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 29444,
+        "end": 29460
+    },
+    {
+        "text": "1.95",
+        "label": "CARDINAL",
+        "start": 29462,
+        "end": 29466
+    },
+    {
+        "text": "1.96",
+        "label": "CARDINAL",
+        "start": 29844,
+        "end": 29848
+    },
+    {
+        "text": "1.97",
+        "label": "CARDINAL",
+        "start": 30077,
+        "end": 30081
+    },
+    {
+        "text": "1.98",
+        "label": "CARDINAL",
+        "start": 30284,
+        "end": 30288
+    },
+    {
+        "text": "attachment b.\n",
+        "label": "PERSON",
+        "start": 30617,
+        "end": 30631
+    },
+    {
+        "text": "1.99",
+        "label": "CARDINAL",
+        "start": 30631,
+        "end": 30635
+    },
+    {
+        "text": "1.100",
+        "label": "CARDINAL",
+        "start": 30766,
+        "end": 30771
+    },
+    {
+        "text": "1.101",
+        "label": "CARDINAL",
+        "start": 30842,
+        "end": 30847
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 30918,
+        "end": 30922
+    },
+    {
+        "text": "1.102",
+        "label": "CARDINAL",
+        "start": 30924,
+        "end": 30929
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 31308,
+        "end": 31318
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 31320,
+        "end": 31325
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 31328,
+        "end": 31337
+    },
+    {
+        "text": "1.103",
+        "label": "CARDINAL",
+        "start": 31338,
+        "end": 31343
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 31572,
+        "end": 31575
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 31761,
+        "end": 31778
+    },
+    {
+        "text": "the european union",
+        "label": "ORG",
+        "start": 31855,
+        "end": 31873
+    },
+    {
+        "text": "1.104",
+        "label": "CARDINAL",
+        "start": 31875,
+        "end": 31880
+    },
+    {
+        "text": "1.105",
+        "label": "CARDINAL",
+        "start": 32278,
+        "end": 32283
+    },
+    {
+        "text": "crimean",
+        "label": "NORP",
+        "start": 32418,
+        "end": 32425
+    },
+    {
+        "text": "cuba",
+        "label": "GPE",
+        "start": 32437,
+        "end": 32441
+    },
+    {
+        "text": "iran",
+        "label": "GPE",
+        "start": 32463,
+        "end": 32467
+    },
+    {
+        "text": "north korea",
+        "label": "GPE",
+        "start": 32469,
+        "end": 32480
+    },
+    {
+        "text": "syria",
+        "label": "GPE",
+        "start": 32486,
+        "end": 32491
+    },
+    {
+        "text": "1.106",
+        "label": "CARDINAL",
+        "start": 32493,
+        "end": 32498
+    },
+    {
+        "text": "the u.s. health and human services office of inspector\ngeneral",
+        "label": "ORG",
+        "start": 32722,
+        "end": 32784
+    },
+    {
+        "text": "the u.s. department",
+        "label": "ORG",
+        "start": 32818,
+        "end": 32837
+    },
+    {
+        "text": "the u.s. department",
+        "label": "ORG",
+        "start": 32888,
+        "end": 32907
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 33200,
+        "end": 33204
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 33297,
+        "end": 33310
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 33312,
+        "end": 33314
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 33330,
+        "end": 33333
+    },
+    {
+        "text": "1.107",
+        "label": "CARDINAL",
+        "start": 33396,
+        "end": 33401
+    },
+    {
+        "text": "1.108",
+        "label": "CARDINAL",
+        "start": 33465,
+        "end": 33470
+    },
+    {
+        "text": "1.109",
+        "label": "CARDINAL",
+        "start": 33544,
+        "end": 33549
+    },
+    {
+        "text": "tertiary",
+        "label": "ORDINAL",
+        "start": 33700,
+        "end": 33708
+    },
+    {
+        "text": "1.110",
+        "label": "CARDINAL",
+        "start": 33849,
+        "end": 33854
+    },
+    {
+        "text": "1.111",
+        "label": "CARDINAL",
+        "start": 33923,
+        "end": 33928
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 34393,
+        "end": 34403
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 34405,
+        "end": 34410
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 34413,
+        "end": 34422
+    },
+    {
+        "text": "1.112",
+        "label": "CARDINAL",
+        "start": 34423,
+        "end": 34428
+    },
+    {
+        "text": "spinco” shall",
+        "label": "WORK_OF_ART",
+        "start": 34430,
+        "end": 34443
+    },
+    {
+        "text": "1.113",
+        "label": "CARDINAL",
+        "start": 34488,
+        "end": 34493
+    },
+    {
+        "text": "a given fiscal year",
+        "label": "DATE",
+        "start": 34552,
+        "end": 34571
+    },
+    {
+        "text": "cost”);",
+        "label": "PRODUCT",
+        "start": 34816,
+        "end": 34823
+    },
+    {
+        "text": "1.114",
+        "label": "CARDINAL",
+        "start": 35292,
+        "end": 35297
+    },
+    {
+        "text": "1.115",
+        "label": "CARDINAL",
+        "start": 35371,
+        "end": 35376
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 35467,
+        "end": 35470
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 35532,
+        "end": 35543
+    },
+    {
+        "text": "1.116",
+        "label": "CARDINAL",
+        "start": 35545,
+        "end": 35550
+    },
+    {
+        "text": "1.117",
+        "label": "CARDINAL",
+        "start": 35681,
+        "end": 35686
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35688,
+        "end": 35693
+    },
+    {
+        "text": "1.118",
+        "label": "CARDINAL",
+        "start": 35782,
+        "end": 35787
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35789,
+        "end": 35794
+    },
+    {
+        "text": "1.119",
+        "label": "CARDINAL",
+        "start": 35861,
+        "end": 35866
+    },
+    {
+        "text": "1.120",
+        "label": "CARDINAL",
+        "start": 35938,
+        "end": 35943
+    },
+    {
+        "text": "28 november 2006",
+        "label": "DATE",
+        "start": 36020,
+        "end": 36036
+    },
+    {
+        "text": "ec",
+        "label": "ORG",
+        "start": 36078,
+        "end": 36080
+    },
+    {
+        "text": "2006/112);",
+        "label": "CARDINAL",
+        "start": 36091,
+        "end": 36101
+    },
+    {
+        "text": "the european union",
+        "label": "ORG",
+        "start": 36249,
+        "end": 36267
+    },
+    {
+        "text": "1.121",
+        "label": "CARDINAL",
+        "start": 36481,
+        "end": 36486
+    },
+    {
+        "text": "1.122",
+        "label": "CARDINAL",
+        "start": 36596,
+        "end": 36601
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 36823,
+        "end": 36833
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 36835,
+        "end": 36840
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 36843,
+        "end": 36852
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 36853,
+        "end": 36854
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 36875,
+        "end": 36878
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 39455,
+        "end": 39460
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 39675,
+        "end": 39680
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 39731,
+        "end": 39741
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 39743,
+        "end": 39748
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 39751,
+        "end": 39760
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 39856,
+        "end": 39861
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 39949,
+        "end": 39954
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 40724,
+        "end": 40729
+    },
+    {
+        "text": "2.1(e)(i",
+        "label": "CARDINAL",
+        "start": 41441,
+        "end": 41449
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 41801,
+        "end": 41806
+    },
+    {
+        "text": "section 2.4(e)(i",
+        "label": "LAW",
+        "start": 42073,
+        "end": 42089
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 42335,
+        "end": 42345
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 42347,
+        "end": 42352
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 42355,
+        "end": 42364
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 42568,
+        "end": 42584
+    },
+    {
+        "text": "2.1(e)(i",
+        "label": "CARDINAL",
+        "start": 42724,
+        "end": 42732
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 42824,
+        "end": 42827
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 45003,
+        "end": 45006
+    },
+    {
+        "text": "section 2.2(b",
+        "label": "LAW",
+        "start": 45028,
+        "end": 45041
+    },
+    {
+        "text": "section 2.4",
+        "label": "LAW",
+        "start": 45517,
+        "end": 45528
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 45543,
+        "end": 45553
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 45555,
+        "end": 45560
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 45563,
+        "end": 45572
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 45573,
+        "end": 45576
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 46281,
+        "end": 46290
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 47023,
+        "end": 47028
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 47029,
+        "end": 47034
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 47036,
+        "end": 47037
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 47048,
+        "end": 47054
+    },
+    {
+        "text": "each of",
+        "label": "DATE",
+        "start": 47236,
+        "end": 47243
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 47251,
+        "end": 47255
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 47257,
+        "end": 47258
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 47268,
+        "end": 47271
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 47273,
+        "end": 47274
+    },
+    {
+        "text": "more than twenty",
+        "label": "CARDINAL",
+        "start": 47314,
+        "end": 47330
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 47345,
+        "end": 47347
+    },
+    {
+        "text": "those months",
+        "label": "DATE",
+        "start": 47427,
+        "end": 47439
+    },
+    {
+        "text": "each of",
+        "label": "DATE",
+        "start": 47476,
+        "end": 47483
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 47491,
+        "end": 47496
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 47498,
+        "end": 47499
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 47509,
+        "end": 47515
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 47517,
+        "end": 47519
+    },
+    {
+        "text": "more than fifty percent",
+        "label": "PERCENT",
+        "start": 47559,
+        "end": 47582
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 47584,
+        "end": 47586
+    },
+    {
+        "text": "those\nmonths",
+        "label": "DATE",
+        "start": 47666,
+        "end": 47678
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 47734,
+        "end": 47735
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 47813,
+        "end": 47814
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 48204,
+        "end": 48207
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 48209,
+        "end": 48210
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 48474,
+        "end": 48484
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 48486,
+        "end": 48491
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 48494,
+        "end": 48503
+    },
+    {
+        "text": "up to",
+        "label": "CARDINAL",
+        "start": 48773,
+        "end": 48778
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 48804,
+        "end": 48807
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 48977,
+        "end": 48980
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 49110,
+        "end": 49113
+    },
+    {
+        "text": "any given month",
+        "label": "DATE",
+        "start": 49343,
+        "end": 49358
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 49408,
+        "end": 49417
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 49427,
+        "end": 49436
+    },
+    {
+        "text": "section 2.4(d",
+        "label": "LAW",
+        "start": 49691,
+        "end": 49704
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 50064,
+        "end": 50069
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 50070,
+        "end": 50075
+    },
+    {
+        "text": "3) months",
+        "label": "DATE",
+        "start": 50077,
+        "end": 50086
+    },
+    {
+        "text": "no later than three",
+        "label": "CARDINAL",
+        "start": 50185,
+        "end": 50204
+    },
+    {
+        "text": "3) months",
+        "label": "DATE",
+        "start": 50206,
+        "end": 50215
+    },
+    {
+        "text": "2.4(b",
+        "label": "CARDINAL",
+        "start": 50396,
+        "end": 50401
+    },
+    {
+        "text": "2.4(c",
+        "label": "GPE",
+        "start": 50404,
+        "end": 50409
+    },
+    {
+        "text": "2.4(d",
+        "label": "DATE",
+        "start": 50412,
+        "end": 50417
+    },
+    {
+        "text": "2.4(e)(ii",
+        "label": "CARDINAL",
+        "start": 50422,
+        "end": 50431
+    },
+    {
+        "text": "section 2.4(e)(i",
+        "label": "LAW",
+        "start": 50739,
+        "end": 50755
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 51416,
+        "end": 51426
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 51428,
+        "end": 51433
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 51436,
+        "end": 51445
+    },
+    {
+        "text": "ten (10) business days",
+        "label": "DATE",
+        "start": 51893,
+        "end": 51915
+    },
+    {
+        "text": "section 2.4(d",
+        "label": "LAW",
+        "start": 52186,
+        "end": 52199
+    },
+    {
+        "text": "more than one hundred",
+        "label": "CARDINAL",
+        "start": 52418,
+        "end": 52439
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 52453,
+        "end": 52456
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 52744,
+        "end": 52747
+    },
+    {
+        "text": "one hundred percent",
+        "label": "PERCENT",
+        "start": 53869,
+        "end": 53888
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 53890,
+        "end": 53893
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 53926,
+        "end": 53931
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 54231,
+        "end": 54241
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 54243,
+        "end": 54248
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 54251,
+        "end": 54260
+    },
+    {
+        "text": "section 5.2",
+        "label": "LAW",
+        "start": 55006,
+        "end": 55017
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 55178,
+        "end": 55181
+    },
+    {
+        "text": "section 2.4(d",
+        "label": "LAW",
+        "start": 55949,
+        "end": 55962
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 56026,
+        "end": 56029
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 56031,
+        "end": 56032
+    },
+    {
+        "text": "more months",
+        "label": "DATE",
+        "start": 56037,
+        "end": 56048
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 56073,
+        "end": 56077
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 56111,
+        "end": 56117
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 56119,
+        "end": 56121
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 56161,
+        "end": 56165
+    },
+    {
+        "text": "more months",
+        "label": "DATE",
+        "start": 56173,
+        "end": 56184
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 56212,
+        "end": 56215
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 56333,
+        "end": 56342
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 56508,
+        "end": 56514
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 56589,
+        "end": 56590
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 56663,
+        "end": 56669
+    },
+    {
+        "text": "12) months",
+        "label": "DATE",
+        "start": 56671,
+        "end": 56681
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 56687,
+        "end": 56688
+    },
+    {
+        "text": "such quarter",
+        "label": "DATE",
+        "start": 57030,
+        "end": 57042
+    },
+    {
+        "text": "section 12",
+        "label": "LAW",
+        "start": 57335,
+        "end": 57345
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 57680,
+        "end": 57690
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 57692,
+        "end": 57697
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 57700,
+        "end": 57709
+    },
+    {
+        "text": "more than one hundred",
+        "label": "CARDINAL",
+        "start": 59893,
+        "end": 59914
+    },
+    {
+        "text": "eighty",
+        "label": "CARDINAL",
+        "start": 59919,
+        "end": 59925
+    },
+    {
+        "text": "180) days",
+        "label": "DATE",
+        "start": 59927,
+        "end": 59936
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 60557,
+        "end": 60567
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 60569,
+        "end": 60574
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 60577,
+        "end": 60586
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 60932,
+        "end": 60937
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 61042,
+        "end": 61047
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 61123,
+        "end": 61124
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 61604,
+        "end": 61605
+    },
+    {
+        "text": "any fiscal year",
+        "label": "DATE",
+        "start": 61681,
+        "end": 61696
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 61754,
+        "end": 61770
+    },
+    {
+        "text": "any fiscal year",
+        "label": "DATE",
+        "start": 61935,
+        "end": 61950
+    },
+    {
+        "text": "ten percent",
+        "label": "PERCENT",
+        "start": 61952,
+        "end": 61963
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 61965,
+        "end": 61967
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 62052,
+        "end": 62068
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 62151,
+        "end": 62162
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 62280,
+        "end": 62283
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 62448,
+        "end": 62452
+    },
+    {
+        "text": "between ninety percent",
+        "label": "PERCENT",
+        "start": 62630,
+        "end": 62652
+    },
+    {
+        "text": "90",
+        "label": "CARDINAL",
+        "start": 62654,
+        "end": 62656
+    },
+    {
+        "text": "one hundred and",
+        "label": "CARDINAL",
+        "start": 62662,
+        "end": 62677
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 62691,
+        "end": 62694
+    },
+    {
+        "text": "section 4.8",
+        "label": "LAW",
+        "start": 63033,
+        "end": 63044
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 63528,
+        "end": 63538
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 63540,
+        "end": 63545
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 63548,
+        "end": 63557
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 63754,
+        "end": 63757
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64129,
+        "end": 64134
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64339,
+        "end": 64344
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64465,
+        "end": 64470
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 64550,
+        "end": 64555
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64610,
+        "end": 64615
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64710,
+        "end": 64715
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65044,
+        "end": 65049
+    },
+    {
+        "text": "section 7.9",
+        "label": "LAW",
+        "start": 65423,
+        "end": 65434
+    },
+    {
+        "text": "months four",
+        "label": "DATE",
+        "start": 66803,
+        "end": 66814
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 66816,
+        "end": 66817
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 66827,
+        "end": 66830
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 66832,
+        "end": 66833
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 66889,
+        "end": 66899
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 66901,
+        "end": 66906
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 66909,
+        "end": 66918
+    },
+    {
+        "text": "2.8",
+        "label": "CARDINAL",
+        "start": 67234,
+        "end": 67237
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 67529,
+        "end": 67534
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 68003,
+        "end": 68008
+    },
+    {
+        "text": "section 3",
+        "label": "LAW",
+        "start": 68169,
+        "end": 68178
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 68257,
+        "end": 68260
+    },
+    {
+        "text": "2.9",
+        "label": "CARDINAL",
+        "start": 68262,
+        "end": 68265
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 68464,
+        "end": 68469
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 68725,
+        "end": 68730
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 68904,
+        "end": 68909
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 68969,
+        "end": 68974
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 69382,
+        "end": 69387
+    },
+    {
+        "text": "more than fifteen",
+        "label": "CARDINAL",
+        "start": 69531,
+        "end": 69548
+    },
+    {
+        "text": "15) business days",
+        "label": "DATE",
+        "start": 69550,
+        "end": 69567
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 69720,
+        "end": 69730
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 69732,
+        "end": 69737
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 69740,
+        "end": 69749
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 70588,
+        "end": 70593
+    },
+    {
+        "text": "2.10",
+        "label": "CARDINAL",
+        "start": 70633,
+        "end": 70637
+    },
+    {
+        "text": "section 2.5(a",
+        "label": "LAW",
+        "start": 71233,
+        "end": 71246
+    },
+    {
+        "text": "more than ninety",
+        "label": "CARDINAL",
+        "start": 71381,
+        "end": 71397
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 71399,
+        "end": 71407
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 71974,
+        "end": 71979
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 72290,
+        "end": 72295
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 72378,
+        "end": 72381
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 72955,
+        "end": 72965
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 72967,
+        "end": 72972
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 72975,
+        "end": 72984
+    },
+    {
+        "text": "2.10(d",
+        "label": "TIME",
+        "start": 73926,
+        "end": 73932
+    },
+    {
+        "text": "2.10(e",
+        "label": "DATE",
+        "start": 73935,
+        "end": 73941
+    },
+    {
+        "text": "2.10(f",
+        "label": "MONEY",
+        "start": 73947,
+        "end": 73953
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 75514,
+        "end": 75524
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 75526,
+        "end": 75531
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 75534,
+        "end": 75543
+    },
+    {
+        "text": "section 13",
+        "label": "LAW",
+        "start": 76581,
+        "end": 76591
+    },
+    {
+        "text": "more than 75 hours",
+        "label": "TIME",
+        "start": 76661,
+        "end": 76679
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 77009,
+        "end": 77014
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 77112,
+        "end": 77113
+    },
+    {
+        "text": "price;",
+        "label": "ORG",
+        "start": 77115,
+        "end": 77121
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 77157,
+        "end": 77160
+    },
+    {
+        "text": "a fiscal year-by-fiscal year",
+        "label": "DATE",
+        "start": 77190,
+        "end": 77218
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 77315,
+        "end": 77331
+    },
+    {
+        "text": "section 3.2",
+        "label": "LAW",
+        "start": 77675,
+        "end": 77686
+    },
+    {
+        "text": "one hundred percent",
+        "label": "PERCENT",
+        "start": 77896,
+        "end": 77915
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 77917,
+        "end": 77920
+    },
+    {
+        "text": "one hundred and",
+        "label": "CARDINAL",
+        "start": 77977,
+        "end": 77992
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 78006,
+        "end": 78009
+    },
+    {
+        "text": "the initial fiscal year of the first",
+        "label": "DATE",
+        "start": 78080,
+        "end": 78116
+    },
+    {
+        "text": "the initial fiscal year of the first",
+        "label": "DATE",
+        "start": 78279,
+        "end": 78315
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 78388,
+        "end": 78399
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 78433,
+        "end": 78443
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 78445,
+        "end": 78450
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 78453,
+        "end": 78462
+    },
+    {
+        "text": "one hundred percent",
+        "label": "PERCENT",
+        "start": 78613,
+        "end": 78632
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 78634,
+        "end": 78637
+    },
+    {
+        "text": "one hundred and",
+        "label": "CARDINAL",
+        "start": 78694,
+        "end": 78709
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 78723,
+        "end": 78726
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 79367,
+        "end": 79378
+    },
+    {
+        "text": "more than two percent",
+        "label": "PERCENT",
+        "start": 79681,
+        "end": 79702
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 79704,
+        "end": 79705
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 79813,
+        "end": 79829
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 79831,
+        "end": 79834
+    },
+    {
+        "text": "each full fiscal year",
+        "label": "DATE",
+        "start": 79940,
+        "end": 79961
+    },
+    {
+        "text": "one hundred percent",
+        "label": "PERCENT",
+        "start": 80104,
+        "end": 80123
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 80125,
+        "end": 80128
+    },
+    {
+        "text": "each fiscal year",
+        "label": "DATE",
+        "start": 80251,
+        "end": 80267
+    },
+    {
+        "text": "the first quarter of such fiscal year",
+        "label": "DATE",
+        "start": 80374,
+        "end": 80411
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 80977,
+        "end": 80987
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 80989,
+        "end": 80994
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 80997,
+        "end": 81006
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 81271,
+        "end": 81276
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 81291,
+        "end": 81295
+    },
+    {
+        "text": "any fiscal year",
+        "label": "DATE",
+        "start": 81846,
+        "end": 81861
+    },
+    {
+        "text": "the first full fiscal year",
+        "label": "DATE",
+        "start": 81872,
+        "end": 81898
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 81948,
+        "end": 81964
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 82005,
+        "end": 82016
+    },
+    {
+        "text": "less than seventy",
+        "label": "CARDINAL",
+        "start": 82043,
+        "end": 82060
+    },
+    {
+        "text": "75",
+        "label": "CARDINAL",
+        "start": 82075,
+        "end": 82077
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 82154,
+        "end": 82165
+    },
+    {
+        "text": "twenty-five percent",
+        "label": "PERCENT",
+        "start": 82221,
+        "end": 82240
+    },
+    {
+        "text": "125",
+        "label": "CARDINAL",
+        "start": 82242,
+        "end": 82245
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 82322,
+        "end": 82333
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 82517,
+        "end": 82528
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 82571,
+        "end": 82582
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 82688,
+        "end": 82699
+    },
+    {
+        "text": "one\nhundred and",
+        "label": "CARDINAL",
+        "start": 82711,
+        "end": 82726
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 82740,
+        "end": 82743
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 82983,
+        "end": 82994
+    },
+    {
+        "text": "2019",
+        "label": "DATE",
+        "start": 83032,
+        "end": 83036
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 83293,
+        "end": 83304
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 83365,
+        "end": 83376
+    },
+    {
+        "text": "section 3.2(b)(i",
+        "label": "LAW",
+        "start": 83477,
+        "end": 83493
+    },
+    {
+        "text": "all remaining fiscal years",
+        "label": "DATE",
+        "start": 83539,
+        "end": 83565
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 83740,
+        "end": 83751
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 83794,
+        "end": 83804
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 83806,
+        "end": 83811
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 83814,
+        "end": 83823
+    },
+    {
+        "text": "eighty percent",
+        "label": "PERCENT",
+        "start": 83829,
+        "end": 83843
+    },
+    {
+        "text": "80",
+        "label": "CARDINAL",
+        "start": 83845,
+        "end": 83847
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 83924,
+        "end": 83935
+    },
+    {
+        "text": "120",
+        "label": "CARDINAL",
+        "start": 83988,
+        "end": 83991
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 84068,
+        "end": 84079
+    },
+    {
+        "text": "fiscal\nyear",
+        "label": "DATE",
+        "start": 84185,
+        "end": 84196
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 84520,
+        "end": 84523
+    },
+    {
+        "text": "each fiscal year",
+        "label": "DATE",
+        "start": 84683,
+        "end": 84699
+    },
+    {
+        "text": "the first full fiscal year",
+        "label": "DATE",
+        "start": 84710,
+        "end": 84736
+    },
+    {
+        "text": "the end of the first quarter of such fiscal year",
+        "label": "DATE",
+        "start": 84832,
+        "end": 84880
+    },
+    {
+        "text": "the prior fiscal year",
+        "label": "DATE",
+        "start": 84944,
+        "end": 84965
+    },
+    {
+        "text": "one hundred and",
+        "label": "CARDINAL",
+        "start": 85786,
+        "end": 85801
+    },
+    {
+        "text": "110",
+        "label": "CARDINAL",
+        "start": 85815,
+        "end": 85818
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 85868,
+        "end": 85870
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 86016,
+        "end": 86021
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 86023,
+        "end": 86025
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 86036,
+        "end": 86040
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 86498,
+        "end": 86506
+    },
+    {
+        "text": "each year",
+        "label": "DATE",
+        "start": 86510,
+        "end": 86519
+    },
+    {
+        "text": "the first fiscal year",
+        "label": "DATE",
+        "start": 86530,
+        "end": 86551
+    },
+    {
+        "text": "one hundred percent",
+        "label": "PERCENT",
+        "start": 86563,
+        "end": 86582
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 86584,
+        "end": 86587
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 86728,
+        "end": 86738
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 86740,
+        "end": 86745
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 86748,
+        "end": 86757
+    },
+    {
+        "text": "any fiscal year",
+        "label": "DATE",
+        "start": 86775,
+        "end": 86790
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 86911,
+        "end": 86922
+    },
+    {
+        "text": "the current\nfiscal year",
+        "label": "DATE",
+        "start": 87134,
+        "end": 87157
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 87246,
+        "end": 87257
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 87317,
+        "end": 87325
+    },
+    {
+        "text": "july",
+        "label": "DATE",
+        "start": 87711,
+        "end": 87715
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 87734,
+        "end": 87745
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 87948,
+        "end": 87959
+    },
+    {
+        "text": "no later than june 1",
+        "label": "DATE",
+        "start": 87963,
+        "end": 87983
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 88004,
+        "end": 88015
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 88091,
+        "end": 88102
+    },
+    {
+        "text": "october 30",
+        "label": "DATE",
+        "start": 88120,
+        "end": 88130
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 88151,
+        "end": 88162
+    },
+    {
+        "text": "between june 1 and october 30",
+        "label": "DATE",
+        "start": 88164,
+        "end": 88193
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 88304,
+        "end": 88315
+    },
+    {
+        "text": "the first day of the first month",
+        "label": "DATE",
+        "start": 88662,
+        "end": 88694
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 88712,
+        "end": 88723
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 88833,
+        "end": 88836
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 89221,
+        "end": 89231
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 89233,
+        "end": 89238
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 89241,
+        "end": 89250
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 89251,
+        "end": 89254
+    },
+    {
+        "text": "less than three",
+        "label": "CARDINAL",
+        "start": 89501,
+        "end": 89516
+    },
+    {
+        "text": "3) years",
+        "label": "DATE",
+        "start": 89518,
+        "end": 89526
+    },
+    {
+        "text": "an upcoming fiscal year",
+        "label": "DATE",
+        "start": 89666,
+        "end": 89689
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 89752,
+        "end": 89760
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 89975,
+        "end": 89983
+    },
+    {
+        "text": "no more than one",
+        "label": "CARDINAL",
+        "start": 90059,
+        "end": 90075
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 90077,
+        "end": 90078
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 90089,
+        "end": 90100
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 90126,
+        "end": 90127
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 90134,
+        "end": 90135
+    },
+    {
+        "text": "no less than thirty",
+        "label": "CARDINAL",
+        "start": 90150,
+        "end": 90169
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 90171,
+        "end": 90179
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 90271,
+        "end": 90276
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 90531,
+        "end": 90532
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 90621,
+        "end": 90632
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 90653,
+        "end": 90654
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 90919,
+        "end": 90930
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 91151,
+        "end": 91167
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 91653,
+        "end": 91659
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 91955,
+        "end": 91966
+    },
+    {
+        "text": "a fiscal year",
+        "label": "DATE",
+        "start": 92103,
+        "end": 92116
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 92306,
+        "end": 92313
+    },
+    {
+        "text": "15) days",
+        "label": "DATE",
+        "start": 92315,
+        "end": 92323
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 92570,
+        "end": 92586
+    },
+    {
+        "text": "fiscal year",
+        "label": "DATE",
+        "start": 92753,
+        "end": 92764
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 92855,
+        "end": 92865
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 92867,
+        "end": 92872
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 92875,
+        "end": 92884
+    },
+    {
+        "text": "a fiscal year",
+        "label": "DATE",
+        "start": 93085,
+        "end": 93098
+    },
+    {
+        "text": "less than ninety",
+        "label": "CARDINAL",
+        "start": 93107,
+        "end": 93123
+    },
+    {
+        "text": "95",
+        "label": "CARDINAL",
+        "start": 93138,
+        "end": 93140
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 93264,
+        "end": 93280
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 93407,
+        "end": 93423
+    },
+    {
+        "text": "more than one hundred and five percent",
+        "label": "CARDINAL",
+        "start": 93505,
+        "end": 93543
+    },
+    {
+        "text": "105",
+        "label": "CARDINAL",
+        "start": 93545,
+        "end": 93548
+    },
+    {
+        "text": "such fiscal year",
+        "label": "DATE",
+        "start": 93672,
+        "end": 93688
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 93979,
+        "end": 93980
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 94013,
+        "end": 94018
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 94020,
+        "end": 94028
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 94138,
+        "end": 94139
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 94281,
+        "end": 94284
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 95609,
+        "end": 95619
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 95621,
+        "end": 95626
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 95629,
+        "end": 95638
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 95886,
+        "end": 95891
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 95893,
+        "end": 95895
+    },
+    {
+        "text": "twenty",
+        "label": "CARDINAL",
+        "start": 96363,
+        "end": 96369
+    },
+    {
+        "text": "20) days",
+        "label": "DATE",
+        "start": 96371,
+        "end": 96379
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 96573,
+        "end": 96582
+    },
+    {
+        "text": "three-month",
+        "label": "DATE",
+        "start": 96619,
+        "end": 96630
+    },
+    {
+        "text": "u.s. dollar",
+        "label": "ORG",
+        "start": 96631,
+        "end": 96642
+    },
+    {
+        "text": "the next business day",
+        "label": "DATE",
+        "start": 96701,
+        "end": 96722
+    },
+    {
+        "text": "a business day",
+        "label": "DATE",
+        "start": 96756,
+        "end": 96770
+    },
+    {
+        "text": "3.6",
+        "label": "CARDINAL",
+        "start": 96885,
+        "end": 96888
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 97002,
+        "end": 97005
+    },
+    {
+        "text": "section 3.6(a",
+        "label": "LAW",
+        "start": 97598,
+        "end": 97611
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 98869,
+        "end": 98879
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 98881,
+        "end": 98886
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 98889,
+        "end": 98898
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 102225,
+        "end": 102235
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 102237,
+        "end": 102242
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 102245,
+        "end": 102254
+    },
+    {
+        "text": "3.7",
+        "label": "CARDINAL",
+        "start": 102589,
+        "end": 102592
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 102856,
+        "end": 102857
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 102906,
+        "end": 102909
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 103545,
+        "end": 103548
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 103824,
+        "end": 103827
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 104983,
+        "end": 104993
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 104995,
+        "end": 105000
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 105003,
+        "end": 105012
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 105439,
+        "end": 105444
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 106130,
+        "end": 106133
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 107229,
+        "end": 107232
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 107735,
+        "end": 107745
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 107747,
+        "end": 107752
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 107755,
+        "end": 107764
+    },
+    {
+        "text": "a fiscal year quarterly",
+        "label": "DATE",
+        "start": 108642,
+        "end": 108665
+    },
+    {
+        "text": "4.6",
+        "label": "CARDINAL",
+        "start": 109134,
+        "end": 109137
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 110862,
+        "end": 110872
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 110874,
+        "end": 110879
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 110882,
+        "end": 110891
+    },
+    {
+        "text": "4.7",
+        "label": "CARDINAL",
+        "start": 110892,
+        "end": 110895
+    },
+    {
+        "text": "4.8",
+        "label": "CARDINAL",
+        "start": 111863,
+        "end": 111866
+    },
+    {
+        "text": "seventy-five",
+        "label": "CARDINAL",
+        "start": 112131,
+        "end": 112143
+    },
+    {
+        "text": "75) days",
+        "label": "DATE",
+        "start": 112145,
+        "end": 112153
+    },
+    {
+        "text": "defects”);",
+        "label": "PERSON",
+        "start": 112643,
+        "end": 112653
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 112756,
+        "end": 112761
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 112763,
+        "end": 112771
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 112787,
+        "end": 112792
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 112973,
+        "end": 112981
+    },
+    {
+        "text": "60) day",
+        "label": "DATE",
+        "start": 113413,
+        "end": 113420
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 113939,
+        "end": 113949
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 113951,
+        "end": 113956
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 113959,
+        "end": 113968
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 114645,
+        "end": 114653
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 114712,
+        "end": 114717
+    },
+    {
+        "text": "ninety (90",
+        "label": "CARDINAL",
+        "start": 114879,
+        "end": 114889
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 114990,
+        "end": 114993
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 115504,
+        "end": 115509
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 115782,
+        "end": 115787
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 115908,
+        "end": 115913
+    },
+    {
+        "text": "the thirty (30) day",
+        "label": "DATE",
+        "start": 115938,
+        "end": 115957
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 116067,
+        "end": 116072
+    },
+    {
+        "text": "30) day period",
+        "label": "DATE",
+        "start": 116110,
+        "end": 116124
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 116199,
+        "end": 116204
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 116473,
+        "end": 116478
+    },
+    {
+        "text": "the thirty (30",
+        "label": "DATE",
+        "start": 116503,
+        "end": 116517
+    },
+    {
+        "text": "section 3 and (ii",
+        "label": "LAW",
+        "start": 117048,
+        "end": 117065
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 117211,
+        "end": 117221
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 117223,
+        "end": 117228
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 117231,
+        "end": 117240
+    },
+    {
+        "text": "section 5.2(e)(v",
+        "label": "LAW",
+        "start": 117585,
+        "end": 117601
+    },
+    {
+        "text": "4.9",
+        "label": "CARDINAL",
+        "start": 117924,
+        "end": 117927
+    },
+    {
+        "text": "section 4.8",
+        "label": "LAW",
+        "start": 118351,
+        "end": 118362
+    },
+    {
+        "text": "4.10",
+        "label": "CARDINAL",
+        "start": 118941,
+        "end": 118945
+    },
+    {
+        "text": "4.11",
+        "label": "CARDINAL",
+        "start": 119196,
+        "end": 119200
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 119415,
+        "end": 119418
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 120089,
+        "end": 120099
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 120101,
+        "end": 120106
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 120109,
+        "end": 120118
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 120677,
+        "end": 120678
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 120723,
+        "end": 120724
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 120790,
+        "end": 120791
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 120884,
+        "end": 120885
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 122001,
+        "end": 122006
+    },
+    {
+        "text": "4.12",
+        "label": "CARDINAL",
+        "start": 122424,
+        "end": 122428
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 122531,
+        "end": 122537
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 122539,
+        "end": 122547
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 123012,
+        "end": 123016
+    },
+    {
+        "text": "4.12",
+        "label": "CARDINAL",
+        "start": 123117,
+        "end": 123121
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 123273,
+        "end": 123283
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 123285,
+        "end": 123290
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 123293,
+        "end": 123302
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 123422,
+        "end": 123426
+    },
+    {
+        "text": "section 15.2",
+        "label": "LAW",
+        "start": 123846,
+        "end": 123858
+    },
+    {
+        "text": "4.13",
+        "label": "CARDINAL",
+        "start": 124917,
+        "end": 124921
+    },
+    {
+        "text": "reproductive and/or developmental toxicity; serious target organ toxicity",
+        "label": "ORG",
+        "start": 125370,
+        "end": 125443
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 125602,
+        "end": 125607
+    },
+    {
+        "text": "ade",
+        "label": "ORG",
+        "start": 125618,
+        "end": 125621
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 125642,
+        "end": 125647
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 125671,
+        "end": 125673
+    },
+    {
+        "text": "ade",
+        "label": "ORG",
+        "start": 125715,
+        "end": 125718
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 125734,
+        "end": 125736
+    },
+    {
+        "text": "ade",
+        "label": "ORG",
+        "start": 125850,
+        "end": 125853
+    },
+    {
+        "text": "10 µg/day",
+        "label": "DATE",
+        "start": 125869,
+        "end": 125878
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 126375,
+        "end": 126385
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 126387,
+        "end": 126392
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 126395,
+        "end": 126404
+    },
+    {
+        "text": "4.14",
+        "label": "CARDINAL",
+        "start": 126405,
+        "end": 126409
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 126957,
+        "end": 126958
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 126971,
+        "end": 126974
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 127232,
+        "end": 127237
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 127400,
+        "end": 127401
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 127452,
+        "end": 127456
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 127493,
+        "end": 127494
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 127517,
+        "end": 127521
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 127566,
+        "end": 127567
+    },
+    {
+        "text": "e.u.",
+        "label": "GPE",
+        "start": 127599,
+        "end": 127603
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 127623,
+        "end": 127624
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 127984,
+        "end": 127989
+    },
+    {
+        "text": "section 17",
+        "label": "LAW",
+        "start": 128044,
+        "end": 128054
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 128326,
+        "end": 128330
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 128386,
+        "end": 128387
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 128415,
+        "end": 128419
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 128557,
+        "end": 128561
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 128581,
+        "end": 128585
+    },
+    {
+        "text": "u.s. department",
+        "label": "ORG",
+        "start": 128634,
+        "end": 128649
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 128722,
+        "end": 128723
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 129307,
+        "end": 129308
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 129382,
+        "end": 129392
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 129394,
+        "end": 129399
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 129402,
+        "end": 129411
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 130228,
+        "end": 130231
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 132315,
+        "end": 132325
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 132327,
+        "end": 132332
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 132335,
+        "end": 132344
+    },
+    {
+        "text": "501",
+        "label": "CARDINAL",
+        "start": 133451,
+        "end": 133454
+    },
+    {
+        "text": "502",
+        "label": "CARDINAL",
+        "start": 133459,
+        "end": 133462
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 133906,
+        "end": 133918
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 134750,
+        "end": 134760
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 134762,
+        "end": 134767
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 134770,
+        "end": 134779
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 134780,
+        "end": 134783
+    },
+    {
+        "text": "congo",
+        "label": "GPE",
+        "start": 135851,
+        "end": 135856
+    },
+    {
+        "text": "the securities exchange act of\n",
+        "label": "ORG",
+        "start": 136017,
+        "end": 136048
+    },
+    {
+        "text": "1934",
+        "label": "DATE",
+        "start": 136048,
+        "end": 136052
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 137394,
+        "end": 137397
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 137861,
+        "end": 137871
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 137873,
+        "end": 137878
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 137881,
+        "end": 137890
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 137891,
+        "end": 137894
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 138438,
+        "end": 138439
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 138466,
+        "end": 138469
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 138870,
+        "end": 138873
+    },
+    {
+        "text": "de\nnovo",
+        "label": "PERSON",
+        "start": 139177,
+        "end": 139184
+    },
+    {
+        "text": "twenty-four",
+        "label": "CARDINAL",
+        "start": 139625,
+        "end": 139636
+    },
+    {
+        "text": "24) hours",
+        "label": "TIME",
+        "start": 139638,
+        "end": 139647
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 140060,
+        "end": 140070
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 140072,
+        "end": 140077
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 140080,
+        "end": 140089
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 140294,
+        "end": 140299
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 141113,
+        "end": 141119
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 141376,
+        "end": 141381
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 141405,
+        "end": 141408
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 141912,
+        "end": 141915
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 142004,
+        "end": 142010
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 142250,
+        "end": 142253
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 142660,
+        "end": 142670
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 142672,
+        "end": 142677
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 142680,
+        "end": 142689
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 142775,
+        "end": 142781
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 143611,
+        "end": 143616
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 144231,
+        "end": 144232
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 144253,
+        "end": 144256
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 144430,
+        "end": 144434
+    },
+    {
+        "text": "4) years",
+        "label": "DATE",
+        "start": 144436,
+        "end": 144444
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 144545,
+        "end": 144548
+    },
+    {
+        "text": "7.4",
+        "label": "DATE",
+        "start": 144550,
+        "end": 144553
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 144555,
+        "end": 144558
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 144560,
+        "end": 144563
+    },
+    {
+        "text": "7.7",
+        "label": "CARDINAL",
+        "start": 144567,
+        "end": 144570
+    },
+    {
+        "text": "up to three",
+        "label": "CARDINAL",
+        "start": 144600,
+        "end": 144611
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 144613,
+        "end": 144614
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 144638,
+        "end": 144644
+    },
+    {
+        "text": "12) months",
+        "label": "DATE",
+        "start": 144646,
+        "end": 144656
+    },
+    {
+        "text": "less than twelve",
+        "label": "CARDINAL",
+        "start": 144743,
+        "end": 144759
+    },
+    {
+        "text": "12) months",
+        "label": "DATE",
+        "start": 144761,
+        "end": 144771
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 145201,
+        "end": 145212
+    },
+    {
+        "text": "7.4",
+        "label": "DATE",
+        "start": 145214,
+        "end": 145217
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 145219,
+        "end": 145222
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 145224,
+        "end": 145227
+    },
+    {
+        "text": "7.7",
+        "label": "CARDINAL",
+        "start": 145231,
+        "end": 145234
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 145249,
+        "end": 145259
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 145261,
+        "end": 145266
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 145269,
+        "end": 145278
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 145279,
+        "end": 145282
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 145468,
+        "end": 145472
+    },
+    {
+        "text": "4) years",
+        "label": "DATE",
+        "start": 145474,
+        "end": 145482
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 145587,
+        "end": 145598
+    },
+    {
+        "text": "7.4",
+        "label": "DATE",
+        "start": 145600,
+        "end": 145603
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 145605,
+        "end": 145608
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 145610,
+        "end": 145613
+    },
+    {
+        "text": "7.7",
+        "label": "CARDINAL",
+        "start": 145617,
+        "end": 145620
+    },
+    {
+        "text": "up to three",
+        "label": "CARDINAL",
+        "start": 145662,
+        "end": 145673
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 145675,
+        "end": 145676
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 145700,
+        "end": 145706
+    },
+    {
+        "text": "12) months",
+        "label": "DATE",
+        "start": 145708,
+        "end": 145718
+    },
+    {
+        "text": "less than twelve",
+        "label": "CARDINAL",
+        "start": 145805,
+        "end": 145821
+    },
+    {
+        "text": "12) months",
+        "label": "DATE",
+        "start": 145823,
+        "end": 145833
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 146051,
+        "end": 146054
+    },
+    {
+        "text": "ninety (90",
+        "label": "DATE",
+        "start": 146437,
+        "end": 146447
+    },
+    {
+        "text": "ninety (90",
+        "label": "DATE",
+        "start": 146918,
+        "end": 146928
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 147275,
+        "end": 147278
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 147604,
+        "end": 147607
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 147952,
+        "end": 147955
+    },
+    {
+        "text": "6) months",
+        "label": "DATE",
+        "start": 147957,
+        "end": 147966
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 148251,
+        "end": 148254
+    },
+    {
+        "text": "2) years",
+        "label": "DATE",
+        "start": 148256,
+        "end": 148264
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 148397,
+        "end": 148407
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 148409,
+        "end": 148414
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 148417,
+        "end": 148426
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 148886,
+        "end": 148891
+    },
+    {
+        "text": "3) months",
+        "label": "DATE",
+        "start": 148893,
+        "end": 148902
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 148961,
+        "end": 148964
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 149972,
+        "end": 149975
+    },
+    {
+        "text": "ten (10) day period",
+        "label": "DATE",
+        "start": 150271,
+        "end": 150290
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 150292,
+        "end": 150295
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 151343,
+        "end": 151348
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 151535,
+        "end": 151545
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 151547,
+        "end": 151552
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 151555,
+        "end": 151564
+    },
+    {
+        "text": "7.7",
+        "label": "CARDINAL",
+        "start": 151565,
+        "end": 151568
+    },
+    {
+        "text": "eighteen",
+        "label": "CARDINAL",
+        "start": 152282,
+        "end": 152290
+    },
+    {
+        "text": "18) month",
+        "label": "DATE",
+        "start": 152292,
+        "end": 152301
+    },
+    {
+        "text": "7.8",
+        "label": "CARDINAL",
+        "start": 152392,
+        "end": 152395
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 152928,
+        "end": 152939
+    },
+    {
+        "text": "7.4",
+        "label": "DATE",
+        "start": 152941,
+        "end": 152944
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 152946,
+        "end": 152949
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 152953,
+        "end": 152956
+    },
+    {
+        "text": "section 3",
+        "label": "LAW",
+        "start": 153252,
+        "end": 153261
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 154484,
+        "end": 154494
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 154496,
+        "end": 154501
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 154504,
+        "end": 154513
+    },
+    {
+        "text": "ninety (90) days",
+        "label": "DATE",
+        "start": 154652,
+        "end": 154668
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 155380,
+        "end": 155391
+    },
+    {
+        "text": "7.4",
+        "label": "DATE",
+        "start": 155393,
+        "end": 155396
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 155398,
+        "end": 155401
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 155405,
+        "end": 155408
+    },
+    {
+        "text": "section 2.10",
+        "label": "LAW",
+        "start": 155587,
+        "end": 155599
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 155750,
+        "end": 155758
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 155865,
+        "end": 155868
+    },
+    {
+        "text": "4.5",
+        "label": "DATE",
+        "start": 155870,
+        "end": 155873
+    },
+    {
+        "text": "4.6",
+        "label": "DATE",
+        "start": 155875,
+        "end": 155878
+    },
+    {
+        "text": "4.8",
+        "label": "CARDINAL",
+        "start": 155880,
+        "end": 155883
+    },
+    {
+        "text": "4.10",
+        "label": "DATE",
+        "start": 155885,
+        "end": 155889
+    },
+    {
+        "text": "4.11",
+        "label": "DATE",
+        "start": 155891,
+        "end": 155895
+    },
+    {
+        "text": "4.12",
+        "label": "CARDINAL",
+        "start": 155897,
+        "end": 155901
+    },
+    {
+        "text": "4.13",
+        "label": "CARDINAL",
+        "start": 155906,
+        "end": 155910
+    },
+    {
+        "text": "section 5",
+        "label": "LAW",
+        "start": 155960,
+        "end": 155969
+    },
+    {
+        "text": "section 6",
+        "label": "LAW",
+        "start": 155983,
+        "end": 155992
+    },
+    {
+        "text": "section 7.10",
+        "label": "LAW",
+        "start": 156103,
+        "end": 156115
+    },
+    {
+        "text": "section 8",
+        "label": "LAW",
+        "start": 156160,
+        "end": 156169
+    },
+    {
+        "text": "section 10",
+        "label": "LAW",
+        "start": 156195,
+        "end": 156205
+    },
+    {
+        "text": "section 11",
+        "label": "LAW",
+        "start": 156251,
+        "end": 156261
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 156283,
+        "end": 156285
+    },
+    {
+        "text": "section 15",
+        "label": "LAW",
+        "start": 156305,
+        "end": 156315
+    },
+    {
+        "text": "section 16",
+        "label": "LAW",
+        "start": 156338,
+        "end": 156348
+    },
+    {
+        "text": "section 17",
+        "label": "LAW",
+        "start": 156360,
+        "end": 156370
+    },
+    {
+        "text": "7.9",
+        "label": "CARDINAL",
+        "start": 156501,
+        "end": 156504
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 156709,
+        "end": 156720
+    },
+    {
+        "text": "7.4",
+        "label": "DATE",
+        "start": 156722,
+        "end": 156725
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 156727,
+        "end": 156730
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 156734,
+        "end": 156737
+    },
+    {
+        "text": "ninety (90) days",
+        "label": "DATE",
+        "start": 156774,
+        "end": 156790
+    },
+    {
+        "text": "section 7.7",
+        "label": "LAW",
+        "start": 157300,
+        "end": 157311
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 157384,
+        "end": 157395
+    },
+    {
+        "text": "7.4",
+        "label": "DATE",
+        "start": 157397,
+        "end": 157400
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 157402,
+        "end": 157405
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 157409,
+        "end": 157412
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 157730,
+        "end": 157740
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 157742,
+        "end": 157747
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 157750,
+        "end": 157759
+    },
+    {
+        "text": "7.10",
+        "label": "CARDINAL",
+        "start": 158164,
+        "end": 158168
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 160247,
+        "end": 160258
+    },
+    {
+        "text": "7.4",
+        "label": "DATE",
+        "start": 160260,
+        "end": 160263
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 160265,
+        "end": 160268
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 160272,
+        "end": 160275
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 160887,
+        "end": 160898
+    },
+    {
+        "text": "7.4",
+        "label": "DATE",
+        "start": 160900,
+        "end": 160903
+    },
+    {
+        "text": "7.5",
+        "label": "CARDINAL",
+        "start": 160905,
+        "end": 160908
+    },
+    {
+        "text": "7.6",
+        "label": "CARDINAL",
+        "start": 160912,
+        "end": 160915
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 161078,
+        "end": 161088
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 161090,
+        "end": 161095
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 161098,
+        "end": 161107
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 161108,
+        "end": 161109
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 161134,
+        "end": 161137
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 161880,
+        "end": 161883
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 162312,
+        "end": 162317
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 163354,
+        "end": 163364
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 163366,
+        "end": 163371
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 163374,
+        "end": 163383
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 164470,
+        "end": 164473
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 164933,
+        "end": 164936
+    },
+    {
+        "text": "section 8.1",
+        "label": "LAW",
+        "start": 164988,
+        "end": 164999
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 165315,
+        "end": 165316
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 165344,
+        "end": 165347
+    },
+    {
+        "text": "90) days",
+        "label": "DATE",
+        "start": 165444,
+        "end": 165452
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 166032,
+        "end": 166042
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 166044,
+        "end": 166049
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 166052,
+        "end": 166061
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 166062,
+        "end": 166065
+    },
+    {
+        "text": "up to five",
+        "label": "CARDINAL",
+        "start": 166127,
+        "end": 166137
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 166139,
+        "end": 166140
+    },
+    {
+        "text": "at least three",
+        "label": "CARDINAL",
+        "start": 166636,
+        "end": 166650
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 166652,
+        "end": 166653
+    },
+    {
+        "text": "jac chairs",
+        "label": "PERSON",
+        "start": 166873,
+        "end": 166883
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 166916,
+        "end": 166919
+    },
+    {
+        "text": "at least thirty",
+        "label": "CARDINAL",
+        "start": 167177,
+        "end": 167192
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 167296,
+        "end": 167305
+    },
+    {
+        "text": "at least two",
+        "label": "CARDINAL",
+        "start": 167426,
+        "end": 167438
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 167440,
+        "end": 167441
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 167711,
+        "end": 167718
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 167869,
+        "end": 167872
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 167969,
+        "end": 167978
+    },
+    {
+        "text": "20) business days",
+        "label": "DATE",
+        "start": 168746,
+        "end": 168763
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 168912,
+        "end": 168921
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 169021,
+        "end": 169031
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 169033,
+        "end": 169038
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 169041,
+        "end": 169050
+    },
+    {
+        "text": "at least four",
+        "label": "CARDINAL",
+        "start": 169119,
+        "end": 169132
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 169134,
+        "end": 169135
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 169502,
+        "end": 169505
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 170024,
+        "end": 170027
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 171056,
+        "end": 171058
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 171103,
+        "end": 171107
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 171650,
+        "end": 171660
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 171662,
+        "end": 171667
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 171670,
+        "end": 171679
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 171776,
+        "end": 171781
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 172145,
+        "end": 172150
+    },
+    {
+        "text": "section 10.1(a",
+        "label": "DATE",
+        "start": 172801,
+        "end": 172815
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 173298,
+        "end": 173302
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 173304,
+        "end": 173308
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 173940,
+        "end": 173945
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 174328,
+        "end": 174333
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 174892,
+        "end": 174902
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 174904,
+        "end": 174909
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 174912,
+        "end": 174921
+    },
+    {
+        "text": "section 10.2(a",
+        "label": "DATE",
+        "start": 175010,
+        "end": 175024
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 175433,
+        "end": 175445
+    },
+    {
+        "text": "section 10.2(a)(iii",
+        "label": "LAW",
+        "start": 175512,
+        "end": 175531
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 175789,
+        "end": 175793
+    },
+    {
+        "text": "the spinco group",
+        "label": "ORG",
+        "start": 176103,
+        "end": 176119
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 176326,
+        "end": 176331
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 176473,
+        "end": 176479
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 176481,
+        "end": 176489
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 176522,
+        "end": 176527
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 176582,
+        "end": 176587
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 176636,
+        "end": 176641
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 176877,
+        "end": 176882
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 177533,
+        "end": 177538
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 177626,
+        "end": 177631
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 177694,
+        "end": 177697
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 177720,
+        "end": 177730
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 177732,
+        "end": 177737
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 177740,
+        "end": 177749
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 177908,
+        "end": 177913
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 178055,
+        "end": 178071
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 178188,
+        "end": 178193
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 178364,
+        "end": 178369
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 178559,
+        "end": 178564
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 178914,
+        "end": 178919
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 179079,
+        "end": 179082
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 179642,
+        "end": 179647
+    },
+    {
+        "text": "section 10.3(b",
+        "label": "DATE",
+        "start": 179725,
+        "end": 179739
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 179789,
+        "end": 179794
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 180012,
+        "end": 180017
+    },
+    {
+        "text": "10.3(b",
+        "label": "DATE",
+        "start": 180103,
+        "end": 180109
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 180225,
+        "end": 180230
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 180562,
+        "end": 180567
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 180729,
+        "end": 180734
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 181299,
+        "end": 181304
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 181331,
+        "end": 181341
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 181343,
+        "end": 181348
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 181351,
+        "end": 181360
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 181361,
+        "end": 181365
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 181423,
+        "end": 181428
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 181503,
+        "end": 181515
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 181522,
+        "end": 181527
+    },
+    {
+        "text": "section 10.2",
+        "label": "LAW",
+        "start": 181602,
+        "end": 181614
+    },
+    {
+        "text": "section 13",
+        "label": "LAW",
+        "start": 181766,
+        "end": 181776
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 181980,
+        "end": 181992
+    },
+    {
+        "text": "section 10.2",
+        "label": "LAW",
+        "start": 181996,
+        "end": 182008
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 182062,
+        "end": 182068
+    },
+    {
+        "text": "12) month",
+        "label": "DATE",
+        "start": 182070,
+        "end": 182079
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 182141,
+        "end": 182147
+    },
+    {
+        "text": "12) month",
+        "label": "DATE",
+        "start": 182149,
+        "end": 182158
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 182362,
+        "end": 182368
+    },
+    {
+        "text": "12) month",
+        "label": "DATE",
+        "start": 182370,
+        "end": 182379
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 182697,
+        "end": 182703
+    },
+    {
+        "text": "12) months",
+        "label": "DATE",
+        "start": 182705,
+        "end": 182715
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 182898,
+        "end": 182904
+    },
+    {
+        "text": "12) months",
+        "label": "DATE",
+        "start": 182906,
+        "end": 182916
+    },
+    {
+        "text": "section 13",
+        "label": "LAW",
+        "start": 183156,
+        "end": 183166
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 183477,
+        "end": 183482
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 183502,
+        "end": 183514
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 183526,
+        "end": 183530
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 184101,
+        "end": 184111
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 184113,
+        "end": 184118
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 184121,
+        "end": 184130
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 184131,
+        "end": 184135
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 185839,
+        "end": 185844
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 185930,
+        "end": 185935
+    },
+    {
+        "text": "section 10",
+        "label": "LAW",
+        "start": 186483,
+        "end": 186493
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 187004,
+        "end": 187014
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 187016,
+        "end": 187021
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 187024,
+        "end": 187033
+    },
+    {
+        "text": "10.6",
+        "label": "CARDINAL",
+        "start": 187034,
+        "end": 187038
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 187254,
+        "end": 187259
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 187261,
+        "end": 187269
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 188097,
+        "end": 188102
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 188368,
+        "end": 188373
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 188487,
+        "end": 188492
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 188725,
+        "end": 188730
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 188792,
+        "end": 188797
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 189926,
+        "end": 189931
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 189958,
+        "end": 189968
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 189970,
+        "end": 189975
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 189978,
+        "end": 189987
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 189988,
+        "end": 189990
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 190003,
+        "end": 190007
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 190782,
+        "end": 190790
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 190804,
+        "end": 190808
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 191369,
+        "end": 191386
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 191438,
+        "end": 191455
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 191818,
+        "end": 191822
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 192340,
+        "end": 192350
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 192352,
+        "end": 192357
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 192360,
+        "end": 192369
+    },
+    {
+        "text": "2,000,000",
+        "label": "CARDINAL",
+        "start": 192651,
+        "end": 192660
+    },
+    {
+        "text": "2,000,000",
+        "label": "CARDINAL",
+        "start": 193048,
+        "end": 193057
+    },
+    {
+        "text": "less than 3,000,000",
+        "label": "CARDINAL",
+        "start": 193382,
+        "end": 193401
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 193738,
+        "end": 193740
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 193803,
+        "end": 193807
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 194262,
+        "end": 194267
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 194795,
+        "end": 194805
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 194807,
+        "end": 194812
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 194815,
+        "end": 194824
+    },
+    {
+        "text": "section 12",
+        "label": "LAW",
+        "start": 195432,
+        "end": 195442
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 195489,
+        "end": 195496
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 196180,
+        "end": 196187
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 196398,
+        "end": 196405
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 196597,
+        "end": 196604
+    },
+    {
+        "text": "no less than sixty",
+        "label": "CARDINAL",
+        "start": 196834,
+        "end": 196852
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 196854,
+        "end": 196862
+    },
+    {
+        "text": "60) day",
+        "label": "DATE",
+        "start": 197336,
+        "end": 197343
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 197677,
+        "end": 197680
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 197833,
+        "end": 197843
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 197845,
+        "end": 197850
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 197853,
+        "end": 197862
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 198278,
+        "end": 198282
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 198570,
+        "end": 198574
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 199192,
+        "end": 199196
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 199226,
+        "end": 199230
+    },
+    {
+        "text": "the first quarter of each fiscal year",
+        "label": "DATE",
+        "start": 199522,
+        "end": 199559
+    },
+    {
+        "text": "the previous calendar year",
+        "label": "DATE",
+        "start": 199706,
+        "end": 199732
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 200400,
+        "end": 200406
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 200581,
+        "end": 200587
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 200620,
+        "end": 200630
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 200632,
+        "end": 200637
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 200640,
+        "end": 200649
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 200650,
+        "end": 200652
+    },
+    {
+        "text": "section 6.08",
+        "label": "LAW",
+        "start": 200839,
+        "end": 200851
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 200912,
+        "end": 200914
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 200939,
+        "end": 200943
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 201402,
+        "end": 201407
+    },
+    {
+        "text": "14.2",
+        "label": "CARDINAL",
+        "start": 201627,
+        "end": 201631
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 201900,
+        "end": 201906
+    },
+    {
+        "text": "tpat",
+        "label": "GPE",
+        "start": 202049,
+        "end": 202053
+    },
+    {
+        "text": "manufacturer agrees",
+        "label": "PERSON",
+        "start": 202055,
+        "end": 202074
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 202118,
+        "end": 202124
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 203021,
+        "end": 203027
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 203031,
+        "end": 203037
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 203222,
+        "end": 203239
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 203241,
+        "end": 203247
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 203251,
+        "end": 203257
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 203272,
+        "end": 203282
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 203284,
+        "end": 203289
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 203292,
+        "end": 203301
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 203302,
+        "end": 203304
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 203326,
+        "end": 203330
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 203819,
+        "end": 203824
+    },
+    {
+        "text": "3) years",
+        "label": "DATE",
+        "start": 203826,
+        "end": 203834
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 204124,
+        "end": 204128
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 204441,
+        "end": 204462
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 204554,
+        "end": 204555
+    },
+    {
+        "text": "section 3.4",
+        "label": "LAW",
+        "start": 205101,
+        "end": 205112
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 205262,
+        "end": 205270
+    },
+    {
+        "text": "greater than five percent",
+        "label": "PERCENT",
+        "start": 205399,
+        "end": 205424
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 205426,
+        "end": 205427
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 205566,
+        "end": 205571
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 205793,
+        "end": 205801
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 206038,
+        "end": 206048
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 206050,
+        "end": 206055
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 206058,
+        "end": 206067
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 206068,
+        "end": 206070
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 206275,
+        "end": 206278
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 206280,
+        "end": 206281
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 206306,
+        "end": 206313
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 206322,
+        "end": 206331
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 206568,
+        "end": 206577
+    },
+    {
+        "text": "the same day",
+        "label": "DATE",
+        "start": 206668,
+        "end": 206680
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 207596,
+        "end": 207598
+    },
+    {
+        "text": "17.1",
+        "label": "CARDINAL",
+        "start": 207615,
+        "end": 207619
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 208323,
+        "end": 208333
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 208335,
+        "end": 208340
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 208343,
+        "end": 208352
+    },
+    {
+        "text": "17.2",
+        "label": "CARDINAL",
+        "start": 208353,
+        "end": 208357
+    },
+    {
+        "text": "17.2",
+        "label": "CARDINAL",
+        "start": 208946,
+        "end": 208950
+    },
+    {
+        "text": "17.3",
+        "label": "CARDINAL",
+        "start": 209059,
+        "end": 209063
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 209360,
+        "end": 209368
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 209658,
+        "end": 209666
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 209810,
+        "end": 209818
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 209866,
+        "end": 209883
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 209919,
+        "end": 209927
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 210802,
+        "end": 210810
+    },
+    {
+        "text": "section 16",
+        "label": "LAW",
+        "start": 210909,
+        "end": 210919
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 211050,
+        "end": 211060
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 211062,
+        "end": 211067
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 211070,
+        "end": 211079
+    },
+    {
+        "text": "17.4",
+        "label": "CARDINAL",
+        "start": 212039,
+        "end": 212043
+    },
+    {
+        "text": "17.5",
+        "label": "CARDINAL",
+        "start": 212805,
+        "end": 212809
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 213252,
+        "end": 213255
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 213535,
+        "end": 213545
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 213547,
+        "end": 213552
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 213555,
+        "end": 213564
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 213707,
+        "end": 213712
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 213978,
+        "end": 213983
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 214433,
+        "end": 214438
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 214538,
+        "end": 214543
+    },
+    {
+        "text": "17.6",
+        "label": "CARDINAL",
+        "start": 215567,
+        "end": 215571
+    },
+    {
+        "text": "section 2.5(a",
+        "label": "LAW",
+        "start": 215631,
+        "end": 215644
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 216588,
+        "end": 216598
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 216600,
+        "end": 216605
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 216608,
+        "end": 216617
+    },
+    {
+        "text": "at least sixty",
+        "label": "CARDINAL",
+        "start": 216762,
+        "end": 216776
+    },
+    {
+        "text": "17.7",
+        "label": "CARDINAL",
+        "start": 217056,
+        "end": 217060
+    },
+    {
+        "text": "17.8",
+        "label": "CARDINAL",
+        "start": 217898,
+        "end": 217902
+    },
+    {
+        "text": "17.9",
+        "label": "CARDINAL",
+        "start": 218565,
+        "end": 218569
+    },
+    {
+        "text": "17.10",
+        "label": "CARDINAL",
+        "start": 218766,
+        "end": 218771
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 219276,
+        "end": 219286
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 219288,
+        "end": 219293
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 219296,
+        "end": 219305
+    },
+    {
+        "text": "17.11",
+        "label": "CARDINAL",
+        "start": 219306,
+        "end": 219311
+    },
+    {
+        "text": "section 1",
+        "label": "LAW",
+        "start": 219540,
+        "end": 219549
+    },
+    {
+        "text": "limitation”;",
+        "label": "PERSON",
+        "start": 220435,
+        "end": 220447
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 221232,
+        "end": 221236
+    },
+    {
+        "text": "a business day",
+        "label": "DATE",
+        "start": 221376,
+        "end": 221390
+    },
+    {
+        "text": "the next business day",
+        "label": "DATE",
+        "start": 221431,
+        "end": 221452
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 221995,
+        "end": 222005
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 222007,
+        "end": 222012
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 222015,
+        "end": 222024
+    },
+    {
+        "text": "17.12",
+        "label": "CARDINAL",
+        "start": 222025,
+        "end": 222030
+    },
+    {
+        "text": "17.13",
+        "label": "CARDINAL",
+        "start": 222564,
+        "end": 222569
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 222618,
+        "end": 222621
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 222623,
+        "end": 222624
+    },
+    {
+        "text": "17.14",
+        "label": "CARDINAL",
+        "start": 222954,
+        "end": 222959
+    },
+    {
+        "text": "17.15",
+        "label": "CARDINAL",
+        "start": 223294,
+        "end": 223299
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 223912,
+        "end": 223922
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 223924,
+        "end": 223929
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 223932,
+        "end": 223941
+    },
+    {
+        "text": "pfizer inc.",
+        "label": "ORG",
+        "start": 224090,
+        "end": 224101
+    },
+    {
+        "text": "upjohn inc",
+        "label": "ORG",
+        "start": 224199,
+        "end": 224209
+    },
+    {
+        "text": "10-12",
+        "label": "CARDINAL",
+        "start": 224211,
+        "end": 224216
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 224219,
+        "end": 224228
+    }
+]

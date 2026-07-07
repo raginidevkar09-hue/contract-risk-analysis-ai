@@ -1,0 +1,770 @@
+[
+    {
+        "chunk_id": 1,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "exhibit 10.5\ncertain confidential information contained in this document, marked by [……], has been omitted because\nartara therapeutics, inc. has determined the information (i) is not material and (ii) would likely cause\ncompetitive harm to artara therapeutics, inc. if publicly disclosed.\nsponsored research and license agreement\nthis sponsored research and license agreement (this “agreement”) is entered into on november 28, 2018 (the “effective date”), by and"
+    },
+    {
+        "chunk_id": 2,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "between artara, inc. located at 1 little west 12th street, new york, ny 10014 (“artara”), and the university of iowa, located at c/o division of\nsponsored programs, 2 gilmore hall, iowa city, ia 52242 (“university”). artara and university may individually be referred to herein as a “party,”\nand collectively as “parties.”\nwi t n e s s e t h:\nwhereas, artara is engaged in the development of pharmaceutical products for the treatment of serious rare diseases;"
+    },
+    {
+        "chunk_id": 3,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "whereas, university is engaged in clinical research to improve the diagnosis and treatment of lymphangioma (lm) using ok-432 (as\ndefined below), a pharmaceutical product not approved by regulatory authorities in the united states;\nwhereas, university is engaged in a clinical research program (as defined below) and with chugai pharmaceutical co., ltd., 1-1\nnihonbashi 2-chome, chuo-ku, tokyo, 103-8324 japan, and its wholly-owned subsidiary, chugai pharma u.s.a, llc 300 connell drive, suite"
+    },
+    {
+        "chunk_id": 4,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "3100, berkeley heights, new jersey 07922 (collectively “chugai”), the product manufacturer;\nwhereas, principal investigator (as defined below) of the program is an employee of the university and holds the ind (as defined\nbelow) approved by the fda (as defined below) for ok-432 under bb-ind5266;\nwhereas, artara wishes to develop and submit for regulatory approval, tara-002, a proposed product that will be biosimilar to ok-\n432;"
+    },
+    {
+        "chunk_id": 5,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "432;\nwhereas, artara wishes to use the program data (as defined below) collected from the program, conduct research analysis of the data\nand potentially rely on said program data to support regulatory approvals (as defined below) for tara-002 in the territory (as defined below);\nand\nwhereas, the copying, review and analysis of program data for the project (as defined below) contemplated by this agreement is of\nmutual interest and benefit to university and artara."
+    },
+    {
+        "chunk_id": 6,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "mutual interest and benefit to university and artara.\nnow, therefore, in consideration of the foregoing premises and the mutual covenants and agreements contained herein, the parties\nagree as follows:\narticle one\ndefinitions\n1.1\n“affiliates” of a person or entity means any other entity which (directly or indirectly) is controlled by, controls or is under common control"
+    },
+    {
+        "chunk_id": 7,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "with such person or entity. for the purposes of this definition, the term “control” (including, with correlative meanings, the terms\n“controlled by” and “under common control with”) as used with respect to an entity will mean (i) in the case of a corporate entity, direct or\nindirect ownership of voting securities entitled to cast at least fifty percent (50) of the votes in the election of directors, or (ii) in the case"
+    },
+    {
+        "chunk_id": 8,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "of a non-corporate entity, direct or indirect ownership of at least fifty percent (50) of the equity interests with the power to direct the\nmanagement and policies of such entity, provided that if local law restricts foreign ownership, control will be established by direct or\nindirect ownership of the maximum ownership percentage that may, under such local law, be owned by foreign interests."
+    },
+    {
+        "chunk_id": 9,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\n1.2\n“cro” means a contract research organization selected by artara to assist in the project as approved by the university and/or principal\ninvestigator, such approval not to be unreasonably delayed or withheld.\n1.3\n“fda” means the united states food and drug administration.\n1.4\n“field” means all therapeutic, diagnostic and prophylactic uses of the product(s).\n1.5"
+    },
+    {
+        "chunk_id": 10,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "1.4\n“field” means all therapeutic, diagnostic and prophylactic uses of the product(s).\n1.5\n“first commercial sale” means the first sale for use or consumption for which revenue has been recognized of product in a country or\nterritory after all required regulatory approvals for commercial sale of product have been obtained in such country or territory.\n1.6\n“ich-gcp’s” means the international conference on harmonization and good clinical practice guidelines as adopted in the applicable"
+    },
+    {
+        "chunk_id": 11,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "fda regulations.\n1.7\n“indication” means treatment of lymphangioma (also known as lymphatic malformations) in humans.\n1.8\n“ind” means university filed investigational new drug application on file with the fda (bb-ind5266) for ok-432 for the indication.\n1.9\n“net sales” means, with respect to the product, the gross invoiced sales price payable to artara and/or its affiliates and their respective\nlicensees and sublicensees for sales anywhere in the world of the product to a third party, less:"
+    },
+    {
+        "chunk_id": 12,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "licensees and sublicensees for sales anywhere in the world of the product to a third party, less:\n(a) discounts (including cash, quantity and patient program discounts), retroactive price reductions, charge-back payments and\nrebates granted to managed health care organizations or to federal, state and local governments, their agencies, and\npurchasers and reimbursers or to trade customers;"
+    },
+    {
+        "chunk_id": 13,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "purchasers and reimbursers or to trade customers;\n(b) credits or allowances actually, not to exceed the original invoice amount, granted upon claims, damaged goods, rejections or\nreturns of the product, including the product returned in connection with recalls or withdrawals;\n(c) freight out, postage, shipping and insurance charges for delivery of the product if charged separately and include in the gross\nreceipts; and"
+    },
+    {
+        "chunk_id": 14,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "receipts; and\n(d) taxes or duties, excluding income taxes and value-added taxes, levied on, absorbed or otherwise imposed on the sale of the\nproduct, including governmental charges otherwise imposed upon the billed amount, as adjusted for rebates and refunds,\nprovided that such are included in gross receipts and are paid to and/or its affiliates and their respective licensees and\nsublicensees."
+    },
+    {
+        "chunk_id": 15,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\nnet sales shall be determined in accordance with generally accepted accounting principles, consistently applied.\n1.10\n“ok-432” means picibanil (ok-432), a lyophilized mixture of group a streptococcus pyogenes developed by chugai and that has been\napproved by applicable japanese pharmaceutical regulatory authorities for the treatment of the indication.\n1.11\n“principal investigator” means richard smith, md\n1.12"
+    },
+    {
+        "chunk_id": 16,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "1.11\n“principal investigator” means richard smith, md\n1.12\n“product” shall mean tara-002 and any similar products.\n1.13\n“program” means collectively, the clinical research studies investigating the efficacy and safety of ok-432 for the indication conducted\nby principal investigator in collaboration with multiple sites in the united states and the university expanded access program performed\nby principal investigator designed to improve the diagnosis and treatment of the indication using ok-432."
+    },
+    {
+        "chunk_id": 17,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "1.14\n“program data” means the data set forth on exhibit a including all case reports forms, source data, and safety data in the possession of\nor available to university arising from the program and any other data and information included in the ind.\n1.15\n“project” shall mean the compilation and available statistical analyses of the program data as described in the project plan, which is\nsummarized in section 2.2.\n1.16"
+    },
+    {
+        "chunk_id": 18,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "summarized in section 2.2.\n1.16\n“project documentation” shall mean the documentation created and generated by artara and cro in the conduct of the project that\nincorporates or is based upon program data.\n1.17\n“project plan” means the plan for the project mutually agreed upon by the parties as summarized in section 2.2.\n1.18\n“right of reference” means the authority to rely upon, and otherwise use, an investigation for the purpose of obtaining regulatory"
+    },
+    {
+        "chunk_id": 19,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "approvals, including the ability to make available the underlying raw (source) data from the investigation for audit, if necessary.\n1.19\n“regulatory approvals” means the medical, technical and scientific licenses, registrations, authorizations and approvals (including\nwithout limitation, approvals of ind’s, new drug applications (“nda’s”) and equivalents, supplements and amendments, pre- and post-"
+    },
+    {
+        "chunk_id": 20,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "approvals, pricing and third-party reimbursements approvals and labeling approvals) for the development and commercialization of\npharmaceutical products.\n1.20\n“regulatory authorities” means any applicable national, regional, state or local regulatory agency, department, bureau, commission,\ncouncil or other governmental entity, necessary for the development, manufacture, distribution, marketing, promotion, offer for sale, use,"
+    },
+    {
+        "chunk_id": 21,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "import, export or sale of a pharmaceutical product in a regulatory jurisdiction.\n1.21\n“regulatory filings” means collectively, ind’s, product license applications, drug master files, nda’s, biological license applications\n(“blas”) including supportive and annual filings and/or any other equivalent or comparable filings as may be required by regulatory\nauthorities to obtain regulatory approvals.\n1.22"
+    },
+    {
+        "chunk_id": 22,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "authorities to obtain regulatory approvals.\n1.22\n“royalty” means the royalty on net sales of product in the indication, as set forth in article three below."
+    },
+    {
+        "chunk_id": 23,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\n1.23\n“tara-002” means the artara pharmaceutical product intended to be similar to or biosimilar to ok-432.\n1.24\n“territory” means worldwide.\narticle two\nproject\n2.1 performance of project. the university and/or principal investigator together with artara and the cro will conduct the project in accordance"
+    },
+    {
+        "chunk_id": 24,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "with the project plan and will use all reasonable endeavors consistent with their expertise to successfully complete the project. it is the goal of the\nproject to use the program data as clinical support for product regulatory filings and to gain approval to commercialize the product for the\nindication in the territory.\n2.2 project plan. the project plan as approved by each of the parties may be modified or amended only upon mutual agreement of each of the"
+    },
+    {
+        "chunk_id": 25,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "parties. the project will consist of three phases:\n(a) phase i: university and/or principal investigator will provide access to the program data to artara and the cro at the\nuniversity’s facilities. artara and the cro will be allowed to make complete copies of the original program data for the\npurposes of off-site data entry and storage, all as and only to the extent needed to support artara’s efforts to accomplish the"
+    },
+    {
+        "chunk_id": 26,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "project. university will provide artara and cro the opportunity to examine the originals of medical records and supporting\nrecords for the program data at the university during normal business hours and at mutually agreeable times. university and\nprincipal investigator will also provide to artara contact information for other participating investigators and research sites\nthat have contributed data to the program. university will retain all program data for the sooner to occur of a new drug"
+    },
+    {
+        "chunk_id": 27,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "application (nda) for the product being approved or ten (10) years from the effective date. artara will bear any costs related\nto necessary long-term on or off-site storage of the program data, medical records and/or supporting records. artara\nunderstands that separate engagement agreements may be required by collaborating third party entities and associated\nprincipal investigators and university will assist artara in obtaining such agreements. it is understood that the goal of phase"
+    },
+    {
+        "chunk_id": 28,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "i is a feasibility analysis of the program data to support regulatory filings in the united states.\n(b) phase ii: university recognizes that because of artara’s unfamiliarity with the program data database, assistance from the\nprincipal investigator and other research and medical employees of the university may from time to time be\nneeded for artara to query and analyze the program data database as needed to achieve successful presentation to"
+    },
+    {
+        "chunk_id": 29,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "applicable regulatory authorities and submission of regulatory filings. artara will endeavor to minimize university\nresources required during phase ii. the goal of phase ii will be to compile the project documentation.\n(c) phase iii: cro will convert program data to ectd format for submission to regulatory authorities. university recognizes\nthat artara may receive specific data requests from regulatory authorities in connection with artara’s presentations of"
+    },
+    {
+        "chunk_id": 30,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "program data to support regulatory filings. university will assist artara in responding to such requests for data or access to\nsource data from regulatory authorities. artara agrees to notify university of such requests as soon as is practicable. the\ngoal of phase iii will be filing of a bla based on project documentation and response to regulatory authorities."
+    },
+    {
+        "chunk_id": 31,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\n(d) phase iv optional: upon mutual written agreement of university and artara, artara may sponsor, and university may\nconduct, new product or product-related clinical studies (for example, follow-up studies) to support the goal of the project or\nas may be useful for gaining or maintaining regulatory approvals for the product for the indication. any such studies will be"
+    },
+    {
+        "chunk_id": 32,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "at the sole discretion of each party subject to terms and conditions to be mutually agreed upon in agreements separate from\nthis agreement. richard smith, md will be given first consideration as a principal investigator for all new product or product-\nrelated clinical studies, in addition to other sites provided final site selection will be based on the best interest of the project."
+    },
+    {
+        "chunk_id": 33,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "(e) phase v: publication: collected data from the project will be used to write a paper by the university and/or principal\ninvestigator (the “publication”) as a follow up to the publication in 2009 (smith mc, zimmerman mb, burke dk, bauman\nnm, sato y, smith rj; ok-432 collaborative study group. efficacy and safety of ok-432 immunotherapy of lymphatic\nmalformations. laryngoscope. 2009jan;119(1):107-15. doi: 10.1002/lary.20041. pubmed pmid: 19117316). (the"
+    },
+    {
+        "chunk_id": 34,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "“publication”). the publication will be in accordance with the terms in article 5 herein.\n2.3 project management. during the term of this agreement, the principal investigator and and/or his authorized representative and artara\nauthorized representatives will meet as necessary to consult with one another and discuss the progress and results of the project and any"
+    },
+    {
+        "chunk_id": 35,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "modifications to the project plan. consultation by either party shall be by means of personal visits, correspondence and telephone calls, all as\nappear reasonable and necessary and are mutually agreed upon by the principal investigator and artara.\narticle three\nfunding and payment\n3.1 funding. during the term of the project in accordance with the project plan, artara will provide thirty thousand dollars (us 30,000) per year in"
+    },
+    {
+        "chunk_id": 36,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "funding for the project, taking into consideration the time spent by university employees required for the project. the parties agree to discuss in\ngood faith potential additional funding required for completion of the project as applicable and necessary.\n3.2 approval milestone based on data value: within forty-five (45) days of an approval of the tara-002 bla by the fda, artara will pay a one-"
+    },
+    {
+        "chunk_id": 37,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "time approval milestone to university pursuant to the usefulness of the program data in tara-002’s bla filing, as set forth below:\nofficial feedback from fda regarding the program data\nmilestone\n[……]\n[……]\n[……]\n[……]\n[……]\n[……]\n[……]\n[……]"
+    },
+    {
+        "chunk_id": 38,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\n3.3 royalties. royalties will be payable by artara on net sales of product in the indication. artara will, no later than [……] following the close\nof each calendar quarter, pay tiered royalties based on annual net sales of product in the indication as set forth below:\nannual net sales of product for the\nindication\nannual royalty rate percent net\nsales\n0 - 25,000,000\n1.75\n>25,000,000 - 50,000,000\n2.25\n>50,000,000\n2.50"
+    },
+    {
+        "chunk_id": 39,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "sales\n0 - 25,000,000\n1.75\n>25,000,000 - 50,000,000\n2.25\n>50,000,000\n2.50\n3.4 royalty reduction. in the event the regulatory authorities determine that the program data is not sufficient for regulatory approvals on its\nown and additional pediatric efficacy and safety clinical studies are required, royalties set forth above will be reduced by [……] percent ([…\n…])."
+    },
+    {
+        "chunk_id": 40,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "…]).\n3.5 sales milestone payments. in the event that annual net sales, as detailed in section 3.3, surpass certain thresholds, artara will make the\nfollowing payments no later than [……] following the close of the calendar quarter in which each milestone is reached as set forth below:\nannual net sales of product for the \nindication exceeds\nmilestone payment\n25,000,000\n62,500\n50,000,000\n62,500\n100,000,000\n125,000\n3.6 payments."
+    },
+    {
+        "chunk_id": 41,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "milestone payment\n25,000,000\n62,500\n50,000,000\n62,500\n100,000,000\n125,000\n3.6 payments.\nall payments under articles 3.2, 3.3 and 3.5 shall be sent to the following address:\nchecks will be sent to:\nthe university of iowa research foundation\nattn: accounting\n6 gilmore hall\n112 north capitol st.\niowa city, ia 52242-5500\nwire transfers will be sent to:\n[……]"
+    },
+    {
+        "chunk_id": 42,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\nartara will include the university of iowa research foundation agreement number 2019- 068, a reference to “richard smith, md, artara\nsponsored research and license agreement dated november 28, 2018” and purpose of payment with all payments. artara will add all applicable\nwire transfer fees to wire transfer payments.\nall other payments shall be sent to the following address:\nthe university of iowa\nc/o grant accounting office\n118 s. clinton st."
+    },
+    {
+        "chunk_id": 43,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "the university of iowa\nc/o grant accounting office\n118 s. clinton st.\niowa city, ia 52242\narticle four\ndata and intellectual property\n4.1\nprogram data and project documentation.\n(a) program data. access to all original program data shall be provided to artara and the cro at university’s facilities in accordance\nwith the project plan for the purposes of review and copying as and only to the extent needed to support artara’s efforts to accomplish"
+    },
+    {
+        "chunk_id": 44,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "the project. as between artara and the university, ownership of all program data is hereby retained by the university.\n(b) project documentation. all project documentation shall be owned by artara to the extent publishable in accordance with section 5\nherein, except that ownership of any and all program data incorporated into project documentation shall as between artara and the"
+    },
+    {
+        "chunk_id": 45,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "university remain with the university. university may use all project documentation without royalty obligation for patient care and for its\nown internal teaching, research, and educational purposes, for publication to the extent permitted under section 5 herein, and for the\npurpose of complying with any federal, state, or local laws or regulations. all medical records that support the program data and project\ndocumentation shall remain the property of the university.\n4.2"
+    },
+    {
+        "chunk_id": 46,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "documentation shall remain the property of the university.\n4.2\nlicense. university hereby grants to artara an exclusive license to use the program data solely for the project and in regulatory filings\nin the field in the territory.\n4.3\nright of reference and ind assignment. university hereby grants to artara an exclusive right of reference to all program regulatory\nfilings by university in support of the product. upon written request of artara, university will assign the ind to artara.\n4.4"
+    },
+    {
+        "chunk_id": 47,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "4.4\nintellectual property. all intellectual property or patentable inventions arising out of or in connection with the project which is\ndiscovered or invented solely by the university and/or principal investigator shall be the exclusive property of the university (“university\nintellectual property”). all intellectual property or patentable inventions arising out of or in connection with the project which is"
+    },
+    {
+        "chunk_id": 48,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "discovered or invented solely by or on behalf of artara shall be the exclusive property of artara. all intellectual property or patentable\ninventions arising out of or in connection with the project that are discovered or invented jointly by principal investigator and artara\nshall be considered joint intellectual property and shall be jointly owned by the university and artara."
+    },
+    {
+        "chunk_id": 49,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\narticle five\nconfidential information; publication\n5.1 confidentiality. during the term of this agreement and for a period of seven (7) years after its termination or expiration each party (the\n“receiving party”) shall maintain in confidence and, except as authorized by this agreement, not use any know-how, data, processes, techniques,"
+    },
+    {
+        "chunk_id": 50,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "formulas, test data and other information disclosed by the other party (the “disclosing party”) and which for any of the foregoing, if written, is\nmarked “confidential” by the disclosing party or, if verbal or visual, is identified in writing as “confidential” at the time of disclosure and reduced\nto writing by the disclosing party within thirty (30) days of the verbal or visual disclosure (“confidential information”)."
+    },
+    {
+        "chunk_id": 51,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "5.2 exceptions. the obligations of confidentiality and non-use set forth in paragraph 5.1 shall not apply to the extent that it can be established by\nreceiving party that the information:\n(a) was already known to receiving party without restriction at the time of disclosure;\n(b) was generally available to the public or otherwise part of the public domain at the time of its disclosure;"
+    },
+    {
+        "chunk_id": 52,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "(c) became generally available to the public or otherwise part of the public domain after its disclosure to receiving party through no\nbreach of this agreement by receiving party;\n(d) was disclosed to receiving party without restriction by a third party who had no known obligation to not to disclose such information;\n(e) was independently developed by receiving party without the use of confidential information;\n(f) was required to be disclosed by operation of law or court order; or"
+    },
+    {
+        "chunk_id": 53,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "(f) was required to be disclosed by operation of law or court order; or\n(g) disclosing party gave prior written consent to receiving party to disclose such confidential information.\n5.3 return of confidential information. in the event the disclosing party requests in writing the return of confidential information, the receiving\nparty shall return such confidential information to disclosing party with the exception of one copy, which may be retained for archival purposes."
+    },
+    {
+        "chunk_id": 54,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "5.4 publication. the university and artara each agree to treat matters of authorship of the publication in a proper collaborative spirit and following\nguidelines and policies in accordance with the university of iowa’s operations manual which may be found at: https://opsmanual.uiowa.edu/.\nit is anticipated that employees of the university will be first and senior authors on the publication, but it is understood that final authorship will be"
+    },
+    {
+        "chunk_id": 55,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "determined in accordance with all applicable laws and regulations in publication practice, including section 6002 of the affordable care act a/k/a\nsunshine act and with icmje (international committee of medical journal editors) guidelines, standard scientific practice and journal guidelines.\nuniversity and/or principal investigator shall provide artara with a copy of any proposed publication for review and comment at least [……]"
+    },
+    {
+        "chunk_id": 56,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "prior to submission thereof for publication. artara shall have [……], after receipt of said copy to object to such proposed publication because\nthere is confidential information which needs protection. in the event that artara makes such objection, university and/or principal investigator\nshall refrain from submitting such publication for a maximum of [……] from date of receipt of such objection in order for artara to file patent"
+    },
+    {
+        "chunk_id": 57,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "application(s) directed to patentable subject matter contained in the proposed publication. if in its review, artara identifies information it considers\nto be its confidential information, artara may require redaction of that confidential information; provided, however, that artara shall not require\nremoval of information necessary for complete and accurate presentation and interpretation of the program data and results. the publication shall"
+    },
+    {
+        "chunk_id": 58,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "occur within [……] of the date the project is closed or terminated, or university and/or principal investigator shall be free to publish program\ndata and results at that time."
+    },
+    {
+        "chunk_id": 59,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\narticle six\nrepresentations; indemnification\n6.1 representations. university represents:\n(a) the program is being, and has been, conducted in accordance with all applicable local, state and federal laws, and regulations,\nincluding, but not limited to, the federal food, drug and cosmetic act and the regulations of the fda, international conference on"
+    },
+    {
+        "chunk_id": 60,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "harmonization good clinical practices as adopted in the applicable fda regulations (“gcp’s”), and the form fda 1572 statements of\ninvestigators.\n(b) the program is being and has been conducted in accordance with all applicable medical privacy laws or regulations, including without\nlimitation, by obtaining any required subject informed consent to allow artara and artara’s authorized representatives, fda and"
+    },
+    {
+        "chunk_id": 61,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "other regulatory authorities access to and use of enrolled subjects’ medical information as may be necessary for artara to receive\nand use program data under this agreement.\n(c) the clinical studies included in the program are and have been conducted in accordance with the applicable protocol associated with\nthe bb-ind5266 held by the principal investigator.\n(d) university represents that informed consent was required from all individual subjects prior to enrollment in the program, and that the"
+    },
+    {
+        "chunk_id": 62,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "program was approved by the institutional review board of the university.\n(e) university represents that it is authorized to enter into this agreement and that the terms of this agreement are consistent with the\nrules, regulations, policies and/or guidelines of university.\n(f)\nuniversity represents that to the best of its knowledge and belief there are no outstanding agreements or assignments which are\ninconsistent with the rights granted to artara pursuant to article four."
+    },
+    {
+        "chunk_id": 63,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "inconsistent with the rights granted to artara pursuant to article four.\n(g) the parties shall commence performance of the project promptly after the date of last signature of this agreement and shall perform\nthe project in accordance with the current state of the laboratory research art and in accordance with applicable state and federal laws,\nincluding export laws, and regulations."
+    },
+    {
+        "chunk_id": 64,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "including export laws, and regulations.\n(h) university represents to the best of its knowledge, all information provided to artara pursuant to this agreement is accurate in\naccordance with ich-gcp’s.\n(i)\nexcept as otherwise expressly set forth in this agreement, the university makes no representation\nand extends no warranty of any kind, either express or implied, with respect to the subject matter of"
+    },
+    {
+        "chunk_id": 65,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "this agreement. in particular, but without limitation, the university makes no representation and\nextends no warranty concerning whether the program data is accurate or complete. the parties\nrecognize and agree that all program data, and related materials, documents, and other\ninformation, the university makes available to artara at any time in connection with this\nagreement, are made available to artara as an accommodation, and without representation or"
+    },
+    {
+        "chunk_id": 66,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "agreement, are made available to artara as an accommodation, and without representation or\nwarranty of any kind, whether express, implied or statutory, as to the accuracy and completeness of\nsuch materials, documents, and other information. artara expressly agrees that any reliance upon\nor conclusions drawn from the program data shall be at artara’s own risk to the maximum extent\npermitted by law and shall not give rise to any liability of or against the university. artara hereby"
+    },
+    {
+        "chunk_id": 67,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "waives and releases any claims arising under this agreement, common law or any statute arising\nout of any program data, related materials, documents or information provided to it by the\nuniversity."
+    },
+    {
+        "chunk_id": 68,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\n(j)\nuniversity represents, to the best of its knowledge and belief, that neither it nor any of its officers, directors, employees involved in\nperforming the project is presently debarred pursuant to the generic drug enforcement act of 1992. university shall notify artara\nupon becoming aware of any inquiry or the commencement of any such investigation or proceeding.\n6.2 representations. artara represents and warrants:"
+    },
+    {
+        "chunk_id": 69,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "6.2 representations. artara represents and warrants:\n(a) it is a company duly organized, existing, and in good standing under the laws of delaware;\n(b) the execution, delivery, and performance of this agreement have been authorized by all necessary corporate action on the part of\nartara and the person signing this agreement on behalf of artara has the authority to do so;"
+    },
+    {
+        "chunk_id": 70,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "artara and the person signing this agreement on behalf of artara has the authority to do so;\n(c) the making, exercising of any right, or performance of any obligation under this agreement does not violate any separate agreement\nit has with a third party, and in so acting, artara will not breach the terms and conditions of this agreement or fail to comply with\napplicable laws, regulations, and court orders;"
+    },
+    {
+        "chunk_id": 71,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "applicable laws, regulations, and court orders;\n(d) it is not a party to any agreement or arrangement that would prevent it from performing its duties and fulfilling its obligations to the\nuniversity under this agreement;\n(e) it has and will maintain at the time specified in article 7 herein, the insurance coverage called for in article 7;\n(f)\nit will obtain any additional licenses from any third party needed to perform and fulfill its duties and obligations under this\nagreement; and"
+    },
+    {
+        "chunk_id": 72,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "agreement; and\n(g) there is no pending litigation and no threatened claims against it that could impair its ability or capacity to perform and fulfill its\nduties and obligations under this agreement.\n6.3 indemnification by artara. to the extent permitted by law, artara agrees to defend, indemnify and hold the university of iowa research\nfoundation, the university, the state of iowa, the university’s board of regents, their respective affiliates, trustees, officers, directors, faculty,"
+    },
+    {
+        "chunk_id": 73,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "staff, students, successors, assigns, independent contractors, agents and employees including but not limited to principal investigator\n(“university indemnitees”), harmless from and against any and all liability, loss, expense, reasonable adjudicated attorneys’ fees, or claims for injury\nor damages arising out of the use of the program data by artara and its affiliates and subcontractors including but not limited to the cro"
+    },
+    {
+        "chunk_id": 74,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "involved in the project, but only in proportion to and to the extent such liability, loss, expense, attorneys’ fees, or claims for injury or damages are\ncaused by or result from the negligent or acts or omissions of artara, its officers, agents, employees, subcontractors, the cro or affiliates."
+    },
+    {
+        "chunk_id": 75,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\n6.4 no consequential damages. in no event shall either party be liable to the other party under this agreement in a\ndirect action between the parties for special, indirect, incidental or consequential damages (including,\nwithout limitation, loss of profits) suffered by the other party.\narticle seven\ninsurance"
+    },
+    {
+        "chunk_id": 76,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "without limitation, loss of profits) suffered by the other party.\narticle seven\ninsurance\n7.1 artara, affiliates, and sublicensees will obtain and maintain commercial general liability insurance with a reputable and financially secure\ninsurance carrier prior to clinical testing, making, using, importing, offering to sell, or selling any licensed product or engaging in any other act"
+    },
+    {
+        "chunk_id": 77,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "involving any licensed product or the patent rights, if such act could possibly create risk of a claim against university indemnitees for personal\ninjury or property damage.\n(a) the insurance will identify university indemnitees as additional insureds and will provide that the carrier will notify university in\nwriting at least [……] prior to cancellation, non-renewal, or material change in coverage. should artara fail to obtain replacement"
+    },
+    {
+        "chunk_id": 78,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "insurance providing comparable coverage within such [……] period, university will have the right to termination this agreement\neffective as of the end of the [……] period without notice or any additional cure period.\n(b) the insurance will include coverage for product liability with a minimum of [……] dollars ([……]) per occurrence and […\n…] dollars ([……]) annual aggregate, coverage for contractual liability, clinical trials liability if any such trial is performed,"
+    },
+    {
+        "chunk_id": 79,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "bodily injury and property damage, including completed operations, personal injury, coverage for contractual employees, blanket\ncontractual and products, and all other coverages standard for such policies. such insurance will additionally include errors and\nomissions insurance with a minimum of [……] dollars ([……]) per occurrence.\n(c) insurance policies purchased to comply with this article seven will be kept in force for at least [……] after the last sale of licensed\nproduct."
+    },
+    {
+        "chunk_id": 80,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "product.\n7.2 at university’s request, such request to be made no more than annually, artara will provide university with a certificate of insurance and\nnotices of subsequent renewals for its insurance and that of affiliates extended rights under this agreement and of sublicensees.\n7.6 the specified minimum coverages and other provisions of this article seven do not constitute a limitation on artara’s obligation to indemnify\nthe university indemnitees under this agreement."
+    },
+    {
+        "chunk_id": 81,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\narticle eight\nterm and termination\n8.1 term. this agreement may be terminated by artara upon thirty (30) days prior written notice to university.\n8.2 termination by either party. either party may terminate the project and all commitments and obligations with respect thereto, subject to section\n8.3 herein, upon thirty (30) days written notice to the other party. in the event of any termination of the project by university, (a) university agrees"
+    },
+    {
+        "chunk_id": 82,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "to complete phase i and ii of the project, and (b) artara will continue to provide annual funding until the completion of phase ii. upon termination\nof the project by artara this agreement will terminate subject to section 8.3 and artara will reassign to university the ind if assignment thereof\npreviously occurred pursuant to section 4.3.\n8.3 survival. termination of the project for any reason shall not relieve any party of any obligation that accrued under this agreement prior to"
+    },
+    {
+        "chunk_id": 83,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "termination. the provisions of article three, article four, article five, sections 6.3 and 6.4, and articles seven through nine shall survive\ntermination of the project by university. the provisions of article five, sections 6.3 and 6.4, article seven, section 8.3 and article nine shall\nsurvive termination of the project and this agreement by artara.\narticle nine\nmiscellaneous"
+    },
+    {
+        "chunk_id": 84,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "survive termination of the project and this agreement by artara.\narticle nine\nmiscellaneous\n9.1 force majeure. university will not be liable for any failure to perform as required by this agreement, if the failure to perform is caused by\ncircumstances reasonably beyond university’s control, such as labor disturbances or labor disputes of any kind, accidents, failure of any"
+    },
+    {
+        "chunk_id": 85,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "governmental approval required for full performance, civil disorders or commotions, acts of aggression, acts of god, energy or other conservation\nmeasures, explosions, failure of utilities, mechanical breakdowns, material shortages, disease, thefts, or other such occurrences.\n9.2 publicity. no party will use directly or by implication the name of any other party, or the name of any employee thereof without prior written"
+    },
+    {
+        "chunk_id": 86,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "notification and agreement of the named party for promotional, marketing or advertising purposes. notwithstanding the foregoing, nothing herein\nshall prevent either party from disclosing the existence of this agreement, the identities of the parties, or the basic nature and scope of the purpose\nof this agreement.\n9.3 notices. any notice required to be given pursuant to this agreement shall be made by personal delivery or, if by mail, then by registered or"
+    },
+    {
+        "chunk_id": 87,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "certified mail, return receipt requested, by one party to the other party at the following addresses.\nin the case of artara, notice should be sent to:\nartara therapeutics\n1 little west 12th street\nny, ny 10014"
+    },
+    {
+        "chunk_id": 88,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\nattention: jesse shefferman\nin the case of university, notice should be sent to:\nthe university of iowa\nc/o division of sponsored programs\n2 gilmore hall\niowa city, ia 52242\nattention: [……]\n9.4 governing law. this agreement shall be governed by the laws of the state of iowa.\n9.5 assignment. no party may assign any rights under this agreement or delegate any duties hereunder without the prior written consent of the\nother party."
+    },
+    {
+        "chunk_id": 89,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "other party.\n9.6 independent contractors. the relationship between artara and the university created by this agreement shall be one of an independent\ncontractor and no party shall have the authority to bind or act as agent for the other party.\n9.7 entire agreement. this agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and"
+    },
+    {
+        "chunk_id": 90,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "supersedes all prior agreements and understandings between the parties (whether written or verbal) relating to said subject matter.\n9.8 severability. whenever possible each provision of this agreement shall be interpreted in such a manner as to be effective and valid under\napplicable law but should any provision of this agreement be held to be prohibited or invalid under applicable law, such provision shall be"
+    },
+    {
+        "chunk_id": 91,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of this agreement. however, if such provision is\ndeemed significant and its invalidity would substantially alter the basis of this agreement, the parties will negotiate in good faith to amend the\nprovisions of this agreement to give effect to the original intent of the parties."
+    },
+    {
+        "chunk_id": 92,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "provisions of this agreement to give effect to the original intent of the parties.\n9.9 waiver. no provision of this agreement shall be waived by any act or omission of the parties or their agents or employees except by an\ninstrument in writing expressly waiving such provision and signed by a duly authorized officer of the waiving party.\n9.10 counterparts. this agreement may be signed in any number of counterparts, including in pdf format, each of which shall be an original, with"
+    },
+    {
+        "chunk_id": 93,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "the same effect as though the signatures hereto and thereto were on the same instrument.\n9.11 section headings. the recitals and descriptive headings of this agreement are for convenience only and shall be of no force or effect in\ninterpreting any of the provisions of this agreement."
+    },
+    {
+        "chunk_id": 94,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\nin witness whereof, the parties have caused this agreement to be duly executed by an authorized official as of the day and year first above\nwritten.\nartara therapeutics, inc.\n/s/ jesse shefferman\nby: jesse shefferman\ntitle: chief executive officer\nthe university of iowa\n/s/ wendy beaver\nby: wendy beaver\ntitle: executive director, division of sponsored programs\nread & acknowledged by principal investigator\n/s/ richard smith"
+    },
+    {
+        "chunk_id": 95,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "read & acknowledged by principal investigator\n/s/ richard smith\nby: richard smith, m.d.\ntitle: professor of otolaryngology head and neck surgery"
+    },
+    {
+        "chunk_id": 96,
+        "document_name": "License Agreement2",
+        "page": null,
+        "section": "Unknown",
+        "contract_type": "Unknown",
+        "text": "source: artara therapeutics, inc., 8-k, 1/10/2020\nexhibit a\nprogram data\n[……]\n\nsource: artara therapeutics, inc., 8-k, 1/10/2020"
+    }
+]

@@ -1,0 +1,1568 @@
+[
+    {
+        "text": "nov 5, 1999",
+        "label": "DATE",
+        "start": 107,
+        "end": 118
+    },
+    {
+        "text": "2165 s. bascom",
+        "label": "QUANTITY",
+        "start": 241,
+        "end": 255
+    },
+    {
+        "text": "campbell",
+        "label": "GPE",
+        "start": 264,
+        "end": 272
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 274,
+        "end": 284
+    },
+    {
+        "text": "95008",
+        "label": "DATE",
+        "start": 285,
+        "end": 290
+    },
+    {
+        "text": "media, inc.",
+        "label": "ORG",
+        "start": 318,
+        "end": 329
+    },
+    {
+        "text": "11440",
+        "label": "DATE",
+        "start": 391,
+        "end": 396
+    },
+    {
+        "text": "170",
+        "label": "CARDINAL",
+        "start": 422,
+        "end": 425
+    },
+    {
+        "text": "san diego",
+        "label": "GPE",
+        "start": 427,
+        "end": 436
+    },
+    {
+        "text": "32127",
+        "label": "CARDINAL",
+        "start": 441,
+        "end": 446
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1076,
+        "end": 1077
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 1092,
+        "end": 1095
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 1563,
+        "end": 1566
+    },
+    {
+        "text": "http://www.spinrecords.com",
+        "label": "CARDINAL",
+        "start": 1800,
+        "end": 1826
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 1829,
+        "end": 1832
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 1923,
+        "end": 1926
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 2208,
+        "end": 2211
+    },
+    {
+        "text": "1.7",
+        "label": "CARDINAL",
+        "start": 2903,
+        "end": 2906
+    },
+    {
+        "text": "1.8",
+        "label": "CARDINAL",
+        "start": 3034,
+        "end": 3037
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3113,
+        "end": 3114
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 3154,
+        "end": 3157
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 3254,
+        "end": 3269
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 3271,
+        "end": 3273
+    },
+    {
+        "text": "11/14/2000",
+        "label": "CARDINAL",
+        "start": 3277,
+        "end": 3287
+    },
+    {
+        "text": "nettaxi",
+        "label": "ORG",
+        "start": 3392,
+        "end": 3399
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 3654,
+        "end": 3657
+    },
+    {
+        "text": "nettaxi shall",
+        "label": "ORG",
+        "start": 3677,
+        "end": 3690
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 4196,
+        "end": 4201
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 4416,
+        "end": 4419
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 4808,
+        "end": 4817
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 4953,
+        "end": 4956
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 5346,
+        "end": 5355
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 5491,
+        "end": 5494
+    },
+    {
+        "text": "more than one",
+        "label": "CARDINAL",
+        "start": 6211,
+        "end": 6224
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 6262,
+        "end": 6263
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 6290,
+        "end": 6293
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 7027,
+        "end": 7030
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 7316,
+        "end": 7319
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 7684,
+        "end": 7699
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 7701,
+        "end": 7703
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 7719,
+        "end": 7722
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 7974,
+        "end": 7975
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 7986,
+        "end": 7989
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 8162,
+        "end": 8163
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 8198,
+        "end": 8201
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 8700,
+        "end": 8703
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 9163,
+        "end": 9166
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 9843,
+        "end": 9844
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 9864,
+        "end": 9867
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 10251,
+        "end": 10254
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 10538,
+        "end": 10544
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 10546,
+        "end": 10554
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10781,
+        "end": 10786
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 11979,
+        "end": 11994
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 11996,
+        "end": 11998
+    },
+    {
+        "text": "11/14/2000",
+        "label": "CARDINAL",
+        "start": 12002,
+        "end": 12012
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 12138,
+        "end": 12143
+    },
+    {
+        "text": "7) days",
+        "label": "DATE",
+        "start": 12145,
+        "end": 12152
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 12175,
+        "end": 12176
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 12218,
+        "end": 12221
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 12690,
+        "end": 12695
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 13348,
+        "end": 13351
+    },
+    {
+        "text": "nettaxi shall",
+        "label": "ORG",
+        "start": 13380,
+        "end": 13393
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 13637,
+        "end": 13638
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 13804,
+        "end": 13809
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 14388,
+        "end": 14391
+    },
+    {
+        "text": "section 6",
+        "label": "LAW",
+        "start": 14440,
+        "end": 14449
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 14454,
+        "end": 14457
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 14752,
+        "end": 14753
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 14921,
+        "end": 14924
+    },
+    {
+        "text": "1) year",
+        "label": "DATE",
+        "start": 14926,
+        "end": 14933
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 14996,
+        "end": 14999
+    },
+    {
+        "text": "1) year",
+        "label": "DATE",
+        "start": 15001,
+        "end": 15008
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 15058,
+        "end": 15061
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 15203,
+        "end": 15211
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 15506,
+        "end": 15514
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 15549,
+        "end": 15552
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 16192,
+        "end": 16197
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 16199,
+        "end": 16201
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 16255,
+        "end": 16270
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 16272,
+        "end": 16274
+    },
+    {
+        "text": "11/14/2000",
+        "label": "CARDINAL",
+        "start": 16278,
+        "end": 16288
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 16391,
+        "end": 16404
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 16406,
+        "end": 16408
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "PERCENT",
+        "start": 16921,
+        "end": 16937
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 17125,
+        "end": 17126
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 17184,
+        "end": 17185
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 17485,
+        "end": 17488
+    },
+    {
+        "text": "ten (10) days\n ",
+        "label": "DATE",
+        "start": 17540,
+        "end": 17555
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 18092,
+        "end": 18093
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 18110,
+        "end": 18113
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 18499,
+        "end": 18502
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18959,
+        "end": 18964
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 19285,
+        "end": 19288
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 19992,
+        "end": 19995
+    },
+    {
+        "text": "9.6",
+        "label": "CARDINAL",
+        "start": 20201,
+        "end": 20204
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 20367,
+        "end": 20382
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 20384,
+        "end": 20386
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 20424,
+        "end": 20433
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 20478,
+        "end": 20483
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 20551,
+        "end": 20556
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 20677,
+        "end": 20682
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 20684,
+        "end": 20685
+    },
+    {
+        "text": "the next day",
+        "label": "DATE",
+        "start": 20748,
+        "end": 20760
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 20772,
+        "end": 20781
+    },
+    {
+        "text": "the same day",
+        "label": "DATE",
+        "start": 20797,
+        "end": 20809
+    },
+    {
+        "text": "9.7",
+        "label": "CARDINAL",
+        "start": 20866,
+        "end": 20869
+    },
+    {
+        "text": "9.8",
+        "label": "CARDINAL",
+        "start": 21223,
+        "end": 21226
+    },
+    {
+        "text": "9.9",
+        "label": "CARDINAL",
+        "start": 21572,
+        "end": 21575
+    },
+    {
+        "text": "9.10",
+        "label": "CARDINAL",
+        "start": 21918,
+        "end": 21922
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 22133,
+        "end": 22143
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 22148,
+        "end": 22165
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 22428,
+        "end": 22438
+    },
+    {
+        "text": "santa clara",
+        "label": "GPE",
+        "start": 22457,
+        "end": 22468
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 22472,
+        "end": 22489
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 22534,
+        "end": 22544
+    },
+    {
+        "text": "9.11",
+        "label": "CARDINAL",
+        "start": 22785,
+        "end": 22789
+    },
+    {
+        "text": "9.12",
+        "label": "CARDINAL",
+        "start": 22939,
+        "end": 22943
+    },
+    {
+        "text": "9.13",
+        "label": "CARDINAL",
+        "start": 23296,
+        "end": 23300
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 23349,
+        "end": 23352
+    },
+    {
+        "text": "the date and",
+        "label": "DATE",
+        "start": 23583,
+        "end": 23595
+    },
+    {
+        "text": "year first",
+        "label": "DATE",
+        "start": 23596,
+        "end": 23606
+    },
+    {
+        "text": "communities, inc",
+        "label": "ORG",
+        "start": 23646,
+        "end": 23662
+    },
+    {
+        "text": "media, inc",
+        "label": "ORG",
+        "start": 23841,
+        "end": 23851
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 24023,
+        "end": 24038
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 24040,
+        "end": 24042
+    },
+    {
+        "text": "11/14/2000",
+        "label": "CARDINAL",
+        "start": 24046,
+        "end": 24056
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 24210,
+        "end": 24211
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 24414,
+        "end": 24415
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 24522,
+        "end": 24523
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 24587,
+        "end": 24588
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 24624,
+        "end": 24625
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 24688,
+        "end": 24689
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 24820,
+        "end": 24821
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 24897,
+        "end": 24898
+    },
+    {
+        "text": "nettaxi",
+        "label": "ORG",
+        "start": 24900,
+        "end": 24907
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 24944,
+        "end": 24945
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 24990,
+        "end": 24991
+    },
+    {
+        "text": "communities, inc.",
+        "label": "ORG",
+        "start": 25092,
+        "end": 25109
+    },
+    {
+        "text": "media, inc.",
+        "label": "ORG",
+        "start": 25136,
+        "end": 25147
+    },
+    {
+        "text": "nov. 5, 1999",
+        "label": "DATE",
+        "start": 25191,
+        "end": 25203
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 25205,
+        "end": 25206
+    },
+    {
+        "text": "criona mclaughlin\n",
+        "label": "ORG",
+        "start": 25266,
+        "end": 25284
+    },
+    {
+        "text": "2165 s. bascom",
+        "label": "QUANTITY",
+        "start": 25284,
+        "end": 25298
+    },
+    {
+        "text": "11440",
+        "label": "DATE",
+        "start": 25306,
+        "end": 25311
+    },
+    {
+        "text": "west bernardo",
+        "label": "GPE",
+        "start": 25312,
+        "end": 25325
+    },
+    {
+        "text": "campbell",
+        "label": "GPE",
+        "start": 25329,
+        "end": 25337
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 25339,
+        "end": 25349
+    },
+    {
+        "text": "95008",
+        "label": "DATE",
+        "start": 25350,
+        "end": 25355
+    },
+    {
+        "text": "san diego",
+        "label": "GPE",
+        "start": 25356,
+        "end": 25365
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 25367,
+        "end": 25377
+    },
+    {
+        "text": "92127",
+        "label": "DATE",
+        "start": 25378,
+        "end": 25383
+    },
+    {
+        "text": "408",
+        "label": "CARDINAL",
+        "start": 25392,
+        "end": 25395
+    },
+    {
+        "text": "879",
+        "label": "CARDINAL",
+        "start": 25397,
+        "end": 25400
+    },
+    {
+        "text": "619)451-3223",
+        "label": "CARDINAL",
+        "start": 25414,
+        "end": 25426
+    },
+    {
+        "text": "408",
+        "label": "CARDINAL",
+        "start": 25433,
+        "end": 25436
+    },
+    {
+        "text": "879",
+        "label": "CARDINAL",
+        "start": 25438,
+        "end": 25441
+    },
+    {
+        "text": "619)451-2373",
+        "label": "DATE",
+        "start": 25453,
+        "end": 25465
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 25466,
+        "end": 25467
+    },
+    {
+        "text": "branding",
+        "label": "PERSON",
+        "start": 25469,
+        "end": 25477
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 25821,
+        "end": 25822
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 25975,
+        "end": 25990
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 25992,
+        "end": 25994
+    },
+    {
+        "text": "11/14/2000\n modules",
+        "label": "QUANTITY",
+        "start": 25998,
+        "end": 26017
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 26338,
+        "end": 26339
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 26455,
+        "end": 26456
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 26616,
+        "end": 26617
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 26675,
+        "end": 26676
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 26764,
+        "end": 26765
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 26838,
+        "end": 26839
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 27287,
+        "end": 27292
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 27439,
+        "end": 27440
+    },
+    {
+        "text": "8)",
+        "label": "CARDINAL",
+        "start": 27809,
+        "end": 27811
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 28125,
+        "end": 28126
+    },
+    {
+        "text": "nettaxi",
+        "label": "ORG",
+        "start": 28243,
+        "end": 28250
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 28654,
+        "end": 28656
+    },
+    {
+        "text": "the nettaxi arts & entertainment",
+        "label": "ORG",
+        "start": 28691,
+        "end": 28723
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 28755,
+        "end": 28757
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 28825,
+        "end": 28827
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 28969,
+        "end": 28971
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 29067,
+        "end": 29069
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 29273,
+        "end": 29275
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 29390,
+        "end": 29392
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 29522,
+        "end": 29524
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 29639,
+        "end": 29642
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 29739,
+        "end": 29740
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 29760,
+        "end": 29761
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 29864,
+        "end": 29871
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 29895,
+        "end": 29896
+    },
+    {
+        "text": "50 cents",
+        "label": "MONEY",
+        "start": 30093,
+        "end": 30101
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 30149,
+        "end": 30150
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 30256,
+        "end": 30257
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 30340,
+        "end": 30341
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 30473,
+        "end": 30480
+    },
+    {
+        "text": "less than 20,000",
+        "label": "CARDINAL",
+        "start": 30500,
+        "end": 30516
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 30605,
+        "end": 30606
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 30692,
+        "end": 30707
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 30709,
+        "end": 30711
+    },
+    {
+        "text": "11/14/2000\n non-traditional",
+        "label": "QUANTITY",
+        "start": 30715,
+        "end": 30742
+    },
+    {
+        "text": "flyer",
+        "label": "PERSON",
+        "start": 30780,
+        "end": 30785
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 30934,
+        "end": 30935
+    },
+    {
+        "text": "8)",
+        "label": "CARDINAL",
+        "start": 31083,
+        "end": 31085
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 31200,
+        "end": 31201
+    },
+    {
+        "text": "fourth quarter",
+        "label": "DATE",
+        "start": 31256,
+        "end": 31270
+    },
+    {
+        "text": "250,000",
+        "label": "CARDINAL",
+        "start": 31303,
+        "end": 31310
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 31465,
+        "end": 31467
+    },
+    {
+        "text": "the fourth quarter",
+        "label": "DATE",
+        "start": 31507,
+        "end": 31525
+    },
+    {
+        "text": "250,000",
+        "label": "CARDINAL",
+        "start": 31527,
+        "end": 31534
+    },
+    {
+        "text": "november 8th",
+        "label": "DATE",
+        "start": 31697,
+        "end": 31709
+    },
+    {
+        "text": "one week",
+        "label": "DATE",
+        "start": 31795,
+        "end": 31803
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 32464,
+        "end": 32471
+    },
+    {
+        "text": "november 22nd",
+        "label": "DATE",
+        "start": 32572,
+        "end": 32585
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 33365,
+        "end": 33368
+    },
+    {
+        "text": "january 1, 2000",
+        "label": "DATE",
+        "start": 33492,
+        "end": 33507
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 33753,
+        "end": 33754
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 33799,
+        "end": 33802
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 33953,
+        "end": 33958
+    },
+    {
+        "text": "35",
+        "label": "CARDINAL",
+        "start": 34032,
+        "end": 34034
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 34037,
+        "end": 34040
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 34197,
+        "end": 34212
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 34214,
+        "end": 34216
+    },
+    {
+        "text": "11/14/2000",
+        "label": "CARDINAL",
+        "start": 34220,
+        "end": 34230
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 34362,
+        "end": 34365
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 34498,
+        "end": 34503
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 34557,
+        "end": 34560
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 34824,
+        "end": 34827
+    },
+    {
+        "text": "fifty",
+        "label": "CARDINAL",
+        "start": 34968,
+        "end": 34973
+    },
+    {
+        "text": "6.50 per one thousand",
+        "label": "MONEY",
+        "start": 35034,
+        "end": 35055
+    },
+    {
+        "text": "5.6",
+        "label": "CARDINAL",
+        "start": 35333,
+        "end": 35336
+    },
+    {
+        "text": "n/a.\n -------------",
+        "label": "ORG",
+        "start": 35351,
+        "end": 35370
+    },
+    {
+        "text": "5.7",
+        "label": "CARDINAL",
+        "start": 35372,
+        "end": 35375
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 35457,
+        "end": 35463
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 35465,
+        "end": 35473
+    },
+    {
+        "text": "5.8",
+        "label": "CARDINAL",
+        "start": 35578,
+        "end": 35581
+    },
+    {
+        "text": "less than seven",
+        "label": "CARDINAL",
+        "start": 35796,
+        "end": 35811
+    },
+    {
+        "text": "at least two years",
+        "label": "DATE",
+        "start": 36348,
+        "end": 36366
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 36503,
+        "end": 36504
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 36524,
+        "end": 36525
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 36719,
+        "end": 36723
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 36756,
+        "end": 36757
+    },
+    {
+        "text": "n/a.\n ----------------\n ",
+        "label": "ORG",
+        "start": 36776,
+        "end": 36800
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 36800,
+        "end": 36801
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 36853,
+        "end": 36860
+    },
+    {
+        "text": "15) days\n ",
+        "label": "DATE",
+        "start": 36862,
+        "end": 36872
+    },
+    {
+        "text": "the end of the month",
+        "label": "DATE",
+        "start": 36893,
+        "end": 36913
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 36955,
+        "end": 36956
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 37019,
+        "end": 37022
+    },
+    {
+        "text": "2) years",
+        "label": "DATE",
+        "start": 37039,
+        "end": 37047
+    },
+    {
+        "text": "the end of the year",
+        "label": "DATE",
+        "start": 37054,
+        "end": 37073
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 37303,
+        "end": 37309
+    },
+    {
+        "text": "12) months",
+        "label": "DATE",
+        "start": 37311,
+        "end": 37321
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 37513,
+        "end": 37534
+    },
+    {
+        "text": "nettaxi",
+        "label": "ORG",
+        "start": 37620,
+        "end": 37627
+    },
+    {
+        "text": "more than five percent",
+        "label": "PERCENT",
+        "start": 38053,
+        "end": 38075
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 38077,
+        "end": 38078
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 38088,
+        "end": 38095
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 38189,
+        "end": 38204
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 38206,
+        "end": 38208
+    },
+    {
+        "text": "11/14/2000",
+        "label": "CARDINAL",
+        "start": 38212,
+        "end": 38222
+    },
+    {
+        "text": "rae systems inc",
+        "label": "ORG",
+        "start": 38231,
+        "end": 38246
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 38248,
+        "end": 38250
+    }
+]

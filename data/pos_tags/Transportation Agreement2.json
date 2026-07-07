@@ -1,0 +1,6398 @@
+[
+    {
+        "word": "quicklinks",
+        "lemma": "quicklink",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": "--",
+        "lemma": "--",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "click",
+        "lemma": "click",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "here",
+        "lemma": "here",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "rapidly",
+        "lemma": "rapidly",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "navigate",
+        "lemma": "navigate",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "through",
+        "lemma": "through",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "document",
+        "lemma": "document",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "exhibit",
+        "lemma": "exhibit",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "99.12",
+        "lemma": "99.12",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "transportation",
+        "lemma": "transportation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "service",
+        "lemma": "service",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "contract",
+        "lemma": "contract",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "identification",
+        "lemma": "identification",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "ft18150",
+        "lemma": "ft18150",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "transportation",
+        "lemma": "transportation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "service",
+        "lemma": "service",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ"
+    },
+    {
+        "word": "entered",
+        "lemma": "enter",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "into",
+        "lemma": "into",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "great",
+        "lemma": "great",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "lakes",
+        "lemma": "lake",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "gas",
+        "lemma": "gas",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "transmission",
+        "lemma": "transmission",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "limited",
+        "lemma": "limited",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "partnership",
+        "lemma": "partnership",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "anr",
+        "lemma": "anr",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "pipeline",
+        "lemma": "pipeline",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "company",
+        "lemma": "company",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "whereas",
+        "lemma": "whereas",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "has",
+        "lemma": "have",
+        "pos": "AUX",
+        "tag": "VBZ"
+    },
+    {
+        "word": "requested",
+        "lemma": "request",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "transport",
+        "lemma": "transport",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "gas",
+        "lemma": "gas",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "its",
+        "lemma": "its",
+        "pos": "PRON",
+        "tag": "PRP$"
+    },
+    {
+        "word": "behalf",
+        "lemma": "behalf",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "represents",
+        "lemma": "represent",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": "that",
+        "lemma": "that",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP"
+    },
+    {
+        "word": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ"
+    },
+    {
+        "word": "willing",
+        "lemma": "willing",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "transport",
+        "lemma": "transport",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "gas",
+        "lemma": "gas",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "terms",
+        "lemma": "term",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "conditions",
+        "lemma": "condition",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "now",
+        "lemma": "now",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "therefore",
+        "lemma": "therefore",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "agree",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBP"
+    },
+    {
+        "word": "that",
+        "lemma": "that",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "terms",
+        "lemma": "term",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "below",
+        "lemma": "below",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "constitute",
+        "lemma": "constitute",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "transportation",
+        "lemma": "transportation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "service",
+        "lemma": "service",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "provided",
+        "lemma": "provide",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "rights",
+        "lemma": "right",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "obligations",
+        "lemma": "obligation",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "1",
+        "lemma": "1",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "effective",
+        "lemma": "effective",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "date",
+        "lemma": "date",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "november",
+        "lemma": "november",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "01",
+        "lemma": "01",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2016",
+        "lemma": "2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "2",
+        "lemma": "2",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "contract",
+        "lemma": "contract",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "identification",
+        "lemma": "identification",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "ft18150",
+        "lemma": "ft18150",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "3",
+        "lemma": "3",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "rate",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "schedule",
+        "lemma": "schedule",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "ft",
+        "lemma": "ft",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "4",
+        "lemma": "4",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "type",
+        "lemma": "type",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "interstate",
+        "lemma": "interstate",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "pl",
+        "lemma": "pl",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "5",
+        "lemma": "5",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "state",
+        "lemma": "state",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "/",
+        "lemma": "/",
+        "pos": "SYM",
+        "tag": "SYM"
+    },
+    {
+        "word": "province",
+        "lemma": "province",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "incorporation",
+        "lemma": "incorporation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "delaware",
+        "lemma": "delaware",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "6",
+        "lemma": "6",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "term",
+        "lemma": "term",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "november",
+        "lemma": "november",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "01",
+        "lemma": "01",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2014",
+        "lemma": "2014",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "october",
+        "lemma": "october",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "31",
+        "lemma": "31",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2017",
+        "lemma": "2017",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "7",
+        "lemma": "7",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "effect",
+        "lemma": "effect",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "previous",
+        "lemma": "previous",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "contracts",
+        "lemma": "contract",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "supersedes",
+        "lemma": "supersede",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "cancels",
+        "lemma": "cancel",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "terminates",
+        "lemma": "terminate",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "effective",
+        "lemma": "effective",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "date",
+        "lemma": "date",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "stated",
+        "lemma": "state",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "above",
+        "lemma": "above",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "following",
+        "lemma": "follow",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "contract(s",
+        "lemma": "contract(s",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "):",
+        "lemma": "):",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "service",
+        "lemma": "service",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "dated",
+        "lemma": "date",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "november",
+        "lemma": "november",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "01",
+        "lemma": "01",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2015",
+        "lemma": "2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "contract",
+        "lemma": "contract",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "identification",
+        "lemma": "identification",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "ft18150",
+        "lemma": "ft18150",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "8",
+        "lemma": "8",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "maximum",
+        "lemma": "maximum",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "daily",
+        "lemma": "daily",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "quantity",
+        "lemma": "quantity",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "dth",
+        "lemma": "dth",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "/",
+        "lemma": "/",
+        "pos": "SYM",
+        "tag": "SYM"
+    },
+    {
+        "word": "day",
+        "lemma": "day",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "):",
+        "lemma": "):",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "please",
+        "lemma": "please",
+        "pos": "INTJ",
+        "tag": "UH"
+    },
+    {
+        "word": "see",
+        "lemma": "see",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "appendix",
+        "lemma": "appendix",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "PRON",
+        "tag": "DT"
+    },
+    {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "further",
+        "lemma": "further",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "detail",
+        "lemma": "detail",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "9",
+        "lemma": "9",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "rates",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "unless",
+        "lemma": "unless",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "have",
+        "lemma": "have",
+        "pos": "AUX",
+        "tag": "VBP"
+    },
+    {
+        "word": "agreed",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "rate",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "other",
+        "lemma": "other",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "than",
+        "lemma": "than",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "maximum",
+        "lemma": "maximum",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "rate",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "rates",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "'s",
+        "lemma": "'s",
+        "pos": "PART",
+        "tag": "POS"
+    },
+    {
+        "word": "maximum",
+        "lemma": "maximum",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "rates",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "charges",
+        "lemma": "charge",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "plus",
+        "lemma": "plus",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "all",
+        "lemma": "all",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "applicable",
+        "lemma": "applicable",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "surcharges",
+        "lemma": "surcharge",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "effect",
+        "lemma": "effect",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "from",
+        "lemma": "from",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "time",
+        "lemma": "time",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "time",
+        "lemma": "time",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "applicable",
+        "lemma": "applicable",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "rate",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "schedule",
+        "lemma": "schedule",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "stated",
+        "lemma": "state",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "above",
+        "lemma": "above",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "file",
+        "lemma": "file",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "commission",
+        "lemma": "commission",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "unless",
+        "lemma": "unless",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "otherwise",
+        "lemma": "otherwise",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "agreed",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBD"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "writing",
+        "lemma": "writing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "provisions",
+        "lemma": "provision",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "governing",
+        "lemma": "govern",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "rate",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "other",
+        "lemma": "other",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "than",
+        "lemma": "than",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "maximum",
+        "lemma": "maximum",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "set",
+        "lemma": "set",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "forth",
+        "lemma": "forth",
+        "pos": "ADP",
+        "tag": "RP"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "paragraph",
+        "lemma": "paragraph",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "9",
+        "lemma": "9",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "and/or",
+        "lemma": "and/or",
+        "pos": "X",
+        "tag": "FW"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "appendix",
+        "lemma": "appendix",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "b",
+        "lemma": "b",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "hereto",
+        "lemma": "hereto",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "10",
+        "lemma": "10",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "points",
+        "lemma": "point",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "receipt",
+        "lemma": "receipt",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "delivery",
+        "lemma": "delivery",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "primary",
+        "lemma": "primary",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "receipt",
+        "lemma": "receipt",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "delivery",
+        "lemma": "delivery",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "points",
+        "lemma": "point",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "are",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP"
+    },
+    {
+        "word": "set",
+        "lemma": "set",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "forth",
+        "lemma": "forth",
+        "pos": "ADP",
+        "tag": "RP"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "appendix",
+        "lemma": "appendix",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "a.",
+        "lemma": "a.",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "11",
+        "lemma": "11",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "released",
+        "lemma": "release",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "capacity",
+        "lemma": "capacity",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "n",
+        "lemma": "n",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "/",
+        "lemma": "/",
+        "pos": "SYM",
+        "tag": "SYM"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "12",
+        "lemma": "12",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "incorporation",
+        "lemma": "incorporation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "tariff",
+        "lemma": "tariff",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "into",
+        "lemma": "into",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "incorporate",
+        "lemma": "incorporate",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "all",
+        "lemma": "all",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "respects",
+        "lemma": "respect",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "VERB",
+        "tag": "VBP"
+    },
+    {
+        "word": "subject",
+        "lemma": "subject",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "\"",
+        "lemma": "\"",
+        "pos": "PUNCT",
+        "tag": "``"
+    },
+    {
+        "word": "general",
+        "lemma": "general",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "terms",
+        "lemma": "term",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "conditions",
+        "lemma": "condition",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "\"",
+        "lemma": "\"",
+        "pos": "PUNCT",
+        "tag": "''"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "applicable",
+        "lemma": "applicable",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "rate",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "schedule",
+        "lemma": "schedule",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "stated",
+        "lemma": "state",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "above",
+        "lemma": "above",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "set",
+        "lemma": "set",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "forth",
+        "lemma": "forth",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "'s",
+        "lemma": "'s",
+        "pos": "PART",
+        "tag": "POS"
+    },
+    {
+        "word": "ferc",
+        "lemma": "ferc",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "gas",
+        "lemma": "gas",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "tariff",
+        "lemma": "tariff",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "third",
+        "lemma": "third",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "revised",
+        "lemma": "revise",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "volume",
+        "lemma": "volume",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "no",
+        "lemma": "no",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "1",
+        "lemma": "1",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "may",
+        "lemma": "may",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "revised",
+        "lemma": "revise",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "from",
+        "lemma": "from",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "time",
+        "lemma": "time",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "time",
+        "lemma": "time",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "may",
+        "lemma": "may",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "file",
+        "lemma": "file",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "seek",
+        "lemma": "seek",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "commission",
+        "lemma": "commission",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "approval",
+        "lemma": "approval",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "section",
+        "lemma": "section",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "4",
+        "lemma": "4",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "natural",
+        "lemma": "natural",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "gas",
+        "lemma": "gas",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "act",
+        "lemma": "act",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "nga",
+        "lemma": "nga",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "at",
+        "lemma": "at",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "time",
+        "lemma": "time",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "from",
+        "lemma": "from",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "time",
+        "lemma": "time",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "time",
+        "lemma": "time",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "change",
+        "lemma": "change",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "rates",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "charges",
+        "lemma": "charge",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "provisions",
+        "lemma": "provision",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "set",
+        "lemma": "set",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "forth",
+        "lemma": "forth",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "applicable",
+        "lemma": "applicable",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "rate",
+        "lemma": "rate",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "schedule",
+        "lemma": "schedule",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "stated",
+        "lemma": "state",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "above",
+        "lemma": "above",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "\"",
+        "lemma": "\"",
+        "pos": "PUNCT",
+        "tag": "``"
+    },
+    {
+        "word": "general",
+        "lemma": "general",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "terms",
+        "lemma": "term",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "conditions",
+        "lemma": "condition",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "\"",
+        "lemma": "\"",
+        "pos": "PUNCT",
+        "tag": "''"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "'s",
+        "lemma": "'s",
+        "pos": "PART",
+        "tag": "POS"
+    },
+    {
+        "word": "ferc",
+        "lemma": "ferc",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "gas",
+        "lemma": "gas",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "tariff",
+        "lemma": "tariff",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "third",
+        "lemma": "third",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "revised",
+        "lemma": "revise",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "volume",
+        "lemma": "volume",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "no",
+        "lemma": "no",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "1",
+        "lemma": "1",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "have",
+        "lemma": "have",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "right",
+        "lemma": "right",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "place",
+        "lemma": "place",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "such",
+        "lemma": "such",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "changes",
+        "lemma": "change",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "effect",
+        "lemma": "effect",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "accordance",
+        "lemma": "accordance",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "nga",
+        "lemma": "nga",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "deemed",
+        "lemma": "deem",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "include",
+        "lemma": "include",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "such",
+        "lemma": "such",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "changes",
+        "lemma": "change",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "such",
+        "lemma": "such",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "changes",
+        "lemma": "change",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "source",
+        "lemma": "source",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "tc",
+        "lemma": "tc",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "pipelines",
+        "lemma": "pipeline",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "lp",
+        "lemma": "lp",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "10",
+        "lemma": "10",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH"
+    },
+    {
+        "word": "k",
+        "lemma": "k",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2/26/2016",
+        "lemma": "2/26/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "which",
+        "lemma": "which",
+        "pos": "PRON",
+        "tag": "WDT"
+    },
+    {
+        "word": "become",
+        "lemma": "become",
+        "pos": "VERB",
+        "tag": "VBP"
+    },
+    {
+        "word": "effective",
+        "lemma": "effective",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "operation",
+        "lemma": "operation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "law",
+        "lemma": "law",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "commission",
+        "lemma": "commission",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "order",
+        "lemma": "order",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "without",
+        "lemma": "without",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "prejudice",
+        "lemma": "prejudice",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "'s",
+        "lemma": "'s",
+        "pos": "PART",
+        "tag": "POS"
+    },
+    {
+        "word": "right",
+        "lemma": "right",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": "protest",
+        "lemma": "protest",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "same",
+        "lemma": "same",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "13",
+        "lemma": "13",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "miscellaneous",
+        "lemma": "miscellaneous",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "no",
+        "lemma": "no",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "waiver",
+        "lemma": "waiver",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "either",
+        "lemma": "either",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "party",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "one",
+        "lemma": "one",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "more",
+        "lemma": "more",
+        "pos": "ADJ",
+        "tag": "JJR"
+    },
+    {
+        "word": "defaults",
+        "lemma": "default",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "other",
+        "lemma": "other",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "performance",
+        "lemma": "performance",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "operate",
+        "lemma": "operate",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "construed",
+        "lemma": "construe",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "waiver",
+        "lemma": "waiver",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "continuing",
+        "lemma": "continue",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "future",
+        "lemma": "future",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "default(s",
+        "lemma": "default(s",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "whether",
+        "lemma": "whether",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "like",
+        "lemma": "like",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "different",
+        "lemma": "different",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "character",
+        "lemma": "character",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "controversy",
+        "lemma": "controversy",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "between",
+        "lemma": "between",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "arising",
+        "lemma": "arise",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "not",
+        "lemma": "not",
+        "pos": "PART",
+        "tag": "RB"
+    },
+    {
+        "word": "resolved",
+        "lemma": "resolve",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "determined",
+        "lemma": "determine",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "accordance",
+        "lemma": "accordance",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "laws",
+        "lemma": "law",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "state",
+        "lemma": "state",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "michigan",
+        "lemma": "michigan",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "14",
+        "lemma": "14",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "other",
+        "lemma": "other",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "provisions",
+        "lemma": "provision",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "it",
+        "lemma": "it",
+        "pos": "PRON",
+        "tag": "PRP"
+    },
+    {
+        "word": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ"
+    },
+    {
+        "word": "agreed",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "that",
+        "lemma": "that",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "no",
+        "lemma": "no",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "personal",
+        "lemma": "personal",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "liability",
+        "lemma": "liability",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "whatsoever",
+        "lemma": "whatsoever",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "attach",
+        "lemma": "attach",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "imposed",
+        "lemma": "impose",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "otherwise",
+        "lemma": "otherwise",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "incurred",
+        "lemma": "incur",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "partner",
+        "lemma": "partner",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "agent",
+        "lemma": "agent",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "management",
+        "lemma": "management",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "official",
+        "lemma": "official",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "employee",
+        "lemma": "employee",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "director",
+        "lemma": "director",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "officer",
+        "lemma": "officer",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "employee",
+        "lemma": "employee",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "PRON",
+        "tag": "DT"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "foregoing",
+        "lemma": "foregoing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "obligation",
+        "lemma": "obligation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "arising",
+        "lemma": "arise",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "for",
+        "lemma": "for",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "claim",
+        "lemma": "claim",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "based",
+        "lemma": "base",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "on",
+        "lemma": "on",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "such",
+        "lemma": "such",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "obligation",
+        "lemma": "obligation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "that",
+        "lemma": "that",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "sole",
+        "lemma": "sole",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "recourse",
+        "lemma": "recourse",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "is",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBZ"
+    },
+    {
+        "word": "limited",
+        "lemma": "limit",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "assets",
+        "lemma": "asset",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "upon",
+        "lemma": "upon",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "termination",
+        "lemma": "termination",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "'s",
+        "lemma": "'s",
+        "pos": "PART",
+        "tag": "POS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "transporter",
+        "lemma": "transporter",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "'s",
+        "lemma": "'s",
+        "pos": "PART",
+        "tag": "POS"
+    },
+    {
+        "word": "obligations",
+        "lemma": "obligation",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "each",
+        "lemma": "each",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "other",
+        "lemma": "other",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "arising",
+        "lemma": "arise",
+        "pos": "VERB",
+        "tag": "VBG"
+    },
+    {
+        "word": "under",
+        "lemma": "under",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "prior",
+        "lemma": "prior",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "date",
+        "lemma": "date",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "termination",
+        "lemma": "termination",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "remain",
+        "lemma": "remain",
+        "pos": "VERB",
+        "tag": "VBP"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "effect",
+        "lemma": "effect",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "are",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBP"
+    },
+    {
+        "word": "not",
+        "lemma": "not",
+        "pos": "PART",
+        "tag": "RB"
+    },
+    {
+        "word": "being",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VBG"
+    },
+    {
+        "word": "terminated",
+        "lemma": "terminate",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "provision",
+        "lemma": "provision",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "15",
+        "lemma": "15",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PUNCT",
+        "tag": "."
+    },
+    {
+        "word": "notices",
+        "lemma": "notice",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "communications",
+        "lemma": "communication",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "all",
+        "lemma": "all",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "notices",
+        "lemma": "notice",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "communications",
+        "lemma": "communication",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "with",
+        "lemma": "with",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "respect",
+        "lemma": "respect",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "this",
+        "lemma": "this",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "shall",
+        "lemma": "shall",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "writing",
+        "lemma": "writing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "mail",
+        "lemma": "mail",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "e",
+        "lemma": "e",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "mail",
+        "lemma": "mail",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "fax",
+        "lemma": "fax",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "other",
+        "lemma": "other",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "means",
+        "lemma": "mean",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "agreed",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBD"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "parties",
+        "lemma": "party",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "and",
+        "lemma": "and",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "sent",
+        "lemma": "send",
+        "pos": "VERB",
+        "tag": "VBD"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "the",
+        "lemma": "the",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "addresses",
+        "lemma": "address",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "stated",
+        "lemma": "state",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "below",
+        "lemma": "below",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "any",
+        "lemma": "any",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "other",
+        "lemma": "other",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "such",
+        "lemma": "such",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "address(es",
+        "lemma": "address(es",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "as",
+        "lemma": "as",
+        "pos": "SCONJ",
+        "tag": "IN"
+    },
+    {
+        "word": "may",
+        "lemma": "may",
+        "pos": "AUX",
+        "tag": "MD"
+    },
+    {
+        "word": "be",
+        "lemma": "be",
+        "pos": "AUX",
+        "tag": "VB"
+    },
+    {
+        "word": "designated",
+        "lemma": "designate",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": "in",
+        "lemma": "in",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "writing",
+        "lemma": "writing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "mail",
+        "lemma": "mail",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "e",
+        "lemma": "e",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "mail",
+        "lemma": "mail",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "fax",
+        "lemma": "fax",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "or",
+        "lemma": "or",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "other",
+        "lemma": "other",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "means",
+        "lemma": "mean",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "similarly",
+        "lemma": "similarly",
+        "pos": "ADV",
+        "tag": "RB"
+    },
+    {
+        "word": "agreed",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBD"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "PART",
+        "tag": "TO"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "administrative",
+        "lemma": "administrative",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "matters",
+        "lemma": "matter",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "great",
+        "lemma": "great",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "lakes",
+        "lemma": "lake",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": "gas",
+        "lemma": "gas",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "transmission",
+        "lemma": "transmission",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "limited",
+        "lemma": "limited",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "partnership",
+        "lemma": "partnership",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "commercial",
+        "lemma": "commercial",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "services",
+        "lemma": "service",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "700",
+        "lemma": "700",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "louisiana",
+        "lemma": "louisiana",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "st",
+        "lemma": "st",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "suite",
+        "lemma": "suite",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "700",
+        "lemma": "700",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "houston",
+        "lemma": "houston",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "tx",
+        "lemma": "tx",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "77002",
+        "lemma": "77002",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "SYM",
+        "tag": "SYM"
+    },
+    {
+        "word": "2700",
+        "lemma": "2700",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "anr",
+        "lemma": "anr",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "pipeline",
+        "lemma": "pipeline",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "company",
+        "lemma": "company",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "700",
+        "lemma": "700",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "louisiana",
+        "lemma": "louisiana",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "st",
+        "lemma": "st",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ".",
+        "lemma": ".",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "suite",
+        "lemma": "suite",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "700",
+        "lemma": "700",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "houston",
+        "lemma": "houston",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "tx",
+        "lemma": "tx",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "77002",
+        "lemma": "77002",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "SYM",
+        "tag": "SYM"
+    },
+    {
+        "word": "2700",
+        "lemma": "2700",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "attn",
+        "lemma": "attn",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "agreed",
+        "lemma": "agree",
+        "pos": "VERB",
+        "tag": "VBD"
+    },
+    {
+        "word": "to",
+        "lemma": "to",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "great",
+        "lemma": "great",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "lakes",
+        "lemma": "lake",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": "gas",
+        "lemma": "gas",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "transmission",
+        "lemma": "transmission",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "limited",
+        "lemma": "limited",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "partnership",
+        "lemma": "partnership",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "by",
+        "lemma": "by",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "great",
+        "lemma": "great",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "lakes",
+        "lemma": "lake",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "gas",
+        "lemma": "gas",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "transmission",
+        "lemma": "transmission",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "company",
+        "lemma": "company",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "anr",
+        "lemma": "anr",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "pipeline",
+        "lemma": "pipeline",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "company",
+        "lemma": "company",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "/s/",
+        "lemma": "/s/",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "steven",
+        "lemma": "steven",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "d.",
+        "lemma": "d.",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "jaskolski",
+        "lemma": "jaskolski",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "steven",
+        "lemma": "steven",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "d.",
+        "lemma": "d.",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "jaskolski",
+        "lemma": "jaskolski",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "director",
+        "lemma": "director",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "commercial",
+        "lemma": "commercial",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "services",
+        "lemma": "service",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "/s/",
+        "lemma": "/s/",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "joseph",
+        "lemma": "joseph",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "e.",
+        "lemma": "e.",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "pollard",
+        "lemma": "pollard",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "joseph",
+        "lemma": "joseph",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "e.",
+        "lemma": "e.",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "pollard",
+        "lemma": "pollard",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "director",
+        "lemma": "director",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "long",
+        "lemma": "long",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "term",
+        "lemma": "term",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "marketing",
+        "lemma": "marketing",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "dated",
+        "lemma": "date",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "december",
+        "lemma": "december",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "14",
+        "lemma": "14",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2015",
+        "lemma": "2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "dated",
+        "lemma": "date",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "december",
+        "lemma": "december",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "14",
+        "lemma": "14",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2015",
+        "lemma": "2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "source",
+        "lemma": "source",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "tc",
+        "lemma": "tc",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "pipelines",
+        "lemma": "pipeline",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "lp",
+        "lemma": "lp",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "10",
+        "lemma": "10",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH"
+    },
+    {
+        "word": "k",
+        "lemma": "k",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2/26/2016",
+        "lemma": "2/26/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "appendix",
+        "lemma": "appendix",
+        "pos": "VERB",
+        "tag": "VBP"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "contract",
+        "lemma": "contract",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "identification",
+        "lemma": "identification",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "ft18150",
+        "lemma": "ft18150",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "date",
+        "lemma": "date",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "november",
+        "lemma": "november",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "01",
+        "lemma": "01",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2016",
+        "lemma": "2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "supersedes",
+        "lemma": "supersede",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "appendix",
+        "lemma": "appendix",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "dated",
+        "lemma": "date",
+        "pos": "VERB",
+        "tag": "VBN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "november",
+        "lemma": "november",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "01",
+        "lemma": "01",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2015",
+        "lemma": "2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "shipper",
+        "lemma": "shipper",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "anr",
+        "lemma": "anr",
+        "pos": "CCONJ",
+        "tag": "CC"
+    },
+    {
+        "word": "pipeline",
+        "lemma": "pipeline",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "company",
+        "lemma": "company",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "maximum",
+        "lemma": "maximum",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "daily",
+        "lemma": "daily",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "quantity",
+        "lemma": "quantity",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "dth",
+        "lemma": "dth",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "/",
+        "lemma": "/",
+        "pos": "SYM",
+        "tag": "SYM"
+    },
+    {
+        "word": "day",
+        "lemma": "day",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "per",
+        "lemma": "per",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "location",
+        "lemma": "location",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "begin",
+        "lemma": "begin",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "date",
+        "lemma": "date",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "end",
+        "lemma": "end",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "date",
+        "lemma": "date",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "point(s",
+        "lemma": "point(s",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "primary",
+        "lemma": "primary",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "receipt",
+        "lemma": "receipt",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "point(s",
+        "lemma": "point(s",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "of",
+        "lemma": "of",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "primary",
+        "lemma": "primary",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "delivery",
+        "lemma": "delivery",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "mdq",
+        "lemma": "mdq",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "maximum",
+        "lemma": "maximum",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "allowable",
+        "lemma": "allowable",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "operating",
+        "lemma": "operating",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "pressure",
+        "lemma": "pressure",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "(",
+        "lemma": "(",
+        "pos": "PUNCT",
+        "tag": "-LRB-"
+    },
+    {
+        "word": "maop",
+        "lemma": "maop",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ")",
+        "lemma": ")",
+        "pos": "PUNCT",
+        "tag": "-RRB-"
+    },
+    {
+        "word": "11/01/2014",
+        "lemma": "11/01/2014",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "03/31/2015",
+        "lemma": "03/31/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "south",
+        "lemma": "south",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "chester",
+        "lemma": "chester",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "11/01/2014",
+        "lemma": "11/01/2014",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "03/31/2015",
+        "lemma": "03/31/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "deward",
+        "lemma": "deward",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "04/01/2015",
+        "lemma": "04/01/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "10/31/2015",
+        "lemma": "10/31/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "south",
+        "lemma": "south",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "chester",
+        "lemma": "chester",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "11/01/2015",
+        "lemma": "11/01/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "03/31/2016",
+        "lemma": "03/31/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "south",
+        "lemma": "south",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "chester",
+        "lemma": "chester",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "11/01/2015",
+        "lemma": "11/01/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "03/31/2016",
+        "lemma": "03/31/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "deward",
+        "lemma": "deward",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "04/01/2016",
+        "lemma": "04/01/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "10/31/2016",
+        "lemma": "10/31/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "south",
+        "lemma": "south",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "chester",
+        "lemma": "chester",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "11/01/2016",
+        "lemma": "11/01/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "03/31/2017",
+        "lemma": "03/31/2017",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "south",
+        "lemma": "south",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "chester",
+        "lemma": "chester",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "11/01/2016",
+        "lemma": "11/01/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "03/31/2017",
+        "lemma": "03/31/2017",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "deward",
+        "lemma": "deward",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "04/01/2017",
+        "lemma": "04/01/2017",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "10/31/2017",
+        "lemma": "10/31/2017",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "south",
+        "lemma": "south",
+        "pos": "PROPN",
+        "tag": "NNP"
+    },
+    {
+        "word": "chester",
+        "lemma": "chester",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "11/01/2014",
+        "lemma": "11/01/2014",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "03/31/2015",
+        "lemma": "03/31/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "farwell",
+        "lemma": "farwell",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "04/01/2015",
+        "lemma": "04/01/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "10/31/2015",
+        "lemma": "10/31/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "farwell",
+        "lemma": "farwell",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "11/01/2015",
+        "lemma": "11/01/2015",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "03/31/2016",
+        "lemma": "03/31/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "farwell",
+        "lemma": "farwell",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "04/01/2016",
+        "lemma": "04/01/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "10/31/2016",
+        "lemma": "10/31/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "farwell",
+        "lemma": "farwell",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "11/01/2016",
+        "lemma": "11/01/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "03/31/2017",
+        "lemma": "03/31/2017",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "farwell",
+        "lemma": "farwell",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "101,300",
+        "lemma": "101,300",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "04/01/2017",
+        "lemma": "04/01/2017",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "10/31/2017",
+        "lemma": "10/31/2017",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "farwell",
+        "lemma": "farwell",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "source",
+        "lemma": "source",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "tc",
+        "lemma": "tc",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "pipelines",
+        "lemma": "pipeline",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "lp",
+        "lemma": "lp",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "10",
+        "lemma": "10",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH"
+    },
+    {
+        "word": "k",
+        "lemma": "k",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2/26/2016",
+        "lemma": "2/26/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "quicklinks",
+        "lemma": "quicklink",
+        "pos": "VERB",
+        "tag": "VBZ"
+    },
+    {
+        "word": "exhibit",
+        "lemma": "exhibit",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "99.12",
+        "lemma": "99.12",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "transportation",
+        "lemma": "transportation",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "service",
+        "lemma": "service",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "agreement",
+        "lemma": "agreement",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "contract",
+        "lemma": "contract",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "identification",
+        "lemma": "identification",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "ft18150",
+        "lemma": "ft18150",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "appendix",
+        "lemma": "appendix",
+        "pos": "VERB",
+        "tag": "VB"
+    },
+    {
+        "word": "a",
+        "lemma": "a",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "contract",
+        "lemma": "contract",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "identification",
+        "lemma": "identification",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": "ft18150",
+        "lemma": "ft18150",
+        "pos": "ADP",
+        "tag": "IN"
+    },
+    {
+        "word": "source",
+        "lemma": "source",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ":",
+        "lemma": ":",
+        "pos": "PUNCT",
+        "tag": ":"
+    },
+    {
+        "word": "tc",
+        "lemma": "tc",
+        "pos": "DET",
+        "tag": "DT"
+    },
+    {
+        "word": "pipelines",
+        "lemma": "pipeline",
+        "pos": "NOUN",
+        "tag": "NNS"
+    },
+    {
+        "word": "lp",
+        "lemma": "lp",
+        "pos": "ADJ",
+        "tag": "JJ"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "10",
+        "lemma": "10",
+        "pos": "NUM",
+        "tag": "CD"
+    },
+    {
+        "word": "-",
+        "lemma": "-",
+        "pos": "PUNCT",
+        "tag": "HYPH"
+    },
+    {
+        "word": "k",
+        "lemma": "k",
+        "pos": "NOUN",
+        "tag": "NN"
+    },
+    {
+        "word": ",",
+        "lemma": ",",
+        "pos": "PUNCT",
+        "tag": ","
+    },
+    {
+        "word": "2/26/2016",
+        "lemma": "2/26/2016",
+        "pos": "NUM",
+        "tag": "CD"
+    }
+]

@@ -1,0 +1,3524 @@
+[
+    {
+        "text": "10.22",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 109,
+        "end": 113
+    },
+    {
+        "text": "reynolds group holdings inc.",
+        "label": "ORG",
+        "start": 123,
+        "end": 151
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 199,
+        "end": 221
+    },
+    {
+        "text": "reynolds group holdings limited",
+        "label": "ORG",
+        "start": 566,
+        "end": 597
+    },
+    {
+        "text": "new zealand",
+        "label": "GPE",
+        "start": 637,
+        "end": 648
+    },
+    {
+        "text": "february 4, 2020",
+        "label": "DATE",
+        "start": 669,
+        "end": 685
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 1310,
+        "end": 1313
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2153,
+        "end": 2156
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 2273,
+        "end": 2278
+    },
+    {
+        "text": "each of the days",
+        "label": "DATE",
+        "start": 2360,
+        "end": 2376
+    },
+    {
+        "text": "two percent",
+        "label": "PERCENT",
+        "start": 2408,
+        "end": 2419
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 2421,
+        "end": 2422
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 2622,
+        "end": 2644
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 2653,
+        "end": 2662
+    },
+    {
+        "text": "saturday",
+        "label": "DATE",
+        "start": 2710,
+        "end": 2718
+    },
+    {
+        "text": "sunday",
+        "label": "DATE",
+        "start": 2726,
+        "end": 2732
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 2843,
+        "end": 2851
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 3385,
+        "end": 3390
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 3794,
+        "end": 3806
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 4255,
+        "end": 4266
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 4318,
+        "end": 4329
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 4990,
+        "end": 5012
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 5021,
+        "end": 5030
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 5211,
+        "end": 5216
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 5494,
+        "end": 5499
+    },
+    {
+        "text": "section 5.5",
+        "label": "LAW",
+        "start": 6308,
+        "end": 6319
+    },
+    {
+        "text": "section 4.1",
+        "label": "LAW",
+        "start": 6370,
+        "end": 6381
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 6822,
+        "end": 6825
+    },
+    {
+        "text": "valorem",
+        "label": "GPE",
+        "start": 7223,
+        "end": 7230
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 7558,
+        "end": 7580
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 7589,
+        "end": 7598
+    },
+    {
+        "text": "section 6.3",
+        "label": "LAW",
+        "start": 7648,
+        "end": 7659
+    },
+    {
+        "text": "section 6.1",
+        "label": "LAW",
+        "start": 7697,
+        "end": 7708
+    },
+    {
+        "text": "section 6.1",
+        "label": "LAW",
+        "start": 7758,
+        "end": 7769
+    },
+    {
+        "text": "article ii",
+        "label": "LAW",
+        "start": 7897,
+        "end": 7907
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 7947,
+        "end": 7950
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 8153,
+        "end": 8158
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 8197,
+        "end": 8200
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9273,
+        "end": 9278
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 9310,
+        "end": 9313
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 10309,
+        "end": 10331
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 10340,
+        "end": 10349
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 11036,
+        "end": 11039
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 11179,
+        "end": 11182
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11216,
+        "end": 11221
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11337,
+        "end": 11342
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11536,
+        "end": 11541
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 12040,
+        "end": 12045
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 12061,
+        "end": 12064
+    },
+    {
+        "text": "section 2.4",
+        "label": "LAW",
+        "start": 12439,
+        "end": 12450
+    },
+    {
+        "text": "article vii herein",
+        "label": "LAW",
+        "start": 12536,
+        "end": 12554
+    },
+    {
+        "text": "2002",
+        "label": "DATE",
+        "start": 12962,
+        "end": 12966
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 13167,
+        "end": 13171
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 13960,
+        "end": 13961
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 14016,
+        "end": 14017
+    },
+    {
+        "text": "at least thirty",
+        "label": "CARDINAL",
+        "start": 14024,
+        "end": 14039
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 14041,
+        "end": 14049
+    },
+    {
+        "text": "2002",
+        "label": "DATE",
+        "start": 14404,
+        "end": 14408
+    },
+    {
+        "text": "exhibit a.\nsource",
+        "label": "PERSON",
+        "start": 14699,
+        "end": 14716
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 14727,
+        "end": 14749
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 14758,
+        "end": 14767
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 14840,
+        "end": 14843
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 15046,
+        "end": 15052
+    },
+    {
+        "text": "12) month",
+        "label": "DATE",
+        "start": 15054,
+        "end": 15063
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 17741,
+        "end": 17763
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 17772,
+        "end": 17781
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 18243,
+        "end": 18246
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18316,
+        "end": 18321
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 18875,
+        "end": 18878
+    },
+    {
+        "text": "exhibit c. either party",
+        "label": "PERSON",
+        "start": 19379,
+        "end": 19402
+    },
+    {
+        "text": "section 10.5",
+        "label": "LAW",
+        "start": 19559,
+        "end": 19571
+    },
+    {
+        "text": "telephonic",
+        "label": "PERSON",
+        "start": 20028,
+        "end": 20038
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 20131,
+        "end": 20144
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 20283,
+        "end": 20296
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 20705,
+        "end": 20712
+    },
+    {
+        "text": "15) days",
+        "label": "DATE",
+        "start": 20714,
+        "end": 20722
+    },
+    {
+        "text": "fifteen",
+        "label": "CARDINAL",
+        "start": 20881,
+        "end": 20888
+    },
+    {
+        "text": "15) days",
+        "label": "DATE",
+        "start": 20890,
+        "end": 20898
+    },
+    {
+        "text": "section 10.8",
+        "label": "LAW",
+        "start": 21097,
+        "end": 21109
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 21128,
+        "end": 21150
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 21159,
+        "end": 21168
+    },
+    {
+        "text": "section 3.5 third",
+        "label": "LAW",
+        "start": 21747,
+        "end": 21764
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 21936,
+        "end": 21941
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 22048,
+        "end": 22051
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 22064,
+        "end": 22069
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 22322,
+        "end": 22327
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 22481,
+        "end": 22486
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 22567,
+        "end": 22572
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 23912,
+        "end": 23917
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 24066,
+        "end": 24071
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 24118,
+        "end": 24121
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 24789,
+        "end": 24790
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 24914,
+        "end": 24915
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 25072,
+        "end": 25073
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 25272,
+        "end": 25273
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 25315,
+        "end": 25320
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 25432,
+        "end": 25433
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 25624,
+        "end": 25646
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 25655,
+        "end": 25664
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 25673,
+        "end": 25676
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 27247,
+        "end": 27252
+    },
+    {
+        "text": "section 4.3",
+        "label": "LAW",
+        "start": 27443,
+        "end": 27454
+    },
+    {
+        "text": "section 4.4",
+        "label": "LAW",
+        "start": 28377,
+        "end": 28388
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 28681,
+        "end": 28703
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 28712,
+        "end": 28721
+    },
+    {
+        "text": "section 4.5",
+        "label": "LAW",
+        "start": 28722,
+        "end": 28733
+    },
+    {
+        "text": "article v\nfees",
+        "label": "PERSON",
+        "start": 29154,
+        "end": 29168
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 29419,
+        "end": 29424
+    },
+    {
+        "text": "section 2.2",
+        "label": "LAW",
+        "start": 29643,
+        "end": 29654
+    },
+    {
+        "text": "section 5.3",
+        "label": "LAW",
+        "start": 30399,
+        "end": 30410
+    },
+    {
+        "text": "15 days",
+        "label": "DATE",
+        "start": 30500,
+        "end": 30507
+    },
+    {
+        "text": "the end of each month",
+        "label": "DATE",
+        "start": 30514,
+        "end": 30535
+    },
+    {
+        "text": "such month",
+        "label": "DATE",
+        "start": 30617,
+        "end": 30627
+    },
+    {
+        "text": "section 5.4",
+        "label": "LAW",
+        "start": 30689,
+        "end": 30700
+    },
+    {
+        "text": "the last business day of the month",
+        "label": "DATE",
+        "start": 30795,
+        "end": 30829
+    },
+    {
+        "text": "section 5.7",
+        "label": "LAW",
+        "start": 30897,
+        "end": 30908
+    },
+    {
+        "text": "the last date",
+        "label": "DATE",
+        "start": 31040,
+        "end": 31053
+    },
+    {
+        "text": "section 5.5",
+        "label": "LAW",
+        "start": 31109,
+        "end": 31120
+    },
+    {
+        "text": "a later date",
+        "label": "DATE",
+        "start": 32216,
+        "end": 32228
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 32538,
+        "end": 32560
+    },
+    {
+        "text": "1/21/2020\nsection 5.6",
+        "label": "QUANTITY",
+        "start": 32569,
+        "end": 32590
+    },
+    {
+        "text": "section 5.7",
+        "label": "LAW",
+        "start": 32971,
+        "end": 32982
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 33418,
+        "end": 33421
+    },
+    {
+        "text": "section 5.8",
+        "label": "LAW",
+        "start": 33625,
+        "end": 33636
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 33987,
+        "end": 33993
+    },
+    {
+        "text": "hours",
+        "label": "TIME",
+        "start": 34024,
+        "end": 34029
+    },
+    {
+        "text": "hours",
+        "label": "TIME",
+        "start": 34291,
+        "end": 34296
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 34735,
+        "end": 34744
+    },
+    {
+        "text": "section 6.2",
+        "label": "LAW",
+        "start": 35024,
+        "end": 35035
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 35282,
+        "end": 35289
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 35892,
+        "end": 35914
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 35923,
+        "end": 35932
+    },
+    {
+        "text": "6.2(b",
+        "label": "CARDINAL",
+        "start": 36115,
+        "end": 36120
+    },
+    {
+        "text": "section 10.10(b",
+        "label": "LAW",
+        "start": 36484,
+        "end": 36499
+    },
+    {
+        "text": "section 6.3",
+        "label": "LAW",
+        "start": 36649,
+        "end": 36660
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 37176,
+        "end": 37184
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 37509,
+        "end": 37514
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 37516,
+        "end": 37524
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 37721,
+        "end": 37726
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 37728,
+        "end": 37736
+    },
+    {
+        "text": "section 6.4",
+        "label": "LAW",
+        "start": 37960,
+        "end": 37971
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 38363,
+        "end": 38368
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 38490,
+        "end": 38493
+    },
+    {
+        "text": "section 6.5",
+        "label": "LAW",
+        "start": 39100,
+        "end": 39111
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 39380,
+        "end": 39402
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 39411,
+        "end": 39420
+    },
+    {
+        "text": "article vii",
+        "label": "PRODUCT",
+        "start": 39421,
+        "end": 39432
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 39459,
+        "end": 39462
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 40243,
+        "end": 40264
+    },
+    {
+        "text": "regular business hours",
+        "label": "TIME",
+        "start": 41095,
+        "end": 41117
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 41829,
+        "end": 41840
+    },
+    {
+        "text": "6th",
+        "label": "ORDINAL",
+        "start": 41980,
+        "end": 41983
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 42092,
+        "end": 42113
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 42689,
+        "end": 42711
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 42720,
+        "end": 42729
+    },
+    {
+        "text": "7th",
+        "label": "ORDINAL",
+        "start": 42819,
+        "end": 42822
+    },
+    {
+        "text": "less than 10",
+        "label": "CARDINAL",
+        "start": 42884,
+        "end": 42896
+    },
+    {
+        "text": "normal\nbusiness hours",
+        "label": "TIME",
+        "start": 43287,
+        "end": 43308
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 44385,
+        "end": 44390
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 45142,
+        "end": 45153
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 45204,
+        "end": 45209
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 45426,
+        "end": 45431
+    },
+    {
+        "text": "section 7.4",
+        "label": "LAW",
+        "start": 45773,
+        "end": 45784
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 46244,
+        "end": 46247
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 46369,
+        "end": 46391
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 46400,
+        "end": 46409
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 46720,
+        "end": 46725
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 47593,
+        "end": 47598
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 48018,
+        "end": 48019
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 48299,
+        "end": 48300
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 48347,
+        "end": 48350
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 48743,
+        "end": 48748
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 48908,
+        "end": 48913
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 49636,
+        "end": 49641
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 49889,
+        "end": 49911
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 49920,
+        "end": 49929
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 49950,
+        "end": 49961
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 50666,
+        "end": 50677
+    },
+    {
+        "text": "section 9.3",
+        "label": "LAW",
+        "start": 51337,
+        "end": 51348
+    },
+    {
+        "text": "section 9.4 limitations",
+        "label": "LAW",
+        "start": 51841,
+        "end": 51864
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 52436,
+        "end": 52441
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 52746,
+        "end": 52768
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 52777,
+        "end": 52786
+    },
+    {
+        "text": "section 9.5",
+        "label": "LAW",
+        "start": 52983,
+        "end": 52994
+    },
+    {
+        "text": "at least 5,000,000",
+        "label": "CARDINAL",
+        "start": 53142,
+        "end": 53160
+    },
+    {
+        "text": "at least 1,000,000",
+        "label": "CARDINAL",
+        "start": 53260,
+        "end": 53278
+    },
+    {
+        "text": "section 10.1",
+        "label": "LAW",
+        "start": 53827,
+        "end": 53839
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 53945,
+        "end": 53948
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 53970,
+        "end": 53973
+    },
+    {
+        "text": "section 10.2",
+        "label": "LAW",
+        "start": 55510,
+        "end": 55522
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 56116,
+        "end": 56138
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 56147,
+        "end": 56156
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 56660,
+        "end": 56664
+    },
+    {
+        "text": "section 10.5",
+        "label": "LAW",
+        "start": 57189,
+        "end": 57201
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 57373,
+        "end": 57382
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 57412,
+        "end": 57421
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 57573,
+        "end": 57595
+    },
+    {
+        "text": "1900",
+        "label": "CARDINAL",
+        "start": 57596,
+        "end": 57600
+    },
+    {
+        "text": "w. field court\nlake forest",
+        "label": "ORG",
+        "start": 57601,
+        "end": 57627
+    },
+    {
+        "text": "60045",
+        "label": "DATE",
+        "start": 57632,
+        "end": 57637
+    },
+    {
+        "text": "david watson",
+        "label": "PERSON",
+        "start": 57649,
+        "end": 57661
+    },
+    {
+        "text": "reynolds group holdings inc.",
+        "label": "ORG",
+        "start": 57712,
+        "end": 57740
+    },
+    {
+        "text": "1900",
+        "label": "CARDINAL",
+        "start": 57741,
+        "end": 57745
+    },
+    {
+        "text": "w. field court\nlake forest",
+        "label": "ORG",
+        "start": 57746,
+        "end": 57772
+    },
+    {
+        "text": "60045",
+        "label": "DATE",
+        "start": 57777,
+        "end": 57782
+    },
+    {
+        "text": "joseph doyle",
+        "label": "PERSON",
+        "start": 57794,
+        "end": 57806
+    },
+    {
+        "text": "nine",
+        "label": "CARDINAL",
+        "start": 57927,
+        "end": 57931
+    },
+    {
+        "text": "148",
+        "label": "NORP",
+        "start": 57932,
+        "end": 57935
+    },
+    {
+        "text": "3515",
+        "label": "CARDINAL",
+        "start": 57957,
+        "end": 57961
+    },
+    {
+        "text": "new zealand",
+        "label": "GPE",
+        "start": 57972,
+        "end": 57983
+    },
+    {
+        "text": "5:00 p.m.",
+        "label": "TIME",
+        "start": 58329,
+        "end": 58338
+    },
+    {
+        "text": "a business\nday",
+        "label": "DATE",
+        "start": 58342,
+        "end": 58356
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 58438,
+        "end": 58460
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 58469,
+        "end": 58478
+    },
+    {
+        "text": "business day",
+        "label": "DATE",
+        "start": 58554,
+        "end": 58566
+    },
+    {
+        "text": "section 10.7",
+        "label": "LAW",
+        "start": 59231,
+        "end": 59243
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 59966,
+        "end": 59969
+    },
+    {
+        "text": "section 10.8",
+        "label": "LAW",
+        "start": 60421,
+        "end": 60433
+    },
+    {
+        "text": "illinois",
+        "label": "GPE",
+        "start": 60589,
+        "end": 60597
+    },
+    {
+        "text": "lake county",
+        "label": "GPE",
+        "start": 60927,
+        "end": 60938
+    },
+    {
+        "text": "illinois",
+        "label": "GPE",
+        "start": 60940,
+        "end": 60948
+    },
+    {
+        "text": "section 10.5",
+        "label": "LAW",
+        "start": 61817,
+        "end": 61829
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 62190,
+        "end": 62212
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 62221,
+        "end": 62230
+    },
+    {
+        "text": "10.9",
+        "label": "CARDINAL",
+        "start": 63083,
+        "end": 63087
+    },
+    {
+        "text": "10.10",
+        "label": "CARDINAL",
+        "start": 63528,
+        "end": 63533
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 64095,
+        "end": 64098
+    },
+    {
+        "text": "10.10",
+        "label": "CARDINAL",
+        "start": 64677,
+        "end": 64682
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64855,
+        "end": 64860
+    },
+    {
+        "text": "10.11",
+        "label": "CARDINAL",
+        "start": 65073,
+        "end": 65078
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 65185,
+        "end": 65194
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 66037,
+        "end": 66059
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 66068,
+        "end": 66077
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 66086,
+        "end": 66091
+    },
+    {
+        "text": "section 10.13",
+        "label": "LAW",
+        "start": 67100,
+        "end": 67113
+    },
+    {
+        "text": "10.14",
+        "label": "CARDINAL",
+        "start": 67819,
+        "end": 67824
+    },
+    {
+        "text": "section 10.15",
+        "label": "LAW",
+        "start": 68324,
+        "end": 68337
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 68341,
+        "end": 68346
+    },
+    {
+        "text": "section 9.1",
+        "label": "LAW",
+        "start": 68431,
+        "end": 68442
+    },
+    {
+        "text": "section 10.16",
+        "label": "LAW",
+        "start": 68739,
+        "end": 68752
+    },
+    {
+        "text": "section 10.17",
+        "label": "LAW",
+        "start": 69126,
+        "end": 69139
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 69280,
+        "end": 69302
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 69311,
+        "end": 69320
+    },
+    {
+        "text": "10.18",
+        "label": "CARDINAL",
+        "start": 69329,
+        "end": 69334
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 69821,
+        "end": 69843
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 69852,
+        "end": 69861
+    },
+    {
+        "text": "reynolds group holdings inc.",
+        "label": "ORG",
+        "start": 69959,
+        "end": 69987
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 70014,
+        "end": 70036
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 70071,
+        "end": 70093
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 70102,
+        "end": 70111
+    },
+    {
+        "text": "services12",
+        "label": "DATE",
+        "start": 70157,
+        "end": 70167
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 70209,
+        "end": 70216
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 70249,
+        "end": 70253
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 70254,
+        "end": 70261
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 71008,
+        "end": 71017
+    },
+    {
+        "text": "10,109",
+        "label": "CARDINAL",
+        "start": 71154,
+        "end": 71160
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 71232,
+        "end": 71233
+    },
+    {
+        "text": "605",
+        "label": "CARDINAL",
+        "start": 71264,
+        "end": 71267
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 71285,
+        "end": 71286
+    },
+    {
+        "text": "1900",
+        "label": "DATE",
+        "start": 71326,
+        "end": 71330
+    },
+    {
+        "text": "west field court",
+        "label": "LOC",
+        "start": 71331,
+        "end": 71347
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 71353,
+        "end": 71354
+    },
+    {
+        "text": "2021",
+        "label": "DATE",
+        "start": 71494,
+        "end": 71498
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 71596,
+        "end": 71600
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 71619,
+        "end": 71641
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 71650,
+        "end": 71659
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 71701,
+        "end": 71708
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 71741,
+        "end": 71745
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 71746,
+        "end": 71753
+    },
+    {
+        "text": "5,834",
+        "label": "CARDINAL",
+        "start": 71857,
+        "end": 71862
+    },
+    {
+        "text": "32,155",
+        "label": "CARDINAL",
+        "start": 72037,
+        "end": 72043
+    },
+    {
+        "text": "2,014",
+        "label": "CARDINAL",
+        "start": 72134,
+        "end": 72139
+    },
+    {
+        "text": "5,073",
+        "label": "CARDINAL",
+        "start": 72227,
+        "end": 72232
+    },
+    {
+        "text": "4,094",
+        "label": "CARDINAL",
+        "start": 72358,
+        "end": 72363
+    },
+    {
+        "text": "5,918",
+        "label": "CARDINAL",
+        "start": 72416,
+        "end": 72421
+    },
+    {
+        "text": "4,028",
+        "label": "CARDINAL",
+        "start": 72516,
+        "end": 72521
+    },
+    {
+        "text": "4,815",
+        "label": "CARDINAL",
+        "start": 72607,
+        "end": 72612
+    },
+    {
+        "text": "2,292",
+        "label": "CARDINAL",
+        "start": 72667,
+        "end": 72672
+    },
+    {
+        "text": "11,861",
+        "label": "CARDINAL",
+        "start": 72754,
+        "end": 72760
+    },
+    {
+        "text": "7,597",
+        "label": "CARDINAL",
+        "start": 72834,
+        "end": 72839
+    },
+    {
+        "text": "9,649",
+        "label": "CARDINAL",
+        "start": 72944,
+        "end": 72949
+    },
+    {
+        "text": "4,316",
+        "label": "CARDINAL",
+        "start": 73008,
+        "end": 73013
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 73035,
+        "end": 73057
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 73066,
+        "end": 73075
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 73117,
+        "end": 73124
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 73157,
+        "end": 73161
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 73162,
+        "end": 73169
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 73500,
+        "end": 73509
+    },
+    {
+        "text": "1,583",
+        "label": "CARDINAL",
+        "start": 73718,
+        "end": 73723
+    },
+    {
+        "text": "39,079",
+        "label": "CARDINAL",
+        "start": 73884,
+        "end": 73890
+    },
+    {
+        "text": "18,479",
+        "label": "CARDINAL",
+        "start": 74018,
+        "end": 74024
+    },
+    {
+        "text": "9,233",
+        "label": "CARDINAL",
+        "start": 74185,
+        "end": 74190
+    },
+    {
+        "text": "11,113",
+        "label": "CARDINAL",
+        "start": 74313,
+        "end": 74319
+    },
+    {
+        "text": "12,137",
+        "label": "CARDINAL",
+        "start": 74448,
+        "end": 74454
+    },
+    {
+        "text": "microsoft",
+        "label": "ORG",
+        "start": 74466,
+        "end": 74475
+    },
+    {
+        "text": "15,637",
+        "label": "CARDINAL",
+        "start": 74595,
+        "end": 74601
+    },
+    {
+        "text": "36,835",
+        "label": "CARDINAL",
+        "start": 74754,
+        "end": 74760
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 74782,
+        "end": 74804
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 74813,
+        "end": 74822
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 74864,
+        "end": 74871
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 74904,
+        "end": 74908
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 74909,
+        "end": 74916
+    },
+    {
+        "text": "lan & wan\nmanagement",
+        "label": "ORG",
+        "start": 74937,
+        "end": 74957
+    },
+    {
+        "text": "at&t",
+        "label": "ORG",
+        "start": 75080,
+        "end": 75084
+    },
+    {
+        "text": "97,353",
+        "label": "CARDINAL",
+        "start": 75147,
+        "end": 75153
+    },
+    {
+        "text": "g1.2.10",
+        "label": "CARDINAL",
+        "start": 75158,
+        "end": 75165
+    },
+    {
+        "text": "41,820",
+        "label": "CARDINAL",
+        "start": 75240,
+        "end": 75246
+    },
+    {
+        "text": "61,082",
+        "label": "CARDINAL",
+        "start": 75348,
+        "end": 75354
+    },
+    {
+        "text": "32,720",
+        "label": "CARDINAL",
+        "start": 75453,
+        "end": 75459
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 75720,
+        "end": 75725
+    },
+    {
+        "text": "220,775",
+        "label": "CARDINAL",
+        "start": 75769,
+        "end": 75776
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 76029,
+        "end": 76038
+    },
+    {
+        "text": "at&t",
+        "label": "ORG",
+        "start": 76277,
+        "end": 76281
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 76436,
+        "end": 76458
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 76467,
+        "end": 76476
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 76518,
+        "end": 76525
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 76558,
+        "end": 76562
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 76563,
+        "end": 76570
+    },
+    {
+        "text": "microsoft",
+        "label": "ORG",
+        "start": 76732,
+        "end": 76741
+    },
+    {
+        "text": "microsoft",
+        "label": "ORG",
+        "start": 76742,
+        "end": 76751
+    },
+    {
+        "text": "novatus",
+        "label": "ORG",
+        "start": 77181,
+        "end": 77188
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 77458,
+        "end": 77464
+    },
+    {
+        "text": "minitab, & knowbe4",
+        "label": "ORG",
+        "start": 77602,
+        "end": 77620
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 77697,
+        "end": 77719
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 77728,
+        "end": 77737
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 77779,
+        "end": 77786
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 77819,
+        "end": 77823
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 77824,
+        "end": 77831
+    },
+    {
+        "text": "2021",
+        "label": "DATE",
+        "start": 77844,
+        "end": 77848
+    },
+    {
+        "text": "g1.4.4",
+        "label": "GPE",
+        "start": 78091,
+        "end": 78097
+    },
+    {
+        "text": "150 / hour",
+        "label": "TIME",
+        "start": 78426,
+        "end": 78436
+    },
+    {
+        "text": "200 / hour",
+        "label": "TIME",
+        "start": 78460,
+        "end": 78470
+    },
+    {
+        "text": "150 / hour",
+        "label": "TIME",
+        "start": 78494,
+        "end": 78504
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 78505,
+        "end": 78514
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 78549,
+        "end": 78555
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 78647,
+        "end": 78652
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 78706,
+        "end": 78712
+    },
+    {
+        "text": "g1.4.4",
+        "label": "ORG",
+        "start": 79026,
+        "end": 79032
+    },
+    {
+        "text": "200\n/ hour",
+        "label": "MONEY",
+        "start": 79317,
+        "end": 79327
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 79328,
+        "end": 79337
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 79372,
+        "end": 79378
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 79470,
+        "end": 79475
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 79529,
+        "end": 79535
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 79705,
+        "end": 79710
+    },
+    {
+        "text": "g1.4.2",
+        "label": "PRODUCT",
+        "start": 79761,
+        "end": 79767
+    },
+    {
+        "text": "g1.4.4",
+        "label": "ORG",
+        "start": 79781,
+        "end": 79787
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 79861,
+        "end": 79883
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 79892,
+        "end": 79901
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 79943,
+        "end": 79950
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 79983,
+        "end": 79987
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 79988,
+        "end": 79995
+    },
+    {
+        "text": "2021",
+        "label": "DATE",
+        "start": 80008,
+        "end": 80012
+    },
+    {
+        "text": "g1.4.4",
+        "label": "ORG",
+        "start": 80256,
+        "end": 80262
+    },
+    {
+        "text": "150 / hour",
+        "label": "TIME",
+        "start": 80467,
+        "end": 80477
+    },
+    {
+        "text": "200 / hour",
+        "label": "TIME",
+        "start": 80501,
+        "end": 80511
+    },
+    {
+        "text": "150 / hour",
+        "label": "TIME",
+        "start": 80535,
+        "end": 80545
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 80619,
+        "end": 80628
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 80663,
+        "end": 80669
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 80761,
+        "end": 80766
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 80820,
+        "end": 80826
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 81277,
+        "end": 81282
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 81669,
+        "end": 81678
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 81713,
+        "end": 81719
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 81811,
+        "end": 81816
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 81870,
+        "end": 81876
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 82039,
+        "end": 82061
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 82070,
+        "end": 82079
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 82121,
+        "end": 82128
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 82161,
+        "end": 82165
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 82166,
+        "end": 82173
+    },
+    {
+        "text": "2021",
+        "label": "DATE",
+        "start": 82185,
+        "end": 82189
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 82537,
+        "end": 82546
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 82605,
+        "end": 82627
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 82636,
+        "end": 82645
+    },
+    {
+        "text": "5500s",
+        "label": "DATE",
+        "start": 83112,
+        "end": 83117
+    },
+    {
+        "text": "year 2019",
+        "label": "DATE",
+        "start": 83145,
+        "end": 83154
+    },
+    {
+        "text": "reynolds services inc.",
+        "label": "ORG",
+        "start": 83530,
+        "end": 83552
+    },
+    {
+        "text": "reynolds\nservices inc.",
+        "label": "ORG",
+        "start": 83597,
+        "end": 83619
+    },
+    {
+        "text": "pactiv retiree health & welfare",
+        "label": "ORG",
+        "start": 83670,
+        "end": 83701
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 83901,
+        "end": 83910
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 84044,
+        "end": 84046
+    },
+    {
+        "text": "december 31, 2020 or (ii",
+        "label": "DATE",
+        "start": 84351,
+        "end": 84375
+    },
+    {
+        "text": "3,300",
+        "label": "CARDINAL",
+        "start": 84440,
+        "end": 84445
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 84555,
+        "end": 84577
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 84586,
+        "end": 84595
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 84895,
+        "end": 84900
+    },
+    {
+        "text": "kronos",
+        "label": "PERSON",
+        "start": 85032,
+        "end": 85038
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 85094,
+        "end": 85100
+    },
+    {
+        "text": "hris reporting",
+        "label": "PERSON",
+        "start": 85255,
+        "end": 85269
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 85591,
+        "end": 85602
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 85604,
+        "end": 85608
+    },
+    {
+        "text": "11,000",
+        "label": "CARDINAL",
+        "start": 85609,
+        "end": 85615
+    },
+    {
+        "text": "29,150",
+        "label": "CARDINAL",
+        "start": 85626,
+        "end": 85632
+    },
+    {
+        "text": "3,700",
+        "label": "CARDINAL",
+        "start": 85651,
+        "end": 85656
+    },
+    {
+        "text": "payroll & hris",
+        "label": "ORG",
+        "start": 85910,
+        "end": 85924
+    },
+    {
+        "text": "hris payroll",
+        "label": "PERSON",
+        "start": 85936,
+        "end": 85948
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 86024,
+        "end": 86035
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 86037,
+        "end": 86041
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 86042,
+        "end": 86045
+    },
+    {
+        "text": "europe & asia",
+        "label": "ORG",
+        "start": 86258,
+        "end": 86271
+    },
+    {
+        "text": "europe & asia",
+        "label": "ORG",
+        "start": 86469,
+        "end": 86482
+    },
+    {
+        "text": "march 31",
+        "label": "DATE",
+        "start": 86498,
+        "end": 86506
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 86508,
+        "end": 86512
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 86546,
+        "end": 86551
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 86615,
+        "end": 86637
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 86646,
+        "end": 86655
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 87117,
+        "end": 87126
+    },
+    {
+        "text": "125",
+        "label": "CARDINAL",
+        "start": 87154,
+        "end": 87157
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 87208,
+        "end": 87213
+    },
+    {
+        "text": "10+",
+        "label": "DATE",
+        "start": 87588,
+        "end": 87591
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 87676,
+        "end": 87683
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 87688,
+        "end": 87697
+    },
+    {
+        "text": "12\nmonths",
+        "label": "DATE",
+        "start": 88084,
+        "end": 88093
+    },
+    {
+        "text": "125",
+        "label": "CARDINAL",
+        "start": 88177,
+        "end": 88180
+    },
+    {
+        "text": "1,235",
+        "label": "CARDINAL",
+        "start": 88203,
+        "end": 88208
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 88258,
+        "end": 88263
+    },
+    {
+        "text": "18 months",
+        "label": "DATE",
+        "start": 88647,
+        "end": 88656
+    },
+    {
+        "text": "3,365",
+        "label": "CARDINAL",
+        "start": 88684,
+        "end": 88689
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 88728,
+        "end": 88733
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 88792,
+        "end": 88801
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 88961,
+        "end": 88983
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 88992,
+        "end": 89001
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 89079,
+        "end": 89087
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 89145,
+        "end": 89153
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 89987,
+        "end": 89992
+    },
+    {
+        "text": "3 months",
+        "label": "DATE",
+        "start": 90531,
+        "end": 90539
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 90568,
+        "end": 90577
+    },
+    {
+        "text": "95",
+        "label": "CARDINAL",
+        "start": 90605,
+        "end": 90607
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 90658,
+        "end": 90663
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 90727,
+        "end": 90749
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 90758,
+        "end": 90767
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 91068,
+        "end": 91077
+    },
+    {
+        "text": "10,100",
+        "label": "CARDINAL",
+        "start": 91105,
+        "end": 91111
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 91150,
+        "end": 91155
+    },
+    {
+        "text": "18 months",
+        "label": "DATE",
+        "start": 91399,
+        "end": 91408
+    },
+    {
+        "text": "22,500",
+        "label": "CARDINAL",
+        "start": 91436,
+        "end": 91442
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 91481,
+        "end": 91486
+    },
+    {
+        "text": "404",
+        "label": "CARDINAL",
+        "start": 91698,
+        "end": 91701
+    },
+    {
+        "text": "12\nmonths",
+        "label": "DATE",
+        "start": 91723,
+        "end": 91732
+    },
+    {
+        "text": "8,000",
+        "label": "CARDINAL",
+        "start": 91832,
+        "end": 91837
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 91876,
+        "end": 91881
+    },
+    {
+        "text": "g3.8",
+        "label": "ORG",
+        "start": 91928,
+        "end": 91932
+    },
+    {
+        "text": "2002",
+        "label": "DATE",
+        "start": 92046,
+        "end": 92050
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 92178,
+        "end": 92187
+    },
+    {
+        "text": "200",
+        "label": "CARDINAL",
+        "start": 92215,
+        "end": 92218
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 92269,
+        "end": 92274
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 92408,
+        "end": 92414
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 92419,
+        "end": 92428
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 92483,
+        "end": 92505
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 92514,
+        "end": 92523
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 92693,
+        "end": 92702
+    },
+    {
+        "text": "80",
+        "label": "CARDINAL",
+        "start": 92730,
+        "end": 92732
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 92783,
+        "end": 92788
+    },
+    {
+        "text": "g3.10\ntreasury services",
+        "label": "ORG",
+        "start": 92835,
+        "end": 92858
+    },
+    {
+        "text": "month-end",
+        "label": "DATE",
+        "start": 93112,
+        "end": 93121
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 93138,
+        "end": 93147
+    },
+    {
+        "text": "105",
+        "label": "CARDINAL",
+        "start": 93175,
+        "end": 93178
+    },
+    {
+        "text": "8,500",
+        "label": "CARDINAL",
+        "start": 93201,
+        "end": 93206
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 93256,
+        "end": 93261
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 93325,
+        "end": 93347
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 93356,
+        "end": 93365
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 93844,
+        "end": 93853
+    },
+    {
+        "text": "175",
+        "label": "CARDINAL",
+        "start": 93881,
+        "end": 93884
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 93936,
+        "end": 93941
+    },
+    {
+        "text": "us",
+        "label": "GPE",
+        "start": 94016,
+        "end": 94018
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 94023,
+        "end": 94029
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 94255,
+        "end": 94260
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 95171,
+        "end": 95180
+    },
+    {
+        "text": "100,275",
+        "label": "CARDINAL",
+        "start": 95208,
+        "end": 95215
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 95249,
+        "end": 95254
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 95318,
+        "end": 95340
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 95349,
+        "end": 95358
+    },
+    {
+        "text": "us",
+        "label": "GPE",
+        "start": 95440,
+        "end": 95442
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 95447,
+        "end": 95453
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 95687,
+        "end": 95692
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 96915,
+        "end": 96924
+    },
+    {
+        "text": "13,285",
+        "label": "CARDINAL",
+        "start": 96952,
+        "end": 96958
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 96998,
+        "end": 97003
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 97070,
+        "end": 97075
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 97152,
+        "end": 97157
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 97182,
+        "end": 97191
+    },
+    {
+        "text": "140",
+        "label": "CARDINAL",
+        "start": 97219,
+        "end": 97222
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 97274,
+        "end": 97279
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 97343,
+        "end": 97365
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 97374,
+        "end": 97383
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 97676,
+        "end": 97685
+    },
+    {
+        "text": "175",
+        "label": "CARDINAL",
+        "start": 97713,
+        "end": 97716
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 97768,
+        "end": 97773
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 97985,
+        "end": 97991
+    },
+    {
+        "text": "hourly",
+        "label": "TIME",
+        "start": 98185,
+        "end": 98191
+    },
+    {
+        "text": "24\nmonths",
+        "label": "DATE",
+        "start": 98217,
+        "end": 98226
+    },
+    {
+        "text": "1,500",
+        "label": "CARDINAL",
+        "start": 98329,
+        "end": 98334
+    },
+    {
+        "text": "140",
+        "label": "CARDINAL",
+        "start": 98345,
+        "end": 98348
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 98419,
+        "end": 98424
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 98488,
+        "end": 98510
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 98519,
+        "end": 98528
+    },
+    {
+        "text": "110m+ ps",
+        "label": "QUANTITY",
+        "start": 99146,
+        "end": 99154
+    },
+    {
+        "text": "50m+",
+        "label": "CARDINAL",
+        "start": 99156,
+        "end": 99160
+    },
+    {
+        "text": "40m+",
+        "label": "CARDINAL",
+        "start": 99165,
+        "end": 99169
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 99175,
+        "end": 99177
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 99415,
+        "end": 99424
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 99452,
+        "end": 99455
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 99511,
+        "end": 99516
+    },
+    {
+        "text": "november 1, 2019",
+        "label": "DATE",
+        "start": 99917,
+        "end": 99933
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 99935,
+        "end": 99944
+    },
+    {
+        "text": "november 1, 2019",
+        "label": "DATE",
+        "start": 100049,
+        "end": 100065
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 100083,
+        "end": 100105
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 100114,
+        "end": 100123
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 100603,
+        "end": 100612
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 100640,
+        "end": 100647
+    },
+    {
+        "text": "19,000",
+        "label": "CARDINAL",
+        "start": 100653,
+        "end": 100659
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 100688,
+        "end": 100693
+    },
+    {
+        "text": "g6.2",
+        "label": "PERSON",
+        "start": 100740,
+        "end": 100744
+    },
+    {
+        "text": "hsbc",
+        "label": "ORG",
+        "start": 101339,
+        "end": 101343
+    },
+    {
+        "text": "hsbc",
+        "label": "ORG",
+        "start": 101497,
+        "end": 101501
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 101516,
+        "end": 101525
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 101553,
+        "end": 101560
+    },
+    {
+        "text": "7,000",
+        "label": "CARDINAL",
+        "start": 101566,
+        "end": 101571
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 101600,
+        "end": 101605
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 101751,
+        "end": 101773
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 101782,
+        "end": 101791
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 102818,
+        "end": 102825
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 102868,
+        "end": 102877
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 102941,
+        "end": 102946
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 103010,
+        "end": 103032
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 103041,
+        "end": 103050
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 103949,
+        "end": 103958
+    },
+    {
+        "text": "190",
+        "label": "CARDINAL",
+        "start": 103986,
+        "end": 103989
+    },
+    {
+        "text": "70",
+        "label": "CARDINAL",
+        "start": 104028,
+        "end": 104030
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 104096,
+        "end": 104101
+    },
+    {
+        "text": "24\nmonths",
+        "label": "DATE",
+        "start": 105194,
+        "end": 105203
+    },
+    {
+        "text": "190",
+        "label": "CARDINAL",
+        "start": 105318,
+        "end": 105321
+    },
+    {
+        "text": "70",
+        "label": "CARDINAL",
+        "start": 105360,
+        "end": 105362
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 105428,
+        "end": 105433
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 105553,
+        "end": 105575
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 105584,
+        "end": 105593
+    },
+    {
+        "text": "24\nmonths",
+        "label": "DATE",
+        "start": 105789,
+        "end": 105798
+    },
+    {
+        "text": "190",
+        "label": "CARDINAL",
+        "start": 105903,
+        "end": 105906
+    },
+    {
+        "text": "45",
+        "label": "CARDINAL",
+        "start": 105942,
+        "end": 105944
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 106017,
+        "end": 106022
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 106132,
+        "end": 106135
+    },
+    {
+        "text": "the u.s. securities and exchange commission",
+        "label": "ORG",
+        "start": 106282,
+        "end": 106325
+    },
+    {
+        "text": "24 months",
+        "label": "DATE",
+        "start": 106360,
+        "end": 106369
+    },
+    {
+        "text": "10,000",
+        "label": "CARDINAL",
+        "start": 106397,
+        "end": 106403
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 106442,
+        "end": 106447
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 106599,
+        "end": 106602
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 106709,
+        "end": 106718
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 106770,
+        "end": 106792
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 106801,
+        "end": 106810
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 107134,
+        "end": 107140
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 107176,
+        "end": 107182
+    },
+    {
+        "text": "year-end",
+        "label": "DATE",
+        "start": 107419,
+        "end": 107427
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 107438,
+        "end": 107447
+    },
+    {
+        "text": "1,630",
+        "label": "CARDINAL",
+        "start": 107475,
+        "end": 107480
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 107519,
+        "end": 107524
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 107588,
+        "end": 107610
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 107619,
+        "end": 107628
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 108087,
+        "end": 108096
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 108148,
+        "end": 108170
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 108179,
+        "end": 108188
+    },
+    {
+        "text": "5500s",
+        "label": "DATE",
+        "start": 108646,
+        "end": 108651
+    },
+    {
+        "text": "year 2019",
+        "label": "DATE",
+        "start": 108679,
+        "end": 108688
+    },
+    {
+        "text": "reynolds services inc.",
+        "label": "ORG",
+        "start": 109059,
+        "end": 109081
+    },
+    {
+        "text": "reynolds services inc.",
+        "label": "ORG",
+        "start": 109126,
+        "end": 109148
+    },
+    {
+        "text": "2019 plan year\n",
+        "label": "DATE",
+        "start": 109431,
+        "end": 109446
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 109446,
+        "end": 109455
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 109629,
+        "end": 109638
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 109701,
+        "end": 109706
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 109770,
+        "end": 109792
+    },
+    {
+        "text": "1/21/2020",
+        "label": "DATE",
+        "start": 109801,
+        "end": 109810
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 109991,
+        "end": 109994
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 110101,
+        "end": 110110
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 110162,
+        "end": 110184
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 110193,
+        "end": 110202
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 110602,
+        "end": 110611
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 110639,
+        "end": 110642
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 110693,
+        "end": 110698
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 110762,
+        "end": 110784
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 110793,
+        "end": 110802
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 111823,
+        "end": 111830
+    },
+    {
+        "text": "12 months",
+        "label": "DATE",
+        "start": 111872,
+        "end": 111881
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 111944,
+        "end": 111949
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 112013,
+        "end": 112035
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 112044,
+        "end": 112053
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 112163,
+        "end": 112185
+    },
+    {
+        "text": "1/21/2020",
+        "label": "CARDINAL",
+        "start": 112194,
+        "end": 112203
+    }
+]

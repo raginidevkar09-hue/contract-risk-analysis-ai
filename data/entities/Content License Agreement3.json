@@ -1,0 +1,1736 @@
+[
+    {
+        "text": "10.26",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 197,
+        "end": 204
+    },
+    {
+        "text": "北京新浪互联信息服务有限公司",
+        "label": "PERSON",
+        "start": 250,
+        "end": 264
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 348,
+        "end": 353
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 383,
+        "end": 390
+    },
+    {
+        "text": "yisheng",
+        "label": "PERSON",
+        "start": 391,
+        "end": 398
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 517,
+        "end": 522
+    },
+    {
+        "text": "july 23",
+        "label": "DATE",
+        "start": 917,
+        "end": 924
+    },
+    {
+        "text": "2009",
+        "label": "DATE",
+        "start": 926,
+        "end": 930
+    },
+    {
+        "text": "shanghai",
+        "label": "GPE",
+        "start": 1455,
+        "end": 1463
+    },
+    {
+        "text": "co. ltd.",
+        "label": "ORG",
+        "start": 1497,
+        "end": 1505
+    },
+    {
+        "text": "2008",
+        "label": "DATE",
+        "start": 1589,
+        "end": 1593
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 2365,
+        "end": 2368
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 2741,
+        "end": 2758
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 2774,
+        "end": 2783
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2815,
+        "end": 2818
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 3277,
+        "end": 3282
+    },
+    {
+        "text": "prc",
+        "label": "GPE",
+        "start": 3413,
+        "end": 3416
+    },
+    {
+        "text": "prc",
+        "label": "GPE",
+        "start": 3523,
+        "end": 3526
+    },
+    {
+        "text": "prc",
+        "label": "GPE",
+        "start": 3722,
+        "end": 3725
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 3873,
+        "end": 3881
+    },
+    {
+        "text": "prc",
+        "label": "GPE",
+        "start": 3902,
+        "end": 3905
+    },
+    {
+        "text": "saturday",
+        "label": "DATE",
+        "start": 3951,
+        "end": 3959
+    },
+    {
+        "text": "sunday",
+        "label": "DATE",
+        "start": 3963,
+        "end": 3969
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 4048,
+        "end": 4055
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 4543,
+        "end": 4548
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 4601,
+        "end": 4606
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 4746,
+        "end": 4749
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 4844,
+        "end": 4852
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 4877,
+        "end": 4882
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 4948,
+        "end": 4953
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 5262,
+        "end": 5279
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 5295,
+        "end": 5304
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 5603,
+        "end": 5606
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 5908,
+        "end": 5913
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 6033,
+        "end": 6038
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 6104,
+        "end": 6109
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 6224,
+        "end": 6229
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 6388,
+        "end": 6391
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 6450,
+        "end": 6453
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 6563,
+        "end": 6568
+    },
+    {
+        "text": "july 27",
+        "label": "DATE",
+        "start": 6626,
+        "end": 6633
+    },
+    {
+        "text": "2009",
+        "label": "DATE",
+        "start": 6635,
+        "end": 6639
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 6699,
+        "end": 6702
+    },
+    {
+        "text": "13(d)(3",
+        "label": "DATE",
+        "start": 6944,
+        "end": 6951
+    },
+    {
+        "text": "1934",
+        "label": "DATE",
+        "start": 6987,
+        "end": 6991
+    },
+    {
+        "text": "prc",
+        "label": "GPE",
+        "start": 7007,
+        "end": 7010
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 7043,
+        "end": 7048
+    },
+    {
+        "text": "hong kong",
+        "label": "GPE",
+        "start": 7060,
+        "end": 7069
+    },
+    {
+        "text": "macau",
+        "label": "GPE",
+        "start": 7071,
+        "end": 7076
+    },
+    {
+        "text": "taiwan",
+        "label": "GPE",
+        "start": 7081,
+        "end": 7087
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 7139,
+        "end": 7142
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 7195,
+        "end": 7200
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 7248,
+        "end": 7253
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 7367,
+        "end": 7374
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 7495,
+        "end": 7498
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 7509,
+        "end": 7526
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 7542,
+        "end": 7551
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 7645,
+        "end": 7652
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 7757,
+        "end": 7760
+    },
+    {
+        "text": "10.7",
+        "label": "CARDINAL",
+        "start": 7983,
+        "end": 7987
+    },
+    {
+        "text": "2.1(c",
+        "label": "CARDINAL",
+        "start": 8042,
+        "end": 8047
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 8170,
+        "end": 8173
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 8175,
+        "end": 8183
+    },
+    {
+        "text": "10.7",
+        "label": "CARDINAL",
+        "start": 8482,
+        "end": 8486
+    },
+    {
+        "text": "2.1(c",
+        "label": "CARDINAL",
+        "start": 8541,
+        "end": 8546
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 8999,
+        "end": 9002
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 9004,
+        "end": 9012
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9241,
+        "end": 9246
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 9278,
+        "end": 9283
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 9497,
+        "end": 9505
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 9760,
+        "end": 9768
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 10128,
+        "end": 10136
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 10160,
+        "end": 10163
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 10180,
+        "end": 10188
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 10360,
+        "end": 10368
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 10805,
+        "end": 10822
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 10838,
+        "end": 10847
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 11270,
+        "end": 11278
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 11358,
+        "end": 11360
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 11499,
+        "end": 11502
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 12048,
+        "end": 12051
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 12282,
+        "end": 12287
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 12310,
+        "end": 12313
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 13037,
+        "end": 13042
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 13220,
+        "end": 13225
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 13264,
+        "end": 13267
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 13590,
+        "end": 13593
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 14028,
+        "end": 14036
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14529,
+        "end": 14534
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 14553,
+        "end": 14570
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 14586,
+        "end": 14595
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 14597,
+        "end": 14600
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 14663,
+        "end": 14671
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 14946,
+        "end": 14954
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 15422,
+        "end": 15430
+    },
+    {
+        "text": "3.3(a",
+        "label": "CARDINAL",
+        "start": 15469,
+        "end": 15474
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 16226,
+        "end": 16234
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 16427,
+        "end": 16430
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 16782,
+        "end": 16785
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 16809,
+        "end": 16817
+    },
+    {
+        "text": "3.5",
+        "label": "CARDINAL",
+        "start": 17034,
+        "end": 17037
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 18343,
+        "end": 18360
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 18376,
+        "end": 18385
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 18409,
+        "end": 18412
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18494,
+        "end": 18499
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18707,
+        "end": 18712
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 18732,
+        "end": 18735
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 19008,
+        "end": 19016
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 19257,
+        "end": 19260
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 19367,
+        "end": 19372
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 19568,
+        "end": 19573
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 19772,
+        "end": 19775
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 20617,
+        "end": 20625
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 20797,
+        "end": 20800
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 20973,
+        "end": 20979
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 20981,
+        "end": 20983
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 20985,
+        "end": 20991
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 21068,
+        "end": 21085
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 21101,
+        "end": 21110
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 21259,
+        "end": 21262
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 21770,
+        "end": 21773
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 22083,
+        "end": 22085
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 22087,
+        "end": 22091
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 22241,
+        "end": 22243
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 22319,
+        "end": 22321
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 22419,
+        "end": 22427
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 22685,
+        "end": 22687
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 22689,
+        "end": 22693
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 22843,
+        "end": 22845
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 22921,
+        "end": 22923
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 23004,
+        "end": 23007
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 23175,
+        "end": 23178
+    },
+    {
+        "text": "9.02(c)(iii",
+        "label": "DATE",
+        "start": 23314,
+        "end": 23325
+    },
+    {
+        "text": "9.02(d)(i",
+        "label": "CARDINAL",
+        "start": 23330,
+        "end": 23339
+    },
+    {
+        "text": "6.7",
+        "label": "CARDINAL",
+        "start": 23552,
+        "end": 23555
+    },
+    {
+        "text": "6.6",
+        "label": "CARDINAL",
+        "start": 23558,
+        "end": 23561
+    },
+    {
+        "text": "90",
+        "label": "CARDINAL",
+        "start": 23796,
+        "end": 23798
+    },
+    {
+        "text": "90-day",
+        "label": "DATE",
+        "start": 23921,
+        "end": 23927
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 24196,
+        "end": 24213
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 24229,
+        "end": 24238
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 24335,
+        "end": 24338
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 24341,
+        "end": 24349
+    },
+    {
+        "text": "2.1(b",
+        "label": "CARDINAL",
+        "start": 24373,
+        "end": 24378
+    },
+    {
+        "text": "6.7",
+        "label": "CARDINAL",
+        "start": 24656,
+        "end": 24659
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 24763,
+        "end": 24766
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 24893,
+        "end": 24896
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 25396,
+        "end": 25401
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 26578,
+        "end": 26581
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 26595,
+        "end": 26603
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 27087,
+        "end": 27090
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 27488,
+        "end": 27493
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 27808,
+        "end": 27816
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 28211,
+        "end": 28214
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 28245,
+        "end": 28253
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 28578,
+        "end": 28583
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 29454,
+        "end": 29462
+    },
+    {
+        "text": "licensee",
+        "label": "PERSON",
+        "start": 29762,
+        "end": 29770
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 30094,
+        "end": 30097
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 30521,
+        "end": 30538
+    },
+    {
+        "text": "1/21/2014",
+        "label": "CARDINAL",
+        "start": 30554,
+        "end": 30563
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 30790,
+        "end": 30807
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 30823,
+        "end": 30832
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 30934,
+        "end": 30939
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 31929,
+        "end": 31932
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 32001,
+        "end": 32004
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 32308,
+        "end": 32313
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 33233,
+        "end": 33237
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 33500,
+        "end": 33505
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 33510,
+        "end": 33514
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 33606,
+        "end": 33610
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 33984,
+        "end": 33988
+    },
+    {
+        "text": "messenger",
+        "label": "PERSON",
+        "start": 34199,
+        "end": 34208
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 34300,
+        "end": 34305
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 34307,
+        "end": 34308
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 34371,
+        "end": 34388
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 34404,
+        "end": 34413
+    },
+    {
+        "text": "5:00 p.m.",
+        "label": "TIME",
+        "start": 34504,
+        "end": 34513
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 34515,
+        "end": 34522
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 34623,
+        "end": 34632
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 34690,
+        "end": 34695
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 34697,
+        "end": 34698
+    },
+    {
+        "text": "5:00 p.m.",
+        "label": "TIME",
+        "start": 34838,
+        "end": 34847
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 34849,
+        "end": 34856
+    },
+    {
+        "text": "10.3",
+        "label": "DATE",
+        "start": 35033,
+        "end": 35037
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 35080,
+        "end": 35087
+    },
+    {
+        "text": "58",
+        "label": "DATE",
+        "start": 35118,
+        "end": 35120
+    },
+    {
+        "text": "4th",
+        "label": "ORDINAL",
+        "start": 35131,
+        "end": 35134
+    },
+    {
+        "text": "haidian",
+        "label": "NORP",
+        "start": 35145,
+        "end": 35152
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 35163,
+        "end": 35170
+    },
+    {
+        "text": "100090",
+        "label": "DATE",
+        "start": 35172,
+        "end": 35178
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 35200,
+        "end": 35205
+    },
+    {
+        "text": "7166",
+        "label": "DATE",
+        "start": 35229,
+        "end": 35233
+    },
+    {
+        "text": "guomin",
+        "label": "PERSON",
+        "start": 35275,
+        "end": 35281
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 35361,
+        "end": 35363
+    },
+    {
+        "text": "jianguomenwai",
+        "label": "PERSON",
+        "start": 35400,
+        "end": 35413
+    },
+    {
+        "text": "dajie\n",
+        "label": "PERSON",
+        "start": 35414,
+        "end": 35420
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 35420,
+        "end": 35427
+    },
+    {
+        "text": "100022",
+        "label": "DATE",
+        "start": 35428,
+        "end": 35434
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 35456,
+        "end": 35461
+    },
+    {
+        "text": "10 6563",
+        "label": "DATE",
+        "start": 35477,
+        "end": 35484
+    },
+    {
+        "text": "6001",
+        "label": "DATE",
+        "start": 35485,
+        "end": 35489
+    },
+    {
+        "text": "lee edwards",
+        "label": "PERSON",
+        "start": 35501,
+        "end": 35512
+    },
+    {
+        "text": "esq",
+        "label": "GPE",
+        "start": 35514,
+        "end": 35517
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 35537,
+        "end": 35544
+    },
+    {
+        "text": "yisheng",
+        "label": "PERSON",
+        "start": 35545,
+        "end": 35552
+    },
+    {
+        "text": "383",
+        "label": "CARDINAL",
+        "start": 35619,
+        "end": 35622
+    },
+    {
+        "text": "shanghai",
+        "label": "GPE",
+        "start": 35637,
+        "end": 35645
+    },
+    {
+        "text": "200072",
+        "label": "DATE",
+        "start": 35646,
+        "end": 35652
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 35674,
+        "end": 35679
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 35697,
+        "end": 35699
+    },
+    {
+        "text": "6086",
+        "label": "DATE",
+        "start": 35701,
+        "end": 35705
+    },
+    {
+        "text": "7111",
+        "label": "CARDINAL",
+        "start": 35706,
+        "end": 35710
+    },
+    {
+        "text": "42/f",
+        "label": "CARDINAL",
+        "start": 35823,
+        "end": 35827
+    },
+    {
+        "text": "edinburgh",
+        "label": "PERSON",
+        "start": 35829,
+        "end": 35838
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 35859,
+        "end": 35861
+    },
+    {
+        "text": "hong kong",
+        "label": "GPE",
+        "start": 35884,
+        "end": 35893
+    },
+    {
+        "text": "3740",
+        "label": "DATE",
+        "start": 35910,
+        "end": 35914
+    },
+    {
+        "text": "4727",
+        "label": "DATE",
+        "start": 35915,
+        "end": 35919
+    },
+    {
+        "text": "jonathan b.",
+        "label": "PERSON",
+        "start": 35931,
+        "end": 35942
+    },
+    {
+        "text": "esq",
+        "label": "GPE",
+        "start": 35950,
+        "end": 35953
+    },
+    {
+        "text": "julie",
+        "label": "PERSON",
+        "start": 35962,
+        "end": 35967
+    },
+    {
+        "text": "gao",
+        "label": "PERSON",
+        "start": 35968,
+        "end": 35971
+    },
+    {
+        "text": "esq",
+        "label": "GPE",
+        "start": 35973,
+        "end": 35976
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 35979,
+        "end": 35983
+    },
+    {
+        "text": "sec",
+        "label": "ORG",
+        "start": 36042,
+        "end": 36045
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 36164,
+        "end": 36181
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 36197,
+        "end": 36206
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 36932,
+        "end": 36936
+    },
+    {
+        "text": "10.6",
+        "label": "CARDINAL",
+        "start": 37772,
+        "end": 37776
+    },
+    {
+        "text": "10.7",
+        "label": "CARDINAL",
+        "start": 38078,
+        "end": 38082
+    },
+    {
+        "text": "10.8",
+        "label": "CARDINAL",
+        "start": 38539,
+        "end": 38543
+    },
+    {
+        "text": "10.9",
+        "label": "CARDINAL",
+        "start": 38728,
+        "end": 38732
+    },
+    {
+        "text": "10.9",
+        "label": "CARDINAL",
+        "start": 38735,
+        "end": 38739
+    },
+    {
+        "text": "10.9",
+        "label": "CARDINAL",
+        "start": 39403,
+        "end": 39407
+    },
+    {
+        "text": "assert",
+        "label": "PERSON",
+        "start": 39702,
+        "end": 39708
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 39799,
+        "end": 39816
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 39832,
+        "end": 39841
+    },
+    {
+        "text": "10.10",
+        "label": "CARDINAL",
+        "start": 39843,
+        "end": 39848
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 39853,
+        "end": 39858
+    },
+    {
+        "text": "10.11",
+        "label": "CARDINAL",
+        "start": 40433,
+        "end": 40438
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 40650,
+        "end": 40655
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 40777,
+        "end": 40782
+    },
+    {
+        "text": "60",
+        "label": "CARDINAL",
+        "start": 41290,
+        "end": 41292
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 41294,
+        "end": 41298
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 41484,
+        "end": 41491
+    },
+    {
+        "text": "prc",
+        "label": "GPE",
+        "start": 41493,
+        "end": 41496
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 41585,
+        "end": 41590
+    },
+    {
+        "text": "mandarin",
+        "label": "LANGUAGE",
+        "start": 41633,
+        "end": 41641
+    },
+    {
+        "text": "chinese",
+        "label": "NORP",
+        "start": 41642,
+        "end": 41649
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 41698,
+        "end": 41703
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 41705,
+        "end": 41706
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 41748,
+        "end": 41751
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 41753,
+        "end": 41754
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 41797,
+        "end": 41800
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 41802,
+        "end": 41803
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 41825,
+        "end": 41828
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 41830,
+        "end": 41831
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 41874,
+        "end": 41879
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 41943,
+        "end": 41946
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 41948,
+        "end": 41949
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 41970,
+        "end": 41973
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 41975,
+        "end": 41976
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 42020,
+        "end": 42025
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 42241,
+        "end": 42246
+    },
+    {
+        "text": "10.12",
+        "label": "CARDINAL",
+        "start": 42938,
+        "end": 42943
+    },
+    {
+        "text": "10.13",
+        "label": "CARDINAL",
+        "start": 43107,
+        "end": 43112
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 43373,
+        "end": 43390
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 43406,
+        "end": 43415
+    },
+    {
+        "text": "10.14",
+        "label": "CARDINAL",
+        "start": 43793,
+        "end": 43798
+    },
+    {
+        "text": "10.15",
+        "label": "CARDINAL",
+        "start": 44527,
+        "end": 44532
+    },
+    {
+        "text": "riot",
+        "label": "PERSON",
+        "start": 44774,
+        "end": 44778
+    },
+    {
+        "text": "90",
+        "label": "CARDINAL",
+        "start": 45034,
+        "end": 45036
+    },
+    {
+        "text": "10.16",
+        "label": "CARDINAL",
+        "start": 45045,
+        "end": 45050
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 45152,
+        "end": 45155
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 45352,
+        "end": 45355
+    },
+    {
+        "text": "10.17",
+        "label": "CARDINAL",
+        "start": 45381,
+        "end": 45386
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 45801,
+        "end": 45818
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 45834,
+        "end": 45843
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 45975,
+        "end": 45980
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 45999,
+        "end": 46006
+    },
+    {
+        "text": "charles chao",
+        "label": "PERSON",
+        "start": 46061,
+        "end": 46073
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 46090,
+        "end": 46097
+    },
+    {
+        "text": "yisheng",
+        "label": "PERSON",
+        "start": 46098,
+        "end": 46105
+    },
+    {
+        "text": "fei",
+        "label": "PERSON",
+        "start": 46152,
+        "end": 46155
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 46184,
+        "end": 46201
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 46217,
+        "end": 46226
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 46334,
+        "end": 46351
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 46367,
+        "end": 46376
+    }
+]

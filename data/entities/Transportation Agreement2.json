@@ -1,0 +1,434 @@
+[
+    {
+        "text": "99.12",
+        "label": "CARDINAL",
+        "start": 75,
+        "end": 80
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 681,
+        "end": 682
+    },
+    {
+        "text": "november 01, 2016",
+        "label": "DATE",
+        "start": 700,
+        "end": 717
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 719,
+        "end": 720
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 756,
+        "end": 757
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 778,
+        "end": 779
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 810,
+        "end": 811
+    },
+    {
+        "text": "delaware",
+        "label": "GPE",
+        "start": 846,
+        "end": 854
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 856,
+        "end": 857
+    },
+    {
+        "text": "november 01, 2014",
+        "label": "DATE",
+        "start": 865,
+        "end": 882
+    },
+    {
+        "text": "october 31, 2017",
+        "label": "DATE",
+        "start": 886,
+        "end": 902
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 904,
+        "end": 905
+    },
+    {
+        "text": "cancels",
+        "label": "GPE",
+        "start": 964,
+        "end": 971
+    },
+    {
+        "text": "november 01, 2015",
+        "label": "DATE",
+        "start": 1078,
+        "end": 1095
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 1134,
+        "end": 1135
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 1145,
+        "end": 1150
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 1171,
+        "end": 1178
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 1221,
+        "end": 1222
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 1650,
+        "end": 1651
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 1681,
+        "end": 1683
+    },
+    {
+        "text": "appendix a.\n11",
+        "label": "PERSON",
+        "start": 1774,
+        "end": 1788
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 1813,
+        "end": 1815
+    },
+    {
+        "text": "ferc",
+        "label": "ORG",
+        "start": 2037,
+        "end": 2041
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2054,
+        "end": 2059
+    },
+    {
+        "text": "section 4",
+        "label": "LAW",
+        "start": 2175,
+        "end": 2184
+    },
+    {
+        "text": "ferc",
+        "label": "ORG",
+        "start": 2407,
+        "end": 2411
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 2424,
+        "end": 2429
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 2449,
+        "end": 2450
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 2654,
+        "end": 2658
+    },
+    {
+        "text": "2/26/2016",
+        "label": "DATE",
+        "start": 2660,
+        "end": 2669
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 2793,
+        "end": 2795
+    },
+    {
+        "text": "michigan",
+        "label": "GPE",
+        "start": 3221,
+        "end": 3229
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 3231,
+        "end": 3233
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 3941,
+        "end": 3943
+    },
+    {
+        "text": "700",
+        "label": "CARDINAL",
+        "start": 4381,
+        "end": 4384
+    },
+    {
+        "text": "louisiana st.",
+        "label": "PERSON",
+        "start": 4385,
+        "end": 4398
+    },
+    {
+        "text": "700",
+        "label": "CARDINAL",
+        "start": 4406,
+        "end": 4409
+    },
+    {
+        "text": "houston",
+        "label": "GPE",
+        "start": 4410,
+        "end": 4417
+    },
+    {
+        "text": "77002-2700",
+        "label": "DATE",
+        "start": 4422,
+        "end": 4432
+    },
+    {
+        "text": "700",
+        "label": "CARDINAL",
+        "start": 4454,
+        "end": 4457
+    },
+    {
+        "text": "louisiana st.",
+        "label": "PERSON",
+        "start": 4458,
+        "end": 4471
+    },
+    {
+        "text": "700",
+        "label": "CARDINAL",
+        "start": 4479,
+        "end": 4482
+    },
+    {
+        "text": "houston",
+        "label": "GPE",
+        "start": 4483,
+        "end": 4490
+    },
+    {
+        "text": "77002-2700",
+        "label": "DATE",
+        "start": 4495,
+        "end": 4505
+    },
+    {
+        "text": "steven d. jaskolski",
+        "label": "PERSON",
+        "start": 4641,
+        "end": 4660
+    },
+    {
+        "text": "steven d. jaskolski",
+        "label": "PERSON",
+        "start": 4661,
+        "end": 4680
+    },
+    {
+        "text": "joseph e. pollard",
+        "label": "PERSON",
+        "start": 4715,
+        "end": 4732
+    },
+    {
+        "text": "joseph e. pollard",
+        "label": "PERSON",
+        "start": 4733,
+        "end": 4750
+    },
+    {
+        "text": "december 14, 2015",
+        "label": "DATE",
+        "start": 4788,
+        "end": 4805
+    },
+    {
+        "text": "december 14, 2015",
+        "label": "DATE",
+        "start": 4813,
+        "end": 4830
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 4856,
+        "end": 4860
+    },
+    {
+        "text": "2/26/2016",
+        "label": "DATE",
+        "start": 4862,
+        "end": 4871
+    },
+    {
+        "text": "november 01, 2016",
+        "label": "DATE",
+        "start": 4922,
+        "end": 4939
+    },
+    {
+        "text": "november 01, 2015",
+        "label": "DATE",
+        "start": 4967,
+        "end": 4984
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 5023,
+        "end": 5028
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 5223,
+        "end": 5230
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 5261,
+        "end": 5268
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 5343,
+        "end": 5350
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 5381,
+        "end": 5388
+    },
+    {
+        "text": "10/31/2016",
+        "label": "DATE",
+        "start": 5401,
+        "end": 5411
+    },
+    {
+        "text": "south chester",
+        "label": "GPE",
+        "start": 5412,
+        "end": 5425
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 5463,
+        "end": 5470
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 5501,
+        "end": 5508
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 5577,
+        "end": 5584
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 5647,
+        "end": 5654
+    },
+    {
+        "text": "10/31/2016",
+        "label": "DATE",
+        "start": 5667,
+        "end": 5677
+    },
+    {
+        "text": "101,300",
+        "label": "CARDINAL",
+        "start": 5717,
+        "end": 5724
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 5782,
+        "end": 5786
+    },
+    {
+        "text": "2/26/2016",
+        "label": "DATE",
+        "start": 5788,
+        "end": 5797
+    },
+    {
+        "text": "99.12",
+        "label": "CARDINAL",
+        "start": 5817,
+        "end": 5822
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 5956,
+        "end": 5960
+    },
+    {
+        "text": "2/26/2016",
+        "label": "DATE",
+        "start": 5962,
+        "end": 5971
+    }
+]

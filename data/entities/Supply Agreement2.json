@@ -1,0 +1,1328 @@
+[
+    {
+        "text": "10.18",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "text": "november 1, 2019",
+        "label": "DATE",
+        "start": 86,
+        "end": 102
+    },
+    {
+        "text": "1900",
+        "label": "DATE",
+        "start": 228,
+        "end": 232
+    },
+    {
+        "text": "west field court",
+        "label": "LOC",
+        "start": 233,
+        "end": 249
+    },
+    {
+        "text": "60045",
+        "label": "DATE",
+        "start": 267,
+        "end": 272
+    },
+    {
+        "text": "1900",
+        "label": "DATE",
+        "start": 363,
+        "end": 367
+    },
+    {
+        "text": "west field court",
+        "label": "LOC",
+        "start": 368,
+        "end": 384
+    },
+    {
+        "text": "60045",
+        "label": "DATE",
+        "start": 402,
+        "end": 407
+    },
+    {
+        "text": "seller",
+        "label": "PERSON",
+        "start": 419,
+        "end": 425
+    },
+    {
+        "text": "a. seller",
+        "label": "PERSON",
+        "start": 542,
+        "end": 551
+    },
+    {
+        "text": "b. buyer",
+        "label": "PERSON",
+        "start": 631,
+        "end": 639
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1022,
+        "end": 1023
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1136,
+        "end": 1141
+    },
+    {
+        "text": "11(d",
+        "label": "CARDINAL",
+        "start": 1514,
+        "end": 1518
+    },
+    {
+        "text": "section 10",
+        "label": "LAW",
+        "start": 1875,
+        "end": 1885
+    },
+    {
+        "text": "section 11",
+        "label": "LAW",
+        "start": 2133,
+        "end": 2143
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 2513,
+        "end": 2514
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 4232,
+        "end": 4254
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 4272,
+        "end": 4273
+    },
+    {
+        "text": "approximately the past eight years",
+        "label": "DATE",
+        "start": 4311,
+        "end": 4345
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 4473,
+        "end": 4501
+    },
+    {
+        "text": "canada",
+        "label": "GPE",
+        "start": 4503,
+        "end": 4509
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 4514,
+        "end": 4520
+    },
+    {
+        "text": "the next six months",
+        "label": "DATE",
+        "start": 4847,
+        "end": 4866
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 5817,
+        "end": 5818
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 5923,
+        "end": 5926
+    },
+    {
+        "text": "1st",
+        "label": "ORDINAL",
+        "start": 6151,
+        "end": 6154
+    },
+    {
+        "text": "2nd",
+        "label": "ORDINAL",
+        "start": 6295,
+        "end": 6298
+    },
+    {
+        "text": "3rd",
+        "label": "ORDINAL",
+        "start": 6310,
+        "end": 6313
+    },
+    {
+        "text": "4th",
+        "label": "ORDINAL",
+        "start": 6415,
+        "end": 6418
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 6481,
+        "end": 6482
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 6741,
+        "end": 6769
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 7186,
+        "end": 7188
+    },
+    {
+        "text": "one year",
+        "label": "DATE",
+        "start": 7520,
+        "end": 7528
+    },
+    {
+        "text": "100,000",
+        "label": "CARDINAL",
+        "start": 7647,
+        "end": 7654
+    },
+    {
+        "text": "section 2-609",
+        "label": "LAW",
+        "start": 8458,
+        "end": 8471
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 8531,
+        "end": 8544
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 8697,
+        "end": 8719
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 8737,
+        "end": 8738
+    },
+    {
+        "text": "seller",
+        "label": "PERSON",
+        "start": 9002,
+        "end": 9008
+    },
+    {
+        "text": "c.\n",
+        "label": "PERSON",
+        "start": 9558,
+        "end": 9561
+    },
+    {
+        "text": "the united states food and drug administration",
+        "label": "ORG",
+        "start": 9787,
+        "end": 9833
+    },
+    {
+        "text": "seller",
+        "label": "PERSON",
+        "start": 9870,
+        "end": 9876
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 10058,
+        "end": 10086
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 10117,
+        "end": 10119
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10722,
+        "end": 10727
+    },
+    {
+        "text": "seller",
+        "label": "PERSON",
+        "start": 10807,
+        "end": 10813
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 11448,
+        "end": 11449
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 11619,
+        "end": 11620
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 12024,
+        "end": 12025
+    },
+    {
+        "text": "section 7",
+        "label": "LAW",
+        "start": 12157,
+        "end": 12166
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 12185,
+        "end": 12207
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 12225,
+        "end": 12226
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 12622,
+        "end": 12623
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 13268,
+        "end": 13269
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 13310,
+        "end": 13314
+    },
+    {
+        "text": "levy",
+        "label": "PERSON",
+        "start": 13316,
+        "end": 13320
+    },
+    {
+        "text": "b.\nseller",
+        "label": "PERSON",
+        "start": 13416,
+        "end": 13425
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 13468,
+        "end": 13469
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 13475,
+        "end": 13480
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 13781,
+        "end": 13782
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 13788,
+        "end": 13793
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 14153,
+        "end": 14154
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14160,
+        "end": 14165
+    },
+    {
+        "text": "the product); (4",
+        "label": "ORG",
+        "start": 14698,
+        "end": 14714
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 14906,
+        "end": 14907
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 15066,
+        "end": 15067
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15073,
+        "end": 15078
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 15236,
+        "end": 15237
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15243,
+        "end": 15248
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 15617,
+        "end": 15618
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 15624,
+        "end": 15629
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 16131,
+        "end": 16132
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 16322,
+        "end": 16323
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 16563,
+        "end": 16564
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 16737,
+        "end": 16759
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 16778,
+        "end": 16779
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 17278,
+        "end": 17279
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 17389,
+        "end": 17390
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 17810,
+        "end": 17811
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18156,
+        "end": 18161
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 18173,
+        "end": 18174
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18205,
+        "end": 18210
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 18274,
+        "end": 18275
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18391,
+        "end": 18396
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 18408,
+        "end": 18409
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 19868,
+        "end": 19869
+    },
+    {
+        "text": "at least 10,000,000",
+        "label": "CARDINAL",
+        "start": 20140,
+        "end": 20159
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 20574,
+        "end": 20596
+    },
+    {
+        "text": "at least 10,000,000",
+        "label": "CARDINAL",
+        "start": 20707,
+        "end": 20726
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 21203,
+        "end": 21207
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 21220,
+        "end": 21224
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 21284,
+        "end": 21288
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 21379,
+        "end": 21381
+    },
+    {
+        "text": "at least 10,000,000",
+        "label": "CARDINAL",
+        "start": 21456,
+        "end": 21475
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 22299,
+        "end": 22302
+    },
+    {
+        "text": "ten",
+        "label": "CARDINAL",
+        "start": 22756,
+        "end": 22759
+    },
+    {
+        "text": "at least thirty",
+        "label": "CARDINAL",
+        "start": 22788,
+        "end": 22803
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 22805,
+        "end": 22813
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 24248,
+        "end": 24270
+    },
+    {
+        "text": "100\nmillion",
+        "label": "MONEY",
+        "start": 24587,
+        "end": 24598
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 24705,
+        "end": 24706
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 24796,
+        "end": 24797
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 25224,
+        "end": 25225
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 25607,
+        "end": 25608
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 26316,
+        "end": 26319
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 26494,
+        "end": 26498
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 27085,
+        "end": 27086
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 27191,
+        "end": 27192
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 27270,
+        "end": 27271
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 27514,
+        "end": 27515
+    },
+    {
+        "text": "c.\nforce majeure",
+        "label": "PERSON",
+        "start": 27590,
+        "end": 27606
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 28328,
+        "end": 28333
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 28920,
+        "end": 28921
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 29137,
+        "end": 29159
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 29418,
+        "end": 29419
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 30423,
+        "end": 30429
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 30431,
+        "end": 30439
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 31235,
+        "end": 31237
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 31832,
+        "end": 31833
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 32076,
+        "end": 32077
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 32345,
+        "end": 32346
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 32664,
+        "end": 32668
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 33223,
+        "end": 33245
+    },
+    {
+        "text": "11/15/2019",
+        "label": "DATE",
+        "start": 33252,
+        "end": 33262
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 33287,
+        "end": 33288
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 33302,
+        "end": 33303
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 35059,
+        "end": 35061
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 35255,
+        "end": 35256
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 35428,
+        "end": 35429
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 35612,
+        "end": 35613
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35687,
+        "end": 35692
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 35782,
+        "end": 35783
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35845,
+        "end": 35850
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 35890,
+        "end": 35895
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 35959,
+        "end": 35960
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 36262,
+        "end": 36263
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 37536,
+        "end": 37558
+    },
+    {
+        "text": "11/15/2019",
+        "label": "DATE",
+        "start": 37565,
+        "end": 37575
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 37892,
+        "end": 37893
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 39246,
+        "end": 39247
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 40204,
+        "end": 40205
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 40854,
+        "end": 40855
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 41257,
+        "end": 41258
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 41414,
+        "end": 41436
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 41455,
+        "end": 41456
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 41646,
+        "end": 41647
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 41778,
+        "end": 41783
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 42000,
+        "end": 42005
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 42649,
+        "end": 42650
+    },
+    {
+        "text": "60) months",
+        "label": "DATE",
+        "start": 42684,
+        "end": 42694
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 42954,
+        "end": 42955
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 43303,
+        "end": 43316
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 45470,
+        "end": 45492
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 45510,
+        "end": 45512
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 45817,
+        "end": 45823
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 45825,
+        "end": 45833
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 46324,
+        "end": 46337
+    },
+    {
+        "text": "lake county",
+        "label": "GPE",
+        "start": 46404,
+        "end": 46415
+    },
+    {
+        "text": "cook county",
+        "label": "GPE",
+        "start": 46419,
+        "end": 46430
+    },
+    {
+        "text": "illinois",
+        "label": "GPE",
+        "start": 46432,
+        "end": 46440
+    },
+    {
+        "text": "thirty (30) days",
+        "label": "DATE",
+        "start": 46448,
+        "end": 46464
+    },
+    {
+        "text": "one-half",
+        "label": "CARDINAL",
+        "start": 46664,
+        "end": 46672
+    },
+    {
+        "text": "c.\nlitigation",
+        "label": "PERSON",
+        "start": 46744,
+        "end": 46757
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 46959,
+        "end": 46987
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 47152,
+        "end": 47156
+    },
+    {
+        "text": "illinois",
+        "label": "GPE",
+        "start": 47169,
+        "end": 47177
+    },
+    {
+        "text": "lake county",
+        "label": "GPE",
+        "start": 47243,
+        "end": 47254
+    },
+    {
+        "text": "illinois",
+        "label": "GPE",
+        "start": 47256,
+        "end": 47264
+    },
+    {
+        "text": "cook county",
+        "label": "GPE",
+        "start": 47268,
+        "end": 47279
+    },
+    {
+        "text": "illinois",
+        "label": "GPE",
+        "start": 47281,
+        "end": 47289
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 48012,
+        "end": 48014
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 48450,
+        "end": 48451
+    },
+    {
+        "text": "30) day",
+        "label": "DATE",
+        "start": 48617,
+        "end": 48624
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 48679,
+        "end": 48680
+    },
+    {
+        "text": "two percent",
+        "label": "PERCENT",
+        "start": 49849,
+        "end": 49860
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 49862,
+        "end": 49863
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 50051,
+        "end": 50073
+    },
+    {
+        "text": "11/15/2019",
+        "label": "DATE",
+        "start": 50080,
+        "end": 50090
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 50545,
+        "end": 50547
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 52707,
+        "end": 52709
+    },
+    {
+        "text": "illinois",
+        "label": "GPE",
+        "start": 52935,
+        "end": 52943
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 52948,
+        "end": 52976
+    },
+    {
+        "text": "the united nations convention",
+        "label": "ORG",
+        "start": 53048,
+        "end": 53077
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 54340,
+        "end": 54362
+    },
+    {
+        "text": "11/15/2019",
+        "label": "DATE",
+        "start": 54369,
+        "end": 54379
+    },
+    {
+        "text": "reynolds group holdings limited",
+        "label": "ORG",
+        "start": 54655,
+        "end": 54686
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 55130,
+        "end": 55135
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 55232,
+        "end": 55237
+    },
+    {
+        "text": "1900",
+        "label": "DATE",
+        "start": 56733,
+        "end": 56737
+    },
+    {
+        "text": "60045",
+        "label": "CARDINAL",
+        "start": 56771,
+        "end": 56776
+    },
+    {
+        "text": "john mcgrath",
+        "label": "PERSON",
+        "start": 56783,
+        "end": 56795
+    },
+    {
+        "text": "1900",
+        "label": "DATE",
+        "start": 56924,
+        "end": 56928
+    },
+    {
+        "text": "60045",
+        "label": "CARDINAL",
+        "start": 56962,
+        "end": 56967
+    },
+    {
+        "text": "steven r. karl",
+        "label": "PERSON",
+        "start": 56974,
+        "end": 56988
+    },
+    {
+        "text": "1900",
+        "label": "DATE",
+        "start": 57091,
+        "end": 57095
+    },
+    {
+        "text": "60045",
+        "label": "DATE",
+        "start": 57127,
+        "end": 57132
+    },
+    {
+        "text": "lance mitchell",
+        "label": "PERSON",
+        "start": 57144,
+        "end": 57158
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 57241,
+        "end": 57263
+    },
+    {
+        "text": "11/15/2019",
+        "label": "DATE",
+        "start": 57270,
+        "end": 57280
+    },
+    {
+        "text": "1900",
+        "label": "DATE",
+        "start": 57378,
+        "end": 57382
+    },
+    {
+        "text": "60045",
+        "label": "DATE",
+        "start": 57414,
+        "end": 57419
+    },
+    {
+        "text": "david watson",
+        "label": "PERSON",
+        "start": 57431,
+        "end": 57443
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 58814,
+        "end": 58815
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 58886,
+        "end": 58887
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 58935,
+        "end": 58936
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 58968,
+        "end": 58969
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 59062,
+        "end": 59063
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 59210,
+        "end": 59211
+    },
+    {
+        "text": "8)",
+        "label": "CARDINAL",
+        "start": 59612,
+        "end": 59614
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 59761,
+        "end": 59762
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 59884,
+        "end": 59886
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 59905,
+        "end": 59910
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 59983,
+        "end": 59985
+    },
+    {
+        "text": "a given day",
+        "label": "DATE",
+        "start": 60069,
+        "end": 60080
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 60161,
+        "end": 60163
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 61188,
+        "end": 61210
+    },
+    {
+        "text": "11/15/2019",
+        "label": "DATE",
+        "start": 61217,
+        "end": 61227
+    },
+    {
+        "text": "john mcgrath",
+        "label": "PERSON",
+        "start": 61471,
+        "end": 61483
+    },
+    {
+        "text": "john mcgrath",
+        "label": "PERSON",
+        "start": 61484,
+        "end": 61496
+    },
+    {
+        "text": "consumer products inc.",
+        "label": "ORG",
+        "start": 61538,
+        "end": 61560
+    }
+]

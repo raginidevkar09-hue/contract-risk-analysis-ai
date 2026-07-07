@@ -1,0 +1,326 @@
+[
+    {
+        "text": "789",
+        "label": "CARDINAL",
+        "start": 59,
+        "end": 62
+    },
+    {
+        "text": "303052788",
+        "label": "DATE",
+        "start": 105,
+        "end": 114
+    },
+    {
+        "text": "financial bank of america inc.",
+        "label": "ORG",
+        "start": 124,
+        "end": 154
+    },
+    {
+        "text": "00-0000000",
+        "label": "CARDINAL",
+        "start": 180,
+        "end": 190
+    },
+    {
+        "text": "1000",
+        "label": "CARDINAL",
+        "start": 209,
+        "end": 213
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 227,
+        "end": 235
+    },
+    {
+        "text": "75,546.00",
+        "label": "CARDINAL",
+        "start": 258,
+        "end": 267
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 413,
+        "end": 416
+    },
+    {
+        "text": "up to 60 months",
+        "label": "DATE",
+        "start": 455,
+        "end": 470
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 524,
+        "end": 529
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 564,
+        "end": 571
+    },
+    {
+        "text": "1.2 per month",
+        "label": "DATE",
+        "start": 611,
+        "end": 624
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 639,
+        "end": 647
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 690,
+        "end": 694
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 756,
+        "end": 760
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 812,
+        "end": 816
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 966,
+        "end": 969
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1023,
+        "end": 1024
+    },
+    {
+        "text": "1 per month",
+        "label": "DATE",
+        "start": 1062,
+        "end": 1073
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 1123,
+        "end": 1128
+    },
+    {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 1280,
+        "end": 1285
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 1334,
+        "end": 1342
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 1544,
+        "end": 1547
+    },
+    {
+        "text": "up to 60 months",
+        "label": "DATE",
+        "start": 1586,
+        "end": 1601
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 1655,
+        "end": 1660
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 1695,
+        "end": 1702
+    },
+    {
+        "text": "1.2 per month",
+        "label": "DATE",
+        "start": 1742,
+        "end": 1755
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 1770,
+        "end": 1778
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 1821,
+        "end": 1825
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 1887,
+        "end": 1891
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 1943,
+        "end": 1947
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 2097,
+        "end": 2100
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 2154,
+        "end": 2155
+    },
+    {
+        "text": "1 per month",
+        "label": "DATE",
+        "start": 2193,
+        "end": 2204
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 2254,
+        "end": 2259
+    },
+    {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 2411,
+        "end": 2416
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 2465,
+        "end": 2473
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 2675,
+        "end": 2678
+    },
+    {
+        "text": "up to 60 months",
+        "label": "DATE",
+        "start": 2717,
+        "end": 2732
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 2786,
+        "end": 2791
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 2826,
+        "end": 2833
+    },
+    {
+        "text": "1.2 per month",
+        "label": "DATE",
+        "start": 2873,
+        "end": 2886
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 2901,
+        "end": 2909
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 2952,
+        "end": 2956
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 3018,
+        "end": 3022
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 3074,
+        "end": 3078
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 3228,
+        "end": 3231
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3285,
+        "end": 3286
+    },
+    {
+        "text": "1 per month",
+        "label": "DATE",
+        "start": 3324,
+        "end": 3335
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 3385,
+        "end": 3390
+    },
+    {
+        "text": "eight",
+        "label": "CARDINAL",
+        "start": 3542,
+        "end": 3547
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 3596,
+        "end": 3604
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 3662,
+        "end": 3670
+    },
+    {
+        "text": "november 29, 2023",
+        "label": "DATE",
+        "start": 3672,
+        "end": 3689
+    }
+]

@@ -1,0 +1,698 @@
+[
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "august 1, 2019",
+        "label": "DATE",
+        "start": 162,
+        "end": 176
+    },
+    {
+        "text": "quaker chemical corporation",
+        "label": "ORG",
+        "start": 220,
+        "end": 247
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 261,
+        "end": 273
+    },
+    {
+        "text": "gulf houghton lubricants ltd.",
+        "label": "ORG",
+        "start": 287,
+        "end": 316
+    },
+    {
+        "text": "gulf houghton”",
+        "label": "WORK_OF_ART",
+        "start": 365,
+        "end": 379
+    },
+    {
+        "text": "gulf oil international limited",
+        "label": "ORG",
+        "start": 382,
+        "end": 412
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 554,
+        "end": 559
+    },
+    {
+        "text": "gulf",
+        "label": "LOC",
+        "start": 562,
+        "end": 566
+    },
+    {
+        "text": "gulf houghton",
+        "label": "ORG",
+        "start": 591,
+        "end": 604
+    },
+    {
+        "text": "gulf",
+        "label": "LOC",
+        "start": 679,
+        "end": 683
+    },
+    {
+        "text": "india, ltd",
+        "label": "ORG",
+        "start": 699,
+        "end": 709
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 752,
+        "end": 757
+    },
+    {
+        "text": "gulf india”",
+        "label": "WORK_OF_ART",
+        "start": 760,
+        "end": 771
+    },
+    {
+        "text": "section 1(c",
+        "label": "LAW",
+        "start": 825,
+        "end": 836
+    },
+    {
+        "text": "gulf houghton",
+        "label": "ORG",
+        "start": 912,
+        "end": 925
+    },
+    {
+        "text": "3,074,270.00",
+        "label": "CARDINAL",
+        "start": 931,
+        "end": 943
+    },
+    {
+        "text": "global houghton ltd.",
+        "label": "ORG",
+        "start": 997,
+        "end": 1017
+    },
+    {
+        "text": "the “company”); gulf international",
+        "label": "ORG",
+        "start": 1090,
+        "end": 1124
+    },
+    {
+        "text": "approximately 90",
+        "label": "CARDINAL",
+        "start": 1130,
+        "end": 1146
+    },
+    {
+        "text": "approximately 10",
+        "label": "CARDINAL",
+        "start": 1202,
+        "end": 1218
+    },
+    {
+        "text": "cms",
+        "label": "ORG",
+        "start": 1915,
+        "end": 1918
+    },
+    {
+        "text": "life);",
+        "label": "PERSON",
+        "start": 2652,
+        "end": 2658
+    },
+    {
+        "text": "cms",
+        "label": "ORG",
+        "start": 3531,
+        "end": 3534
+    },
+    {
+        "text": "gulf houghton",
+        "label": "ORG",
+        "start": 3727,
+        "end": 3740
+    },
+    {
+        "text": "april 4",
+        "label": "DATE",
+        "start": 3833,
+        "end": 3840
+    },
+    {
+        "text": "2017",
+        "label": "DATE",
+        "start": 3842,
+        "end": 3846
+    },
+    {
+        "text": "gulf houghton shall",
+        "label": "ORG",
+        "start": 4773,
+        "end": 4792
+    },
+    {
+        "text": "gulf\nhoughton",
+        "label": "ORG",
+        "start": 4892,
+        "end": 4905
+    },
+    {
+        "text": "gulf houghton",
+        "label": "ORG",
+        "start": 4928,
+        "end": 4941
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 5232,
+        "end": 5233
+    },
+    {
+        "text": "two years",
+        "label": "DATE",
+        "start": 6729,
+        "end": 6738
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 7028,
+        "end": 7033
+    },
+    {
+        "text": "more than five",
+        "label": "CARDINAL",
+        "start": 7399,
+        "end": 7413
+    },
+    {
+        "text": "more than 25,000,000",
+        "label": "CARDINAL",
+        "start": 7937,
+        "end": 7957
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 8009,
+        "end": 8011
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 8026,
+        "end": 8032
+    },
+    {
+        "text": "gulf india",
+        "label": "LOC",
+        "start": 8594,
+        "end": 8604
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 8820,
+        "end": 8821
+    },
+    {
+        "text": "three years",
+        "label": "DATE",
+        "start": 8915,
+        "end": 8926
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 9339,
+        "end": 9340
+    },
+    {
+        "text": "at least six months",
+        "label": "DATE",
+        "start": 9559,
+        "end": 9578
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 9633,
+        "end": 9634
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 9899,
+        "end": 9900
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 11022,
+        "end": 11023
+    },
+    {
+        "text": "receipt); (b",
+        "label": "ORG",
+        "start": 11244,
+        "end": 11256
+    },
+    {
+        "text": "addressee",
+        "label": "NORP",
+        "start": 11279,
+        "end": 11288
+    },
+    {
+        "text": "overnight",
+        "label": "TIME",
+        "start": 11324,
+        "end": 11333
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 11476,
+        "end": 11497
+    },
+    {
+        "text": "the next business day",
+        "label": "DATE",
+        "start": 11523,
+        "end": 11544
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 11559,
+        "end": 11580
+    },
+    {
+        "text": "the third day",
+        "label": "DATE",
+        "start": 11608,
+        "end": 11621
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 11963,
+        "end": 11966
+    },
+    {
+        "text": "901",
+        "label": "CARDINAL",
+        "start": 11979,
+        "end": 11982
+    },
+    {
+        "text": "19428-2380",
+        "label": "DATE",
+        "start": 12017,
+        "end": 12027
+    },
+    {
+        "text": "610",
+        "label": "CARDINAL",
+        "start": 12040,
+        "end": 12043
+    },
+    {
+        "text": "832",
+        "label": "CARDINAL",
+        "start": 12045,
+        "end": 12048
+    },
+    {
+        "text": "robert t. traub",
+        "label": "PERSON",
+        "start": 12094,
+        "end": 12109
+    },
+    {
+        "text": "drinker, biddle & reath",
+        "label": "ORG",
+        "start": 12162,
+        "end": 12185
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 12190,
+        "end": 12193
+    },
+    {
+        "text": "2000",
+        "label": "DATE",
+        "start": 12213,
+        "end": 12217
+    },
+    {
+        "text": "philadelphia",
+        "label": "GPE",
+        "start": 12218,
+        "end": 12230
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 12232,
+        "end": 12244
+    },
+    {
+        "text": "19103",
+        "label": "DATE",
+        "start": 12245,
+        "end": 12250
+    },
+    {
+        "text": "215",
+        "label": "CARDINAL",
+        "start": 12263,
+        "end": 12266
+    },
+    {
+        "text": "988-2757",
+        "label": "DATE",
+        "start": 12268,
+        "end": 12276
+    },
+    {
+        "text": "f. douglas raymond",
+        "label": "PERSON",
+        "start": 12319,
+        "end": 12337
+    },
+    {
+        "text": "gulf houghton lubricants ltd.",
+        "label": "ORG",
+        "start": 12370,
+        "end": 12399
+    },
+    {
+        "text": "238",
+        "label": "CARDINAL",
+        "start": 12417,
+        "end": 12420
+    },
+    {
+        "text": "1043",
+        "label": "DATE",
+        "start": 12451,
+        "end": 12455
+    },
+    {
+        "text": "george town grand cayman",
+        "label": "PERSON",
+        "start": 12457,
+        "end": 12481
+    },
+    {
+        "text": "ky1",
+        "label": "PERSON",
+        "start": 12482,
+        "end": 12485
+    },
+    {
+        "text": "1102",
+        "label": "DATE",
+        "start": 12486,
+        "end": 12490
+    },
+    {
+        "text": "305",
+        "label": "CARDINAL",
+        "start": 12518,
+        "end": 12521
+    },
+    {
+        "text": "675",
+        "label": "CARDINAL",
+        "start": 12523,
+        "end": 12526
+    },
+    {
+        "text": "sandra georgeson",
+        "label": "PERSON",
+        "start": 12565,
+        "end": 12581
+    },
+    {
+        "text": "mayer brown",
+        "label": "PERSON",
+        "start": 12634,
+        "end": 12645
+    },
+    {
+        "text": "1221",
+        "label": "DATE",
+        "start": 12650,
+        "end": 12654
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 12678,
+        "end": 12686
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 12688,
+        "end": 12696
+    },
+    {
+        "text": "10020",
+        "label": "DATE",
+        "start": 12697,
+        "end": 12702
+    },
+    {
+        "text": "212",
+        "label": "CARDINAL",
+        "start": 12715,
+        "end": 12718
+    },
+    {
+        "text": "849-5914",
+        "label": "CARDINAL",
+        "start": 12720,
+        "end": 12728
+    },
+    {
+        "text": "d.",
+        "label": "NORP",
+        "start": 12775,
+        "end": 12777
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 12786,
+        "end": 12787
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 13323,
+        "end": 13324
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 13455,
+        "end": 13467
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 13573,
+        "end": 13585
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 13826,
+        "end": 13854
+    },
+    {
+        "text": "pennsylvania",
+        "label": "GPE",
+        "start": 13892,
+        "end": 13904
+    },
+    {
+        "text": "philadelphia",
+        "label": "GPE",
+        "start": 13941,
+        "end": 13953
+    },
+    {
+        "text": "philadelphia",
+        "label": "GPE",
+        "start": 13968,
+        "end": 13980
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 15610,
+        "end": 15611
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 16670,
+        "end": 16671
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 17056,
+        "end": 17057
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 17703,
+        "end": 17706
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 18158,
+        "end": 18159
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 18876,
+        "end": 18877
+    },
+    {
+        "text": "counterparts;",
+        "label": "ORG",
+        "start": 18879,
+        "end": 18892
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 18908,
+        "end": 18913
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 19850,
+        "end": 19852
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 20073,
+        "end": 20075
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 21254,
+        "end": 21258
+    },
+    {
+        "text": "a day",
+        "label": "DATE",
+        "start": 21375,
+        "end": 21380
+    },
+    {
+        "text": "such day",
+        "label": "DATE",
+        "start": 21471,
+        "end": 21479
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 21491,
+        "end": 21496
+    },
+    {
+        "text": "business day",
+        "label": "DATE",
+        "start": 21508,
+        "end": 21520
+    },
+    {
+        "text": "robert t. traub",
+        "label": "PERSON",
+        "start": 21807,
+        "end": 21822
+    },
+    {
+        "text": "robert t. traub",
+        "label": "PERSON",
+        "start": 21829,
+        "end": 21844
+    },
+    {
+        "text": "gulf houghton lubricants ltd.",
+        "label": "ORG",
+        "start": 21975,
+        "end": 22004
+    },
+    {
+        "text": "sandra georgeson\nname",
+        "label": "PERSON",
+        "start": 22013,
+        "end": 22034
+    },
+    {
+        "text": "sandra georgeson",
+        "label": "PERSON",
+        "start": 22036,
+        "end": 22052
+    },
+    {
+        "text": "benjamin booker\n",
+        "label": "PERSON",
+        "start": 22173,
+        "end": 22189
+    },
+    {
+        "text": "benjamin booker",
+        "label": "PERSON",
+        "start": 22195,
+        "end": 22210
+    },
+    {
+        "text": "india, ltd.",
+        "label": "ORG",
+        "start": 22477,
+        "end": 22488
+    },
+    {
+        "text": "chawla\nname",
+        "label": "PERSON",
+        "start": 22502,
+        "end": 22513
+    }
+]

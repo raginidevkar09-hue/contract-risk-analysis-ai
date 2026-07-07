@@ -1,0 +1,6506 @@
+[
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "601(b)(10",
+        "label": "CARDINAL",
+        "start": 104,
+        "end": 113
+    },
+    {
+        "text": "february 4",
+        "label": "DATE",
+        "start": 319,
+        "end": 329
+    },
+    {
+        "text": "2020",
+        "label": "DATE",
+        "start": 331,
+        "end": 335
+    },
+    {
+        "text": "xencor, inc.",
+        "label": "ORG",
+        "start": 351,
+        "end": 363
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 376,
+        "end": 394
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 411,
+        "end": 429
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 431,
+        "end": 434
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 436,
+        "end": 444
+    },
+    {
+        "text": "article 1",
+        "label": "LAW",
+        "start": 468,
+        "end": 477
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 499,
+        "end": 500
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 519,
+        "end": 520
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 542,
+        "end": 543
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 564,
+        "end": 565
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 593,
+        "end": 594
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 611,
+        "end": 612
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 631,
+        "end": 632
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 667,
+        "end": 668
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 708,
+        "end": 710
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 774,
+        "end": 776
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 802,
+        "end": 804
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 830,
+        "end": 832
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 863,
+        "end": 865
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 912,
+        "end": 914
+    },
+    {
+        "text": "1.10",
+        "label": "CARDINAL",
+        "start": 939,
+        "end": 943
+    },
+    {
+        "text": "1.79",
+        "label": "CARDINAL",
+        "start": 963,
+        "end": 967
+    },
+    {
+        "text": "1.81",
+        "label": "CARDINAL",
+        "start": 1001,
+        "end": 1005
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 1048,
+        "end": 1051
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 1121,
+        "end": 1124
+    },
+    {
+        "text": "10.2.6",
+        "label": "CARDINAL",
+        "start": 1158,
+        "end": 1164
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 1186,
+        "end": 1190
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 1230,
+        "end": 1248
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 1250,
+        "end": 1253
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 1255,
+        "end": 1263
+    },
+    {
+        "text": "february 4, 2020",
+        "label": "DATE",
+        "start": 1407,
+        "end": 1423
+    },
+    {
+        "text": "xencor, inc.",
+        "label": "ORG",
+        "start": 1471,
+        "end": 1483
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 1508,
+        "end": 1526
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 1540,
+        "end": 1546
+    },
+    {
+        "text": "below);",
+        "label": "PERSON",
+        "start": 1717,
+        "end": 1724
+    },
+    {
+        "text": "article 1",
+        "label": "LAW",
+        "start": 2381,
+        "end": 2390
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 2577,
+        "end": 2580
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 3103,
+        "end": 3106
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 3735,
+        "end": 3748
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 3750,
+        "end": 3752
+    },
+    {
+        "text": "the securities exchange act",
+        "label": "ORG",
+        "start": 4051,
+        "end": 4078
+    },
+    {
+        "text": "1934",
+        "label": "DATE",
+        "start": 4082,
+        "end": 4086
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 4292,
+        "end": 4310
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 4312,
+        "end": 4315
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 4317,
+        "end": 4325
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 4326,
+        "end": 4329
+    },
+    {
+        "text": "1.4",
+        "label": "CARDINAL",
+        "start": 4429,
+        "end": 4432
+    },
+    {
+        "text": "0.0001",
+        "label": "CARDINAL",
+        "start": 4496,
+        "end": 4502
+    },
+    {
+        "text": "1.5",
+        "label": "CARDINAL",
+        "start": 4514,
+        "end": 4517
+    },
+    {
+        "text": "1.6",
+        "label": "CARDINAL",
+        "start": 4557,
+        "end": 4560
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 4643,
+        "end": 4648
+    },
+    {
+        "text": "1.7",
+        "label": "CARDINAL",
+        "start": 4702,
+        "end": 4705
+    },
+    {
+        "text": "1.8",
+        "label": "CARDINAL",
+        "start": 5043,
+        "end": 5046
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 5289,
+        "end": 5295
+    },
+    {
+        "text": "1.9",
+        "label": "CARDINAL",
+        "start": 5533,
+        "end": 5536
+    },
+    {
+        "text": "1.10",
+        "label": "CARDINAL",
+        "start": 5602,
+        "end": 5606
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 5624,
+        "end": 5630
+    },
+    {
+        "text": "xmab7195",
+        "label": "ORG",
+        "start": 5661,
+        "end": 5669
+    },
+    {
+        "text": "1.10",
+        "label": "CARDINAL",
+        "start": 5709,
+        "end": 5713
+    },
+    {
+        "text": "1.11",
+        "label": "CARDINAL",
+        "start": 5715,
+        "end": 5719
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 5753,
+        "end": 5757
+    },
+    {
+        "text": "the uk bribery act 2010",
+        "label": "ORG",
+        "start": 5801,
+        "end": 5824
+    },
+    {
+        "text": "1.12",
+        "label": "CARDINAL",
+        "start": 5945,
+        "end": 5949
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 6801,
+        "end": 6819
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 6821,
+        "end": 6824
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 6826,
+        "end": 6834
+    },
+    {
+        "text": "1.13 “baseline",
+        "label": "MONEY",
+        "start": 6835,
+        "end": 6849
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 7126,
+        "end": 7131
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 7261,
+        "end": 7265
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 7274,
+        "end": 7279
+    },
+    {
+        "text": "the baseline quarter",
+        "label": "DATE",
+        "start": 7297,
+        "end": 7317
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 7361,
+        "end": 7365
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 7418,
+        "end": 7422
+    },
+    {
+        "text": "1.14 “business day",
+        "label": "DATE",
+        "start": 7476,
+        "end": 7494
+    },
+    {
+        "text": "saturday, sunday",
+        "label": "DATE",
+        "start": 7521,
+        "end": 7537
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 7574,
+        "end": 7584
+    },
+    {
+        "text": "1.15",
+        "label": "CARDINAL",
+        "start": 7586,
+        "end": 7590
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 7621,
+        "end": 7626
+    },
+    {
+        "text": "3) month",
+        "label": "DATE",
+        "start": 7628,
+        "end": 7636
+    },
+    {
+        "text": "january 1",
+        "label": "DATE",
+        "start": 7655,
+        "end": 7664
+    },
+    {
+        "text": "april 1, july 1",
+        "label": "DATE",
+        "start": 7666,
+        "end": 7681
+    },
+    {
+        "text": "october 1",
+        "label": "DATE",
+        "start": 7685,
+        "end": 7694
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 7740,
+        "end": 7745
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 7755,
+        "end": 7762
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 7830,
+        "end": 7835
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 7850,
+        "end": 7857
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 7896,
+        "end": 7903
+    },
+    {
+        "text": "1.16 “",
+        "label": "PERCENT",
+        "start": 7980,
+        "end": 7986
+    },
+    {
+        "text": "the 1st of january",
+        "label": "DATE",
+        "start": 8031,
+        "end": 8049
+    },
+    {
+        "text": "the 31st of december",
+        "label": "DATE",
+        "start": 8064,
+        "end": 8084
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 8135,
+        "end": 8140
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 8215,
+        "end": 8226
+    },
+    {
+        "text": "the same year",
+        "label": "DATE",
+        "start": 8230,
+        "end": 8243
+    },
+    {
+        "text": "the last calendar year",
+        "label": "DATE",
+        "start": 8252,
+        "end": 8274
+    },
+    {
+        "text": "january 1",
+        "label": "DATE",
+        "start": 8305,
+        "end": 8314
+    },
+    {
+        "text": "1.17",
+        "label": "CARDINAL",
+        "start": 8450,
+        "end": 8454
+    },
+    {
+        "text": "1.18",
+        "label": "CARDINAL",
+        "start": 8707,
+        "end": 8711
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 8837,
+        "end": 8842
+    },
+    {
+        "text": "1.19",
+        "label": "CARDINAL",
+        "start": 9030,
+        "end": 9034
+    },
+    {
+        "text": "1.20",
+        "label": "CARDINAL",
+        "start": 9312,
+        "end": 9316
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 9974,
+        "end": 9992
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 9994,
+        "end": 9997
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 9999,
+        "end": 10007
+    },
+    {
+        "text": "1.21",
+        "label": "CARDINAL",
+        "start": 10008,
+        "end": 10012
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 10718,
+        "end": 10723
+    },
+    {
+        "text": "1.22",
+        "label": "CARDINAL",
+        "start": 11438,
+        "end": 11442
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 11965,
+        "end": 11970
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 12082,
+        "end": 12087
+    },
+    {
+        "text": "1.23",
+        "label": "CARDINAL",
+        "start": 12095,
+        "end": 12099
+    },
+    {
+        "text": "1.24",
+        "label": "CARDINAL",
+        "start": 12475,
+        "end": 12479
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 12563,
+        "end": 12569
+    },
+    {
+        "text": "1.25",
+        "label": "CARDINAL",
+        "start": 12677,
+        "end": 12681
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 13473,
+        "end": 13491
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 13493,
+        "end": 13496
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 13498,
+        "end": 13506
+    },
+    {
+        "text": "1.26",
+        "label": "CARDINAL",
+        "start": 13507,
+        "end": 13511
+    },
+    {
+        "text": "1.27 “dollar",
+        "label": "MONEY",
+        "start": 13639,
+        "end": 13651
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 13685,
+        "end": 13713
+    },
+    {
+        "text": "1.28",
+        "label": "CARDINAL",
+        "start": 13715,
+        "end": 13719
+    },
+    {
+        "text": "the united kingdom",
+        "label": "GPE",
+        "start": 13749,
+        "end": 13767
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 13769,
+        "end": 13775
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 13777,
+        "end": 13784
+    },
+    {
+        "text": "italy",
+        "label": "GPE",
+        "start": 13786,
+        "end": 13791
+    },
+    {
+        "text": "spain",
+        "label": "GPE",
+        "start": 13797,
+        "end": 13802
+    },
+    {
+        "text": "1.29",
+        "label": "CARDINAL",
+        "start": 13804,
+        "end": 13808
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 13810,
+        "end": 13813
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 13821,
+        "end": 13838
+    },
+    {
+        "text": "1.30",
+        "label": "CARDINAL",
+        "start": 13947,
+        "end": 13951
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 13973,
+        "end": 13977
+    },
+    {
+        "text": "1.31",
+        "label": "CARDINAL",
+        "start": 14071,
+        "end": 14075
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 14077,
+        "end": 14082
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 14153,
+        "end": 14158
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14189,
+        "end": 14194
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 14369,
+        "end": 14374
+    },
+    {
+        "text": "1.32",
+        "label": "CARDINAL",
+        "start": 14400,
+        "end": 14404
+    },
+    {
+        "text": "1.33",
+        "label": "CARDINAL",
+        "start": 14930,
+        "end": 14934
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 15461,
+        "end": 15478
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 15558,
+        "end": 15560
+    },
+    {
+        "text": "2009",
+        "label": "DATE",
+        "start": 15702,
+        "end": 15706
+    },
+    {
+        "text": "section 42",
+        "label": "LAW",
+        "start": 15708,
+        "end": 15718
+    },
+    {
+        "text": "262",
+        "label": "CARDINAL",
+        "start": 15726,
+        "end": 15729
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 15768,
+        "end": 15785
+    },
+    {
+        "text": "european",
+        "label": "NORP",
+        "start": 15806,
+        "end": 15814
+    },
+    {
+        "text": "2001/83",
+        "label": "CARDINAL",
+        "start": 15825,
+        "end": 15832
+    },
+    {
+        "text": "article 10(4",
+        "label": "LAW",
+        "start": 15882,
+        "end": 15894
+    },
+    {
+        "text": "section 4",
+        "label": "LAW",
+        "start": 15900,
+        "end": 15909
+    },
+    {
+        "text": "european",
+        "label": "NORP",
+        "start": 15935,
+        "end": 15943
+    },
+    {
+        "text": "eec/2309/93",
+        "label": "GPE",
+        "start": 15955,
+        "end": 15966
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 16197,
+        "end": 16214
+    },
+    {
+        "text": "eu",
+        "label": "PERSON",
+        "start": 16218,
+        "end": 16220
+    },
+    {
+        "text": "1.34",
+        "label": "CARDINAL",
+        "start": 16239,
+        "end": 16243
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 16602,
+        "end": 16620
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 16622,
+        "end": 16625
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 16627,
+        "end": 16635
+    },
+    {
+        "text": "1964",
+        "label": "DATE",
+        "start": 16871,
+        "end": 16875
+    },
+    {
+        "text": "64th",
+        "label": "ORDINAL",
+        "start": 16900,
+        "end": 16904
+    },
+    {
+        "text": "october\n2013",
+        "label": "DATE",
+        "start": 16934,
+        "end": 16946
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 17007,
+        "end": 17011
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 17046,
+        "end": 17048
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 17056,
+        "end": 17058
+    },
+    {
+        "text": "56",
+        "label": "CARDINAL",
+        "start": 17091,
+        "end": 17093
+    },
+    {
+        "text": "312",
+        "label": "CARDINAL",
+        "start": 17128,
+        "end": 17131
+    },
+    {
+        "text": "1.35",
+        "label": "CARDINAL",
+        "start": 17539,
+        "end": 17543
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 17767,
+        "end": 17770
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 17785,
+        "end": 17787
+    },
+    {
+        "text": "58",
+        "label": "DATE",
+        "start": 17800,
+        "end": 17802
+    },
+    {
+        "text": "1.36",
+        "label": "CARDINAL",
+        "start": 17925,
+        "end": 17929
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 18081,
+        "end": 18085
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 18124,
+        "end": 18126
+    },
+    {
+        "text": "210",
+        "label": "PRODUCT",
+        "start": 18143,
+        "end": 18146
+    },
+    {
+        "text": "211",
+        "label": "CARDINAL",
+        "start": 18148,
+        "end": 18151
+    },
+    {
+        "text": "601",
+        "label": "CARDINAL",
+        "start": 18153,
+        "end": 18156
+    },
+    {
+        "text": "610",
+        "label": "CARDINAL",
+        "start": 18161,
+        "end": 18164
+    },
+    {
+        "text": "1.37",
+        "label": "CARDINAL",
+        "start": 18343,
+        "end": 18347
+    },
+    {
+        "text": "the united nations",
+        "label": "ORG",
+        "start": 18592,
+        "end": 18610
+    },
+    {
+        "text": "the world health organization",
+        "label": "ORG",
+        "start": 18677,
+        "end": 18706
+    },
+    {
+        "text": "1.38",
+        "label": "CARDINAL",
+        "start": 18984,
+        "end": 18988
+    },
+    {
+        "text": "united states",
+        "label": "ORG",
+        "start": 19024,
+        "end": 19037
+    },
+    {
+        "text": "1.39",
+        "label": "CARDINAL",
+        "start": 19528,
+        "end": 19532
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 19614,
+        "end": 19618
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 19684,
+        "end": 19688
+    },
+    {
+        "text": "1.40",
+        "label": "CARDINAL",
+        "start": 19733,
+        "end": 19737
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 20045,
+        "end": 20063
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 20065,
+        "end": 20068
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 20070,
+        "end": 20078
+    },
+    {
+        "text": "1.41",
+        "label": "CARDINAL",
+        "start": 20079,
+        "end": 20083
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 20236,
+        "end": 20253
+    },
+    {
+        "text": "35",
+        "label": "DATE",
+        "start": 20261,
+        "end": 20263
+    },
+    {
+        "text": "united states",
+        "label": "ORG",
+        "start": 20265,
+        "end": 20278
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 20289,
+        "end": 20294
+    },
+    {
+        "text": "1.42",
+        "label": "CARDINAL",
+        "start": 20320,
+        "end": 20324
+    },
+    {
+        "text": "1.43",
+        "label": "CARDINAL",
+        "start": 20540,
+        "end": 20544
+    },
+    {
+        "text": "1.44",
+        "label": "CARDINAL",
+        "start": 20733,
+        "end": 20737
+    },
+    {
+        "text": "1.45",
+        "label": "CARDINAL",
+        "start": 21493,
+        "end": 21497
+    },
+    {
+        "text": "1.46",
+        "label": "CARDINAL",
+        "start": 21594,
+        "end": 21598
+    },
+    {
+        "text": "1.47",
+        "label": "CARDINAL",
+        "start": 21631,
+        "end": 21635
+    },
+    {
+        "text": "1.48",
+        "label": "CARDINAL",
+        "start": 22246,
+        "end": 22250
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 22537,
+        "end": 22539
+    },
+    {
+        "text": "601.2",
+        "label": "CARDINAL",
+        "start": 22548,
+        "end": 22553
+    },
+    {
+        "text": "1.49",
+        "label": "CARDINAL",
+        "start": 22567,
+        "end": 22571
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 22822,
+        "end": 22840
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 22842,
+        "end": 22845
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 22847,
+        "end": 22855
+    },
+    {
+        "text": "1.50",
+        "label": "CARDINAL",
+        "start": 22856,
+        "end": 22860
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 22978,
+        "end": 22983
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 23951,
+        "end": 23957
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 24257,
+        "end": 24262
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 24368,
+        "end": 24373
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 25232,
+        "end": 25237
+    },
+    {
+        "text": "the preceding calendar",
+        "label": "DATE",
+        "start": 25733,
+        "end": 25755
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 25879,
+        "end": 25897
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 25899,
+        "end": 25902
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 25904,
+        "end": 25912
+    },
+    {
+        "text": "1.51",
+        "label": "CARDINAL",
+        "start": 27220,
+        "end": 27224
+    },
+    {
+        "text": "1.52",
+        "label": "CARDINAL",
+        "start": 27834,
+        "end": 27838
+    },
+    {
+        "text": "1.53",
+        "label": "CARDINAL",
+        "start": 28039,
+        "end": 28043
+    },
+    {
+        "text": "1.54",
+        "label": "CARDINAL",
+        "start": 28225,
+        "end": 28229
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 28302,
+        "end": 28307
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 28518,
+        "end": 28520
+    },
+    {
+        "text": "§312.21(a",
+        "label": "NORP",
+        "start": 28525,
+        "end": 28534
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 28605,
+        "end": 28609
+    },
+    {
+        "text": "1.55 “phase ii",
+        "label": "MONEY",
+        "start": 28653,
+        "end": 28667
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 28849,
+        "end": 28851
+    },
+    {
+        "text": "312.21(b",
+        "label": "CARDINAL",
+        "start": 28857,
+        "end": 28865
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 28936,
+        "end": 28940
+    },
+    {
+        "text": "1.56",
+        "label": "CARDINAL",
+        "start": 29066,
+        "end": 29070
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 29445,
+        "end": 29463
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 29465,
+        "end": 29468
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 29470,
+        "end": 29478
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 29676,
+        "end": 29678
+    },
+    {
+        "text": "312.21(c",
+        "label": "CARDINAL",
+        "start": 29684,
+        "end": 29692
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 29763,
+        "end": 29767
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 29995,
+        "end": 29997
+    },
+    {
+        "text": "§",
+        "label": "NORP",
+        "start": 30005,
+        "end": 30006
+    },
+    {
+        "text": "1.57",
+        "label": "CARDINAL",
+        "start": 30045,
+        "end": 30049
+    },
+    {
+        "text": "1.58",
+        "label": "CARDINAL",
+        "start": 30281,
+        "end": 30285
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 30656,
+        "end": 30661
+    },
+    {
+        "text": "1.59",
+        "label": "CARDINAL",
+        "start": 30746,
+        "end": 30750
+    },
+    {
+        "text": "1.60",
+        "label": "CARDINAL",
+        "start": 31146,
+        "end": 31150
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 31490,
+        "end": 31491
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 31498,
+        "end": 31499
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 31506,
+        "end": 31507
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 31514,
+        "end": 31515
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 31522,
+        "end": 31523
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 31533,
+        "end": 31534
+    },
+    {
+        "text": "1.61",
+        "label": "CARDINAL",
+        "start": 31540,
+        "end": 31544
+    },
+    {
+        "text": "1.62",
+        "label": "CARDINAL",
+        "start": 31798,
+        "end": 31802
+    },
+    {
+        "text": "1.63",
+        "label": "CARDINAL",
+        "start": 32081,
+        "end": 32085
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 32474,
+        "end": 32492
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 32494,
+        "end": 32497
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 32499,
+        "end": 32507
+    },
+    {
+        "text": "1.64",
+        "label": "CARDINAL",
+        "start": 32508,
+        "end": 32512
+    },
+    {
+        "text": "1.65",
+        "label": "CARDINAL",
+        "start": 32915,
+        "end": 32919
+    },
+    {
+        "text": "1.66",
+        "label": "CARDINAL",
+        "start": 33261,
+        "end": 33265
+    },
+    {
+        "text": "cmc",
+        "label": "PRODUCT",
+        "start": 33644,
+        "end": 33647
+    },
+    {
+        "text": "1.67",
+        "label": "CARDINAL",
+        "start": 33683,
+        "end": 33687
+    },
+    {
+        "text": "1.68",
+        "label": "CARDINAL",
+        "start": 34258,
+        "end": 34262
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 34378,
+        "end": 34383
+    },
+    {
+        "text": "years",
+        "label": "DATE",
+        "start": 34575,
+        "end": 34580
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 34590,
+        "end": 34595
+    },
+    {
+        "text": "1.69",
+        "label": "CARDINAL",
+        "start": 34751,
+        "end": 34755
+    },
+    {
+        "text": "1.70",
+        "label": "CARDINAL",
+        "start": 34910,
+        "end": 34914
+    },
+    {
+        "text": "1.71 “third party",
+        "label": "PERCENT",
+        "start": 34982,
+        "end": 34999
+    },
+    {
+        "text": "1.72",
+        "label": "CARDINAL",
+        "start": 35077,
+        "end": 35081
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 35102,
+        "end": 35106
+    },
+    {
+        "text": "the united states of america",
+        "label": "GPE",
+        "start": 35114,
+        "end": 35142
+    },
+    {
+        "text": "1.73",
+        "label": "CARDINAL",
+        "start": 35180,
+        "end": 35184
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 35253,
+        "end": 35259
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 35298,
+        "end": 35316
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 35318,
+        "end": 35321
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 35323,
+        "end": 35331
+    },
+    {
+        "text": "1.74",
+        "label": "CARDINAL",
+        "start": 35332,
+        "end": 35336
+    },
+    {
+        "text": "1.75",
+        "label": "CARDINAL",
+        "start": 36169,
+        "end": 36173
+    },
+    {
+        "text": "1.76",
+        "label": "CARDINAL",
+        "start": 36194,
+        "end": 36198
+    },
+    {
+        "text": "1.77",
+        "label": "CARDINAL",
+        "start": 36223,
+        "end": 36227
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 36308,
+        "end": 36313
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 36340,
+        "end": 36346
+    },
+    {
+        "text": "1.78 “xencor",
+        "label": "MONEY",
+        "start": 36366,
+        "end": 36378
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 36488,
+        "end": 36494
+    },
+    {
+        "text": "1.79",
+        "label": "CARDINAL",
+        "start": 36914,
+        "end": 36918
+    },
+    {
+        "text": "1.79",
+        "label": "CARDINAL",
+        "start": 36988,
+        "end": 36992
+    },
+    {
+        "text": "1.79",
+        "label": "CARDINAL",
+        "start": 37070,
+        "end": 37074
+    },
+    {
+        "text": "1.79",
+        "label": "CARDINAL",
+        "start": 37132,
+        "end": 37136
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 37422,
+        "end": 37428
+    },
+    {
+        "text": "1.80",
+        "label": "CARDINAL",
+        "start": 37613,
+        "end": 37617
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 37619,
+        "end": 37625
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 37667,
+        "end": 37673
+    },
+    {
+        "text": "1.81",
+        "label": "CARDINAL",
+        "start": 37700,
+        "end": 37704
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 37706,
+        "end": 37712
+    },
+    {
+        "text": "1.81",
+        "label": "CARDINAL",
+        "start": 37783,
+        "end": 37787
+    },
+    {
+        "text": "1.81",
+        "label": "CARDINAL",
+        "start": 37865,
+        "end": 37869
+    },
+    {
+        "text": "1.81",
+        "label": "CARDINAL",
+        "start": 37926,
+        "end": 37930
+    },
+    {
+        "text": "1.82",
+        "label": "CARDINAL",
+        "start": 38193,
+        "end": 38197
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 38277,
+        "end": 38295
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 38297,
+        "end": 38300
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 38302,
+        "end": 38310
+    },
+    {
+        "text": "1.83",
+        "label": "CARDINAL",
+        "start": 38311,
+        "end": 38315
+    },
+    {
+        "text": "article 2",
+        "label": "LAW",
+        "start": 38437,
+        "end": 38446
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 38456,
+        "end": 38459
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 38656,
+        "end": 38662
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 38675,
+        "end": 38681
+    },
+    {
+        "text": "section 2.3.2",
+        "label": "LAW",
+        "start": 38882,
+        "end": 38895
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 39090,
+        "end": 39096
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 39109,
+        "end": 39115
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 39231,
+        "end": 39234
+    },
+    {
+        "text": "2.2.1",
+        "label": "CARDINAL",
+        "start": 39268,
+        "end": 39273
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 39351,
+        "end": 39357
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 39384,
+        "end": 39390
+    },
+    {
+        "text": "14.7",
+        "label": "CARDINAL",
+        "start": 39995,
+        "end": 39999
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 40018,
+        "end": 40022
+    },
+    {
+        "text": "1.73",
+        "label": "CARDINAL",
+        "start": 40026,
+        "end": 40030
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 40039,
+        "end": 40043
+    },
+    {
+        "text": "cmc",
+        "label": "PRODUCT",
+        "start": 40045,
+        "end": 40048
+    },
+    {
+        "text": "1.66",
+        "label": "CARDINAL",
+        "start": 40050,
+        "end": 40054
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 40080,
+        "end": 40083
+    },
+    {
+        "text": "9.4.1(a",
+        "label": "CARDINAL",
+        "start": 40138,
+        "end": 40145
+    },
+    {
+        "text": "15.13.3",
+        "label": "CARDINAL",
+        "start": 40155,
+        "end": 40162
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 40173,
+        "end": 40177
+    },
+    {
+        "text": "1.34",
+        "label": "CARDINAL",
+        "start": 40210,
+        "end": 40214
+    },
+    {
+        "text": "11.3.1",
+        "label": "CARDINAL",
+        "start": 40248,
+        "end": 40254
+    },
+    {
+        "text": "11.3.1",
+        "label": "CARDINAL",
+        "start": 40276,
+        "end": 40282
+    },
+    {
+        "text": "9.4.1",
+        "label": "CARDINAL",
+        "start": 40304,
+        "end": 40309
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 40467,
+        "end": 40471
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 40497,
+        "end": 40500
+    },
+    {
+        "text": "5.4.1",
+        "label": "CARDINAL",
+        "start": 40566,
+        "end": 40571
+    },
+    {
+        "text": "5.4.1",
+        "label": "CARDINAL",
+        "start": 40592,
+        "end": 40597
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 40631,
+        "end": 40634
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 40662,
+        "end": 40665
+    },
+    {
+        "text": "2.3.2",
+        "label": "CARDINAL",
+        "start": 40680,
+        "end": 40685
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 40693,
+        "end": 40697
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 40699,
+        "end": 40704
+    },
+    {
+        "text": "7.3.2(b",
+        "label": "CARDINAL",
+        "start": 40719,
+        "end": 40726
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 40746,
+        "end": 40749
+    },
+    {
+        "text": "8.3.3",
+        "label": "CARDINAL",
+        "start": 40756,
+        "end": 40761
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 40778,
+        "end": 40796
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 40798,
+        "end": 40801
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 40803,
+        "end": 40811
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 40906,
+        "end": 40912
+    },
+    {
+        "text": "2.2.3",
+        "label": "CARDINAL",
+        "start": 41059,
+        "end": 41064
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 42012,
+        "end": 42015
+    },
+    {
+        "text": "affiliates",
+        "label": "ORG",
+        "start": 42031,
+        "end": 42041
+    },
+    {
+        "text": "2.3.1",
+        "label": "CARDINAL",
+        "start": 42060,
+        "end": 42065
+    },
+    {
+        "text": "2.3.2",
+        "label": "CARDINAL",
+        "start": 42925,
+        "end": 42930
+    },
+    {
+        "text": "section 2.1",
+        "label": "LAW",
+        "start": 43042,
+        "end": 43053
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 43075,
+        "end": 43080
+    },
+    {
+        "text": "2.2.1",
+        "label": "CARDINAL",
+        "start": 43649,
+        "end": 43654
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 43659,
+        "end": 43662
+    },
+    {
+        "text": "2.2.1",
+        "label": "DATE",
+        "start": 43950,
+        "end": 43955
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 43960,
+        "end": 43963
+    },
+    {
+        "text": "aimmune hereby",
+        "label": "PERSON",
+        "start": 43979,
+        "end": 43993
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 44032,
+        "end": 44038
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 44201,
+        "end": 44204
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 44393,
+        "end": 44411
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 44413,
+        "end": 44416
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 44418,
+        "end": 44426
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 44715,
+        "end": 44720
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 45234,
+        "end": 45237
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 45387,
+        "end": 45393
+    },
+    {
+        "text": "2.5",
+        "label": "CARDINAL",
+        "start": 46034,
+        "end": 46037
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 46236,
+        "end": 46242
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 46583,
+        "end": 46588
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 46910,
+        "end": 46914
+    },
+    {
+        "text": "2.6",
+        "label": "CARDINAL",
+        "start": 46916,
+        "end": 46919
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 47402,
+        "end": 47408
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 47675,
+        "end": 47681
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 47960,
+        "end": 47963
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 47985,
+        "end": 47991
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 48217,
+        "end": 48220
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 48241,
+        "end": 48259
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 48261,
+        "end": 48264
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 48266,
+        "end": 48274
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 48503,
+        "end": 48506
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 48941,
+        "end": 48947
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 49208,
+        "end": 49214
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 49248,
+        "end": 49251
+    },
+    {
+        "text": "hours",
+        "label": "TIME",
+        "start": 49315,
+        "end": 49320
+    },
+    {
+        "text": "article 3",
+        "label": "LAW",
+        "start": 49371,
+        "end": 49380
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 49393,
+        "end": 49396
+    },
+    {
+        "text": "section 7.2",
+        "label": "LAW",
+        "start": 49781,
+        "end": 49792
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 49847,
+        "end": 49850
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 50376,
+        "end": 50380
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 50682,
+        "end": 50686
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 50990,
+        "end": 50996
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 51210,
+        "end": 51214
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 51282,
+        "end": 51288
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 51523,
+        "end": 51527
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 51628,
+        "end": 51634
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 51980,
+        "end": 51998
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 52000,
+        "end": 52003
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 52005,
+        "end": 52013
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 52014,
+        "end": 52017
+    },
+    {
+        "text": "one hundred percent",
+        "label": "PERCENT",
+        "start": 52101,
+        "end": 52120
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 52122,
+        "end": 52125
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 52205,
+        "end": 52208
+    },
+    {
+        "text": "gcp",
+        "label": "ORG",
+        "start": 53190,
+        "end": 53193
+    },
+    {
+        "text": "glp",
+        "label": "PERSON",
+        "start": 53198,
+        "end": 53201
+    },
+    {
+        "text": "article 4",
+        "label": "LAW",
+        "start": 53215,
+        "end": 53224
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 53236,
+        "end": 53239
+    },
+    {
+        "text": "4.1.1",
+        "label": "CARDINAL",
+        "start": 53285,
+        "end": 53290
+    },
+    {
+        "text": "4.1.2",
+        "label": "CARDINAL",
+        "start": 53777,
+        "end": 53782
+    },
+    {
+        "text": "4.1.4",
+        "label": "CARDINAL",
+        "start": 54560,
+        "end": 54565
+    },
+    {
+        "text": "section 2.5",
+        "label": "LAW",
+        "start": 54643,
+        "end": 54654
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 54913,
+        "end": 54931
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 54933,
+        "end": 54936
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 54938,
+        "end": 54946
+    },
+    {
+        "text": "4.1.5",
+        "label": "CARDINAL",
+        "start": 54947,
+        "end": 54952
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 55502,
+        "end": 55508
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 55969,
+        "end": 55972
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 56205,
+        "end": 56208
+    },
+    {
+        "text": "4.3.1",
+        "label": "CARDINAL",
+        "start": 56250,
+        "end": 56255
+    },
+    {
+        "text": "section 4.1.1",
+        "label": "LAW",
+        "start": 56286,
+        "end": 56299
+    },
+    {
+        "text": "4.3.2",
+        "label": "CARDINAL",
+        "start": 56809,
+        "end": 56814
+    },
+    {
+        "text": "4.3.3",
+        "label": "CARDINAL",
+        "start": 57225,
+        "end": 57230
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 57635,
+        "end": 57645
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 58180,
+        "end": 58198
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 58200,
+        "end": 58203
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 58205,
+        "end": 58213
+    },
+    {
+        "text": "article 5",
+        "label": "LAW",
+        "start": 59417,
+        "end": 59426
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 59445,
+        "end": 59448
+    },
+    {
+        "text": "one hundred percent",
+        "label": "PERCENT",
+        "start": 59611,
+        "end": 59630
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 59632,
+        "end": 59635
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 59782,
+        "end": 59785
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 61074,
+        "end": 61092
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 61094,
+        "end": 61097
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 61099,
+        "end": 61107
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 61108,
+        "end": 61111
+    },
+    {
+        "text": "the fourth calendar quarter",
+        "label": "DATE",
+        "start": 61209,
+        "end": 61236
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 61269,
+        "end": 61274
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 61362,
+        "end": 61366
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 61390,
+        "end": 61393
+    },
+    {
+        "text": "5.4.1",
+        "label": "CARDINAL",
+        "start": 61438,
+        "end": 61443
+    },
+    {
+        "text": "5.4.2",
+        "label": "CARDINAL",
+        "start": 61634,
+        "end": 61639
+    },
+    {
+        "text": "5.4.3",
+        "label": "CARDINAL",
+        "start": 62357,
+        "end": 62362
+    },
+    {
+        "text": "5.5",
+        "label": "CARDINAL",
+        "start": 63297,
+        "end": 63300
+    },
+    {
+        "text": "article 6",
+        "label": "LAW",
+        "start": 63592,
+        "end": 63601
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 63609,
+        "end": 63612
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 63637,
+        "end": 63643
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 63745,
+        "end": 63748
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 63800,
+        "end": 63806
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 63884,
+        "end": 63902
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 63904,
+        "end": 63907
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 63909,
+        "end": 63917
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 63940,
+        "end": 63943
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 64372,
+        "end": 64375
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64525,
+        "end": 64530
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65059,
+        "end": 65064
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65224,
+        "end": 65229
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 65320,
+        "end": 65323
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65375,
+        "end": 65380
+    },
+    {
+        "text": "article 7",
+        "label": "LAW",
+        "start": 65415,
+        "end": 65424
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 65434,
+        "end": 65437
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 65851,
+        "end": 65857
+    },
+    {
+        "text": "five million dollars",
+        "label": "MONEY",
+        "start": 65878,
+        "end": 65898
+    },
+    {
+        "text": "5,000,000",
+        "label": "CARDINAL",
+        "start": 65900,
+        "end": 65909
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 66081,
+        "end": 66084
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 66137,
+        "end": 66140
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 66236,
+        "end": 66241
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 66393,
+        "end": 66397
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 66637,
+        "end": 66642
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 66860,
+        "end": 66878
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 66880,
+        "end": 66883
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 66885,
+        "end": 66893
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 67037,
+        "end": 67040
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 67310,
+        "end": 67316
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 67391,
+        "end": 67409
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 67411,
+        "end": 67414
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 67416,
+        "end": 67424
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 67904,
+        "end": 67909
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 68111,
+        "end": 68116
+    },
+    {
+        "text": "xencor technology",
+        "label": "ORG",
+        "start": 68272,
+        "end": 68289
+    },
+    {
+        "text": "section 2.1",
+        "label": "LAW",
+        "start": 68305,
+        "end": 68316
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 68395,
+        "end": 68400
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 68456,
+        "end": 68461
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 68558,
+        "end": 68563
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 69492,
+        "end": 69499
+    },
+    {
+        "text": "the baseline quarter",
+        "label": "DATE",
+        "start": 69695,
+        "end": 69715
+    },
+    {
+        "text": "the baseline quarter",
+        "label": "DATE",
+        "start": 69942,
+        "end": 69962
+    },
+    {
+        "text": "the baseline quarter",
+        "label": "DATE",
+        "start": 69976,
+        "end": 69996
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 70350,
+        "end": 70357
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 70486,
+        "end": 70504
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 70506,
+        "end": 70509
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 70511,
+        "end": 70519
+    },
+    {
+        "text": "article 8",
+        "label": "LAW",
+        "start": 70937,
+        "end": 70946
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 70972,
+        "end": 70975
+    },
+    {
+        "text": "section 7.3",
+        "label": "LAW",
+        "start": 71058,
+        "end": 71069
+    },
+    {
+        "text": "quarter",
+        "label": "CARDINAL",
+        "start": 71127,
+        "end": 71134
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 71756,
+        "end": 71759
+    },
+    {
+        "text": "u.s. dollars",
+        "label": "EVENT",
+        "start": 71846,
+        "end": 71858
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 72066,
+        "end": 72070
+    },
+    {
+        "text": "the last business day",
+        "label": "DATE",
+        "start": 72083,
+        "end": 72104
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 72229,
+        "end": 72233
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 72391,
+        "end": 72397
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 72440,
+        "end": 72446
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 72448,
+        "end": 72451
+    },
+    {
+        "text": "section 9008",
+        "label": "LAW",
+        "start": 72876,
+        "end": 72888
+    },
+    {
+        "text": "8.3.2",
+        "label": "CARDINAL",
+        "start": 72950,
+        "end": 72955
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 72987,
+        "end": 72993
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 73783,
+        "end": 73801
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 73803,
+        "end": 73806
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 73808,
+        "end": 73816
+    },
+    {
+        "text": "8.3.3",
+        "label": "CARDINAL",
+        "start": 74652,
+        "end": 74657
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 74831,
+        "end": 74837
+    },
+    {
+        "text": "xencor shall",
+        "label": "ORG",
+        "start": 74839,
+        "end": 74851
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 75059,
+        "end": 75062
+    },
+    {
+        "text": "years",
+        "label": "DATE",
+        "start": 75112,
+        "end": 75117
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 75403,
+        "end": 75409
+    },
+    {
+        "text": "normal business hours",
+        "label": "TIME",
+        "start": 75756,
+        "end": 75777
+    },
+    {
+        "text": "any\nyear ending",
+        "label": "DATE",
+        "start": 76104,
+        "end": 76119
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 76142,
+        "end": 76148
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 76621,
+        "end": 76627
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 76710,
+        "end": 76716
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 76914,
+        "end": 76924
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 77012,
+        "end": 77018
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 77192,
+        "end": 77195
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 77354,
+        "end": 77357
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 77359,
+        "end": 77362
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 77367,
+        "end": 77370
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 77474,
+        "end": 77492
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 77494,
+        "end": 77497
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 77499,
+        "end": 77507
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 77804,
+        "end": 77808
+    },
+    {
+        "text": "annually",
+        "label": "DATE",
+        "start": 77848,
+        "end": 77856
+    },
+    {
+        "text": "three hundred sixty five",
+        "label": "QUANTITY",
+        "start": 77888,
+        "end": 77912
+    },
+    {
+        "text": "day year",
+        "label": "DATE",
+        "start": 77919,
+        "end": 77927
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 77990,
+        "end": 77996
+    },
+    {
+        "text": "article 9",
+        "label": "LAW",
+        "start": 78158,
+        "end": 78167
+    },
+    {
+        "text": "9.1",
+        "label": "CARDINAL",
+        "start": 78198,
+        "end": 78201
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 79045,
+        "end": 79062
+    },
+    {
+        "text": "35",
+        "label": "DATE",
+        "start": 79070,
+        "end": 79072
+    },
+    {
+        "text": "united states",
+        "label": "ORG",
+        "start": 79074,
+        "end": 79087
+    },
+    {
+        "text": "9.2",
+        "label": "CARDINAL",
+        "start": 79902,
+        "end": 79905
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 80449,
+        "end": 80454
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 80583,
+        "end": 80588
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 80661,
+        "end": 80666
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 80948,
+        "end": 80966
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 80968,
+        "end": 80971
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 80973,
+        "end": 80981
+    },
+    {
+        "text": "section 9.3",
+        "label": "LAW",
+        "start": 81007,
+        "end": 81018
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 81247,
+        "end": 81251
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 81360,
+        "end": 81363
+    },
+    {
+        "text": "9.3.1",
+        "label": "CARDINAL",
+        "start": 81409,
+        "end": 81414
+    },
+    {
+        "text": "xencor shall",
+        "label": "ORG",
+        "start": 81879,
+        "end": 81891
+    },
+    {
+        "text": "xencor general",
+        "label": "ORG",
+        "start": 81941,
+        "end": 81955
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 82031,
+        "end": 82037
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 82139,
+        "end": 82144
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 82196,
+        "end": 82202
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 82600,
+        "end": 82606
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 83572,
+        "end": 83578
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 84462,
+        "end": 84480
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 84482,
+        "end": 84485
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 84487,
+        "end": 84495
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 85307,
+        "end": 85313
+    },
+    {
+        "text": "9.3.3",
+        "label": "CARDINAL",
+        "start": 85341,
+        "end": 85346
+    },
+    {
+        "text": "9.3",
+        "label": "CARDINAL",
+        "start": 85481,
+        "end": 85484
+    },
+    {
+        "text": "9.4",
+        "label": "CARDINAL",
+        "start": 86090,
+        "end": 86093
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 86110,
+        "end": 86115
+    },
+    {
+        "text": "9.4.1",
+        "label": "CARDINAL",
+        "start": 86155,
+        "end": 86160
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 86177,
+        "end": 86182
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 86377,
+        "end": 86382
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 86830,
+        "end": 86835
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 87044,
+        "end": 87050
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 88002,
+        "end": 88020
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 88022,
+        "end": 88025
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 88027,
+        "end": 88035
+    },
+    {
+        "text": "9.4.1(b",
+        "label": "CARDINAL",
+        "start": 88270,
+        "end": 88277
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 88844,
+        "end": 88850
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 88860,
+        "end": 88866
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 89013,
+        "end": 89018
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 89085,
+        "end": 89091
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 89159,
+        "end": 89164
+    },
+    {
+        "text": "section 9.3",
+        "label": "LAW",
+        "start": 89564,
+        "end": 89575
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 89655,
+        "end": 89660
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 89862,
+        "end": 89867
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 90300,
+        "end": 90306
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 90589,
+        "end": 90592
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 90981,
+        "end": 90987
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 91150,
+        "end": 91155
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 91285,
+        "end": 91291
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 91510,
+        "end": 91528
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 91530,
+        "end": 91533
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 91535,
+        "end": 91543
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 91577,
+        "end": 91580
+    },
+    {
+        "text": "section 9.4.2(b",
+        "label": "LAW",
+        "start": 91631,
+        "end": 91646
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 91777,
+        "end": 91782
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 92072,
+        "end": 92077
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 93051,
+        "end": 93056
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 93120,
+        "end": 93126
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 93343,
+        "end": 93349
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 93448,
+        "end": 93454
+    },
+    {
+        "text": "9.5",
+        "label": "CARDINAL",
+        "start": 93716,
+        "end": 93719
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 93755,
+        "end": 93761
+    },
+    {
+        "text": "xencor shall",
+        "label": "ORG",
+        "start": 94217,
+        "end": 94229
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 94564,
+        "end": 94582
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 94584,
+        "end": 94587
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 94589,
+        "end": 94597
+    },
+    {
+        "text": "9.6",
+        "label": "CARDINAL",
+        "start": 94598,
+        "end": 94601
+    },
+    {
+        "text": "9.7",
+        "label": "CARDINAL",
+        "start": 94774,
+        "end": 94777
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 94796,
+        "end": 94802
+    },
+    {
+        "text": "article 10",
+        "label": "LAW",
+        "start": 95059,
+        "end": 95069
+    },
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 95124,
+        "end": 95128
+    },
+    {
+        "text": "10.1.1",
+        "label": "CARDINAL",
+        "start": 95267,
+        "end": 95273
+    },
+    {
+        "text": "10.1.2",
+        "label": "CARDINAL",
+        "start": 95725,
+        "end": 95731
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 97341,
+        "end": 97359
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 97361,
+        "end": 97364
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 97366,
+        "end": 97374
+    },
+    {
+        "text": "10.2",
+        "label": "CARDINAL",
+        "start": 97375,
+        "end": 97379
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 97436,
+        "end": 97442
+    },
+    {
+        "text": "xencor hereby",
+        "label": "ORG",
+        "start": 97444,
+        "end": 97457
+    },
+    {
+        "text": "10.2.2 xencor",
+        "label": "PERSON",
+        "start": 97664,
+        "end": 97677
+    },
+    {
+        "text": "10.2.3",
+        "label": "CARDINAL",
+        "start": 97765,
+        "end": 97771
+    },
+    {
+        "text": "10.2.4",
+        "label": "CARDINAL",
+        "start": 98096,
+        "end": 98102
+    },
+    {
+        "text": "1.79",
+        "label": "CARDINAL",
+        "start": 98112,
+        "end": 98116
+    },
+    {
+        "text": "1.81",
+        "label": "CARDINAL",
+        "start": 98130,
+        "end": 98134
+    },
+    {
+        "text": "10.2.5",
+        "label": "CARDINAL",
+        "start": 98411,
+        "end": 98417
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 98421,
+        "end": 98427
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 98441,
+        "end": 98447
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 98617,
+        "end": 98623
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 98641,
+        "end": 98647
+    },
+    {
+        "text": "10.2.6",
+        "label": "CARDINAL",
+        "start": 98649,
+        "end": 98655
+    },
+    {
+        "text": "10.2.6",
+        "label": "CARDINAL",
+        "start": 98692,
+        "end": 98698
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 98733,
+        "end": 98739
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 98891,
+        "end": 98897
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 98971,
+        "end": 98977
+    },
+    {
+        "text": "10.2.8",
+        "label": "CARDINAL",
+        "start": 99122,
+        "end": 99128
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 99137,
+        "end": 99143
+    },
+    {
+        "text": "10.2.9",
+        "label": "CARDINAL",
+        "start": 99381,
+        "end": 99387
+    },
+    {
+        "text": "10.2.10",
+        "label": "CARDINAL",
+        "start": 99619,
+        "end": 99626
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 99872,
+        "end": 99876
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 99961,
+        "end": 99979
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 99981,
+        "end": 99984
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 99986,
+        "end": 99994
+    },
+    {
+        "text": "10.2.11",
+        "label": "CARDINAL",
+        "start": 99995,
+        "end": 100002
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 100061,
+        "end": 100067
+    },
+    {
+        "text": "10.2.12",
+        "label": "CARDINAL",
+        "start": 100248,
+        "end": 100255
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 100656,
+        "end": 100662
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 100982,
+        "end": 100987
+    },
+    {
+        "text": "10.2.14",
+        "label": "CARDINAL",
+        "start": 100995,
+        "end": 101002
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 101006,
+        "end": 101012
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 101026,
+        "end": 101032
+    },
+    {
+        "text": "10.2.15",
+        "label": "CARDINAL",
+        "start": 101213,
+        "end": 101220
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 101372,
+        "end": 101377
+    },
+    {
+        "text": "10.2.16",
+        "label": "CARDINAL",
+        "start": 101503,
+        "end": 101510
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 101702,
+        "end": 101706
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 102037,
+        "end": 102042
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 102288,
+        "end": 102292
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 102544,
+        "end": 102562
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 102564,
+        "end": 102567
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 102569,
+        "end": 102577
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 102578,
+        "end": 102582
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 102862,
+        "end": 102867
+    },
+    {
+        "text": "10.6",
+        "label": "CARDINAL",
+        "start": 103113,
+        "end": 103117
+    },
+    {
+        "text": "10.6.1",
+        "label": "CARDINAL",
+        "start": 103130,
+        "end": 103136
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 103502,
+        "end": 103506
+    },
+    {
+        "text": "1977",
+        "label": "DATE",
+        "start": 103540,
+        "end": 103544
+    },
+    {
+        "text": "article 11",
+        "label": "LAW",
+        "start": 104644,
+        "end": 104654
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 104671,
+        "end": 104675
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 104695,
+        "end": 104701
+    },
+    {
+        "text": "xencor hereby",
+        "label": "ORG",
+        "start": 104703,
+        "end": 104716
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 105205,
+        "end": 105210
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 105288,
+        "end": 105294
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 105928,
+        "end": 105934
+    },
+    {
+        "text": "section 11.2",
+        "label": "LAW",
+        "start": 106227,
+        "end": 106239
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 106258,
+        "end": 106276
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 106278,
+        "end": 106281
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 106283,
+        "end": 106291
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 106292,
+        "end": 106296
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 107477,
+        "end": 107481
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 107483,
+        "end": 107487
+    },
+    {
+        "text": "11.3.1",
+        "label": "CARDINAL",
+        "start": 107516,
+        "end": 107522
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 107610,
+        "end": 107614
+    },
+    {
+        "text": "section 11.2",
+        "label": "LAW",
+        "start": 107618,
+        "end": 107630
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 107872,
+        "end": 107877
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 108695,
+        "end": 108699
+    },
+    {
+        "text": "section 11.2",
+        "label": "LAW",
+        "start": 108703,
+        "end": 108715
+    },
+    {
+        "text": "11.3.2",
+        "label": "CARDINAL",
+        "start": 108771,
+        "end": 108777
+    },
+    {
+        "text": "11.3.3",
+        "label": "CARDINAL",
+        "start": 109272,
+        "end": 109278
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 109499,
+        "end": 109517
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 109519,
+        "end": 109522
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 109524,
+        "end": 109532
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 110168,
+        "end": 110172
+    },
+    {
+        "text": "11.4",
+        "label": "CARDINAL",
+        "start": 110506,
+        "end": 110510
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 110630,
+        "end": 110634
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 110715,
+        "end": 110725
+    },
+    {
+        "text": "11.5",
+        "label": "CARDINAL",
+        "start": 110727,
+        "end": 110731
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 111234,
+        "end": 111239
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 111391,
+        "end": 111396
+    },
+    {
+        "text": "article 11",
+        "label": "LAW",
+        "start": 111636,
+        "end": 111646
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 111784,
+        "end": 111787
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 111864,
+        "end": 111868
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 112029,
+        "end": 112039
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 112056,
+        "end": 112060
+    },
+    {
+        "text": "years",
+        "label": "DATE",
+        "start": 112162,
+        "end": 112167
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 112520,
+        "end": 112525
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 112754,
+        "end": 112772
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 112774,
+        "end": 112777
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 112779,
+        "end": 112787
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 113056,
+        "end": 113060
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 113511,
+        "end": 113516
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 113634,
+        "end": 113639
+    },
+    {
+        "text": "12.1.2",
+        "label": "CARDINAL",
+        "start": 113966,
+        "end": 113972
+    },
+    {
+        "text": "the u.s. securities and exchange commission",
+        "label": "ORG",
+        "start": 114301,
+        "end": 114344
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 115930,
+        "end": 115948
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 115950,
+        "end": 115953
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 115955,
+        "end": 115963
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 116758,
+        "end": 116762
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 116839,
+        "end": 116843
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 116881,
+        "end": 116885
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 117975,
+        "end": 117979
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 118124,
+        "end": 118128
+    },
+    {
+        "text": "the u.s. securities and exchange commission",
+        "label": "ORG",
+        "start": 118682,
+        "end": 118725
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 119095,
+        "end": 119099
+    },
+    {
+        "text": "the u.s. securities and exchange commission",
+        "label": "ORG",
+        "start": 119168,
+        "end": 119211
+    },
+    {
+        "text": "1933",
+        "label": "DATE",
+        "start": 119304,
+        "end": 119308
+    },
+    {
+        "text": "the securities exchange act",
+        "label": "ORG",
+        "start": 119322,
+        "end": 119349
+    },
+    {
+        "text": "1934",
+        "label": "DATE",
+        "start": 119353,
+        "end": 119357
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 119835,
+        "end": 119853
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 119855,
+        "end": 119858
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 119860,
+        "end": 119868
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 120160,
+        "end": 120164
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 120587,
+        "end": 120591
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 120951,
+        "end": 120955
+    },
+    {
+        "text": "12.1",
+        "label": "CARDINAL",
+        "start": 121098,
+        "end": 121102
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 121111,
+        "end": 121115
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 121296,
+        "end": 121302
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 121347,
+        "end": 121352
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 121360,
+        "end": 121364
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 121865,
+        "end": 121903
+    },
+    {
+        "text": "12.6",
+        "label": "CARDINAL",
+        "start": 121945,
+        "end": 121949
+    },
+    {
+        "text": "12.7",
+        "label": "CARDINAL",
+        "start": 122434,
+        "end": 122438
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 122494,
+        "end": 122504
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 123024,
+        "end": 123042
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 123044,
+        "end": 123047
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 123049,
+        "end": 123057
+    },
+    {
+        "text": "article 13",
+        "label": "LAW",
+        "start": 123058,
+        "end": 123068
+    },
+    {
+        "text": "13.1",
+        "label": "CARDINAL",
+        "start": 123090,
+        "end": 123094
+    },
+    {
+        "text": "article 13",
+        "label": "LAW",
+        "start": 123209,
+        "end": 123219
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 123587,
+        "end": 123591
+    },
+    {
+        "text": "sixty",
+        "label": "CARDINAL",
+        "start": 123954,
+        "end": 123959
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 123961,
+        "end": 123969
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 123979,
+        "end": 123987
+    },
+    {
+        "text": "60) day period",
+        "label": "DATE",
+        "start": 124236,
+        "end": 124250
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 124252,
+        "end": 124258
+    },
+    {
+        "text": "30) day",
+        "label": "DATE",
+        "start": 124260,
+        "end": 124267
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 124425,
+        "end": 124438
+    },
+    {
+        "text": "60) day period",
+        "label": "DATE",
+        "start": 124465,
+        "end": 124479
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 124481,
+        "end": 124487
+    },
+    {
+        "text": "30) day",
+        "label": "DATE",
+        "start": 124489,
+        "end": 124496
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 124715,
+        "end": 124720
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 124741,
+        "end": 124746
+    },
+    {
+        "text": "3) year period",
+        "label": "DATE",
+        "start": 124748,
+        "end": 124762
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 124941,
+        "end": 124945
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 125429,
+        "end": 125433
+    },
+    {
+        "text": "60) days",
+        "label": "DATE",
+        "start": 125555,
+        "end": 125563
+    },
+    {
+        "text": "13.5",
+        "label": "CARDINAL",
+        "start": 125597,
+        "end": 125601
+    },
+    {
+        "text": "article 13",
+        "label": "LAW",
+        "start": 125669,
+        "end": 125679
+    },
+    {
+        "text": "article 14",
+        "label": "LAW",
+        "start": 125796,
+        "end": 125806
+    },
+    {
+        "text": "14.1",
+        "label": "CARDINAL",
+        "start": 125844,
+        "end": 125848
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 126264,
+        "end": 126282
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 126284,
+        "end": 126287
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 126289,
+        "end": 126297
+    },
+    {
+        "text": "the last day",
+        "label": "DATE",
+        "start": 126308,
+        "end": 126320
+    },
+    {
+        "text": "14.1.2",
+        "label": "CARDINAL",
+        "start": 126787,
+        "end": 126793
+    },
+    {
+        "text": "14.1.2",
+        "label": "CARDINAL",
+        "start": 127372,
+        "end": 127378
+    },
+    {
+        "text": "14.2 assignments",
+        "label": "MONEY",
+        "start": 127600,
+        "end": 127616
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 127862,
+        "end": 127867
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 128724,
+        "end": 128730
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 128974,
+        "end": 128980
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 129576,
+        "end": 129594
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 129596,
+        "end": 129599
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 129601,
+        "end": 129609
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 130291,
+        "end": 130296
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 130439,
+        "end": 130445
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 130619,
+        "end": 130620
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 130630,
+        "end": 130631
+    },
+    {
+        "text": "14.3",
+        "label": "CARDINAL",
+        "start": 130667,
+        "end": 130671
+    },
+    {
+        "text": "14.3",
+        "label": "CARDINAL",
+        "start": 131503,
+        "end": 131507
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 131660,
+        "end": 131663
+    },
+    {
+        "text": "14.4",
+        "label": "CARDINAL",
+        "start": 131690,
+        "end": 131694
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 132112,
+        "end": 132117
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 132130,
+        "end": 132136
+    },
+    {
+        "text": "14.5",
+        "label": "CARDINAL",
+        "start": 132390,
+        "end": 132394
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 132798,
+        "end": 132816
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 132818,
+        "end": 132821
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 132823,
+        "end": 132831
+    },
+    {
+        "text": "14.6",
+        "label": "CARDINAL",
+        "start": 132832,
+        "end": 132836
+    },
+    {
+        "text": "article 1",
+        "label": "LAW",
+        "start": 133004,
+        "end": 133013
+    },
+    {
+        "text": "article 4",
+        "label": "LAW",
+        "start": 133090,
+        "end": 133099
+    },
+    {
+        "text": "article 7",
+        "label": "LAW",
+        "start": 133228,
+        "end": 133237
+    },
+    {
+        "text": "article 11",
+        "label": "LAW",
+        "start": 133327,
+        "end": 133337
+    },
+    {
+        "text": "article 12",
+        "label": "LAW",
+        "start": 133339,
+        "end": 133349
+    },
+    {
+        "text": "section 12.1.1",
+        "label": "LAW",
+        "start": 133379,
+        "end": 133393
+    },
+    {
+        "text": "article 14",
+        "label": "LAW",
+        "start": 133396,
+        "end": 133406
+    },
+    {
+        "text": "article 15",
+        "label": "LAW",
+        "start": 133408,
+        "end": 133418
+    },
+    {
+        "text": "article 8",
+        "label": "LAW",
+        "start": 133423,
+        "end": 133432
+    },
+    {
+        "text": "2.2.1",
+        "label": "CARDINAL",
+        "start": 133535,
+        "end": 133540
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 133542,
+        "end": 133545
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 133654,
+        "end": 133657
+    },
+    {
+        "text": "9.1",
+        "label": "DATE",
+        "start": 133659,
+        "end": 133662
+    },
+    {
+        "text": "10.2",
+        "label": "DATE",
+        "start": 133664,
+        "end": 133668
+    },
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 133733,
+        "end": 133737
+    },
+    {
+        "text": "10.4",
+        "label": "CARDINAL",
+        "start": 133802,
+        "end": 133806
+    },
+    {
+        "text": "10.5",
+        "label": "CARDINAL",
+        "start": 133812,
+        "end": 133816
+    },
+    {
+        "text": "14",
+        "label": "DATE",
+        "start": 133854,
+        "end": 133856
+    },
+    {
+        "text": "14.7",
+        "label": "CARDINAL",
+        "start": 134008,
+        "end": 134012
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 134106,
+        "end": 134112
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 134205,
+        "end": 134209
+    },
+    {
+        "text": "section 101",
+        "label": "LAW",
+        "start": 134289,
+        "end": 134300
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 134308,
+        "end": 134312
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 134495,
+        "end": 134499
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 134676,
+        "end": 134680
+    },
+    {
+        "text": "article 15",
+        "label": "LAW",
+        "start": 136104,
+        "end": 136114
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 136129,
+        "end": 136133
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 136613,
+        "end": 136631
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 136633,
+        "end": 136636
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 136638,
+        "end": 136646
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 136773,
+        "end": 136777
+    },
+    {
+        "text": "15.13",
+        "label": "CARDINAL",
+        "start": 137353,
+        "end": 137358
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 137360,
+        "end": 137364
+    },
+    {
+        "text": "15.3",
+        "label": "CARDINAL",
+        "start": 138047,
+        "end": 138051
+    },
+    {
+        "text": "15.4",
+        "label": "CARDINAL",
+        "start": 139303,
+        "end": 139307
+    },
+    {
+        "text": "if;",
+        "label": "GPE",
+        "start": 139516,
+        "end": 139519
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 139530,
+        "end": 139535
+    },
+    {
+        "text": "the first business day",
+        "label": "DATE",
+        "start": 139709,
+        "end": 139731
+    },
+    {
+        "text": "xencor, inc.",
+        "label": "ORG",
+        "start": 140060,
+        "end": 140072
+    },
+    {
+        "text": "111",
+        "label": "CARDINAL",
+        "start": 140073,
+        "end": 140076
+    },
+    {
+        "text": "91016",
+        "label": "DATE",
+        "start": 140108,
+        "end": 140113
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 140158,
+        "end": 140176
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 140178,
+        "end": 140181
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 140183,
+        "end": 140191
+    },
+    {
+        "text": "xencor, inc.",
+        "label": "ORG",
+        "start": 140244,
+        "end": 140256
+    },
+    {
+        "text": "111",
+        "label": "CARDINAL",
+        "start": 140257,
+        "end": 140260
+    },
+    {
+        "text": "91016",
+        "label": "DATE",
+        "start": 140292,
+        "end": 140297
+    },
+    {
+        "text": "morgan, lewis & bockius",
+        "label": "ORG",
+        "start": 140333,
+        "end": 140356
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 140361,
+        "end": 140362
+    },
+    {
+        "text": "san francisco",
+        "label": "GPE",
+        "start": 140397,
+        "end": 140410
+    },
+    {
+        "text": "94105",
+        "label": "DATE",
+        "start": 140415,
+        "end": 140420
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 140471,
+        "end": 140489
+    },
+    {
+        "text": "8000",
+        "label": "CARDINAL",
+        "start": 140490,
+        "end": 140494
+    },
+    {
+        "text": "marina",
+        "label": "LOC",
+        "start": 140495,
+        "end": 140501
+    },
+    {
+        "text": "300",
+        "label": "CARDINAL",
+        "start": 140518,
+        "end": 140521
+    },
+    {
+        "text": "94005",
+        "label": "DATE",
+        "start": 140535,
+        "end": 140540
+    },
+    {
+        "text": "latham &",
+        "label": "ORG",
+        "start": 140620,
+        "end": 140628
+    },
+    {
+        "text": "140 scott",
+        "label": "QUANTITY",
+        "start": 140641,
+        "end": 140650
+    },
+    {
+        "text": "94025",
+        "label": "DATE",
+        "start": 140672,
+        "end": 140677
+    },
+    {
+        "text": "patrick pohlen\njudith hasko",
+        "label": "PERSON",
+        "start": 140689,
+        "end": 140716
+    },
+    {
+        "text": "15.5",
+        "label": "CARDINAL",
+        "start": 140717,
+        "end": 140721
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 141046,
+        "end": 141052
+    },
+    {
+        "text": "years",
+        "label": "DATE",
+        "start": 141126,
+        "end": 141131
+    },
+    {
+        "text": "15.6",
+        "label": "CARDINAL",
+        "start": 141179,
+        "end": 141183
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 141505,
+        "end": 141510
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 141781,
+        "end": 141786
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 142438,
+        "end": 142456
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 142458,
+        "end": 142461
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 142463,
+        "end": 142471
+    },
+    {
+        "text": "other than one",
+        "label": "CARDINAL",
+        "start": 143000,
+        "end": 143014
+    },
+    {
+        "text": "15.7",
+        "label": "CARDINAL",
+        "start": 143503,
+        "end": 143507
+    },
+    {
+        "text": "15.8",
+        "label": "CARDINAL",
+        "start": 143716,
+        "end": 143720
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 143742,
+        "end": 143745
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 143747,
+        "end": 143748
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 144165,
+        "end": 144168
+    },
+    {
+        "text": "15.9",
+        "label": "CARDINAL",
+        "start": 144268,
+        "end": 144272
+    },
+    {
+        "text": "15.10",
+        "label": "CARDINAL",
+        "start": 144503,
+        "end": 144508
+    },
+    {
+        "text": "15.11",
+        "label": "CARDINAL",
+        "start": 145302,
+        "end": 145307
+    },
+    {
+        "text": "15.12",
+        "label": "CARDINAL",
+        "start": 145550,
+        "end": 145555
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 146029,
+        "end": 146047
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 146049,
+        "end": 146052
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 146054,
+        "end": 146062
+    },
+    {
+        "text": "minutes",
+        "label": "TIME",
+        "start": 147379,
+        "end": 147386
+    },
+    {
+        "text": "15.13",
+        "label": "CARDINAL",
+        "start": 147776,
+        "end": 147781
+    },
+    {
+        "text": "15.13.1",
+        "label": "CARDINAL",
+        "start": 147818,
+        "end": 147825
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 147944,
+        "end": 147954
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 148310,
+        "end": 148317
+    },
+    {
+        "text": "15.13.2",
+        "label": "CARDINAL",
+        "start": 148435,
+        "end": 148442
+    },
+    {
+        "text": "15.13.3",
+        "label": "CARDINAL",
+        "start": 148716,
+        "end": 148723
+    },
+    {
+        "text": "united states district court",
+        "label": "ORG",
+        "start": 148810,
+        "end": 148838
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 148842,
+        "end": 148852
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 149484,
+        "end": 149488
+    },
+    {
+        "text": "california",
+        "label": "GPE",
+        "start": 149643,
+        "end": 149653
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 149757,
+        "end": 149775
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 149777,
+        "end": 149780
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 149782,
+        "end": 149790
+    },
+    {
+        "text": "15.13.3",
+        "label": "DATE",
+        "start": 149791,
+        "end": 149798
+    },
+    {
+        "text": "15.13.4",
+        "label": "CARDINAL",
+        "start": 150184,
+        "end": 150191
+    },
+    {
+        "text": "15.14",
+        "label": "CARDINAL",
+        "start": 150561,
+        "end": 150566
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 150570,
+        "end": 150575
+    },
+    {
+        "text": "15.15",
+        "label": "CARDINAL",
+        "start": 150836,
+        "end": 150841
+    },
+    {
+        "text": "15.16",
+        "label": "CARDINAL",
+        "start": 151303,
+        "end": 151308
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 151379,
+        "end": 151384
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 151386,
+        "end": 151387
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 151497,
+        "end": 151500
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 151502,
+        "end": 151503
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 151812,
+        "end": 151830
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 151832,
+        "end": 151835
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 151837,
+        "end": 151845
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 151992,
+        "end": 152010
+    },
+    {
+        "text": "xencor, inc.",
+        "label": "ORG",
+        "start": 152011,
+        "end": 152023
+    },
+    {
+        "text": "jayson dallas",
+        "label": "PERSON",
+        "start": 152032,
+        "end": 152045
+    },
+    {
+        "text": "m.d\n",
+        "label": "PERSON",
+        "start": 152047,
+        "end": 152051
+    },
+    {
+        "text": "bassil dahiyat",
+        "label": "PERSON",
+        "start": 152059,
+        "end": 152073
+    },
+    {
+        "text": "ph.d",
+        "label": "ORG",
+        "start": 152075,
+        "end": 152079
+    },
+    {
+        "text": "jayson dallas",
+        "label": "FAC",
+        "start": 152087,
+        "end": 152100
+    },
+    {
+        "text": "m.d\n",
+        "label": "PERSON",
+        "start": 152102,
+        "end": 152106
+    },
+    {
+        "text": "ph.d",
+        "label": "ORG",
+        "start": 152128,
+        "end": 152132
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 152197,
+        "end": 152215
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 152217,
+        "end": 152220
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 152222,
+        "end": 152230
+    },
+    {
+        "text": "1.10",
+        "label": "CARDINAL",
+        "start": 152240,
+        "end": 152244
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 152322,
+        "end": 152340
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 152342,
+        "end": 152345
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 152347,
+        "end": 152355
+    },
+    {
+        "text": "1.79",
+        "label": "CARDINAL",
+        "start": 152365,
+        "end": 152369
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 152461,
+        "end": 152479
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 152481,
+        "end": 152484
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 152486,
+        "end": 152494
+    },
+    {
+        "text": "1.81",
+        "label": "CARDINAL",
+        "start": 152504,
+        "end": 152508
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 152609,
+        "end": 152627
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 152629,
+        "end": 152632
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 152634,
+        "end": 152642
+    },
+    {
+        "text": "2.7",
+        "label": "CARDINAL",
+        "start": 152652,
+        "end": 152655
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 152783,
+        "end": 152801
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 152803,
+        "end": 152806
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 152808,
+        "end": 152816
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 152826,
+        "end": 152829
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 152921,
+        "end": 152939
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 152941,
+        "end": 152944
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 152946,
+        "end": 152954
+    },
+    {
+        "text": "10.2.6",
+        "label": "CARDINAL",
+        "start": 152964,
+        "end": 152970
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 153050,
+        "end": 153068
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 153070,
+        "end": 153073
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 153075,
+        "end": 153083
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 153093,
+        "end": 153097
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 153137,
+        "end": 153155
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 153157,
+        "end": 153160
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 153162,
+        "end": 153170
+    },
+    {
+        "text": "wednesday",
+        "label": "DATE",
+        "start": 153187,
+        "end": 153196
+    },
+    {
+        "text": "2/5",
+        "label": "CARDINAL",
+        "start": 153198,
+        "end": 153201
+    },
+    {
+        "text": "8:01 am",
+        "label": "TIME",
+        "start": 153202,
+        "end": 153209
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 153282,
+        "end": 153288
+    },
+    {
+        "text": "7195",
+        "label": "DATE",
+        "start": 153296,
+        "end": 153300
+    },
+    {
+        "text": "calif.",
+        "label": "GPE",
+        "start": 153374,
+        "end": 153380
+    },
+    {
+        "text": "february 5, 2020",
+        "label": "DATE",
+        "start": 153383,
+        "end": 153399
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 153410,
+        "end": 153428
+    },
+    {
+        "text": "today",
+        "label": "DATE",
+        "start": 153544,
+        "end": 153549
+    },
+    {
+        "text": "7195",
+        "label": "DATE",
+        "start": 153691,
+        "end": 153695
+    },
+    {
+        "text": "xencor, inc.\nxmab7195",
+        "label": "ORG",
+        "start": 153701,
+        "end": 153722
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 153747,
+        "end": 153756
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 153786,
+        "end": 153792
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 153839,
+        "end": 153844
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 153970,
+        "end": 153979
+    },
+    {
+        "text": "jayson dallas",
+        "label": "PERSON",
+        "start": 154436,
+        "end": 154449
+    },
+    {
+        "text": "m.d.",
+        "label": "GPE",
+        "start": 154451,
+        "end": 154455
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 154501,
+        "end": 154510
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 154794,
+        "end": 154803
+    },
+    {
+        "text": "bassil dahiyat",
+        "label": "PERSON",
+        "start": 154919,
+        "end": 154933
+    },
+    {
+        "text": "ph.d.",
+        "label": "GPE",
+        "start": 154935,
+        "end": 154940
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 154972,
+        "end": 154981
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 155256,
+        "end": 155262
+    },
+    {
+        "text": "5 million",
+        "label": "CARDINAL",
+        "start": 155266,
+        "end": 155275
+    },
+    {
+        "text": "5 million",
+        "label": "CARDINAL",
+        "start": 155288,
+        "end": 155297
+    },
+    {
+        "text": "156,238",
+        "label": "CARDINAL",
+        "start": 155323,
+        "end": 155330
+    },
+    {
+        "text": "32.0025",
+        "label": "CARDINAL",
+        "start": 155378,
+        "end": 155385
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 155393,
+        "end": 155399
+    },
+    {
+        "text": "up to 385 million",
+        "label": "CARDINAL",
+        "start": 155428,
+        "end": 155445
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 155591,
+        "end": 155592
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 155719,
+        "end": 155728
+    },
+    {
+        "text": "aimmune",
+        "label": "PERSON",
+        "start": 155730,
+        "end": 155737
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 155805,
+        "end": 155814
+    },
+    {
+        "text": "the coming months",
+        "label": "DATE",
+        "start": 155858,
+        "end": 155875
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 155883,
+        "end": 155892
+    },
+    {
+        "text": "7195",
+        "label": "DATE",
+        "start": 155908,
+        "end": 155912
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 155914,
+        "end": 155923
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 156192,
+        "end": 156210
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 156212,
+        "end": 156215
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 156217,
+        "end": 156225
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 156239,
+        "end": 156248
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 156456,
+        "end": 156465
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 156488,
+        "end": 156491
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 156498,
+        "end": 156499
+    },
+    {
+        "text": "100",
+        "label": "CARDINAL",
+        "start": 156532,
+        "end": 156535
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 156623,
+        "end": 156641
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 157271,
+        "end": 157274
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 157275,
+        "end": 157278
+    },
+    {
+        "text": "1995",
+        "label": "DATE",
+        "start": 157671,
+        "end": 157675
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 158377,
+        "end": 158382
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 158414,
+        "end": 158423
+    },
+    {
+        "text": "the united\nstates",
+        "label": "GPE",
+        "start": 158501,
+        "end": 158518
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 158718,
+        "end": 158756
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 158772,
+        "end": 158781
+    },
+    {
+        "text": "10-q",
+        "label": "CARDINAL",
+        "start": 158797,
+        "end": 158801
+    },
+    {
+        "text": "the\nquarter ended september 30, 2019",
+        "label": "DATE",
+        "start": 158806,
+        "end": 158842
+    },
+    {
+        "text": "ar101",
+        "label": "ORG",
+        "start": 159153,
+        "end": 159158
+    },
+    {
+        "text": "fda",
+        "label": "ORG",
+        "start": 159206,
+        "end": 159209
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 159213,
+        "end": 159230
+    },
+    {
+        "text": "ema",
+        "label": "ORG",
+        "start": 159278,
+        "end": 159281
+    },
+    {
+        "text": "europe",
+        "label": "LOC",
+        "start": 159306,
+        "end": 159312
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 159491,
+        "end": 159509
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 159511,
+        "end": 159514
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 159516,
+        "end": 159524
+    },
+    {
+        "text": "xmab®",
+        "label": "PERSON",
+        "start": 159650,
+        "end": 159655
+    },
+    {
+        "text": "xencor, inc.",
+        "label": "ORG",
+        "start": 159685,
+        "end": 159697
+    },
+    {
+        "text": "917",
+        "label": "CARDINAL",
+        "start": 159732,
+        "end": 159735
+    },
+    {
+        "text": "834",
+        "label": "CARDINAL",
+        "start": 159737,
+        "end": 159740
+    },
+    {
+        "text": "julie normart",
+        "label": "PERSON",
+        "start": 159771,
+        "end": 159784
+    },
+    {
+        "text": "559",
+        "label": "CARDINAL",
+        "start": 159786,
+        "end": 159789
+    },
+    {
+        "text": "974",
+        "label": "CARDINAL",
+        "start": 159791,
+        "end": 159794
+    },
+    {
+        "text": "646",
+        "label": "CARDINAL",
+        "start": 159838,
+        "end": 159841
+    },
+    {
+        "text": "564-2156",
+        "label": "CARDINAL",
+        "start": 159843,
+        "end": 159851
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 159890,
+        "end": 159908
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 159910,
+        "end": 159913
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 159915,
+        "end": 159923
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 159971,
+        "end": 159977
+    },
+    {
+        "text": "7195",
+        "label": "DATE",
+        "start": 159985,
+        "end": 159989
+    },
+    {
+        "text": "calif.",
+        "label": "GPE",
+        "start": 160063,
+        "end": 160069
+    },
+    {
+        "text": "february 5, 2020",
+        "label": "DATE",
+        "start": 160072,
+        "end": 160088
+    },
+    {
+        "text": "xencor, inc.",
+        "label": "ORG",
+        "start": 160091,
+        "end": 160103
+    },
+    {
+        "text": "xncr",
+        "label": "ORG",
+        "start": 160112,
+        "end": 160116
+    },
+    {
+        "text": "7195",
+        "label": "DATE",
+        "start": 160399,
+        "end": 160403
+    },
+    {
+        "text": "therapeutics, inc.\nxmab7195",
+        "label": "ORG",
+        "start": 160415,
+        "end": 160442
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 160467,
+        "end": 160476
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 160506,
+        "end": 160512
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 160559,
+        "end": 160564
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 160690,
+        "end": 160699
+    },
+    {
+        "text": "jayson dallas",
+        "label": "PERSON",
+        "start": 161156,
+        "end": 161169
+    },
+    {
+        "text": "m.d.",
+        "label": "GPE",
+        "start": 161171,
+        "end": 161175
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 161221,
+        "end": 161230
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 161514,
+        "end": 161523
+    },
+    {
+        "text": "bassil dahiyat",
+        "label": "PERSON",
+        "start": 161639,
+        "end": 161653
+    },
+    {
+        "text": "ph.d.",
+        "label": "GPE",
+        "start": 161655,
+        "end": 161660
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 161692,
+        "end": 161701
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 161976,
+        "end": 161982
+    },
+    {
+        "text": "5 million",
+        "label": "CARDINAL",
+        "start": 161986,
+        "end": 161995
+    },
+    {
+        "text": "5 million",
+        "label": "CARDINAL",
+        "start": 162008,
+        "end": 162017
+    },
+    {
+        "text": "156,238",
+        "label": "CARDINAL",
+        "start": 162043,
+        "end": 162050
+    },
+    {
+        "text": "32.0025",
+        "label": "CARDINAL",
+        "start": 162098,
+        "end": 162105
+    },
+    {
+        "text": "seven-day",
+        "label": "DATE",
+        "start": 162117,
+        "end": 162126
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 162158,
+        "end": 162164
+    },
+    {
+        "text": "385 million",
+        "label": "CARDINAL",
+        "start": 162199,
+        "end": 162210
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 162356,
+        "end": 162357
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 162484,
+        "end": 162493
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 162570,
+        "end": 162579
+    },
+    {
+        "text": "the coming months",
+        "label": "DATE",
+        "start": 162623,
+        "end": 162640
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 162648,
+        "end": 162657
+    },
+    {
+        "text": "7195",
+        "label": "DATE",
+        "start": 162673,
+        "end": 162677
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 162679,
+        "end": 162688
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 162954,
+        "end": 162963
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 163171,
+        "end": 163180
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 163203,
+        "end": 163206
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 163213,
+        "end": 163214
+    },
+    {
+        "text": "more than 100",
+        "label": "CARDINAL",
+        "start": 163237,
+        "end": 163250
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 163332,
+        "end": 163350
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 163352,
+        "end": 163355
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 163357,
+        "end": 163365
+    },
+    {
+        "text": "xencor, inc.",
+        "label": "ORG",
+        "start": 163372,
+        "end": 163384
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 163385,
+        "end": 163391
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 163546,
+        "end": 163548
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 163576,
+        "end": 163582
+    },
+    {
+        "text": "®",
+        "label": "ORG",
+        "start": 163589,
+        "end": 163590
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 163660,
+        "end": 163666
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 164154,
+        "end": 164160
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 164919,
+        "end": 164925
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 165016,
+        "end": 165022
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 165025,
+        "end": 165031
+    },
+    {
+        "text": "10-k",
+        "label": "QUANTITY",
+        "start": 165047,
+        "end": 165051
+    },
+    {
+        "text": "the year ended december 31, 2018",
+        "label": "DATE",
+        "start": 165056,
+        "end": 165088
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 165100,
+        "end": 165106
+    },
+    {
+        "text": "the securities and exchange commission",
+        "label": "ORG",
+        "start": 165133,
+        "end": 165171
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 165217,
+        "end": 165223
+    },
+    {
+        "text": "xencor",
+        "label": "PERSON",
+        "start": 165288,
+        "end": 165294
+    },
+    {
+        "text": "1995",
+        "label": "DATE",
+        "start": 165524,
+        "end": 165528
+    },
+    {
+        "text": "xencor",
+        "label": "ORG",
+        "start": 165626,
+        "end": 165632
+    },
+    {
+        "text": "aimab7195",
+        "label": "ORG",
+        "start": 165782,
+        "end": 165791
+    },
+    {
+        "text": "xmab®",
+        "label": "PERSON",
+        "start": 165905,
+        "end": 165910
+    },
+    {
+        "text": "xencor, inc.",
+        "label": "ORG",
+        "start": 165940,
+        "end": 165952
+    },
+    {
+        "text": "charles liles\n",
+        "label": "PERSON",
+        "start": 165962,
+        "end": 165976
+    },
+    {
+        "text": "626-737-8118",
+        "label": "PRODUCT",
+        "start": 165976,
+        "end": 165988
+    },
+    {
+        "text": "jason i. spark",
+        "label": "PERSON",
+        "start": 166020,
+        "end": 166034
+    },
+    {
+        "text": "619",
+        "label": "CARDINAL",
+        "start": 166057,
+        "end": 166060
+    },
+    {
+        "text": "therapeutics, inc.",
+        "label": "ORG",
+        "start": 166106,
+        "end": 166124
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 166126,
+        "end": 166129
+    },
+    {
+        "text": "2/5/2020",
+        "label": "CARDINAL",
+        "start": 166131,
+        "end": 166139
+    }
+]

@@ -1,0 +1,2840 @@
+[
+    {
+        "text": "10.1",
+        "label": "CARDINAL",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "text": "exxon mobil",
+        "label": "ORG",
+        "start": 348,
+        "end": 359
+    },
+    {
+        "text": "the exxonmobil affiliates",
+        "label": "ORG",
+        "start": 426,
+        "end": 451
+    },
+    {
+        "text": "exxonmobil selling affiliates",
+        "label": "ORG",
+        "start": 851,
+        "end": 880
+    },
+    {
+        "text": "exxonmobil selling affiliates",
+        "label": "ORG",
+        "start": 960,
+        "end": 989
+    },
+    {
+        "text": "/ year",
+        "label": "DATE",
+        "start": 1074,
+        "end": 1080
+    },
+    {
+        "text": "year",
+        "label": "DATE",
+        "start": 1100,
+        "end": 1104
+    },
+    {
+        "text": "exxonmobil selling affiliates shall",
+        "label": "ORG",
+        "start": 1337,
+        "end": 1372
+    },
+    {
+        "text": "years 2019, 2020,",
+        "label": "DATE",
+        "start": 2916,
+        "end": 2933
+    },
+    {
+        "text": "2021",
+        "label": "DATE",
+        "start": 2934,
+        "end": 2938
+    },
+    {
+        "text": "2022",
+        "label": "DATE",
+        "start": 2940,
+        "end": 2944
+    },
+    {
+        "text": "2023",
+        "label": "DATE",
+        "start": 2949,
+        "end": 2953
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 3152,
+        "end": 3184
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 3186,
+        "end": 3189
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 3191,
+        "end": 3200
+    },
+    {
+        "text": "1.1.2019",
+        "label": "CARDINAL",
+        "start": 3236,
+        "end": 3244
+    },
+    {
+        "text": "1.3.2019 - 31.12.2019",
+        "label": "DATE",
+        "start": 3309,
+        "end": 3330
+    },
+    {
+        "text": "1.1.2020",
+        "label": "CARDINAL",
+        "start": 3383,
+        "end": 3391
+    },
+    {
+        "text": "1.1.2021 - 31.12.2021",
+        "label": "CARDINAL",
+        "start": 3457,
+        "end": 3478
+    },
+    {
+        "text": "1.1.2022 - 31.12.2022",
+        "label": "CARDINAL",
+        "start": 3531,
+        "end": 3552
+    },
+    {
+        "text": "1.1.2023 - 31.12.2023",
+        "label": "CARDINAL",
+        "start": 3605,
+        "end": 3626
+    },
+    {
+        "text": "exxon",
+        "label": "ORG",
+        "start": 3760,
+        "end": 3765
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 3816,
+        "end": 3820
+    },
+    {
+        "text": "december 31",
+        "label": "DATE",
+        "start": 3913,
+        "end": 3924
+    },
+    {
+        "text": "years",
+        "label": "DATE",
+        "start": 4108,
+        "end": 4113
+    },
+    {
+        "text": "exxonmobil",
+        "label": "GPE",
+        "start": 4445,
+        "end": 4455
+    },
+    {
+        "text": "later than the days",
+        "label": "DATE",
+        "start": 4492,
+        "end": 4511
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 5288,
+        "end": 5289
+    },
+    {
+        "text": "30-35",
+        "label": "DATE",
+        "start": 5309,
+        "end": 5314
+    },
+    {
+        "text": "40-45",
+        "label": "DATE",
+        "start": 5316,
+        "end": 5321
+    },
+    {
+        "text": "50-55",
+        "label": "DATE",
+        "start": 5323,
+        "end": 5328
+    },
+    {
+        "text": "three-month",
+        "label": "DATE",
+        "start": 5407,
+        "end": 5418
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 5476,
+        "end": 5508
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 5510,
+        "end": 5513
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 5515,
+        "end": 5524
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 5662,
+        "end": 5667
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 5689,
+        "end": 5695
+    },
+    {
+        "text": "month",
+        "label": "DATE",
+        "start": 5707,
+        "end": 5712
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 5754,
+        "end": 5759
+    },
+    {
+        "text": "united states dollars",
+        "label": "ORG",
+        "start": 5791,
+        "end": 5812
+    },
+    {
+        "text": "the european central bank’s",
+        "label": "ORG",
+        "start": 5867,
+        "end": 5894
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 6037,
+        "end": 6046
+    },
+    {
+        "text": "exxonmobil chemical services americas inc.",
+        "label": "ORG",
+        "start": 6193,
+        "end": 6235
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 6395,
+        "end": 6399
+    },
+    {
+        "text": "exxonmobil chemical",
+        "label": "ORG",
+        "start": 6489,
+        "end": 6508
+    },
+    {
+        "text": "exxonmobil chemical services americas inc.",
+        "label": "ORG",
+        "start": 6520,
+        "end": 6562
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 6767,
+        "end": 6772
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 6849,
+        "end": 6866
+    },
+    {
+        "text": "200 nautical miles",
+        "label": "QUANTITY",
+        "start": 6914,
+        "end": 6932
+    },
+    {
+        "text": "the united nations",
+        "label": "ORG",
+        "start": 6972,
+        "end": 6990
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 7104,
+        "end": 7110
+    },
+    {
+        "text": "laredo",
+        "label": "GPE",
+        "start": 7238,
+        "end": 7244
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 7246,
+        "end": 7251
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 7264,
+        "end": 7270
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 7322,
+        "end": 7328
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 7682,
+        "end": 7686
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 7688,
+        "end": 7694
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 7699,
+        "end": 7705
+    },
+    {
+        "text": "exxonmobil petroleum & chemical",
+        "label": "ORG",
+        "start": 7822,
+        "end": 7853
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 7878,
+        "end": 7884
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 7886,
+        "end": 7893
+    },
+    {
+        "text": "denmark",
+        "label": "GPE",
+        "start": 7895,
+        "end": 7902
+    },
+    {
+        "text": "serbia",
+        "label": "GPE",
+        "start": 7904,
+        "end": 7910
+    },
+    {
+        "text": "ireland",
+        "label": "GPE",
+        "start": 7912,
+        "end": 7919
+    },
+    {
+        "text": "united kingdom",
+        "label": "GPE",
+        "start": 7928,
+        "end": 7942
+    },
+    {
+        "text": "exxonmobil chemical asia pacific",
+        "label": "ORG",
+        "start": 8059,
+        "end": 8091
+    },
+    {
+        "text": "singapore",
+        "label": "GPE",
+        "start": 8116,
+        "end": 8125
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 8127,
+        "end": 8132
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 8137,
+        "end": 8142
+    },
+    {
+        "text": "exxonmobil selling affiliates",
+        "label": "ORG",
+        "start": 8508,
+        "end": 8537
+    },
+    {
+        "text": "attachment b. buyer",
+        "label": "PERSON",
+        "start": 8584,
+        "end": 8603
+    },
+    {
+        "text": "attachment c. seller",
+        "label": "PERSON",
+        "start": 8661,
+        "end": 8681
+    },
+    {
+        "text": "seller",
+        "label": "PERSON",
+        "start": 9118,
+        "end": 9124
+    },
+    {
+        "text": "seller",
+        "label": "PERSON",
+        "start": 9266,
+        "end": 9272
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 9509,
+        "end": 9541
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 9543,
+        "end": 9546
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 9548,
+        "end": 9557
+    },
+    {
+        "text": "january 1, 2019",
+        "label": "DATE",
+        "start": 9822,
+        "end": 9837
+    },
+    {
+        "text": "december 31, 2023",
+        "label": "DATE",
+        "start": 9856,
+        "end": 9873
+    },
+    {
+        "text": "exxonmobil chemical affiliates technical efforts",
+        "label": "ORG",
+        "start": 10429,
+        "end": 10477
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 11471,
+        "end": 11474
+    },
+    {
+        "text": "three years",
+        "label": "DATE",
+        "start": 11497,
+        "end": 11508
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 11992,
+        "end": 11998
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 12053,
+        "end": 12059
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 12169,
+        "end": 12178
+    },
+    {
+        "text": "years",
+        "label": "DATE",
+        "start": 12216,
+        "end": 12221
+    },
+    {
+        "text": "seller",
+        "label": "PERSON",
+        "start": 12223,
+        "end": 12229
+    },
+    {
+        "text": "quarterly",
+        "label": "DATE",
+        "start": 12251,
+        "end": 12260
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 12444,
+        "end": 12476
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 12478,
+        "end": 12481
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 12483,
+        "end": 12492
+    },
+    {
+        "text": "exxon mobil",
+        "label": "ORG",
+        "start": 12649,
+        "end": 12660
+    },
+    {
+        "text": "at least six months",
+        "label": "DATE",
+        "start": 12721,
+        "end": 12740
+    },
+    {
+        "text": "seller’s",
+        "label": "PERSON",
+        "start": 16986,
+        "end": 16994
+    },
+    {
+        "text": "exxonmobil selling affiliates",
+        "label": "ORG",
+        "start": 16995,
+        "end": 17024
+    },
+    {
+        "text": "seller",
+        "label": "PERSON",
+        "start": 17541,
+        "end": 17547
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 17575,
+        "end": 17607
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 17609,
+        "end": 17612
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 17614,
+        "end": 17623
+    },
+    {
+        "text": "forty-five",
+        "label": "CARDINAL",
+        "start": 18985,
+        "end": 18995
+    },
+    {
+        "text": "45) days",
+        "label": "DATE",
+        "start": 18997,
+        "end": 19005
+    },
+    {
+        "text": "at least twenty-five percent",
+        "label": "CARDINAL",
+        "start": 19211,
+        "end": 19239
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 19241,
+        "end": 19243
+    },
+    {
+        "text": "at least twenty-five percent",
+        "label": "CARDINAL",
+        "start": 19301,
+        "end": 19329
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 19331,
+        "end": 19333
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 19428,
+        "end": 19450
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 19452,
+        "end": 19454
+    },
+    {
+        "text": "transferee",
+        "label": "CARDINAL",
+        "start": 19537,
+        "end": 19547
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 19698,
+        "end": 19701
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 19892,
+        "end": 19895
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 21128,
+        "end": 21132
+    },
+    {
+        "text": "section 8",
+        "label": "LAW",
+        "start": 22105,
+        "end": 22114
+    },
+    {
+        "text": "section 14",
+        "label": "LAW",
+        "start": 22177,
+        "end": 22187
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 22409,
+        "end": 22441
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 22443,
+        "end": 22446
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 22448,
+        "end": 22457
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 22947,
+        "end": 22952
+    },
+    {
+        "text": "thirty",
+        "label": "CARDINAL",
+        "start": 22999,
+        "end": 23005
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 23007,
+        "end": 23015
+    },
+    {
+        "text": "exxonmobil chemical services americas inc.",
+        "label": "ORG",
+        "start": 23241,
+        "end": 23283
+    },
+    {
+        "text": "exxonmobil affiliates/",
+        "label": "ORG",
+        "start": 23344,
+        "end": 23366
+    },
+    {
+        "text": "west pharmaceutical services affiliates",
+        "label": "ORG",
+        "start": 23399,
+        "end": 23438
+    },
+    {
+        "text": "attachment g - exxonmobil",
+        "label": "PERSON",
+        "start": 23530,
+        "end": 23555
+    },
+    {
+        "text": "exxonmobil chemical petroleum & chemical",
+        "label": "ORG",
+        "start": 23624,
+        "end": 23664
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 24026,
+        "end": 24034
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 25514,
+        "end": 25546
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 25548,
+        "end": 25551
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 25553,
+        "end": 25562
+    },
+    {
+        "text": "exxon mobil",
+        "label": "ORG",
+        "start": 25660,
+        "end": 25671
+    },
+    {
+        "text": "january 10, 2020",
+        "label": "DATE",
+        "start": 25684,
+        "end": 25700
+    },
+    {
+        "text": "december 11, 2018",
+        "label": "DATE",
+        "start": 25707,
+        "end": 25724
+    },
+    {
+        "text": "eric m. green\n",
+        "label": "PERSON",
+        "start": 25729,
+        "end": 25743
+    },
+    {
+        "text": "eric m. green",
+        "label": "PERSON",
+        "start": 25762,
+        "end": 25775
+    },
+    {
+        "text": "seri",
+        "label": "ORG",
+        "start": 25839,
+        "end": 25843
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 25852,
+        "end": 25884
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 25886,
+        "end": 25889
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 25891,
+        "end": 25900
+    },
+    {
+        "text": "2019-2023",
+        "label": "DATE",
+        "start": 25975,
+        "end": 25984
+    },
+    {
+        "text": "exxonmobil chemical company",
+        "label": "ORG",
+        "start": 26016,
+        "end": 26043
+    },
+    {
+        "text": "exxonmobil chemical services americas inc.",
+        "label": "ORG",
+        "start": 26053,
+        "end": 26095
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 26167,
+        "end": 26168
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 26322,
+        "end": 26323
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 26565,
+        "end": 26566
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 26651,
+        "end": 26652
+    },
+    {
+        "text": "up to ten percent",
+        "label": "PERCENT",
+        "start": 26807,
+        "end": 26824
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 26826,
+        "end": 26828
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 26878,
+        "end": 26879
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 26972,
+        "end": 26973
+    },
+    {
+        "text": "30) days'",
+        "label": "DATE",
+        "start": 27144,
+        "end": 27153
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 27336,
+        "end": 27337
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 27445,
+        "end": 27449
+    },
+    {
+        "text": "no later than thirty",
+        "label": "DATE",
+        "start": 27511,
+        "end": 27531
+    },
+    {
+        "text": "30) days",
+        "label": "DATE",
+        "start": 27533,
+        "end": 27541
+    },
+    {
+        "text": "affiliates; and/or (ii",
+        "label": "PERSON",
+        "start": 27741,
+        "end": 27763
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 27852,
+        "end": 27853
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 28356,
+        "end": 28357
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 28987,
+        "end": 28988
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 29754,
+        "end": 29755
+    },
+    {
+        "text": "forty-five",
+        "label": "CARDINAL",
+        "start": 30577,
+        "end": 30587
+    },
+    {
+        "text": "45) days",
+        "label": "DATE",
+        "start": 30589,
+        "end": 30597
+    },
+    {
+        "text": "at\nleast twenty",
+        "label": "CARDINAL",
+        "start": 30785,
+        "end": 30800
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 30815,
+        "end": 30817
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 30850,
+        "end": 30882
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 30884,
+        "end": 30887
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 30889,
+        "end": 30898
+    },
+    {
+        "text": "at least twenty-five percent",
+        "label": "CARDINAL",
+        "start": 30915,
+        "end": 30943
+    },
+    {
+        "text": "25",
+        "label": "CARDINAL",
+        "start": 30944,
+        "end": 30946
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 31050,
+        "end": 31063
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 31065,
+        "end": 31067
+    },
+    {
+        "text": "transferee",
+        "label": "CARDINAL",
+        "start": 31132,
+        "end": 31142
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 31274,
+        "end": 31277
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 31451,
+        "end": 31454
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 31591,
+        "end": 31592
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 31789,
+        "end": 31790
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 32998,
+        "end": 32999
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 33288,
+        "end": 33301
+    },
+    {
+        "text": "150) days",
+        "label": "DATE",
+        "start": 33797,
+        "end": 33806
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 34794,
+        "end": 34797
+    },
+    {
+        "text": "2) years",
+        "label": "DATE",
+        "start": 34799,
+        "end": 34807
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 34847,
+        "end": 34849
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 36098,
+        "end": 36100
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 36401,
+        "end": 36433
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 36435,
+        "end": 36438
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 36440,
+        "end": 36449
+    },
+    {
+        "text": "daily",
+        "label": "DATE",
+        "start": 36576,
+        "end": 36581
+    },
+    {
+        "text": "7) days",
+        "label": "DATE",
+        "start": 36654,
+        "end": 36661
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 36817,
+        "end": 36818
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 36883,
+        "end": 36884
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 37247,
+        "end": 37249
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 37500,
+        "end": 37502
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 39284,
+        "end": 39286
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 39310,
+        "end": 39312
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 39430,
+        "end": 39447
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 39462,
+        "end": 39466
+    },
+    {
+        "text": "the us department",
+        "label": "ORG",
+        "start": 39677,
+        "end": 39694
+    },
+    {
+        "text": "treasury",
+        "label": "ORG",
+        "start": 39702,
+        "end": 39710
+    },
+    {
+        "text": "the us department",
+        "label": "ORG",
+        "start": 39751,
+        "end": 39768
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 39820,
+        "end": 39824
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 39903,
+        "end": 39907
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 39987,
+        "end": 39989
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 40074,
+        "end": 40091
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 40209,
+        "end": 40214
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 40216,
+        "end": 40217
+    },
+    {
+        "text": "houston",
+        "label": "GPE",
+        "start": 40395,
+        "end": 40402
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 40404,
+        "end": 40409
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 40450,
+        "end": 40457
+    },
+    {
+        "text": "the american arbitration association shall",
+        "label": "ORG",
+        "start": 40468,
+        "end": 40510
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 40744,
+        "end": 40746
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 41315,
+        "end": 41317
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 41465,
+        "end": 41470
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 41537,
+        "end": 41541
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 41813,
+        "end": 41818
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 41894,
+        "end": 41926
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 41928,
+        "end": 41931
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 41933,
+        "end": 41942
+    },
+    {
+        "text": "u.n",
+        "label": "ORG",
+        "start": 41962,
+        "end": 41965
+    },
+    {
+        "text": "harris county",
+        "label": "GPE",
+        "start": 42150,
+        "end": 42163
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 42165,
+        "end": 42170
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 42175,
+        "end": 42192
+    },
+    {
+        "text": "texas",
+        "label": "GPE",
+        "start": 42237,
+        "end": 42242
+    },
+    {
+        "text": "houston division",
+        "label": "ORG",
+        "start": 42244,
+        "end": 42260
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 42263,
+        "end": 42265
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 42568,
+        "end": 42570
+    },
+    {
+        "text": "exxon mobil corporation",
+        "label": "ORG",
+        "start": 42885,
+        "end": 42908
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 42939,
+        "end": 42961
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 42963,
+        "end": 42965
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 43100,
+        "end": 43132
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 43134,
+        "end": 43137
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 43139,
+        "end": 43148
+    },
+    {
+        "text": "2019-2023",
+        "label": "DATE",
+        "start": 43223,
+        "end": 43232
+    },
+    {
+        "text": "exxonmobil affiliates /",
+        "label": "ORG",
+        "start": 43272,
+        "end": 43295
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 43517,
+        "end": 43523
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 43525,
+        "end": 43531
+    },
+    {
+        "text": "exxon mobil corporation",
+        "label": "ORG",
+        "start": 43575,
+        "end": 43598
+    },
+    {
+        "text": "exxonmobil chemical services americas, inc.",
+        "label": "ORG",
+        "start": 43615,
+        "end": 43658
+    },
+    {
+        "text": "22777",
+        "label": "DATE",
+        "start": 43659,
+        "end": 43664
+    },
+    {
+        "text": "77389",
+        "label": "DATE",
+        "start": 43701,
+        "end": 43706
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 43768,
+        "end": 43774
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 43776,
+        "end": 43783
+    },
+    {
+        "text": "united kingdom",
+        "label": "GPE",
+        "start": 43785,
+        "end": 43799
+    },
+    {
+        "text": "serbia",
+        "label": "GPE",
+        "start": 43801,
+        "end": 43807
+    },
+    {
+        "text": "ireland",
+        "label": "GPE",
+        "start": 43812,
+        "end": 43819
+    },
+    {
+        "text": "exxonmobil petroleum & chemical",
+        "label": "ORG",
+        "start": 43820,
+        "end": 43851
+    },
+    {
+        "text": "2030",
+        "label": "DATE",
+        "start": 43882,
+        "end": 43886
+    },
+    {
+        "text": "singapore",
+        "label": "GPE",
+        "start": 43958,
+        "end": 43967
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 43969,
+        "end": 43974
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 43976,
+        "end": 43981
+    },
+    {
+        "text": "exxonmobil chemical asia pacific",
+        "label": "ORG",
+        "start": 44004,
+        "end": 44036
+    },
+    {
+        "text": "exxonmobil asia pacific pte ltd",
+        "label": "LOC",
+        "start": 44052,
+        "end": 44083
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 44092,
+        "end": 44093
+    },
+    {
+        "text": "06",
+        "label": "CARDINAL",
+        "start": 44114,
+        "end": 44116
+    },
+    {
+        "text": "singapore",
+        "label": "GPE",
+        "start": 44142,
+        "end": 44151
+    },
+    {
+        "text": "098633",
+        "label": "DATE",
+        "start": 44152,
+        "end": 44158
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 44167,
+        "end": 44199
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 44201,
+        "end": 44204
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 44206,
+        "end": 44215
+    },
+    {
+        "text": "2019-2023",
+        "label": "DATE",
+        "start": 44290,
+        "end": 44299
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 44446,
+        "end": 44452
+    },
+    {
+        "text": "ltda\nav nossa senhora",
+        "label": "PERSON",
+        "start": 44489,
+        "end": 44510
+    },
+    {
+        "text": "115",
+        "label": "CARDINAL",
+        "start": 44523,
+        "end": 44526
+    },
+    {
+        "text": "sao paulo",
+        "label": "GPE",
+        "start": 44536,
+        "end": 44545
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 44547,
+        "end": 44553
+    },
+    {
+        "text": "09980-000",
+        "label": "CARDINAL",
+        "start": 44554,
+        "end": 44563
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 44564,
+        "end": 44569
+    },
+    {
+        "text": "(china) co.",
+        "label": "ORG",
+        "start": 44600,
+        "end": 44611
+    },
+    {
+        "text": "111",
+        "label": "CARDINAL",
+        "start": 44621,
+        "end": 44624
+    },
+    {
+        "text": "qingpu",
+        "label": "GPE",
+        "start": 44639,
+        "end": 44645
+    },
+    {
+        "text": "shanghai",
+        "label": "GPE",
+        "start": 44647,
+        "end": 44655
+    },
+    {
+        "text": "201707",
+        "label": "CARDINAL",
+        "start": 44656,
+        "end": 44662
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 44663,
+        "end": 44668
+    },
+    {
+        "text": "51",
+        "label": "CARDINAL",
+        "start": 44732,
+        "end": 44734
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 44752,
+        "end": 44758
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 44788,
+        "end": 44794
+    },
+    {
+        "text": "s.a.",
+        "label": "PERSON",
+        "start": 44795,
+        "end": 44799
+    },
+    {
+        "text": "38",
+        "label": "DATE",
+        "start": 44800,
+        "end": 44802
+    },
+    {
+        "text": "robert degon\nle",
+        "label": "PERSON",
+        "start": 44808,
+        "end": 44823
+    },
+    {
+        "text": "02170",
+        "label": "DATE",
+        "start": 44845,
+        "end": 44850
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 44851,
+        "end": 44858
+    },
+    {
+        "text": "gmbh & co.",
+        "label": "ORG",
+        "start": 44900,
+        "end": 44910
+    },
+    {
+        "text": "kg\nstalberger str",
+        "label": "PERSON",
+        "start": 44911,
+        "end": 44928
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 44930,
+        "end": 44932
+    },
+    {
+        "text": "52249",
+        "label": "DATE",
+        "start": 44947,
+        "end": 44952
+    },
+    {
+        "text": "ireland, ltd.",
+        "label": "ORG",
+        "start": 44990,
+        "end": 45003
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 45044,
+        "end": 45049
+    },
+    {
+        "text": "india pvt.",
+        "label": "ORG",
+        "start": 45080,
+        "end": 45090
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 45124,
+        "end": 45126
+    },
+    {
+        "text": "district - a.p. - india - 517",
+        "label": "ORG",
+        "start": 45161,
+        "end": 45190
+    },
+    {
+        "text": "546",
+        "label": "CARDINAL",
+        "start": 45191,
+        "end": 45194
+    },
+    {
+        "text": "s.a. de c.v.\n",
+        "label": "PERSON",
+        "start": 45239,
+        "end": 45252
+    },
+    {
+        "text": "40",
+        "label": "CARDINAL",
+        "start": 45258,
+        "end": 45260
+    },
+    {
+        "text": "36",
+        "label": "CARDINAL",
+        "start": 45279,
+        "end": 45281
+    },
+    {
+        "text": "jiutepec morelos -\n",
+        "label": "PERSON",
+        "start": 45294,
+        "end": 45313
+    },
+    {
+        "text": "62500",
+        "label": "CARDINAL",
+        "start": 45325,
+        "end": 45330
+    },
+    {
+        "text": "kovin\ncrvenka",
+        "label": "PERSON",
+        "start": 45382,
+        "end": 45395
+    },
+    {
+        "text": "76",
+        "label": "CARDINAL",
+        "start": 45396,
+        "end": 45398
+    },
+    {
+        "text": "26220",
+        "label": "DATE",
+        "start": 45405,
+        "end": 45410
+    },
+    {
+        "text": "serbia",
+        "label": "GPE",
+        "start": 45412,
+        "end": 45418
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 45427,
+        "end": 45459
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 45461,
+        "end": 45464
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 45466,
+        "end": 45475
+    },
+    {
+        "text": "pte.",
+        "label": "ORG",
+        "start": 45525,
+        "end": 45529
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 45535,
+        "end": 45537
+    },
+    {
+        "text": "koon circle\njurong",
+        "label": "ORG",
+        "start": 45542,
+        "end": 45560
+    },
+    {
+        "text": "629046",
+        "label": "DATE",
+        "start": 45572,
+        "end": 45578
+    },
+    {
+        "text": "530",
+        "label": "CARDINAL",
+        "start": 45620,
+        "end": 45623
+    },
+    {
+        "text": "exton",
+        "label": "GPE",
+        "start": 45645,
+        "end": 45650
+    },
+    {
+        "text": "19341-1147",
+        "label": "DATE",
+        "start": 45655,
+        "end": 45665
+    },
+    {
+        "text": "1028",
+        "label": "DATE",
+        "start": 45701,
+        "end": 45705
+    },
+    {
+        "text": "28504-7616",
+        "label": "DATE",
+        "start": 45733,
+        "end": 45743
+    },
+    {
+        "text": "923",
+        "label": "CARDINAL",
+        "start": 45779,
+        "end": 45782
+    },
+    {
+        "text": "68845-5128",
+        "label": "DATE",
+        "start": 45816,
+        "end": 45826
+    },
+    {
+        "text": "florida, inc.",
+        "label": "ORG",
+        "start": 45859,
+        "end": 45872
+    },
+    {
+        "text": "5111",
+        "label": "DATE",
+        "start": 45873,
+        "end": 45877
+    },
+    {
+        "text": "33709-1109",
+        "label": "DATE",
+        "start": 45915,
+        "end": 45925
+    },
+    {
+        "text": "oliver street",
+        "label": "PERSON",
+        "start": 45965,
+        "end": 45978
+    },
+    {
+        "text": "17740-1923",
+        "label": "DATE",
+        "start": 45996,
+        "end": 46006
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 46015,
+        "end": 46047
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 46049,
+        "end": 46052
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 46054,
+        "end": 46063
+    },
+    {
+        "text": "2019-2023",
+        "label": "DATE",
+        "start": 46138,
+        "end": 46147
+    },
+    {
+        "text": "22777",
+        "label": "DATE",
+        "start": 46509,
+        "end": 46514
+    },
+    {
+        "text": "530 w. herman o. drive",
+        "label": "QUANTITY",
+        "start": 46540,
+        "end": 46562
+    },
+    {
+        "text": "spring",
+        "label": "DATE",
+        "start": 46563,
+        "end": 46569
+    },
+    {
+        "text": "77389",
+        "label": "DATE",
+        "start": 46574,
+        "end": 46579
+    },
+    {
+        "text": "exton",
+        "label": "GPE",
+        "start": 46580,
+        "end": 46585
+    },
+    {
+        "text": "19341-1147",
+        "label": "DATE",
+        "start": 46590,
+        "end": 46600
+    },
+    {
+        "text": "oliver steven",
+        "label": "PERSON",
+        "start": 46625,
+        "end": 46638
+    },
+    {
+        "text": "exxonmobil chemical central europe",
+        "label": "ORG",
+        "start": 46639,
+        "end": 46673
+    },
+    {
+        "text": "gmbh & co.",
+        "label": "ORG",
+        "start": 46715,
+        "end": 46725
+    },
+    {
+        "text": "kg\n",
+        "label": "PERSON",
+        "start": 46726,
+        "end": 46729
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 46742,
+        "end": 46743
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 46755,
+        "end": 46756
+    },
+    {
+        "text": "50670",
+        "label": "CARDINAL",
+        "start": 46757,
+        "end": 46762
+    },
+    {
+        "text": "52249",
+        "label": "DATE",
+        "start": 46768,
+        "end": 46773
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 46785,
+        "end": 46792
+    },
+    {
+        "text": "germany",
+        "label": "GPE",
+        "start": 46793,
+        "end": 46800
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 46809,
+        "end": 46841
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 46843,
+        "end": 46846
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 46848,
+        "end": 46857
+    },
+    {
+        "text": "2019-2023",
+        "label": "DATE",
+        "start": 46932,
+        "end": 46941
+    },
+    {
+        "text": "the days",
+        "label": "DATE",
+        "start": 47071,
+        "end": 47079
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 47148,
+        "end": 47154
+    },
+    {
+        "text": "china",
+        "label": "GPE",
+        "start": 47161,
+        "end": 47166
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 47187,
+        "end": 47193
+    },
+    {
+        "text": "india",
+        "label": "GPE",
+        "start": 47214,
+        "end": 47219
+    },
+    {
+        "text": "us",
+        "label": "GPE",
+        "start": 47337,
+        "end": 47339
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 47516,
+        "end": 47521
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 47598,
+        "end": 47615
+    },
+    {
+        "text": "200 nautical miles",
+        "label": "QUANTITY",
+        "start": 47663,
+        "end": 47681
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 47778,
+        "end": 47782
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 47792,
+        "end": 47798
+    },
+    {
+        "text": "mexico",
+        "label": "GPE",
+        "start": 47802,
+        "end": 47808
+    },
+    {
+        "text": "u.s.",
+        "label": "GPE",
+        "start": 47838,
+        "end": 47842
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 47930,
+        "end": 47962
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 47964,
+        "end": 47967
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 47969,
+        "end": 47978
+    },
+    {
+        "text": "2019-2023",
+        "label": "DATE",
+        "start": 48053,
+        "end": 48062
+    },
+    {
+        "text": "exxonmobil",
+        "label": "GPE",
+        "start": 48389,
+        "end": 48399
+    },
+    {
+        "text": "buyer",
+        "label": "PERSON",
+        "start": 48612,
+        "end": 48617
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 48732,
+        "end": 48737
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 49400,
+        "end": 49407
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 49592,
+        "end": 49596
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 50541,
+        "end": 50573
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 50575,
+        "end": 50578
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 50580,
+        "end": 50589
+    },
+    {
+        "text": "2019-2023",
+        "label": "DATE",
+        "start": 50679,
+        "end": 50688
+    },
+    {
+        "text": "at least ten",
+        "label": "CARDINAL",
+        "start": 51658,
+        "end": 51670
+    },
+    {
+        "text": "10) days",
+        "label": "DATE",
+        "start": 51672,
+        "end": 51680
+    },
+    {
+        "text": "minus five percent",
+        "label": "PERCENT",
+        "start": 52004,
+        "end": 52022
+    },
+    {
+        "text": "less than one half",
+        "label": "DATE",
+        "start": 52262,
+        "end": 52280
+    },
+    {
+        "text": "0.5",
+        "label": "CARDINAL",
+        "start": 52297,
+        "end": 52300
+    },
+    {
+        "text": "less than one half",
+        "label": "DATE",
+        "start": 52361,
+        "end": 52379
+    },
+    {
+        "text": "0.5",
+        "label": "CARDINAL",
+        "start": 52396,
+        "end": 52399
+    },
+    {
+        "text": "us",
+        "label": "GPE",
+        "start": 53383,
+        "end": 53385
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 53434,
+        "end": 53439
+    },
+    {
+        "text": "us",
+        "label": "GPE",
+        "start": 53511,
+        "end": 53513
+    },
+    {
+        "text": "200 nautical miles",
+        "label": "QUANTITY",
+        "start": 53561,
+        "end": 53579
+    },
+    {
+        "text": "the united nations",
+        "label": "ORG",
+        "start": 53619,
+        "end": 53637
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 54676,
+        "end": 54708
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 54710,
+        "end": 54713
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 54715,
+        "end": 54724
+    },
+    {
+        "text": "ten (10) days",
+        "label": "DATE",
+        "start": 55983,
+        "end": 55996
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 57822,
+        "end": 57827
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 57871,
+        "end": 57874
+    },
+    {
+        "text": "6) hours",
+        "label": "TIME",
+        "start": 57876,
+        "end": 57884
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 58038,
+        "end": 58043
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 60670,
+        "end": 60702
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 60704,
+        "end": 60707
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 60709,
+        "end": 60718
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 61635,
+        "end": 61640
+    },
+    {
+        "text": "53b",
+        "label": "CARDINAL",
+        "start": 61659,
+        "end": 61662
+    },
+    {
+        "text": "fifty percent",
+        "label": "PERCENT",
+        "start": 62170,
+        "end": 62183
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 62185,
+        "end": 62187
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 62362,
+        "end": 62366
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 64710,
+        "end": 64715
+    },
+    {
+        "text": "united states",
+        "label": "GPE",
+        "start": 65185,
+        "end": 65198
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65540,
+        "end": 65545
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 65583,
+        "end": 65588
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 65672,
+        "end": 65704
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 65706,
+        "end": 65709
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 65711,
+        "end": 65720
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 66258,
+        "end": 66290
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 66292,
+        "end": 66295
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 66297,
+        "end": 66306
+    },
+    {
+        "text": "2019-2023",
+        "label": "DATE",
+        "start": 66396,
+        "end": 66405
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 66512,
+        "end": 66513
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 67052,
+        "end": 67053
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 67221,
+        "end": 67225
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 67227,
+        "end": 67228
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 67341,
+        "end": 67342
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 67804,
+        "end": 67805
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 68025,
+        "end": 68026
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 68235,
+        "end": 68236
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 68320,
+        "end": 68321
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 69021,
+        "end": 69022
+    },
+    {
+        "text": "30 days",
+        "label": "DATE",
+        "start": 69246,
+        "end": 69253
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 69277,
+        "end": 69279
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 69653,
+        "end": 69655
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 70031,
+        "end": 70032
+    },
+    {
+        "text": "exxon mobil corporation",
+        "label": "ORG",
+        "start": 70042,
+        "end": 70065
+    },
+    {
+        "text": "exxon mobil corporation",
+        "label": "ORG",
+        "start": 70090,
+        "end": 70113
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 70156,
+        "end": 70158
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 70192,
+        "end": 70193
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 70302,
+        "end": 70304
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 70334,
+        "end": 70336
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 70341,
+        "end": 70344
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 70689,
+        "end": 70721
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 70723,
+        "end": 70726
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 70728,
+        "end": 70737
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 70738,
+        "end": 70740
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 71634,
+        "end": 71636
+    },
+    {
+        "text": "150 days",
+        "label": "DATE",
+        "start": 73000,
+        "end": 73008
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 73134,
+        "end": 73136
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 73730,
+        "end": 73732
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 74006,
+        "end": 74009
+    },
+    {
+        "text": "derived;",
+        "label": "PERSON",
+        "start": 74351,
+        "end": 74359
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 76123,
+        "end": 76125
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 76654,
+        "end": 76656
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 76658,
+        "end": 76660
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 76872,
+        "end": 76904
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 76906,
+        "end": 76909
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 76911,
+        "end": 76920
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 76921,
+        "end": 76923
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 77573,
+        "end": 77575
+    },
+    {
+        "text": "the united states",
+        "label": "GPE",
+        "start": 77900,
+        "end": 77917
+    },
+    {
+        "text": "the european union",
+        "label": "ORG",
+        "start": 77919,
+        "end": 77937
+    },
+    {
+        "text": "eu",
+        "label": "PERSON",
+        "start": 77939,
+        "end": 77941
+    },
+    {
+        "text": "eu",
+        "label": "PERSON",
+        "start": 77948,
+        "end": 77950
+    },
+    {
+        "text": "the united kingdom and/or norway",
+        "label": "GPE",
+        "start": 77965,
+        "end": 77997
+    },
+    {
+        "text": "us",
+        "label": "GPE",
+        "start": 78278,
+        "end": 78280
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 78541,
+        "end": 78543
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 78705,
+        "end": 78710
+    },
+    {
+        "text": "3) months",
+        "label": "DATE",
+        "start": 78712,
+        "end": 78721
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 80299,
+        "end": 80321
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 80323,
+        "end": 80325
+    },
+    {
+        "text": "at\nleast fifty percent",
+        "label": "PERCENT",
+        "start": 80368,
+        "end": 80390
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 80392,
+        "end": 80394
+    },
+    {
+        "text": "at least fifty percent",
+        "label": "PERCENT",
+        "start": 80489,
+        "end": 80511
+    },
+    {
+        "text": "50",
+        "label": "CARDINAL",
+        "start": 80513,
+        "end": 80515
+    },
+    {
+        "text": "transferee",
+        "label": "CARDINAL",
+        "start": 80583,
+        "end": 80593
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 80726,
+        "end": 80729
+    },
+    {
+        "text": "22",
+        "label": "CARDINAL",
+        "start": 80754,
+        "end": 80756
+    },
+    {
+        "text": "the united nations convention",
+        "label": "ORG",
+        "start": 80951,
+        "end": 80980
+    },
+    {
+        "text": "1980",
+        "label": "DATE",
+        "start": 81030,
+        "end": 81034
+    },
+    {
+        "text": "the european economic area",
+        "label": "ORG",
+        "start": 81124,
+        "end": 81150
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 81512,
+        "end": 81517
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 81519,
+        "end": 81520
+    },
+    {
+        "text": "brussels",
+        "label": "GPE",
+        "start": 81612,
+        "end": 81620
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 81664,
+        "end": 81671
+    },
+    {
+        "text": "exxonmobil petroleum & chemical",
+        "label": "ORG",
+        "start": 81739,
+        "end": 81770
+    },
+    {
+        "text": "west pharmaceutical services inc",
+        "label": "ORG",
+        "start": 81889,
+        "end": 81921
+    },
+    {
+        "text": "8-k",
+        "label": "QUANTITY",
+        "start": 81923,
+        "end": 81926
+    },
+    {
+        "text": "1/16/2020",
+        "label": "DATE",
+        "start": 81928,
+        "end": 81937
+    }
+]

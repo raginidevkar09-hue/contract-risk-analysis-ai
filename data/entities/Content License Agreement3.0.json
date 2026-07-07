@@ -1,0 +1,158 @@
+[
+    {
+        "text": "this day",
+        "label": "DATE",
+        "start": 126,
+        "end": 134
+    },
+    {
+        "text": "2009",
+        "label": "DATE",
+        "start": 140,
+        "end": 144
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 161,
+        "end": 168
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 209,
+        "end": 216
+    },
+    {
+        "text": "shanghai",
+        "label": "GPE",
+        "start": 228,
+        "end": 236
+    },
+    {
+        "text": "co. ltd.",
+        "label": "ORG",
+        "start": 270,
+        "end": 278
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 317,
+        "end": 324
+    },
+    {
+        "text": "2008",
+        "label": "DATE",
+        "start": 413,
+        "end": 417
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 460,
+        "end": 467
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 831,
+        "end": 832
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 834,
+        "end": 841
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1099,
+        "end": 1100
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 1274,
+        "end": 1275
+    },
+    {
+        "text": "prc",
+        "label": "GPE",
+        "start": 1341,
+        "end": 1344
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 1394,
+        "end": 1395
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1443,
+        "end": 1446
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 1553,
+        "end": 1556
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 1583,
+        "end": 1584
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 1763,
+        "end": 1780
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 1796,
+        "end": 1805
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 1899,
+        "end": 1904
+    },
+    {
+        "text": "beijing",
+        "label": "GPE",
+        "start": 1923,
+        "end": 1930
+    },
+    {
+        "text": "shanghai",
+        "label": "GPE",
+        "start": 1996,
+        "end": 2004
+    },
+    {
+        "text": "co. ltd.",
+        "label": "ORG",
+        "start": 2038,
+        "end": 2046
+    },
+    {
+        "text": "leju holdings ltd",
+        "label": "ORG",
+        "start": 2076,
+        "end": 2093
+    },
+    {
+        "text": "1/21/2014",
+        "label": "DATE",
+        "start": 2109,
+        "end": 2118
+    }
+]

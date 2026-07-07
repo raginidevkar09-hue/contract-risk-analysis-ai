@@ -1,0 +1,8444 @@
+[
+    {
+        "text": "10.3",
+        "label": "CARDINAL",
+        "start": 27,
+        "end": 31
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 381,
+        "end": 382
+    },
+    {
+        "text": "march ",
+        "label": "DATE",
+        "start": 494,
+        "end": 500
+    },
+    {
+        "text": "9th",
+        "label": "ORDINAL",
+        "start": 500,
+        "end": 503
+    },
+    {
+        "text": "2015",
+        "label": "DATE",
+        "start": 505,
+        "end": 509
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 577,
+        "end": 578
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 593,
+        "end": 600
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 609,
+        "end": 617
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 692,
+        "end": 693
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 729,
+        "end": 730
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 756,
+        "end": 757
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 778,
+        "end": 779
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 831,
+        "end": 832
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 848,
+        "end": 849
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 866,
+        "end": 867
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 883,
+        "end": 884
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 900,
+        "end": 902
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 913,
+        "end": 915
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 934,
+        "end": 936
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 968,
+        "end": 970
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 991,
+        "end": 993
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 1008,
+        "end": 1010
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 1038,
+        "end": 1040
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 1056,
+        "end": 1058
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 1083,
+        "end": 1085
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 1104,
+        "end": 1106
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 1118,
+        "end": 1120
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 1140,
+        "end": 1142
+    },
+    {
+        "text": "22",
+        "label": "CARDINAL",
+        "start": 1152,
+        "end": 1154
+    },
+    {
+        "text": "23",
+        "label": "CARDINAL",
+        "start": 1169,
+        "end": 1171
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 1189,
+        "end": 1191
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 1291,
+        "end": 1292
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 1307,
+        "end": 1314
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 1323,
+        "end": 1331
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 1371,
+        "end": 1372
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 1434,
+        "end": 1435
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 1494,
+        "end": 1495
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 1549,
+        "end": 1550
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 1602,
+        "end": 1603
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 1621,
+        "end": 1622
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 1688,
+        "end": 1689
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 1736,
+        "end": 1737
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 1768,
+        "end": 1769
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 1819,
+        "end": 1821
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 1853,
+        "end": 1855
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 1890,
+        "end": 1892
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 1929,
+        "end": 1931
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 1976,
+        "end": 1978
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 2007,
+        "end": 2009
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 2043,
+        "end": 2045
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 2077,
+        "end": 2079
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 2114,
+        "end": 2116
+    },
+    {
+        "text": "nota",
+        "label": "GPE",
+        "start": 2119,
+        "end": 2123
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 2208,
+        "end": 2209
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 2224,
+        "end": 2231
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 2240,
+        "end": 2248
+    },
+    {
+        "text": "9th",
+        "label": "ORDINAL",
+        "start": 2374,
+        "end": 2377
+    },
+    {
+        "text": "2015",
+        "label": "DATE",
+        "start": 2378,
+        "end": 2382
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 2470,
+        "end": 2476
+    },
+    {
+        "text": "avenida\nmarcos",
+        "label": "PERSON",
+        "start": 2523,
+        "end": 2537
+    },
+    {
+        "text": "penteado",
+        "label": "PERSON",
+        "start": 2538,
+        "end": 2546
+    },
+    {
+        "text": "939",
+        "label": "CARDINAL",
+        "start": 2567,
+        "end": 2570
+    },
+    {
+        "text": "park - ",
+        "label": "PERSON",
+        "start": 2602,
+        "end": 2609
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 2624,
+        "end": 2625
+    },
+    {
+        "text": "06460",
+        "label": "CARDINAL",
+        "start": 2639,
+        "end": 2644
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 2697,
+        "end": 2703
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 2850,
+        "end": 2853
+    },
+    {
+        "text": "g.i.e.",
+        "label": "PERSON",
+        "start": 2895,
+        "end": 2901
+    },
+    {
+        "text": "french",
+        "label": "NORP",
+        "start": 2905,
+        "end": 2911
+    },
+    {
+        "text": "l.251-1",
+        "label": "PERSON",
+        "start": 2971,
+        "end": 2978
+    },
+    {
+        "text": "french",
+        "label": "NORP",
+        "start": 2997,
+        "end": 3003
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3051,
+        "end": 3052
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 3088,
+        "end": 3094
+    },
+    {
+        "text": "323",
+        "label": "CARDINAL",
+        "start": 3160,
+        "end": 3163
+    },
+    {
+        "text": "932",
+        "label": "CARDINAL",
+        "start": 3164,
+        "end": 3167
+    },
+    {
+        "text": "236",
+        "label": "CARDINAL",
+        "start": 3168,
+        "end": 3171
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 3419,
+        "end": 3420
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 3435,
+        "end": 3442
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 3451,
+        "end": 3459
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 3490,
+        "end": 3491
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 3563,
+        "end": 3566
+    },
+    {
+        "text": "december 24th",
+        "label": "DATE",
+        "start": 3588,
+        "end": 3601
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 3603,
+        "end": 3607
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 3773,
+        "end": 3774
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 3846,
+        "end": 3849
+    },
+    {
+        "text": "2883/09",
+        "label": "CARDINAL",
+        "start": 3856,
+        "end": 3863
+    },
+    {
+        "text": "september 10th",
+        "label": "DATE",
+        "start": 3871,
+        "end": 3885
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 3887,
+        "end": 3891
+    },
+    {
+        "text": "trip”);",
+        "label": "PERSON",
+        "start": 4043,
+        "end": 4050
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 4057,
+        "end": 4058
+    },
+    {
+        "text": "2012",
+        "label": "DATE",
+        "start": 4121,
+        "end": 4125
+    },
+    {
+        "text": "s.a.",
+        "label": "PERSON",
+        "start": 4175,
+        "end": 4179
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 4504,
+        "end": 4505
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 4557,
+        "end": 4558
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 4643,
+        "end": 4644
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 4703,
+        "end": 4709
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 5050,
+        "end": 5051
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 5066,
+        "end": 5073
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 5082,
+        "end": 5090
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 5110,
+        "end": 5111
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 5488,
+        "end": 5489
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 5492,
+        "end": 5493
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 5528,
+        "end": 5531
+    },
+    {
+        "text": "and/or oem",
+        "label": "PERSON",
+        "start": 6119,
+        "end": 6129
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 7301,
+        "end": 7306
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 7420,
+        "end": 7424
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 7426,
+        "end": 7427
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 7547,
+        "end": 7548
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 7971,
+        "end": 7972
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 7987,
+        "end": 7994
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 8003,
+        "end": 8011
+    },
+    {
+        "text": "european",
+        "label": "NORP",
+        "start": 8347,
+        "end": 8355
+    },
+    {
+        "text": "america",
+        "label": "GPE",
+        "start": 8421,
+        "end": 8428
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 8847,
+        "end": 8852
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 8854,
+        "end": 8855
+    },
+    {
+        "text": "america",
+        "label": "GPE",
+        "start": 9539,
+        "end": 9546
+    },
+    {
+        "text": "300",
+        "label": "CARDINAL",
+        "start": 9558,
+        "end": 9561
+    },
+    {
+        "text": "a day",
+        "label": "DATE",
+        "start": 10673,
+        "end": 10678
+    },
+    {
+        "text": "saturday",
+        "label": "DATE",
+        "start": 10693,
+        "end": 10701
+    },
+    {
+        "text": "sunday",
+        "label": "DATE",
+        "start": 10707,
+        "end": 10713
+    },
+    {
+        "text": "paris",
+        "label": "GPE",
+        "start": 10804,
+        "end": 10809
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 10811,
+        "end": 10817
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 11330,
+        "end": 11331
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 11346,
+        "end": 11353
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 11362,
+        "end": 11370
+    },
+    {
+        "text": "40",
+        "label": "CARDINAL",
+        "start": 13378,
+        "end": 13380
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 13546,
+        "end": 13549
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 13933,
+        "end": 13935
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 14235,
+        "end": 14236
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 14251,
+        "end": 14258
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 14267,
+        "end": 14275
+    },
+    {
+        "text": "16.1",
+        "label": "CARDINAL",
+        "start": 14443,
+        "end": 14447
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 14702,
+        "end": 14703
+    },
+    {
+        "text": "lru and/or",
+        "label": "PERSON",
+        "start": 14762,
+        "end": 14772
+    },
+    {
+        "text": "and/or aircraft",
+        "label": "PERSON",
+        "start": 14786,
+        "end": 14801
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 14956,
+        "end": 14958
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 14966,
+        "end": 14969
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 15297,
+        "end": 15303
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 15344,
+        "end": 15347
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 15454,
+        "end": 15456
+    },
+    {
+        "text": "termination”);\n“euros",
+        "label": "WORK_OF_ART",
+        "start": 15459,
+        "end": 15480
+    },
+    {
+        "text": "european",
+        "label": "NORP",
+        "start": 15590,
+        "end": 15598
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 15670,
+        "end": 15673
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 15834,
+        "end": 15836
+    },
+    {
+        "text": "2000",
+        "label": "DATE",
+        "start": 16513,
+        "end": 16517
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 16579,
+        "end": 16582
+    },
+    {
+        "text": "lru",
+        "label": "PERSON",
+        "start": 16641,
+        "end": 16644
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 16881,
+        "end": 16882
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 16897,
+        "end": 16904
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 16913,
+        "end": 16921
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 17133,
+        "end": 17139
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 17186,
+        "end": 17192
+    },
+    {
+        "text": "one month",
+        "label": "DATE",
+        "start": 17207,
+        "end": 17216
+    },
+    {
+        "text": "11:00 hours",
+        "label": "TIME",
+        "start": 17242,
+        "end": 17253
+    },
+    {
+        "text": "approximately 11:00 hours",
+        "label": "TIME",
+        "start": 17257,
+        "end": 17282
+    },
+    {
+        "text": "london",
+        "label": "GPE",
+        "start": 17284,
+        "end": 17290
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 17645,
+        "end": 17647
+    },
+    {
+        "text": "2007",
+        "label": "DATE",
+        "start": 17770,
+        "end": 17774
+    },
+    {
+        "text": "600",
+        "label": "CARDINAL",
+        "start": 17803,
+        "end": 17806
+    },
+    {
+        "text": "paris",
+        "label": "GPE",
+        "start": 17888,
+        "end": 17893
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 17895,
+        "end": 17901
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 17969,
+        "end": 17971
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 18721,
+        "end": 18722
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 18876,
+        "end": 18877
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 18957,
+        "end": 18958
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 19716,
+        "end": 19717
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 19732,
+        "end": 19739
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 19748,
+        "end": 19756
+    },
+    {
+        "text": "lru",
+        "label": "PERSON",
+        "start": 20430,
+        "end": 20433
+    },
+    {
+        "text": "one thousand",
+        "label": "CARDINAL",
+        "start": 20447,
+        "end": 20459
+    },
+    {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 20461,
+        "end": 20466
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 20540,
+        "end": 20545
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 20547,
+        "end": 20548
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 20562,
+        "end": 20568
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 20639,
+        "end": 20640
+    },
+    {
+        "text": "one day",
+        "label": "DATE",
+        "start": 20833,
+        "end": 20840
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 20955,
+        "end": 20961
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 21238,
+        "end": 21247
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 21714,
+        "end": 21715
+    },
+    {
+        "text": "the\nday",
+        "label": "DATE",
+        "start": 22177,
+        "end": 22184
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 22750,
+        "end": 22751
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 22766,
+        "end": 22773
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 22782,
+        "end": 22790
+    },
+    {
+        "text": "oem’s",
+        "label": "PERSON",
+        "start": 23283,
+        "end": 23288
+    },
+    {
+        "text": "300",
+        "label": "CARDINAL",
+        "start": 23333,
+        "end": 23336
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 23739,
+        "end": 23742
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 23834,
+        "end": 23835
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 23992,
+        "end": 23993
+    },
+    {
+        "text": "145",
+        "label": "CARDINAL",
+        "start": 24239,
+        "end": 24242
+    },
+    {
+        "text": "assigns and/or",
+        "label": "PERSON",
+        "start": 24479,
+        "end": 24493
+    },
+    {
+        "text": "lru",
+        "label": "PERSON",
+        "start": 24663,
+        "end": 24666
+    },
+    {
+        "text": "one thousand",
+        "label": "CARDINAL",
+        "start": 24680,
+        "end": 24692
+    },
+    {
+        "text": "1,000",
+        "label": "CARDINAL",
+        "start": 24694,
+        "end": 24699
+    },
+    {
+        "text": "six",
+        "label": "CARDINAL",
+        "start": 24758,
+        "end": 24761
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 24763,
+        "end": 24764
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 24778,
+        "end": 24784
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 24855,
+        "end": 24856
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 25020,
+        "end": 25022
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 25147,
+        "end": 25152
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 25154,
+        "end": 25155
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 25323,
+        "end": 25327
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 25329,
+        "end": 25330
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 25388,
+        "end": 25390
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 25551,
+        "end": 25552
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 25567,
+        "end": 25574
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 25583,
+        "end": 25591
+    },
+    {
+        "text": "and/or aircraft",
+        "label": "PERSON",
+        "start": 25672,
+        "end": 25687
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 25880,
+        "end": 25886
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 25909,
+        "end": 25911
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 26186,
+        "end": 26188
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 26388,
+        "end": 26389
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 26491,
+        "end": 26495
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 26497,
+        "end": 26498
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 26833,
+        "end": 26836
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 26848,
+        "end": 26850
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 26920,
+        "end": 26922
+    },
+    {
+        "text": "days",
+        "label": "DATE",
+        "start": 26924,
+        "end": 26928
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 27011,
+        "end": 27013
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 27112,
+        "end": 27113
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 27221,
+        "end": 27222
+    },
+    {
+        "text": "valorem",
+        "label": "PERSON",
+        "start": 27831,
+        "end": 27838
+    },
+    {
+        "text": "between two",
+        "label": "CARDINAL",
+        "start": 28354,
+        "end": 28365
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 28367,
+        "end": 28368
+    },
+    {
+        "text": "date;",
+        "label": "GPE",
+        "start": 28479,
+        "end": 28484
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 28552,
+        "end": 28553
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 28568,
+        "end": 28575
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 28584,
+        "end": 28592
+    },
+    {
+        "text": "100 and/or (ii",
+        "label": "QUANTITY",
+        "start": 28948,
+        "end": 28962
+    },
+    {
+        "text": "seven",
+        "label": "CARDINAL",
+        "start": 29421,
+        "end": 29426
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 29539,
+        "end": 29542
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 29634,
+        "end": 29637
+    },
+    {
+        "text": "2.2.1",
+        "label": "CARDINAL",
+        "start": 29731,
+        "end": 29736
+    },
+    {
+        "text": "2.2.4",
+        "label": "CARDINAL",
+        "start": 30224,
+        "end": 30229
+    },
+    {
+        "text": "2.2.5",
+        "label": "CARDINAL",
+        "start": 30451,
+        "end": 30456
+    },
+    {
+        "text": "2.2.6",
+        "label": "CARDINAL",
+        "start": 30585,
+        "end": 30590
+    },
+    {
+        "text": "2.2.7",
+        "label": "CARDINAL",
+        "start": 30706,
+        "end": 30711
+    },
+    {
+        "text": "2.2.8",
+        "label": "CARDINAL",
+        "start": 30773,
+        "end": 30778
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 31017,
+        "end": 31018
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 31033,
+        "end": 31040
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 31049,
+        "end": 31057
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 31129,
+        "end": 31130
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 31289,
+        "end": 31292
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 31503,
+        "end": 31506
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 31624,
+        "end": 31625
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 31645,
+        "end": 31648
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 32249,
+        "end": 32252
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 32593,
+        "end": 32596
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 32776,
+        "end": 32779
+    },
+    {
+        "text": "4.4",
+        "label": "CARDINAL",
+        "start": 33076,
+        "end": 33079
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 33249,
+        "end": 33252
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 33377,
+        "end": 33380
+    },
+    {
+        "text": "16.4",
+        "label": "CARDINAL",
+        "start": 33472,
+        "end": 33476
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 33486,
+        "end": 33487
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 33532,
+        "end": 33535
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 33715,
+        "end": 33716
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 33731,
+        "end": 33738
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 33747,
+        "end": 33755
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 33884,
+        "end": 33885
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 33939,
+        "end": 33942
+    },
+    {
+        "text": "mrbr",
+        "label": "PERSON",
+        "start": 34038,
+        "end": 34042
+    },
+    {
+        "text": "and/or faa",
+        "label": "PERSON",
+        "start": 34164,
+        "end": 34174
+    },
+    {
+        "text": "mrbr",
+        "label": "PERSON",
+        "start": 34271,
+        "end": 34275
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 34544,
+        "end": 34546
+    },
+    {
+        "text": "5.2.4",
+        "label": "CARDINAL",
+        "start": 35094,
+        "end": 35099
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 36551,
+        "end": 36553
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 37018,
+        "end": 37019
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 37034,
+        "end": 37041
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 37050,
+        "end": 37058
+    },
+    {
+        "text": "5.2.4",
+        "label": "CARDINAL",
+        "start": 37245,
+        "end": 37250
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 37935,
+        "end": 37941
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 38061,
+        "end": 38064
+    },
+    {
+        "text": "tenth",
+        "label": "ORDINAL",
+        "start": 39228,
+        "end": 39233
+    },
+    {
+        "text": "10th",
+        "label": "ORDINAL",
+        "start": 39235,
+        "end": 39239
+    },
+    {
+        "text": "each month",
+        "label": "DATE",
+        "start": 39248,
+        "end": 39258
+    },
+    {
+        "text": "5.3.2",
+        "label": "CARDINAL",
+        "start": 39702,
+        "end": 39707
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 39997,
+        "end": 39998
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 40013,
+        "end": 40020
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 40029,
+        "end": 40037
+    },
+    {
+        "text": "easa",
+        "label": "ORG",
+        "start": 40274,
+        "end": 40278
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 40460,
+        "end": 40463
+    },
+    {
+        "text": "several third",
+        "label": "CARDINAL",
+        "start": 40467,
+        "end": 40480
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 40656,
+        "end": 40657
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 40703,
+        "end": 40706
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 40743,
+        "end": 40746
+    },
+    {
+        "text": "6.2 hereafter",
+        "label": "QUANTITY",
+        "start": 40751,
+        "end": 40764
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 40791,
+        "end": 40794
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 40989,
+        "end": 40990
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 41017,
+        "end": 41019
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 41051,
+        "end": 41053
+    },
+    {
+        "text": "yblon\n95500",
+        "label": "PERSON",
+        "start": 41169,
+        "end": 41180
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 41193,
+        "end": 41199
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 41245,
+        "end": 41246
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 41345,
+        "end": 41346
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 41401,
+        "end": 41403
+    },
+    {
+        "text": "yblon\n95500",
+        "label": "PERSON",
+        "start": 41519,
+        "end": 41530
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 41543,
+        "end": 41549
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 41595,
+        "end": 41596
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 41695,
+        "end": 41696
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 41751,
+        "end": 41753
+    },
+    {
+        "text": "brasil",
+        "label": "PERSON",
+        "start": 41846,
+        "end": 41852
+    },
+    {
+        "text": "barão de mauá",
+        "label": "PERSON",
+        "start": 41928,
+        "end": 41941
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 42132,
+        "end": 42133
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 42148,
+        "end": 42155
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 42164,
+        "end": 42172
+    },
+    {
+        "text": "6.1.2",
+        "label": "CARDINAL",
+        "start": 42309,
+        "end": 42314
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 42343,
+        "end": 42346
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 42493,
+        "end": 42494
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 42519,
+        "end": 42521
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 42553,
+        "end": 42555
+    },
+    {
+        "text": "yblon\n95500",
+        "label": "PERSON",
+        "start": 42671,
+        "end": 42682
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 42695,
+        "end": 42701
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 42747,
+        "end": 42748
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 42846,
+        "end": 42847
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 42902,
+        "end": 42904
+    },
+    {
+        "text": "yblon\n95500",
+        "label": "PERSON",
+        "start": 43020,
+        "end": 43031
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 43044,
+        "end": 43050
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 43096,
+        "end": 43097
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 43187,
+        "end": 43188
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 43235,
+        "end": 43237
+    },
+    {
+        "text": "brasil",
+        "label": "PERSON",
+        "start": 43330,
+        "end": 43336
+    },
+    {
+        "text": "barão de mauá",
+        "label": "PERSON",
+        "start": 43412,
+        "end": 43425
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 43564,
+        "end": 43567
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 43693,
+        "end": 43694
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 44096,
+        "end": 44097
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 44112,
+        "end": 44119
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 44128,
+        "end": 44136
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 44521,
+        "end": 44526
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 44886,
+        "end": 44891
+    },
+    {
+        "text": "weekly",
+        "label": "DATE",
+        "start": 44901,
+        "end": 44907
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 45114,
+        "end": 45116
+    },
+    {
+        "text": "integrado de",
+        "label": "PERSON",
+        "start": 45315,
+        "end": 45327
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 46013,
+        "end": 46014
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 46109,
+        "end": 46110
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 46439,
+        "end": 46441
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 46443,
+        "end": 46444
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 46489,
+        "end": 46491
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 46493,
+        "end": 46494
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 46619,
+        "end": 46621
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 46623,
+        "end": 46624
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 46658,
+        "end": 46660
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 46662,
+        "end": 46663
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 46705,
+        "end": 46706
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 46721,
+        "end": 46724
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 47108,
+        "end": 47109
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 47124,
+        "end": 47131
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 47140,
+        "end": 47148
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 47359,
+        "end": 47361
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 47571,
+        "end": 47576
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 47627,
+        "end": 47632
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 47796,
+        "end": 47799
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 47938,
+        "end": 47939
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 47947,
+        "end": 47950
+    },
+    {
+        "text": "15",
+        "label": "DATE",
+        "start": 47987,
+        "end": 47989
+    },
+    {
+        "text": "11",
+        "label": "DATE",
+        "start": 48164,
+        "end": 48166
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 48606,
+        "end": 48609
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 48805,
+        "end": 48807
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 48856,
+        "end": 48859
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 49010,
+        "end": 49012
+    },
+    {
+        "text": "8.4",
+        "label": "CARDINAL",
+        "start": 49162,
+        "end": 49165
+    },
+    {
+        "text": "8.5",
+        "label": "CARDINAL",
+        "start": 49419,
+        "end": 49422
+    },
+    {
+        "text": "8.6",
+        "label": "CARDINAL",
+        "start": 49518,
+        "end": 49521
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 49639,
+        "end": 49646
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 49697,
+        "end": 49698
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 49797,
+        "end": 49799
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 50056,
+        "end": 50057
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 50535,
+        "end": 50536
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 50551,
+        "end": 50558
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 50567,
+        "end": 50575
+    },
+    {
+        "text": "8.7",
+        "label": "CARDINAL",
+        "start": 50660,
+        "end": 50663
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 51115,
+        "end": 51121
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 51366,
+        "end": 51369
+    },
+    {
+        "text": "8.7",
+        "label": "CARDINAL",
+        "start": 51532,
+        "end": 51535
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 51538,
+        "end": 51539
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 51711,
+        "end": 51713
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 52323,
+        "end": 52325
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 52397,
+        "end": 52399
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 52495,
+        "end": 52497
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 52521,
+        "end": 52523
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 52542,
+        "end": 52546
+    },
+    {
+        "text": "12.1 (ii",
+        "label": "MONEY",
+        "start": 52863,
+        "end": 52871
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 53176,
+        "end": 53177
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 53192,
+        "end": 53199
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 53208,
+        "end": 53216
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 53564,
+        "end": 53566
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 54035,
+        "end": 54038
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 54043,
+        "end": 54044
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 54060,
+        "end": 54062
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 54344,
+        "end": 54347
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 54352,
+        "end": 54353
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 54369,
+        "end": 54371
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 54687,
+        "end": 54691
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 54777,
+        "end": 54778
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 54790,
+        "end": 54792
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 54908,
+        "end": 54910
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 55103,
+        "end": 55107
+    },
+    {
+        "text": "11.3",
+        "label": "CARDINAL",
+        "start": 55128,
+        "end": 55132
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 55295,
+        "end": 55297
+    },
+    {
+        "text": "12.1",
+        "label": "MONEY",
+        "start": 55330,
+        "end": 55334
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 55560,
+        "end": 55561
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 55576,
+        "end": 55583
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 55592,
+        "end": 55600
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 55916,
+        "end": 55917
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 55932,
+        "end": 55939
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 55948,
+        "end": 55956
+    },
+    {
+        "text": "12.2",
+        "label": "CARDINAL",
+        "start": 56047,
+        "end": 56051
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 56203,
+        "end": 56205
+    },
+    {
+        "text": "paris",
+        "label": "GPE",
+        "start": 56378,
+        "end": 56383
+    },
+    {
+        "text": "30",
+        "label": "CARDINAL",
+        "start": 56384,
+        "end": 56386
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 56408,
+        "end": 56414
+    },
+    {
+        "text": "75013",
+        "label": "DATE",
+        "start": 56417,
+        "end": 56422
+    },
+    {
+        "text": "paris",
+        "label": "GPE",
+        "start": 56423,
+        "end": 56428
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 56431,
+        "end": 56437
+    },
+    {
+        "text": "avions de transport",
+        "label": "PERSON",
+        "start": 56481,
+        "end": 56500
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 56715,
+        "end": 56717
+    },
+    {
+        "text": "the month",
+        "label": "DATE",
+        "start": 56748,
+        "end": 56757
+    },
+    {
+        "text": "12.3",
+        "label": "CARDINAL",
+        "start": 56790,
+        "end": 56794
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 56824,
+        "end": 56830
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 57094,
+        "end": 57100
+    },
+    {
+        "text": "12.4",
+        "label": "CARDINAL",
+        "start": 57464,
+        "end": 57468
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 57920,
+        "end": 57927
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 58010,
+        "end": 58015
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 58017,
+        "end": 58018
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 58205,
+        "end": 58206
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 58221,
+        "end": 58228
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 58237,
+        "end": 58245
+    },
+    {
+        "text": "french",
+        "label": "NORP",
+        "start": 58400,
+        "end": 58406
+    },
+    {
+        "text": "40",
+        "label": "CARDINAL",
+        "start": 58476,
+        "end": 58478
+    },
+    {
+        "text": "12.5",
+        "label": "CARDINAL",
+        "start": 58648,
+        "end": 58652
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 59030,
+        "end": 59032
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 59087,
+        "end": 59089
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 59283,
+        "end": 59285
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 59466,
+        "end": 59470
+    },
+    {
+        "text": "12.2",
+        "label": "MONEY",
+        "start": 59647,
+        "end": 59651
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 59668,
+        "end": 59671
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 59673,
+        "end": 59674
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 60506,
+        "end": 60508
+    },
+    {
+        "text": "13.3",
+        "label": "CARDINAL",
+        "start": 60511,
+        "end": 60515
+    },
+    {
+        "text": "13.2",
+        "label": "CARDINAL",
+        "start": 60596,
+        "end": 60600
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 60970,
+        "end": 60971
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 60986,
+        "end": 60993
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 61002,
+        "end": 61010
+    },
+    {
+        "text": "13.4",
+        "label": "CARDINAL",
+        "start": 61064,
+        "end": 61068
+    },
+    {
+        "text": "13.5",
+        "label": "CARDINAL",
+        "start": 62178,
+        "end": 62182
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 62580,
+        "end": 62582
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 62932,
+        "end": 62934
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 62963,
+        "end": 62967
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 62986,
+        "end": 62990
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 63279,
+        "end": 63283
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 63518,
+        "end": 63519
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 63534,
+        "end": 63541
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 63550,
+        "end": 63558
+    },
+    {
+        "text": "15.3",
+        "label": "CARDINAL",
+        "start": 63771,
+        "end": 63775
+    },
+    {
+        "text": "15.1",
+        "label": "CARDINAL",
+        "start": 63805,
+        "end": 63809
+    },
+    {
+        "text": "15.2",
+        "label": "CARDINAL",
+        "start": 63814,
+        "end": 63818
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 64486,
+        "end": 64488
+    },
+    {
+        "text": "16.1",
+        "label": "CARDINAL",
+        "start": 64504,
+        "end": 64508
+    },
+    {
+        "text": "16.4",
+        "label": "CARDINAL",
+        "start": 64718,
+        "end": 64722
+    },
+    {
+        "text": "16.6",
+        "label": "CARDINAL",
+        "start": 64753,
+        "end": 64757
+    },
+    {
+        "text": "place; and/or",
+        "label": "PERSON",
+        "start": 65278,
+        "end": 65291
+    },
+    {
+        "text": "16.1.b",
+        "label": "MONEY",
+        "start": 65579,
+        "end": 65585
+    },
+    {
+        "text": "obligations;\n\n(ii",
+        "label": "ORG",
+        "start": 65748,
+        "end": 65765
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 65827,
+        "end": 65829
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 65922,
+        "end": 65925
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 65927,
+        "end": 65928
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 66044,
+        "end": 66045
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 66070,
+        "end": 66071
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 66115,
+        "end": 66117
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 66142,
+        "end": 66144
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 66176,
+        "end": 66178
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 66542,
+        "end": 66543
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 66832,
+        "end": 66833
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 66848,
+        "end": 66855
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 66864,
+        "end": 66872
+    },
+    {
+        "text": "4.5",
+        "label": "CARDINAL",
+        "start": 67073,
+        "end": 67076
+    },
+    {
+        "text": "16.2",
+        "label": "CARDINAL",
+        "start": 67097,
+        "end": 67101
+    },
+    {
+        "text": "16.3",
+        "label": "CARDINAL",
+        "start": 67130,
+        "end": 67134
+    },
+    {
+        "text": "16.4",
+        "label": "CARDINAL",
+        "start": 67193,
+        "end": 67197
+    },
+    {
+        "text": "16.1.b",
+        "label": "MONEY",
+        "start": 67255,
+        "end": 67261
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 68173,
+        "end": 68175
+    },
+    {
+        "text": "16.4",
+        "label": "CARDINAL",
+        "start": 68212,
+        "end": 68216
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 68400,
+        "end": 68401
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 68431,
+        "end": 68433
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 68838,
+        "end": 68840
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 69094,
+        "end": 69096
+    },
+    {
+        "text": "16.1.b",
+        "label": "MONEY",
+        "start": 69708,
+        "end": 69714
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 69874,
+        "end": 69876
+    },
+    {
+        "text": "16.5",
+        "label": "CARDINAL",
+        "start": 70205,
+        "end": 70209
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 70637,
+        "end": 70638
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 70653,
+        "end": 70660
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 70669,
+        "end": 70677
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 70860,
+        "end": 70862
+    },
+    {
+        "text": "16.6",
+        "label": "CARDINAL",
+        "start": 71241,
+        "end": 71245
+    },
+    {
+        "text": "16.6.1",
+        "label": "CARDINAL",
+        "start": 71276,
+        "end": 71282
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 71421,
+        "end": 71423
+    },
+    {
+        "text": "expiry",
+        "label": "PERSON",
+        "start": 71470,
+        "end": 71476
+    },
+    {
+        "text": "forthwith",
+        "label": "PERSON",
+        "start": 72184,
+        "end": 72193
+    },
+    {
+        "text": "reimbursed; and/or",
+        "label": "PERSON",
+        "start": 72194,
+        "end": 72212
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 72351,
+        "end": 72352
+    },
+    {
+        "text": "forthwith",
+        "label": "PERSON",
+        "start": 72400,
+        "end": 72409
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 72535,
+        "end": 72536
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 72576,
+        "end": 72577
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 72589,
+        "end": 72590
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 72655,
+        "end": 72657
+    },
+    {
+        "text": "located; and/or",
+        "label": "PERSON",
+        "start": 72906,
+        "end": 72921
+    },
+    {
+        "text": "16.6.1.b",
+        "label": "MONEY",
+        "start": 73083,
+        "end": 73091
+    },
+    {
+        "text": "16.6.1.a",
+        "label": "CARDINAL",
+        "start": 73284,
+        "end": 73292
+    },
+    {
+        "text": "16.6.1.a",
+        "label": "CARDINAL",
+        "start": 73484,
+        "end": 73492
+    },
+    {
+        "text": "16.6.1.c",
+        "label": "CARDINAL",
+        "start": 73505,
+        "end": 73513
+    },
+    {
+        "text": "16.1.b",
+        "label": "MONEY",
+        "start": 73635,
+        "end": 73641
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 73874,
+        "end": 73875
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 73890,
+        "end": 73897
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 73906,
+        "end": 73914
+    },
+    {
+        "text": "expiry",
+        "label": "PERSON",
+        "start": 74125,
+        "end": 74131
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 74434,
+        "end": 74436
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 74761,
+        "end": 74763
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 75058,
+        "end": 75059
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 75075,
+        "end": 75077
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 75101,
+        "end": 75103
+    },
+    {
+        "text": "19",
+        "label": "CARDINAL",
+        "start": 75772,
+        "end": 75774
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 76048,
+        "end": 76049
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 76090,
+        "end": 76096
+    },
+    {
+        "text": "cyril",
+        "label": "PERSON",
+        "start": 76113,
+        "end": 76118
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 76160,
+        "end": 76162
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 76345,
+        "end": 76346
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 76361,
+        "end": 76368
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 76377,
+        "end": 76385
+    },
+    {
+        "text": "marcos",
+        "label": "PERSON",
+        "start": 76457,
+        "end": 76463
+    },
+    {
+        "text": "penteado de ulhoa",
+        "label": "PERSON",
+        "start": 76464,
+        "end": 76481
+    },
+    {
+        "text": "939",
+        "label": "CARDINAL",
+        "start": 76493,
+        "end": 76496
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 76545,
+        "end": 76546
+    },
+    {
+        "text": "06460",
+        "label": "CARDINAL",
+        "start": 76560,
+        "end": 76565
+    },
+    {
+        "text": "barueri",
+        "label": "GPE",
+        "start": 76595,
+        "end": 76602
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 76614,
+        "end": 76620
+    },
+    {
+        "text": "braga de oliveira",
+        "label": "PERSON",
+        "start": 76643,
+        "end": 76660
+    },
+    {
+        "text": "55 11 ",
+        "label": "TIME",
+        "start": 76737,
+        "end": 76743
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 76754,
+        "end": 76756
+    },
+    {
+        "text": "20.1",
+        "label": "CARDINAL",
+        "start": 76777,
+        "end": 76781
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 77036,
+        "end": 77041
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 77205,
+        "end": 77210
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 78413,
+        "end": 78418
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 78438,
+        "end": 78443
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 78708,
+        "end": 78713
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 79676,
+        "end": 79677
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 79692,
+        "end": 79699
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 79708,
+        "end": 79716
+    },
+    {
+        "text": "20.2",
+        "label": "CARDINAL",
+        "start": 79762,
+        "end": 79766
+    },
+    {
+        "text": "20.1",
+        "label": "CARDINAL",
+        "start": 79919,
+        "end": 79923
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 80513,
+        "end": 80518
+    },
+    {
+        "text": "20.3",
+        "label": "CARDINAL",
+        "start": 80679,
+        "end": 80683
+    },
+    {
+        "text": "20.4",
+        "label": "CARDINAL",
+        "start": 81301,
+        "end": 81305
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 82429,
+        "end": 82430
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 82445,
+        "end": 82452
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 82461,
+        "end": 82469
+    },
+    {
+        "text": "20.5",
+        "label": "CARDINAL",
+        "start": 82523,
+        "end": 82527
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 82588,
+        "end": 82590
+    },
+    {
+        "text": "as third",
+        "label": "CARDINAL",
+        "start": 82700,
+        "end": 82708
+    },
+    {
+        "text": "20.6",
+        "label": "CARDINAL",
+        "start": 82854,
+        "end": 82858
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 82871,
+        "end": 82873
+    },
+    {
+        "text": "five",
+        "label": "CARDINAL",
+        "start": 82944,
+        "end": 82948
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 82950,
+        "end": 82951
+    },
+    {
+        "text": "21",
+        "label": "CARDINAL",
+        "start": 82985,
+        "end": 82987
+    },
+    {
+        "text": "herein",
+        "label": "PERSON",
+        "start": 84520,
+        "end": 84526
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 84811,
+        "end": 84817
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 84850,
+        "end": 84851
+    },
+    {
+        "text": "customs",
+        "label": "ORG",
+        "start": 84884,
+        "end": 84891
+    },
+    {
+        "text": "22",
+        "label": "CARDINAL",
+        "start": 85117,
+        "end": 85119
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 85448,
+        "end": 85449
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 85464,
+        "end": 85471
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 85480,
+        "end": 85488
+    },
+    {
+        "text": "23",
+        "label": "CARDINAL",
+        "start": 87163,
+        "end": 87165
+    },
+    {
+        "text": "23.1",
+        "label": "MONEY",
+        "start": 87184,
+        "end": 87188
+    },
+    {
+        "text": "23.2",
+        "label": "CARDINAL",
+        "start": 87322,
+        "end": 87326
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 87680,
+        "end": 87681
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 87718,
+        "end": 87719
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 87741,
+        "end": 87742
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 87759,
+        "end": 87760
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 87777,
+        "end": 87779
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 87796,
+        "end": 87798
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 87828,
+        "end": 87830
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 87848,
+        "end": 87850
+    },
+    {
+        "text": "23.2",
+        "label": "CARDINAL",
+        "start": 87872,
+        "end": 87876
+    },
+    {
+        "text": "23.5",
+        "label": "CARDINAL",
+        "start": 87891,
+        "end": 87895
+    },
+    {
+        "text": "23.8",
+        "label": "CARDINAL",
+        "start": 87911,
+        "end": 87915
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 87938,
+        "end": 87940
+    },
+    {
+        "text": "23.3",
+        "label": "CARDINAL",
+        "start": 88131,
+        "end": 88135
+    },
+    {
+        "text": "23.3.1",
+        "label": "CARDINAL",
+        "start": 88201,
+        "end": 88207
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 88399,
+        "end": 88400
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 88415,
+        "end": 88422
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 88431,
+        "end": 88439
+    },
+    {
+        "text": "23.3.2",
+        "label": "CARDINAL",
+        "start": 88493,
+        "end": 88499
+    },
+    {
+        "text": "23.3.3",
+        "label": "CARDINAL",
+        "start": 88883,
+        "end": 88889
+    },
+    {
+        "text": "23.3.4",
+        "label": "CARDINAL",
+        "start": 89052,
+        "end": 89058
+    },
+    {
+        "text": "20",
+        "label": "CARDINAL",
+        "start": 89162,
+        "end": 89164
+    },
+    {
+        "text": "23.4",
+        "label": "CARDINAL",
+        "start": 89341,
+        "end": 89345
+    },
+    {
+        "text": "23.5",
+        "label": "CARDINAL",
+        "start": 89374,
+        "end": 89378
+    },
+    {
+        "text": "23.6",
+        "label": "CARDINAL",
+        "start": 89789,
+        "end": 89793
+    },
+    {
+        "text": "23.7",
+        "label": "CARDINAL",
+        "start": 90270,
+        "end": 90274
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 90459,
+        "end": 90460
+    },
+    {
+        "text": "23.8",
+        "label": "CARDINAL",
+        "start": 90898,
+        "end": 90902
+    },
+    {
+        "text": "23.9",
+        "label": "CARDINAL",
+        "start": 91324,
+        "end": 91328
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 92244,
+        "end": 92245
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 92260,
+        "end": 92267
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 92276,
+        "end": 92284
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 93030,
+        "end": 93037
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 93062,
+        "end": 93069
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 93088,
+        "end": 93095
+    },
+    {
+        "text": "24",
+        "label": "CARDINAL",
+        "start": 95258,
+        "end": 95260
+    },
+    {
+        "text": "24.1",
+        "label": "CARDINAL",
+        "start": 95295,
+        "end": 95299
+    },
+    {
+        "text": "5-1401",
+        "label": "DATE",
+        "start": 95358,
+        "end": 95364
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 95648,
+        "end": 95649
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 95664,
+        "end": 95671
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 95680,
+        "end": 95688
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 95968,
+        "end": 95976
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 96083,
+        "end": 96084
+    },
+    {
+        "text": "24.2",
+        "label": "CARDINAL",
+        "start": 96172,
+        "end": 96176
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 96604,
+        "end": 96607
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 96609,
+        "end": 96610
+    },
+    {
+        "text": "24.2.1",
+        "label": "CARDINAL",
+        "start": 96786,
+        "end": 96792
+    },
+    {
+        "text": "24.2.5",
+        "label": "CARDINAL",
+        "start": 96815,
+        "end": 96821
+    },
+    {
+        "text": "24.2",
+        "label": "CARDINAL",
+        "start": 97015,
+        "end": 97019
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 97341,
+        "end": 97346
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 97348,
+        "end": 97349
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 97394,
+        "end": 97397
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 97399,
+        "end": 97400
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 97483,
+        "end": 97488
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 97559,
+        "end": 97562
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 97564,
+        "end": 97565
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 97592,
+        "end": 97595
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 97597,
+        "end": 97598
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 97725,
+        "end": 97730
+    },
+    {
+        "text": "new york",
+        "label": "GPE",
+        "start": 97910,
+        "end": 97918
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 98200,
+        "end": 98205
+    },
+    {
+        "text": "24.2.4",
+        "label": "CARDINAL",
+        "start": 98749,
+        "end": 98755
+    },
+    {
+        "text": "24.2.5",
+        "label": "CARDINAL",
+        "start": 98922,
+        "end": 98928
+    },
+    {
+        "text": "24.2",
+        "label": "CARDINAL",
+        "start": 98974,
+        "end": 98978
+    },
+    {
+        "text": "24.3",
+        "label": "CARDINAL",
+        "start": 99167,
+        "end": 99171
+    },
+    {
+        "text": "24.4",
+        "label": "CARDINAL",
+        "start": 99373,
+        "end": 99377
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 99712,
+        "end": 99713
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 99728,
+        "end": 99735
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 99744,
+        "end": 99752
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 99838,
+        "end": 99839
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 99854,
+        "end": 99861
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 99870,
+        "end": 99878
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 99949,
+        "end": 99952
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 99954,
+        "end": 99955
+    },
+    {
+        "text": "english",
+        "label": "LANGUAGE",
+        "start": 99980,
+        "end": 99987
+    },
+    {
+        "text": "amir",
+        "label": "PERSON",
+        "start": 100151,
+        "end": 100155
+    },
+    {
+        "text": "nasruddin\n  ",
+        "label": "PERSON",
+        "start": 100156,
+        "end": 100168
+    },
+    {
+        "text": "massimo",
+        "label": "PERSON",
+        "start": 100185,
+        "end": 100192
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 100370,
+        "end": 100371
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 100386,
+        "end": 100393
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 100402,
+        "end": 100410
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 100472,
+        "end": 100473
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 100697,
+        "end": 100698
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 100713,
+        "end": 100720
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 100729,
+        "end": 100737
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 101211,
+        "end": 101213
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 101400,
+        "end": 101401
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 101416,
+        "end": 101423
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 101432,
+        "end": 101440
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 101502,
+        "end": 101503
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 101740,
+        "end": 101742
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 101929,
+        "end": 101930
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 101945,
+        "end": 101952
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 101961,
+        "end": 101969
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 102031,
+        "end": 102032
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 102273,
+        "end": 102275
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 102462,
+        "end": 102463
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 102478,
+        "end": 102485
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 102494,
+        "end": 102502
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 102564,
+        "end": 102565
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 102727,
+        "end": 102729
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 102916,
+        "end": 102917
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 102932,
+        "end": 102939
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 102948,
+        "end": 102956
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 103018,
+        "end": 103019
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 103074,
+        "end": 103076
+    },
+    {
+        "text": "capstan",
+        "label": "GPE",
+        "start": 103372,
+        "end": 103379
+    },
+    {
+        "text": "ac",
+        "label": "ORG",
+        "start": 103553,
+        "end": 103555
+    },
+    {
+        "text": "ac",
+        "label": "ORG",
+        "start": 103587,
+        "end": 103589
+    },
+    {
+        "text": "aileron",
+        "label": "PERSON",
+        "start": 104271,
+        "end": 104278
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 104452,
+        "end": 104453
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 104468,
+        "end": 104475
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 104484,
+        "end": 104492
+    },
+    {
+        "text": "aileron",
+        "label": "PERSON",
+        "start": 104598,
+        "end": 104605
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 104694,
+        "end": 104699
+    },
+    {
+        "text": "i.c.",
+        "label": "PERSON",
+        "start": 105219,
+        "end": 105223
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 105665,
+        "end": 105666
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 105681,
+        "end": 105688
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 105697,
+        "end": 105705
+    },
+    {
+        "text": "antenna",
+        "label": "PERSON",
+        "start": 106062,
+        "end": 106069
+    },
+    {
+        "text": "ecu-3000",
+        "label": "CARDINAL",
+        "start": 106078,
+        "end": 106086
+    },
+    {
+        "text": "vhf-4000-8,33",
+        "label": "QUANTITY",
+        "start": 106209,
+        "end": 106222
+    },
+    {
+        "text": "ac",
+        "label": "ORG",
+        "start": 106613,
+        "end": 106615
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 107119,
+        "end": 107120
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 107135,
+        "end": 107142
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 107151,
+        "end": 107159
+    },
+    {
+        "text": "control &",
+        "label": "ORG",
+        "start": 107335,
+        "end": 107344
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 107787,
+        "end": 107790
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 108678,
+        "end": 108679
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 108694,
+        "end": 108701
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 108710,
+        "end": 108718
+    },
+    {
+        "text": "assy",
+        "label": "GPE",
+        "start": 109131,
+        "end": 109135
+    },
+    {
+        "text": "antenna",
+        "label": "PERSON",
+        "start": 109597,
+        "end": 109604
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 109835,
+        "end": 109836
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 109851,
+        "end": 109858
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 109867,
+        "end": 109875
+    },
+    {
+        "text": "ac",
+        "label": "ORG",
+        "start": 109999,
+        "end": 110001
+    },
+    {
+        "text": "ac",
+        "label": "ORG",
+        "start": 110067,
+        "end": 110069
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 111033,
+        "end": 111034
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 111049,
+        "end": 111056
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 111065,
+        "end": 111073
+    },
+    {
+        "text": "i.c.",
+        "label": "PERSON",
+        "start": 111556,
+        "end": 111560
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 112038,
+        "end": 112039
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 112054,
+        "end": 112061
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 112070,
+        "end": 112078
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 113502,
+        "end": 113503
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 113518,
+        "end": 113525
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 113534,
+        "end": 113542
+    },
+    {
+        "text": "antenna",
+        "label": "PERSON",
+        "start": 113656,
+        "end": 113663
+    },
+    {
+        "text": "ovsp",
+        "label": "GPE",
+        "start": 113691,
+        "end": 113695
+    },
+    {
+        "text": "ovsp",
+        "label": "GPE",
+        "start": 113911,
+        "end": 113915
+    },
+    {
+        "text": "ac",
+        "label": "ORG",
+        "start": 114023,
+        "end": 114025
+    },
+    {
+        "text": "antenna",
+        "label": "PERSON",
+        "start": 114548,
+        "end": 114555
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 115015,
+        "end": 115016
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 115031,
+        "end": 115038
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 115047,
+        "end": 115055
+    },
+    {
+        "text": "i.c.",
+        "label": "GPE",
+        "start": 115337,
+        "end": 115341
+    },
+    {
+        "text": "kg",
+        "label": "PERSON",
+        "start": 115430,
+        "end": 115432
+    },
+    {
+        "text": "kg",
+        "label": "PERSON",
+        "start": 115465,
+        "end": 115467
+    },
+    {
+        "text": "three",
+        "label": "CARDINAL",
+        "start": 115706,
+        "end": 115711
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 116463,
+        "end": 116464
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 116479,
+        "end": 116486
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 116495,
+        "end": 116503
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 117102,
+        "end": 117105
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 117728,
+        "end": 117729
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 117744,
+        "end": 117751
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 117760,
+        "end": 117768
+    },
+    {
+        "text": "capstan",
+        "label": "GPE",
+        "start": 118067,
+        "end": 118074
+    },
+    {
+        "text": "control &",
+        "label": "ORG",
+        "start": 118459,
+        "end": 118468
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 118557,
+        "end": 118560
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 119064,
+        "end": 119065
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 119080,
+        "end": 119087
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 119096,
+        "end": 119104
+    },
+    {
+        "text": "112vm",
+        "label": "CARDINAL",
+        "start": 119403,
+        "end": 119408
+    },
+    {
+        "text": "114vm",
+        "label": "ORDINAL",
+        "start": 119421,
+        "end": 119426
+    },
+    {
+        "text": "132vm",
+        "label": "CARDINAL",
+        "start": 119475,
+        "end": 119480
+    },
+    {
+        "text": "400vm",
+        "label": "NORP",
+        "start": 119493,
+        "end": 119498
+    },
+    {
+        "text": "6vm",
+        "label": "ORDINAL",
+        "start": 119565,
+        "end": 119568
+    },
+    {
+        "text": "antenna",
+        "label": "PERSON",
+        "start": 119694,
+        "end": 119701
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 120122,
+        "end": 120123
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 120138,
+        "end": 120145
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 120154,
+        "end": 120162
+    },
+    {
+        "text": "assy",
+        "label": "GPE",
+        "start": 120256,
+        "end": 120260
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 120320,
+        "end": 120323
+    },
+    {
+        "text": "reg & s/o",
+        "label": "ORG",
+        "start": 121308,
+        "end": 121317
+    },
+    {
+        "text": "reg & s/o",
+        "label": "ORG",
+        "start": 121341,
+        "end": 121350
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 121574,
+        "end": 121575
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 121590,
+        "end": 121597
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 121606,
+        "end": 121614
+    },
+    {
+        "text": "112vm",
+        "label": "CARDINAL",
+        "start": 122287,
+        "end": 122292
+    },
+    {
+        "text": "114vm",
+        "label": "ORDINAL",
+        "start": 122305,
+        "end": 122310
+    },
+    {
+        "text": "antenna",
+        "label": "PERSON",
+        "start": 122336,
+        "end": 122343
+    },
+    {
+        "text": "antenna",
+        "label": "PERSON",
+        "start": 122369,
+        "end": 122376
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 122586,
+        "end": 122587
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 122602,
+        "end": 122609
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 122618,
+        "end": 122626
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 122837,
+        "end": 122839
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 123026,
+        "end": 123027
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 123042,
+        "end": 123049
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 123058,
+        "end": 123066
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 123128,
+        "end": 123129
+    },
+    {
+        "text": "8)",
+        "label": "CARDINAL",
+        "start": 123230,
+        "end": 123232
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 123280,
+        "end": 123281
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 124409,
+        "end": 124410
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 124425,
+        "end": 124432
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 124441,
+        "end": 124449
+    },
+    {
+        "text": "antenna",
+        "label": "PERSON",
+        "start": 124706,
+        "end": 124713
+    },
+    {
+        "text": "antenna",
+        "label": "PERSON",
+        "start": 124762,
+        "end": 124769
+    },
+    {
+        "text": "vhf-4000-8,33",
+        "label": "QUANTITY",
+        "start": 124881,
+        "end": 124894
+    },
+    {
+        "text": "4000",
+        "label": "CARDINAL",
+        "start": 124907,
+        "end": 124911
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 125767,
+        "end": 125768
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 125783,
+        "end": 125790
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 125799,
+        "end": 125807
+    },
+    {
+        "text": "shaker",
+        "label": "PERSON",
+        "start": 126562,
+        "end": 126568
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 127059,
+        "end": 127060
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 127075,
+        "end": 127082
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 127091,
+        "end": 127099
+    },
+    {
+        "text": "probe(n1",
+        "label": "GPE",
+        "start": 127206,
+        "end": 127214
+    },
+    {
+        "text": "ctl",
+        "label": "ORG",
+        "start": 127736,
+        "end": 127739
+    },
+    {
+        "text": "aileron",
+        "label": "PERSON",
+        "start": 127917,
+        "end": 127924
+    },
+    {
+        "text": "aileron",
+        "label": "PERSON",
+        "start": 127940,
+        "end": 127947
+    },
+    {
+        "text": "aileron",
+        "label": "PERSON",
+        "start": 127962,
+        "end": 127969
+    },
+    {
+        "text": "aileron",
+        "label": "PERSON",
+        "start": 127985,
+        "end": 127992
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 128339,
+        "end": 128340
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 128355,
+        "end": 128362
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 128371,
+        "end": 128379
+    },
+    {
+        "text": "control &",
+        "label": "ORG",
+        "start": 128876,
+        "end": 128885
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 129638,
+        "end": 129639
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 129654,
+        "end": 129661
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 129670,
+        "end": 129678
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 130056,
+        "end": 130059
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 130474,
+        "end": 130477
+    },
+    {
+        "text": "wx.radar",
+        "label": "CARDINAL",
+        "start": 130596,
+        "end": 130604
+    },
+    {
+        "text": "wx.radar",
+        "label": "CARDINAL",
+        "start": 130623,
+        "end": 130631
+    },
+    {
+        "text": "wx.radar",
+        "label": "CARDINAL",
+        "start": 130650,
+        "end": 130658
+    },
+    {
+        "text": "control &",
+        "label": "ORG",
+        "start": 130735,
+        "end": 130744
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 130956,
+        "end": 130957
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 130972,
+        "end": 130979
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 130988,
+        "end": 130996
+    },
+    {
+        "text": "press.xmtr/reg",
+        "label": "GPE",
+        "start": 131660,
+        "end": 131674
+    },
+    {
+        "text": "reg & s/o",
+        "label": "ORG",
+        "start": 131739,
+        "end": 131748
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 132350,
+        "end": 132351
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 132366,
+        "end": 132373
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 132382,
+        "end": 132390
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 133402,
+        "end": 133403
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 133418,
+        "end": 133425
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 133434,
+        "end": 133442
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 133496,
+        "end": 133497
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 134095,
+        "end": 134097
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 134284,
+        "end": 134285
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 134300,
+        "end": 134307
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 134316,
+        "end": 134324
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 134352,
+        "end": 134353
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 134391,
+        "end": 134392
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 134487,
+        "end": 134488
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 134503,
+        "end": 134510
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 134519,
+        "end": 134527
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 134547,
+        "end": 134548
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 134576,
+        "end": 134579
+    },
+    {
+        "text": "1 / 1",
+        "label": "CARDINAL",
+        "start": 134624,
+        "end": 134629
+    },
+    {
+        "text": "yblon\n",
+        "label": "PERSON",
+        "start": 134820,
+        "end": 134826
+    },
+    {
+        "text": "95",
+        "label": "CARDINAL",
+        "start": 134826,
+        "end": 134828
+    },
+    {
+        "text": "500",
+        "label": "CARDINAL",
+        "start": 134829,
+        "end": 134832
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 134845,
+        "end": 134851
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 134852,
+        "end": 134858
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 135395,
+        "end": 135398
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 135400,
+        "end": 135401
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 135472,
+        "end": 135473
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 135488,
+        "end": 135495
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 135504,
+        "end": 135512
+    },
+    {
+        "text": "7-3",
+        "label": "CARDINAL",
+        "start": 135532,
+        "end": 135535
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 135597,
+        "end": 135600
+    },
+    {
+        "text": "1 / 1",
+        "label": "CARDINAL",
+        "start": 135645,
+        "end": 135650
+    },
+    {
+        "text": "yblon\n",
+        "label": "PERSON",
+        "start": 135877,
+        "end": 135883
+    },
+    {
+        "text": "95",
+        "label": "CARDINAL",
+        "start": 135883,
+        "end": 135885
+    },
+    {
+        "text": "500",
+        "label": "CARDINAL",
+        "start": 135886,
+        "end": 135889
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 135902,
+        "end": 135908
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 135909,
+        "end": 135915
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 136363,
+        "end": 136366
+    },
+    {
+        "text": "7-3",
+        "label": "CARDINAL",
+        "start": 136368,
+        "end": 136371
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 136440,
+        "end": 136441
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 136456,
+        "end": 136463
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 136472,
+        "end": 136480
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 136510,
+        "end": 136513
+    },
+    {
+        "text": "1 / 1",
+        "label": "CARDINAL",
+        "start": 136549,
+        "end": 136554
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 136718,
+        "end": 136720
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 136722,
+        "end": 136723
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 136757,
+        "end": 136759
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 136761,
+        "end": 136762
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 136800,
+        "end": 136802
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 136804,
+        "end": 136805
+    },
+    {
+        "text": "33",
+        "label": "CARDINAL",
+        "start": 136839,
+        "end": 136841
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 136843,
+        "end": 136844
+    },
+    {
+        "text": "62",
+        "label": "DATE",
+        "start": 136854,
+        "end": 136856
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 137220,
+        "end": 137223
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 137225,
+        "end": 137226
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 137297,
+        "end": 137298
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 137313,
+        "end": 137320
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 137329,
+        "end": 137337
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 137399,
+        "end": 137400
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 137422,
+        "end": 137423
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 137604,
+        "end": 137605
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 137641,
+        "end": 137644
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 137682,
+        "end": 137683
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 137847,
+        "end": 137850
+    },
+    {
+        "text": "two thousand fourteen",
+        "label": "CARDINAL",
+        "start": 137941,
+        "end": 137962
+    },
+    {
+        "text": "2014",
+        "label": "DATE",
+        "start": 137964,
+        "end": 137968
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 138044,
+        "end": 138048
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 138102,
+        "end": 138103
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 138130,
+        "end": 138134
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 138188,
+        "end": 138189
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 138216,
+        "end": 138220
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 138233,
+        "end": 138238
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 138307,
+        "end": 138311
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 138323,
+        "end": 138329
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 138451,
+        "end": 138455
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 138522,
+        "end": 138528
+    },
+    {
+        "text": "2011",
+        "label": "DATE",
+        "start": 138640,
+        "end": 138644
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 138687,
+        "end": 138688
+    },
+    {
+        "text": "2013",
+        "label": "DATE",
+        "start": 138732,
+        "end": 138736
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 138779,
+        "end": 138780
+    },
+    {
+        "text": "2014",
+        "label": "DATE",
+        "start": 138824,
+        "end": 138828
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 138871,
+        "end": 138872
+    },
+    {
+        "text": "2014",
+        "label": "DATE",
+        "start": 138916,
+        "end": 138920
+    },
+    {
+        "text": "2014",
+        "label": "DATE",
+        "start": 138953,
+        "end": 138957
+    },
+    {
+        "text": "2014",
+        "label": "DATE",
+        "start": 139019,
+        "end": 139023
+    },
+    {
+        "text": "2014",
+        "label": "DATE",
+        "start": 139114,
+        "end": 139118
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 139290,
+        "end": 139291
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 139306,
+        "end": 139313
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 139322,
+        "end": 139330
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 139445,
+        "end": 139446
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 139502,
+        "end": 139504
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 139619,
+        "end": 139625
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 139835,
+        "end": 139836
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 139965,
+        "end": 139968
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 140003,
+        "end": 140008
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 140708,
+        "end": 140711
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 141495,
+        "end": 141498
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 141548,
+        "end": 141551
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 142802,
+        "end": 142803
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 142818,
+        "end": 142825
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 142834,
+        "end": 142842
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 143001,
+        "end": 143002
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 143102,
+        "end": 143104
+    },
+    {
+        "text": "003",
+        "label": "CARDINAL",
+        "start": 143290,
+        "end": 143293
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 143399,
+        "end": 143402
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 143508,
+        "end": 143511
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 143635,
+        "end": 143638
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 143935,
+        "end": 143938
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 144244,
+        "end": 144245
+    },
+    {
+        "text": "66",
+        "label": "DATE",
+        "start": 144341,
+        "end": 144343
+    },
+    {
+        "text": "itatinga",
+        "label": "PERSON",
+        "start": 144352,
+        "end": 144360
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 144384,
+        "end": 144390
+    },
+    {
+        "text": "13052",
+        "label": "CARDINAL",
+        "start": 144395,
+        "end": 144400
+    },
+    {
+        "text": "portugal",
+        "label": "GPE",
+        "start": 144413,
+        "end": 144421
+    },
+    {
+        "text": "5139",
+        "label": "DATE",
+        "start": 144423,
+        "end": 144427
+    },
+    {
+        "text": "belo",
+        "label": "PERSON",
+        "start": 144438,
+        "end": 144442
+    },
+    {
+        "text": "brazil",
+        "label": "GPE",
+        "start": 144468,
+        "end": 144474
+    },
+    {
+        "text": "four",
+        "label": "CARDINAL",
+        "start": 144618,
+        "end": 144622
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 144624,
+        "end": 144625
+    },
+    {
+        "text": "landlord",
+        "label": "PERSON",
+        "start": 145200,
+        "end": 145208
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 145626,
+        "end": 145627
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 145642,
+        "end": 145649
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 145658,
+        "end": 145666
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 145823,
+        "end": 145824
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 145889,
+        "end": 145890
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 145950,
+        "end": 145951
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 146336,
+        "end": 146337
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 146564,
+        "end": 146565
+    },
+    {
+        "text": "10 and/or ",
+        "label": "QUANTITY",
+        "start": 146755,
+        "end": 146765
+    },
+    {
+        "text": "003",
+        "label": "CARDINAL",
+        "start": 146922,
+        "end": 146925
+    },
+    {
+        "text": "10 and/or",
+        "label": "QUANTITY",
+        "start": 147319,
+        "end": 147328
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 147337,
+        "end": 147339
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 147614,
+        "end": 147615
+    },
+    {
+        "text": "and/or overhaul",
+        "label": "PERSON",
+        "start": 147750,
+        "end": 147765
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 148049,
+        "end": 148052
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 148068,
+        "end": 148070
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 148114,
+        "end": 148121
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 148346,
+        "end": 148347
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 148362,
+        "end": 148369
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 148378,
+        "end": 148386
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 148440,
+        "end": 148441
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 148466,
+        "end": 148469
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 148635,
+        "end": 148638
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 149072,
+        "end": 149075
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 149486,
+        "end": 149488
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 149512,
+        "end": 149515
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 149973,
+        "end": 149975
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 149999,
+        "end": 150002
+    },
+    {
+        "text": "6.5",
+        "label": "CARDINAL",
+        "start": 150662,
+        "end": 150665
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 151078,
+        "end": 151081
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 151423,
+        "end": 151424
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 151439,
+        "end": 151446
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 151455,
+        "end": 151463
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 151483,
+        "end": 151484
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 151532,
+        "end": 151535
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 151684,
+        "end": 151686
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 151721,
+        "end": 151724
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 151766,
+        "end": 151767
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 151901,
+        "end": 151902
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 152033,
+        "end": 152035
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 152195,
+        "end": 152199
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 152460,
+        "end": 152463
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 152466,
+        "end": 152469
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 153383,
+        "end": 153386
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 153426,
+        "end": 153427
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 153443,
+        "end": 153444
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 153767,
+        "end": 153768
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 153784,
+        "end": 153785
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 153908,
+        "end": 153909
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 154067,
+        "end": 154068
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 154083,
+        "end": 154090
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 154099,
+        "end": 154107
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 154169,
+        "end": 154170
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 154339,
+        "end": 154340
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 154559,
+        "end": 154560
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 154632,
+        "end": 154633
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 154797,
+        "end": 154799
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 154973,
+        "end": 154974
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 155077,
+        "end": 155080
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 155096,
+        "end": 155098
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 155152,
+        "end": 155153
+    },
+    {
+        "text": "lru",
+        "label": "PERSON",
+        "start": 155229,
+        "end": 155232
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 155317,
+        "end": 155320
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 155321,
+        "end": 155322
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 155336,
+        "end": 155337
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 155359,
+        "end": 155360
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 155388,
+        "end": 155391
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 155709,
+        "end": 155712
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 155817,
+        "end": 155820
+    },
+    {
+        "text": "the day",
+        "label": "DATE",
+        "start": 156025,
+        "end": 156032
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 156145,
+        "end": 156148
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 156249,
+        "end": 156252
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 156457,
+        "end": 156458
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 156473,
+        "end": 156480
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 156489,
+        "end": 156497
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 156983,
+        "end": 156986
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 157007,
+        "end": 157008
+    },
+    {
+        "text": "3.2 (ii",
+        "label": "MONEY",
+        "start": 157059,
+        "end": 157066
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 157084,
+        "end": 157085
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 157263,
+        "end": 157268
+    },
+    {
+        "text": "3.2(iii",
+        "label": "CARDINAL",
+        "start": 157710,
+        "end": 157717
+    },
+    {
+        "text": "003",
+        "label": "CARDINAL",
+        "start": 157881,
+        "end": 157884
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 158005,
+        "end": 158006
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 158176,
+        "end": 158177
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 158198,
+        "end": 158201
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 158298,
+        "end": 158299
+    },
+    {
+        "text": "ref",
+        "label": "ORG",
+        "start": 158354,
+        "end": 158357
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 158358,
+        "end": 158359
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 158529,
+        "end": 158530
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 158712,
+        "end": 158713
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 158908,
+        "end": 158909
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 159352,
+        "end": 159355
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 159539,
+        "end": 159540
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 159747,
+        "end": 159748
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 159763,
+        "end": 159770
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 159779,
+        "end": 159787
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 159981,
+        "end": 159982
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 160258,
+        "end": 160259
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 160404,
+        "end": 160405
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 160637,
+        "end": 160638
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 160755,
+        "end": 160756
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 161442,
+        "end": 161444
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 161543,
+        "end": 161546
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 161661,
+        "end": 161664
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 161724,
+        "end": 161726
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 161753,
+        "end": 161754
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 162115,
+        "end": 162120
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 162208,
+        "end": 162213
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 162547,
+        "end": 162548
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 162665,
+        "end": 162666
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 162686,
+        "end": 162687
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 162766,
+        "end": 162768
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 162928,
+        "end": 162931
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 162948,
+        "end": 162949
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 163250,
+        "end": 163254
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 163504,
+        "end": 163505
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 163520,
+        "end": 163527
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 163536,
+        "end": 163544
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 163612,
+        "end": 163613
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 163633,
+        "end": 163634
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 163686,
+        "end": 163688
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 163879,
+        "end": 163882
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 163978,
+        "end": 163981
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 164185,
+        "end": 164188
+    },
+    {
+        "text": "and/or (ii",
+        "label": "PERSON",
+        "start": 164281,
+        "end": 164291
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 164379,
+        "end": 164382
+    },
+    {
+        "text": "6.4",
+        "label": "CARDINAL",
+        "start": 164391,
+        "end": 164394
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 164624,
+        "end": 164625
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 164643,
+        "end": 164644
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 164987,
+        "end": 164989
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 165126,
+        "end": 165127
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 166116,
+        "end": 166121
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 166577,
+        "end": 166582
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 166698,
+        "end": 166699
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 166714,
+        "end": 166721
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 166730,
+        "end": 166738
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 166800,
+        "end": 166802
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 166826,
+        "end": 166827
+    },
+    {
+        "text": "145",
+        "label": "CARDINAL",
+        "start": 167023,
+        "end": 167026
+    },
+    {
+        "text": "003",
+        "label": "CARDINAL",
+        "start": 167166,
+        "end": 167169
+    },
+    {
+        "text": "december",
+        "label": "DATE",
+        "start": 167550,
+        "end": 167558
+    },
+    {
+        "text": "2015;",
+        "label": "CARDINAL",
+        "start": 167562,
+        "end": 167567
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 167893,
+        "end": 167894
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 168089,
+        "end": 168090
+    },
+    {
+        "text": "7-3",
+        "label": "CARDINAL",
+        "start": 168152,
+        "end": 168155
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 168192,
+        "end": 168193
+    },
+    {
+        "text": "lru",
+        "label": "PERSON",
+        "start": 168356,
+        "end": 168359
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 168397,
+        "end": 168398
+    },
+    {
+        "text": "003",
+        "label": "CARDINAL",
+        "start": 168461,
+        "end": 168464
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 168606,
+        "end": 168607
+    },
+    {
+        "text": "lru",
+        "label": "PERSON",
+        "start": 168642,
+        "end": 168645
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 168796,
+        "end": 168798
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 169416,
+        "end": 169417
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 169432,
+        "end": 169439
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 169448,
+        "end": 169456
+    },
+    {
+        "text": "lru",
+        "label": "PERSON",
+        "start": 169827,
+        "end": 169830
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 170333,
+        "end": 170334
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 171101,
+        "end": 171102
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 171547,
+        "end": 171549
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 171736,
+        "end": 171737
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 171752,
+        "end": 171759
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 171768,
+        "end": 171776
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 171838,
+        "end": 171840
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 171867,
+        "end": 171868
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 171894,
+        "end": 171897
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 171986,
+        "end": 171987
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 172004,
+        "end": 172006
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 172040,
+        "end": 172041
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 172058,
+        "end": 172060
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 172138,
+        "end": 172139
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 172401,
+        "end": 172403
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 172684,
+        "end": 172685
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 172702,
+        "end": 172704
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 172707,
+        "end": 172710
+    },
+    {
+        "text": "mrbr and/or mpd",
+        "label": "PERSON",
+        "start": 173133,
+        "end": 173148
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 173269,
+        "end": 173270
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 173322,
+        "end": 173325
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 173759,
+        "end": 173760
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 173775,
+        "end": 173782
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 173791,
+        "end": 173799
+    },
+    {
+        "text": "1.3.2",
+        "label": "CARDINAL",
+        "start": 173901,
+        "end": 173906
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 173922,
+        "end": 173924
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 173951,
+        "end": 173954
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 174156,
+        "end": 174159
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 174171,
+        "end": 174173
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 174250,
+        "end": 174253
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 174270,
+        "end": 174272
+    },
+    {
+        "text": "1.3.2",
+        "label": "CARDINAL",
+        "start": 174384,
+        "end": 174389
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 174405,
+        "end": 174407
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 174444,
+        "end": 174447
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 174658,
+        "end": 174659
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 174931,
+        "end": 174932
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 174951,
+        "end": 174952
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 175070,
+        "end": 175073
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 175089,
+        "end": 175091
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 175232,
+        "end": 175235
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 175376,
+        "end": 175377
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 175591,
+        "end": 175592
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 175607,
+        "end": 175614
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 175623,
+        "end": 175631
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 175685,
+        "end": 175688
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 176083,
+        "end": 176084
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 176101,
+        "end": 176103
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 176273,
+        "end": 176276
+    },
+    {
+        "text": "7-4",
+        "label": "CARDINAL",
+        "start": 176501,
+        "end": 176504
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 176507,
+        "end": 176508
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 177894,
+        "end": 177896
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 178534,
+        "end": 178536
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 178560,
+        "end": 178561
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 178669,
+        "end": 178672
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 178689,
+        "end": 178691
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 178936,
+        "end": 178937
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 178952,
+        "end": 178959
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 178968,
+        "end": 178976
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 179570,
+        "end": 179571
+    },
+    {
+        "text": "5.1",
+        "label": "CARDINAL",
+        "start": 179770,
+        "end": 179773
+    },
+    {
+        "text": "5.2",
+        "label": "CARDINAL",
+        "start": 180272,
+        "end": 180275
+    },
+    {
+        "text": "631-32-218",
+        "label": "CARDINAL",
+        "start": 180389,
+        "end": 180399
+    },
+    {
+        "text": "tires;",
+        "label": "PERSON",
+        "start": 180526,
+        "end": 180532
+    },
+    {
+        "text": "5.3",
+        "label": "CARDINAL",
+        "start": 180917,
+        "end": 180920
+    },
+    {
+        "text": "5.4",
+        "label": "CARDINAL",
+        "start": 180949,
+        "end": 180952
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 182008,
+        "end": 182009
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 182024,
+        "end": 182031
+    },
+    {
+        "text": "3/3/2017",
+        "label": "PRODUCT",
+        "start": 182040,
+        "end": 182048
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 182057,
+        "end": 182064
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 182073,
+        "end": 182081
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 182233,
+        "end": 182234
+    },
+    {
+        "text": "1.3.2",
+        "label": "CARDINAL",
+        "start": 182407,
+        "end": 182412
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 182428,
+        "end": 182430
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 183533,
+        "end": 183538
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 183628,
+        "end": 183633
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 184090,
+        "end": 184091
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 184217,
+        "end": 184219
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 184227,
+        "end": 184230
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 184360,
+        "end": 184361
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 185187,
+        "end": 185188
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 185203,
+        "end": 185210
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 185219,
+        "end": 185227
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 185604,
+        "end": 185605
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 186009,
+        "end": 186010
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 186025,
+        "end": 186032
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 186041,
+        "end": 186049
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 186077,
+        "end": 186079
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 186174,
+        "end": 186175
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 186190,
+        "end": 186197
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 186206,
+        "end": 186214
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 186242,
+        "end": 186244
+    },
+    {
+        "text": "addressee bank",
+        "label": "GPE",
+        "start": 186304,
+        "end": 186318
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 186663,
+        "end": 186664
+    },
+    {
+        "text": "31712",
+        "label": "DATE",
+        "start": 186684,
+        "end": 186689
+    },
+    {
+        "text": "france",
+        "label": "GPE",
+        "start": 186699,
+        "end": 186705
+    },
+    {
+        "text": "twelve",
+        "label": "CARDINAL",
+        "start": 186794,
+        "end": 186800
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 186802,
+        "end": 186804
+    },
+    {
+        "text": "months",
+        "label": "DATE",
+        "start": 186806,
+        "end": 186812
+    },
+    {
+        "text": "below);",
+        "label": "PERSON",
+        "start": 186851,
+        "end": 186858
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 187185,
+        "end": 187186
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 187419,
+        "end": 187420
+    },
+    {
+        "text": "2007",
+        "label": "DATE",
+        "start": 187819,
+        "end": 187823
+    },
+    {
+        "text": "600",
+        "label": "CARDINAL",
+        "start": 187947,
+        "end": 187950
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 188081,
+        "end": 188082
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 188097,
+        "end": 188104
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 188113,
+        "end": 188121
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 188183,
+        "end": 188185
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 188206,
+        "end": 188207
+    },
+    {
+        "text": "two thousand",
+        "label": "CARDINAL",
+        "start": 188383,
+        "end": 188395
+    },
+    {
+        "text": "fifteen (2015",
+        "label": "DATE",
+        "start": 188400,
+        "end": 188413
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 188417,
+        "end": 188420
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 188529,
+        "end": 188530
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 188545,
+        "end": 188546
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 188686,
+        "end": 188687
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 188719,
+        "end": 188722
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 188809,
+        "end": 188812
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 188828,
+        "end": 188829
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 188874,
+        "end": 188877
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 189132,
+        "end": 189139
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 189431,
+        "end": 189434
+    },
+    {
+        "text": "1.1 (ii",
+        "label": "MONEY",
+        "start": 189563,
+        "end": 189570
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 189585,
+        "end": 189588
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 189707,
+        "end": 189708
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 189819,
+        "end": 189822
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 190201,
+        "end": 190202
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 190217,
+        "end": 190224
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 190233,
+        "end": 190241
+    },
+    {
+        "text": "1.3.2",
+        "label": "CARDINAL",
+        "start": 190322,
+        "end": 190327
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 191033,
+        "end": 191034
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 191049,
+        "end": 191056
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 191065,
+        "end": 191073
+    },
+    {
+        "text": "42-500",
+        "label": "CARDINAL",
+        "start": 191195,
+        "end": 191201
+    },
+    {
+        "text": "72-500",
+        "label": "CARDINAL",
+        "start": 191203,
+        "end": 191209
+    },
+    {
+        "text": "72",
+        "label": "CARDINAL",
+        "start": 191211,
+        "end": 191213
+    },
+    {
+        "text": "1.3.3",
+        "label": "CARDINAL",
+        "start": 191680,
+        "end": 191685
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 191888,
+        "end": 191889
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 191920,
+        "end": 191923
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 191952,
+        "end": 191955
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 192179,
+        "end": 192180
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 192195,
+        "end": 192202
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 192211,
+        "end": 192219
+    },
+    {
+        "text": "11.1",
+        "label": "CARDINAL",
+        "start": 192396,
+        "end": 192400
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 192745,
+        "end": 192748
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 193236,
+        "end": 193239
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 193258,
+        "end": 193261
+    },
+    {
+        "text": "1.3.2",
+        "label": "CARDINAL",
+        "start": 193341,
+        "end": 193346
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 193363,
+        "end": 193365
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 193438,
+        "end": 193441
+    },
+    {
+        "text": "1.3.2",
+        "label": "CARDINAL",
+        "start": 193623,
+        "end": 193628
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 193633,
+        "end": 193634
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 193651,
+        "end": 193653
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 193732,
+        "end": 193735
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 193899,
+        "end": 193900
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 193992,
+        "end": 193995
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 194000,
+        "end": 194003
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 194015,
+        "end": 194018
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 194442,
+        "end": 194443
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 194458,
+        "end": 194465
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 194474,
+        "end": 194482
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 194560,
+        "end": 194568
+    },
+    {
+        "text": "current year",
+        "label": "DATE",
+        "start": 194644,
+        "end": 194656
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 194676,
+        "end": 194684
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 194719,
+        "end": 194727
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 194750,
+        "end": 194758
+    },
+    {
+        "text": "the year",
+        "label": "DATE",
+        "start": 194793,
+        "end": 194801
+    },
+    {
+        "text": "1.1",
+        "label": "CARDINAL",
+        "start": 194855,
+        "end": 194858
+    },
+    {
+        "text": "14",
+        "label": "DATE",
+        "start": 194874,
+        "end": 194876
+    },
+    {
+        "text": "1.2",
+        "label": "CARDINAL",
+        "start": 194917,
+        "end": 194920
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 194936,
+        "end": 194938
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 195001,
+        "end": 195004
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 195016,
+        "end": 195019
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 195035,
+        "end": 195037
+    },
+    {
+        "text": "3.1.2",
+        "label": "CARDINAL",
+        "start": 195071,
+        "end": 195076
+    },
+    {
+        "text": "annual",
+        "label": "DATE",
+        "start": 195296,
+        "end": 195302
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 195329,
+        "end": 195332
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 195348,
+        "end": 195350
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 195353,
+        "end": 195356
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 195437,
+        "end": 195439
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 195528,
+        "end": 195530
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 196244,
+        "end": 196245
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 196260,
+        "end": 196267
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 196276,
+        "end": 196284
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 196350,
+        "end": 196351
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 196376,
+        "end": 196379
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 196421,
+        "end": 196424
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 196696,
+        "end": 196698
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 196733,
+        "end": 196734
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 196838,
+        "end": 196840
+    },
+    {
+        "text": "1.3",
+        "label": "CARDINAL",
+        "start": 197173,
+        "end": 197176
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 197181,
+        "end": 197182
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 197199,
+        "end": 197201
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 197236,
+        "end": 197241
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 197250,
+        "end": 197251
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 197300,
+        "end": 197303
+    },
+    {
+        "text": "one",
+        "label": "CARDINAL",
+        "start": 197355,
+        "end": 197358
+    },
+    {
+        "text": "72",
+        "label": "CARDINAL",
+        "start": 197652,
+        "end": 197654
+    },
+    {
+        "text": "1.3.2",
+        "label": "CARDINAL",
+        "start": 197708,
+        "end": 197713
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 197729,
+        "end": 197731
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 197859,
+        "end": 197860
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 197876,
+        "end": 197878
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 197952,
+        "end": 197954
+    },
+    {
+        "text": "11",
+        "label": "CARDINAL",
+        "start": 197959,
+        "end": 197961
+    },
+    {
+        "text": "easa",
+        "label": "ORG",
+        "start": 198145,
+        "end": 198149
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 198456,
+        "end": 198457
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 198472,
+        "end": 198479
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 198488,
+        "end": 198496
+    },
+    {
+        "text": "72",
+        "label": "CARDINAL",
+        "start": 198572,
+        "end": 198574
+    },
+    {
+        "text": "72",
+        "label": "CARDINAL",
+        "start": 198587,
+        "end": 198589
+    },
+    {
+        "text": "the hours",
+        "label": "TIME",
+        "start": 198614,
+        "end": 198623
+    },
+    {
+        "text": "72",
+        "label": "CARDINAL",
+        "start": 198642,
+        "end": 198644
+    },
+    {
+        "text": "the hours",
+        "label": "TIME",
+        "start": 198669,
+        "end": 198678
+    },
+    {
+        "text": "42",
+        "label": "CARDINAL",
+        "start": 198698,
+        "end": 198700
+    },
+    {
+        "text": "72",
+        "label": "CARDINAL",
+        "start": 198713,
+        "end": 198715
+    },
+    {
+        "text": "the hours",
+        "label": "TIME",
+        "start": 198739,
+        "end": 198748
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 199489,
+        "end": 199492
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 200093,
+        "end": 200094
+    },
+    {
+        "text": "6.3",
+        "label": "CARDINAL",
+        "start": 200097,
+        "end": 200100
+    },
+    {
+        "text": "11.2",
+        "label": "CARDINAL",
+        "start": 200187,
+        "end": 200191
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 200379,
+        "end": 200380
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 200395,
+        "end": 200402
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 200411,
+        "end": 200419
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 200481,
+        "end": 200483
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 200509,
+        "end": 200510
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 200947,
+        "end": 200948
+    },
+    {
+        "text": "2.1",
+        "label": "CARDINAL",
+        "start": 201000,
+        "end": 201003
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 201068,
+        "end": 201070
+    },
+    {
+        "text": "2.2",
+        "label": "CARDINAL",
+        "start": 201293,
+        "end": 201296
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 201471,
+        "end": 201472
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 201607,
+        "end": 201609
+    },
+    {
+        "text": "2.3",
+        "label": "CARDINAL",
+        "start": 201630,
+        "end": 201633
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 201804,
+        "end": 201806
+    },
+    {
+        "text": "2.4",
+        "label": "CARDINAL",
+        "start": 201884,
+        "end": 201887
+    },
+    {
+        "text": "2010",
+        "label": "DATE",
+        "start": 201951,
+        "end": 201955
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 202028,
+        "end": 202030
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 202260,
+        "end": 202262
+    },
+    {
+        "text": "3",
+        "label": "CARDINAL",
+        "start": 202366,
+        "end": 202367
+    },
+    {
+        "text": "3.1",
+        "label": "CARDINAL",
+        "start": 202380,
+        "end": 202383
+    },
+    {
+        "text": "003",
+        "label": "CARDINAL",
+        "start": 202545,
+        "end": 202548
+    },
+    {
+        "text": "easa",
+        "label": "ORG",
+        "start": 202550,
+        "end": 202554
+    },
+    {
+        "text": "6.1",
+        "label": "CARDINAL",
+        "start": 202640,
+        "end": 202643
+    },
+    {
+        "text": "3.2",
+        "label": "CARDINAL",
+        "start": 202740,
+        "end": 202743
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 203181,
+        "end": 203182
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 203197,
+        "end": 203204
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 203213,
+        "end": 203221
+    },
+    {
+        "text": "3.3",
+        "label": "CARDINAL",
+        "start": 203275,
+        "end": 203278
+    },
+    {
+        "text": "3.4",
+        "label": "CARDINAL",
+        "start": 203651,
+        "end": 203654
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 204065,
+        "end": 204067
+    },
+    {
+        "text": "4",
+        "label": "CARDINAL",
+        "start": 204088,
+        "end": 204089
+    },
+    {
+        "text": "4.1",
+        "label": "CARDINAL",
+        "start": 204129,
+        "end": 204132
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 205206,
+        "end": 205207
+    },
+    {
+        "text": "third",
+        "label": "ORDINAL",
+        "start": 205333,
+        "end": 205338
+    },
+    {
+        "text": "4.2",
+        "label": "CARDINAL",
+        "start": 206072,
+        "end": 206075
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 206421,
+        "end": 206422
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 206437,
+        "end": 206444
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 206453,
+        "end": 206461
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 206562,
+        "end": 206563
+    },
+    {
+        "text": "4.3",
+        "label": "CARDINAL",
+        "start": 206707,
+        "end": 206710
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 207599,
+        "end": 207600
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 207623,
+        "end": 207624
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 207783,
+        "end": 207788
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 208238,
+        "end": 208241
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 209025,
+        "end": 209026
+    },
+    {
+        "text": "7.1",
+        "label": "CARDINAL",
+        "start": 209076,
+        "end": 209079
+    },
+    {
+        "text": "5",
+        "label": "CARDINAL",
+        "start": 209131,
+        "end": 209132
+    },
+    {
+        "text": "15",
+        "label": "CARDINAL",
+        "start": 209149,
+        "end": 209151
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 209339,
+        "end": 209340
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 209355,
+        "end": 209362
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 209371,
+        "end": 209379
+    },
+    {
+        "text": "6.2",
+        "label": "CARDINAL",
+        "start": 209555,
+        "end": 209558
+    },
+    {
+        "text": "7.2",
+        "label": "CARDINAL",
+        "start": 209713,
+        "end": 209716
+    },
+    {
+        "text": "7.3",
+        "label": "CARDINAL",
+        "start": 210379,
+        "end": 210382
+    },
+    {
+        "text": "part(s",
+        "label": "PERSON",
+        "start": 210595,
+        "end": 210601
+    },
+    {
+        "text": "13",
+        "label": "CARDINAL",
+        "start": 210850,
+        "end": 210852
+    },
+    {
+        "text": "7.4",
+        "label": "CARDINAL",
+        "start": 210855,
+        "end": 210858
+    },
+    {
+        "text": "8",
+        "label": "CARDINAL",
+        "start": 211474,
+        "end": 211475
+    },
+    {
+        "text": "8.1",
+        "label": "CARDINAL",
+        "start": 211525,
+        "end": 211528
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 211691,
+        "end": 211693
+    },
+    {
+        "text": "8.2",
+        "label": "CARDINAL",
+        "start": 211696,
+        "end": 211699
+    },
+    {
+        "text": "6",
+        "label": "CARDINAL",
+        "start": 211741,
+        "end": 211742
+    },
+    {
+        "text": "9",
+        "label": "CARDINAL",
+        "start": 211754,
+        "end": 211755
+    },
+    {
+        "text": "10",
+        "label": "CARDINAL",
+        "start": 212060,
+        "end": 212062
+    },
+    {
+        "text": "12",
+        "label": "CARDINAL",
+        "start": 212067,
+        "end": 212069
+    },
+    {
+        "text": "lien",
+        "label": "PERSON",
+        "start": 212229,
+        "end": 212233
+    },
+    {
+        "text": "8.3",
+        "label": "CARDINAL",
+        "start": 212896,
+        "end": 212899
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 213160,
+        "end": 213161
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 213176,
+        "end": 213183
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 213192,
+        "end": 213200
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 214355,
+        "end": 214356
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 214371,
+        "end": 214378
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 214387,
+        "end": 214395
+    },
+    {
+        "text": "16",
+        "label": "CARDINAL",
+        "start": 214457,
+        "end": 214459
+    },
+    {
+        "text": "two",
+        "label": "CARDINAL",
+        "start": 214519,
+        "end": 214522
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 214524,
+        "end": 214525
+    },
+    {
+        "text": "first",
+        "label": "ORDINAL",
+        "start": 214573,
+        "end": 214578
+    },
+    {
+        "text": "second",
+        "label": "ORDINAL",
+        "start": 215075,
+        "end": 215081
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 215635,
+        "end": 215636
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 215651,
+        "end": 215658
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 215667,
+        "end": 215675
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 216356,
+        "end": 216358
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 216545,
+        "end": 216546
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 216561,
+        "end": 216568
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 216577,
+        "end": 216585
+    },
+    {
+        "text": "17",
+        "label": "CARDINAL",
+        "start": 216613,
+        "end": 216615
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 216757,
+        "end": 216759
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 216845,
+        "end": 216846
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 216861,
+        "end": 216868
+    },
+    {
+        "text": "3/3/2017",
+        "label": "CARDINAL",
+        "start": 216877,
+        "end": 216885
+    },
+    {
+        "text": "18",
+        "label": "CARDINAL",
+        "start": 216913,
+        "end": 216915
+    },
+    {
+        "text": "nota",
+        "label": "GPE",
+        "start": 216918,
+        "end": 216922
+    },
+    {
+        "text": "1",
+        "label": "CARDINAL",
+        "start": 216950,
+        "end": 216951
+    },
+    {
+        "text": "5949",
+        "label": "CARDINAL",
+        "start": 217139,
+        "end": 217143
+    },
+    {
+        "text": "5949",
+        "label": "CARDINAL",
+        "start": 217191,
+        "end": 217195
+    },
+    {
+        "text": "2",
+        "label": "CARDINAL",
+        "start": 217316,
+        "end": 217317
+    },
+    {
+        "text": "monthly",
+        "label": "DATE",
+        "start": 217386,
+        "end": 217393
+    },
+    {
+        "text": "5949",
+        "label": "CARDINAL",
+        "start": 217447,
+        "end": 217451
+    },
+    {
+        "text": "5949",
+        "label": "CARDINAL",
+        "start": 217499,
+        "end": 217503
+    },
+    {
+        "text": "14",
+        "label": "CARDINAL",
+        "start": 217669,
+        "end": 217671
+    },
+    {
+        "text": "7",
+        "label": "CARDINAL",
+        "start": 217757,
+        "end": 217758
+    },
+    {
+        "text": "azul sa",
+        "label": "ORG",
+        "start": 217773,
+        "end": 217780
+    }
+]
