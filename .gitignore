@@ -1,0 +1,6 @@
+data/
+*.index
+*.faiss
+*.pkl
+__pycache__/
+*.pyc
