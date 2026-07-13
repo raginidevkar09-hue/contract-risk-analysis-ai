@@ -1,50 +1,44 @@
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_community.vectorstores import FAISS
-from langchain_core.prompts import PromptTemplate
+import sys
+from pathlib import Path
 
-embedding_model = HuggingFaceEmbeddings(
-    model_name="BAAI/bge-small-en-v1.5"
-)
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+sys.path.append(str(PROJECT_ROOT))
 
-vector_db = FAISS.load_local(
-    "data/vector_db",
-    embedding_model,
-    allow_dangerous_deserialization=True
-)
+from src.llm.rag_chain import run_rag
 
-retriever = vector_db.as_retriever(
-    search_kwargs={"k": 5}
-)
 
-prompt = PromptTemplate(
-    input_variables=["context", "question"],
-    template="""
-You are a Contract Risk Analysis Assistant.
+def main():
 
-Answer ONLY from the provided context.
+    question = input("Enter your question: ")
 
-Context:
-{context}
+    print("\nAvailable Prompt Types")
+    print("----------------------")
+    print("1. zero_shot")
+    print("2. few_shot")
+    print("3. chain_of_thought")
 
-Question:
-{question}
+    prompt_type = input("\nSelect Prompt Type: ").strip()
 
-Answer:
-"""
-)
+    result = run_rag(
+        question=question,
+        prompt_type=prompt_type
+    )
 
-question = input("Question: ")
+    print("\n" + "=" * 80)
+    print("Question")
+    print("=" * 80)
+    print(result["question"])
 
-documents = retriever.invoke(question)
+    print("\n" + "=" * 80)
+    print("Retrieved Context")
+    print("=" * 80)
+    print(result["context"])
 
-context = "\n\n".join(
-    doc.page_content
-    for doc in documents
-)
+    print("\n" + "=" * 80)
+    print("LLM Answer")
+    print("=" * 80)
+    print(result["answer"])
 
-final_prompt = prompt.format(
-    context=context,
-    question=question
-)
 
-print(final_prompt)
+if __name__ == "__main__":
+    main()
