@@ -1,4 +1,5 @@
 import sys
+import json
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -16,6 +17,8 @@ def main():
     print("1. zero_shot")
     print("2. few_shot")
     print("3. chain_of_thought")
+    print("4. json_output")
+    print("5. risk_analysis")
 
     prompt_type = input("\nSelect Prompt Type: ").strip()
 
@@ -37,8 +40,7 @@ def main():
     print("\n" + "=" * 80)
     print("LLM Answer")
     print("=" * 80)
-    print(result["answer"])
-
+    print(json.dumps(result["answer"],indent=4))
 
 if __name__ == "__main__":
     main()

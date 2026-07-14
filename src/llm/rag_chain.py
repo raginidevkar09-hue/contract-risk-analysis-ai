@@ -1,5 +1,7 @@
 import sys
+import json
 from pathlib import Path
+import re
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 sys.path.append(str(PROJECT_ROOT))
@@ -9,7 +11,7 @@ from langchain_core.prompts import PromptTemplate
 from src.retrieval.retriever import retrieve
 from src.rag.prompt_factory import get_prompt
 from src.llm.local_llm import generate_answer
-
+from src.rag.output_schema import ContractAnalysis
 
 def run_rag(question: str, prompt_type: str = "zero_shot", top_k: int = 5):
 
@@ -34,9 +36,25 @@ def run_rag(question: str, prompt_type: str = "zero_shot", top_k: int = 5):
 
     # LLM
     answer = generate_answer(final_prompt)
+    clean_answer = answer.strip()
+    clean_answer = re.sub(r"^```json", "", clean_answer, flags=re.IGNORECASE)
+    clean_answer = re.sub(r"^```", "", clean_answer)
+    clean_answer = re.sub(r"```$", "", clean_answer)
 
+    clean_answer = clean_answer.strip()
+
+    try:
+        parsed_answer = json.loads(clean_answer)
+    except Exception:
+        parsed_answer = {
+            "raw_response": answer
+        }
     return {
         "question": question,
         "context": context,
-        "answer": answer
+        "answer": (
+        parsed_answer.model_dump()
+        if isinstance(parsed_answer, ContractAnalysis)
+        else parsed_answer
+        )
     }
