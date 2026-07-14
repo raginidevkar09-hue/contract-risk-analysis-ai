@@ -12,6 +12,7 @@ from src.retrieval.retriever import retrieve
 from src.rag.prompt_factory import get_prompt
 from src.llm.local_llm import generate_answer
 from src.rag.output_schema import ContractAnalysis
+from src.risk_engine.rule_engine import analyze_contract
 
 def run_rag(question: str, prompt_type: str = "zero_shot", top_k: int = 5):
 
@@ -36,6 +37,7 @@ def run_rag(question: str, prompt_type: str = "zero_shot", top_k: int = 5):
 
     # LLM
     answer = generate_answer(final_prompt)
+    risk_report = analyze_contract(context)
     clean_answer = answer.strip()
     clean_answer = re.sub(r"^```json", "", clean_answer, flags=re.IGNORECASE)
     clean_answer = re.sub(r"^```", "", clean_answer)
@@ -56,5 +58,6 @@ def run_rag(question: str, prompt_type: str = "zero_shot", top_k: int = 5):
         parsed_answer.model_dump()
         if isinstance(parsed_answer, ContractAnalysis)
         else parsed_answer
-        )
+        ),
+        "risk_report": risk_report
     }

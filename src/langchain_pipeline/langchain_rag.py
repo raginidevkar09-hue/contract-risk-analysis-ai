@@ -42,5 +42,16 @@ def main():
     print("=" * 80)
     print(json.dumps(result["answer"],indent=4))
 
+    print("\n" + "=" * 80)
+    print("Risk Analysis")
+    print("=" * 80)
+
+    print(
+        json.dumps(
+            result["risk_report"],
+            indent=4
+        )
+    )
+
 if __name__ == "__main__":
     main()
