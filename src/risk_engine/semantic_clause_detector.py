@@ -79,6 +79,12 @@ def detect_semantic_clauses(
 
         }
 
+    for clause in clause_matches:
+
+        clause_matches[clause]["found"] = (
+            clause in detected
+        )
+
     return {
 
         "detected": detected,

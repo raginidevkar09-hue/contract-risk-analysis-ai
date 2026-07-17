@@ -8,7 +8,8 @@ from src.risk_engine.missing_clause_detector import detect_missing_clauses
 from src.risk_engine.semantic_clause_detector import detect_semantic_clauses
 from src.risk_engine.risk_scoring import calculate_risk
 from src.risk_engine.risk_report import generate_report
-
+from src.risk_engine.executive_summary import generate_executive_summary
+from src.risk_engine.json_export import export_json
 
 def analyze_contract(data, method="keyword"):
 
@@ -29,10 +30,11 @@ def analyze_contract(data, method="keyword"):
     )
 
     report = generate_report(
-        detected_clauses=clause_result["detected"],
-        missing_clauses=clause_result["missing"],
+        clause_matches=clause_result["matches"],
         risk_result=risk_result
     )
+
+    report["executive_summary"] = generate_executive_summary(report)
 
     return report
 
@@ -51,9 +53,20 @@ if __name__ == "__main__":
 
     from pprint import pprint
 
-    pprint(
-        analyze_contract(
-            chunks,
-            method="semantic"
-        )
+    report = analyze_contract(
+        chunks,
+        method="semantic"
+    )
+
+    from pprint import pprint
+
+    pprint(report)
+
+    print("\n")
+    print("=" * 80)
+    print(report["executive_summary"])
+
+    export_json(
+        report,
+        "data/structured/risk_report.json"
     )
