@@ -1,36 +1,46 @@
 from pathlib import Path
 import json
 
-INPUT_FOLDER = Path("data/cleaned")
-OUTPUT_FOLDER = Path("data/chunks/fixed")
-
-OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
-
 CHUNK_SIZE = 500
 
-for txt_file in INPUT_FOLDER.glob("*.txt"):
 
-    with open(txt_file, "r", encoding="utf-8") as f:
-        text = f.read()
-
-    chunks = [
-        text[i:i + CHUNK_SIZE]
-        for i in range(0, len(text), CHUNK_SIZE)
+def fixed_chunk_text(text: str, chunk_size: int = CHUNK_SIZE):
+    """
+    Split text into fixed-size chunks.
+    Returns a list of text chunks.
+    """
+    return [
+        text[i:i + chunk_size]
+        for i in range(0, len(text), chunk_size)
     ]
 
-    data = []
 
-    for i, chunk in enumerate(chunks, start=1):
-        data.append({
-            "chunk_id": i,
-            "text": chunk
-        })
+if __name__ == "__main__":
 
-    with open(
-        OUTPUT_FOLDER / f"{txt_file.stem}.json",
-        "w",
-        encoding="utf-8"
-    ) as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+    INPUT_FOLDER = Path("data/cleaned")
+    OUTPUT_FOLDER = Path("data/chunks/fixed")
 
-print("Fixed Chunking Completed")
+    OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+
+    for txt_file in INPUT_FOLDER.glob("*.txt"):
+
+        text = txt_file.read_text(encoding="utf-8")
+
+        chunks = fixed_chunk_text(text)
+
+        data = [
+            {
+                "chunk_id": i + 1,
+                "text": chunk
+            }
+            for i, chunk in enumerate(chunks)
+        ]
+
+        output_file = OUTPUT_FOLDER / f"{txt_file.stem}.json"
+
+        output_file.write_text(
+            json.dumps(data, indent=4, ensure_ascii=False),
+            encoding="utf-8"
+        )
+
+    print("Fixed Chunking Completed")

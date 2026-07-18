@@ -37,7 +37,15 @@ def run_rag(question: str, prompt_type: str = "zero_shot", top_k: int = 5):
 
     # LLM
     answer = generate_answer(final_prompt)
-    risk_report = analyze_contract(context)
+    chunks = [
+        chunk["text"]
+        for chunk in results
+    ]
+
+    risk_report = analyze_contract(
+        chunks,
+        method="semantic"
+    )
     clean_answer = answer.strip()
     clean_answer = re.sub(r"^```json", "", clean_answer, flags=re.IGNORECASE)
     clean_answer = re.sub(r"^```", "", clean_answer)

@@ -2,15 +2,11 @@ from pathlib import Path
 import re
 import html
 
-INPUT_FOLDER = Path("data/extracted")
-OUTPUT_FOLDER = Path("data/cleaned")
 
-OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
-
-for txt_file in INPUT_FOLDER.glob("*.txt"):
-
-    with open(txt_file, "r", encoding="utf-8") as f:
-        text = f.read()
+def clean_text(text: str) -> str:
+    """
+    Clean extracted contract text.
+    """
 
     text = html.unescape(text)
 
@@ -27,11 +23,25 @@ for txt_file in INPUT_FOLDER.glob("*.txt"):
 
     text = text.strip()
 
-    output_file = OUTPUT_FOLDER / txt_file.name
+    return text
 
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(text)
 
-    print(f"Cleaned: {txt_file.name}")
+if __name__ == "__main__":
 
-print("All files cleaned successfully.")
+    INPUT_FOLDER = Path("data/extracted")
+    OUTPUT_FOLDER = Path("data/cleaned")
+
+    OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+
+    for txt_file in INPUT_FOLDER.glob("*.txt"):
+
+        text = txt_file.read_text(encoding="utf-8")
+
+        cleaned = clean_text(text)
+
+        output_file = OUTPUT_FOLDER / txt_file.name
+        output_file.write_text(cleaned, encoding="utf-8")
+
+        print(f"Cleaned: {txt_file.name}")
+
+    print("All files cleaned successfully.")

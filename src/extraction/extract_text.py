@@ -1,37 +1,40 @@
 import fitz
-from pathlib import Path
 
-RAW_FOLDER = Path("data/raw")
-OUTPUT_FOLDER = Path("data/extracted")
 
-OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+def extract_text(pdf_path: str) -> str:
+    """
+    Extract text from a single PDF file.
+    """
 
-pdf_files = list(RAW_FOLDER.glob("*.pdf"))
+    doc = fitz.open(pdf_path)
 
-if not pdf_files:
-    print("No PDF files found in data/raw/")
-else:
-    print(f"Found {len(pdf_files)} PDF(s).\n")
+    text = ""
 
-for pdf_file in pdf_files:
-    print(f"Processing: {pdf_file.name}")
+    for page in doc:
+        text += page.get_text()
 
-    try:
-        doc = fitz.open(pdf_file)
+    doc.close()
 
-        text = ""
+    return text
 
-        for page in doc:
-            text += page.get_text()
 
-        output_file = OUTPUT_FOLDER / f"{pdf_file.stem}.txt"
+if __name__ == "__main__":
+    from pathlib import Path
 
-        with open(output_file, "w", encoding="utf-8") as file:
-            file.write(text)
+    RAW_FOLDER = Path("data/raw")
+    OUTPUT_FOLDER = Path("data/extracted")
+
+    OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+
+    pdf_files = list(RAW_FOLDER.glob("*.pdf"))
+
+    print(f"Found {len(pdf_files)} PDF(s).")
+
+    for pdf in pdf_files:
+        text = extract_text(str(pdf))
+
+        output_file = OUTPUT_FOLDER / f"{pdf.stem}.txt"
+
+        output_file.write_text(text, encoding="utf-8")
 
         print(f"Saved: {output_file.name}")
-
-    except Exception as e:
-        print(f"Error processing {pdf_file.name}: {e}")
-
-print("\nAll PDFs processed successfully.")
