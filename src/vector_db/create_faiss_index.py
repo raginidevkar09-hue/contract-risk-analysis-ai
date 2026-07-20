@@ -29,6 +29,8 @@ def create_faiss_index(chunks, embeddings):
 
     for chunk, embedding in zip(chunks, embeddings):
         metadata.append({
+            "document_name": "Uploaded Contract",
+            "section": "Unknown",
             "text": chunk,
             "embedding": embedding
         })

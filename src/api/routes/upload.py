@@ -11,7 +11,11 @@ router = APIRouter(
 )
 
 
-@router.post("/")
+@router.post(
+    "/",
+    summary="Upload Contract",
+    description="Upload a PDF contract and automatically process it."
+)
 def upload_contract(file: UploadFile = File(...)):
 
     path = save_uploaded_file(file)

@@ -6,7 +6,11 @@ router = APIRouter(
 )
 
 
-@router.get("/")
+@router.get(
+    "/",
+    summary="Health Check",
+    description="Verify that the backend API is running."
+)
 def health_check():
 
     return {
